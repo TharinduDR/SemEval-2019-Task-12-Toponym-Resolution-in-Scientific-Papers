@@ -1,0 +1,1404 @@
+﻿Acquisition of Human-Type Receptor Binding Specificity
+by New H5N1 Influenza Virus Sublineages during Their
+Emergence in Birds in Egypt
+Yohei Watanabe1
+*, Madiha S. Ibrahim1,2¤
+, Hany F. Ellakany3
+, Norihito Kawashita4,5
+, Rika Mizuike1
+,
+Hiroaki Hiramatsu6
+, Nogluk Sriwilaijaroen6,7
+, Tatsuya Takagi4,5
+, Yasuo Suzuki6
+, Kazuyoshi Ikuta1
+*
+1 Department of Virology, Research Institute for Microbial Diseases (BIKEN), Osaka University, Osaka, Japan, 2 Department of Microbiology, Faculty of Veterinary Medicine,
+Alexandria University, Damanhour Branch, Egypt, 3 Department of Poultry Diseases and Hygiene, Faculty of Veterinary Medicine, Alexandria University, Edfina Branch,
+Egypt, 4 Graduate School of Pharmaceutical Sciences, Osaka University, Osaka, Japan, 5 Genome Information Research Center, Research Institute for Microbial Diseases,
+Osaka University, Osaka, Japan, 6 Health Scientific Hills, College of Life and Health Sciences, Chubu University, Aichi, Japan, 7 Faculty of Medicine, Thammasat University
+(Rangsit Campus), PathumThani, Thailand
+Abstract
+Highly pathogenic avian influenza A virus subtype H5N1 is currently widespread in Asia, Europe, and Africa, with 60%
+mortality in humans. In particular, since 2009 Egypt has unexpectedly had the highest number of human cases of H5N1
+virus infection, with more than 50% of the cases worldwide, but the basis for this high incidence has not been elucidated. A
+change in receptor binding affinity of the viral hemagglutinin (HA) from a2,3- to a2,6-linked sialic acid (SA) is thought to be
+necessary for H5N1 virus to become pandemic. In this study, we conducted a phylogenetic analysis of H5N1 viruses isolated
+between 2006 and 2009 in Egypt. The phylogenetic results showed that recent human isolates clustered disproportionally
+into several new H5 sublineages suggesting that their HAs have changed their receptor specificity. Using reverse genetics,
+we found that these H5 sublineages have acquired an enhanced binding affinity for a2,6 SA in combination with residual
+affinity for a2,3 SA, and identified the amino acid mutations that produced this new receptor specificity. Recombinant H5N1
+viruses with a single mutation at HA residue 192 or a double mutation at HA residues 129 and 151 had increased
+attachment to and infectivity in the human lower respiratory tract but not in the larynx. These findings correlated with
+enhanced virulence of the mutant viruses in mice. Interestingly, these H5 viruses, with increased affinity to a2,6 SA, emerged
+during viral diversification in bird populations and subsequently spread to humans. Our findings suggested that emergence
+of new H5 sublineages with a2,6 SA specificity caused a subsequent increase in human H5N1 influenza virus infections in
+Egypt, and provided data for understanding the virus's pandemic potential.
+Citation: Watanabe Y, Ibrahim MS, Ellakany HF, Kawashita N, Mizuike R, et al. (2011) Acquisition of Human-Type Receptor Binding Specificity by New H5N1
+Influenza Virus Sublineages during Their Emergence in Birds in Egypt. PLoS Pathog 7(5): e1002068. doi:10.1371/journal.ppat.1002068
+Editor: Ron A. M. Fouchier, Erasmus Medical Center, Netherlands
+Received December 22, 2010; Accepted March 30, 2011; Published May 26, 2011
+Copyright: ß 2011 Watanabe et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by a Grant-in Aid for Scientific Research (20406025) from the Ministry of Education, Culture, Sports, Science and Technology
+(http://www.mext.go.jp/english/), Japan (Scientific Research (B), Overseas Academic Research) and Global COE Program from the Japan Society for the Promotion
+of Science (http://www.jsps.go.jp/english/), Japan. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the
+manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: nabe@biken.osaka-u.ac.jp (YW); Ikuta@biken.osaka-u.ac.jp (KI)
+¤ Current address: Department of Microbiology, Faculty of Veterinary Medicine, Damanhour University, Damanhour, Egypt
+Introduction
+Since the emergence of highly pathogenic avian influenza virus
+subtype H5N1 (HPAI H5N1) in 1996, outbreaks have continued
+in a variety of domestic and wild birds as well as sporadic
+transmission to humans [1]. Over time, H5N1 viruses have
+diversified and are currently grouped into clades 0 to 9 according
+to the unified nomenclature system [2]. Since 2006, clade 2.2,
+which originated from a large outbreak in wild bird populations at
+Qinghai Lake in western China [3,4], has spread rapidly over
+central Asia, Europe, the Middle East, and Africa [5,6]. Clade 2.2
+has further diversified forming the third-order clade 2.2.1 and
+three phylogenetically distinct sublineages (I, II and III) within
+clade 2.2 [7,8].
+Although the current H1N1 pandemic [9] may have diverted
+attention from the continuing worldwide circulation of H5N1
+virus, the pandemic threat of H5N1 is still alarming. The
+cumulative number of confirmed human cases of H5N1 infection
+reported to the World Health Organization (WHO) to date is 504
+with a 60% mortality [10]. According to the World Organization
+for Animal Health, HPAI H5N1 has become endemic in some
+areas where human cases constitute more than 80% of the total
+[10], indicating bird-human H5N1 virus transmission; e.g., China,
+Indonesia, Viet Nam and Egypt [11].
+Since 2006, H5N1 viruses have spread across countries in
+western, eastern, and northern Africa, where viruses belonging to
+clade 2.2.1 and three sublineages (I, II and III) of clade 2.2 have
+been detected [7,8]. As of October 2010, WHO has reported 114
+laboratory-confirmed human cases on the African continent [10].
+Egypt has experienced a relatively large number of human
+infections with 112 confirmed cases reported since 2006, when
+H5N1 was first identified in Egypt. In particular, the cumulative
+PLoS Pathogens | www.plospathogens.org 1 May 2011 | Volume 7 | Issue 5 | e1002068
+number since 2009 is notable: 61 confirmed cases in Egypt. The
+worldwide number since is also 112 cases. This indicates that the
+recent human H5N1 cases in Egypt are more than 50% of the
+total worldwide. The other 2 human cases of H5N1 virus infection
+in Africa were reported from Nigeria and Djibouti. The reason(s)
+for such a high number of human H5N1 cases in Egypt has not
+been elucidated.
+Influenza viruses target glycosylated oligosaccharides that
+terminate in a sialic acid (SA) residue [12­14]. These residues
+are bound to glycans through an a2,3, a2,6, a2,8 or a2,9 linkage
+by sialyltransferases that are expressed in a tissue- and species-
+specific manner [15­17]. For example, human upper airway
+epithelia express mostly a2,6-linked SA (a2,6 SA) [18], whereas
+duck intestinal epithelia express mainly a2,3-linked SA (a2,3 SA)
+[19]. Efficient human-human transmission is necessary for
+influenza A virus to become pandemic. Although the determinants
+of efficient human-human transmission are not fully understood, it
+is believed that a change of receptor specificity from a2,3 SA, to
+which avian influenza A viruses preferentially bind, to a2,6 SA, to
+which human influenza viruses preferentially bind, is essential
+[12,20,21]. Although H5N1 viruses still lack the ability for efficient
+human-human transmission, the current prevalence of H5N1
+might allow the virus to acquire mutations enabling a2,6 SA
+recognition. Thus, it is important to monitor the receptor binding
+affinity of H5N1 viruses in endemic areas and evaluate molecular
+mechanisms that might promote their pandemic potential.
+In this study, we carried out a phylogenetic analysis of avian and
+human H5N1 viruses circulating in Egypt. The resulting virus
+phylogenetic tree indicated emergence of new H5 sublineages with
+each sublineage containing only or mostly human isolates, leading
+us to hypothesize that the HAs of these viruses might have acquired
+amino acid change(s) enabling a2,6 SA binding and resulting in the
+large number of human H5N1 cases in Egypt. Therefore, in this
+study we examined the receptor binding affinity of H5N1 viruses
+isolated in Egypt using sialylglycopolymers and human respiratory
+tract tissues, and assessed the effect of the amino acid changes in the
+HAs on viral replication in human airway epithelia in vitro and
+virulence in mice in vivo. We show here that these H5N1 viruses,
+during their spread in local bird populations, acquired mutations in
+their HAs that produced a2,6 SA binding affinity, providing a
+model for influenza virus phylogeny.
+Results
+Phylogeny of H5N1 viruses circulating in Egypt
+We studied the evolution of H5N1 influenza viruses in Egypt by
+analyzing the sequences of 106 viruses isolated there from birds
+and humans between 2006 and 2009: 85 sequences were obtained
+from the National Center for Biotechnology Information (NCBI)
+database, and 21 sequences were newly obtained in this study. At
+the time of this investigation, these 106 sequences represented
+40% of the complete and partial H5N1 virus sequences from
+Egypt in public databases. HPAI H5N1 emerged in Egypt first in
+poultry in 2006, swiftly spread to many species of birds in different
+geographic regions [11,22], and was declared endemic in 2008
+[11]. Human infections started shortly thereafter and reached 112
+cases by October 2010 [1,10].
+Phylogenetic analysis of the 106 H5N1 virus HA genes showed
+that all of these HA genes clustered in clade 2.2.1, with some of
+these viruses forming several new H5 sublineages (Figure 1). H5N1
+isolates from 2006­2007 were interspersed throughout the
+phylogenetic tree, indicating rapid spread of the ancestral HA
+gene. In contrast, most human and avian isolates from 2008­2009
+were clustered separately in distinct sublineages, denoted here as
+sublineages A, B (I, II), C and D. These phylogenetic relationships
+indicated that during 2007­2008 the genetic diversity of H5 HA in
+Egypt increased dramatically and resulted in the establishment of
+distinct human and avian sublineages. Conversely, phylogenetic
+analysis of viral neuraminidase (NA) genes revealed that these
+genes were less divergent (Figure S1), with branches and tree
+topology different than the HA tree. The NA sequences formed a
+single monophyletic cluster which included the virus with the
+ancestral HA gene. These findings suggested that H5N1 viruses
+circulating in Egypt have diversified without significant genetic
+linkage, at least between the HA and NA genes.
+SA binding specificity of H5N1 viruses isolated in Egypt
+The phylogenetic distribution of human and avian isolates in
+Egypt prompted us to investigate whether recent Egyptian isolates
+had an altered receptor binding specificity. To determine the a2,3
+SA- and a2,6 SA-binding affinity of these isolates, we performed
+direct binding assays with SAa2,3Gal and SAa2,6Gal sialylglyco-
+polymers [23,24]. Six H5N1 isolates from outbreaks in Egypt
+during 2007­2009 were tested: A/duck/Egypt/D1Br12/2007
+(EG/D1), A/chicken/Egypt/C1Tr13/2007 (EG/C1), A/chicken/
+Egypt/RIMD11-1/2008 (EG/11), A/chicken/Egypt/RIMD12-3/
+2008 (EG/12), A/chicken/Egypt/RIMD28-1/2009 (EG/28), and
+A/chicken/Egypt/RIMD29-3/2008 (EG/29). EG/D1 and EG/
+C1 were isolated from 2007 outbreaks, shared .99% homology
+with H5N1 viruses isolated in 2006, and in our phylogenetic tree did
+not form a sublineage or group with other H5N1 viruses isolated in
+Egypt, implying that they emerged before the establishment of new
+sublineages in Egypt and indicating that they were phylogentically
+close to the original H5N1 genotype in Egypt. The other four
+isolates belonged to the new H5 phylogenetic sublineages (Figure 1),
+indicating that they emerged during more recent H5N1 outbreaks.
+Preliminary experiments to determine optimal binding assay
+conditions showed the importance of using appropriate virus
+titers (i.e., hemagglutination titers), because high virus titers
+produced exaggerated signals for the weakly binding glycopoly-
+mer (a2,6 SA) and low titers only detected binding to the high-
+affinity glycopolymer (a2,3 SA) (Figure S2). For example, EG/
+Author Summary
+Even though highly pathogenic avian H5N1 influenza
+viruses lack an efficient mechanism for human-human
+transmission, these viruses are endemic in birds in China,
+Indonesia, Viet Nam and Egypt. Hotspots for bird-human
+transmission are indicated in areas where human cases are
+more than 80% of total H5N1 influenza cases. Circulation
+among hosts may allow H5N1 virus to acquire amino acid
+changes enabling efficient bird-human transmission and
+eventually human-human transmission. The receptor
+specificity of viral hemagglutinin (HA) is considered a
+main factor affecting efficient transmissibility. Several
+amino acid substitutions in H5 virus HAs that increase
+their human-type receptor specificity have been described
+in virus isolates from patients, but their prevalence has
+been limited. In contrast, we show here that new H5
+sublineages in Egypt have acquired a change in receptor
+specificity during their diversification in birds. We found
+that viruses in those sublineages exhibited increased
+attachment and infectivity in the human lower respiratory
+tract, but not in the larynx. Our findings may not allow a
+conclusion on the high pandemic potential of H5N1 virus
+in Egypt, but helps explain why Egypt has recently had the
+highest number of human H5 cases worldwide.
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 2 May 2011 | Volume 7 | Issue 5 | e1002068
+D1, which was expected to have a classical avian influenza virus
+a2,3 SA specificity, showed strong binding to a2,3 SA as
+expected, but also measurable binding to a2,6 SA when the virus
+titer was increased to 512 HAU. Conversely, EG/12, which was
+assumed to have increased a2,6 SA specificity because it
+clustered with human sublineage A strains, showed a complete
+loss of a2,6 SA binding with increasing dilution of the HA titer to
+8 HAU. From these results, HA titers from 32 to 128 HAU
+appeared to be optimal for comparison of receptor binding
+specificity with our experimental conditions. Therefore, HA
+titers of all virus samples were adjusted to an HA titer of 64
+HAU, relative to a reference EG/D1 sample, and used for the
+following binding assays.
+EG/D1, EG/C1, EG/11, EG/28 and EG/29 viruses had
+binding specificity for a2,3 SA (Figure 2C­2G). The association
+constants are shown in Table S1. The binding patterns closely
+resembled the strong a2,3 SA binding specificity observed with an
+avian influenza H5N3 virus, A/Duck/Hong Kong/820/80
+(Figure 2B). In contrast, EG/12 virus had appreciably increased
+binding to a2,6 SA, with binding to both a2,3 SA and a2,6 SA
+(Figure 2H). However, the EG/12 binding affinity for a2,6 SA was
+less than that of the seasonal human influenza virus A/Japan/
+434/2003 (Figure 2A). This was confirmed by direct binding
+assays using recombinant viruses generated by reverse-genetics:
+each recombinant virus contained one of the HA genes in a
+background of all of the other EG/D1 virus genes (denoted here as
+rEG/D1) (Figure 2I­2M). To investigate other sublineage A and B
+viruses, we synthesized the HAs of three H5N1 viruses isolated in
+Egypt: a bird isolate; A/goose/Egpt/0929-NLQP/2009 (EG/
+0929); and two human isolates; A/Egypt/N04822/2009 (EG/
+4822) and A/Egypt/N02039/2009 (EG/2039). The receptor
+specificities of these viruses were determined and showed that
+the H5 HAs of these recent isolates also had increased a2,6 SA
+binding (Figure 2N­2P). These results indicated differences in HA
+affinity to a2,6 SA among recent H5 isolates, together with an
+affinity to a2,3 SA.
+Identification of amino acid mutations in viral HAs
+enabling a2,6 SA binding
+To identify mutations enabling a2,6 SA binding, we focused on
+viruses in sublineages A and B, to which most human isolates
+belonged. Comparison of 6 HA sequences of sublineage A viruses
+with 100 HA sequences of other H5 viruses isolated in Egypt
+identified two amino acid changes in the sublineage A virus HAs
+(Table 1): Q192H and S235P (H5 HA numbering). Introduction
+of the Q192H mutation into EG/D1 HA (denoted rEG/D1Q192H)
+markedly increased viral binding to a2,6 SA (Figure 3A).
+However, introduction of the S235P mutation into EG/D1 HA
+(denoted rEG/D1S235P) only slightly increased a2,6 SA binding.
+There was no synergistic effect with both mutations: the double
+Figure 1. Phylogenetic tree of HA genes of H5N1 viruses
+isolated in Egypt. This tree includes published HA sequences of 85
+H5N1 influenza A viruses isolated in Egypt, from the National Center for
+Biotechnology Information database (minimum sequence length
+1,644 nt), and 21 HA sequences determined in this study (sequence
+length 1,707 nt). The newly analyzed sequences in this study are
+marked with a black circle. The strains whose HA sequences were
+determined in this study and were analyzed further for receptor binding
+specificity are marked with a red circle. The strains whose HA sequences
+were previously reported and were analyzed for receptor binding
+specificity in this study are marked with a blue circle. Colors are used to
+highlight virus strains with different hosts, isolation year and
+sublineage.
+doi:10.1371/journal.ppat.1002068.g001
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 3 May 2011 | Volume 7 | Issue 5 | e1002068
+mutant had similar a2,6 SA binding to that of the single Q192H
+mutant. In contrast, the H192Q mutation, but not the P235S
+mutation, in HAs of EG/12 (denoted rEG/D1-EG/12 HAH192Q)
+and EG/4822 decreased a2,6 SA binding (Figures 3B and S3A).
+These findings suggested that the Q192H mutation in H5N1 avian
+viruses increased the binding affinity of HA for the human
+receptor.
+The HA sequences of the 19 H5N1 viruses in sublineage BI
+(denoted sublineage A1 in a previous report [25]) differed from the
+87 HA sequences of other H5N1 viruses isolated in Egypt at three
+Figure 2. Receptor-binding specificity of H5N1 viruses isolated in Egypt. Direct binding of viruses to sialylglycopolymers containing either
+a2,3-linked (blue) or a2,6-linked (red) sialic acids was measured. (A) Seasonal human influenza H3N2 virus. (B) Avian influenza H5N3 virus. (C)­(H)
+Isolates from 2007­2009 outbreaks in Egypt. (I)­(P) Recombinant EG/D1 viruses with different HAs as indicated. Each data point is the mean 6 SD of
+triplicate experiments.
+doi:10.1371/journal.ppat.1002068.g002
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 4 May 2011 | Volume 7 | Issue 5 | e1002068
+HA amino acid residues: S120N, 129 deletion (D) and I151T
+(Table 1). When introduced as a single mutation into EG/D1
+HA, none of these amino acid changes increased binding
+to a2,6 SA (Figure 4A). However, the 129D/I151T double
+mutation increased a2,6 SA binding. In contrast, both the 129S
+insertion and the T151I mutation in the HAs of EG/0929 and
+EG/2039 decreased a2,6 SA binding (Figures 4B and S3B). These
+results suggested that the 129D and I151T mutations acted
+synergistically to enable a2,6 SA binding by sublineage BI viruses.
+Sublineage BII viruses have four mutations: the three mutations
+found in sublineage BI viruses plus an additional V210I mutation
+(Table 1). When introduced as a single mutation in the HA of EG/
+D1, V210I partially increased a2,6 SA binding, but there was not
+an appreciable increase in binding in the V210I/129D/I151T
+triple mutant (Figure 5). These results suggested that the V210I
+mutation did not increase a2,6 SA binding in sublineage BII
+viruses above that of the 129D/I151T double mutation.
+Genetic properties of H5N1 viruses in sublineages A, BI
+and BII
+The phylogenetic trees of sublineages A, BI and BII suggested
+human viruses in these sublineages emerged from avian viruses in
+these sublineages or closely related avian viruses (Figure 1). The
+amino acid changes in HA enabling a2,6 SA binding in sublineage A
+(Q192H) and sublineage BI viruses (129D/I151T) were not found in
+human H5N1 influenza viruses phylogenetically unrelated to
+sublineage A and B strains (data not shown), indicating that these
+mutations were associated with the phylogeny of avian H5N1
+sublineage A and B viruses in Egypt. A database search of virus gene
+sequences posted since 2006 also revealed that the prevalence of
+these amino acid changes increased in human influenza virus HAs in
+Egypt concurrently with an increase in avian influenza viruses in
+Egypt (Table 2), although most of the recent avian influenza virus
+isolates were in sublineages C and D (Figure 1). In contrast, an
+increased prevalence has not been detected in either birds or humans
+in Asia. These findings suggested that H5N1 avian viruses in Egypt
+acquired binding affinity for a2,6 SA during viral diversification in
+local bird populations, which may have contributed to subsequent
+virus transmission to humans with higher efficiency.
+Attachment of rEG/D1 viruses in the human respiratory
+tract
+To investigate whether mutations in avian virus HAs enabling
+a2,6 SA binding function with similar specificity in the human
+respiratory tract, the attachment pattern of selected viruses to fixed
+tissues of the human upper and lower respiratory tract (i.e., larynx,
+trachea and alveoli) was determined by histochemistry. Histo-
+chemical analysis can provide clinically relevant data on virus
+attachment in human airway epithelia [26,27] and on the glycan
+topologies that influenza viruses target for cell-specific infections in
+airway epithelia [28,29]. Human H3N2 virus, which was used as a
+control, attached extensively to ciliated epithelial cells in the larynx
+and trachea and, to lesser degree, to alveolar cells (type I
+pneumocytes; Figure 6). In contrast, rEG/D1, rEG/D1-EG/11
+HA and rEG/D1-EG/29 HA attached predominantly to alveolar
+cells (type II pneumocytes), with little attachment in larynx and
+trachea, as found for avian H5N3 virus. The attachment pattern of
+rEG/D1-EG/12 HA was different from the classical avian pattern
+found for H5N3: little attachment to larynx, moderate attachment
+to trachea, and significant attachment to alveoli (both type I and II
+pneumocytes). The attachment patterns of the rEG/D1Q192H,
+rEG/D1129D,I151T and rEGD1129D,I151T,V210I mutants were sim-
+ilar to that of rEG/D1-EG/12 HA. However, all three mutant
+viruses attached less abundantly to trachea than the H3N2 virus.
+Also, rEG/D1-EG/12 HAH192Q showed an attachment pattern
+similar to that of rEG/D1, with rare attachment to trachea. We
+also performed virus histochemistry on sialidase-treated sections,
+which abrogated all staining confirming that the viruses in this
+study did not bind to non-sialic acid residues (Figure S4). Although
+not quantitative, these results indicated that mutations enabling
+a2,6 SA binding are clinically significant in affecting the affinity of
+HA for receptors in the human respiratory tract.
+Replication of rEG/D1 viruses in a human airway
+epithelial culture
+To examine whether the HA mutations enabling a2,6 SA
+binding also affected virus replication in human airway cells, we
+studied virus growth in primary human small airway epithelial
+cells (SAEC) by infecting these cells with selected recombinant
+viruses and human H3N2 virus, which was used as a control, at a
+multiplicity of infection (MOI) of 1 or 0.1 and monitoring viral
+growth kinetics and cytopathicity for 72 h post-infection. For
+comparison, we studied viral growth kinetics in chicken embryo
+fibroblast (CEF) cells infected at an MOI of 0.1 or 0.01. All viruses
+replicated well in CEF cells and produced .107
+focus-forming
+units (FFU)/ml at 24 and 48 h post-infection. The difference in
+titers of these viruses was ,1 log FFU/ml at each time point,
+indicating that all of the viruses replicated equally well in avian-
+Table 1. Mutations in HA genes in H5 viruses in sublineages A, BI and BII.
+Sublineage (no. of strains
+in sublineage) Isolation year Mutation in HAa
+% of strains with mutation (no. of strains with
+mutation/total no. of strains)
+A (6) 2008­2009 Q192H 100 (6/6)
+S235P 100 (6/6)
+BI (19) 2007­2009 S120N 94 (18/19)
+129D 100 (19/19)
+I151T 100 (19/19)
+BII (5) 2009 S120N 100 (5/5)
+129D 100 (5/5)
+I151T 100 (5/5)
+V210I 100 (5/5)
+a
+H5 numbering, D denotes deletion.
+doi:10.1371/journal.ppat.1002068.t001
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 5 May 2011 | Volume 7 | Issue 5 | e1002068
+derived cells (Figure 7A). These results confirmed that there was
+no incompatibility between EG/12 HA and EG/D1 NA or
+between mutated EG/D1 HA and EG/D1 NA in the recombi-
+nant viruses generated for this study (compare the kinetics of
+parental EG/D1 and rEG/D1 viruses in Figure 7A). In contrast,
+in SAEC cells (Figure 7B), rEG/D1Q192H, rEGD1129D,I151T and
+rEG/D1-EG/12 HA replicated more efficiently than rEG/D1
+and rEG/D1-EG/12 HAH192Q, with slight differences in their
+growth, and a final virus titer of rEG/D1Q192H . rEG/
+D1129D,I151T . rEG/D1-EG/12 HA. These viruses replicated in
+SAEC cells and reached titers more similar to those of human
+H3N2 virus than of parental EG/D1, especially at a higher
+inoculum. The difference in virus growth kinetics correlated with
+cytopathicity in SAEC cells: rEG/D1Q192H, rEG/D1129D,I151T
+and rEG/D1-EG/12 HA produced more severe cytopathic effects
+and resulted in more detachment of infected cells at 24, 48 and
+Figure 3. Effect of HA mutations in sublineage A viruses on receptor specificity of EG/D1 virus HA. (A) The two mutations found in the
+HAs of sublineage A viruses were introduced into the HA of EG/D1 virus as single and double mutations. (B) The reverse mutations were introduced
+into the HA of EG/12 virus. Direct binding to sialylglycopolymers containing either a2,3-linked (blue) or a2,6-linked (red) sialic acid was assayed.
+Mutations are indicated by subscripts. Each data point is the mean 6 SD of triplicate experiments.
+doi:10.1371/journal.ppat.1002068.g003
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 6 May 2011 | Volume 7 | Issue 5 | e1002068
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 7 May 2011 | Volume 7 | Issue 5 | e1002068
+72 h post-infection than rEG/D1 and rEG/D1-EG/12 HAH192Q
+(Figure 7C). These results indicated that the Q192H mutant and
+the 129D/I151T double mutant produced a substantial viral
+growth advantage in human airway epithelial cells.
+Effect of HA mutations on virulence of rEG/D1 viruses in
+mice in vivo
+To assess the effect of enhanced a2,6 SA binding on
+pathogenicity of H5N1 isolates from Egypt, BALB/c mice were
+inoculated intranasally with different dilutions of selected recom-
+binant viruses. Mice inoculated with 36104
+FFU rEG/D1Q192H,
+rEG/D1129D,I151T or rEG/D1-EG/12 HA showed considerable
+weight loss (Figure 8A). In contrast, mice inoculated with 36104
+FFU rEG/D1 or rEG/D1-EG/12 HAH192Q showed no clinical
+effects during the 14 d observation period, and most mice infected
+with 36105
+FFU of these viruses survived. The lethality of rEG/
+D1Q192H, rEG/D1129D,I151T and rEG/D1-EG/12 HA was
+substantially higher: the MLD50 was 8.86102
+FFU for rEG/
+D1Q192H, 1.56103
+FFU for rEG/D1129D,I151T and 1.36104
+FFU
+for rEG/D1-EG/12 HA (Figure 8B), .50 times less than the
+MLD50 of 5.96105
+FFU for both rEG/D1 and rEG/D1-EG/12
+HAH192Q. Consistent with this result, the virus yield in lungs of
+mice infected with 36104
+FFU of the three viruses was .10-fold
+higher 4 d post-infection and .110-fold higher 7 d post-infection,
+and at a dose of 36105
+FFU was .70-fold higher 4 d post-
+infection than with parental rEG/D1 virus (Figure 8C).
+Lungs of mice infected with 36104
+FFU viruses were examined
+by histopathology at 7 d post-infection. Mice infected with rEG/
+D1Q192H, rEG/D1129D,I151T or rEG/D1-EG/12 HA had much
+more dramatic pathological changes in their pulmonary airways
+and parenchymal tissues. The lungs had moderate to severe
+bronchiolar necrosis and alveolitis with associated hyperplasia,
+pulmonary edema and inflammatory cell infiltrates (Figure 9C­
+9E). In contrast, lung pathology of rEG/D1 and rEG/D1-EG/12
+HAH192Q infected mice showed signs of limited lymphohistiocytic
+cell extravasations (Figure 9B and 9F). Mock-infected mice did not
+have lesions in their lungs (Figure 9A). H5 antigen was more
+extensively detected by immunohistochemistry in the alveolar area
+of lungs infected with rEG/D1Q192H, rEG/D1129D,I151T or rEG/
+D1-EG/12 HA than in lungs infected with rEG/D1 and rEG/D1-
+EG/12 HAH192Q (Figure 9G­9L). Weak antigen staining was only
+rarely detected in the bronchiolar area in lungs of mice infected
+with rEG/D1 and rEG/D1-EG/12 HAH192Q (see insert in
+Figure 9H and 9L). Therefore, the difference in lethality in mice
+Figure 4. Effect of HA mutations in sublineage BI viruses on receptor specificity of EG/D1 HA. (A) The mutations found in sublineage BI
+viral HAs were introduced as single and multiple mutations into the HA of EG/D1 virus. (B) The reverse mutations were introduced into the HA of EG/
+0929 virus. Direct binding to sialylglycopolymers containing either a2,3-linked (blue) or a2,6-linked (red) sialic acid was measured. Mutations are
+indicated by subscripts. Each data point is the mean 6 SD of triplicate experiments.
+doi:10.1371/journal.ppat.1002068.g004
+Figure 5. Effect of HA mutations in sublineage BII viruses on receptor specificity of EG/D1 HA. The mutations found in sublineage BII
+viral HAs were introduced as single and multiple mutations into the HA of EG/D1 virus. Direct binding to sialylglycopolymers containing either a2,3-
+linked (blue) or a2,6-linked (red) sialic acid was measured. Mutations are indicated by subscripts. Each data point is the mean 6 SD of triplicate
+experiments.
+doi:10.1371/journal.ppat.1002068.g005
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 8 May 2011 | Volume 7 | Issue 5 | e1002068
+infected with these viruses was grossly correlated with the growth
+kinetics and cytopathicity of the viruses in human airway epithelial
+cells. Collectively, these results indicated that enhanced receptor
+specificity in vivo enabled rEG/D1Q192H, rEG/D1129D,I151T and
+rEG/D1-EG/12 HA to infect mice at lower titers than rEG/D1
+and rEG/D1-EG/12 HAH192Q.
+Effect of mutations on structural changes in EG/D1 HA
+To investigate the structural basis for the changes in human
+receptor-binding specificity in viruses in the new sublineages, we
+generated models of the HA structures of EG/D1, EG/D1Q192H
+and EG/D1129D,I151T from the crystal structure of the HA of A/
+Vietnam/1194/04 (H5N1) (Protein Data Bank ID (PDBID) code
+2IBX) [24], and performed a docking study with these models and
+two types of ligands, SAa2,3Gal (PDIBID code 1MQM) and
+SAa2,6Gal (PDIBID code 1MQN). In our modeling, HA residues
+120, 210 and 235 were distant from the receptor binding sites in
+the EG/D1 HA structure, whereas residues 129, 151 and 192
+were located around them (Figure 10A and 10B). A Gln192 to
+histidine mutation (and a Gln192 to arginine mutation) generated
+a positively-charged side chain in the HA carbon backbone at this
+position, which has been reported [24] to stabilize contact of
+SAa2,6 Gal-terminated polysaccharides with H5 HA by forming a
+hydrogen bond with human receptor moieties (also see Discussion
+below). In addition, deletion of Ser129 led to a hydrogen bond
+between side chains of the HA carbon backbone at Glu127 and
+Thr151, affecting orientation of the 130-Loop (Figure 10C).
+Therefore, the double 129D/I151T mutation might affect the
+contact angle between human-type receptor ligands and viral HA.
+In our simulation, the Udock scores of the complexes between the
+SAa2,6 human-type receptor ligand and EG/D1, EG/D1Q192H
+and EG/D1129D,I151T HA were 213.51, 218.05 and 216.48 kcal/
+mol, respectively (Figure 10C). Therefore, the Udock scores of the
+complexes bound to EG/D1Q192H and EG/D1129D,I151T HA were
+more negative than with parental EG/D1 HA, indicating more
+energetically stable interactions of the mutant HAs with the human
+receptor analog. In contrast, the Udock scores of the complexes
+between the SAa2,3 avian-type receptor ligand and EG/D1, EG/
+D1Q192H and EG/D1129D,I151T HA were relatively similar (214.19,
+215.27 and 212.16 kcal/mol, respectively), with the Udock scores
+of the complexes bound to EG/D1Q192H and EG/D1129D,I151T HA
+not appreciably more negative than with EG/D1 HA. These results
+indicated that HAs of the viruses in the new sublineages have
+structurally and energetically more stable conformations for binding
+human receptors.
+Discussion
+In this study of H5N1 avian and human influenza viruses
+isolated in Egypt, we found that these viruses clustered in several
+new H5 sublineages, with a higher than expected binding affinity
+for a2,6 SA, and identified the amino acid mutations responsible
+for this expanded receptor specificity. Our phylogenetic analyses
+also indicated that these viruses emerged during 2007­2008
+outbreaks in Egypt. This time overlaps with or slightly precedes an
+increase in the number of human cases of H5N1 virus infection in
+Egypt [1,10].
+HA plays an important role in the attachment of influenza
+viruses to host cells and, therefore, influences viral host range and
+pathogenicity [12,30­32]. In this study of H5N1 virus (clade
+2.2.1), we found that an HA Q192H single mutation or a 129D/
+I151T double mutation increased viral binding to a2,6 SA and
+increased infection in human airway epithelia. Previous assays [24]
+of A/Vietnam/3028II/04 virus (clade 1) and A/chicken/Indone-
+sia/N1/05 (clade 2.1) binding to sialylglycopolymers found that an
+HA Q192R mutation enhanced binding to a2,6 SA. The Q192H
+mutation identified in this study was at the same residue as the
+Q192R mutation in the A/Vietnam/3028II/04 and A/chicken/
+Indonesia/N1/05 viruses, suggesting that these two mutations
+produced a similar conformational change in HA. These structural
+changes agreed fairly well with simulation data that the mutation
+at this position in an H5 HA model electrostatically enhanced HA
+binding affinity to human-like glycan [33]. The Q192H mutation
+was not present in H5 HAs in 375 avian influenza viruses and 120
+human influenza viruses isolated in Asia, including clade 1, 2.1,
+2.2 and 2.3 viruses (Table 2). We examined codon usage in HA of
+495 H5 isolates from Asia and 254 isolates from Egypt with Q at
+residue 192 and found that all of these viruses encode 192Q using
+codon CAA. This result indicates that an amino acid change from
+Table 2. Prevalence of HA mutations characteristic of H5 sublineages A, BI and BII viruses in virus isolates from Egypt and Asia.
+% of strains showing mutation characteristic of sublineage isolated in (no. of virus strains analyzed)a,b
+Asia (495) Egypt (260)
+Birds (375) Humans (120) Birds (189) Humans (71)
+Isolation year (no. strains) Isolation year (no. strains) Isolation year (no. strains) Isolation year (no. strains)
+Sub-
+lineage
+Characteristic
+mutation
+in HA
+2006
+(181)
+2007
+(134)
+2008
+(47)
+2009
+(13)
+2006
+(95)
+2007
+(20)
+2008
+(5)
+2009
+(0)
+2006
+(37)
+2007
+(70)
+2008
+(73)
+2009
+(9)
+2006
+(16)
+2007
+(23)
+2008
+(7)
+2009
+(25)
+A Q192H 0 0 0 0 0 0 0 - 0 0 1.3 11.1 0 0 0 16.0
+S235P 93.9 98.5 97.8 100 100 100 100 - 0 1.4 5.4 11.1 0 4.3 42.8 24.0
+BI S120N 0.5 3.7 0 0 0 0 16.6 - 0 11.4 5.4 11.1 0 21.7 28.5 84.0
+129 D 0 0 0 0 0 0 0 - 0 8.5 5.4 22.2 0 21.7 28.5 84.0
+I151T 0 0.7 10.6 0 2.1 0 0 - 0 8.5 5.4 22.2 0 21.7 28.5 84.0
+BII V210I 1.6 2.2 21.2 0 0 0 0 - 0 0 0 0 0 0 0 20.0
+a
+Percent of H5N1 viruses that have mutation characteristic of sublineages A, BI and BII for each geographic region, host and year.
+b
+Sequence information from the National Center for Biotechnology Information database in addition to sequences analyzed for this study.
+- denotes no sequence information available.
+doi:10.1371/journal.ppat.1002068.t002
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 9 May 2011 | Volume 7 | Issue 5 | e1002068
+Figure 6. Attachment of rEG/D1 viruses to tissues of the human respiratory tract. The attachment patterns of A/Japan/434/2003 (H3N2), A/
+Duck/Hong Kong/820/80 (H5N3), and eight rEG/D1 viruses (rEG/D1, rEG/D1-EG/11 HA, rEG/D1-EG/29 HA, rEG/D1-EG/12 HA, rEG/D1Q192H, rEG/
+D1129D,I151T, rEG/D1129D,I151T,V210I and rEG/D1-EG/12 HAH192Q) to fixed human larynx, trachea and alveoli tissue sections were examined by
+histochemistry. Attached viruses were stained red. Arrows and arrow-heads indicate type I and type II pneumocytes, respectively. The panels were
+chosen to reflect the attachment pattern in each tissue section as much as possible.
+doi:10.1371/journal.ppat.1002068.g006
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 10 May 2011 | Volume 7 | Issue 5 | e1002068
+Q to H or R at residue 192 required a one nucleotide change
+(CAA to CAT/CAC (H) or CGA(R)). The higher frequency of a
+transversion to encode H may have enabled such a mutation to
+occur more frequently in HAs of H5 viruses in Egypt.
+Since the HA Q192R substitution might be selected during viral
+growth in a human patient and enhance a2,6 SA binding in the
+human respiratory tract [24], we constructed rEG/D1 with this
+HA substitution and found its a2,6 SA binding affinity similar to or
+slightly greater than rEG/D1Q192H and rEG/D1129D,I151T (data
+not shown). In addition, deletion of HA residue 129 was not found
+in any of the H5 HAs of the 495 Asian isolates examined, and the
+I151T substitution was only detected in H5 HAs isolated from 6
+birds and 2 human patients in Asia (1.6% and 1.7% prevalence,
+respectively). H5 HA residues 129 and 151 make atomic contact
+with sialoglycosides [34]. We showed here that the 129D mutation
+generates a new hydrogen bond between Glu127 and Thr151,
+resulting in conformational changes around the binding pocket
+(Figure 10C). This effect around the glycosidic bond in H5 HAs
+seems to be unique to the viruses isolated in Egypt. We also
+searched for similar mutations (Q192H and the double 129D/
+I151T mutation) in 4507 avian influenza viruses with HAs H1­13
+and H16 and found that only 3 bird isolates had these mutations
+(Table S2): Quail/Nanchang/12-340/2000 (H1N1), Turkey/
+Minnesota/40550/1987 (H5N2), and Ruddy turnstone/Dela-
+ware/2762/1987 (H11N2). Such mutations were not present in
+any of the H1, H2 or H3 HAs of the human isolates in the early
+years of the Spanish flu (1918), Asian flu (1957), Hong Kong flu
+(1968) and Russian flu (1977) pandemics, in which these avian
+subtypes crossed the species barrier to humans. However, it is
+noteworthy that most of the viruses in this study that clustered in
+sublineage B were reported to have evolved towards an H1N1-like
+receptor usage, to efficiently replicate in the upper respiratory
+Figure 7. Growth kinetics of rEG/D1 viruses in avian cells and human cells. (A) CEF cells were infected in triplicate with parental EG/D1 and
+five rEG/D1 viruses (rEG/D1, rEG/D1Q192H, rEG/D1129D,I151T, rEG/D1-EG/12 HA and rEG/D1-EG/12 HAH192Q) at an MOI of 0.1 or 0.01. (B) Human SAEC
+cells were infected in triplicate with the viruses at an MOI of 1 or 0.1. The culture supernatants were harvested at the indicated times and assayed for
+focus-forming units on CEF cells to determine the progeny virus titer (log10 FFU/ml). Each data point in (A) and (B) is the mean 6 SD of triplicate
+experiments. (C) Phase contrast microscopy of morphological changes in SAEC cells infected by the indicated viruses at an MOI of 0.1 and examined
+at the indicated times post-infection.
+doi:10.1371/journal.ppat.1002068.g007
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 11 May 2011 | Volume 7 | Issue 5 | e1002068
+tract, and that structural properties of the receptor binding sites of
+Spanish flu viruses and sublineage B viruses are much closer to
+each other than to other H1N1 and H5N1 viruses [35]. In
+contrast, a conformational change in HA due to S235P and
+S120N mutations was not observed in our structural model: these
+were also shown not to increase HA affinity for a2,6 SA by direct
+binding assays (data not shown).
+Our data suggested that H5N1 viruses from Egypt had acquired
+amino acid mutations enabling a2,6 SA binding during their
+transmission among birds, not during viral growth in human
+patients. First, avian isolates were at the base and within branches
+of the phylogenetic tree of new sublineages A and B, and clustered
+closely with human isolates (Figure 1). Moreover, all of the avian
+isolates already had identical mutations that contributed to
+Figure 8. Mortality and weight loss of mice infected with rEG/D1 viruses. Six-week-old BALB/c mice (7­8 mice per group) were inoculated
+intranasally with the indicated doses of rEG/D1, rEG/D1Q192H, rEG/D1129D,I151T, rEG/D1-EG/12 HA and rEG/D1-EG/12 HAH192Q. (A) Body weight of
+infected mice was monitored up to 14 d post-infection. Mean percent body weight change (6SD) for each group of mice is shown. (B) Survival of
+mice inoculated with rEG/D1 viruses. Mortality was calculated including mice that were sacrificed because they had lost more than 30% of their body
+weight. (C) Virus titers in lungs of mice infected with 36104
+or 36105
+FFU rEG/D1 at the indicated times post-infection. Circles and diamonds indicate
+values in individual mice.
+doi:10.1371/journal.ppat.1002068.g008
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 12 May 2011 | Volume 7 | Issue 5 | e1002068
+binding affinity for the human-type receptor (Tables S3, S4, S5).
+Second, critical amino acid mutations involved in a2,6 SA
+recognition (Q192H and the double 129D/I151T mutation) were
+not found in any of the H5 HAs from human isolates
+phylogenetically unrelated to sublineages A and B. Therefore, it
+is unlikely that viruses with these mutations were newly selected
+during viral growth in humans. Third, all viruses examined here
+exhibited a classical avian a2,3 SA binding affinity and replicated
+efficiently in CEF cells, suggesting that these viruses had retained
+HAs for efficient transmission among birds (Figure 7A).
+Several amino acid mutations that increase a2,6 SA binding
+affinity of H5 virus HAs have recently been described in human
+isolates [23,24,36]. It is possible that such mutations were selected
+in humans and played an important role in viral recognition of
+human-type receptors. However, there have been only limited
+reports of those mutations in H5 HAs in infections in human
+patients [23,24,36]. Considering that the mutations in H5 HAs in
+birds identified here have been found in some population of birds
+in the vicinity of humans, such viral mutations emerging in birds
+may be as important risk factors for human H5N1 infections as
+those mutations emerging in viruses infecting humans. Thus far,
+there have been few reports of HPAIV in bird populations with
+increased affinity for a2,6 SA [37].
+At present, the determinants of efficient human-human
+transmission by avian influenza viruses are not completely
+understood [21,38]. It is generally thought that both a change in
+receptor specificity from a2,3 SA to a2,6 SA and the resultant shift
+in infection to the upper respiratory tract are essential [39].
+However, most amino acid mutations in H5 HAs that have been
+reported to increase a2,6 SA binding have not conferred a
+complete change in receptor specificity in the original virus genetic
+background [23,24,40,41]. But, Chutinimitkul et al. have recently
+reported that some mutations can cause a complete change in the
+A/Indonesia/5/05 background [42]. Increased a2,6 SA binding
+affinity and reduced a2,3 SA binding affinity was also observed
+among North American lineage H7 viruses isolated in 2002­2004
+[37]. In contrast, we found that all of the H5N1 viruses in this
+study retained the classical avian a2,3 SA binding affinity
+(Figures 2­5). Histochemistry using human tissues also found that
+viruses in this study with avian H5 HA mutations had little
+attachment to the larynx, but moderate attachment to trachea and
+abundant attachment in alveoli (Figure 6), whereas human H3N2
+virus extensively bound to both the larynx and trachea. These
+results suggested that H3 and H5 viruses recognized more
+complex glycan topologies, which have not yet been fully
+elucidated in human airway epithelia [28,29]. This conclusion is
+in agreement with the suggestion that H5N1 viruses attach to
+receptors in the human upper respiratory tract that are not
+detected by lectin histochemistry and with data that H5N1 viruses
+can productively replicate in ex vivo cultures of human
+nasopharyngeal tissues [43].
+These findings suggest that currently circulating H5N1 viruses
+in Egypt lack gene products for efficient human-human
+transmission, even though they have caused a relatively large
+number of human cases in Egypt. Indeed, most human infections
+resulted from direct exposure to H5N1 virus-infected poultry or
+poultry products and no sustained human-human transmission
+has been documented to date in Egypt [1,44]. It should be noted
+that our findings do not allow determination of the potential for
+an H5N1-derived pandemic virus in Egypt. However, the
+emergence of sublineage A and B H5N1 viruses is a possible
+contributing factor to Egypt recently having the highest number
+of human H5N1 influenza virus cases in the world, with repeated
+avian infections increasing the probability of avian-human
+transmission. To our knowledge, this is the first report identifying
+amino acid changes in H5 HA responsible for an increase in
+human H5N1 infections in an endemic area.
+Mice have been an animal model for studying influenza
+[45­47]. In this study, we found that the HA mutations enabling
+a2,6 SA binding enhanced viral virulence in BALB/c mice
+(Figure 8). These results are consistent with a previous report on
+different influenza viruses and different HA amino acid residues
+Figure 9. Histopathology and immunohistochemistry in lung
+tissues of mice infected with rEG/D1 viruses. Photomicrographs
+of hematoxylin-and-eosin (H&E) stained and immunohistochemically
+(IHC) stained lung sections from mice infected with 36104
+FFU rEG/D1
+viruses 7 d post-infection are shown as follows. (A) and (G) mock-
+infected. (B) and (H) rEG/D1-infected. (C) and (I) rEG/D1Q192H-infected.
+(D) and (J) rEG/D1129D,I151T-infected. (E) and (K) rEG/D1-EG/12 HA-
+infected. (F) and (L) rEG/D1-EG/12 HAH192Q-infected. In the IHC-stained
+tissues, viral antigen is stained deep brown on a hematoxylin-stained
+background (arrows). In mice infected with rEG/D1 and rEG/D1-EG/12
+HAH192Q, positive staining was detected sporadically in the bronchiolar
+epithelium (insert).
+doi:10.1371/journal.ppat.1002068.g009
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 13 May 2011 | Volume 7 | Issue 5 | e1002068
+in a ferret model [48]. Reports on lectin histochemistry showed
+that BALB/c mice express both a2,3 and a2,6 SA in airway
+epithelia, with a2,3 SA specifically expressed in the upper
+respiratory tract and a2,6 SA expressed in pulmonary paren-
+chyma [49]. Previous histochemistry report on seasonal human
+influenza viruses H3N2 and H1N1 showed rare attachment to
+mouse type I pneumocytes, indicating the presence of glycan
+topologies in alveoli to which influenza viruses with a2,6 SA
+binding affinity attach [27]. In this study, recombinant avian H5
+viruses with single and double point mutations that should affect
+receptor binding were found to have acquired a2,6 SA binding
+affinity, and the resultant expansion of receptor specificity in vivo
+contributed to enhanced virulence in mice. Indeed, virus titers in
+the lungs of mice infected with the mutant viruses were more
+than one log higher than in mice infected with the parental virus
+(Figure 8C), corresponding to severe histopathological changes
+(Figure 9). These results were consistent with histochemistry
+showing that the mutants acquired enhanced attachment affinity
+to human type I pneumocytes (Figure 6). Type I pneumocytes
+comprise 96% of the alveolar surface area, which is extremely
+thin, thereby minimizing the diffusion distance between the
+alveolar air space and pulmonary capillary blood [50].
+Therefore, viral binding specificity for this cell type has
+implications for the development of pneumonia. However, other
+factors also need to be considered, such as the low similarity of
+the SA expression pattern in mice relative to that in humans
+[26,27]. Thus, it would be of interest to determine the effect of
+the substitutions in HA described here on virus virulence in the
+ferret model, which is a more suitable animal model for human
+H5N1 viral pneumonia [26,27]. Our studies also found that EG/
+D1, an ancestral strain of currently circulating H5N1 viruses in
+Egypt, was not highly pathogenic in mice, as indicated by an
+MLD50 .105
+FFU (Figure 8B). Avian and human H5N1 viruses
+in Egypt, including EG/D1, encode PB2-627Lys, which
+reportedly enhances the host range and virulence of influenza
+viruses [30,47,51]. The results of this study indicate that this
+Figure 10. Analysis of receptor docking modes of EG/D1 HA and HA mutants. Structural models of H5 HA. (A) Ribbon model of EG/D1 HA.
+The trimeric globular-head region is shown. Key residues in our analysis are shown in a colored space-filling model. Receptor binding domains are
+colored blue (130 loop), green (190 helix) and purple (220 loop). (B) Molecular surface of EG/D1 HA. The red circle indicates the receptor binding
+pocket. (C) Docking models for EG/D1, EG/D1Q192H and EG/D1129D,I151T HA with a human-type receptor analog (PDBID code 1MQN). Residues 127E,
+128A, 130S and 131G are colored green, as is 129S, and the other residues and domains are displayed in the same colors as above. An additional
+hydrogen bond between E127 and T151 is indicated in the red circle. The Udock scores of the corresponding complexes are shown at the bottom.
+doi:10.1371/journal.ppat.1002068.g010
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 14 May 2011 | Volume 7 | Issue 5 | e1002068
+amino acid residue alone does not provide sufficient replicative
+advantage in mammals for the influenza viruses (clade 2.2.1) in
+Egypt, although it may be a prerequisite for H5N1 virus
+virulence in mammalian hosts.
+The mechanism underlying the emergence of H5N1 viruses in
+Egypt with both a2,3 SA and a2,6 SA binding affinities is
+unclear. Some H7 viruses isolated in North America from 2002­
+2004 showed a marked decrease in a2,3 SA binding together with
+increased binding to glycans with a2,6 SA [37], and several
+H5N1 field isolates (clade 2.3.4) in the Lao People's Democratic
+Republic in 2007­2008 had reduced binding to a2,3 SA
+receptors [52]. In contrast, H5 viruses isolated in Egypt have
+retained the classical avian a2,3 SA binding affinity (Figures 2­5).
+Previous studies have shown passage of H5N1 viruses through
+land-based poultry as a possible mechanism for emergence of
+dual receptor specificity [17,53]. However, most bird isolates in
+Egypt, found to be clustered in sublineages A and B in this study,
+were recently reported to be derived from domestic waterfowl,
+not from land-based poultry [54]. In addition, these H5N1
+viruses showed an appreciably different attachment pattern in the
+human respiratory tract than that of typical avian viruses
+(Figure 6). Therefore, the binding properties of H5 viruses in
+Egypt may be the result of geographic and cultural factors that
+have yet to be identified.
+Egypt has a relatively large number of human cases of H5N1
+virus infection, and the highest number of cases worldwide since
+2009 [1,10]. The influenza virus phylogenetic tree suggests that
+sublineages A and B, the focus of this study, emerged during virus
+diversification in birds. At present, viruses grouped in sublineages
+C and D are widely disseminated across Egypt. Therefore, it
+remains possible that repeated circulation in birds would allow
+sublineage C and D viruses to acquire amino acid change(s) other
+than those identified here that could enable increased a2,6 SA
+binding affinity, although the amino acid mutations identified here
+may be useful markers in assessing H5N1 field isolates for their
+potential to infect humans. Since clade 2.2 appeared in Egypt in
+2006, Egypt has had a single known introduction of a clade 2.2.1
+H5N1 virus. Neither introduction of other phylogenetically
+distinct sublineages of clade 2.2 (I, II and III) nor reassortment
+events between the sublineages, as detected in neighboring Nigeria
+[55­57], have been documented in Egypt [7,58]. Such events also
+were not observed in our phylogenetic analyses of HA and NA
+genes (Figures 1 and S1). However, introduction of these
+sublineages into Egypt could accelerate the evolutionary dynamics
+of H5N1 virus. Moreover, all Egyptian viruses (clade 2.2.1), which
+emerged during the 2005 Qinghai Lake outbreak in China [3,4],
+have mammalian-type PB2-627Lys [30,47,51], implying the
+potential for evolution to a pandemic virus. Therefore, there is a
+critical need for continued surveillance of birds to monitor
+receptor specificities of H5N1 field isolates in Egypt as well as
+the pandemic potential of these strains.
+Materials and Methods
+Ethics statement
+All animal studies were conducted under the applicable laws
+and guidelines for the care and use of laboratory animals in the
+Research Institute for Microbial Diseases, Osaka University,
+approved by the Animal Experiment Committee of the Research
+Institute for Microbial Disease, Osaka University, as specified in
+the Fundamental Guidelines for Proper Conduct of Animal
+Experiment and Related Activities in Academic Research
+Institutions under the jurisdiction of the Ministry of Education,
+Culture, Sports, Science and Technology, Japan, 2006.
+Virus isolation and preparation
+During outbreaks of highly pathogenic avian influenza in Egypt
+from January 2007 to February 2009, 27 nasopharyngeal swab
+and tissue samples (lung and trachea) were collected from sick or
+dead chickens and ducks from commercial farms and backyard
+farms. Of these samples, 21 were identified as H5-positive by
+reverse transcription-polymerase chain reaction (RT-PCR) and
+selected for virus isolation. Twenty viruses were eventually isolated
+by single passage in the allantoic cavity of 11-day-old embryonated
+chicken eggs. The allantoic fluids were then harvested and stored
+as seed viruses at 280uC. Laboratory strains A/Duck/Hong
+Kong/820/80 (H5N3) and human influenza A virus A/Japan/
+434/2003 (H3N2) were kindly provided by Yoshinobu Okuno,
+Kanonji Institute, The Research Foundation for Microbial
+Diseases of Osaka University, Kagawa, Japan. For subsequent
+studies, allantoic fluids were pre-cleared by centrifugation at
+3,000 rpm for 20 min and filtration through 0.45 mm filters, and
+viruses were then purified by centrifugation at 25,000 rpm for 2 h
+through 20% and 60% sucrose. After collection of the virus-
+containing fractions, viruses were suspended in PBS and pelleted
+by centrifugation at 25,000 rpm for 2 h. Virus pellets were
+resuspended in PBS and aliquots were stored as working stocks at
+280uC. Virus titers were assayed as FFU by focus-forming assays
+[59] on CEF cells for avian influenza viruses and on MDCK cells
+for human H3N2 virus. All experiments with live H5N1 viruses
+were performed in Biosafety Level 3+ (BSL 3+) conditions at
+Osaka University, as approved for work with these viruses by the
+Ministry of Agriculture, Forestry and Fisheries, Japan.
+Cells
+CEF cells were prepared from 11-day-old embryonated eggs.
+MDCK cells were purchased from the Riken BioResource Center
+Cell Bank (http://www.brc.riken.jp/lab/cell/english/). These cell
+lines were maintained in Dulbecco's Modified Eagle's Medium
+supplemented with 10% heat-inactivated fetal calf serum at 37uC
+in a humidified atmosphere of 95% air and 5% CO2 as described
+previously [60]. Human primary SAEC cells were purchased from
+the Lonza Corporation (http://www.lonza.com/) and maintained
+according to the manufacturer's recommendations.
+Sequence analysis
+Viral RNA was extracted from viruses using Trizol Reagent
+(Invitrogen, http://www.invitrogen.com/) according to the man-
+ufacturer's protocol. RT-PCR was done using an oligonucleotide
+(Uni12) complementary to the conserved 39 end of viral RNA
+[61]. Gene cloning and sequencing were done on at least 3
+independent clones per segment as described previously [62].
+The nucleotide sequence data analyzed for viruses in this study
+are available in the DDBJ/EMBL/GenBank databases under the
+accession numbers AB601121 to AB601156.
+Generation of viruses by reverse genetics
+Recombinant viruses were generated with a plasmid-based
+reverse genetics system [63]. The viral complementary DNAs were
+cloned into pUC18-based plasmids, between the human RNA
+polymerase I promoter and the hepatitis delta virus ribozyme
+(pPOLI). All viruses generated by reverse genetics carried the HA
+gene of one of the viruses being studied, with the other genes
+coming from EG/D1. The HA genes of EG/0929, EG/4822 and
+EG/2039 were synthesized using the sequences registered in the
+NCBI database Influenza Virus Resource (IVR, http://www.ncbi.
+nlm.nih.gov/genomes/FLU/FLU.html) and site-directed muta-
+gensis PCR (GeneTailor Site-Directed Mutagenesis System;
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 15 May 2011 | Volume 7 | Issue 5 | e1002068
+Invitrogen). Mutant HA genes were generated by PCR-based site-
+directed mutagenesis in the EG/D1, EG/12, EG/0929, EG/4822
+or Eg/2039 HA background. All constructs were sequenced
+completely to ensure the absence of unwanted mutations.
+Recombinant viruses were generated by plasmid transfection of
+co-cultured 293T and CEF cells, and were propagated in eggs.
+The HA genes of the virus stocks were sequenced to detect the
+possible emergence of revertants during amplification.
+Genetic analysis
+For phylogenetic analysis of HA genes, published HA sequences
+of 85 representative H5N1 influenza A viruses isolated in Egypt
+from 2006 to 2009 were obtained from the NCBI database
+(http://www.ncbi.nlm.nih.gov/nucleotide). Phylogenetic analysis
+was performed on those 85 HA sequences and on the HA
+sequences of the 21 viruses isolated in this study using MEGA4
+software [64] for the neighbor-joining method, with the nucleotide
+sequences covering most of HA gene. Estimates of the phylogenies
+were calculated by performing 1,000 bootstrap replicates. For
+phylogenetic analysis of NA genes, published NA sequences from
+the NCBI database of 65 representative H5N1 viruses isolated in
+Egypt from 2006 to 2009 together with the NA sequences of 19
+viruses isolated in this study were analyzed. For a database search,
+published sequences of 260 HA genes from influenza A viruses
+isolated in Egypt from 2006 to 2009 from NCBI IVR were
+analyzed. For comparison, published HA sequences of 495 H5N1
+influenza A viruses recently identified in Asia were also obtained
+from NCBI IVR. These sequences were aligned by the MAFFT
+program [65] and the HA1 regions were compared with the
+sequences of the viruses isolated in this study.
+Hemagglutination titration
+Stocks of avian and human influenza viruses were serially
+diluted with PBS and mixed with 0.5% chicken red blood cells
+and 0.75% guinea pig red blood cells, respectively. Hemagglu-
+tination by avian and human influenza viruses was observed
+after incubation at room temperature for 30 min or 1 h,
+respectively to determine their HAU. To correct for differences
+in HAU values due to different blood lots, a reference virus
+sample was used and HAU values of all virus samples were
+adjusted relative to the reference HAU titer of EG/D1, which
+was used in the optimization analysis of the following receptor
+specificity assay.
+Receptor specificity assay
+Receptor binding specificity was analyzed by a solid-phase
+direct binding assay as described previously [23,24,52], with a
+sialylglycopolymer containing N-acetylneuraminic acid linked to
+galactose through either an a2,3 or a2,6 bond (Neu5Aca2,3-
+LacNAcb-pAP, and Neu5Aca2,6LacNAcb-pAP). Serial dilutions
+of each sialylglycopolymer were prepared in PBS, and 100 ml was
+added to each well of 96-well microtiter plates (Polystyrene
+Universal-Bind Microplates, Corning, http://www.corning.com/).
+The plates were then irradiated with 254 nm ultraviolet light for
+10 min and each well was washed three times with 250 ml PBS.
+Each well was blocked with 100 ml PBS containing 0.1% Tween 20
+(PBST) and 2% bovine serum albumin at room temperature for 1 h.
+After washing with ice-cold PBST, a solution containing influenza
+viruses (64 HAU in PBST) was added to each well and the plates
+were incubated at 4uC for 12 h. After washing five times with ice-
+cold PBST, mouse anti-NP antibody (against influenza virus NP
+protein) was added to each well and the plates were incubated at
+4uC for 2 h. The wells were then washed five times with ice-cold
+PBST and incubated with peroxidase-conjugated goat anti-
+immunoglobulin (Histofine Simple Stain MAX-PO, Nichirei,
+http://www.nichirei.co.jp/bio/english/) at 4uC for 2 h. After
+washing five times with ice-cold PBST, 100 ml premixed tetra-
+metylbenzidine-H2O2 substrate was added to each well. After
+incubation at room temperature for 10 min, the reactions were
+stopped with 50 ml 1 M H2SO4, and absorbance at 450/630 nm
+was measured.
+Binding data were plotted against the concentration of sialic
+acid residues in the reaction solution and were analyzed using
+GraphPad Prism version 5.0 (GraphPad Software, http://www.
+graphpad.com/). To determine the apparent association con-
+stant (Ka) values, nonlinear regression was used to fit the data
+based on the one-site model. Each data point is the mean 6 SD
+of three to six experiments, which were each performed in
+triplicate.
+Viral growth kinetics in SAEC and CEF cells
+SAEC cells were infected in triplicate with the indicated viruses
+at an MOI of 1 or 0.1. The virus inoculum was removed after 1 h
+and the cells were washed and airway epithelial growth medium
+(SAGM; Lonza) containing bovine pituitary extract (BPE; 30 mg/
+ml), hydrocortisone (0.5 mg/ml), human epidermal growth factor
+(hEGF; 0.5 ng/ml), epinephrine (0.5 mg/ml), transferrin (10 mg/
+ml), insulin (5 mg/ml), triiodothyronine (6.5 ng/ml), bovine
+serum albumin-fatty-acid free (BSA-FAF; 50 mg/ml), retinoic
+acid (RA; 0.1 ng/ml), gentamycin (30 mg/ml) and amphotericin
+B (15 ng/ml) was added. Acetylated trypsin (2 mg/ml, Sigma-
+Aldrich, http://www.sigmaaldrich.com/) was also added to
+SAEC cultures for propagation of human H3N2 virus. At the
+indicated times post-infection, virus titers in the cell culture
+supernatants were determined in triplicate by FFU assays in CEF.
+For determination of viral growth in CEF cells, the cells were
+infected in triplicate at an MOI of 0.1 or 0.01. At the indicated
+times post-infection, virus titers were determined in triplicate by
+FFU assays. Preliminary lectin-based flow cytochemistry studies
+indicated a difference in SA expression on the surface of SAEC
+and CEF cells without growth under air-liquid interface
+conditions, with predominant expression of a2,6 SA in SAEC
+cells and of a2,3 SA in CEF cells. Therefore, all cell cultures in
+this study were established without air-liquid interface conditions
+as described previously [47,66].
+Virus histochemistry in tissue sections
+To produce fluorescein isothiocyanate (FITC)-labeled viruses
+for histochemistry, influenza viruses, purified and concentrated as
+described above, were inactivated with formalin in PBS (0.025%
+final concentration) for 24 h at 37uC. The virus mixture was then
+dialyzed against PBS for 18 h at 4uC and complete inactivation
+was confirmed by assay on MDCK cells. A 1 ml sample of
+inactivated virus was then mixed with 0.1 ml 1.1 M carbonate-
+bicarbonate buffer (pH 9.5) containing 0.55 mg FITC isomer I
+(Invitrogen)/ml for 1 h at room temperature with constant
+stirring, followed by dialysis of the mixture against PBS for 42 h
+at 4uC. To check for hemagglutination activity by the inactivated
+virus, the viral hemagglutination titer was assayed after formalin
+inactivation and FITC labeling.
+Formalin-fixed paraffin-embedded human respiratory tract
+tissue sections were obtained from US Biomax, Inc. (http://
+www.biomax.us/). The paraffin-embedded tissues were deparaffi-
+nized with xylene and hydrated using graded alcohols. After
+blocking with Carbo-Free Blocking Solution (Vector Laboratories,
+http://www.vectorlabs.com/), the tissues were then blocked with
+Blocking Reagent (Perkin Elmer, http://www.perkinelmer.com/).
+FITC-labeled influenza viruses were incubated with tissue sections
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 16 May 2011 | Volume 7 | Issue 5 | e1002068
+at 4uC for 12 h at a titer of 128 HAU per section. The FITC
+label was detected with peroxidase-conjugated rabbit anti-
+FITC antibody (Dako, http://www.dako.com/). The signal was
+amplified with a tyramide signal amplification system (Perkin
+Elmer) according to the manufacturer's instructions. Peroxidase
+was visualized with 3-amino-9-ethyl-carbozole (AEC+ Substrate
+Chromogen, Dako), resulting in a bright red precipitate. Tissues
+were counterstained with hematoxylin and embedded in Aquatex
+(Merck Chemicals, http://www.merck-chemicals.com/). Omis-
+sion of FITC-labeled virus was used as a negative control. The
+specificity of the virus histochemistry was verified as follows. Tissue
+sections, deparaffinized and hydrated as described above, were
+treated with Arthrobacter ureafaciens sialidase (100 mU/ml, Nacalai
+Tesque, http://www.nacalai.co.jp/) in sodium acetate buffer
+(100 mM, pH 5.8) for 1 h at 37uC or mock-treated before
+performing virus histochemistry. Micrographs were taken using a
+Nikon Eclipse TE2000-U Inverted Microscope (Nikon, http://
+www.nikon.com/).
+Experimental infections in mice
+To determine MLD50 values, groups of 6-week-old female
+BALB/c mice (Japan SLC, Inc., http://www.jslc.co.jp/), under
+isoflurane anesthesia, were inoculated intranasally with serial
+10-fold dilutions of virus in 75 ml PBS, and MLD50 values were
+calculated by the Reed-Muench method and expressed as FFU
+required for 1 MLD50. Mice were observed daily for 14 d for
+weight loss and mortality. Mice that lost .30% of their original
+weight were euthanized. At 4 and 7 d after inoculation with
+36104
+FFU and at 4 d after inoculation with 36105
+FFU
+(because of mouse deaths before day 7 at this dose), virus titers
+in the lungs were assayed as FFU in CEF cells. Virus titers in
+lungs were expressed as log10 FFU. The lower limit of virus
+detection was 2 log10 FFU/lung. For histopathology analysis,
+mouse lungs collected at 7 d after inoculation with 36104
+FFU
+were fixed in 4% buffered paraformaldehyde, embedded in
+paraffin, cut into 5 mm sections, stained with hematoxylin and
+eosin, and examined by light microscopy. Immunohistochemical
+staining for the H5 antigen was performed on deparaffinized
+sections using a monoclonal antibody (C43) specific for the
+nucleoprotein of influenza A virus by a two-step peroxidase
+method (Hisfine Mouse Stain Kit, Nichirei) with diaminobenzi-
+dine as the chromogen and hematoxylin as the counterstain. For
+controls, unrelated antibodies were used in place of the primary
+antibody.
+Homology modeling and docking
+The crystal structure of the HA of influenza virus A/Vietnam/
+1194/04 (H5N1) (Protein Data Bank ID code 2IBX) [24] was used
+as a template for homology modeling of EG/D1, EG/D1Q192H,
+and EG/D129D,I151T by the Molecular Operating Environment
+(MOE, http://www.chemcom.com). SA a2,3- and SA a2,6-linked
+analogs (PDBID code 1MQM and 1MQN) were used as the input
+for a docking study with the model HA structure using MOE
+ASEDock [67]. The MMFF94x force field and the generalized Born
+(GB) solvation model were used for the minimization step. The
+complexes were evaluated by Udock scores which show the affinity
+between ligand and receptor. Because SA a2,3- and SA a2,6-linked
+analogs are a disaccharide and a trisaccharide respectively, the
+absolute value of their Udock scores cannot be compared between
+the complex bound to the a2,3-linked analog and that bound to the
+a2,6-linked analog. However, Udock scores enable the binding mode
+of the same analog to different HAs to be compared.
+Supporting Information
+Figure S1 Phylogenetic tree of NA genes of H5N1 viruses isolated
+in Egypt. This tree includes published NA sequences of 63 H5N1
+influenza A viruses isolated in Egypt, from the National Center for
+Biotechnology Information database (minimum sequence length
+1,150 nt), and 19 NA sequences determined in this study (sequence
+length 1,350 nt). The sequences analyzed in this study are marked
+with a black circle. Colors are used to highlight virus strains with
+different hosts, isolation year and sublineage.
+(TIF)
+Figure S2 Optimization of viral HA titers for direct binding
+assays. These assays were done using 4-fold dilutions of EG/D1
+and EG/12 viruses (measured as HAU), with titers ranging from
+512 to 8 HAU. Direct binding of viruses to sialylglycopolymers
+containing either a2,3-linked (blue) or a2,6-linked (red) SA was
+measured. Each data point is the mean 6 SD of triplicate
+experiments.
+(TIF)
+Figure S3 Effect of reverse mutations in sublineage A and BI
+virus HAs on receptor specificity. The reverse mutations to those
+in Figures 3 and 4 were introduced into the HAs of sublineage A
+virus EG/4822 (A) and sublineage BI virus EG/2039 (B). Direct
+binding to sialylglycopolymers containing either a2,3-linked (blue)
+or a2,6-linked (red) sialic acid was measured. Mutations are
+indicated by subscripts. Each data point is the mean 6 SD of
+triplicate experiments.
+(TIF)
+Figure S4 Specificity of virus histochemistry. Attachment of A/
+Japan/434/2003 (H3N2), upper two panels, and EG/D1 virus,
+lower two panels, to human respiratory tract tissues. Tissue
+sections were treated or mock-treated with Arthrobacter ureafaciens
+sialidase before performing virus histochemistry. The panels were
+chosen to reflect the attachment pattern in each tissue section as
+much as possible.
+(TIF)
+Table S1 Virus binding affinity to sialylglycopolymers.
+(PPT)
+Table S2 Virus strains encoding HA 129D/I151T and Q192H
+mutations in avian influenza virus A virus subtypes.
+(PPT)
+Table S3 Properties of H5N1 influenza viruses in sublineage A.
+(PPT)
+Table S4 Properties of H5N1 influenza viruses in sublineage BI.
+(PPT)
+Table S5 Properties of H5N1 influenza viruses in sublineage
+BII.
+(PPT)
+Acknowledgments
+We thank K. Murata for the sequencing analyses; T. Nakaya, R. Kubota-
+Koketsu, T. Daidoji, M Yasugi, Y. Inoue for valuable advice and
+discussions; and A. Yamashita and T. Yasunaga for computational
+assistance and resources.
+Author Contributions
+Conceived and designed the experiments: YW KI. Performed the
+experiments: YW MSI NK RM. Analyzed the data: YW MSI NK RM
+HH NS. Contributed reagents/materials/analysis tools: YW MSI HFE
+NK HH NS TT YS. Wrote the paper: YW YS KI.
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 17 May 2011 | Volume 7 | Issue 5 | e1002068
+References
+1. World Health Organization. H5N1 avian influenza: timeline of major exents
+reported to WHO. Available: http://www.who.int/csr/disease/avian_
+influenza/2010_10_20_h5n1_avian_influenza_timeline_updates.pdf. Accessed
+4 November 2010.
+2. World Health Organization/World Organisation for Animal Health/Food and
+Agriculture Organization H5N1 Evolution Working Group (2008) Toward a
+unified nomenclature system for highly pathogenic avian influenza virus (H5N1).
+Emerg Infect Dis 14: e1.
+3. Chen H, Li Y, Li Z, Shi J, Shinya K, et al. (2006) Properties and dissemination
+of H5N1 viruses isolated during an influenza outbreak in migratory waterfowl in
+western China. J Virol 80: 5976­5983.
+4. Chen H, Smith GJ, Zhang SY, Qin K, Wang J, et al. (2005) Avian flu: H5N1
+virus outbreak in migratory waterfowl. Nature 436: 191­192.
+5. Salzberg SL, Kingsford C, Cattoli G, Spiro DJ, Janies DA, et al. (2007) Genome
+analysis linking recent European and African influenza (H5N1) viruses. Emerg
+Infect Dis 13: 713­718.
+6. Wang G, Zhan D, Li L, Lei F, Liu B, et al. (2008) H5N1 avian influenza re-
+emergence of Lake Qinghai: phylogenetic and antigenic analyses of the newly
+isolated viruses and roles of migratory birds in virus circulation. J Gen Virol 89:
+697­702.
+7. Cattoli G, Monne I, Fusaro A, Joannis TM, Lombin LH, et al. (2009) Highly
+pathogenic avian influenza virus subtype H5N1 in Africa: a comprehensive
+phylogenetic analysis and molecular characterization of isolates. PLoS One 4:
+e4842.
+8. Fusaro A, Nelson MI, Joannis T, Bertolotti L, Monne I, et al. (2010)
+Evolutionary dynamics of multiple sublineages of H5N1 influenza viruses in
+Nigeria from 2006 to 2008. J Virol 84: 3239­3247.
+9. Dawood FS, Jain S, Finelli L, Shaw MW, Lindstrom S, et al. (2009) Emergence
+of a novel swine-origin influenza A (H1N1) virus in humans. N Engl J Med 360:
+2605­2615.
+10. World Health Organization. Cumulative number of confirmed human cases of
+avian influenza A/(H5N1) reported to WHO. Available: http://www.who.int/
+csr/disease/avian_influenza/country/en/index.html. Accessed 4 November
+2010.
+11. World Organisation for Animal Health. Update for highly pathogenic avian
+influenza in animals (Type H5 and H7). Available: http://www.oie.int/downld/
+AVIAN%20INFLUENZA/A_AI-Asia.htm. Accessed 4 November 2010.
+12. Connor RJ, Kawaoka Y, Webster RG, Paulson JC (1994) Receptor specificity in
+human, avian, and equine H2 and H3 influenza virus isolates. Virology 205:
+17­23.
+13. Matrosovich MN, Gambaryan AS, Teneberg S, Piskarev VE, Yamnikova SS,
+et al. (1997) Avian influenza A viruses differ from human viruses by recognition
+of sialyloligosaccharides and gangliosides and by a higher conservation of the
+HA receptor-binding site. Virology 233: 224­234.
+14. Rogers GN, Paulson JC (1983) Receptor determinants of human and animal
+influenza virus isolates: differences in receptor specificity of the H3 hemagglu-
+tinin based on species of origin. Virology 127: 361­373.
+15. Angata T, Varki A (2002) Chemical diversity in the sialic acids and related
+alpha-keto acids: an evolutionary perspective. Chem Rev 102: 439­469.
+16. Gagneux P, Cheriyan M, Hurtado-Ziola N, van der Linden EC, Anderson D,
+et al. (2003) Human-specific regulation of alpha 2­6-linked sialic acids. J Biol
+Chem 278: 48245­48250.
+17. Guo CT, Takahashi N, Yagi H, Kato K, Takahashi T, et al. (2007) The quail
+and chicken intestine have sialyl-galactose sugar chains responsible for the
+binding of influenza A viruses to human type receptors. Glycobiology 17:
+713­724.
+18. Couceiro JN, Paulson JC, Baum LG (1993) Influenza virus strains selectively
+recognize sialyloligosaccharides on human respiratory epithelium; the role of the
+host cell in selection of hemagglutinin receptor specificity. Virus Res 29:
+155­165.
+19. Ito T, Couceiro JN, Kelm S, Baum LG, Krauss S, et al. (1998) Molecular basis
+for the generation in pigs of influenza A viruses with pandemic potential. J Virol
+72: 7367­7373.
+20. Matrosovich M, Tuzikov A, Bovin N, Gambaryan A, Klimov A, et al. (2000)
+Early alterations of the receptor-binding properties of H1, H2, and H3 avian
+influenza virus hemagglutinins after their introduction into mammals. J Virol 74:
+8502­8512.
+21. Tumpey TM, Maines TR, Van Hoeven N, Glaser L, Solorzano A, et al. (2007)
+A two-amino acid change in the hemagglutinin of the 1918 influenza virus
+abolishes transmission. Science 315: 655­659.
+22. Peyre M, Samaha H, Makonnen YJ, Saad A, Abd-Elnabi A, et al. (2009) Avian
+influenza vaccination in Egypt: Limitations of the current strategy. J Mol Genet
+Med 3: 198­204.
+23. Auewarakul P, Suptawiwat O, Kongchanagul A, Sangma C, Suzuki Y, et al.
+(2007) An avian influenza H5N1 virus that binds to a human-type receptor.
+J Virol 81: 9950­9955.
+24. Yamada S, Suzuki Y, Suzuki T, Le MQ, Nidom CA, et al. (2006)
+Haemagglutinin mutations responsible for the binding of H5N1 influenza A
+viruses to human-type receptors. Nature 444: 378­382.
+25. Abdel-Moneim AS, Shany SA, Fereidouni SR, Eid BT, el-Kady MF, et al.
+(2009) Sequence diversity of the haemagglutinin open reading frame of recent
+highly pathogenic avian influenza H5N1 isolates from Egypt. Arch Virol 154:
+1559­1562.
+26. van Riel D, Munster VJ, de Wit E, Rimmelzwaan GF, Fouchier RA, et al. (2006)
+H5N1 Virus Attachment to Lower Respiratory Tract. Science 312: 399.
+27. van Riel D, Munster VJ, de Wit E, Rimmelzwaan GF, Fouchier RA, et al. (2007)
+Human and avian influenza viruses target different cells in the lower respiratory
+tract of humans and other mammals. Am J Pathol 171: 1215­1223.
+28. Chandrasekaran A, Srinivasan A, Raman R, Viswanathan K, Raguram S, et al.
+(2008) Glycan topology determines human adaptation of avian H5N1 virus
+hemagglutinin. Nat Biotechnol 26: 107­113.
+29. Srinivasan A, Viswanathan K, Raman R, Chandrasekaran A, Raguram S, et al.
+(2008) Quantitative biochemical rationale for differences in transmissibility of
+1918 pandemic influenza A viruses. Proc Natl Acad Sci U S A 105: 2800­2805.
+30. Hatta M, Gao P, Halfmann P, Kawaoka Y (2001) Molecular basis for high
+virulence of Hong Kong H5N1 influenza A viruses. Science 293: 1840­1842.
+31. Kobasa D, Takada A, Shinya K, Hatta M, Halfmann P, et al. (2004) Enhanced
+virulence of influenza A viruses with the haemagglutinin of the 1918 pandemic
+virus. Nature 431: 703­707.
+32. Munster VJ, de Wit E, van Riel D, Beyer WE, Rimmelzwaan GF, et al. (2007)
+The molecular basis of the pathogenicity of the Dutch highly pathogenic human
+influenza A H7N7 viruses. J Infect Dis 196: 258­265.
+33. Das P, Li J, Royyuru AK, Zhou R (2009) Free energy simulations reveal a
+double mutant avian H5N1 virus hemagglutinin with altered receptor binding
+specificity. J Comput Chem 30: 1654­1663.
+34. Ha Y, Stevens DJ, Skehel JJ, Wiley DC (2001) X-ray structures of H5 avian and
+H9 swine influenza virus hemagglutinins bound to avian and human receptor
+analogs. Proc Natl Acad Sci U S A 98: 11181­11186.
+35. Veljkovic V, Veljkovic N, Muller CP, Muller S, Glisic S, et al. (2009)
+Characterization of conserved properties of hemagglutinin of H5N1 and human
+influenza viruses: possible consequences for therapy and infection control. BMC
+Struct Biol 9: 21.
+36. Kongchanagul A, Suptawiwat O, Kanrai P, Uiprasertkul M, Puthavathana P,
+et al. (2008) Positive selection at the receptor-binding site of haemagglutinin H5
+in viral sequences derived from human tissues. J Gen Virol 89: 1805­1810.
+37. Belser JA, Blixt O, Chen LM, Pappas C, Maines TR, et al. (2008)
+Contemporary North American influenza H7 viruses possess human receptor
+specificity: Implications for virus transmissibility. Proc Natl Acad Sci U S A 105:
+7558­7563.
+38. Van Hoeven N, Pappas C, Belser JA, Maines TR, Zeng H, et al. (2009) Human
+HA and polymerase subunit PB2 proteins confer transmission of an avian
+influenza virus through the air. Proc Natl Acad Sci U S A 106: 3366­3371.
+39. Parrish CR, Kawaoka Y (2005) The origins of new pandemic viruses: the
+acquisition of new host ranges by canine parvovirus and influenza A viruses.
+Annu Rev Microbiol 59: 553­586.
+40. Ayora-Talavera G, Shelton H, Scull MA, Ren J, Jones IM, et al. (2009)
+Mutations in H5N1 influenza virus hemagglutinin that confer binding to human
+tracheal airway epithelium. PLoS One 4: e7836.
+41. Ilyushina NA, Govorkova EA, Gray TE, Bovin NV, Webster RG (2008)
+Human-like receptor specificity does not affect the neuraminidase-inhibitor
+susceptibility of H5N1 influenza viruses. PLoS Pathog 4: e1000043.
+42. Chutinimitkul S, van Riel D, Munster VJ, van den Brand JM, Rimmelzwaan GF,
+et al. (2010) In vitro assessment of attachment pattern and replication efficiency
+of H5N1 influenza A viruses with altered receptor specificity. J Virol 84:
+6825­6833.
+43. Nicholls JM, Chan MC, Chan WY, Wong HK, Cheung CY, et al. (2007)
+Tropism of avian influenza A (H5N1) in the upper and lower respiratory tract.
+Nat Med 13: 147­149.
+44. Egypt State Information Service. Bird Flu. Bird Flu in Egypt. Available: http://
+birdflu.sis.gov.eg/html/. Accessed 10 November 2010.
+45. Gao P, Watanabe S, Ito T, Goto H, Wells K, et al. (1999) Biological
+heterogeneity, including systemic replication in mice, of H5N1 influenza A virus
+isolates from humans in Hong Kong. J Virol 73: 3184­3189.
+46. Harford CG, Hamlin A (1952) Effect of influenza virus on cilia and epithelial
+cells in the bronchi of mice. J Exp Med 95: 173­190.
+47. Hatta M, Hatta Y, Kim JH, Watanabe S, Shinya K, et al. (2007) Growth of
+H5N1 influenza A viruses in the upper respiratory tracts of mice. PLoS Pathog
+3: 1374­1379.
+48. Imai H, Shinya K, Takano R, Kiso M, Muramoto Y, et al. (2010) The HA and
+NS genes of human H5N1 influenza A virus contribute to high virulence in
+ferrets. PLoS Pathog 6: e1001106.
+49. Ning ZY, Luo MY, Qi WB, Yu B, Jiao PR, et al. (2009) Detection of expression
+of influenza virus receptors in tissues of BALB/c mice by histochemistry. Vet Res
+Commun 33: 895­903.
+50. Castranova VRJ, Rabovsky J, Tucker JH, Miles PR (1988) The alveolar type II
+epithelial cell: a multifunctional pneumocyte. Toxicol Appl Pharmacol 93:
+472­483.
+51. Salomon R, Franks J, Govorkova EA, Ilyushina NA, Yen HL, et al. (2006) The
+polymerase complex genes contribute to the high virulence of the human H5N1
+influenza virus isolate A/Vietnam/1203/04. J Exp Med 203: 689­697.
+52. Boltz DA, Douangngeun B, Phommachanh P, Sinthasak S, Mondry R, et al.
+(2010) Emergence of H5N1 avian influenza viruses with reduced sensitivity to
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 18 May 2011 | Volume 7 | Issue 5 | e1002068
+neuraminidase inhibitors and novel reassortants in Lao People's Democratic
+Republic. J Gen Virol 91: 949­959.
+53. Kimble B, Nieto GR, Perez DR (2010) Characterization of influenza virus sialic
+acid receptors in minor poultry species. Virol J 7: 365.
+54. Abdelwhab EM, Hafez HM, Aly MM, Grund C, Harder TC (2010) Increasing
+prevalence of unique mutation patterns in H5N1 avian influenza virus HA and
+NA glycoproteins from human infections in Egypt. Sequencing 2010: 1­4.
+55. Fusaro A, Joannis T, Monne I, Salviato A, Yakubu B, et al. (2009) Introduction
+into Nigeria of a distinct genotype of avian influenza virus (H5N1). Emerg Infect
+Dis 15: 445­447.
+56. Monne I, Joannis TM, Fusaro A, De Benedictis P, Lombin LH, et al. (2008)
+Reassortant avian influenza virus (H5N1) in poultry, Nigeria, 2007. Emerg
+Infect Dis 14: 637­640.
+57. Owoade AA, Gerloff NA, Ducatez MF, Taiwo JO, Kremer JR, et al. (2008)
+Replacement of sublineages of avian influenza (H5N1) by reassortments, sub-
+Saharan Africa. Emerg Infect Dis 14: 1731­1735.
+58. Bahgat MM, Kutkat MA, Nasraa MH, Mostafa A, Webby R, et al. (2009)
+Characterization of an avian influenza virus H5N1 Egyptian isolate. J Virol
+Methods 159: 244­250.
+59. Di Lonardo A, Buttinelli G, Amato C, Novello F, Ridolfi B, et al. (2002) Rapid
+methods for identification of poliovirus isolates and determination of polio
+neutralizing antibody titers in human sera. J Virol Methods 101: 189­196.
+60. Watanabe Y, Ohtaki N, Hayashi Y, Ikuta K, Tomonaga K (2009) Autogenous
+translational regulation of the Borna disease virus negative control factor X from
+polycistronic mRNA using host RNA helicases. PLoS Pathog 5: e1000654.
+61. Hoffmann E, Stech J, Guan Y, Webster RG, Perez DR (2001) Universal primer
+set for the full-length amplification of all influenza A viruses. Arch Virol 146:
+2275­2289.
+62. Watanabe Y, Ibrahim MS, Hagiwara K, Okamoto M, Kamitani W, et al. (2007)
+Characterization of a Borna disease virus field isolate which shows efficient viral
+propagation and transmissibility. Microbes Infect 9: 417­427.
+63. Fodor E, Devenish L, Engelhardt OG, Palese P, Brownlee GG, et al. (1999)
+Rescue of influenza A virus from recombinant DNA. J Virol 73: 9679­9682.
+64. Tamura K, Dudley J, Nei M, Kumar S (2007) MEGA4: Molecular Evolutionary
+Genetics Analysis (MEGA) software version 4.0. Mol Biol Evol 24: 1596­1599.
+65. Katoh K, Misawa K, Kuma K, Miyata T (2002) MAFFT: a novel method for
+rapid multiple sequence alignment based on fast Fourier transform. Nucleic
+Acids Res 30: 3059­3066.
+66. Yamada S, Hatta M, Staker BL, Watanabe S, Imai H, et al. (2010) Biological
+and structural characterization of a host-adapting amino acid in influenza virus.
+PLoS Pathog 6: e1001034.
+67. Goto J, Kataoka R, Muta H, Hirayama N (2008) ASEDock-docking based on
+alpha spheres and excluded volumes. J Chem Inf Model 48: 583­590.
+Emergence of New H5N1 Influenza Virus Sublineages
+PLoS Pathogens | www.plospathogens.org 19 May 2011 | Volume 7 | Issue 5 | e1002068
+

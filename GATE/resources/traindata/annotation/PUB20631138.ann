@@ -1,0 +1,36 @@
+T56	Location 17370 17378	Adelaide
+#56	AnnotatorNotes T56	<latlng>-34.92866,138.59863</latlng><pop>1225235</pop><geoID>2078025</geoID>
+T57	Location 17380 17389	Australia
+#57	AnnotatorNotes T57	<latlng>-27,133</latlng><geoID>2077456</geoID>
+T60	Location 18618 18625	Marburg
+#60	AnnotatorNotes T60	<latlng>50.84028,8.77787</latlng><pop>245013</pop><geoID>2873758</geoID>
+T61	Location 18627 18634	Germany
+#61	AnnotatorNotes T61	<latlng>51,9</latlng><geoID>2921044</geoID>
+T62	Location 21888 21896	Victoria
+#62	AnnotatorNotes T62	<latlng>-37.0,145.0</latlng><pop>5354042</pop><geoID>2145234</geoID>
+T63	Location 21898 21907	Australia
+#63	AnnotatorNotes T63	<latlng>-27,133</latlng><geoID>2077456</geoID>
+T66	Location 22265 22274	Australia
+#66	AnnotatorNotes T66	<latlng>-27,133</latlng><geoID>2077456</geoID>
+T67	Location 23345 23352	Waltham
+#67	AnnotatorNotes T67	<latlng>42.37649,-71.23561</latlng><pop>60632</pop><geoID>4954380</geoID>
+T68	Location 24270 24279	Australia
+#68	AnnotatorNotes T68	<latlng>-27,133</latlng><geoID>2077456</geoID>
+T2	Location 23355 23357	MA
+#2	AnnotatorNotes T2	<latlng>42.36565,-71.10832</latlng><pop>6433422</pop><geoID>6254926</geoID>
+T3	Protein 1 10	Published
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1197 1198	.
+#4	AnnotatorNotes T4	END
+T5	Protein 1320 1325	Aeron
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2092 2096	2010
+#6	AnnotatorNotes T6	END
+T7	Protein 6773 6774	*
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7143 7147	from
+#8	AnnotatorNotes T8	END
+T9	Protein 57170 57184	ACKNOWLEDGMENT
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 65982 65986	from
+#10	AnnotatorNotes T10	END

@@ -1,0 +1,963 @@
+﻿Single HA2 Mutation Increases the Infectivity and
+Immunogenicity of a Live Attenuated H5N1 Intranasal
+Influenza Vaccine Candidate Lacking NS1
+Brigitte M. Krenn1.
+, Andrej Egorov1.
+*, Ekaterina Romanovskaya-Romanko2
+, Markus Wolschek1
+,
+Sabine Nakowitsch1
+, Tanja Ruthsatz1
+, Bettina Kiefmann1
+, Alexander Morokutti1
+, Johannes Humer1
+,
+Janina Geiler5
+, Jindrich Cinatl5
+, Martin Michaelis5
+, Nina Wressnigg1
+, Sanda Sturlan1
+, Boris Ferko1
+, Oleg V.
+Batishchev3
+, Andrey V. Indenbom3
+, Rong Zhu4
+, Markus Kastner4
+, Peter Hinterdorfer4
+, Oleg Kiselev2
+,
+Thomas Muster1
+, Julia Romanova1
+1 Avir Green Hills Biotechnology AG, Vienna, Austria, 2 Influenza Research Institute, Russian Academy of Medical Sciences, St. Petersburg, Russia, 3 A.N. Frumkin Institute
+of Physical Chemistry and Electrochemistry of Russian Academy of Sciences (RAS), Moscow, Russia, 4 Christian Doppler Laboratory of Nanoscopic Methods in Biophysics,
+Institute for Biophysics, Johannes Kepler University Linz, Linz, Austria, 5 Institute for Medical Virology, Johann Wolfgang Goethe University, Frankfurt, Germany
+Abstract
+Background: H5N1 influenza vaccines, including live intranasal, appear to be relatively less immunogenic compared to
+seasonal analogs. The main influenza virus surface glycoprotein hemagglutinin (HA) of highly pathogenic avian influenza
+viruses (HPAIV) was shown to be more susceptible to acidic pH treatment than that of human or low pathogenic avian
+influenza viruses. The acidification machinery of the human nasal passageway in response to different irritation factors starts
+to release protons acidifying the mucosal surface (down to pH of 5.2). We hypothesized that the sensitivity of H5 HA to the
+acidic environment might be the reason for the low infectivity and immunogenicity of intranasal H5N1 vaccines for
+mammals.
+Methodology/Principal Findings: We demonstrate that original human influenza viruses infect primary human nasal
+epithelial cells at acidic pH (down to 5.4), whereas H5N1 HPAIVs lose infectivity at pH#5.6. The HA of A/Vietnam/1203/04
+was modified by introducing the single substitution HA2 58KRI, decreasing the pH of the HA conformational change. The
+H5N1 reassortants containing the indicated mutation displayed an increased resistance to acidic pH and high temperature
+treatment compared to those lacking modification. The mutation ensured a higher viral uptake as shown by
+immunohistochemistry in the respiratory tract of mice and 25 times lower mouse infectious dose50. Moreover, the
+reassortants keeping 58KRI mutation designed as a live attenuated vaccine candidate lacking an NS1 gene induced
+superior systemic and local antibody response after the intranasal immunization of mice.
+Conclusion/Significance: Our finding suggests that an efficient intranasal vaccination with a live attenuated H5N1 virus may
+require a certain level of pH and temperature stability of HA in order to achieve an optimal virus uptake by the nasal
+epithelial cells and induce a sufficient immune response. The pH of the activation of the H5 HA protein may play a
+substantial role in the infectivity of HPAIVs for mammals.
+Citation: Krenn BM, Egorov A, Romanovskaya-Romanko E, Wolschek M, Nakowitsch S, et al. (2011) Single HA2 Mutation Increases the Infectivity and
+Immunogenicity of a Live Attenuated H5N1 Intranasal Influenza Vaccine Candidate Lacking NS1. PLoS ONE 6(4): e18577. doi:10.1371/journal.pone.0018577
+Editor: Andrew Pekosz, Johns Hopkins University - Bloomberg School of Public Health, United States of America
+Received November 17, 2010; Accepted March 6, 2011; Published April 7, 2011
+Copyright: ß 2011 Krenn et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work has been partially funded by the European Commission's 6th Framework Program projects ``Intranasal H5 Vaccine'' (SP5B-CT-2007-044512)
+and ``FLUVACC'' (LSHB-CT-2005-518281). Costs not covered by the European Grants are funded by AVIR Green Hills Biotechnology AG (AGHB) and in part by
+Russian Foundation for Basic Researches (project #08-03-00971), Program of Presidium of RAS ``Molecular and Cell Biology,'' Federal Task Program ``Scientific and
+Scientific-Pedagogic Personnel of Innovative Russia'' for 2009-2013 (state contract #P337) and Austrian Institute for Biophysics, Christian Doppler Laboratory of
+Nanoscopic Methods in Biophysics (Johannes Kepler University Linz). No additional external funding was received for this study. AGHB performed the study
+design, data collection and analysis, decision to publish, and preparation of the manuscript.
+Competing Interests: AVIR Green Hills Biotechnology (AGHB) is a privately held biopharmaceutical company based in Vienna (Austria) that draws on its own
+knowledge in virology to develop and commercialize an intranasal live attenuated vaccine targeting pandemic influenza disease among other products in the
+pipeline. BMK, AE, MW, SN, TR, BK, AM, NW, SS, BF, JH, TM, and RJ were employees of AGHB at the time of study. IPR rights related to this manuscript are covered
+by the following IP rights: DelNs1 mutants are covered by patents from AGHB and Mount Sinai School of Medicine. Patent applications covering the technology
+platform of the influenza virus and virus amplification procedure are fully owned by AGHB. In adherence to the PLoS guidelines, AGHB will make freely available
+any materials and information described in the publication that are reasonably requested by others for the purpose of academic, non-commercial research.
+* E-mail: a.egorov@greenhillsbiotech.com
+. These authors contributed equally to this work.
+PLoS ONE | www.plosone.org 1 April 2011 | Volume 6 | Issue 4 | e18577
+Introduction
+An unprecedented spread of highly pathogenic avian influenza
+viruses (HPAIV) of the H5N1 subtype was observed among wild
+and domestic birds throughout the last decade. Hundreds of cases
+of the direct transmission of avian viruses to humans with a case
+fatality rate exceeding 50% raised great concerns of a possible new
+pandemic.
+Numerous clinical studies with vaccines produced from H5N1
+viruses have demonstrated that the inactivated vaccines produced
+from the H5 hemagglutinin (HA) appeared to be poorly
+immunogenic compared to seasonal influenza strains [1,2]. A
+broader and longer lasting immunity might be induced by live
+attenuated influenza vaccines, which are believed to be superior to
+inactivated vaccines [3,4]. However, H5N1 cold adapted vaccine
+strains comprising surface antigens derived from A/Vietnam/
+1203/04 (VN1203) or A/Hong Kong/213/03 lacked replication
+in the human nasal mucosa, correlating with the observed poor
+immunological outcome [5].
+The effectiveness of intranasal live attenuated influenza vaccines
+is substantially dependent on the efficient virus uptake and
+subsequent replication in the cells of the upper respiratory tract.
+Human influenza viruses are known to attach predominantly to
+the surface of ciliated epithelial cells in the human trachea,
+bronchi, and bronchioles while avian H5N1 viruses prefer the
+lower respiratory tract, in turn binding more abundantly to the
+alveoli [6]. This could be explained by the preferential affinity of
+H5 HA to sialic acid receptors with an a2,3 galactose (a2,3Gal)
+linkage dominating on the cells of the lower respiratory tract, but
+not to the a2,6Gal type, which is abundantly present in the human
+trachea [7,8]. However, in spite of the difference in the receptor
+specificity, it was demonstrated that H5N1 viruses are able to
+infect ex vivo cultures of human nasopharyngeal, adenoid, and
+tonsillar tissues [9]. Consistently, another live attenuated H5
+vaccine candidate comprising the HA of the low pathogenic avian
+influenza virus (LPAIV) A/duck/Potsdam/86/92 (H5N3) was
+shown to replicate efficiently in the human upper respiratory tract
+(for at least 11 days) [10,11]. Therefore, the receptor specificity
+properties of influenza surface glycoprotein might not be the only
+responsible reason for the low infectivity of avian viruses in
+humans.
+Unlike isolated epithelial cells in vitro, the human airway luminal
+surface in vivo presents a significant extracellular barrier to
+influenza infection. It includes the mucociliary clearance system,
+viscous fluids, and macrophages interfering with the virus access to
+the cell surface. In addition, the measurement of the pH of the
+human nasal cavity revealed that the overall pH range at the
+anterior and posterior sites is 5.2­8.0 [12­15]. Acidic pH, heat, or
+chemical denaturants are known to promote the conformational
+change of HA into its fusogenic form, which is responsible for the
+complete viral inactivation [16]. Therefore, in order to overcome
+the human mucosal barrier, influenza viruses require a certain
+level of HA stability towards inactivating factors.
+It was described that human and LPAIVs are relatively
+resistant to an acidic pH environment because they perform the
+pH dependent conformational change of the HA at a pH range of
+5.1 to 5.4 [17]. In contrast, the HAs of H5 and H7 HPAIVs are
+much more sensitive undergoing conformational modification
+already at a pH of 5.6 to 6.0 [18]. By the mutagenesis of viral
+HA, Reed et al. succeeded in increasing the environmental
+stability of an HPAIV H5N1 strain (A/Chicken/Vietnam/C58/
+04) through the reduction of the pH of HA activation [19]. The
+obtained mutant demonstrated reduced virulence and transmis-
+sibility in wild ducks.
+We hypothesized that the poor infectivity of HPAIVs for
+mammals and, as a consequence, the insufficient efficacy of live
+attenuated H5 vaccines is related to the low stability of their HA
+protein. In order to prove our hypothesis, we constructed two
+H5N1 live attenuated vaccine candidates lacking NS1 based on
+the VN1203 virus, which differ in a single amino acid substitution
+58KRI in the HA2 subunit [20]. Reed et al. described this
+mutation as decreasing the threshold pH of the activation of the
+H5 HA protein of approx. 0.5 pH units [21]. The obtained viruses
+were compared for their stability in vitro and for the infectivity and
+immunogenicity after intranasal application in vivo in mice.
+We demonstrated that the stabilization of the HA molecule
+towards acidic pH and high temperature promotes superior
+vaccine virus infectivity in the respiratory tract and, consequently,
+increased immunogenicity in mice.
+Results
+HPAIVs but not human seasonal viruses lose their
+infectious activity at an acidic pH in primary Human
+Nasal Epithelial cells (HNEpC)
+The acidification machinery of the human nasal passageway is
+known to release protons in response to irritation or inflammation
+[22] acidifying the mucosal surface (down to pH of 5.2).
+Therefore, viruses must possess a certain level of stability to low
+pH in order to infect the upper respiratory tract. We analyzed
+whether human seasonal virus isolates differ from HPAIVs in
+infectious activity at an acidic pH. Human viruses A/Brisbane/
+59/2007 (H1N1) (BN/59/07), A/Vienna/25/07 (H3N2) (VI/25/
+07), A/St. Petersburg/14/10 (H1N1v) (SP/14/10) and HPAIVs
+VN1203 (H5N1) and A/Thailand/01/04 (H5N1) (TH/01/04) of
+an early passage level adjusted to a similar multiplicity of infection
+(moi) were admixed with acidic (pH 5.4 or/and 5.6) or neutral
+(pH 7.4) buffer followed by the inoculation of the HNEpCs. After
+removing the inoculum, the cells were incubated at a neutral pH
+for 5 hours without trypsin. The effectiveness of the infection was
+visualized by influenza nucleoprotein (NP) staining (Fig. 1). All
+human influenza viruses, including the recently appeared
+pandemic H1N1v virus, were capable of infecting cells at acidic
+conditions (Fig. 1A), while both highly pathogenic H5N1 viruses
+infected HNEpCs only at a neutral pH (Fig. 1B). A similar pH
+dependence of infection was observed in Vero cells (results are not
+shown).
+Generation of H5N1 viruses with 58KRI substitution in
+the HA2 subunit
+To investigate whether the infectivity and, consequently, the
+immunogenicity of H5N1 viruses might be improved by
+decreasing the threshold pH of HA fusion to the range described
+for human influenza viruses, we modified the HA protein by
+implementing the 58KRI substitution in the HA2 subunit of the
+VN1203 virus, according to Reed et al. [21]. This mutation
+located in the HA2 coiled-coil domain was shown to decrease the
+pH of the activation of the H5 HA protein. An additional attempt
+failed to rescue a corresponding virus comprising HA2 23GRC
+modification, which is described to decrease the pH of the fusion
+of H7N7 viruses [23].
+Increased resistance of influenza HA to an acidic pH is known
+to be linked to a decreased isoelectric point (pI) of the HA2 protein
+subunit, the pH value at which the protein charge is neutral [24].
+The calculated value pI = 4.59 for the mutated HA2 subunit was
+lower than that of the natural VN1203 HA2 subunit (pI = 4.67),
+supporting the assumption of the enhanced resistance of the
+mutated HA to acidic pH (http://isoelectric.ovh.org/EMBOSS).
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 2 April 2011 | Volume 6 | Issue 4 | e18577
+The reassortant virus containing mutation HA2 58KRI and the
+deletion of the NS1 ORF was generated by the eight-plasmid
+rescue method in Vero cells analogously to the previously
+described VN1203DNS1 virus [20] and was named
+VN1203DNS1-K58I. Both viruses comprised an HA with a
+polybasic cleavage site modified in a trypsin dependent manner
+[25]. In addition, a corresponding pair of reassortants with a
+complete NS segment was generated in the same way and named
+VN1203wtNS and VN1203wtNS-K58I, respectively.
+Mutation HA2 58KRI decreases the pH threshold of HA
+fusion and increases the virus resistance to acidic pH and
+high temperature
+To prove the impact of the introduced mutation on the pH
+optimum of HA fusion activity, we analyzed the reassortants
+VN1203DNS1 and VN1203DNS1-K58I in a fusion assay. The
+original virus had the capacity to trigger a fusion at pH
+values#5.6, whereas the same fusion rate for the mutant virus
+was observed at pH#5.3 (Fig. 2). It is noteworthy that the mutant
+H5N1 virus VN1203DNS1-K58I showed the same activation
+profile of HA as observed for the human seasonal virus A/
+Solomon Island/03/06 (H1N1) (SL/03/06).
+The result of the HA fusion assay was confirmed by the atomic
+force microscopy (AFM) technique allowing visualization of viral
+Figure 1. Infectivity of human and highly pathogenic avian viruses at an acidic pH in HNEpCs. Primary Human Nasal Epithelial cells were
+infected with human (A) epidemic BN/59/07 (H1N1), VI/25/07 (H3N2), SP/14/10 (H1N1v) or avian (B) highly pathogenic viruses VN/1203 (H5N1) and
+TH/01/04 (H5N1) at the indicated pH values. Influenza NP protein was visualized by immunostaining after incubating for 5 h.
+doi:10.1371/journal.pone.0018577.g001
+Figure 2. Hemolytic activity of influenza viruses as a function
+of pH. Viruses VN1203DNS1, VN1203DNS1-K58I, and seasonal A/SL/03/
+06 (H1N1) standardized to 128 HA units were mixed with 1%
+suspension of human erythrocytes at 0uC and pH 7.4 for 1 h and then
+the buffer was replaced with MES buffer at various pH values. After
+incubation at 37uC for 1 h hemolysis representing the fusion activity
+was determined spectrophotometrically at 405 nm. Error bars represent
+the standard deviation from triplicate experiments.
+doi:10.1371/journal.pone.0018577.g002
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 3 April 2011 | Volume 6 | Issue 4 | e18577
+interaction with the lipid membrane. Unlike the electron
+microscopy, this technique enables the imaging of biological
+samples in a natural fluid environment with atomic resolution.
+Virus particles were adsorbed on a supported bilayer lipid
+membrane (sBLM) containing GD1a ganglioside, which served
+as a receptor for the influenza virus. The conversion of the
+conformation of HA at the threshold pH value leading to the
+activation of the fusion of the virus envelope with sBLM was
+registered by changing the domain structure of the lipid bilayer.
+We found that the HA conformational change of VN1203DNS1
+occurred already at pH 5.8, whereas the VN1203DNS1-K58I
+mutant was stable under these conditions. The image confirming
+the conformational change of the mutant virus was observed at
+pH 5.0 (detailed data are presented as supporting information,
+Text S1, Fig.S1).
+Next, we investigated whether the virus VN1203DNS1-K58I,
+which was more resistant to an acidic pH, was also more stable at
+an increased temperature. VN1203DNS1 and VN1203DNS1-
+K58I viruses were incubated at a temperature ranging from 46uC
+to 58uC for 30 min with the subsequent measurement of the
+remaining infectious and hemagglutination titers. We found that
+the infectivity of the VN1203DNS1 virus was impaired already at
+50uC, as indicated by a drop in the infectious titer more than 100
+times. At the same time, this temperature did not affect the
+infectious titer of the mutant virus (Fig. 3). After incubation at
+52uC, the VN1203DNS1 virus completely lost the infectious titer,
+whereas the titer of the mutant virus VN1203DNS1-K58I
+decreased by 1.0 log10 TCID50/ml. Analogous results were
+obtained by assessing HA titers indicating improved temperature
+stability of mutated surface glycoprotein.
+Mutation HA2 58KRI preserves virus infectivity at an
+acidic pH in cell culture
+The infectivity of reassortants VN1203DNS1 and VN1203DNS1-
+K58I under acidic conditions was compared in Vero cells at pH 5.4,
+5.6, 5.8, or 7.4. The human BN/59/07 virus was taken as a control
+sample resembling a pH stable phenotype. As is shown in Fig. 4A, the
+mutant virus VN1203DNS1-K58I gained a resistance to low pH
+infecting Vero cells at pH 5.6, whereas the limit of infection was at
+pH 5.8 for the original virus VN1203DNS1. These results were
+confirmed on MDCK cells estimated by the flow cytometry analysis
+under similar conditions (Fig. 4B). As expected, the human BN/59/
+07 (H1N1) virus was infectious on Vero cells at pH 5.4 and infected
+32% of the MDCK cells even at pH 5.2 (Fig. 4C).
+Mutation HA2 58KRI increases virus sensitivity to
+lysosomotropic agents
+Avian influenza viruses in contrast to human strains are more
+resistant to the prevention of endosomal acidification mediated by
+lysosomotropic agents, such as chloroquine and NH4Cl [24].
+Therefore, we compared the infectivity of both viruses in the
+presence of chloroquine or NH4Cl (Fig. 5). As a control, the
+seasonal influenza strain BN/59/07 (H1N1) was included in the
+study. The infection of Vero cells with VN1203DNS1-K58I was
+decreased by 10 mM chloroquine and completely inhibited by
+50 mM. In contrast, the growth of the original virus was hardly
+affected even at 50 mM chloroquine. BN/59/07 (H1N1) was most
+sensitive to chloroquine as the infection was reduced by 1 mM.
+These results were confirmed by another lysosomotropic agent
+(1 mM NH4Cl) when the infectivity of the VN1203DNS1-K58I or
+BN/59/07 (H1N1) viruses was almost lost, whereas the
+VN1203DNS1 virus was not affected. Thus, the mutation HA2
+58KRI converted the phenotype of the avian influenza virus to be
+more similar to that of the human isolate.
+Mutation HA2 58KRI decreases the replication efficiency
+of H5N1 viruses in cell culture
+To elucidate whether the changed stability of HA to an acidic
+pH has any influence on the replication efficiency in various cell
+lines, we compared the viral growth capacity in Vero, MDCK,
+A549 (human lung carcinoma cell), and in HBE (human bronchial
+epithelial) cells. As the DNS1 viruses are replication deficient in
+interferon competent cell lines (all mentioned above except Vero),
+two similar viruses expressing functional NS1 protein
+VN1203wtNS and VN1203wtNS-K58I were used in these
+experiments. Similar results of stability towards an acidic pH
+and elevated temperature were obtained for these viruses (results
+are not shown). Growth curves made for each cell line revealed
+that the introduced mutation HA2 58KRI impaired the yield of
+the mutant virus VN1203wtNS-K58I in HBE cells of about 150
+Figure 3. Effect of elevated temperature on the viral HA and infectious titer. Virus preparations were incubated at indicated temperatures
+for 30 min. HA titers (bars, left Y-axis) and infectious titers measured as log10 TCID50 (graphs, right Y-axis) were determined for VN1203DNS1 (black
+bars and lines) and VN1203DNS1-K58I (gray bars and lines) viruses. The lower limit of detection for the TCID50 titer is 1.5 log10 TCID50/ml indicated by
+the horizontal dashed line.
+doi:10.1371/journal.pone.0018577.g003
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 4 April 2011 | Volume 6 | Issue 4 | e18577
+times. A similar tendency was observed in Vero, MDCK, and
+A549 cells (Fig. 6). Therefore, a mutation decreasing the pH
+threshold of the HA conformational change may affect the growth
+of H5N1 viruses in continuous cell lines.
+Mutation HA2 58KRI increases virus infectivity in mice
+To assess the relevance of the in vitro findings in animals, we
+compared the virus infectivity in mice. First, we measured the
+MID50 of viruses with mutant or original HA. The animals were
+infected with VN1203wtNS or VN1203wtNS-K58I viruses in a
+dose ranging from 2.5 to 4.5 log10 TCID50/animal. Nasal tissues
+were collected 60 h after i.n. administration and the tissue
+homogenates were investigated for the presence of infectious virus
+by TCID50 assay. The mutant virus VN1203wtNS-K58I had an
+approximately 25-fold lower MID50 (MID50 2.9 log10) compared
+to that found for the original virus (MID50 4.3 log10) (Fig. 7). This
+result was consistent in two independent experiments.
+To compare the extent of the uptake of the original and mutated
+viruses, the animals were infected i.n. with live attenuated
+replication deficient VN1203DNS1 or VN1203DNS1-K58I vaccine
+candidates to ensure single round infection at a dose of 6 log10
+TCID50/animal. A qualitative assessment of infected foci was
+carried out by the immunohistochemistry of the sections obtained
+from the nasal mucosa, trachea, and lung tissues stained with anti-
+influenza NP primary antibody. The mutant VN1203DNS1-K58I
+virus increased the extent of the infection of the alveolar regions of
+lungs, trachea and nasal mucosa, where more foci of the infection
+were seen for all 5 immunized animals when compared to the
+original VN1203DNS1 virus (Fig. 8). Thus, the introduced mutation
+promoted more intensive viral uptake in the mouse respiratory tract.
+Figure 4. Infectivity of viruses at different pH values in tissue culture. (A) Virus VN1203DNS1 or VN1203DNS1-K58I was mixed with MES
+buffer at indicated pH values and used for infection of Vero cells at moi 2. Influenza NP was visualized by immunostaining after incubating for 5 h. (B)
+MDCK cells were infected with VN1203DNS1 or VN1203DNS1-K58I viruses at indicated pH values. The number of infected cells was determined after
+the immunostaining of viral NP (5 h p.i.) by flow cytometry. The indicated numbers show the percentage of infected cells. (C) Vero or MDCK cells were
+infected with seasonal human influenza virus BN/59/07 (H1N1) at indicated pH values. Virus infectivity was analyzed analogously by immunostaining
+or by flow cytometry.
+doi:10.1371/journal.pone.0018577.g004
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 5 April 2011 | Volume 6 | Issue 4 | e18577
+Figure 5. Viral sensitivity to the lysosomotropic agents chloroquine or NH4Cl. Pretreated Vero cells were infected with VN1203DNS1,
+VN1203DNS1-K58I, or seasonal BN/59/07 (H1N1) virus at moi 5 in a medium supplemented with chloroquine or NH4Cl at indicated concentrations.
+The infected cells were visualized by the immunostaining of influenza NP (5 h p.i.).
+doi:10.1371/journal.pone.0018577.g005
+Figure 6. Growth curves on different cell lines. Vero (A), MDCK (B), A549 (C), or HBE (D) cells were infected with VN1203wtNS or VN1203wtNS-
+K58I virus at moi 0.001. Supernatants were collected at indicated time points and virus infectious titers were determined by TCID50 assay on Vero
+cells.
+doi:10.1371/journal.pone.0018577.g006
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 6 April 2011 | Volume 6 | Issue 4 | e18577
+Mutation HA2 58KRI contributes to increased virus
+immunogenicity in mice
+In a previous study, we noticed that vaccine candidate
+VN1203DNS1 did not induce any HAI antibodies in mice in
+contrast to macaques and ferrets, although still providing
+protection against challenge viruses [20]. Therefore, we were
+interested in whether modified VN1203DNS1-K58I virus is able
+to evoke functional HAI or neutralizing antibodies in a mouse
+model. A single i.n. vaccination with the VN1203DNS1 virus
+induced detectable HAI titers only in 2 out of 6 animals
+Figure 7. Viral growth capacity in the mouse upper respiratory tract. Mice were infected i.n. at doses of 2.5, 3.5, or 4.5 log10 TCID50/animal of
+VN1203wtNS or VN1203wtNS-K58I virus. The presence of the virus was determined in 10% w/v nasal tissue homogenates by TCID50 assay 60 h p.i.
+The lower limit of detection for the TCID50 titer is 1.5 log10 TCID50/ml indicated by the horizontal dashed line. The number of animals infected/total
+number is indicated above the bars. Error bars represent the standard deviation.
+doi:10.1371/journal.pone.0018577.g007
+Figure 8. Viral infectivity in the mouse respiratory tract. Mice were infected i.n. with 6 log10 TCID50/animal of VN1203DNS1 or VN1203DNS1-
+K58I virus or mock-infected with PBS. Nasal, tracheal, and lung tissues were examined 12 h p.i. for the presence of virus infected cells by the
+immunostaining of influenza NP.
+doi:10.1371/journal.pone.0018577.g008
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 7 April 2011 | Volume 6 | Issue 4 | e18577
+(GMT = 6.3), whereas the administration of the mutant virus
+VN1203DNS1-K58I induced a response in 5 animals (GMT = 25.4)
+(Fig. 9A). An MNA test also revealed higher titers of neutralizing
+antibodies induced by VN1203DNS1-K58I (GMT = 57) virus than
+that induced by VN1203DNS1 (GMT = 27.9) (Fig. 9B). The
+significant superior induction of specific antibodies by the mutated
+vaccine virus was confirmed in an ELISA, where the IgG GMT
+evoked by VN1203DNS1 was 3225 and by VN1203DNS1-K58I
+was 8127 (Fig. 9C). The measurement of specific IgA antibodies in
+pooled nasal washes of immunized mice indicated fourfold more
+antibodies after immunization with the mutant virus (Fig. 9D).
+Thus, a single immunization of mice with the VN1203DNS1-K58I
+virus, containing the stability improved HA, induced a significantly
+higher immune response as reflected by increased serum and
+mucosal antibody titers.
+Despite the observed differences in immunogenicity, both
+VN1203DNS1 and VN1203DNS1-K58I viruses completely pre-
+vented the replication of the homologous challenge virus
+VN1203wtNS in the lungs of 3/5 and 4/5 animals, respectively,
+taken 3 days post immunization, (data not shown) showing no
+statistically significant difference.
+Discussion
+The effective spread of influenza viruses in the human
+population may require a certain level of environmental stability
+of the virus particles depending on a pathway of their transmission.
+Three modes of infection with influenza viruses in people have
+been postulated, including aerosol transmission, infection with
+large droplets, and self-inoculation of the nasal mucosa by
+contaminated hands [26]. Although, these routes of infection are
+not mutually exclusive, effective infection via the nasal route could
+be dependent on the pH stability of the virus particles due to the
+mechanisms of the fast acidification of human nasal mucosal
+surfaces [22].
+Similar to the previous observation [27], we found that human
+epidemic influenza viruses, irrespective of their subtype (H1, H1v,
+H3), are more resistant to physical factors such as low pH (5.4­5.6)
+or elevated temperature exposure than highly pathogenic H5N1
+influenza strains. It should be mentioned that the pH stability
+phenotype might be abrogated upon passaging in tissue culture
+[28]. Therefore, the virus isolates of the early passage level were
+used in this study. Contrary to human strains, HPAIVs and their
+derivates with a modified HA cleavage site were not infectious at
+pH#5.6.
+We hypothesize that this relatively low pH stability of HPAIVs
+viruses might be a limiting factor for infectivity in the mammalian
+upper respiratory tract particularly in the nasal compartment. To
+prove the hypothesis we introduced a known stabilizing mutation
+58KRI into HA2 subunit of the VN1203 H5N1 virus and
+compared the properties of the obtained viruses in vitro and in vivo.
+We revealed that the in vitro parameters, such as the pH threshold
+Figure 9. Antibody titers after single immunization of mice. Mice were vaccinated i.n. with 6 log10 TCID50/animal of VN1203DNS1 or
+VN1203DNS1-K58I virus. Sera (collected 4 weeks p.i.) were analyzed for HAI (A), neutralizing (B) and for total IgG (C) antibodies measured by ELISA.
+The titers of the individual animals (symbols) and the geometric mean titers (horizontal lines) are indicated. An undetectable antibody titer was
+assigned a value of 4 (HAI; A) or 8 (MNA; B). (D) Pools of nasal washes (collected 4 weeks p.i.) were examined for the presence of homologous IgA
+antibodies. * indicates p,0.05 determined by a t-Students test.
+doi:10.1371/journal.pone.0018577.g009
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 8 April 2011 | Volume 6 | Issue 4 | e18577
+of the HA conformational change, thermo-stability of HA protein,
+and virus sensitivity to drugs preventing the endosomal acidifica-
+tion of mutated virus, correspond (although not to the full extent)
+to those of the human influenza isolates. Moreover, by applying
+the FMA technique, we could reveal that the conformational
+change of the original, but not the mutated HA, occurs already at
+pH 5.8.
+Interestingly, the introduction of the 58KRI substitution
+impaired the viral growth of the pH stable mutant in HBE cells.
+A similar finding was made for the HA2 G23RC mutant of A/
+Nederlands/219/03 (H7N2) virus with a decreased pH of HA
+activation showing a reduced replication in MDCK cells [23].
+Thus, decreasing the pH value of HA activation to the level of
+human viruses might not be beneficial for growth in tissue culture.
+These data are consistent with the previous observation showing
+that the adaptation of human influenza viruses to high growth in
+MDCK cells was accompanied with the appearance of mutations
+that elevate the pH of HA membrane fusion [28].
+In contrast to the tissue culture results, the intranasal infection
+of mice revealed that the pH stable variant was more infectious in
+the mouse respiratory tract, including nasal mucosa, trachea, and
+lungs, as demonstrated by immunohistochemistry. Such a
+difference could not be explained by the superior replication
+capacity of the mutant virus, since NS1 protein deletion abrogated
+the multicycle replication. [20,29].
+For an analogous pair of viruses comprising a functional NS1,
+the HA2 modification diminished the MID50 25 times compared
+to the non-mutated strain. These results are in agreement with the
+data of Ilyushina et al., showing that equivalent modifications of
+the HA of an H7N7 virus decreased the mouse lethal dose 50 by 3
+log10 units [23]. Reed et al. demonstrated, for a highly pathogenic
+H5N1 strain, that the reduction of the pH of HA activation
+increased the viral shedding from the trachea but not from the
+cloaca of infected birds, indicating that the threshold pH of HA
+conformational change could be important for host and/or tissue
+tropism [19]. Consistently for better viral uptake, the
+VN1203DNS1-K58I virus appeared to be more immunogenic in
+mice, inducing significantly higher HAI and neutralizing antibody
+titers as well as mucosal IgA antibodies. We observed a similar
+regularity for seasonal influenza viruses in ferrets where the stable
+virus induced an enhanced antibody response when compared to
+the mutant having HA destabilizing mutation [30].
+The acidification of the mucosal surfaces is one of the oldest
+primary innate defense mechanisms in mammals against a variety
+of pathogens. The degree of acidification depends on the
+distribution of the submucosal glands responsible for the liquid
+secretion and, therefore, might differ in various animal species
+[31]. There is evidence that mouse epithelium cell composition
+and ion transport traits are similar to that of the human
+conducting airways [32,33]. The nasal epithelia of humans and
+mice are abundantly supplied with qualitatively similar glands
+[34]. The pH of the human nasal mucosa in healthy adults is
+known to be slightly acidic [12­15]. Moreover, the human nasal
+airway epithelium starts to release acid in reaction to organic dust
+or inflammation [22,34]. In combination with the receptor
+specificity factor, the human nasal compartment might be
+suboptimal for an efficient infection by HPAI viruses, hence
+requiring a low respiratory tract delivery by aerosols (reviewed in
+[26]). In this regard, mutations decreasing the pH of HA
+conformational change and, therefore, stabilizing the HA of H5
+HPAIVs might be a prerequisite for their efficient spread in
+humans via a large droplet mechanism infecting the upper
+respiratory tract (nose). A relatively high pH of HA activation
+(ranging from 5.6 to 5.9) was described as being essential for
+infectivity, shedding, and transmission in wild ducks for HPAIVs
+[19]. However, for the efficient infection of mice and probably
+other mammals including humans, we found that a lower pH
+optimum of the HA activation might be required.
+Interestingly, the mutation HA2 K58RI was first described as
+stabilizing the HA towards a low pH and thereby conferring
+resistance to the antiviral substance amantadine in a variant of the
+HPAI virus Rostock (H7N1) [35]. Amantadine, besides for
+inhibiting virus uncoating during the entry step, also prevents
+the release of infectious influenza virus particles comprising an HA
+with a polybasic cleavage site [36]. As our results indicate that the
+mutation HA2 K58RI increases the infectivity of H5 viruses for
+mice, the use of amantadine in clinics, or especially in farming,
+could support the appearance of H5 HPAIVs more infectious for
+mammals [37].
+It is noteworthy that LPAIVs (H5N1) are known to have a pH
+range of HA activation similar to that of human influenza viruses
+and, therefore, are extremely stable at a low pH [18]. This
+property is essential for the efficient replication of viruses in the
+low-pH intestinal tract, which is the main site of replication for
+these viruses. In addition, LPAIVs circulate in wild birds and
+transmit through the fecal-oral route, requiring virus stability in
+fresh water, usually with a pH of around 6.0 [38]. In contrast,
+HPAIVs circulate mostly in domestic poultry and are excreted
+mainly from the trachea (upper respiratory tract), rather than the
+cloaca, and they do not persist very long in water [39].
+Theoretically, stable LPAIVs might be potentially more infectious
+for the human upper respiratory tract. However, other factors
+such as the incompatibility of the avian virus polymerase complex
+with mammalian host factors or the temperature optimum of the
+polymerase activity were shown to restrict their efficient
+replication in mammals [40­45]. In this regard, it seems logical
+that a live influenza H5N1vaccine reassortant virus comprising the
+HA of the LPAIV A/Potsdam/1402-6/86 (H5N3) in combination
+with the polymerase complex of a human cold-adapted influenza
+virus was shown to replicate in the upper respiratory tract of
+humans [11], whereas analogous vaccine candidates comprising
+the HAs of VN1203 or A/Hong Kong/213/03 did not.
+Intranasal vaccination with live attenuated influenza vaccines
+implies the infection of the nasal mucosa with the large droplet
+mode. Our findings suggest that an efficient intranasal vaccination
+may require a certain level of pH and the temperature stability of
+HA in order to achieve an optimal uptake of the attenuated virus
+by the nasal epithelial cells. In this context, any mutation
+destabilizing the HA appearing during vaccine construction or
+production can severely affect vaccine immunogenicity. In
+addition, since the nasal mucosa serves as the first target for large
+droplet settling, we believe that the HA mutations involved in
+modulating the pH and temperature stability, might be also
+important for the virus transmissibility besides the mutations
+regulating receptor binding specificity.
+Materials and Methods
+Cell culture
+A Vero cell line was obtained from the European Collection of
+Cell Cultures and was adapted and further cultivated at 37uC and
+5% CO2 in a serum-free cultivation medium (SFM; Opti-pro
+medium supplemented with 4 mM L-glutamine; Invitrogen).
+Madin-Darby canine kidney (MDCK; ATCC CCL-34) cells were
+cultivated at 37uC and 5% CO2 in DMEM medium (Invitrogen)
+comprising 2% Fetal Bovine Serum (FBS, Invitrogen) and 2 mM
+L-glutamine. Human bronchial epithelial 16HBE14o­
+(HBE) cells
+(obtained from J. Seipelt, Austria) were grown in MEM
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 9 April 2011 | Volume 6 | Issue 4 | e18577
+(Invitrogen) supplemented with 10% FBS and 2 mM L-glutamine.
+For the latter the dishes, were coated with 10 mg/ml BSA (Sigma),
+30 mg/ml bovine collagen type I (Promocell), and 10 mg/ml human
+fibronectin (BD Pharmingen) in Ham's F12 medium (HyClone).
+The carcinoma human alveolar basal epithelial A549 cells (obtained
+from J. Seipelt, Austria) were maintained in MEM supplemented
+with 10% FBS and 2 mM L-glutamine. Human Nasal Epithelial
+Cells (HNEpCs) were provided by PromoCell (Germany) and
+cultivated according to the manufacture's procedure.
+Viruses
+The human influenza viruses A/Solomon Island/3/2006
+(H1N1; NIBSC) (SL/03/06) and A/Brisbane/59/2007 (H1N1;
+NIBSC) (BN/59/07) were propagated in the allantoic cavity of 9-
+to 11-days old embryonated hen's eggs at 37uC. Allantoic fluids
+were collected 48 h post infection (p.i.) and clarified by
+centrifugation. The primary influenza isolate A/Vienna/25/07
+(H3N2) (VI/25/07) (MDCK - derived, A/Wisconsin/67/05-like,
+HA and NA GenBank accession numbers are JF340081 and
+JF340082 respectively) was provided by the Austrian National
+Reference Centre for Influenza (Institute of Virology, Vienna,
+Austria). The primary influenza isolate A/St.Petersburg/14/10
+(H1N1v) (SP/14/10, MDCK ­ derived, HA and NA GenBank
+accession numbers are JF340083 and JF340084) was provided by
+Influenza Research Institute (Saint Petersburg, Russia). Avian
+influenza viruses A/Vietnam/1203/04 (H5N1) (VN1203)
+(MDCK - derived, passage 3) and A/Thailand/01/04 (H5N1)
+(TH/01/04) (MDCK - derived, passage 2) were provided by the
+Institute for Medicinal Virology, Johann Wolfgang Goethe
+University Frankfurt (Frankfurt, Germany). Viral stocks were
+produced in MDCK cells in SFM supplemented with 5 mg/ml
+porcine trypsin (Sigma) cultivated at 37uC and 5% CO2.
+The generation of the reassortant virus VN1203DNS1 was
+described previously [20]. Briefly, the 5:3 reassortant viruses
+contain HA, NA, and M from VN1203 (H5N1) and the internal
+protein genes from the WHO influenza vaccine strain IVR-116
+(H1N1). The HA polybasic cleavage site as well as the NS1 open
+reading frame were deleted. The virus VN1203DNS1-K58I differs
+from VN1203DNS1 by a single mutation in the HA2 58KRI
+introduced by site directed mutagenesis (Stratagene).
+In addition, a corresponding couple of viruses was constructed
+as 5:3 reassortants deriving the HA with a modified cleavage site as
+described above, the M and the NA of influenza virus VN1203 in
+combination with all other genes including the complete NS
+segment of the IVR-116 strain and named VN1203wtNS or
+VN1203wtNS-K58I (comprising the HA2 58KRI mutation).
+For virus stocks, Vero cells were inoculated at a moi of 0.001 in
+SFM or MES buffer (100 mM MES, 150 mM NaCl, 0.9 mM
+CaCl2, 0.5 mM MgCl2; pH 5.6) and cultivated at 37uC and 5%
+CO2 in SFM supplemented with 0.25 mg/ml Amphotericin B
+(Amph B; Bristol-Myers Squibb) and 5 mg/ml porcine trypsin
+(Sigma). Infectious virus titers were determined in Vero cells by
+calculating the 50% tissue culture infectious doses per ml
+(TCID50/ml) according to Reed and Muench [46].
+Fusion assay
+Viruses standardized to 128 HA units (HAU; determined
+following standard procedure) per 50 ml were diluted 1:4 in a 1%
+suspension of human erythrocytes (Siemens) and incubated on ice
+for 1 h to allow virus binding. Then, the mixtures were pelleted at
+72 g and the supernatants were removed. 100 ml of MES buffer at
+various pH values (from 5.0 to 6.0) were added, followed by
+incubating at 37uC for 1 h. After centrifugation (72 g), 50 ml of
+supernatant were transferred to 96-well plates and the amount of
+hemoglobin released by virus-cell fusion induced hemolysis was
+determined by the measurement of optical density at 405 nm.
+Reported results are the means 6 standard deviations (SD) of 3
+replicates at the indicated pH value.
+Effect of various pH values or lysosomotropic reagents
+on virus infectivity in vitro
+Semi-confluent Vero cells were infected with virus at moi 2.
+Virus inoculum was prepared in MES buffer (0.25 mg/ml Amph
+B) at the indicated pH value or in SFM supplemented with
+0.25 mg/ml Amph B and chloroquine (Sigma) or NH4Cl at
+indicated concentrations. It was applied to the cells at 37uC and
+5% CO2 for 30 min. Then, the inoculum was replaced with SFM
+and 5 h p.i. cells were fixed with 4% para-formaldehyde,
+permeabilized with 1% Triton X100 (in PBS) and blocked (PBS
++ 1% BSA). Infected cells were stained with influenza anti-
+nucleoprotein (NP) monoclonal antibody (Millipore, 1:5000 in
+PBS + 1% BSA) followed by Alexa Fluor 488 conjugated anti-
+mouse antibody (Invitrogen, 1:1000 in PBS + 1% BSA). Images
+were taken on an Olympus CKX41 Fluorescence Microscope with
+connected Olympus camera system E330.
+Flow cytometry
+Confluent MDCK cells were infected with virus at moi 2 in
+MES buffer (0.25 mg/ml Amph B) at the indicated pH values or
+mock-infected. 5 h p.i. cells were detached with 0.2% trypsin­
+EDTA (Cellgro), fixed with Fix/Perm buffer (BD Cytofix/
+Cytoperm Plus Kit), blocked in PBS (+1% FBS) overnight (o.n.),
+permeabilized and stained with the FITC-labelled mAb against
+NP (Imagen, UK). The percentage of NP-positive cells was
+determined by flow cytometry using an Epics Elite XL-MCL flow
+cytometer and EXPO 32 software (Coulter Immunotech, F).
+Virus growth kinetics
+To determine the growth kinetics, four different cells lines
+(Vero, MDCK, A549, and HBE cells) were infected with
+VN1203wtNS or VN1203wtNS-K58I at moi 0.001 in SFM (+
+0.25 mg/ml Amph B). After incubating at 37uC and 5% CO2 for
+30 min, the inoculum was removed and the cells were maintained
+at 37uC 5% CO2 in SFM supplemented with 4 mM L-glutamine,
+0.25 mg/ml Amph B, and 5 mg/ml porcine trypsin (Sigma).
+Supernatants were collected 16, 24, 48, and 72 h p.i. and virus
+titers were determined by TCID50 assay on Vero cells.
+Infectivity in mice
+Animal experiments were conducted in accordance with the
+Declaration of Helsinki and approved by National Authorities:
+One mouse study was approved by the Austrian regulatory
+authorities (MA58/000351/2009/13). The other two studies were
+done under the Russian Influenza Research Institutes Ethics
+Committee that is registered at the US Department of Health and
+Human Services under the IORG Number IORG0004322 Rsch
+inst of Influenza IRB # 1.
+Groups of 6 to 8 weeks old out bred female mice were infected
+i.n. without narcosis with 20 ml of preparations of VN1203wtNS or
+VN1203wtNS-K58I virus at a dose of 4.5, 3.5, or 2.5 log10
+TCID50/animal. 60 h p.i. nasal tissues were collected and the
+presence of infectious virus in 10% w/v tissue homogenates [in
+SFM supplemented with 1% antibiotic-mix (Invitrogen), 25 mg/ml
+gentamicin (Invitrogen)] was determined by TCID50 assay on
+Vero cells. Mouse infectious dose 50 (MID50) titers were calculated
+by using the method of Kerber and expressed as the TCID50 value
+corresponding to 1 MID50 [47].
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 10 April 2011 | Volume 6 | Issue 4 | e18577
+Histopathology
+Groups of five 6 to 8 weeks old female BALB/c mice (Charles
+River) were intranasally (i.n.) infected under ether narcosis with
+50 ml of VN1203DNS1 or VN1203DNS1-K58I viruses at a dose of
+6 log10 TCID50/animal. An additional group of four mice was
+mock treated i.n. with 50 ml of PBS. 12 h p.i. mice were sacrificed
+and tissues of the respiratory tract were fixed in 7% formalin and
+paraffin embedded. Sections of the nasal epithelium, the trachea
+and lungs were prepared and influenza infected cells were detected
+with influenza anti-NP monoclonal antibody (1:5000 in PBS;
+Millipore) followed by immunoperoxidase visualization (standard
+protocol). Sections were counterstained with hemalum. This
+animal study was approved by the Austrian regulatory authorities
+(MA58/000351/2009/13).
+Immunogenicity and protective efficacy in mice
+Groups of 6 to 8 week old out bred female mice were
+immunized i.n. under narcosis once with 50 ml of VN1203DNS1
+or VN1203DNS1-K58I virus at a dose of 6 log10 TCID50/animal.
+The control group was treated with PBS. 28 days post treatment,
+sera and nasal washes were taken and analyzed for the presence of
+vaccine strain specific antibodies by HAI assay, MNA, or ELISA.
+To obtain nasal secretions, salivation was induced by i.p. injection
+of 0.1 mg pilocarpine-HCl (Sigma). Concurrent small amounts of
+nasal secretions in the nostrils were immediately absorbed with the
+aid of sterile wicks and eluted in 50 ml of ice-cold sterile PBS for
+4 h. Group-specific pools were made and stored at 220uC.
+Treated animals were challenged on day 28 p.i. with 50 ml of
+VN1203wtNS (4 log10 TCID50/animal) virus under ether narcosis.
+On day 3 post challenge, 3 mice from each group were euthanized;
+the lung tissues were collected. The viral load was determined in a
+10% w/v tissue homogenate by TCID50 assay on Vero cells.
+Detection of serum antibody titer by a hemagglutination
+inhibition assay (HAI)
+Sera from the mice immunized with VN1203DNS1 or
+VN1203DNS1-K58I or mock-treated were diluted 1:4 with
+Receptor Destroying Enzyme (RDE; Denka Seiken, Japan) and
+incubated at 37uC o.n. Thereafter, samples were inactivated at
+56uC for 30 min and serial twofold dilutions were prepared.
+25 ml/well of the standardized antigen (4 HAU/25 ml) were
+added. After incubating 1 h at RT, 50 ml of 1% horse erythrocytes
+(+ 1% BSA, Sigma) were added and the plates were incubated at
+RT for 1 h.
+Detection of neutralizing antibody titer by a
+microneutralization assay (MNA)
+MNA was performed as previously described [20]. Briefly, serial
+twofold dilutions of RDE-pre-treated sera were combined with
+50 ml of a standardized viral suspension (100 TCID50/50 ml) and
+incubated for 2 h at 37uC. Vero cells were added and incubated
+for 20 h, washed, and acetone fixed. An influenza A virus NP-
+specific monoclonal antibody conjugated with HRP (107L-Px,
+4 mg/ml, Dr. E. Vareckova, Slovak Academy of Sciences) diluted
+in a blocking buffer (PBS containing 0.5% I-Block and 0.1%
+Tween-20) was added for 1 h. After adding the substrate (TMB,
+KPL), the average absorption at 450 nm (A450) was determined for
+the control wells of virus-infected (VC) and uninfected (CC) cells
+and the neutralizing endpoint (NEP) was determined by using a
+50% specific signal calculation.
+NEP ~
+average A450 of VC wells
+ð Þ { average A450 of CC wells
+ð Þ
+½ 
+2
+z average A450 of CC wells
+ð Þ
+The endpoint titer was expressed as the reciprocal of the highest
+dilution of serum with an A450 value less than NEP.
+Detection of vaccine specific serum IgG and mucosal IgA
+by ELISA
+A modified enzyme-linked immunosorbent assay (ELISA)
+protocol was performed as described previously [48,49]. Briefly,
+UV-inactivated VN1203DNS1 virus (adjusted to 40 HAU/well in
+carbonate buffer; pH 9.6) was used as a coating antigen. After
+washing and blocking serially twofold diluted samples (serum for
+IgG ELISA or group specific pools of nasal washes for mucosal
+IgA ELISA) were added and incubated at RT for 1.5 h. H5-
+specific IgG or IgA antibodies were detected with goat anti-mouse
+IgG conjugated to HRP (0.25 mg/ml; KPL) or goat anti-mouse
+IgA conjugated with AP (0.25 mg/ml; Rockland Immunochemi-
+cals). Amount of IgG was determined by using TMB (KPL)
+substrate and level of IgA by Lumi-Phos Plus substrate (Aureon
+Biosystems). The cutoff values were defined as the mean value of
+the negative control samples plus 3 standard deviations. H5-
+specific IgG as well as IgA were presented in log2 titer.
+Supporting Information
+Figure S1 Virus stability to low pH determined by
+atomic force microscopy (AFM). (A) Supported bilayer lipid
+membrane (sBLM) on mica: phase and topography image.
+Topography image of VN1203DNS1-K58I virus adsorbed on
+sBLM at pH 6.5. (B) Phase images of VN1203DNS1 and
+VN1203DNS1-K58I viruses on sBLM at pH 6.5­5.8­5.0. The
+bright regions in the phase images correspond to the liquid
+disordered domains in the lipid bilayer. (C) Change of the area
+ratio of the bright and dark regions on the phase images of the two
+different viruses. The error bars represent the standard deviation
+from five measurements.
+(TIF)
+Text S1 The stability of the viruses VN1203DNS1 and
+VN1203DNS1-K58I to low pH analyzed by AFM.
+(DOC)
+Acknowledgments
+We would like to thank Nicole Ferstl and Andrea Triendl for their excellent
+technical assistance. We would also like to thank Dr. Horst Fischer (CHORI,
+Oakland) for his helpful discussions and reviewing the manuscript.
+Moreover, we would like to acknowledge Dr. E. Vareckova of the Slovak
+Academy of Sciences for providing the influenza A anti-NP antibody.
+Author Contributions
+Conceived and designed the experiments: BMK AE MW SN RZ PH OK
+TM JC MM JR. Performed the experiments: BMK ER TR BK AM NW
+SS BF OB AI MK JH JG. Analyzed the data: BMK AE RZ PH TM JR.
+Contributed reagents/materials/analysis tools: ER TR SS RZ PH. Wrote
+the paper: BMK AE JR OB AI.
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 11 April 2011 | Volume 6 | Issue 4 | e18577
+References
+1. Treanor JJ, Wilkinson BE, Masseoud F, Hu-Primmer J, Battaglia R, et al. (2001)
+Safety and immunogenicity of a recombinant hemagglutinin vaccine for H5
+influenza in humans. Vaccine 19: 1732­1737.
+2. Treanor JJ, Campbell JD, Zangwill KM, Rowe T, Wolff M (2006) Safety and
+immunogenicity of an inactivated subvirion influenza A (H5N1) vaccine.
+N Engl J Med 354: 1343­1351.
+3. Treanor JJ, Kotloff K, Betts RF, Belshe R, Newman F, et al. (1999) Evaluation
+of trivalent, live, cold-adapted (CAIV-T) and inactivated (TIV) influenza
+vaccines in prevention of virus infection and illness following challenge of adults
+with wild-type influenza A (H1N1), A (H3N2), and B viruses. Vaccine 18:
+899­906.
+4. Belshe RB, Gruber WC, Mendelman PM, Cho I, Reisinger K, et al. (2000)
+Efficacy of vaccination with live attenuated, cold-adapted, trivalent, intranasal
+influenza virus vaccine against a variant (A/Sydney) not contained in the
+vaccine. J Pediatr 136: 168­175.
+5. Karron RA, Talaat K, Luke C, Callahan K, Thumar B, et al. (2009) Evaluation
+of two live attenuated cold-adapted H5N1 influenza virus vaccines in healthy
+adults. Vaccine 27: 4953­4960.
+6. van Riel D, den Bakker MA, Leijten LM, Chutinimitkul S, Munster VJ, et al.
+(2007) Seasonal and pandemic human influenza viruses attach better to human
+upper respiratory tract epithelium than avian influenza viruses. Am J Pathol 176:
+1614­1618.
+7. Suzuki Y (2005) Sialobiology of influenza: molecular mechanism of host range
+variation of influenza viruses. Biol Pharm Bull 28: 399­408.
+8. Shinya K, Ebina M, Yamada S, Ono M, Kasai N, et al. (2006) Avian flu:
+influenza virus receptors in the human airway. Nature 440: 435­436.
+9. Nicholls JM, Chan MC, Chan WY, Wong HK, Cheung CY, et al. (2007)
+Tropism of avian influenza A (H5N1) in the upper and lower respiratory tract.
+Nat Med 13: 147­149.
+10. Desheva JA, Lu XH, Rekstin AR, Rudenko LG, Swayne DE, et al. (2006)
+Characterization of an influenza A H5N2 reassortant as a candidate for live-
+attenuated and inactivated vaccines against highly pathogenic H5N1 viruses
+with pandemic potential. Vaccine 24: 6859­6866.
+11. Rudenko L, Desheva J, Korovkin S, Mironov A, Rekstin A, et al. (2008) Safety
+and immunogenicity of live attenuated influenza reassortant H5 vaccine (phase
+I-II clinical trials). Influenza Other Respi Viruses 2: 203­209.
+12. Washington N, Steele RJ, Jackson SJ, Bush D, Mason J, et al. (2000)
+Determination of baseline human nasal pH and the effect of intranasally
+administered buffers. Int J Pharm 198: 139­146.
+13. McShane D, Davies JC, Davies MG, Bush A, Geddes DM, et al. (2003) Airway
+surface pH in subjects with cystic fibrosis. Eur Respir J 21: 37­42.
+14. England RJ, Homer JJ, Knight LC, Ell SR (1999) Nasal pH measurement: a
+reliable and repeatable parameter. Clin Otolaryngol Allied Sci 24: 67­68.
+15. Hehar SS, Mason JD, Stephen AB, Washington N, Jones NS, et al. (1999)
+Twenty-four hour ambulatory nasal pH monitoring. Clin Otolaryngol Allied Sci
+24: 24­25.
+16. Carr CM, Chaudhry C, Kim PS (1997) Influenza hemagglutinin is spring-loaded
+by a metastable native conformation. Proc Natl Acad Sci U S A 94:
+14306­14313.
+17. Skehel JJ, Wiley DC (2000) Receptor binding and membrane fusion in virus
+entry: the influenza hemagglutinin. Annu Rev Biochem 69: 531­569.
+18. Scholtissek C (1985) Stability of infectious influenza A viruses at low pH and at
+elevated temperature. Vaccine 3: 215­218.
+19. Reed ML, Bridges OA, Seiler P, Kim JK, Yen HL, et al. (2009) The pH of
+activation of the hemagglutinin protein regulates H5N1 influenza virus
+pathogenicity and transmissibility in ducks. J Virol 84: 1527­1535.
+20. Romanova J, Krenn BM, Wolschek M, Ferko B, Romanovskaja-Romanko E,
+et al. (2009) Preclinical evaluation of a replication-deficient intranasal DeltaNS1
+H5N1 influenza vaccine. PLoS One 4: e5984.
+21. Reed ML, Yen HL, DuBois RM, Bridges OA, Salomon R, et al. (2009) Amino
+acid residues in the fusion peptide pocket regulate the pH of activation of the
+H5N1 influenza virus hemagglutinin protein. J Virol 83: 3568­3580.
+22. Fischer H, Widdicombe JH (2006) Mechanisms of acid and base secretion by the
+airway epithelium. J Membr Biol 211: 139­150.
+23. Ilyushina NA, Govorkova EA, Russell CJ, Hoffmann E, Webster RG (2007)
+Contribution of H7 haemagglutinin to amantadine resistance and infectivity of
+influenza virus. J Gen Virol 88: 1266­1274.
+24. Di Trani L, Savarino A, Campitelli L, Norelli S, Puzelli S, et al. (2007) Different
+pH requirements are associated with divergent inhibitory effects of chloroquine
+on human and avian influenza A viruses. Virol J 4: 39.
+25. Horimoto T, Takada A, Fujii K, Goto H, Hatta M, et al. (2006) The
+development and characterization of H5 influenza virus vaccines derived from a
+2003 human isolate. Vaccine 24: 3669­3676.
+26. Tellier R (2009) Aerosol transmission of influenza A virus: a review of new
+studies. J R Soc Interface 6(Suppl 6): S783­790.
+27. Scholtissek C (1985) Stability of infectious influenza A viruses to treatment at low
+pH and heating. Arch Virol 85: 1­11.
+28. Lin YP, Wharton SA, Martin J, Skehel JJ, Wiley DC, et al. (1997) Adaptation of
+egg-grown and transfectant influenza viruses for growth in mammalian cells:
+selection of hemagglutinin mutants with elevated pH of membrane fusion.
+Virology 233: 402­410.
+29. Wacheck V, Egorov A, Groiss F, Pfeiffer A, Fuereder T, et al. (2010) A novel
+type of influenza vaccine: safety and immunogenicity of replication-deficient
+influenza virus created by deletion of the interferon antagonist NS1. J Infect Dis
+201: 354­362.
+30. Nakowitsch SWM, Morokutti A, Ruthsatz T, Krenn B, Ferko B, Ferstl N,
+Triendl A, Muster T, Egorov A, Romanova J (2011) Mutations affecting the
+stability of the haemagglutinin molecule impair the immunogenicity of H3N2
+DNS1 intranasal influenza vaccine candidates. Vaccine. In press.
+31. Wine JJ, Joo NS (2004) Submucosal glands and airway defense. Proc Am Thorac
+Soc 1: 47­53.
+32. Grubb BR, Boucher RC (1999) Pathophysiology of gene-targeted mouse models
+for cystic fibrosis. Physiol Rev 79: S193­214.
+33. Limberis M, Anson DS, Fuller M, Parsons DW (2002) Recovery of airway cystic
+fibrosis transmembrane conductance regulator function in mice with cystic
+fibrosis after single-dose lentivirus-mediated gene transfer. Hum Gene Ther 13:
+1961­1970.
+34. Fischer H, Widdicombe JH, Illek B (2002) Acid secretion and proton
+conductance in human airway epithelium. Am J Physiol Cell Physiol 282:
+C736­743.
+35. Steinhauer DA, Wharton SA, Skehel JJ, Wiley DC, Hay AJ (1991) Amantadine
+selection of a mutant influenza virus containing an acid-stable hemagglutinin
+glycoprotein: evidence for virus-specific regulation of the pH of glycoprotein
+transport vesicles. Proc Natl Acad Sci U S A 88: 11525­11529.
+36. Takeuchi K, Lamb RA (1994) Influenza virus M2 protein ion channel activity
+stabilizes the native form of fowl plague virus hemagglutinin during intracellular
+transport. J Virol 68: 911­919.
+37. Cyranoski D (2005) China's chicken farmers under fire for antiviral abuse.
+Nature 435: 1009.
+38. Brown JD, Goekjian G, Poulson R, Valeika S, Stallknecht DE (2009) Avian
+influenza virus in water: infectivity is dependent on pH, salinity and
+temperature. Vet Microbiol 136: 20­26.
+39. Sturm-Ramirez KM, Hulse-Post DJ, Govorkova EA, Humberd J, Seiler P, et al.
+(2005) Are ducks contributing to the endemicity of highly pathogenic H5N1
+influenza virus in Asia? J Virol 79: 11269­11279.
+40. Hatta M, Hatta Y, Kim JH, Watanabe S, Shinya K, et al. (2007) Growth of
+H5N1 influenza A viruses in the upper respiratory tracts of mice. PLoS Pathog
+3: 1374­1379.
+41. Thompson CI, Barclay WS, Zambon MC, Pickles RJ (2006) Infection of human
+airway epithelium by human and avian strains of influenza a virus. J Virol 80:
+8060­8068.
+42. Gabriel G, Herwig A, Klenk HD (2008) Interaction of polymerase subunit PB2
+and NP with importin alpha1 is a determinant of host range of influenza A virus.
+PLoS Pathog 4: e11.
+43. Scull MA, Gillim-Ross L, Santos C, Roberts KL, Bordonali E, et al. (2009)
+Avian Influenza virus glycoproteins restrict virus replication and spread through
+human airway epithelium at temperatures of the proximal airways. PLoS Pathog
+5: e1000424.
+44. Steel J, Lowen AC, Mubareka S, Palese P (2009) Transmission of influenza virus
+in a mammalian host is increased by PB2 amino acids 627K or 627E/701N.
+PLoS Pathog 5: e1000252.
+45. Salomon R, Franks J, Govorkova EA, Ilyushina NA, Yen HL, et al. (2006) The
+polymerase complex genes contribute to the high virulence of the human H5N1
+influenza virus isolate A/Vietnam/1203/04. J Exp Med 203: 689­697.
+46. Reed LJ, Muench H (1938) A simple method for estimating fifity percent
+endpoints. Am J Hyg 27: 493­497.
+47. Lorenz RJ, Bogel K (1973) Laboratory techniques in rabies: methods of
+calculation. Monogr Ser World Health Organ. pp 321­335.
+48. Ferko B, Kittel C, Romanova J, Sereinig S, Katinger H, et al. (2006) Live
+attenuated influenza virus expressing human interleukin-2 reveals increased
+immunogenic potential in young and aged hosts. J Virol 80: 11621­11627.
+49. Muster T, Ferko B, Klima A, Purtscher M, Trkola A, et al. (1995) Mucosal
+model of immunization against human immunodeficiency virus type 1 with a
+chimeric influenza virus. J Virol 69: 6678­6686.
+Increased Infectivity of H5N1 Influenza Virus
+PLoS ONE | www.plosone.org 12 April 2011 | Volume 6 | Issue 4 | e18577
+

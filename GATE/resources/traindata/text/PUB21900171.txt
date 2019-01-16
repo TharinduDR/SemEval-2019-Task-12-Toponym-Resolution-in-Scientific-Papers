@@ -1,0 +1,1116 @@
+﻿Published Ahead of Print 7 September 2011.
+2011, 85(22):11626. DOI: 10.1128/JVI.05705-11.
+J. Virol.
+Richard Webby, Michael G. Katze and Juergen A. Richt
+Stigger-Rosser, Qinfang Liu, Chuanling Qiao, Jake Elder,
+Wenjun Ma, Sarah E. Belisle, Derek Mosier, Xi Li, Evelyn
+Metabolism in Pigs
+Responses, Cell Death, and Lipid
+Related to Inflammatory and Immune
+Genes
+Causes Disease and Upregulation of
+2009 Pandemic H1N1 Influenza Virus
+http://jvi.asm.org/content/85/22/11626
+Updated information and services can be found at:
+These include:
+REFERENCES
+http://jvi.asm.org/content/85/22/11626#ref-list-1
+at:
+This article cites 56 articles, 28 of which can be accessed free
+CONTENT ALERTS
+more»
+articles cite this article),
+Receive: RSS Feeds, eTOCs, free email alerts (when new
+http://journals.asm.org/site/misc/reprints.xhtml
+Information about commercial reprint orders:
+http://journals.asm.org/site/subscriptions/
+To subscribe to to another ASM Journal go to:
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+JOURNAL OF VIROLOGY, Nov. 2011, p. 11626­11637 Vol. 85, No. 22
+0022-538X/11/$12.00 doi:10.1128/JVI.05705-11
+Copyright © 2011, American Society for Microbiology. All Rights Reserved.
+2009 Pandemic H1N1 Influenza Virus Causes Disease and Upregulation
+of Genes Related to Inflammatory and Immune Responses,
+Cell Death, and Lipid Metabolism in Pigs
+Wenjun Ma,1
+ Sarah E. Belisle,2
+ Derek Mosier,1
+Xi Li,1
+Evelyn Stigger-Rosser,3
+Qinfang Liu,1
+Chuanling Qiao,1
+ Jake Elder,1
+Richard Webby,3
+Michael G. Katze,2
+and Juergen A. Richt1
+*
+Department of Diagnostic Medicine/Pathobiology, College of Veterinary Medicine, Kansas State University,
+Manhattan, Kansas1
+; Department of Microbiology, University of Washington, Seattle, Washington2
+; and
+St. Jude Children's Research Hospital, Memphis, Tennessee3
+Received 15 July 2011/Accepted 29 August 2011
+There exists limited information about whether adaptation is needed for cross-species transmission of the
+2009 pandemic H1N1 influenza virus (pH1N1). Here, we compare the pathogenesis of two pH1N1 viruses, one
+derived from a human patient (A/CA/04/09 [CA09]) and the other from swine (A/swine/Alberta/25/2009
+[Alb09]), with that of the 1918-like classical swine influenza virus (A/swine/Iowa/1930 [IA30]) in the pig model.
+Both pH1N1 isolates induced clinical symptoms such as coughing, sneezing, decreased activity, fever, and
+labored breathing in challenged pigs, but IA30 virus did not cause any clinical symptoms except fever. Although
+both the pH1N1 viruses and the IA30 virus caused lung lesions, the pH1N1 viruses were shed from the nasal
+cavities of challenged pigs whereas the IA30 virus was not. Global gene expression analysis indicated that
+transcriptional responses of the viruses were distinct. pH1N1-infected pigs had an upregulation of genes
+related to inflammatory and immune responses at day 3 postinfection that was not seen in the IA30 infection,
+and expression levels of genes related to cell death and lipid metabolism at day 5 postinfection were markedly
+different from those of IA30 infection. These results indicate that both pH1N1 isolates are more virulent due
+in part to differences in the host transcriptional response during acute infection. Our study also indicates that
+pH1N1 does not need prior adaptation to infect pigs, has a high potential to be maintained in naïve swine
+populations, and might reassort with currently circulating swine influenza viruses.
+The 2009 pandemic H1N1 virus (pH1N1) spread to more
+than 200 countries and caused more than 18,000 human deaths
+worldwide by August 2010, when the World Health Organiza-
+tion announced the official end of the pandemic (60). Two
+unusual features of pH1N1 are its efficient human-to-human
+transmission and its ability to cross the species barrier. The
+virus has likely been transmitted from humans to other species
+such as turkeys, dogs, cats, ferrets, and pigs; pH1N1 infection
+in pigs has been reported worldwide (41, 43, 44, 50), including
+in the United States (53). The pH1N1 virus, a reassortant virus
+derived from North American triple reassortant and Eurasian
+swine influenza viruses (SIVs), contains the neuraminidase
+(NA) and matrix (M) genes from Eurasian SIVs and six other
+genes (PB1, PB2, PA, hemagglutinin [HA], NP, and NS) from
+North American triple reassortant SIVs (11, 49). The HA gene
+of pH1N1 is in the classical swine lineage, which is derived
+from the 1918 Spanish pandemic virus (2). Recent studies
+showed that the 2009 pH1N1 vaccine protects against 1918
+Spanish influenza virus and vice versa in mice (33, 35), indi-
+cating antigenic similarities among these viruses. The A/swine/
+IA/15/30 (IA30) H1N1 virus is the first isolate from pigs that is
+antigenically similar to the 1918 virus (57) and is pathogenic in
+pigs (56).
+Although pH1N1 is thought to have been generated in swine
+and circulated in pig populations before cross-species trans-
+mission to humans (37), this has not been confirmed despite
+significant research. The pathogenesis and transmission capac-
+ity of pH1N1 have been investigated in mice (2, 19, 32), ferrets
+(32, 37), miniature pigs (19), guinea pigs (51), monkeys (19),
+and pigs (25, 55, 59). The 1918 Spanish H1N1 virus caused the
+most devastating pandemic in human history, with approxi-
+mately 50 million deaths, and is able to infect and cause a
+respiratory disease in swine (58). In this study, we compared
+the pathogenesis of two pH1N1 viruses, one derived from a
+human patient (A/CA/04/09 [CA09]) and the other from swine
+(A/swine/Alberta/25/2009 [Alb09]), with the 1918-like classical
+SIV IA30 in a pig model and analyzed host gene expression
+after inoculation with these viruses.
+MATERIALS AND METHODS
+Viruses and cells. The 2009 pH1N1 influenza virus human isolate CA09, the
+swine isolate Alb09, and the classical H1N1 SIV IA30 were propagated in
+embryonated chicken eggs. Madin-Darby canine kidney (MDCK) cells were
+maintained in minimum essential medium (MEM) with 5% fetal bovine serum
+(FBS; HyClone, Logan, UT) and 1% antibiotics (Invitrogen, Carlsbad, CA).
+They were then infected with bronchoalveolar lavage fluid (BALF) and nasal
+swabs obtained from experimentally infected pigs and incubated with infecting
+MEM containing 0.3% bovine serum albumin (BSA), L-glutamine (Invitrogen,
+Carlsbad, CA), MEM vitamins (Invitrogen, Carlsbad, CA), and 1% antibiotics.
+HI assays. To confirm that pigs were SIV free, sera from all experimental pigs
+were tested by a hemagglutination inhibition (HI) assay before infection (40).
+For HI assays, serum was heat inactivated at 56°C, treated with a 20% suspension
+* Corresponding author. Mailing address: Department of Diagnos-
+tic Medicine/Pathobiology, College of Veterinary Medicine, Kansas
+State University, K224B Mosier Hall, Manhattan, KS 66506. Phone:
+(785) 532-2793. Fax: (785) 532-4039. E-mail: jricht@vet.k-state.edu.
+ W. Ma and S. Belisle contributed equally to the work.
+ Present address: Harbin Veterinary Research Institute, Harbin,
+China.
+
+Published ahead of print on 7 September 2011.
+11626
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+of kaolin (Sigma-Aldrich, St. Louis, MO) to eliminate nonspecific inhibitors, and
+adsorbed with 0.5% chicken or turkey red blood cells. The HI assay was per-
+formed to test antibodies against the following panel of reference SIV strains:
+A/swine/IA/1973 (H1N1), A/swine/Texas/98 (H3N2), A/sw/NC/2001 (H1N1 vari-
+ant), and 2009 pandemic A/swine/Alberta/25/2009 (H1N1).
+Pathogenesis studies in pigs. Pigs were obtained from a healthy herd free of
+SIV and porcine reproductive and respiratory syndrome virus. These studies
+included two experiments: the classical H1N1 SIV (IA30) study was completed
+at Kansas State University's biosafety level 2 (BSL-2) facility in compliance with
+the Institutional Animal Care and Use Committee at Kansas State University,
+and the pH1N1 virus study was completed at the Central States Research Center
+(CSRC), Inc., BSL-3 facility (Oakland, NE), in compliance with the Institutional
+Animal Care and Use Committee at CSRC. The inoculation protocol used for
+both studies was described previously (45). In each experiment, 10 pigs were
+inoculated with noninfectious cell culture supernatant as controls. For the clas-
+sical H1N1 SIV experiment, 10 4-week-old crossbred pigs were inoculated in-
+tratracheally with 106
+50% tissue culture infective doses (TCID50)/pig of egg-
+derived IA30 virus. For the pH1N1 virus experiment, 10 4-week-old crossbred
+pigs were inoculated intratracheally with 106
+TCID50/pig of either egg-derived
+CA/09 or Alb/09 virus. Five animals per group were euthanized at 3 and 5 days
+postinfection (dpi), respectively. Nasal swabs were taken at 0, 3, and 5 dpi, placed
+in 2 ml of MEM, and stored at 80°C. Blood was collected from all inoculated
+and control pigs at 0, 3, and 5 dpi. Each lung was lavaged with 50 ml of MEM to
+obtain BALF. The viral load in BALF and nasal swabs was determined in a
+96-well plate, as previously described (31, 45).
+Examination of lungs and testing of samples from experimental pigs. During
+necropsy, an experienced veterinarian recorded the percentage of gross lesions
+(defined as purple-red consolidation typical of an SIV infection) of each lung
+lobe. A mean value was calculated for the seven pulmonary lobes of each pig
+(45). Tissue samples from the trachea, the right cardiac pulmonary lobe, and
+other affected lobes were fixed in 10% buffered formalin, routinely processed,
+and stained with hematoxylin and eosin for microscopic examination. Lung
+sections were assigned a score of 0 to 3 on the basis of the extent of bronchial
+epithelial and parenchymal injury, using previously described criteria (45). A
+single board-certified veterinary pathologist scored all slides and was blind to the
+treatment groups. The avidin-biotin-peroxidase complex method was used to
+detect influenza A virus nucleoprotein using immunohistochemistry (IHC).
+Briefly, slides were pretreated with protease-1 and incubated with a mouse
+anti-influenza A virus nucleoprotein monoclonal antibody (HB-65; ATCC, Ma-
+nassas, VA) for 32 min at 37°C, with biotinylated goat anti-mouse secondary
+antibody (Ventana Medical Systems, Carol Stream, IL) for 8 min, and with
+avidin-biotin-peroxidase conjugate substrate (Ventana Medical Systems, Carol
+Stream, IL) for 4 min.
+Expression microarray analysis and bioinformatics. Total RNA isolation and
+mRNA amplification were performed on equal masses of total RNA isolated
+from lungs of influenza virus- and mock-infected pigs. Reverse transcription-
+PCR (RT-PCR) was performed on RNA isolated for array analysis, using probes
+designed against the HA gene of each isolate to confirm the presence of influenza
+virus in the lung samples analyzed for gene expression.
+Expression oligonucleotide arrays were performed on RNA isolated from lung
+tissue from four to five individual animals per group at 3 and 5 dpi. Probe
+labeling and microarray slide hybridization were performed with Porcine Gene
+Expression Microarray V1 (G2519F; Agilent Technologies). All data were en-
+tered into a custom-designed Oracle 9i-backed relational database and then
+uploaded into Rosetta Resolver System, version 5.0 (Rosetta Biosoftware), and
+Spotfire Decision Site, version 8.1 (Spotfire). All primary expression microarray
+data, in accordance with the proposed minimum information about a microarray
+experiment (MIAME) standards (4), are available at http://viromics.washington
+.edu.
+To determine gene expression in response to infection, the ratios of data from
+individual samples to data from time- and experiment-matched mock samples
+were determined. A Bonferoni-adjusted one-way analysis of variance (ANOVA)
+was used to determine differences in gene sequence expression between strains
+on each day postinfection (false discovery rate [FDR]-adjusted P of 0.05); gene
+sequences that specifically distinguished the strains from each other were deter-
+mined by applying a Student's posthoc test (P  0.1) to ANOVA results. To
+select for genes that were most relevant to infection, transcripts that were
+differentially expressed between strains on a given day were filtered to include
+only transcripts that were 1.5-fold different from values of mock infections (P 
+0.05) in at least one of the strains being compared on that day postinfection.
+Functional analysis of statistically significant gene expression changes was
+performed with Ingenuity Pathways Analysis (IPA; Ingenuity Systems). This
+software analyzes RNA expression data in the context of known biological
+response and regulatory networks as well as other higher-order response path-
+ways. Ingenuity functional analysis identified biological functions and/or diseases
+that were most significant among differentially regulated genes at each time
+point. For all analyses, a Benjamini-Hochberg test correction was applied to the
+IPA-generated P value to determine the probability that each biological function
+assigned to that data set was due to chance alone. In the functional networks,
+genes are represented as nodes, and the biological relationship between two
+nodes is represented as an edge (line). All edges are supported by at least one
+published reference or from canonical information stored in the Ingenuity Path-
+ways Knowledge Base.
+Statistical analyses. Virological and clinical data are shown as mean (or
+geometric mean) and standard error of the mean (SEM) within the text and in
+graphical formats. Macroscopic pneumonia scores, microscopic pneumonia
+scores, log10 transformed BALF and nasal swab virus titers, and temperatures
+were analyzed using ANOVA, with a P value of 0.05 considered statistically
+significant (GraphPad Prism, GraphPad Software, La Jolla, CA). Virological
+measures shown to be significantly different by treatment group were compared
+pairwise by using a Tukey-Kramer test.
+Nucleotide sequence accession numbers. All sequences have been deposited
+in the GenBank database under accession numbers JF915184 to JF915191,
+CY097778 to CY097785, and JN617971 to JN617978.
+RESULTS
+Sequence comparison of viruses. To compare pathogenicity
+of the 2009 pH1N1 virus with the 1918-like H1N1 virus in pigs,
+the IA30 virus was used in this study because it is the first
+mammalian influenza virus isolate and a derivative of the 1918
+Spanish H1N1 virus. The IA30 virus showed 94.2% to 98.7%
+homology with the genome of the 1918 (A/Brevig Mission/1/
+1918) H1N1 virus at nucleotide level and 91.3% to 98.4%
+homology at the amino acid level (Table 1). Less homology
+(80.9% to 90.7%) was observed between the pH1N1 (CA09
+and Alb09) and IA30 viruses at the nucleotide level. At the
+amino acid level, the polymerase subunits (PB1, PB2, and PA),
+M1, and NP of the IA30 virus showed high homology (94.4%
+to 95.6%) with the proteins of the pH1N1 (CA09 and Alb09)
+viruses (Table 1).
+Clinical symptoms. All animals were monitored for clinical
+symptoms through the entire course of the study (0 to 5 dpi).
+Rectal temperature measurements showed that pigs inoculated
+with either the classical IA30 or pH1N1 (CA09 or Alb09) virus
+had a fever starting at 1 dpi, but control animals did not (Fig.
+1). Rectal temperature in Alb09-inoculated pigs was signifi-
+cantly higher than that in IA30-inoculated pigs, but there were
+no significant differences between the CA09- and Alb09-inoc-
+TABLE 1. Comparison of sequences between IA30 and BM1918,
+CA09, and Alb09 virusesa
+IA30
+gene
+BM1918 CA09 Alb09
+% Nucleotide
+identity
+% Amino
+acid
+identity
+% Nucleotide
+identity
+% Amino
+acid
+identity
+% Nucleotide
+identity
+% Amino
+acid
+identity
+PB2 98.7 97.4 86.1 95.1 86.0 95.1
+PB1 95.3 97.9 81.1 95.6 80.9 95.5
+PA 97.6 96.8 84.4 95.4 84.3 95.5
+HA 94.2 94.3 82.5 85.5 82.3 85.3
+NP 97.8 97.8 88.6 94.4 88.6 94.4
+NA 95.2 93.8 84.2 87.8 84.3 87.8
+M 98.0 89.0 89.0
+M1 98.4 94.8 94.8
+M2 96.9 90.7 90.7
+NS 96.1 90.7 90.7
+NS1 91.3 84.0 83.6
+NS2 94.2 92.6 92.6
+a
+IA30, A/swine/Iowa/1930; BM1918, A/Brevig Mission/1/1918; CA09, A/CA/
+04/09; Alb09, A/swine/Alberta/25/2009.
+VOL. 85, 2011 PANDEMIC H1N1 VIRUS CAUSES GENE UPREGULATION IN PIGS 11627
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+ulated pigs or between CA09- and IA30-inoculated pigs. All
+pH1N1-inoculated pigs had pronounced clinical infection com-
+pared with IA30-infected animals. From 2 dpi, both CA09- and
+Alb09-inoculated pigs showed clinical symptoms of infection,
+such as coughing, sneezing, lethargy, inappetence, and labored
+breathing. Starting on 4 dpi, more than 50% of pigs from both
+pH1N1-inoculated groups showed labored breathing and de-
+pression, including lethargy and inappetence, but there was no
+significant difference in clinical signs between the groups.
+IA30-inoculated pigs did not show any clinical symptoms from
+1 to 5 dpi.
+Pathogenicity. Postmortem evaluation revealed severe mac-
+roscopic lung lesions (plum-colored, consolidated areas) in
+pigs inoculated with either pH1N1 virus (CA09 or Alb09 virus)
+or with the classical IA30 virus and few to no lesions in control
+pigs (Fig. 2A and B). There were significant differences be-
+tween the overall mean number of lung lesions in the three
+groups of virus-inoculated pigs and control pigs on 3 and 5 dpi
+(P  0.001). However, there were no significant differences in
+lung lesions between pigs inoculated with both pH1N1 viruses
+and the classical IA30-inoculated pigs or between CA09- and
+Alb09-inoculated pigs on 3 and 5 dpi.
+The microscopic score (0 to 3), indicative of the extent of
+damage to lung architecture, was between 1.40 to 2.30 at 3 and
+5 dpi in all three inoculated groups compared with a score of
+0.00 to 0.20 in control pigs (Table 2). Although microscopic
+scores in Alb09- and CA09-inoculated pigs were higher than
+those in IA30-inoculated pigs, there were no significant differ-
+ences in the histopathologic lung damage among the three
+groups. All infected pigs had variable degrees of damage, rang-
+ing from mild to moderate bronchointerstitial pneumonia, at-
+electasis, acute to subacute bronchiolitis with epithelial necro-
+FIG. 1. Rectal temperature of pigs infected with IA30, CA09, and
+Alb09 H1N1 viruses or mock infected from day 0 to 5 dpi. Control 1 is
+a control for the pH1N1 study (CA09 and Alb09) and control 2 is for
+the IA30 study.
+FIG. 2. Macroscopic lung lesions in pigs inoculated with pH1N1 and classical IA30 viruses or mock infected at 3 dpi (A) and 5 dpi (B). The
+values for the average macroscopic lung lesions of each group on each day are means  SEM.
+11628 MA ET AL. J. VIROL.
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+sis, and variable lymphocytic cuffing of bronchioles at 3 and 5
+dpi (Fig. 3). Some control pigs had incidental noninfluenza-
+associated lung lesions (Table 2) but were negative for SIV
+infection. All three viruses replicated well in the lungs, with
+virus titers reaching approximately 104.29
+to 105.21
+TCID50/ml
+in the BALF (Table 2). In contrast, shedding in the nasal cavity
+differed by viral strain: virus was isolated from 90% of nasal
+swabs at 3 dpi and in 100% of nasal swabs at 5 dpi in pH1N1-
+inoculated pigs (Table 2), but no virus was detected in nasal
+swabs of IA30-inoculated pigs. Interestingly, a large amount of
+viral antigens were detected in the bronchiole epithelium by
+IHC staining from pigs infected with pH1N1 viruses at 3 dpi,
+but only limited viral antigens were found from those infected
+with the classical IA30 (Fig. 3), as previously reported (58).
+IHC reactivity on the IA30 virus was inconsistent and when
+present was mild and not substantially different from that on
+the controls.
+Sequence analysis. To investigate whether molecular adap-
+tation occurs during replication of the pH1N1 virus in pigs,
+TABLE 2. Virus titers in BALF and nasal swabs and percentage of
+nasal shedding and microscopic lung lesions in pigs inoculated
+with pH1N1 and classical IA30 viruses or mock infected
+Detection time
+and virus
+or group
+Virus titer in BALF
+(TCID50/ml)a
+Microscopic lung
+lesion scoreb
+% Positive nasal
+swabs (virus
+titer)c
+3 dpi
+CA09 4.68  0.67 1.60  0.24 90 (3.67  0.32)
+Alb09 5.21  0.24 2.10  0.33 90 (4.60  0.42)
+IA30 4.29  0.44 1.40  0.33 0 (1)d
+pH1N1 control 1 0.00 0 (1)
+IA30 control 1 0.00 0 (1)
+5 dpi
+CA09 5.14  0.73 2.20  0.25 100 (4.46  0.66)
+Alb09 4.77  0.57 2.30  0.30 100 (3.30  0.53)
+IA30 4.40  0.10 1.50  0.35 0 (1)
+pH1N1 control 1 0.00 0 (1)
+IA30 control 1 0.20  0.12 0 (1)
+a
+Values are log10 geometric mean TCID50/ml  SEM.
+b
+Lung sections were assigned a score of 0 to 3. Values are mean  SEM.
+c
+Percentages are based on the total number of swabs. Values in parentheses
+are the log10 geometric mean nasal swab TCID50/ml  SEM.
+d
+Lower than the detection limit of 10 TCID50/ml.
+FIG. 3. Microscopic sections of bronchioles in the lungs from control and infected pigs at 3 dpi. (A) Inoculation with noninfectious cell
+culture supernatant. Note terminal bronchiole with normal ciliated and nonciliated epithelium. (B) Inoculation with the IA30 virus. Note
+acute bronchiolitis and bronchointerstitial pneumonia. The mucosa and submucosa are slightly thickened and disorganized, and there are
+submucosal neutrophils and lymphocytes. Intralumenal cellular debris and pyknotic neutrophils are present. There are few peribronchiolar
+and interstitial lymphocytes and localized parenchymal hemorrhages. (C) Inoculation with the CA09 virus. Note acute bronchiolitis and
+bronchointerstitial pneumonia. There is mucosal thickening and disorganization with epithelial degeneration and hyperplasia. Intraepithelial
+and intralumenal neutrophils are present along with degenerate sloughed epithelial cells within the lumen. There are a few peribronchiolar
+and interstitial lymphocytes. (D) Inoculation with the Alb09 virus. Note acute bronchiolitis and alveolar atelectasis. There is attenuation of
+the mucosa with degeneration and necrosis of airway epithelium with sloughed epithelial cells within the airway lumen. Associated
+parenchyma is atelectatic. IHC staining in panels E, F, and G shows viral antigens within bronchiolar epithelium in lungs of a pig infected
+with IA30, CA09, and Alb09 virus at 3 dpi.
+VOL. 85, 2011 PANDEMIC H1N1 VIRUS CAUSES GENE UPREGULATION IN PIGS 11629
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+whole genomes of CA09 and Alb09 were sequenced and com-
+pared before and after infection in pigs. The human and swine
+isolates showed 96% to 100% nucleotide sequence identity,
+depending on the gene segment. Notably, there were few
+amino acid differences between the genomes of both viruses
+before inoculation (Table 3). In particular, there were five
+amino acid differences (P100S, N104K, T214A, S220T, and
+T338V) in the surface HA proteins of CA09 and Alb09 (Table
+3). Two BALF samples from infected pigs at 3 and 5 dpi from
+each pH1N1 challenge group were used to amplify and se-
+quence the viral genomes postinfection. After the human iso-
+late CA09 was passaged in pigs, only the HA protein showed
+an amino acid change from S to P at position 200. There were
+no mutations in the other viral proteins and genes, except for
+the presence of several mutations in the PB2 gene at the
+nucleotide level. For the swine isolate Alb09, there was an
+amino acid substitution from D to E at position 144 in the HA
+protein; all other viral proteins were conserved. At the nucle-
+otide level, there were several mutations in PB2 and one mu-
+tation in PB1 from Alb09 virus isolated at 5 dpi. The PA, NP,
+NA, M, and NS genes showed 100% nucleotide homology to
+the Alb09 virus before infection.
+Host gene expression analysis. (i) pH1N1 elicits an early
+inflammatory response that is absent in IA30 infection. To
+study the mechanisms underlying the differences in response
+among Alb09, CA09, and IA30, we performed global transcrip-
+tomic analysis on lung tissues from infected and control pigs
+during acute infection (3 and 5 dpi), using a commercial mi-
+croarray. There were 2,840 transcripts whose expression dis-
+tinguished the viruses at 3 dpi and 2,044 transcripts whose
+expression distinguished the viruses at 5 dpi, as calculated by
+one-way ANOVA (FDR-adjusted P of 0.05; 1.5-fold change
+compared with mock infection in at least one group). Interest-
+ingly, the differences in host transcriptional responses to infec-
+tion mirrored the clinical manifestations of the disease, with a
+clear response profile distinguishing pH1N1 from IA30 on
+both days (Fig. 4).
+At 3 dpi, these differences corresponded to increased
+early transcriptional activation of inflammatory and immune
+pathways in pH1N1-infected but not IA30-infected pigs (Ta-
+ble 4 and Fig. 5). Pathway analysis suggested that the in-
+crease in immune response included pattern recognition
+receptor (PRR) signaling and antiviral responses in pH1N1-
+infected pigs. This response was generally absent in IA30-
+infected pigs (Fig. 6, blue boxes indicate PRR and antiviral
+signaling molecules). PRR signaling is a component of the
+innate immune response that is initiated through the recogni-
+FIG. 4. Differential gene expression patterns in the lungs of CA09-,
+Alb09-, and IA30-infected pigs. Pigs were infected with a 106
+TCID50/
+pig of IA30, CA09, or Alb09 (see Materials and Methods). Animals
+from each infection group and a mock group were euthanized at 3 and
+5 dpi, total RNA was isolated from lung tissue, and global gene ex-
+pression was determined by microarray analysis. The figure shows a
+one-dimensional clustering of transcripts with statistically significant
+differences in expression in the lung on each day (2,840 transcripts at
+3 dpi; 2,044 transcripts at 5 dpi) as determined by one-way ANOVA
+(FDR-corrected P value of 0.05; selecting for transcripts with an
+average 1.5-fold change [P  0.05] compared with mock infection in at
+least 1 group) on each day. Gene expression for each animal is shown
+as the log (ratio) of expression relative to that of experiment and
+time-matched samples extracted from lungs of mock-infected pigs.
+Red indicates that the gene expression is higher than mock infection
+values; green indicates that gene expression is lower than mock values.
+TABLE 3. Comparison of sequences between the CA09 and Alb09
+genomes before passage in pigs
+CA09 gene
+Homology (%) with Alb09 gene
+Amino acid (mutation s) Nucleotide (ORF)
+PB2 100 99.8
+PB1 100 99.9
+PA 99.9 (P224S)a
+99.8
+HAb
+99.1 (P100S, N104K, T214A,
+S220T, T338V)
+99.6
+NP 99.6 (V88I, D362G) 99.7
+NA 99.6 (V92I, N224D) 99.6
+M1 100 99.7
+M2 100 100
+NS1 99.5 (I123V) 99.8
+NS2 100 100
+a
+The amino acid P is an amino acid of the CA09 virus PA protein at position
+224, and amino acid S belongs to the Alb09 virus PA protein.
+b
+Only one amino acid change was found in the HA of the CA09 virus (S200P)
+and the Alb09 virus (D144E) after passage in pigs.
+11630 MA ET AL. J. VIROL.
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+tion of conserved pathogen-associated molecular patterns.
+Therefore, it is notable that these PPR signaling molecules are
+induced in pH1N1-infected pigs while expression is largely
+unchanged in IA30-infected pigs despite equal influenza virus
+titers across all three infections. This suggests that the ability of
+the host to detect and respond to IA30 infection through
+PRR-related signaling is decreased or absent, which correlates
+to fewer clinical symptoms in these animals. Furthermore,
+there were very few differences among inflammatory and im-
+mune genes by 5 dpi, indicating that the timing of this host
+transcriptional response may be a critical factor in response to
+the pH1N1 and classical viruses.
+(ii) pH1N1 virus infection results in higher expression of
+cell death and lipid metabolism genes than IA30 infection.
+Among the host genes with differential transcriptional re-
+sponses to pH1N1 viruses and IA30 at 5 dpi, we found signif-
+icant differences in those related to cell death and lipid me-
+tabolism (Table 4 and Fig. 7A). The majority of these genes
+were induced with pH1N1 infection but were unchanged or
+repressed with IA30 infection. Closer examination of the top
+biological functions that distinguished the groups showed a
+functional link between the cell death and lipid metabolism
+genes, with approximately two-thirds of the lipid metabolism
+genes playing roles in cell death. Network analysis revealed
+that the top-scoring network among the differentially ex-
+pressed genes at 5 dpi was statistically enriched for genes
+related to cellular differentiation and lipid metabolism (Fig.
+7B). Expression of molecules within the network indicated a
+concurrent suppression of lipid metabolism-related molecules
+in IA30-infected animals only. Interestingly, this included
+downregulation of peroxisome proliferator-activated receptor
+gamma (PPARG) (Fig. 7B, blue box), which has been reported
+to be expressed in immune cells of weaned pigs and plays a role
+in mediating the inflammatory response and the function of
+immune cells, including dendritic cells (28, 29). In contrast,
+many molecules within this network, including PPARG, were
+unchanged or upregulated in pH1N1-infected pigs. The dif-
+ferential regulation of these genes may be influenced in part
+by distinct immune and inflammatory responses of classical
+virus- and pH1N1 virus-infected pigs at 3 dpi.
+DISCUSSION
+The 2009 pH1N1 viruses not only infected and caused death
+in humans but also were able to transmit virus to and infect
+other species. Our study confirms that pigs are susceptible to
+either the swine or human 2009 pH1N1 isolates, as reported
+previously (5, 25, 55). In addition, we found that virus replica-
+tion in pH1N1-infected and classical IA30 virus-infected pigs
+was similar, but pH1N1 induced clear symptoms in pigs while
+IA30 did not. A previous study showed that IA30 virus caused
+mild respiratory symptoms in two pigs out of six infected ani-
+mals (58); however, in our current and previous studies no
+obvious clinical symptoms except fever were observed in in-
+fected pigs (30). This divergence might be due to differences in
+the genetics, ages of pigs, and housing conditions. Both CA09
+and Alb09 were shed more efficiently from the upper nasal
+cavity than IA30, indicating that pH1N1 might have a high
+potential to maintain itself in swine populations.
+The H1N1 virus caused the 1918 pandemic, leading to the
+death of 50 to 100 million people, mostly healthy young adults.
+It is striking that those who died in the 2009 pandemic were
+predominantly young and middle-aged adults although the
+overall pH1N1-associated mortality rate was very low (26). The
+classical H1N1 SIVs are derivatives of the 1918 Spanish influ-
+enza virus. The IA30 H1N1 virus was originally isolated by R.
+Shope (57) from Iowa pigs with respiratory disease and was the
+first mammalian influenza A virus ever isolated. IA30 is patho-
+TABLE 4. Top 10 select biological functions that distinguish host transcriptional response in the lungs at 3 and 5 dpi between
+CA09-, Alb09-, and IA30-infected pigsa
+dpi Biological function P valueb Total no. of molecules
+in function
+No. of molecules in function with
+increased expression
+IA30 Alb09 CA09
+3 Immune response 2.06E-07 50 22 48 49
+Developmental process of blood cells 2.91E-07 50 21 48 48
+Differentiation of leukocytes 1.17E-06 33 18 32 32
+Quantity of blood cells 1.17E-06 37 16 35 36
+Hematological process 2.38E-06 47 19 44 44
+Activation of blood cells 5.37E-06 34 15 32 32
+Survival of leukocytes 5.50E-06 18 9 18 18
+Inflammatory disorder of mammals 5.50E-06 29 12 28 29
+Antiviral response of organism 5.50E-06 12 3 12 12
+5 Accumulation of monounsaturated fatty acids 1.63E-02 3 1 2 2
+Transport of lipoprotein 1.63E-02 4 0 3 3
+Apoptosis 4.55E-02 56 21 46 44
+Contraction of tissue 5.64E-02 11 3 8 7
+Cell death of eukaryotic cells 5.64E-02 54 21 45 44
+Polymerization of filaments 5.64E-02 6 4 4 3
+Metabolism of lipid 5.64E-02 21 5 16 15
+Developmental process of endothelial cells 5.64E-02 8 4 3 5
+Depolarization of mitochondria 5.64E-02 4 2 3 3
+a
+Redundant biological functions and nonrelated, disease-specific functions have not been included in the table. Increased expression is relative to that of time
+and experiment-matched mock samples.
+b
+Benjamini-Hochberg corrected.
+VOL. 85, 2011 PANDEMIC H1N1 VIRUS CAUSES GENE UPREGULATION IN PIGS 11631
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+genic to pigs and mice (30, 58) and was chosen as a represen-
+tative 1918 pandemic H1N1-derived virus. The HA genes from
+both the IA30 and the 2009 pH1N1 viruses are derived from
+the classical SIVs, but they have a different internal genetic
+make-up. Interestingly, the polymerase subunit (PB1, PB2, and
+PA) and NP of the IA30 virus showed a high homology with
+those of both the 1918 and 2009 pandemic viruses at the amino
+acid level although they had a lower homology with those of
+the 2009 pandemic virus at the nucleotide level. For the poly-
+merase subunit and NP, which forms the ribonucleoprotein
+(RNP) with influenza viral RNA, there was a high degree of
+homology (94.4% to 96.7%) at the amino acid level between
+the 1918 and 2009 pandemic H1N1 viruses. Further research is
+necessary to determine if these similarities in RNP are impor-
+tant contributors to pandemic potential in both the 1918 and
+2009 viruses. Although both the pH1N1 and classical H1N1
+viruses reached similar titers in pig lungs and caused similar
+severe lung lesions in our study, pH1N1 was shed efficiently via
+the upper respiratory tract, but the IA30 virus was not. It is not
+clear why shedding of IA30 in the nasal cavity was limited.
+Although there was a difference in 11 amino acids (aa)
+between Alb09 and CA09, the isolates replicated similarly in
+pigs. A change of only a single amino acid in the HA of the
+human and swine pH1N1 isolates after they were passaged in
+pigs suggests that these pH1N1 genomes were conserved in a
+single passage in vivo, indicating that molecular adaptation of
+a human-derived pH1N1 virus to the pig may not be necessary.
+Microarray analysis revealed that pH1N1-infected pigs
+mounted a more potent early immune response (3 dpi) and
+had higher expression levels of genes related to cell death and
+lipid metabolism (5 dpi) than IA30-infected pigs. The absence
+of a clinical response to IA30 may be associated with a de-
+crease in PRR and antiviral signaling in response to the virus
+during early acute infection, followed by downregulation of
+lipid- and cell death-related genes at 5 dpi. These differences in
+host transcriptional response may act independently or syner-
+gistically to account for the increase in clinical disease in
+pH1N1-infected animals. Previous studies of influenza viruses,
+including seasonal human H1N1, lethal avian H5N1, and the
+reconstructed 1918 virus (r1918), in macaques and mice sug-
+gest that an early and sustained inflammatory response is as-
+sociated with increased influenza virus pathogenesis (1, 21, 23).
+These studies report augmented immune responses associated
+with cytokine, chemokine, and interferon release and a cell
+death response mediated by the more pathogenic influenza
+viruses. Similarly, pH1N1 infection of nonhuman primates re-
+sulted in higher proinflammatory gene expression and cytokine
+production than infection with seasonal influenza virus, which
+was resolved as animals recovered from infection (46). Our
+results in pigs somewhat mirror these findings in macaques as
+we showed an early increase of proinflammatory gene expres-
+sion in infected pigs that was resolved as all of the animals in
+the study recovered. However, in contrast to previous studies
+with lethal influenza viruses in other animal models, differences in
+FIG. 5. Alb09 and CA09 infection results in an upregulation of immune response genes at day 3 postinfection that is absent or repressed in
+IA30-infected pigs. Pigs were infected with a 106
+TCID50/pig of IA30, CA09, or Alb09 (see Materials and Methods). Animals from each infection
+group and a mock group were euthanized at 3 and 5 dpi, total RNA was isolated from lung tissue, and global gene expression was determined by
+microarray analysis. The heat map depicts immune response-related genes (Table 4) that were differentially expressed between infection conditions
+at 3 dpi. Gene expression for each animal is shown as the log (ratio) of expression relative to that of experiment and time-matched samples
+extracted from lungs of mock-infected pigs. Red indicates that the gene expression is higher than mock infection values; green indicates that gene
+expression is lower than mock values.
+11632 MA ET AL. J. VIROL.
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+immune responses observed in the present study were not main-
+tained at later time points. This may reflect the resolution of
+infection in both the pH1N1- and IA30-infected pigs.
+Our study also showed an absence of early PRR gene ex-
+pression in the IA30-infected animals that could not be attrib-
+uted to a difference in viral titers. Interestingly, previous stud-
+ies of lethal avian H5N1 and r1918 viruses in wild-type mice
+noted that the expression of genes associated with viral sensing
+were unchanged or downregulated in the r1918 virus-infected
+mice and increased in the H5N1-infected mice despite equiv-
+alent viral titers in lungs at 1 dpi (9). This indicates that the
+virulence mechanisms utilized in the pH1N1 virus are different
+from those of the r1918 virus.
+The PB1-F2, which is expressed from a 1 reading frame of
+the viral RNA polymerase subunit PB1 (8), is able to induce
+apoptosis and promote inflammation (24) and has been shown
+to be a virulence factor and promote secondary bacterial in-
+fections (34). However, the 2009 pH1N1 viruses do not express
+full-length PB1-F2 because they possess three stop codons at
+amino acid positions 12, 58, and 88 in the PB1-F2 reading
+frame. Interestingly, the 1918-like IA30 virus also expresses a
+truncated PB1-F2 (34 aa) since there are three stop codons
+(amino acid positions 35, 61, and 91) in the IA30 PB1-F2
+reading frame, which is different from that previously reported
+in the 1918 Spanish influenza virus (34). Recent studies have
+demonstrated that the pH1N1 viruses containing full-length
+PB1-F2 do not show increased in vitro and in vivo growth
+kinetics and mouse pathogenicity (14, 39), questioning the role
+of PB1-F2 as a critical virulence gene for the pH1N1 viruses. It
+remains unknown whether higher expression of cell death-
+related genes in pH1N1-infected pigs at 5 dpi is related to the
+11-aa truncated PB1-F2 found in these viruses; the function of
+the PB1-F2 in the cell death gene expression needs to be
+elucidated in future studies.
+FIG. 6. IA30-infected pigs fail to induce immune response genes associated with pattern recognition of viruses and cytokine and immune cell
+responses in the lung. Pigs were infected with a 106
+TCID50/pig of IA30, CA09, or Alb09 (see Materials and Methods). Animals from each infection
+group and a mock group were euthanized at 3 and 5 dpi, total RNA was isolated from lung tissue, and global gene expression was determined by
+microarray analysis. Network diagram depicts the relationship between immune response genes that show differential expression in response to the
+Alb09, CA09, and IA30 viruses. Molecules in the network were selected from differentially regulated immune response genes on the basis of their
+direct interactions with each other, as determined by functional analysis by Ingenuity Pathway Analysis (Ingenuity Systems). Shading of molecules
+reflects average expression compared with mock infection within each group at 3 dpi. Red indicates that the gene expression is higher than mock
+values; green indicates that gene expression is lower than mock values. Molecules that changed less than 1.5-fold from mock infection values are
+shaded in gray.
+VOL. 85, 2011 PANDEMIC H1N1 VIRUS CAUSES GENE UPREGULATION IN PIGS 11633
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+11634 MA ET AL. J. VIROL.
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+A limited number of studies have examined the relationship
+between lipid metabolism and influenza virus infection (3, 46).
+In the present study, pH1N1 was associated with an overall
+increase in lipid metabolism genes at 5 dpi, whereas the IA30
+virus induced a significant concordant decrease in a network of
+related lipid metabolism and cell death genes which were re-
+lated to the molecule PPARG. Lipids play multifaceted roles
+in the influenza virus life cycle, including virus entry, assembly,
+and budding within the cell, and are known mediators of virus-
+host interactions (7, 18). Although it is possible that the dif-
+ferences that we observed in lipid metabolism genes may re-
+flect virus-specific shifts in virus entry or assembly favoring the
+pH1N1 virus, we did not observe any difference in virus titers
+between the groups that would support this theory. Instead, it
+is more likely that the differences that we observed are due to
+differential host regulation of lipid mediators of the immune
+response. The increase in lipid-related genes in the pH1N1-
+infected animals may reflect compensatory late reprogram-
+ming of cellular metabolism to restore membrane damage
+incurred during early immune and inflammatory responses.
+Differences in the early immune responses to the pH1N1 and
+IA30 viruses may also account for the relative downregulation
+of PPARG in IA30 infection as PPARG is expressed in the
+immune cells of pigs, and its activation in immune cells plays a
+role in the mediation of the host response to immunological
+stress (28, 29). As such, the observed decreases in PPARG in
+IA30-infected but not pH1N1-infected cells may be related to
+the relative absence of an early immune response in the IA30
+infection and could indicate virus-specific differences in im-
+mune cell populations in the lungs of infected pigs.
+To our knowledge, this is the first report that dysregulation
+of lipid metabolism occurs at the site of primary infection in
+pigs and that pigs without clinical symptoms exhibit a de-
+creased activation of lipid-regulating genes. Recent studies of
+moderately pathogenic pH1N1 in nonhuman primates indi-
+cated an early downregulation of lipid metabolism gene ex-
+pression in lungs which was not observed in the lungs of ani-
+mals infected with a mildly pathogenic, seasonal variant of the
+H1N1 virus (46). Previous global gene expression studies of
+r1918 influenza virus infection in human cell lines indicated
+that the NS1 segment of the r1918 virus may contribute to
+virulence by repressing the expression of lipid metabolism
+genes including proinflammatory lipid mediators (3).
+It is possible that differences in immune and lipid responses
+between the pH1N1- and IA30-infected pigs could be due in
+part to the differences in the NS1 proteins of the viruses. NS1
+is a multifunctional protein that plays a key role in the patho-
+genesis and virulence of influenza A viruses and is a well-
+known viral interferon antagonist (15). Although the pH1N1
+NS1 is an effective interferon antagonist, it inefficiently blocks
+general host gene expression in human and swine cells (17).
+Compared to the NS1 of the IA30 virus, the pH1N1 NS1 is
+truncated at 220 aa and lacks the consensus C-terminal PDZ
+domain motif. Although this PDZ domain was previously iden-
+tified as a virulence marker in other influenza virus strains (20,
+38), recent studies indicate that this PDZ may not be critical
+for replication, pathogenicity, or transmission of the 2009
+pH1N1 virus (16). Although the pH1N1 NS1 has only 84%
+identity with the IA30 NS1 at the amino acid level, both NS1
+proteins possess similar amino acids at positions which have
+been previously postulated to be important for viral replication
+and virulence, such as position 92D, where 92E has been
+shown to be critical for escaping antiviral cytokine responses
+(47), and 103F and 106M, which have been shown to be critical
+for CPSF30 binding (10). Further study is necessary to deter-
+mine the mechanisms by which the host and influenza virus
+alter lipid and immune responses during infection. These may
+include additional studies to determine if amino acid differ-
+ences in the NS1 proteins of the pH1N1 and IA30 viruses may
+be influencing pH1N1 pathogenicity and transmission or ac-
+count for the observed differences in host lipid and immune
+responses.
+This study demonstrates the importance of using high-through-
+put technologies as a sensitive measure of host response to
+acute infection in pigs. Although the application of global
+expression profiles to infection in pigs is important, given that
+they are a reservoir for many zoonotic diseases such as influ-
+enza virus, its use has been rare compared with other model
+systems. Most previous studies using microarray in pigs have
+focused on response to classical swine fever virus (12), circo-
+virus (27), Actinobacillus pleuropneumoniae (13, 36, 48), and
+Escherichia coli (6). Our data suggest that global transcription
+profiling is a promising avenue for uncovering novel mecha-
+nisms of response to influenza virus infection in swine. The
+differential response signatures obtained in our study are in-
+dicative of disparate host responses leading to differences in
+clinical response, despite similar virologic findings.
+pH1N1 viruses have been isolated from swine herds world-
+wide, indicating that they are cocirculating in the pig popula-
+tion with currently circulating SIVs. Furthermore, reassort-
+ment between pH1N1 and circulating SIVs has been reported
+(22, 54). Importantly, it is possible to generate via reassortment
+in the pig a more virulent virus that may infect humans. In this
+context it should be noted that the human seasonal and avian
+influenza viruses have been occasionally isolated from pigs
+throughout the world (42, 54), indicating that human and avian
+FIG. 7. Significant differences in the expression of genes related to cell death and lipid metabolism distinguish pH1N1- and IA30-infected pigs
+at 5 dpi. Pigs were infected with a 106
+TCID50/pig of IA30, CA09, or Alb09 (see Materials and Methods). Animals from each infection group and
+a mock group were euthanized at 3 and 5 dpi, total RNA was isolated from lung tissue, and global gene expression was determined by microarray
+analysis. (A) Heat map depicts cell death and lipid metabolism genes (Table 4) that were differentially expressed between infection conditions at
+5 dpi. Gene expression for each animal is shown as the log (ratio) of expression relative to that of experiment and time-matched samples extracted
+from lungs of mock-infected pigs. Red indicates that the gene expression is higher than mock; green indicates that gene expression is lower than
+mock. (B) Network diagram depicts the top-scoring network of genes as determined by Ingenuity Pathway Analysis (Ingenuity Systems) of the
+differentially expressed genes at 5 dpi. Shading of the molecules reflects the average expression compared with mock values in each group. Red
+indicates that the gene expression is higher than mock infection values; green indicates that gene expression is lower than mock values. Molecules
+that changed less than 1.5-fold from mock infection values are shaded in gray. Groups or complexes of molecules are shaded in white.
+VOL. 85, 2011 PANDEMIC H1N1 VIRUS CAUSES GENE UPREGULATION IN PIGS 11635
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+virus genes may potentially reassort with mammalian-adapted
+viruses, which could lead to enhanced cross-species transmis-
+sion. A recent study showed that eight reassortant avian H9N2
+viruses containing PA and/or other genes from the 2009
+pH1N1 exhibited higher virulence without prior adaptation
+than the parental virus in a mouse model (52). Therefore, if a
+novel virus is generated via reassortment between pH1N1 and
+other influenza A viruses in pigs or other animal species or
+humans, this virus might possess high transmissibility in addi-
+tion to causing high mortality. This reassortant virus may be-
+come a potential causative agent for a future pandemic and
+may lead to much higher mortality rates than those reported
+for the 2009 pandemic. Therefore, influenza virus surveillance
+in susceptible hosts is crucial for the control and prevention of
+the next pandemic.
+ACKNOWLEDGMENTS
+We thank Vani Shanker (Department of Scientific Editing at the St.
+Jude Children's Research Hospital) for critical review of the manu-
+script and Ruben Donis (CDC) for providing the 2009 human pan-
+demic virus; we thank Deborah Clouser, Audree Gottlob, and Darlene
+Sheffer (Kansas State University) for animal studies and technical
+assistance and Sara Kelly and Sean Proll (University of Washington)
+for technical assistance with genomics data. We also gratefully ac-
+knowledge the assistance of the Histopathology Section at the Depart-
+ment of Diagnostic Medicine/Pathobiology, Kansas State University.
+We acknowledge a grant from the National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Department of
+Health and Human Services, to support this study (Contract No.
+HHSN266200700005C). Transcriptomics and bioinformatics analy-
+sis was supported by grants from the National Institute of Allergy
+and Infectious Diseases, National Institutes of Health (P01
+AI058113-06), and National Center for Research Resources, Na-
+tional Institutes of Health, Department of Health and Human Ser-
+vices (P51 RR00166-45).
+REFERENCES
+1. Baskin, C. R., et al. 2009. Early and sustained innate immune response
+defines pathology and death in nonhuman primates infected by highly patho-
+genic influenza virus. Proc. Natl. Acad. Sci. U. S. A. 106:3455­3460.
+2. Belser, J. A., et al. 2010. Pathogenesis of pandemic influenza A (H1N1) and
+triple-reassortant swine influenza A (H1) viruses in mice. J. Virol. 84:4194­
+4203.
+3. Billharz, R., et al. 2009. The NS1 protein of the 1918 pandemic influenza
+virus blocks host interferon and lipid metabolism pathways. J. Virol. 83:
+10557­10570.
+4. Brazma, A., et al. 2001. Minimum information about a microarray experi-
+ment (MIAME)-toward standards for microarray data. Nat. Genet. 29:365­
+371.
+5. Brookes, S. M., et al. 2010. Replication, pathogenesis and transmission of
+pandemic (H1N1) 2009 virus in non-immune pigs. PLoS One 5:e9068.
+6. Bruant, G., et al. 2009. Two distinct groups of porcine enteropathogenic
+Escherichia coli strains of serogroup O45 are revealed by comparative
+genomic hybridization and virulence gene microarray. BMC Genomics 10:
+402.
+7. Chan, R. B., L. Tanner, and M. R. Wenk. 2010. Implications for lipids during
+replication of enveloped viruses. Chem. Phys. Lipids. 163:449­459.
+8. Chen, W., et al. 2001. A novel influenza A virus mitochondrial protein that
+induces cell death. Nat. Med. 7:1306­1312.
+9. Cilloniz, C., et al. 2010. Lethal dissemination of H5N1 influenza virus is
+associated with dysregulation of inflammation and lipoxin signaling in a
+mouse model of infection. J. Virol. 84:7613­7624.
+10. Das, K., et al. 2008. Structural basis for suppression of a host antiviral
+response by influenza A virus. Proc. Natl. Acad. Sci. U. S. A. 105:13093­
+13098.
+11. Garten, R. J., et al. 2009. Antigenic and genetic characteristics of swine-
+origin 2009 A(H1N1) influenza viruses circulating in humans. Science 325:
+197­201.
+12. Gladue, D. P., et al. 2010. Patterns of gene expression in swine macrophages
+infected with classical swine fever virus detected by microarray. Virus Res.
+151:10­18.
+13. Goure, J., et al. 2009. Microarray-based comparative genomic profiling of
+reference strains and selected Canadian field isolates of Actinobacillus
+pleuropneumoniae. BMC Genomics 10:88.
+14. Hai, R., et al. 2010. PB1-F2 expression by the 2009 pandemic H1N1 influenza
+virus has minimal impact on virulence in animal models. J. Virol. 84:4442­
+4450.
+15. Hale, B. G., R. E. Randall, J. Ortin, and D. Jackson. 2008. The multifunc-
+tional NS1 protein of influenza A viruses. J. Gen. Virol. 89:2359­2376.
+16. Hale, B. G., et al. 2010. Mutations in the NS1 C-terminal tail do not enhance
+replication or virulence of the 2009 pandemic H1N1 influenza A virus.
+J. Gen. Virol. 91:1737­1742.
+17. Hale, B. G., et al. 2010. Inefficient control of host gene expression by the 2009
+pandemic H1N1 influenza A virus NS1 protein. J. Virol. 84:6909­6922.
+18. Heaton, N. S., and G. Randall. 2011. Multifaceted roles for lipids in viral
+infection. Trends Microbiol. 19:368­375.
+19. Itoh, Y., et al. 2009. In vitro and in vivo characterization of new swine-origin
+H1N1 influenza viruses. Nature 460:1021­1025.
+20. Jackson, D., M. J. Hossain, D. Hickman, D. R. Perez, and R. A. Lamb. 2008.
+A new influenza virus virulence determinant: the NS1 protein four C-termi-
+nal residues modulate pathogenicity. Proc. Natl. Acad. Sci. U. S. A. 105:
+4381­4386.
+21. Kash, J. C., et al. 2006. Genomic analysis of increased host immune and cell
+death responses induced by 1918 influenza virus. Nature 443:578­581.
+22. Kitikoon, P., et al. 2011. Brief report: molecular characterization of a novel
+reassorted pandemic H1N1 2009 in Thai pigs. Virus Genes 43:1­5.
+23. Kobasa, D., et al. 2007. Aberrant innate immune response in lethal infection
+of macaques with the 1918 influenza virus. Nature 445:319­323.
+24. Krumbholz, A., et al. 2011. Current knowledge on PB1-F2 of influenza A
+viruses. Med. Microbiol. Immunol. 200:69­75.
+25. Lange, E., et al. 2009. Pathogenesis and transmission of the novel swine-
+origin influenza virus A/H1N1 after experimental infection of pigs. J. Gen.
+Virol. 90:2119­2123.
+26. Lemaitre, M., and F. Carrat. 2010. Comparative age distribution of influenza
+morbidity and mortality during seasonal influenza epidemics and the 2009
+H1N1 pandemic. BMC Infect. Dis. 10:162.
+27. Lin, C. M., et al. 2011. Immunopathological characterization of porcine
+circovirus type 2 infection-associated follicular changes in inguinal lymph
+nodes using high-throughput tissue microarray. Vet. Microbiol. 149:72­84.
+28. Liu, Y., et al. 2008. Increased expression of the peroxisome proliferator-
+activated receptor gamma in the immune system of weaned pigs after Esch-
+erichia coli lipopolysaccharide injection. Vet. Immunol. Immunopathol. 124:
+82­92.
+29. Liu, Y., et al. 2009. Activation of peroxisome proliferator-activated receptor-
+gamma potentiates pro-inflammatory cytokine production, and adrenal and
+somatotropic changes of weaned pigs after Escherichia coli lipopolysaccha-
+ride challenge. Innate Immun. 15:169­178.
+30. Ma, W., et al. 2011. Pathogenicity of swine influenza viruses possessing an
+avian or swine-origin PB2 polymerase gene evaluated in mouse and pig
+models. Virology 410:1­6.
+31. Ma, W., et al. 2007. Identification of H2N3 influenza A viruses from swine in
+the United States. Proc. Natl. Acad. Sci. U. S. A. 104:20949­20954.
+32. Maines, T. R., et al. 2009. Transmission and pathogenesis of swine-origin
+2009 A(H1N1) influenza viruses in ferrets and mice. Science 325:484­487.
+33. Manicassamy, B., et al. 2010. Protection of mice against lethal challenge with
+2009 H1N1 influenza A virus by 1918-like and classical swine H1N1 based
+vaccines. PLoS Pathog. 6:e1000745.
+34. McAuley, J. L., et al. 2007. Expression of the 1918 influenza A virus PB1-F2
+enhances the pathogenesis of viral and secondary bacterial pneumonia. Cell
+Host Microbe 2:240­249.
+35. Medina, R. A., et al. 2010. Pandemic 2009 H1N1 vaccine protects against
+1918 Spanish influenza virus. Nat. Commun. 1:28.
+36. Moser, R. J., A. Reverter, C. A. Kerr, K. J. Beh, and S. A. Lehnert. 2004. A
+mixed-model approach for the analysis of cDNA microarray gene expression
+data from extreme-performing pigs after infection with Actinobacillus pleuro-
+pneumoniae. J. Anim. Sci. 82:1261­1271.
+37. Munster, V. J., et al. 2009. Pathogenesis and transmission of swine-origin
+2009 A(H1N1) influenza virus in ferrets. Science 325:481­483.
+38. Obenauer, J. C., et al. 2006. Large-scale sequence analysis of avian influenza
+isolates. Science 311:1576­1580.
+39. Ozawa, M., et al. 2011. Impact of amino acid mutations in PB2, PB1-F2, and
+NS1 on the replication and pathogenicity of pandemic (H1N1) 2009 influ-
+enza viruses. J. Virol. 85:4596­4601.
+40. Palmer, D. F., M. T. Coleman, W. D. Dowdle, and G. O. Schild. 1975.
+Advanced laboratory techniques for influenza diagnosis. U.S. Department of
+Health, Education, and Welfare, Washington, DC.
+41. Pasma, T., and T. Joseph. 2010. Pandemic (H1N1) 2009 infection in swine
+herds, Manitoba, Canada. Emerg. Infect. Dis. 16:706­708.
+42. Peiris, J. S., et al. 2001. Cocirculation of avian H9N2 and contemporary
+"human" H3N2 influenza A viruses in pigs in southeastern China: potential
+for genetic reassortment? J. Virol. 75:9679­9686.
+43. Pereda, A., et al. 2010. Pandemic (H1N1) 2009 outbreak on pig farm, Ar-
+gentina. Emerg. Infect. Dis. 16:304­307.
+44. Pig Disease Information Centre. 2011. Pig herd outbreaks of pandemic
+11636 MA ET AL. J. VIROL.
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+influenza H1N1. Pig Disease Information Centre, Cambridge, United King-
+dom. http://www.pighealth.com/influenza.htm.
+45. Richt, J. A., et al. 2003. Pathogenic and antigenic properties of phylogeneti-
+cally distinct reassortant H3N2 swine influenza viruses cocirculating in the
+United States. J. Clin. Microbiol. 41:3198­3205.
+46. Safronetz, D., et al. 2011. Pandemic swine-origin H1N1 influenza A virus
+isolates show heterogeneous virulence in macaques. J. Virol. 85:1214­1223.
+47. Seo, S. H., E. Hoffmann, and R. G. Webster. 2002. Lethal H5N1 influenza
+viruses escape host anti-viral cytokine responses. Nat. Med. 8:950­954.
+48. Skovgaard, K., S. Mortensen, M. Boye, J. Hedegaard, and P. M. Heegaard.
+2010. Hepatic gene expression changes in pigs experimentally infected with
+the lung pathogen Actinobacillus pleuropneumoniae as analysed with an in-
+nate immunity focused microarray. Innate Immun. 16:343­353.
+49. Smith, G. J., et al. 2009. Origins and evolutionary genomics of the 2009
+swine-origin H1N1 influenza A epidemic. Nature 459:1122­1125.
+50. Sreta, D., et al. 2010. Pandemic (H1N1) 2009 virus on commercial swine
+farm, Thailand. Emerg. Infect. Dis. 16:1587­1590.
+51. Steel, J., et al. 2010. Transmission of pandemic H1N1 influenza virus and impact
+of prior exposure to seasonal strains or interferon treatment. J. Virol. 84:21­26.
+52. Sun, Y., et al. 2011. High genetic compatibility and increased pathogenicity
+of reassortants derived from avian H9N2 and pandemic H1N1/2009 influ-
+enza viruses. Proc. Natl. Acad. Sci. U. S. A. 108:4164­4169.
+53. USDA National Veterinary Services Laboratories. 2010. 2009 Pandemic
+H1N1 influenza presumptive and confirmed results, January 19, 2010. USDA
+National Veterinary Services Laboratories, Ames, IA. http://www.usda.gov
+/documents/CHART-SAMPLES_FOR_CY2009_011910.pdf.
+54. Vijaykrishna, D., et al. 2010. Reassortment of pandemic H1N1/2009 influ-
+enza A virus in swine. Science 328:1529.
+55. Vincent, A. L., et al. 2010. Experimental inoculation of pigs with pandemic
+H1N1 2009 virus and HI cross-reactivity with contemporary swine influenza
+virus antisera. Influenza Other Respi. Viruses 4:53­60.
+56. Vincent, A. L., et al. 2006. Evaluation of hemagglutinin subtype 1 swine
+influenza viruses from the United States. Vet. Microbiol. 118:212­222.
+57. Vincent, A. L., W. Ma, K. M. Lager, B. H. Janke, and J. A. Richt. 2008. Swine
+influenza viruses a North American perspective. Adv. Virus Res. 72:127­154.
+58. Weingartl, H. M., et al. 2009. Experimental infection of pigs with the human
+1918 pandemic influenza virus. J. Virol. 83:4287­4296.
+59. Weingartl, H. M., et al. 2010. Genetic and pathobiologic characterization of
+pandemic H1N1 2009 influenza viruses from a naturally infected swine herd.
+J. Virol. 84:2245­2256.
+60. World Health Organization. 6 August 2010, posting date. Pandemic (H1N1)
+2009--update 112. World Health Organization, Geneva, Switzerland. http:
+//www.who.int/csr/don/2010_08_06/en/index.html.
+VOL. 85, 2011 PANDEMIC H1N1 VIRUS CAUSES GENE UPREGULATION IN PIGS 11637
+on
+April
+3,
+2014
+by
+guest
+http://jvi.asm.org/
+Downloaded
+from
+

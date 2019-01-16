@@ -1,0 +1,617 @@
+ Proc. Natl. Acad. Sci. USA
+Vol. 87, pp. 4154-4158, June 1990
+Biochemistry
+Sequence of an influenza virus hemagglutinin determined directly
+from a clinical sample
+(Hi subtype/virus from nasopharynx/polymerase chain reaction/comparison with egg-grown viruses)
+AUGUSTINE RAJAKUMAR*, ELLA M. SWIERKOSZt, AND IRENE T. SCHULZE*1
+*Department of Microbiology, Saint Louis University School of Medicine, 1402 South Grand Boulevard, Saint Louis, MO 63104; and tDiagnostic Virology
+Laboratory, Cardinal Glennon Children's Hospital, and Department of Pediatrics/Adolescent Medicine and Pathology, Saint Louis University Medical
+Center, 1465 South Grand Boulevard, Saint Louis, MO 63104
+Communicated by Edwin D. Kilbourne, March 21, 1990 (receivedfor review December 8, 1989)
+ABSTRACT The sequence of the HAl region of the he-
+magglutinin gene of an influenza virus has been determined
+without growing the virus in eggs or in cultured cells. The virus
+used was an HI strain of influenza A from a clinical specimen
+taken from a patient in 1987. RNA was extracted directly from
+virus that had been sedimented out ofthe transport medium in
+which the sample had been stored. DNA copies of the hemag-
+glutinin gene, obtained by reverse transcription, were then
+amplified by thepolymerasechain reaction andweresequenced
+by the dideoxy termination method. The deduced amino acid
+sequence is highly similar to that of other Hi viruses that had
+been isolated at about the same time and cultured for a limited
+number ofpassages in eggs. Furthermore, the HAl sequence of
+progeny virus from this isolate obtained after one passage in
+chicken embryos is identical to that of the virus obtained
+directly from the nasopharynx. The results suggest that HI
+isolates that have been grown for a limited number ofpassages
+in embryonated eggs have HAl subunits that falthfuily repre-
+sent the virus population in the clinical samples from which
+they were derived.
+The hemagglutinin (HA) on the surface ofthe influenza virion
+is a glycoprotein that has three biological activities that play
+major roles in the infectious process. The HA attaches the
+virus to host cells, it is the antigenic target against which
+neutralizing antibodies are made, and it fuses the viral
+envelope with the membranes ofendocytotic vesicles so that
+the transcription complex of the virus can enter the cyto-
+plasm of the cell. These three activities are associated with
+specific regions of the HA (for reviews see refs. 1-3), and
+amino acid substitutions in these regions can change the
+ability of the virus to grow in cells of different species.
+Substitutions on the rim of the receptor binding pocket can
+change the ability of H3 viruses to bind to specific sialic
+acid-galactose linkages on host cells (4-7). In addition, the
+presence of oligosaccharides at specific sites on the HA can
+determine how well the virus binds to certain cells (8, 9) and
+how susceptible the HA is to the proteolytic cleavage that is
+required for the expression of its fusion activity (10-12).
+Thus, changes in the amino acid sequence ofthe HA can alter
+virus host range at the cellular level, and it has been clearly
+shown that minority forms within a virus population will
+rapidly predominate if they have a growth advantage during
+cultivation in the laboratory (2, 8, 13-17).
+These observations have led to the concern that minor
+heterogeneity within clinical samples or mutations that occur
+during isolation and growth could lead to laboratory-grown
+influenza virus populations that are significantly different
+from those in the original clinical samples. Were such selec-
+tion to occur during growth of the virus in embryonated
+chicken eggs or in certain cultured cells, virus from those
+sources would be poorly suited for the study ofHA function
+and for the preparation of vaccines.
+The studies presented here were undertaken to determine
+the sequence ofthe HA gene directly from the virus within a
+clinical sample so that nucleotide changes that might be
+associated with growth in laboratory hosts could be avoided.
+We have used the polymerase chain reaction (PCR; ref. 18)
+to amplify DNA made from virus recovered from a patient
+with influenza and have determined the nucleotide sequence
+ofthe HA gene from its 3' end into the HA2 region. We have
+used the same procedure to determine the sequence of this
+region of the HA gene after growth ofthis isolate in chicken
+embryos. The deduced amino acid sequences are reported
+here§ and are compared to those of viruses of the same
+subtype isolated since 1977 by growth in embryonated eggs.
+MATERIALS AND METHODS
+Virus Isolation and Growth. Nasopharyngeal swabs taken
+forthe diagnosis offebrile respiratory illness were used in this
+study. Samples were taken in January of 1987 at Cardinal
+Glennon Children's Hospital (Saint Louis, MO). Virus iso-
+lation and identification were carried out using tube cultures
+of primary rhesus monkey kidney cells obtained from Wh-
+itaker M.A. Bioproducts. Swabs that contained influenza
+virus were stored at -700C in -2 ml of transport medium
+(veal infusion broth containing 0.5% gelatin, penicillin, gen-
+tamicin, and amphotericin B).
+To obtain egg-grown virus for this study, virus from one of
+the clinical samples was diluted 1:9 in sterile phosphate-
+buffered saline and injected into the allantoic cavity of two
+10-day-old chicken embryos (0.2 ml per embryo). Allantoic
+fluid containing 21280 hemagglutinating units per ml was
+harvested after 72 hr ofincubation at 34WC and was stored at
+-700C.
+Plaque-purified influenza A (HlNi), strain WSN, was also
+used in these studies. This virus has been grown in the
+laboratory for many generations and for these studies was
+obtained from Madin-Darby bovine kidney cells.
+RNA Extraction. Samples oftransport medium or allantoic
+fluid containing virus were thawed rapidly and diluted with
+NTE buffer (10 mM Tris HCl, pH 7.5/100 mM NaCl/1 mM
+EDTA). Virus from transport medium or allantoic fluid was
+concentrated by centrifugation at 105,000 x g for 2 hr,
+resuspended in 300 pl of NTE, and quantitated by hemag-
+glutination as described (19). Based on the titer of the
+Abbreviations: HA, hemagglutinin; PCR, polymerase chain reac-
+tion.
+tTo whom reprint requests should be addressed.
+§The sequence reported in this paper has been deposited in the
+GenBank data base (accession no. M33748).
+4154
+The publication costs ofthis article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+Proc. Natl. Acad. Sci. USA 87 (1990) 4155
+resuspended virus, the clinical samples used in these studies
+each contained :1200 hemagglutinating units of virus.
+Twenty microliters of virus suspension containing 50-100
+hemagglutinating units was mixed with an equal volume of
+buffer containing 200 mM Tris HCl (pH 7.4), 300 mM NaCl,
+25 mM EDTA, and 2% SDS and incubated with 100 ,g of
+proteinase K (Boehringer Mannheim) at 37°C for 1 hr. After
+addition of 10 ,g of tRNA, the RNA was extracted with
+phenol/chloroform and precipitated with ethanol. The RNA
+was then incubated at 37°C for 30 min with 40 units of
+RNase-free DNase (Pharmacia), extracted with phenol/
+chloroform, reprecipitated, and suspended in 10 ,u of TE
+buffer (10 mM Tris HCl, pH 8.1/1 mM EDTA).
+cDNA Synthesis. Reverse transcription of the virion RNA
+was carried out as described (20) using avian myeloblastosis
+virus reverse transcriptase obtained from Life Sciences and
+a primer consisting of a 12-nucleotide sequence that is
+complementary to the 3' ends of all of the virion segments.
+This primer and all others used in this study, unless otherwise
+noted, were prepared by Paul Wollenzein (Department of
+Biochemistry, Saint Louis University) using an Applied
+Biosystems DNA synthesizer and were purified by protocols
+described by Applied Biosystems. The cDNA RNA product
+obtained by reverse transcription was extracted once with
+phenol/chloroform, precipitated with ethanol, and dissolved
+in 10 ,ul of TE buffer.
+HA Gene Amplification by the PCR. The entire HA1 region
+ofthe HA gene and part ofthe HA2 region were amplified by
+using Gene-Amp kits obtained from Cetus/Perkin-Elmer.
+The reaction mixture (100 ,ul) contained the cDNA'RNA
+complex described above, 10 mM Tris HCI (pH 8.3), 50 mM
+KCl, 1.5 mM MgCI2, 0.001% gelatin, 2.5 units of Thermus
+aquaticus (Taq) DNA polymerase, 200 uM dNTP, and 20
+pmol of each of two primers as indicated in Results. The
+reaction mixture was overlaid with 100 ,ul oflight mineral oil
+(Sigma) and amplification was carried out for 25 cycles each
+consisting of 1 min ofdenaturation at 94°C, 2 min at 35°C for
+reannealing, and 2 min at 72°C for extension. Following
+extraction with chloroform to remove the mineral oil, an
+aliquot of the amplified DNA was analyzed by electropho-
+resis in 1% agarose gel with a Tris/borate/EDTA buffer
+system (21). To ensure that there was a sufficient amount of
+DNA for multiple sequencing reactions, the DNA from the
+first amplification was purified from low-melting agarose gels
+and was reamplified as described above.
+Nucleotide Sequence Analysis. Double-stranded DNA cop-
+ies of the HA gene were sequenced directly from the ampli-
+HA 1
+fled pool by the dideoxy termination method (22). Primers,
+end-labeled with [y-32P]ATP (ICN Radiochemicals) by using
+T4 polynucleotide kinase (Pharmacia), were annealed to
+300-400 ng of amplified DNA by boiling for 10 min and
+allowing the reaction mixture to come to room temperature.
+The DNA-primer complex was ethanol-precipitated and was
+sequenced using Sequenase kits (United States Biochemi-
+cal).
+The sequence of both DNA strands was determined from
+the virus taken directly from the nasopharynx. The six
+primers used for sequencing the coding strand were based on
+the published sequences of the WSN and PR8 strains of
+influenza A (HlNl) (23, 24). They consisted of bases 11-35,
+219-233, 384-404, 549-568, 796-813, and 918-932 of plus-
+strand RNA. The five primers used to sequence the noncod-
+ing strand were complementary to nucleotides 1005-986,
+692-669, 496-478, 238-219, and 116-99 of the A/SL/2/87
+plus strand. The same primers were used to determine the
+HA sequence of egg-grown virus.
+RESULTS
+These studies were undertaken to determine the sequence of
+the HA gene without there having been opportunities for
+selection during growth ofthe virus in a laboratory host. The
+HA1 region and the cleavage region that links HA1 to HA2
+have been investigated. The part of the HA gene that was
+amplified extended from its 3' end to nucleotide 1095, which
+is located 31 bases into the HA2 region of this genome
+segment.
+The primers used for preparation ofthe amplified DNA and
+their relationship to the HA gene are shown in Fig. 1. Primers
+I and IV (kindly provided by Andrew Caton, Wistar Institute,
+Philadelphia) were the first to be used in this study, because
+they were expected to produce DNA copies that would
+contain most of the HA1 region of the HA gene (see Fig. 1).
+The amplified DNA obtained from two clinical samples by
+using primers I and IV is shown in Fig. 2A. DNA that
+appeared to be heterogeneous in size but was about 1000 base
+pairs long was obtained from each. A/SL/2/87 was chosen
+for use in all subsequent studies.
+As shown in Fig. 2B, the amplified DNA obtained from this
+virus could be resolved into three bands by longer periods of
+electrophoresis. When the individual bands were eluted from
+a gel like that shown in lane 1 and reapplied to a second gel,
+each retained its original mobility (lanes 2-4), indicating that
+they represent discrete populations ofmolecules. The largest
+HA2
+CLEAVAGE SITE
+VIRION 3,
+RNA
+1045 bp
+5'
+/-{- $1 IV
+-1773 bp
+II W 1095 bp
+-u II
+~*+Z~1 V
+FIG. 1. Primers used in amplification and the DNA products obtained. The primers and their relationship to the HA gene are shown. Primer
+I, d(AGCAAAAGCAGG), is complementary to the first 12 nucleotides at the 3' end of all of the virion RNAs. It consists of plus-strand DNA
+(see text). Primer II, d(AGTAGAAACAAGG), consists of the first 13 nucleotides at the 5' end of all of the virion RNAs and its minus-strand
+DNA. Primer III, d(AGCAAAAGCAGGGGAAAATAAAAACAACCAAAATG), is plus-strand DNA and is complementary to the first 35 bases
+at the 3' end of A/SL/2/87 HA RNA. Primer IV, d(ATGTTCCTTAGTCCTGTAACCAT), is complementary to nucleotides 1045-1023 of the
+plus-strand HA DNA. Primer V, d(CAATGAAACCGGCAATGGCTCC), is complementary to nucleotides 1095-1074 of the plus-strand of
+USSR HA DNA. The regions of the virion RNA represented in amplified DNA synthesized from primers I and IV, I and II, and III and V are
+also shown. The DNA used for sequencing directly from the nasopharynx was obtained by using primers I and IV in both the first and second
+amplifications or primers I and II followed by primers III and V (see text). DNA was synthesized from egg-grown A/SL/2/87 by using primers
+III and V in both amplifications. bp, Base pairs.
+Biochemistry: Rajakumar et al.
+4156 Biochemistry: Rajakumar et al.
+A B
+3 6
+Kb
+2 .0 -
+0 5-
+IB1i
+B2-
+A{
+FIG. 2. Agarose gel electrophoresis of the amplified DNA ob-
+tained by using primers I and IV. (A) Lane 1, HindIII-digested A
+DNA (size markers); lanes 2 and 3, amplified DNA copies of HA
+RNA from two clinical samples, A/SL/1/87 and A/SL/2/87, re-
+spectively. (B) Lane 1, amplified A/SL/2/87 HA DNA separated
+into three bands by electrophoresis for 8 hr at 100 V; lanes 2-4,
+purified bands B1, B2, and B3, respectively; lane 5, amplified WSN
+HA DNA; lane 6, marker DNA. kb, Kilobase(s).
+of these DNAs, designated B1, had the same mobility as the
+DNA obtained from the WSN strain of influenza A (HlNl)
+(lane 5). Amplified DNA obtained from this virus by the same
+procedure as that used with the clinical samples consistently
+gave only one band, which was of the size expected from
+primers I and IV (1045 base pairs). B1 DNA was therefore
+purified by gel electrophoresis and used for sequence anal-
+ysis.
+To obtain information about the sequence at the cleavage
+site between HA1 and HA2, we needed DNA copies that
+extended into the HA2 region. We therefore amplified DNA
+by using primers I and II (see Fig. 1). Since these primers are
+complementary to the conserved regions at the two ends of
+all genome segments (25-27), they were expected to produce
+complete copies of all eight virion genes, albeit in small
+amounts. To obtain a sufficient amount of the HA DNA for
+sequencing, we used these complete DNA copies as tem-
+plates for reampliflication using two new HA-specific prim-
+ers, III and V. Since we had already determined the sequence
+ofmost ofthe plus-strand HA DNA, one ofthese new primers
+(III) was designed to be complementary to the first 35
+nucleotides at the 3' end of the A/SL/2/87 HA gene. This
+primer is identical to primer I for the first 12 nucleotides but
+contains 23 additional bases that are specific for the sequence
+found in A/SL/2/87. Primer III, along with primer V, which
+is complementary to nucleotides 1095-1074 in the HA2
+region of the USSR plus strand (see Fig. 1), produced DNA
+ofone size class. It migrated slightly slowerthan B1 DNA and
+had the same Ava I and Ava II cleavage sites as those in B1
+DNA (results not shown). By sequencing both strands ofthis
+DNA, we have determined the sequence of the first 31 bases
+of the HA2 region and have confirmed the sequence that we
+had previously obtained from B1 DNA. The use of this
+second method ofobtaining amplified DNA has increased the
+likelihood that our sequence represents that of the majority
+of the viruses in the clinical sample rather than the sequence
+ofa minority population that was selectively amplified by the
+primers used.
+The nucleic acid sequence of A/SL/2/87 after a single
+passage in eggs was also determined from DNA obtained by
+PCR using primers III and V. This DNA, like that obtained
+directly from the clinical sample when these two primers
+were used, was homogeneous in size and was slightly larger
+than B1 DNA. The nucleotide sequence of this DNA was
+identical to that obtained from virus taken directly from the
+throat.
+The nucleotide sequence of A/SL/2/87 and that of em-
+bryonated egg-grown A/TW/1/86 (kindly provided by
+Nancy Cox, Centers for Disease Control, Atlanta) are highly
+similar. Differences were observed at seven positions (cy-
+tosine in A/TW/1/86 versus uracil in A/SL/2/87 at nucle-
+otides 251, 371, 848, and 1001; guanine versus adenine at
+nucleotides 748 and 793; and adenine versus guanine at
+nucleotide 1021). Four of these differences (at residues 251,
+371, 848, and 1001) are in the third nucleotide of the codon
+and do not change the amino acid specified by the sequence.
+The remaining three (at nucleotides 748, 793, and 1021)
+change the amino acids at positions 225, 240, and 315 as
+indicated in Fig. 3. However, two independent reports ofthe
+amino acid sequence ofA/TW/1/86 have been published (30,
+31); they differ at amino acids 138, 240, and 315. As indicated
+in Fig. 3, the sequence ofA/SL/2/87 differs from both ofthe
+published sequences ofA/TW/1/86 by only one amino acid;
+aspartic acid (D) is found at position 225 in both nasopha-
+ryngeal and egg-grown A/SL/2/87, whereas glycine (G) is
+found in egg-grown A/TW/1/86. Both of these recent H1
+isolates differ significantly from A/USSR/77.
+DISCUSSION
+Although interest in influenza virus epidemiology and genet-
+ics has led to numerous reports concerning the amino acid
+sequence ofthe HA gene, all previously reported sequences
+1 10 20
+A/USSR/77 MKAKLLVLLCALSATDADTICI
+yHC A
+ISTYA
+A/TW/1/86 ------- FT-------------
+AISLI2/87 -----------FT------- -
+--- __
+30 40 50 *
+DTVDTVLEK NTTHSVNLLEDSHN6KLCRLKGIAP
+60 70 * 80 90
+L(LGKCN IAGWI LGNPECESLFSKKSWSYIAETPNS
+IN - S -
+* 100 110 120 ***
+E NGTCYP GY FADYEELR EQLS S VS S F ER FE I FPKER
+-_-__ S
+_-
+--
+-_
+_ _-------
+S
+130 * 140 150 160
+SWPK~jNVT7RGVTASCSHKGKSSFYRNLLWLTE 6
+- - -SI --K -- - -S/A- -- -- -- -- -- -- - - - - ---
+170 180 190
+YPNL
+FiKSYVNNKEKEVLVLWGVHHPSNIEDOKTIYR
+__
+___i------------G--------RA--H
+200 210 220 230
+KENAYVSVVSSNYNRRFTPEIAERPKVRGUAGRINY
+T- ---------H ---------K- -- -- --E-----
+T------H------K---D-E---
+240 250 260 *
+YWTLLEPGDTIIFEANGNLIAPUHAFALNRGFGSGI
+-GI--6E--------Y----S----
+----E--------Y----S----
+270 280 290 300
+IT S MD ECDTKCaTP(GAIr7ZILP F(NIHP VT IG
+___ __ ---- - A -________--- - - -- -- V- -- -- -
+-_
+-___- -- -- -A ----------
+____ -I- -- -- V- -- ---
+V
+310 320 330
+ECPKYVRSTKLRMVTGLRNIPSIQSRGLFGAIAGFI
+-----------K/R--------------
+-----------R-------_________________
+FIG. 3. Amino acid sequence of the HA1 subunit and the HA1/
+HA2 cleavage region of nasopharyngeal and egg-grown A/SL/2/87
+and oftwo egg-grown H1 strains, A/USSR/77 and A/TW/1/86. The
+amino acids are numbered to correspond to those in the H3 HA as
+previously described (28). Amino acids present in the H1 subtype but
+not in H3 are marked by stars. The glycosylation sites are indicated
+by boxes. Dashes indicate no difference in sequence from that found
+in A/USSR/77 (29). For A/TW/1/86, two amino acids are given at
+three positions. The amino acid above the bar is that found by Cox
+etal. (30) and the one below the bar is that found by Robertson (31).
+Although both preparations of A/TW/86 that were sequenced con-
+tained glycine at residue 225, aspartic acid has been found at that
+position in numerous egg-grown isolates (see text). Amino acids
+330-339 of A/TW/1/86 have not been reported. Arrowhead indi-
+cates the proteolytic cleavage site between HA1 and HA2. A single
+sequence is shown for A/SL/2/87, since nasopharyngeal and egg-
+grown virus gave identical sequences.
+Proc. Natl. Acad. Sci. USA 87 (1990)
+Proc. Natl. Acad. Sci. USA 87 (1990) 4157
+have been derived from virus strains that had been grown
+either in eggs or in cultured cells. Our approach using the
+PCR to amplify copies of the HA gene has enabled us to
+determine the sequence of this viral gene starting with the
+limited amount of virus that can be recovered from a na-
+sopharyngeal swab taken during the acute stage ofillness. In
+so doing we have been able to determine the sequence ofthis
+viral surface glycoprotein without there having been oppor-
+tunities for selection ofvariant forms during virus cultivation
+in eggs or in cell culture.
+We have found that the HA gene sequence encompassing
+the HA1 region and the HA1/HA2 cleavage region ofa 1987
+isolate is identical when obtained directly from virus in the
+nasopharynx and from virus grown in chicken embryos.
+Furthermore, this sequence is strikingly similar to those of
+other H1 viruses isolated in 1986. In fact, the only difference
+between A/SL/2/87 and A/TW/1/86 is the presence of
+aspartic acid instead ofglycine at amino acid 225. By analogy
+to the H3 HA (32), this amino acid is located on the rim ofthe
+receptor binding pocket and might be expected to influence
+the specificity or the affinity ofthe HA for receptors on host
+cells from different sources. It has, in fact, been proposed
+that an aspartic acid to glycine substitution occurs during
+adaptation ofH1 viruses to growthin eggs (33). This is not the
+case with the isolate described here, since aspartic acid
+remains at position 225 when A/SL/2/87 is grown for one
+passage in eggs. In addition, of some 19 H1 viruses isolated
+since 1977 and sequenced after a limited number ofpassages
+in eggs, 8 have aspartic acid, 8 have glycine, and 3 have
+asparagine at position 225 (30, 31, 33, 34), indicating that all
+three of these amino acids are compatible with growth ofH1
+strains in eggs. Thus, the sequence data presented here from
+DNA synthesized by PCR are consistent with those obtained
+previously from egg-grown H1 isolates. The accumulated
+evidence indicates that embryonated eggs do not provide a
+strong selective pressure for an aspartic acid to glycine
+substitution at amino acid 225. Whether this change will
+occur during long-term passage of A/SL/2/87 in eggs or in
+cultured mammalian cells and whether other amino acid
+substitutions will accompany it can now be determined.
+As indicated in Fig. 3, glutamine has been found at position
+226 in A/SL/2/87 and in the two reference strains. This
+amino acid is also on the rim of the receptor binding pocket
+and has been implicated in determining the receptor speci-
+ficity of H3 strains (4). With H3 strains, glutamine at amino
+acid 226 has been found in virus obtained from avian sources
+whereas leucine has been found at that position in virus of
+human and equine origin (35). This is not the case with H1
+strains; glutamine has been found at position 226 in all human
+isolates grown in eggs or cultured cells and, as shown here,
+in virus obtained directly from the human nasopharynx.
+The glycosylation sites on the H1 viruses isolated since
+1977 have been highly conserved. As shown in Fig. 3,
+A/USSR/77 has eight sites whereas A/TW/86 has nine.
+Except for the additional glycosylation sites at amino acid 63
+of the HA1 subunit and the shift of the site from 131 to 129
+in the 1986 isolates (30, 31), the H1 strains isolated since 1977
+have identical glycosylation sites. Since these same glyco-
+sylation sites are found in virus taken directly from the
+nasopharynx, neither addition nor deletion of glycosylation
+sites can be attributed to growth of these viruses in the
+laboratory. It remains to be determined, however, whether
+all ofthese sites will be maintained through extensive passage
+of these viruses in eggs or in cell culture. It is interesting in
+this regard that the strains of influenza virus that have been
+grown in the laboratory for many years have functional HA1
+subunits with as few as four glycosylation sites, only two of
+which (those at amino acid 20/21 and 271) are conserved in
+all strains. In the case of the WSN strain, deletion of a
+glycosylation site from the tip of the HA actually enhances
+growth ofthe virus in some mammalian cells (8, 9), and with
+an influenza B strain, virus isolated in eggs lacks a glycosyl-
+ation site that is present on virus isolated from the same
+source in Madin-Darby canine kidney cells (16). Since de-
+letion ofglycosylation sites is clearly tolerated during growth
+of these viruses in cell cultures, their conservation among
+new isolates suggests that the oligosaccharides at these sites
+are critical to the survival of these strains in nature, rather
+than to the receptor-binding or fusion activity of the HA.
+These considerations strengthen the previously made pro-
+posal that the oligosaccharides may mask antigenic sites (36)
+that would otherwise contribute to immune surveillance and
+reduce virus transmission within the human population.
+It is important to point out that the information presented
+here should not be taken to indicate that the virus population
+within the nasopharynx is homogeneous with respect to its
+HA sequence. Minor heterogeneity in the HA genes would
+not be detected by the techniques used here. Since we have
+sequenced the HA gene directly from amplified DNA pools
+obtained by two different procedures, we have reduced the
+chances of seeing random substitutions that could be intro-
+duced into the sequence by the Taq polymerase. However,
+this approach also reduces the possibility of detecting minor
+components within a heterogeneous population. Thus, the
+deduced amino acid sequence we have obtained is that ofthe
+majority component within the clinical samples, and other
+approaches are needed to determine whether these popula-
+tions are heterogeneous in HA sequence.
+Since only low amounts ofvirus are needed for sequencing
+by the technique used here, various questions relating to the
+virus population within a clinical sample can now be inves-
+tigated. For example, will virus from other individuals in-
+fected within the same epidemic show exactly the same
+sequence as that reported here, or will the major component
+found within a clinical sample depend in part on the immune
+state of the patient? Will there be any changes in HA
+sequence during the progression of the disease? Will pro-
+longed passage in different laboratory hosts produce different
+populations from this isolate and, ifso, is this due to mutation
+and selection during cultivation in the laboratory or to
+selection of different minor components within the clinical
+sample? With respect to these two alternatives, previous
+work indicates that both processes occur. On the one hand,
+mutants with single base substitutions in the HA gene have
+beenfound to arise in homogeneous populations derived from
+single plaques and to replace the original virus strain when
+the mutant has a selective advantage over the parent in the
+cell culture used for virus propagation (8, 9). On the other,
+virus populations obtained directly from patients with influ-
+enza have been resolved into subpopulations that differ from
+one another by as little as a single amino acid (17, 33, 35-37).
+The information presented here indicates that growth of
+new isolates for a limited number ofpassages in embryonated
+eggs can be expected to provide H1 stocks with HAl se-
+quences that faithfully represent those found on virions
+within the nasopharynx. Whether this is the case with other
+influenza A subtypes and influenza B viruses can now be
+determined using the approach employed here. This ap-
+proach should also be useful in vaccine development and
+evaluation; it should help to ensure that the virus strains that
+are incorporated into influenza vaccines have HAs that
+mirror those found in the human population.
+Lastly, the incomplete DNAs in the amplified pools ob-
+tained from the clinical samples need to be investigated. As
+indicated above, these smaller DNAs have been obtained
+from both ofthe clinical isolates that we have examined. With
+A/SL/2/87 they were seen with virus obtained directly from
+the nasopharynx and from chicken embryo-grown virus when
+primers I and IV were used during amplification (data not
+shown), but not when primers III and V were used. They
+Biochemistry: Rajakumar et al.
+4158 Biochemistry: Rajakumar et al.
+were not observed when plaque-isolated virus of the WSN
+strain was amplified using primers I and IV. These DNAs
+may be generated during amplification as a consequence of
+some as yet unidentified variation or imperfection in the
+PCR. However, the conditions under which they are found
+are consistent with their being authentic DNA copies of
+defective HA genome segments.
+We wish to thank Drs. H. Peter Zassenhaus, Shahika Aytay, and
+Michelle Inkster for advice and support throughout this work, Dr.
+Andrew Caton for providing us with primers and advice, Terrie
+Konsky for skilled secretarial assistance, and Drs. J. Skehel and R.
+Daniels for review of the manuscript. This work was supported in
+part by Grants AI10097 and AI23520 from the National Institutes of
+Health.
+1. Webster, R. G., Laver, W. G., Air, G. M., & Schild, G. C.
+(1982) Nature (London) 296, 115-121.
+2. Schulze, I. T. (1987) Adv. Cell Culture 5, 59-96.
+3. Wiley, D. C. & Skehel, J. J. (1987) Annu. Rev. Biochem. 56,
+365-394.
+4. Rogers, G. N., Paulson, J. C., Daniels, R. S., Skehel, J. J.,
+Wilson, I. A. & Wiley, D. C. (1983) Nature (London) 304,
+76-78.
+5. Daniels, R. S., Jeffries, S., Yates, P., Schild, G. C., Rogers,
+G. N., Paulson, J. C., Wharton, S. A., Douglas, A. R., Skehel,
+J. J. & Wiley, D. C. (1987) EMBO J. 6, 1459-1465.
+6. Weis, W., Brown, J. H., Cusack, S., Paulson, J. C., Skehel,
+J. J. & Wiley, D. C. (1988) Nature (London) 333, 426-431.
+7. Suzuki, Y., Kato, H., Naeve, C. W. & Webster, R. G. (1989)
+J. Virol. 63, 4298-4302.
+8. Crecelius, D. M., Deom, C. M. & Schulze, I. T. (1984) Virol-
+ogy 139, 164-177.
+9. Deom, C. M., Caton, A. J. & Schulze, I. T. (1986) Proc. Natl.
+Acad. Sci. USA 83, 3771-3775.
+10. Bosch, F. X., Garten, W., Klenk, H.-D. & Rott, R. (1981)
+Virology 113, 725-735.
+11. Rott, R., Orlich, M., Klenk, H.-D., Wang, M. L., Skehel, J. J.
+& Wiley, D. C. (1984) EMBO J. 3, 3329-3332.
+12. Kawaoka, Y. & Webster, R. G. (1989) J. Virol. 64, 3296-3300.
+13. Kilbourne, E. D. (1978) Proc. Natl. Acad. Sci. USA 75, 6258-
+6262.
+14. Both, G. W., Cheng, H. S. & Kilbourne, E. D. (1983) Proc.
+Natl. Acad. Sci. USA 80, 6996-7000.
+15. Schild, G. C., Oxford, J. S., DeJong, J. C. & Webster, R. G.
+(1983) Nature (London) 303, 706-709.
+16. Robertson, J. S., Naeve, C. W., Webster, R. G., Bootman,
+J. S., Neuman, R. & Schild, G. C. (1985) Virology 143, 166-
+174.
+17. Katz, J. M., Naeve, C. W. & Webster, R. G. (1987) Virology
+156, 386-395.
+18. Saiki, R. K., Gelfand, D. H., Stoffel, S., Scharf, S. J., Higuchi,
+R., Horn, G. T., Mullis, K. B. & Erlich, H. A. (1988) Science
+239, 487-491.
+19. Noronha-Blob, L. & Schulze, I. T. (1976) Virology 69, 314-
+322.
+20. Winter, G., Fields, S. & Gait, M. J. (1981) Nucleic Acids Res.
+9, 237-245.
+21. Maniatis, T., Fritsch, E. & Sambrook, J. (1982) Molecular
+Cloning:A Laboratory Manual(Cold Spring Harbor Lab., Cold
+Spring Harbor, NY), p. 191.
+22. Sanger, F., Nicklen, S. & Coulson, A. R. (1977) Proc. Natl.
+Acad. Sci. USA 74, 5463-5467.
+23. Hiti, A. L., Davis, A. R. & Nayak, D. P. (1981) Virology 111,
+113-124.
+24. Caton, A., Brownlee, G. G., Yewdell, J. W. & Gerhard, W.
+(1982) Cell 31, 417-427.
+25. Skehel, J. J. & Hay, A. J. (1978) Nucleic Acids Res. 5, 1207-
+1219.
+26. Robertson, J. S. (1979) Nucleic Acids Res. 6, 3745-3757.
+27. Desselberger, V., Racaniello, V. R., Zazra, J. J. & Palese, P.
+(1980) Gene 8, 315-328.
+28. Winter, G., Fields, S. & Brownlee, G. G. (1981) Nature (Lon-
+don) 292, 72-75.
+29. Concannon, P., Cummings, I. W. & Salser, W. A. (1984) J.
+Virol. 49, 276-278.
+30. Cox, N. J., Black, R. A. & Kendal, A. P. (1989) J. Gen. Virol.
+70, 299-313.
+31. Robertson, J. S. (1987) J. Gen. Virol. 68, 1205-1208.
+32. Wilson, I. A., Skehel, J. J. & Wiley, D. C. (1981) Nature
+(London) 289, 366-373.
+33. Robertson, J. S., Bootman, J. S., Newman, R., Oxford, J. S.,
+Daniels, R. S., Webster, R. G. & Schild, G. C. (1987) Virology
+160, 31-37.
+34. Raymond, F. L., Caton, A. J., Cox, N. J., Kendal, A. P. &
+Brownlee, G. G. (1986) Virology 148, 275-287.
+35. Rogers, G. N. & Paulson, J. C. (1983) Virology 127, 361-373.
+36. Skehel, J. J., Stevens, D. J., Daniels, R. S., Douglas, A. R.,
+Knossow, M., Wilson, I. A. & Wiley, D. C. (1984) Proc. Natl.
+Acad. Sci. USA 81, 1779-1783.
+37. Katz, J. M. & Webster, R. G. (1988) Virology 165, 446-456.
+Proc. Natl. Acad. Sci. USA 87 (1990)
+

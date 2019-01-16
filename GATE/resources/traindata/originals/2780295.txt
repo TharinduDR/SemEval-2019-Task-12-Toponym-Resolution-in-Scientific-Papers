@@ -1,0 +1,65 @@
+﻿Volume 17 Number 16 1989 Nucleic Acids Research
+Sequence of the nucleoprotein (NP) gene of the influenza A virus reassortant 81/HO, carrying
+the NP originally derived from A/Hong Kong/1/68 (H3N2)
+Ulrich Reinhardt, Joachim Mandler and Christoph Scholtissek*
+Institute of Virology, Justus-Liebig-University, Frankfurter Strasse 107, D-6300 Giessen, FRG
+Submitted July 28, 1989 EMBL accession no. X15890
+The nucleotide sequence of the nucleoprotein (NP) gene of the influenza A virus
+reassortant 81/HO (1), carrying segments 1,2,5,6,8 of A/Hong Kong/l/68 (H3N2) and
+segments 3,4,7 of A/FPV/Rostock/34 (H7N1) has been determined by using previously
+described methods (2). The figure shows the nucleotide and deduced amino acid sequence;
+nts 1-40 are from the A/NT/60/68 NP (3). Comparison of the 81/HO NP with the sequence
+of the A/NT/60/68 NP (3) indicated 5 nucleotide exchanges. Two of these are leading to
+amino acid substitutions. The E114G substitution is in correlation with all other yet
+sequenced influenza A virus NPs (4), while the H31IQ substitution is solely found in
+the 81/HO NP. It remains to be investigated if the H311Q substitution is a result of
+the 81/HO NP adaptation to the new genetic constellation, or if it is found with the
+A/Hong Kong/l/68 NP, too.
+AGC AAA AGC AGG GTA GAT AAT CAC TCA CTG AGT GAC ATC AAA ATC ATl 6CG rcc CAA GGC ACC AAA CGG TCT TAT GAA CAG ATl GAA ACT 90
+N A S a G T K R S Y E I N E T 15
+GAT GGG GAA CGC CAG AAT GCA ACT GAG ATC AlA GCA TCC GTC GIG AA6 ATG ATT GAT GGA ATT GGA CGA TTC TAC ATC CAA ATG TGC ACT 180
+0 G E R Q N A T E I R A S V G K N I D I I I R F Y I 0 N C T 45
+GAA CTT AAA CTC AGT GAT TAT GAG GGG CGA CTG ATC CAl AAC AGC TTA ACA ATA GAl AlA ATG GTG CTC TCT GCT TTT GAC GAA AlA AlG 270
+E L K L S 0 Y E I R L I 0 N S L T I E R N V L S A F D E R R 75
+AAT AAA TAT CTG GAA GAA CAT CCC AGC GCG 6GG AAG GAT CCT AAG AAA ACT GGA GGA CCC AlA TAC AAG AlA GTA GAl GGA AAG TGI ATG 360
+N K Y L E E H P S A G K D P K K T I G P I Y K R V 0 G K N N 105
+AlG GAA CTC GTC CIT TAT GAC AAA GAA GAA ATA All CGA ATC TGG CGC CAA ICC AAT AAT GGT GAT GAT GCA ACA ICT GlT CTI ACT CAC 450
+R E L V L Y 0 K E E I R R I N R 0 A N N G D 0 A T A I L T H 135
+All All AIC Ill CAT ICC AAr TTI AAT GAT ACA ACA TAC CAl All ACA AlA GCT CTT GTT CGC ACC GGC ATl GAT CCC All AlG TIC TCT 540
+M
+" I N H S N L N I T T Y o R I R A L V R T G ID P R N C S 165
+CTG ATl CAl GGr TCG ACT CTC CCI All All TCT IGA GCT GCA GGC GCT GCA GTC AAA IGA GTT GGG ACA ATG ITl All GAG Tll ATA All 630
+L N 0 1 s T L P R R S G A A G A A V K I V I T N V N E L I R 195
+ATG ATC AAA CIT GGG ATC AAT GAT CGG AAC TTC TGG AGA lIT GAA AAT GGA CGA AAA ACA All AlT GCT TAC GAG AGA ATl TGC AAC AlT 720
+N I K R G I N I R N F N R I E N G R K T R S A Y E R N C N 1 225
+CTC AAA GGA AAA TTT CAA ACA GCT GCA CAA AlG GCA All ATG GAT CAA GTG AGA GAA AGT CII AAC CCA IGA AAT GCT GAG ATC GAA GAT 810
+L K I K F 0 T A A 0 R A N N I O V R E S R N P 1 N A E I E 0 255
+CTC ATC ITT CTG GCA CGI ICT GCA CTC ATA ITT AlA GGG TCA GTT GCT CAC AAA ICT TIT CTI CCC GCC TGT GIT TAT fGA CCT GCC GTA 900
+L I F L A R S A L I L R G S V A H K S C L P A C V Y G P A V 285
+ICC AGT GGC TAC GAC TTC GAA AAA GAG GGA TAC TCT TTA Ill IGA AlA GAC CCT TTC AAA CTG CTT CAA AAC AGC CAC GTA TAC AGC CTA 990
+A S I Y 0 F E K E I Y S L V G I 0 P F K L L 0 N S H V Y S L 315
+ATC AGA CCI AAC lAG AAT CCA GCA CAC AAG AlT CAl CII GTG Ill ATG GCA TIC AAT TCT GCT ICA ITT GAA GAl CIA AlA GTA TTA AGC 1080
+I R P N E N P A H K S 0 L V N N A C N S A A F E D L R V L S 345
+TIC ATC AlA 6GI ACC AAA GTA TCC CCA All GGG AAA CIT TCC ACT AlA GGA GTA CAA ATT GCT TCA AAT GAA AAC ATl GAT GCT All GAA 1170
+F I R I I K V S P R I K L S I R I V Q I A S N E N N 0 A N E 375
+TCA All ACT CTT GAA CTI AlA AGC All TAC TII GCC AlA AlA ACC AlA AlT GGA IGA AAC ACT AAT CAA CAG All ICC TCT GCA GGT CAA 1260
+S S T L E L R S R Y N A I R I R S I G N I N 0 0 R A S A I U 405
+ATC AGT GTG CAA CCT GCA TTT TCT GTG CAA AlA AAC CTC CCA TTT GAC AAA CCA ACC ATC AlG GCA GCA TTC ACT GGG AAT ACA GAl GGA 1350
+I S V 0 P A F S V 0 R N L P F D K P T I N A A F T I N T E G 435
+AlA ACA ICA GAC All AGl GCA GAA ATT ATA All All ATG GAA GGT GCA AAA CCA GAA GAA ATG TCC TTC CAl GIG CII GIA GTC TTC GAl 140
+R T S 0 N R A E I I R N N E G A K P E E N S F 0 1 R G V F E 465
+CTC TCG GAC GAA AAG GCA GCG AAC CCG ATC GTG CCC TCT ITT GAC All AlT AAT GAA GGA TCT TAT TIC TTC GGA GAC AAT GCA GAG GAG 1530
+L S 0 E K A A N P I V P S F 0 N S N E I S Y F F 1 0 N A E E 495
+TAC GAC AAT TAA GGA AAA ATA CCC Ill ITT CIA CT 1565
+Y I N 498
+Acknowledgments:
+'he authors thank Martina S. Kunerl and Stephan Ludwi for expert technical assistance.
+This work was supported by the SFB 47 and 272 of the DFG, and the FCI.
+*To whom correspondence should be addressed
+Referenc!2s:-
+1. scholtissek, C., Koennecke, I, Rott, R. (1978) Virology 91:79-85
+2. Reinhardt. U, Scholtissek, C. (1988) Arch. Virol. 103:139-145
+3. Huddleston, J.A., Brownlee, G.G. (1982) Nucleic Acids Res. 10:1029-1038
+4. Gammelin, M., Mandler, J., Scholtissek. C. (1989) Virology 170:71-80
+©IRL Press 672 1
+

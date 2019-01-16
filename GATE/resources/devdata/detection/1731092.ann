@@ -1,0 +1,68 @@
+T146	Protein 1 8	JOURNAL
+#146	AnnotatorNotes T146	BEGIN
+T147	Protein 133 145	Microbiology
+#147	AnnotatorNotes T147	END
+T148	Protein 229 230	W
+#148	AnnotatorNotes T148	BEGIN
+T1	Protein 543 547	1991
+#1	AnnotatorNotes T1	END
+T6	Location 1347 1351	Asia
+#6	AnnotatorNotes T6	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T2	Protein 4601 4614	Corresponding
+#2	AnnotatorNotes T2	BEGIN
+T3	Protein 4615 4621	author
+#3	AnnotatorNotes T3	END
+T4	Protein 5952 5956	1129
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 5972 5974	AL
+#5	AnnotatorNotes T5	END
+T63	Location 9134 9143	Champaign
+#63	AnnotatorNotes T63	<latlng>40.14008,-88.19919</latlng><pop>201081</pop><geoID>4887163</geoID>
+T64	Location 9145 9148	Ill
+#64	AnnotatorNotes T64	<latlng>40.00032,-89.25037</latlng><pop>12772888</pop><geoID>4896861</geoID>
+T23	Protein 10204 10213	J. VIROL.
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 10266 10270	1131
+#24	AnnotatorNotes T24	END
+T71	Location 15744 15748	Asia
+#71	AnnotatorNotes T71	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T7	Protein 17817 17820	VOL
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 17853 17858	VIROL
+#8	AnnotatorNotes T8	END
+T25	Protein 23118 23127	EVOLUTION
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 23168 23172	1133
+#26	AnnotatorNotes T26	END
+T9	Protein 25941 25944	VOL
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 25950 25954	1992
+#10	AnnotatorNotes T10	END
+T11	Protein 26588 26592	1134
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 26601 26603	AL
+#12	AnnotatorNotes T12	END
+T19	Protein 30552 30554	J.
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 30555 30560	VIROL
+#20	AnnotatorNotes T20	END
+T21	Protein 30696 30705	EVOLUTION
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 30732 30745	HEMAGGLUTININ
+#22	AnnotatorNotes T22	END
+T13	Protein 35076 35079	VOL
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 35110 35112	AL
+#14	AnnotatorNotes T14	END
+T27	Protein 35335 35337	J.
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 35338 35343	VIROL
+#28	AnnotatorNotes T28	END
+T17	Protein 39201 39210	EVOLUTION
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 39251 39255	1137
+#18	AnnotatorNotes T18	END
+T15	Protein 42426 42441	ACKNOWLEDGMENTS
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 51945 51950	VIROL
+#16	AnnotatorNotes T16	END

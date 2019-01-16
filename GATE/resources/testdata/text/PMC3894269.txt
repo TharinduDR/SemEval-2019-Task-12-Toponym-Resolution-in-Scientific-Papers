@@ -1,0 +1,138 @@
+Full-Genome Sequences of Influenza A(H1N1)pdm09 Viruses Isolated
+from Finnish Patients from 2009 to 2013
+Triin Lakspere,a Janne Tynell,b Minttu Kaloinen,a Maarten Vanlede,a Alun Parsons,a Niina Ikonen,b Hannimari Kallio-Kokko,c
+Anu Kantele,d Pirkko Mattila,a Henrikki Almusa,a Ilkka Julkunen,b,e Denis Kainov,a Laura Kakkolaa
+The Institute for Molecular Medicine Finland (FIMM), Helsinki, Finlanda; The National Institute for Health and Welfare, Helsinki, Finlandb; Helsinki University Hospital
+Laboratory, HUSLAB, Helsinki, Finlandc; Helsinki University Central Hospital, HUCS, Helsinki, Finlandd; Department of Virology, University of Turku, Turku, Finlande
+Here we report full-length sequencing of the first large set of influenza A(H1N1)pdm09 virus genomes isolated in Finland be-
+tween the years 2009 and 2013 and discuss the advantages and needs of influenza virus sequencing efforts.
+Received 27 October 2013 Accepted 9 December 2013 Published 16 January 2014
+Citation Lakspere T, Tynell J, Kaloinen M, Vanlede M, Parsons A, Ikonen N, Kallio-Kokko H, Kantele A, Mattila P, Almusa H, Julkunen I, Kainov D, Kakkola L. 2014. Full-genome
+sequences of influenza A(H1N1)pdm09 viruses isolated from Finnish patients from 2009 to 2013. Genome Announc. 2(1):e01004-13. doi:10.1128/genomeA.01004-13.
+Copyright © 2014 Lakspere et al. This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 Unported license.
+Address correspondence to Laura Kakkola, laura.kakkola@helsinki.fi.
+Influenza A viruses (IAV) are globally distributed pathogens
+causing annual epidemics and pandemics (http://www.who.int
+/influenza/en/). So far, six pandemics have occurred (1). The latest
+one was announced by the WHO in 2009 (http://www.who.int
+/influenza/en/). The IAV genome consists of 8 single-stranded
+RNA (ssRNA) segments and encodes 12 proteins: hemagglutinin
+(HA), M proteins (M1 and M2), neuraminidase (NA), nucleocap-
+sid protein (NP), nonstructural proteins (NS1 and NS2), and
+polymerase subunits (PA, PA-X, PB1-F1, PB1-F2, and PB2). IAVs
+are subtyped based on sequences of surface glycoproteins HA (H1
+to H17) and NA (N1 to N9) (2, 3). The recent 2009 pandemic was
+caused by the H1N1 subtype [A(H1N1)pdm09].
+Here we report the whole-genome sequencing of 135 influenza
+A(H1N1)pdm09 viruses isolated from nasopharyngeal aspirates
+(NPAs) of Finnish patients from 2009 to 2013. The viruses from
+NPAs were propagated in MDCK cells. RNA was prepared for
+sequencing either by (i) sedimentation of the viruses from super-
+natants, purification with an RNeasy Plus Minikit (Qiagen), re-
+verse transcription to cDNA with SuperScript II reverse transcrip-
+tase (Life Technologies) and random hexamers (New England
+BioLabs), and preparation of an RNAseq library with Illumina
+compatible Nextera Technology (Epicentre) (Genbank number-
+ing starting with JQ) or by (ii) extraction of viral RNA with an
+RNeasy 96 kit (Qiagen) and amplification with reverse transcrip-
+tion (RT)-PCR as described previously (4). DNA libraries were
+prepared using an Illumina Nextera DNA Sample Preparation kit
+(GISAID and Genbank numbering starting with KF). Sequencing
+was done using an Illumina HiSeq2000 sequencer (100-bp paired-
+end reads, average 3,686,912 reads/isolate). Reads were aligned
+with BWA software against the reference genome A/California/
+07/2009. Alignment was cleaned using Picard and GATK toolkits
+and analyzed with Samtools to detect variants. Sequences were
+analyzed with BioEdit and ClustalW software.
+All 135 genomes were unique compared to the reference strain
+A/California/07/2009. Eight viruses that originated from subse-
+quent samplings of four patients (two samplings per patient) dif-
+fered in amino acid sequences, indicating fast mutation rates. In
+total, 4,657 amino acid changes were identified. Viral HA, NA, and
+PB2 were the most frequently mutated (1,111, 671, and 753 amino
+acid substitutions, respectively). Several changes were identified at
+the antigenic sites of viral HA (T89A, N142D, A158T, K180I,
+D185N, G187R, S202T, A203T, N211S, S220T, and R238K; num-
+bering with the signal peptide), which may allow viruses to escape
+host immunity (5, 6). Polymorphism at HA D222 (numbering
+without the signal peptide) was not detected (7). All virus isolates
+had an amantadine resistance mutation (S31N) in the viral M2
+protein. Oseltamivir resistance mutations were not detected; how-
+ever, isolate A/Helsinki/598/2013 accumulated the amino acid
+change E119K at NA during propagation. Mutations at the same
+position (E119V) have already been linked to oseltamivir resis-
+tance in the N2 subtype. Isolate A/Helsinki/P14/2009 encodes an
+NS1 protein with a truncated C terminus (203 versus 219 amino
+acids, confirmed by Sanger sequencing in the original sample).
+Next-generation sequencing allows identification of IAV qua-
+sispecies in patient samples. However, only the most dominant
+variants are submitted to Genbank. We suggest that variants be
+included in submitted sequences. This information could be used
+to enhance preparedness for upcoming epidemics/pandemics.
+Nucleotide sequence accession numbers. The whole-genome
+sequences of 135 A(H1N1)pdm09 isolates from Finland (years
+2009 to 2013) have been deposited in Genbank (accession no.
+JQ409139.1 to JQ409246.1, JQ409131.1 to JQ409238.1,
+JQ409123.1 to JQ409230.1, JQ173145.1 to JQ173152.1,
+JQ173153.1 to JQ173160.1, JQ173161.1 to JQ173168.1, and
+KF559358 to KF560309) and GISAID (isolate identification no.
+EPI_ISL_145286 to EPI_ISL_145302).
+ACKNOWLEDGMENTS
+This work was supported by the Academy of Finland grants 138644 and
+255852.
+REFERENCES
+1. Nicoll A. 2010. A new decade, a new seasonal influenza: the Council of
+the European Union recommendation on seasonal influenza vaccina-
+Genome Announcements
+January/February 2014 Volume 2 Issue 1 e01004-13 genomea.asm.org 1
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://genomea.asm.org/
+Downloaded
+from
+tion. Euro Surveill. 15:19458. http://www.eurosurveillance.org/View
+Article.aspx?ArticleId⫽19458.
+2. Lamb RA. 2008. Influenza, p 95. In Mahy BWJ, van Regenmortel MHV
+(ed), Encyclopedia of virology, 3rd ed. Elsevier Ltd., Waltham, MA.
+3. Briedis DJ. 2011. Influenza viruses, p 210. In Acheson NH (ed), Funda-
+mentals of molecular virology, 2nd ed. Wiley, Hoboken, NJ.
+4. Watson SJ, Welkers MR, Depledge DP, Coulter E, Breuer JM, De Jong
+MD, Kellam P. 2013. Viral population analysis and minority-variant de-
+tection using short read next-generation sequencing. Philos. Trans. R. Soc.
+Lond. B Biol. Sci. 368:20120205. http://dx.doi.org/10.1098/rstb.2012.0205.
+5. Ikonen N, Haanpää M, Rönkkö E, Lyytikäinen O, Kuusi M, Ruutu P,
+Kallio-Kokko H, Mannonen L, Lappalainen M, Ziegler T, Julkunen I.
+2010. Genetic diversity of the 2009 pandemic influenza A(H1N1) viruses in
+Finland. PLoS One 5:e13329. http://dx.doi.org/10.1371/journal.pone.0013
+329.
+6. Strengell M, Ikonen N, Ziegler T, Julkunen I. 2011. Minor changes in the
+hemagglutinin of influenza A(H1N1)2009 virus alter its antigenic proper-
+ties. PLoS One 6:e25848. http://dx.doi.org/10.1371/journal.pone.0025848.
+7. Selleri M, Piralla A, Rozera G, Giombini E, Bartolini B, Abbate I,
+Campanini G, Rovida F, Dossena L, Capobianchi MR, Baldanti F. 2013.
+Detection of haemagglutinin D222 polymorphisms in influ-
+enza A(H1N1)pdm09-infected patients by ultra-deep pyrosequencing.
+Clin. Microbiol. Infect. 19:668–673. http://dx.doi.org/10.1111/j.1469-069
+1.2012.03984.x.
+Lakspere et al.
+Genome Announcements
+2 genomea.asm.org January/February 2014 Volume 2 Issue 1 e01004-13
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://genomea.asm.org/
+Downloaded
+from

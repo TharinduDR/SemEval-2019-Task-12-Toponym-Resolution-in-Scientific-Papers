@@ -1,0 +1,104 @@
+T1	Protein 74 77	Jin
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 236 241	Klein
+#2	AnnotatorNotes T2	END
+T3	Protein 4536 4544	Emerging
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 5138 5152	eid1511.090076
+#4	AnnotatorNotes T4	END
+T5	Protein 7741 7751	DISPATCHES
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 7832 7836	2009
+#6	AnnotatorNotes T6	END
+T7	Protein 10485 10493	Emerging
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10565 10569	1835
+#8	AnnotatorNotes T8	END
+T9	Protein 15067 15082	Acknowledgments
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 18436 18440	2009
+#10	AnnotatorNotes T10	END
+T11	Location 56 67	South Korea
+#11	AnnotatorNotes T11	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T12	Location 350 355;356 361	South Korea
+#12	AnnotatorNotes T12	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T13	Location 785 796	South Korea
+#13	AnnotatorNotes T13	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T14	Location 1055 1066	Imjin River
+#14	AnnotatorNotes T14	<latlng>37.785, 126.66389</latlng><geoID>1843607</geoID>
+T15	Location 1070 1081	South Korea
+#15	AnnotatorNotes T15	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T16	Location 1205 1210;1211 1216	South Korea
+#16	AnnotatorNotes T16	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T17	Location 1575 1586	Dongducheon
+#17	AnnotatorNotes T17	<latlng>37.91889, 127.06897</latlng><geoID>1834308 </geoID><pop>82623</pop>
+T18	Location 1743 1748	Seoul
+#18	AnnotatorNotes T18	<latlng>37.58333, 127</latlng><geoID>1835847 </geoID><pop>10349312</pop>
+T19	Location 1750 1761	South Korea
+#19	AnnotatorNotes T19	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T22	Location 3142 3153	Dongducheon
+#22	AnnotatorNotes T22	<latlng>37.91889, 127.06897</latlng><geoID>1834308 </geoID><pop>82623</pop>
+T25	Location 5785 5788	USA
+#25	AnnotatorNotes T25	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T26	Location 5781 5783	TX
+#26	AnnotatorNotes T26	<latlng>31.25044, -99.25061</latlng><geoID> 4736286</geoID><pop>22875689</pop>
+T27	Location 5768 5779	Friendswood
+#27	AnnotatorNotes T27	<latlng>29.51086, -95.198</latlng><geoID> 11788618</geoID>
+T28	Location 5888 5900	Gaithersburg
+#28	AnnotatorNotes T28	<latlng>39.13027, -77.23248</latlng><geoID>7161427 </geoID><pop>59933</pop>
+T29	Location 5902 5904	MD
+#29	AnnotatorNotes T29	<latlng>39.00039, -76.74997</latlng><geoID>4361885 </geoID><pop>5624246</pop>
+T30	Location 5906 5909	USA
+#30	AnnotatorNotes T30	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T31	Location 6422 6433	Foster City
+#31	AnnotatorNotes T31	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T32	Location 6435 6437	CA
+#32	AnnotatorNotes T32	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T33	Location 6439 6442	USA
+#33	AnnotatorNotes T33	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T34	Location 7945 7956	South Korea
+#34	AnnotatorNotes T34	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T36	Location 9155 9162	Paju-si
+#36	AnnotatorNotes T36	<latlng>37.75952, 126.77772</latlng><geoID>1839430 </geoID><pop>405551</pop>
+T37	Location 9163 9175	Chuncheon-si
+#37	AnnotatorNotes T37	<latlng>37.88048, 127.72776</latlng><geoID>1845134</geoID><pop>273130</pop>
+T38	Location 9176 9188	Cheorwon-gun
+#38	AnnotatorNotes T38	<latlng>38.24391, 127.44522</latlng><geoID>1845344</geoID><pop>54040</pop>
+T39	Location 9189 9200	Pocheon-gun
+#39	AnnotatorNotes T39	<latlng>37.8947, 127.2002</latlng><geoID>NA</geoID>
+T40	Location 9201 9213	Hwacheon-gun
+#40	AnnotatorNotes T40	<latlng>38.14212, 127.67615</latlng><geoID>8393538 </geoID><pop>23822</pop>
+T41	Location 9214 9226	Gapyeong-gun
+#41	AnnotatorNotes T41	<latlng>37.8308, 127.51522</latlng><geoID>8604790 </geoID><pop>55415</pop>
+T42	Location 9227 9241	Yangpyeong-gun
+#42	AnnotatorNotes T42	<latlng>37.4888, 127.49222</latlng><geoID>1832832 </geoID><pop>83367</pop>
+T43	Location 9242 9255	Yeoncheon-gun
+#43	AnnotatorNotes T43	<latlng>38.09404, 127.07577</latlng><geoID>1832697 </geoID><pop>50655</pop>
+T44	Location 9256 9268	Namyangju-si
+#44	AnnotatorNotes T44	<latlng>37.65217, 127.2401</latlng><geoID>1840374 </geoID><pop>581629</pop>
+T45	Location 9269 9280	Gwangju-gun
+#45	AnnotatorNotes T45	<latlng>35.16667, 126.91667</latlng><geoID>1841808</geoID><pop>1471324</pop>
+T46	Location 9281 9289;9290 9293	Gimpo-si -gu
+#46	AnnotatorNotes T46	<latlng>37.63637, 126.6927</latlng><geoID>1842170 </geoID><pop>300000</pop>
+T47	Location 9294 9303	Dobong-gu
+#47	AnnotatorNotes T47	<latlng>37.65066, 127.03011</latlng><geoID>1834758 </geoID><pop>348625</pop>
+T48	Location 9304 9315	Gangdong-gu
+#48	AnnotatorNotes T48	<latlng>37.55274, 127.14546</latlng><geoID>1836279 </geoID><pop>465958</pop>
+T49	Location 9316 9326	Bucheon-si
+#49	AnnotatorNotes T49	<latlng>37.5044, 126.76625</latlng><geoID>1838715 </geoID><pop>868517</pop>
+T50	Location 9327 9336	Yeonsu-gu
+#50	AnnotatorNotes T50	<latlng>37.41911, 126.66489</latlng><geoID>8417654 </geoID><pop>288836</pop>
+T51	Location 9337 9347	Dongjak-gu
+#51	AnnotatorNotes T51	<latlng>37.50056, 126.95149</latlng><geoID>1834245 </geoID><pop>397317</pop>
+T52	Location 9348 9358	Yongsan-gu
+#52	AnnotatorNotes T52	<latlng>37.53391, 126.9775</latlng><geoID>1832311 </geoID><pop>227400</pop>
+T53	Location 9903 9914	South Korea
+#53	AnnotatorNotes T53	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T54	Location 10731 10739	Gyeonggi
+#54	AnnotatorNotes T54	<latlng>37.6, 127.25</latlng><geoID>1841610 </geoID><pop>12093000</pop>
+T55	Location 10750 10761	South Korea
+#55	AnnotatorNotes T55	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T56	Location 12752 12757;12758 12763	South Korea
+#56	AnnotatorNotes T56	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T57	Location 15054 15065	South Korea
+#57	AnnotatorNotes T57	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>

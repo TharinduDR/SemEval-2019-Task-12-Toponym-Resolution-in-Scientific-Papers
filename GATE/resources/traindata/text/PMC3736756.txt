@@ -1,0 +1,1073 @@
+American Journal of Epidemiology
+© The Author 2013. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial
+License (http://creativecommons.org/licenses/by-nc/3.0), which permits unrestricted reuse, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+
+Vol. 178, No. 4
+DOI: 10.1093/aje/kwt017
+Advance Access publication:
+May 9, 2013
+
+Special Article
+A Modeling Framework for the Evolution and Spread of Antibiotic Resistance:
+Literature Review and Model Categorization
+
+Ian H. Spicknall*, Betsy Foxman, Carl F. Marrs, and Joseph N. S. Eisenberg
+* Correspondence to Dr. I. H. Spicknall, Department of Epidemiology, School of Public Health, University of Michigan, 1415 Washington Heights,
+Ann Arbor, MI 48109 (e-mail: ispickna@umich.edu).
+
+Initially submitted August 25, 2012; accepted for publication January 30, 2013.
+
+Antibiotic-resistant infections complicate treatment and increase morbidity and mortality. Mathematical modeling
+has played an integral role in improving our understanding of antibiotic resistance. In these models, parameter
+sensitivity is often assessed, while model structure sensitivity is not. To examine the implications of this, we first
+reviewed the literature on antibiotic-resistance modeling published between 1993 and 2011. We then classified
+each article’s model structure into one or more of 6 categories based on the assumptions made in those articles
+regarding within-host and population-level competition between antibiotic-sensitive and antibiotic-resistant strains.
+Each model category has different dynamic implications with respect to how antibiotic use affects resistance prevalence, and therefore each may produce different conclusions about optimal treatment protocols that minimize
+resistance. Thus, even if all parameter values are correctly estimated, inferences may be incorrect because of the
+incorrect selection of model structure. Our framework provides insight into model selection.
+anti-bacterial agents; bacteria; bacterial infections; basic reproduction number; drug resistance; humans; models,
+theoretical
+
+Abbreviations: MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-sensitive Staphylococcus aureus.
+
+Antibiotic-resistant infections can lead to increased morbidity and mortality and lengthened hospital stays (1, 2)
+because of inadequate initial therapy and, in some cases,
+increased virulence. Resistance to ﬁrst- or even second-line
+antibiotics forces the use of more expensive second- or
+third-line antibiotics. These individual-level effects compound at the population level because of transmission; compared with effective treatment and pathogen clearance,
+treatment failure increases transmission and thereby the total
+number of cases, the total number of drug prescriptions, and
+associated morbidity and mortality. In the European Union,
+the annual cost associated with antibiotic-resistant infections
+is estimated to be €1.5 billion (based on 2007 euros) (3),
+while in the United States the value is estimated to be greater
+than $16 billion (based on 2000 dollars) (4, 5).
+Mathematical modeling has played an integral role in
+improving our understanding of antibiotic resistance (6).
+These models provide a platform for in silico experiments that
+help us better understand mechanistic sources of uncertainty,
+
+generate reﬁned hypotheses, and interpret empirical observations. Models make empirical experimentation more efﬁcient, and in silico experiments can be conducted at reduced
+cost and avoid ethical dilemmas. Within-host models have
+focused on: 1) emergence of antibiotic resistance (7), 2) microbial ﬁtness and selection for antibiotic-resistant strains compared with antibiotic-sensitive strains (8, 9), and 3) antibiotic
+tolerance (10). Population-level models have been used to better understand and predict the effects of treatment protocols
+such as antibiotic cycling (11).
+Published models of the emergence and spread of antibiotic resistance have progressed from resistance models of
+abstract agents in abstract settings (12, 13) to resistance
+models of speciﬁc agents such as Mycobacterium tuberculosis (14), Streptococcus pneumoniae (15), Staphylococcus
+aureus (16), and Enterococcus (17) in more speciﬁed settings, such as transmission between hospitals (18), within
+hospitals and intensive care units (19), and within day-care
+centers (20). These studies include a multitude of model
+508
+
+Am J Epidemiol. 2013;178(4):508–520
+
+Modeling the Evolution and Spread of Antibiotic Resistance 509
+
+structures that vary in complexity and inherent assumptions.
+However, all models of antibiotic resistance include competition between antibiotic-sensitive and antibiotic-resistant
+strains. To model this competition, a wide array of model
+structures have been used, each reﬂecting distinct biological
+mechanisms of competition, but model structure is rarely
+justiﬁed. One exception to this is a study of S. pneumoniae
+that extensively compared the effect of using different
+model structures (21). In general, however, most articles on
+antibiotic-resistance modeling have provided little justiﬁcation
+for the model structure chosen, nor have they considered
+how alternative model structures affect their investigations’
+inferences.
+To examine the implications of this, we reviewed the
+peer-reviewed literature on antibiotic-resistance modeling
+published from 1993 to 2011. PubMed searches were carried out using the search terms “(determinist* or stochast*
+or compartment* or mathematic* or simulat*) and model*
+and resist*.” We excluded all exclusively within-host models, pharmacodynamic-pharmacokinetic models, and reviews
+that did not present novel work. We then grouped these articles into 6 categories based on common features of their
+structures. This allowed us to create a unifying framework
+composed of generic model structures that make explicit the
+variety of model assumptions used with regard to withinhost and population-level competition between antibioticsensitive and -resistant strains. We used this framework to
+categorize all published articles into 1 or more of the 6
+generic model structures. We also summarized how often
+each model structure category was used in the literature and
+each category’s threshold properties. We show that choice
+of model structure affects the nature of inferences that can
+be drawn in terms of population coexistence and dieout of
+antibiotic-sensitive and -resistant strains.
+FRAMEWORK DEVELOPMENT
+
+This review focuses exclusively on articles that modeled
+between-host dynamics. These studies all model the spread
+of antibiotic-resistant and -sensitive bacterial strains from
+one host to another. Often a distinction is made between
+infection, deﬁned as rapid bacterial overgrowth leading to
+disease symptoms, and colonization, where there is stable
+bacterial presence without disease symptoms. In this context,
+colonization may sometimes lead to infection. In this paper
+we are less concerned with these differences, focusing rather
+on person-to-person spread of agents that either colonize or
+cause infection. Because of this, we use the term infection
+when either colonization or infection may apply.
+Figure 1 shows how between-host models are categorized
+on the basis of properties of within-host dynamics. Within a
+host, resistant and sensitive strains can coexist either at equal
+levels or where one strain predominates over the other. In
+contrast, a host may be infected exclusively by a resistant or
+sensitive strain if coexistence is not permitted. Within-host
+competition can have differing results; if a host is infected
+with 1 strain, there is potential for a novel strain to replace
+the resident strain. If a host is superinfected with both sensitive and resistant strains, a predominant strain may convert
+from sensitive to resistant or vice versa. Based on these
+Am J Epidemiol. 2013;178(4):508–520
+
+deﬁnitions, our model categories are determined by 1) the
+extent of strain coexistence allowed within a host, 2) the
+potential for replacement infection when a novel strain challenges a resident strain within a host, and 3) strain conversion when a predominantly antibiotic-sensitive infection
+converts to being predominantly resistant due to within-host
+selection.
+The extent of within-host strain coexistence can be characterized by 3 possibilities. The top cluster in Figure 1 represents coexistence occurring within a host with strains at even
+levels. This encompasses both the single-strain and superinfection model structures. Neither of these structures allows
+replacement infection or strain conversion. These structures
+differ in terms of reduced contagiousness when both strains
+are present in a host; the single-strain model assumes no
+such reduction, while the superinfection model does reduce
+contagiousness when a host is superinfected. The middle
+cluster in Figure 1 represents model structures that do not
+allow within-host coexistence, encompassing the exclusive
+infection and replacement infection model structures. These
+structures also do not allow strain conversion. These 2 structures differ when a novel strain challenges an infected host;
+in the exclusive infection model, the novel strain may not
+infect and replace the resident strain, while in the replacement infection model it may. Finally, the bottom cluster in
+Figure 1 represents model structures for which within-host
+coexistence occurs at uneven levels encompassing both the
+unidirectional and bidirectional conversion models. In these
+model structures, there is an implicit majority-minority relationship between the frequency of coexisting sensitive and
+resistant strains within a host. Neither of these structures
+allows for replacement infection, while both allow for strain
+conversion. This conversion can be in 1 direction (unidirectional), usually conversion of sensitive to resistant, or 2
+directions (bidirectional), where predominantly sensitive
+infections may convert to resistant and vice versa.
+
+State transitions and the parameters involved
+
+We constructed and analyzed the most generic forms of
+the model structures presented in Figure 1. To ensure code
+integrity, we used both Python 2.7.3 (www.python.org) and
+Mathematica 8 (http://www.wolfram.com/mathematica/) in
+this process. The ﬁrst and second columns of Figure 2
+provide a description of each model structure as well as a
+schematic. In these models, hosts belong in one of 4 states:
+susceptible (S); infectious with antibiotic-sensitive bacteria
+(IW); infectious with antibiotic-resistant bacteria (IZ); and
+superinfected, dually infected with both sensitive and resistant strains (IWZ). These models characterize the transition
+between the 4 possible states using differential equations.
+The third column of Figure 2 lists the transitions between
+states for each structure. The ﬁnal column of Figure 2 lists
+the published articles from the literature that used each
+model structure. Each model structure is composed of 2 or
+more of the 10 types of state transitions described below.
+The section of the Web Appendix (available at http://aje.
+oxfordjournals.org/) entitled “Differential equation formulations” has greater detail on each model structure.
+
+510 Spicknall et al.
+
+Figure 1. Categorization of the antibiotic-resistant model structures found in an exhaustive literature review of between-host resistance models
+published from 1993 through 2011. Model category was determined by: 1) the level of coexistence allowed within a host, 2) the potential for
+replacement infection when a novel strain challenges a resident strain within a host, and 3) strain conversion when a predominantly antibioticsensitive infection converts to a predominantly antibiotic-resistant infection due to selection within a host.
+
+Sensitive infection (S to IW). Transmission of antibioticsensitive bacteria results from a mass-action process, the
+product of the densities of people in the S and IW states and
+the transmission parameter βw, assumed to be speciﬁc to the
+sensitive strain.
+
+Resistant infection (S to IZ). Transmission of antibioticresistant bacteria results from a mass-action process, the
+product of the densities of people in the S and IZ states and
+the transmission parameter βz, assumed to be speciﬁc to the
+resistant strain. In subsequent analyses, we assume that βz is
+Am J Epidemiol. 2013;178(4):508–520
+
+Modeling the Evolution and Spread of Antibiotic Resistance 511
+
+Figure 2. Structures of antibiotic-resistance transmission models used in the literature on between-host antibiotic-resistance modeling, 1993–
+2011. Each category is defined by its assumptions related to within-host strain coexistence, replacement infection, and strain conversion. Shown
+are model schematics, the state transitions for each model structure, and the reference numbers of the published articles that used each model
+structure.
+
+Am J Epidemiol. 2013;178(4):508–520
+
+512 Spicknall et al.
+
+smaller than βw as one way to show that the resistant strain is
+less ﬁt than the sensitive strain in the absence of antibiotics.
+Our analysis also considers the condition where βz and βw
+are equal.
+Sensitive recovery (IW to S). Recovery from infection
+with the antibiotic-sensitive strain occurs at a constant rate
+and is modiﬁed by the population antibiotic treatment level.
+Thus, if there is no antibiotic treatment in a population,
+recovery occurs at the innate recovery rate γ. If the entire
+population is receiving antibiotic treatment, recovery occurs
+at a faster rate deﬁned by γ′. When some fraction of the population is taking antibiotics at one time, we assume that the
+recovery rate from IW is a function of γ, γ′, and the proportion of the population receiving antibiotic treatment, ε:
+γð1  εÞ þ γ0 ε:
+
+Resistant recovery (IZ to S). Recovery from infection
+with the antibiotic-resistant strain occurs at a constant rate, γ,
+that is not modiﬁed by antibiotic treatment.
+Resistant superinfection (IW to IWZ). Superinfection transitioning from IW to IWZ results from a mass-action process,
+with the following force of infection:
+
+βz ðIZ þ qIWZ Þ;
+where q determines the contagiousness of a superinfected
+host. If q = 0.5, each strain in a superinfected host is excreted
+at half the rate of that in hosts who are infected with only 1
+strain (IW or IZ). If q = 1, the contagiousness of each of the
+strains from a superinfected host is identical to the contagiousness of monoinfected hosts; however, this superinfected host is in effect excreting for 2 people and therefore
+would be twice as contagious as a monoinfected host.
+One biological interpretation of q is the site-speciﬁcity of
+each strain. If the sensitive and resistant strains each infect
+completely distinct sites, we would expect the value of q to
+be at or near 1. In this case, the presence of one strain would
+not use up potential sites for the other; because of this, shedding of both strains would not be altered from the situation
+where only 1 of the strains is present. If the strains colonize
+and infect identical sites while still coexisting, the value of q
+would be at or near 0.5. In this case, the presence of one
+strain uses up sites that the other would have potentially
+used; if each strain uses roughly half of the sites (i.e., if there
+is no ﬁtness advantage of one over the other at this level),
+we would expect the shedding resulting from each strain to
+be halved compared with the situation where there is only 1
+strain present. If there is somehow antagonism resulting in
+decreased shedding when both strains are present, the value
+of q would be less than 0.5.
+Sensitive superinfection (IZ to IWZ). Superinfection transitioning from IZ to IWZ results from a mass-action process,
+the product of βw and (IW + qIWZ).
+Superinfection recovery (IWZ to IW or IZ). Recovery from
+superinfection occurs with loss of one strain at a time (either
+sensitive or resistant), at rates identical to recovery from
+each strain alone, determined by γ, γ′, and ε.
+
+Replacement infection (IZ to IW). Replacement infection
+results from a mass-action process, the product of the densities of people in the IW and IZ states and either βw, if IW is
+replacing IZ, or βz, if IZ is replacing IW. If replacement in
+both directions is allowed, some replacement will be canceled out by replacement in the opposite direction. The net
+ﬂow (i.e., the difference between the two) reduces to
+
+ðβw  βz ÞIW IZ :
+In this example, where replacement is allowed in both
+directions, the strain with the greater β determines the
+replacement direction. If we assume that the sensitive strain
+has a higher transmission rate, it may replace the resistant
+strain.
+Sensitive-to-resistant conversion (IW to IZ). Strain conversion from sensitive to resistant depends on population
+antibiotic treatment ε and the rate at which resistant strains
+out-compete sensitive strains in the presence of antibiotics,
+the ampliﬁcation rate ρ. Underlying this is an assumed mixed
+infection, composed predominantly of sensitive strains but
+with a small minority of resistant strains. Under the presence
+of antibiotics, the resistant minority of bacteria within the host
+take over at rate ρ as a function of the resistant strain replication rate, the reduced sensitive strain replication rate, and the
+death rate of sensitive bacteria from antibiotic exposure. This
+mixed infection could result from either 1) reinfection with 1
+or more strains; 2) initial infection with a heterogeneous bacterial population, some with and some without the resistance
+trait, rather than a homogeneously sensitive population; or
+3) de novo within-host resistance acquisition via either mutation or plasmid transfer. In our work, we assume that a mixed
+infection is already present when strain conversion operates.
+One example of resistant conversion is the antibiotic treatment failure of M. tuberculosis (22). Conversion occurs
+within a host through selection for preexisting resistant agents.
+A ripe context for resistant conversion is set through poor
+adherence to treatment protocol, combined with the slow
+replication rate of the agent; this can effectively expose hosts
+to no therapy when they are receiving monotherapy or, more
+importantly for multidrug resistance, to monotherapy when
+receiving multidrug therapy.
+Resistant-to-sensitive conversion (IZ to IW). Strain conversion from resistant to sensitive occurs in a fashion complimentary to conversion from sensitive to resistant. This
+rate is determined by the product of the proportion of the
+population not receiving antibiotic treatment, (1 − ε), and
+the rate parameter φ. φ is interpreted similarly to ρ: Assuming that there is a mixed infection composed predominantly
+of resistant bacteria with a minority of sensitive bacteria, the
+absence of antibiotic treatment results in the sensitive bacteria’s out-competing the resistant bacteria until they become
+the predominant strain at rate φ. Here φ is a function of differential replication rates between antibiotic-resistant and
+-sensitive bacteria, given the absence of antibiotic exposure.
+The mechanism underlying loss of resistance may operate
+either through backwards mutation or plasmid loss; again,
+we leave the modeling of this mechanism to others and
+assume that when there is sensitive conversion, there is a
+preexisting mixed infection.
+Am J Epidemiol. 2013;178(4):508–520
+
+Am J Epidemiol. 2013;178(4):508–520
+
+0
+1
+
+Abbreviations: MRSA, methicillin-resistant Staphylococcus aureus; VRE, vancomycin-resistant Enterococcus.
+
+0
+1
+0
+1
+3
+3
+Unnamed
+nosocomial
+agents
+
+0
+
+0
+0
+0
+2
+0
+1
+1
+0
+14
+Enterococcus
+(VRE)
+
+0
+0
+0
+0
+0
+1
+2
+9
+Staphyloccus
+aureus (MRSA)
+
+1
+
+2
+0
+0
+1
+6
+0
+2
+1
+Streptococcus
+pneumoniae
+
+1
+
+1
+0
+6
+0
+4
+
+Replacement Infection,
+Unidirectional
+Conversion,
+Superinfection
+Replacement
+Infection,
+Bidirectional
+Conversion
+Replacement
+Infection,
+Unidirectional
+Conversion
+Bidirectional
+Conversion
+Unidirectional
+Conversion
+Replacement
+Infection
+
+0
+1
+0
+1
+Mycobacterium
+tuberculosis
+
+Both within- and between-host competition affects the
+resulting possibility of coexistence of both strains or persistence of only one strain or the other. Figure 3 represents the
+global properties of the models as a function of strainspeciﬁc R0’s. These R0’s are a function of all transmission
+parameters (Table 2), including the treatment prevalence, ɛ.
+Population-level strain coexistence is not possible when
+there is no within-host coexistence. In 2 model structures
+(exclusive infection, replacement infection) there is no
+within-host coexistence, and thus there is no possibility for
+population-level coexistence. In 4 model structures (singlestrain, superinfection, unidirectional conversion, and bidirectional conversion), there is some degree of within-host
+strain coexistence that allows for the potential for populationlevel coexistence. Both of these cases are the dynamic consequence of within-host competition mechanisms. This section
+provides an understanding of these dynamic phenomena
+
+Exclusive
+Infection
+
+Choice of model structure infers types of competition
+
+Superinfection
+
+In our analysis, although model structure choice was clustered into a few structures across all articles, the degree of
+consensus varied by the agent studied (Table 1). The majority of articles (11 of 13) modeling M. tuberculosis resistance
+used unidirectional conversion models (11, 14, 23–31)
+allowing for de novo mutation to arise and confer resistance,
+subsequently outcompeting sensitive strains. Seven of these
+11 articles, in addition to strain conversion, also incorporated replacement infection (14, 23–28), allowing a latent
+sensitive or resistant tuberculosis strain to be replaced by a
+novel strain. Articles modeling S. pneumoniae often (8 of
+13) used unidirectional conversion models, relating to the
+agent’s incremental acquisition of penicillin resistance (15,
+32–37); this can be thought of as an extension of the unidirectional conversion resistance acquisition mechanism of
+M. tuberculosis, where multiple mutations lead to greater
+resistance, rather than a dichotomous status of sensitive or
+resistant. Resistance to penicillin, therefore, was modeled as
+an incremental point mutation process that increases the
+minimum inhibitory concentration of the resulting strain.
+Most articles modeling Enterococcus or S. aureus resistance
+(17 of 23) used single-strain models (7, 18, 19, 38–51),
+ignoring all competition and assuming independence between
+sensitive and resistant strains, focusing on transmission of
+either vancomycin-resistant enterococci or methicillin-resistant
+S. aureus (MRSA) in isolation.
+
+SingleStrain
+
+Choice of model structure varies in the literature
+
+Agent
+
+RESULTS
+
+Model Structure
+
+The reverse-mutation rate is slower than the compensatory
+mutation rate that improves the ﬁtness of a resistant agent in
+the absence of antibiotics (9). This leads many to argue that
+emergence of sensitivity from a population that is homogeneously resistant is unlikely. However, this argument only
+pertains to the emergence of a sensitive strain; the conversion models we use assume that there is always a sensitive
+minority strain in a majority-resistant infection, and that
+therefore conversion is still possible.
+
+Table 1. Characteristics of Articles on Modeling of Between-host Antibiotic Resistance Published From 1993 Through 2011, by Agent Studied and Model Structure Used
+
+Modeling the Evolution and Spread of Antibiotic Resistance 513
+
+514 Spicknall et al.
+
+Figure 3. Bifurcation diagrams of competition between antibiotic-sensitive (IW) and antibiotic-resistant (IZ) bacterial strains for 6 model
+structures. Each axis represents a strain-specific R0, calculated in the absence of the competing strain (see Web Appendix). Model structure alters
+the result of competition between sensitive and resistant strains across strain-specific transmission strengths.
+
+through a discussion of strain competition in each model
+structure.
+Equilibrium prevalence across model structures
+
+To compare equilibrium prevalence across model structures, we calculated the equilibrium prevalence of sensitive
+and resistant strains across a range of population antibiotic
+treatment levels (0 < ε < 0.15) (Figure 4), otherwise using
+identical parameter values. At ε = 0.05 there is strain coexistence in the single-strain, superinfection, and bidirectional
+
+conversion models, persistence of the resistant strain only in
+the exclusive infection and replacement infection models,
+and persistence of the resistant strain only in the unidirectional model. Thus, even if all parameter values are correctly
+estimated, inferences may be incorrect because of incorrect
+selection of model structure. Even when there is the same
+general inference (e.g., coexistence of sensitive and resistant
+strains), the equilibrium prevalence of each strain may differ
+between model structures.
+For additional detail discussing these results for each
+model structure, see the Web Appendix.
+Am J Epidemiol. 2013;178(4):508–520
+
+Modeling the Evolution and Spread of Antibiotic Resistance 515
+
+Table 2. Parameter Symbols and Values Used to Calculate the
+Equilibrium Prevalence of Antibiotic-sensitive and Antibiotic-resistant
+Strains of Bacteria for Each Model Structure Illustrated in Figure 4
+Parameter
+
+Explanation
+
+Default
+Value
+
+Unit
+
+ε
+
+Percentage of the population
+using antibiotics
+
+Varied
+from
+0% to
+15%
+
+%
+
+βw
+
+Transmission rate of the
+sensitive IW strain
+
+0.04
+
+t −1
+
+βz
+
+Transmission rate of the
+resistant IZ strain
+
+0.015
+
+t −1
+
+γ
+
+Innate recovery rate
+
+0.01
+
+Recovery rate from IW,
+assuming that antibiotics
+are being used
+
+0.1
+
+t −1
+
+ρ
+
+Conversion rate from IW to IZ,
+assuming that antibiotics
+are being used
+
+0.5
+
+t −1
+
+φ
+
+Conversion rate from IZ to IW,
+assuming that antibiotics
+are not being used
+
+0.05
+
+t −1
+
+q
+
+Contagiousness of each
+strain in superinfected
+hosts
+
+0.5
+
+Proportion
+
+γ
+
+0
+
+Agent features and choice of model structure
+
+Constructing an antibiotic-resistance model that appropriately describes competition between antibiotic-sensitive and
+-resistant strains for a speciﬁc agent requires knowing
+whether within-host strain coexistence occurs, replacement
+infection is possible, and strain conversion is possible.
+Coexistence has been demonstrated for S. pneumoniae (52–
+54), M. tuberculosis (55–57), and S. aureus (58). In each of
+these examples, the coexistence of sensitive and resistant
+strains may occur at either even levels or uneven levels. As
+Balmer and Tanner explained (59), within-host competition
+can fall into one of 3 categories: competition for colonization sites or resources, apparent competition caused by a common predator to the strains as mediated by the host immune
+system, and direct interference in which strains excrete substances to harm one another. In our superinfection model,
+we model the within-host competition for resources with the
+parameter q. When q = 1, there is no competition between the
+strains, and the superinfection model becomes the singlestrain model. When q = 0, the superinfection model becomes
+the exclusive infection model. The superinfection model, therefore, is only required when 0 < q < 1.
+In contrast to coexistence, there is limited evidence to
+support replacement infection. Lipsitch et al. (54) found evidence counter to replacement infection for S. pneumoniae,
+since resident strain levels within a host were not affected by
+infection with a challenging strain. Although models commonly assume that replacement infection is possible for
+M. tuberculosis, it is not clear whether a strain latently infecting a host is pushed out by a challenging strain. In addition to
+Am J Epidemiol. 2013;178(4):508–520
+
+replacement infection, where the challenging strain pushes
+out the original resident strain, reinfection can occur when
+1) both strains coexist at similar levels in the host (singlestrain and superinfection models) or 2) the challenging
+strain persists only as a small minority. The unidirectional
+and bidirectional conversion models may reﬂect this last category, but here we have not modeled the actual reinfection
+process that leads to this kind of mixed infection, although
+others have (21).
+Better data exist for characterizing strain conversion. The
+emergence of penicillin resistance in S. pneumoniae results
+from repeated point mutations conferring incremental
+increases in resistance and gradual subsequent strain conversion (60). For M. tuberculosis, treatment failure of a sensitive infection can result in resistance emergence through de
+novo chromosomal mutation and subsequent within-host
+strain conversion (61).
+Strain conversion requires a mixed infection resulting
+from mutation, plasmid acquisition or loss, or reinfection;
+this mixed infection can have strains either at even levels or
+in a majority-minority relationship. The group of articles on
+S. pneumoniae models published by Temime et al. (15, 32,
+33) and Opatowski et al. (35, 36) presents one example of
+strain conversion, in which a sensitive strain gradually
+becomes more resistant as a result of repeated point mutations. The M. tuberculosis models of Blower et al. (14, 29,
+31), among other articles, similarly show conversion of a
+sensitive strain to a resistant strain resulting from antibiotic
+treatment failure. Additionally, one must assess the likelihood of resistance loss (conversion in the opposite direction). There is growing empirical evidence (62) suggesting
+that reversibility is unlikely, possibly because of resistant
+strains’ acquiring additional compensatory mechanisms
+( perhaps through de novo mutation) to increase and bring
+even their within-host ﬁtness with antibiotic-sensitive strains
+in the absence of antibiotic pressure (9).
+An additional consideration when choosing a model
+structure is whether the pathogen is obligate or opportunistic. Most interventions that focus on obligate pathogens (e.g.,
+tuberculosis, salmonella, etc.) decrease the circulation of all
+pathogen strains associated with particular agents, including
+antibiotic-resistant and -sensitive strains. When applying
+antibiotic treatment, however, strain differences become
+apparent because of the differential effectiveness of antibiotics across resistant and sensitive strains. When antibiotic use
+is not the focus, single-strain models can make sense for
+obligate pathogens. On the other hand, it may be important
+for strain conversion, particularly for tuberculosis, to account
+for the possibility of treatment failure.
+Opportunistic agents such as S. pneumoniae, S. aureus,
+and Escherichia coli do not always cause disease when there
+is colonization. For E. coli, it may even be helpful to the
+host to keep sensitive strains around. When opportunistic
+agents cause disease, effective antibiotic treatment is necessary. Thus, it may be advantageous to minimize the prevalence of resistance while remaining indifferent to or
+protecting sensitive strains. Under these circumstances, using
+multistrain models to inform strain-speciﬁc interventions is
+important if we are interested in preserving levels of sensitive
+agents.
+
+516 Spicknall et al.
+
+Figure 4. Equilibrium prevalence of antibiotic-sensitive (IW) and antibiotic-resistant (IZ) bacterial strains for 6 model structures. Dashed lines
+represent the prevalence of antibiotic-sensitive strains; dotted lines represent the prevalence of antibiotic-resistant strains. Parameter values are
+held constant across model forms (Table 2). The background hatching denotes regions of antibiotic treatment parameter space. Vertical hatching
+indicates a region where only the antibiotic-sensitive strain persists; diagonal hatching indicates a region where both strains coexist; and
+horizontal hatching indicates a region where only the antibiotic-resistant strain persists.
+
+While we focused here on competition between agents of
+the same bacterial species, this work could be expanded to
+model competition or synergism between multiple species.
+For example, using the superinfection model, we have
+shown that when q = 1, two species would be assumed to be
+independent of one another within a host, and when q < 1,
+they would antagonistically interact, reducing contagiousness;
+additionally, the two species could interact synergistically,
+
+each making the other more contagious within a host, by
+setting q > 1. Polymicrobial interactions have recently been
+implicated in the emergence of vancomycin-resistant S.
+aureus through bioﬁlm interaction with Candida albicans
+(63, 64). These agents not only affect each other’s resistance
+status but also may affect growth and excretion of one
+another synergistically, as suggested by synergistic mortality
+increases in mice (65–67).
+Am J Epidemiol. 2013;178(4):508–520
+
+Modeling the Evolution and Spread of Antibiotic Resistance 517
+
+CONCLUSION
+
+Models provide insight into the effect of interventions
+given a set of underlying mechanistic assumptions. Different
+biological mechanisms of within-host competition allow for
+different intervention targets and considerations. For example, a primary assumption of single-strain MRSA models is
+that MRSA emergence occurs outside a hospital, entering
+the hospital via importation. Only a model with competing
+strains can provide mechanisms of MRSA emergence.
+These multistrain models also provide mechanisms in which
+antibiotic use affects the prevalence of MRSA, relative to
+methicillin-sensitive S. aureus (MSSA). When developing
+strategies to control MRSA based on a single-strain model,
+the assumption is that there is no competition between
+MRSA and MSSA. Intervention strategies assuming this
+model structure therefore focus on reducing transmission
+from persons infected with MRSA through nonpharmaceutical interventions such as hand hygiene, surface decontamination, and isolation that affect resistant and sensitive strains
+equally. Intervention in an exclusive infection model, on the
+other hand, allows for the possibility of MSSA to be used
+against MRSA. Thus, in addition to dampening MRSA transmission through nonpharmaceutical interventions, more
+judicious use of antibiotics can help promote MSSA transmission, forcing MRSA into extinction in a hospital. Intervention in a unidirectional conversion model not only takes
+into account transmission from MRSA-infected hosts but
+also accounts for hosts who convert from MSSA to MRSA;
+thus, control efforts would have to be broadened not only to
+persons with MRSA infection but also to those with MSSA.
+The presence of strain coexistence, replacement infection,
+and strain conversion affects the choice of model structure.
+Some may argue that not having sufﬁcient data to parameterize a mechanistic model is a reason to ignore such a mechanism in a model analysis. However, excluding a potentially
+important mechanism for the purpose of making a conservative inference has the opposite effect; it hides uncertainty
+through omission, rather than showing the uncertainty up
+front as would happen if the mechanism were included.
+With increasing concern about the spread of antibiotic resistance and increasing use of mathematical models to better
+understand the mechanisms behind this spread, it is timely
+to put forth a framework that can help guide model choice
+for future analyses.
+
+ACKNOWLEDGMENTS
+
+Author afﬁliations: Department of Epidemiology, School
+of Public Health, University of Michigan, Ann Arbor, Michigan (Ian H. Spicknall, Betsy Foxman, Carl F. Marrs, Joseph
+N. S. Eisenberg).
+This study was supported by grant RO1-AI050038 from
+the National Institute of Allergy and Infectious Diseases and
+grant 0811934 from the Ecology and Evolution of Infectious Diseases program, Fogarty International Center of the
+Am J Epidemiol. 2013;178(4):508–520
+
+National Institutes of Health and the National Science Foundation.
+Conﬂict of interest: none declared.
+
+REFERENCES
+1. Schwaber MJ, Navon-Venezia S, Kaye KS, et al. Clinical and
+economic impact of bacteremia with extended-spectrum-βlactamase-producing Enterobacteriaceae. Antimicrob Agents
+Chemother. 2006;50(4):1257–1262.
+2. Zapalac JS, Billings KR, Schwade ND, et al. Suppurative
+complications of acute otitis media in the era of antibiotic
+resistance. Arch Otolaryngol Head Neck Surg. 2002;128(6):
+660–663.
+3. European Centre for Disease Prevention and Control/
+Europeans Medicines Agency Joint Working Group. The
+Bacterial Challenge: Time to React. A Call to Narrow the Gap
+Between Multidrug-resistant Bacteria in the EU and the
+Development of New Antibacterial Agents. Stockholm,
+Sweden: European Centre for Disease Prevention and Control;
+2009.
+4. Roberts RR, Hota B, Ahmad I, et al. Hospital and societal
+costs of antimicrobial-resistant infections in a Chicago
+teaching hospital: implications for antibiotic stewardship. Clin
+Infect Dis. 2009;49(8):1175–1184.
+5. Alliance for the Prudent Use of Antibiotics; John H. Stroger, Jr.,
+Hospital of Cook County. Antibiotic-resistant Infections Cost
+the U.S. Healthcare System in Excess of $20 Billion Annually
+[news release]. New York, NY: PR Newswire Association
+LLC; 2009. (http://www.prnewswire.com/news-releases/
+antibiotic-resistant-infections-cost-the-us-healthcare-systemin-excess-of-20-billion-annually-64727562.html). (Accessed
+February 15, 2012).
+6. Opatowski L, Guillemot D, Bolle P, et al. Contribution of
+mathematical modeling to the ﬁght against bacterial antibiotic
+resistance. Curr Opin Infect Dis. 2011;24(3):279–287.
+7. D’Agata EMC, Dupont-Rouzeyrol M, Magal P, et al. The
+impact of different antibiotic regimens on the emergence of
+antimicrobial-resistant bacteria. PloS One. 2008;3(12):e4036.
+8. De Gelder L, Ponciano JM, Abdo Z, et al. Combining
+mathematical models and statistical methods to understand and
+predict the dynamics of antibiotic-sensitive mutants in a
+population of resistant bacteria during experimental evolution.
+Genetics. 2004;168(3):1131–1144.
+9. Levin BR, Perrot V, Walker N. Compensatory mutations,
+antibiotic resistance and the population genetics of adaptive
+evolution in bacteria. Genetics. 2000;154(3):985–997.
+10. Levin BR, Rozen DE. Non-inherited antibiotic resistance. Nat
+Rev Microbiol. 2006;4(7):556–562.
+11. Bonhoeffer S, Lipsitch M, Levin BR. Evaluating treatment
+protocols to prevent antibiotic resistance. Proc Natl Acad Sci
+U S A. 1997;94(22):12106–12111.
+12. Massad E, Lundberg S, Yang HM. Modeling and simulating
+the evolution of resistance against antibiotics. Int J Biomed
+Comput. 1993;33(1):65–81.
+13. Austin DJ, Kakehashi M, Anderson RM. The transmission
+dynamics of antibiotic-resistant bacteria: the relationship
+between resistance in commensal organisms and antibiotic
+consumption. Proc Biol Sci. 1997;264(1388):1629–1638.
+14. Blower SM, Chou T. Modeling the emergence of the ‘hot
+zones’: tuberculosis and the ampliﬁcation dynamics of drug
+resistance. Nat Med. 2004;10(10):1111–1116.
+
+518 Spicknall et al.
+
+15. Temime L, Bolle PY, Courvalin P, et al. Bacterial resistance to
+penicillin G by decreased afﬁnity of penicillin-binding
+proteins: a mathematical model. Emerg Infect Dis. 2003;9(4):
+411–417.
+16. Bergstrom CT, Lo M, Lipsitch M. Ecological theory suggests
+that antimicrobial cycling will not reduce antimicrobial
+resistance in hospitals. Proc Natl Acad Sci U S A. 2004;
+101(36):13285–13290.
+17. Smith DL, Harris AD, Johnson JA, et al. Animal antibiotic use
+has an early but important impact on the emergence of
+antibiotic resistance in human commensal bacteria. Proc Natl
+Acad Sci U S A. 2002;99(9):6434–6439.
+18. Bootsma MCJ, Diekmann O, Bonten MJM. Controlling
+methicillin-resistant Staphylococcus aureus: quantifying the
+effects of interventions and rapid diagnostic testing. Proc Natl
+Acad Sci U S A. 2006;103(14):5620–5625.
+19. Hotchkiss JR, Strike DG, Simonson DA, et al. An agentbased and spatially explicit model of pathogen dissemination
+in the intensive care unit. Crit Care Med. 2005;33(1):
+168–176.
+20. Andersson M, Ekdahl K, Mlstad S, et al. Modelling the spread
+of penicillin-resistant Streptococcus pneumoniae in day-care
+and evaluation of intervention. Stat Med. 2005;24(23):
+3593–3607.
+21. Colijn C, Cohen T, Fraser C, et al. What is the mechanism for
+persistent coexistence of drug-susceptible and drug-resistant
+strains of Streptococcus pneumoniae? J R Soc Interface.
+2010;7(47):905–919.
+22. Lipsitch M, Levin BR. Population dynamics of tuberculosis
+treatment: mathematical models of the roles of noncompliance and bacterial heterogeneity in the evolution of
+drug resistance. Int J Tuberc Lung Dis. 1998;2(3):187–199.
+23. Cohen T, Lipsitch M, Walensky RP, et al. Beneﬁcial and
+perverse effects of isoniazid preventive therapy for latent
+tuberculosis infection in HIV-tuberculosis coinfected
+populations. Proc Natl Acad Sci U S A. 2006;103(18):
+7042–7047.
+24. Castillo-Chavez C, Feng Z. To treat or not to treat: the case of
+tuberculosis. J Math Biol. 1997;35(6):629–656.
+25. Dye C, Espinal MA. Will tuberculosis become resistant to all
+antibiotics? Proc Biol Sci. 2001;268(1462):45–52.
+26. Basu S, Maru D, Poolman E, et al. Primary and secondary
+tuberculosis preventive treatment in HIV clinics: simulating
+alternative strategies. Int J Tuberc Lung Dis. 2009;13(5):
+652–658.
+27. Rodrigues P, Gomes MGM, Rebelo C. Drug resistance in
+tuberculosis—a reinfection model. Theor Popul Biol. 2007;
+71(2):196–212.
+28. Cohen T, Murray M. Modeling epidemics of multidrugresistant M. tuberculosis of heterogeneous ﬁtness. Nat Med.
+2004;10(10):1117–1121.
+29. Blower SM, Gerberding JL. Understanding, predicting and
+controlling the emergence of drug-resistant tuberculosis: a
+theoretical framework. J Mol Med. 1998;76(9):624–636.
+30. Atun RA, Lebcir RM, McKee M, et al. Impact of joined-up
+HIV harm reduction and multidrug resistant tuberculosis
+control programmes in Estonia: system dynamics simulation
+model. Health Policy. 2007;81(2-3):207–217.
+31. Blower SM, Small PM, Hopewell PC. Control strategies for
+tuberculosis epidemics: new models for old problems. Science.
+1996;273(5274):497–500.
+32. Temime L, Guillemot D, Bolle PY. Short- and long-term
+effects of pneumococcal conjugate vaccination of children on
+penicillin resistance. Antimicrob Agents Chemother. 2004;
+48(6):2206–2213.
+
+33. Temime L, Bolle PY, Valleron AJ, et al. Penicillin-resistant
+pneumococcal meningitis: high antibiotic exposure impedes
+new vaccine protection. Epidemiol Infect. 2005;133(3):
+493–501.
+34. Wang YC, Lipsitch M. Upgrading antibiotic use within a class:
+tradeoff between resistance and treatment success. Proc Natl
+Acad Sci U S A. 2006;103(25):9655–9660.
+35. Opatowski L, Temime L, Varon E, et al. Antibiotic innovation
+may contribute to slowing the dissemination of multiresistant
+Streptococcus pneumoniae: the example of ketolides. PloS
+One. 2008;3(5):e2089.
+36. Opatowski L, Mandel J, Varon E, et al. Antibiotic dose impact
+on resistance selection in the community: a mathematical
+model of β-lactams and Streptococcus pneumoniae dynamics.
+Antimicrob Agents Chemother. 2010;54(6):2330–2337.
+37. Colijn C, Cohen T, Ganesh A, et al. Spontaneous emergence
+of multiple drug resistance in tuberculosis before and during
+therapy. PloS One. 2011;6(3):e18327.
+38. McBryde ES, McElwain DLS. A mathematical model
+investigating the impact of an environmental reservoir on the
+prevalence and control of vancomycin-resistant enterococci.
+J Infect Dis. 2006;193(10):1473–1474.
+39. McBryde ES, Pettitt AN, Cooper BS, et al. Characterizing an
+outbreak of vancomycin-resistant enterococci using hidden
+Markov models. J R Soc Interface. 2007;4(15):745–754.
+40. Cooper B, Lipsitch M. The analysis of hospital infection data
+using hidden Markov models. Biostatistics. 2004;5(2):
+223–237.
+41. D’Agata EMC, Horn MA, Webb GF. The impact of persistent
+gastrointestinal colonization on the transmission dynamics of
+vancomycin-resistant enterococci. J Infect Dis. 2002;185(6):
+766–773.
+42. D’Agata EMC, Webb G, Horn M. A mathematical model
+quantifying the impact of antibiotic exposure and other
+interventions on the endemic prevalence of vancomycinresistant enterococci. J Infect Dis. 2005;192(11):2004–2011.
+43. D’Agata EMC, Magal P, Olivier D, et al. Modeling antibiotic
+resistance in hospitals: the impact of minimizing treatment
+duration. J Theor Biol. 2007;249(3):487–499.
+44. Perencevich EN, Fisman DN, Lipsitch M, et al. Projected
+beneﬁts of active surveillance for vancomycin-resistant
+enterococci in intensive care units. Clin Infect Dis. 2004;
+38(8):1108–1115.
+45. Armeanu E, Bonten MJM. Control of vancomycin-resistant
+enterococci: one size ﬁts all? Clin Infect Dis. 2005;41(2):
+210–216.
+46. Austin DJ, Anderson RM. Transmission dynamics of epidemic
+methicillin-resistant Staphylococcus aureus and vancomycinresistant enterococci in England and Wales. J Infect Dis.
+1999;179(4):883–891.
+47. Panchanathan SS, Petitti DB, Fridsma DB. The development
+and validation of a simulation tool for health policy decision
+making. J Biomed Inform. 2010;43(4):602–607.
+48. Forrester M, Pettitt AN. Use of stochastic epidemic modeling
+to quantify transmission rates of colonization with methicillinresistant Staphylococcus aureus in an intensive care unit.
+Infect Control Hosp Epidemiol. 2005;26(7):598–606.
+49. Raboud J, Saskin R, Simor A, et al. Modeling transmission of
+methicillin-resistant Staphylococcus aureus among patients
+admitted to a hospital. Infect Control Hosp Epidemiol.
+2005;26(7):607–615.
+50. Cooper BS, Medley GF, Stone SP, et al. Methicillin-resistant
+Staphylococcus aureus in hospitals and the community: stealth
+dynamics and control catastrophes. Proc Natl Acad Sci U S A.
+2004;101(27):10223–10228.
+Am J Epidemiol. 2013;178(4):508–520
+
+Modeling the Evolution and Spread of Antibiotic Resistance 519
+
+51. Grundmann H, Hori S, Winter B, et al. Risk factors for the
+transmission of methicillin-resistant Staphylococcus aureus in
+an adult intensive care unit: ﬁtting a model to the data. J Infect
+Dis. 2002;185(4):481–488.
+52. Obaro S, Adegbola R, Banya W, et al. Carriage of
+pneumococci after pneumococcal vaccination. Lancet.
+1996;348(9022):271–272.
+53. Gratten M, Montgomery J, Gerega G, et al. Multiple
+colonization of the upper respiratory tract of Papua New
+Guinea children with Haemophilus inﬂuenzae and
+Streptococcus pneumoniae. Southeast Asian J Trop Med
+Public Health. 1989;20(4):501–509.
+54. Lipsitch M, Dykes JK, Johnson SE, et al. Competition among
+Streptococcus pneumoniae for intranasal colonization in a
+mouse model. Vaccine. 2000;18(25):2895–2901.
+55. Chaves F, Dronda F, Alonso-Sanz M, et al. Evidence of
+exogenous reinfection and mixed infection with more than one
+strain of Mycobacterium tuberculosis among Spanish HIVinfected inmates. AIDS. 1999;13(5):615–620.
+56. Braden CR, Morlock GP, Woodley CL, et al. Simultaneous
+infection with multiple strains of Mycobacterium tuberculosis.
+Clin Infect Dis. 2001;33(6):e42–e47.
+57. Warren RM, Victor TC, Streicher EM, et al. Patients with
+active tuberculosis often have different strains in the same
+sputum specimen. Am J Respir Crit Care Med. 2004;169(5):
+610–614.
+58. Cespedes C, Said-Salim B, Miller M, et al. The clonality of
+Staphylococcus aureus nasal carriage. J Infect Dis. 2005;
+191(3):444–452.
+59. Balmer O, Tanner M. Prevalence and implications of multiplestrain infections. Lancet Infect Dis. 2011;11(11):868–878.
+60. Hakenbeck R, Chhatwal S. Molecular Biology of Streptococci.
+Norwich, United Kingdom: Horizon Scientiﬁc Press; 2007.
+61. Somoskovi A, Parsons LM, Salﬁnger M. The molecular basis
+of resistance to isoniazid, rifampin, and pyrazinamide in
+Mycobacterium tuberculosis. Respir Res. 2001;2(3):164–168.
+62. Sundqvist M, Geli P, Andersson DI, et al. Little evidence for
+reversibility of trimethoprim resistance after a drastic reduction
+in trimethoprim use. J Antimicrob Chemother. 2010;65(2):
+350–360.
+63. Harriott MM, Noverr MC. Candida albicans and
+Staphylococcus aureus form polymicrobial bioﬁlms: effects on
+antimicrobial resistance. Antimicrob Agents Chemother.
+2009;53(9):3914–3922.
+64. Harriott MM, Noverr MC. Ability of Candida albicans
+mutants to induce Staphylococcus aureus vancomycin
+resistance during polymicrobial bioﬁlm formation. Antimicrob
+Agents Chemother. 2010;54(9):3746–3755.
+65. Carlson E. Synergistic effect of Candida albicans and
+Staphylococcus aureus on mouse mortality. Infect Immun.
+1982;38(3):921–924.
+66. Carlson E. Effect of strain of Staphylococcus aureus on
+synergism with Candida albicans resulting in mouse mortality
+and morbidity. Infect Immun. 1983;42(1):285–292.
+67. Carlson EC. Synergism of Candida albicans and delta toxin
+producing Staphylococcus aureus on mouse mortality and
+morbidity: protection by indomethacin. Zentralbl Bakteriol
+Mikrobiol Hyg A. 1988;269(3):377–386.
+68. Dye C, Williams BG. Criteria for the control of drug-resistant
+tuberculosis. Proc Natl Acad Sci U S A. 2000;97(14):
+8180–8185.
+69. Pelupessy I, Bonten MJM, Diekmann O. How to assess the
+relative importance of different colonization routes of
+pathogens within hospital settings. Proc Natl Acad Sci U S A.
+2002;99(8):5601–5605.
+Am J Epidemiol. 2013;178(4):508–520
+
+70. Smith DL, Dushoff J, Perencevich EN, et al. Persistent
+colonization and the spread of antibiotic resistance in
+nosocomial pathogens: resistance is a regional problem. Proc
+Natl Acad Sci U S A. 2004;101(10):3709–3714.
+71. Smith DL, Levin SA, Laxminarayan R. Strategic interactions
+in multi-institutional epidemics of antibiotic resistance. Proc
+Natl Acad Sci U S A. 2005;102(8):3153–3158.
+72. Austin DJ, Anderson RM. Studies of antibiotic resistance
+within the patient, hospitals and the community using simple
+mathematical models. Philos Trans R Soc Lond B Biol Sci.
+1999;354(1384):721–738.
+73. Kardas-Sloma L, Bolle PY, Opatowski L, et al. Impact of
+antibiotic exposure patterns on selection of communityassociated methicillin-resistant Staphylococcus aureus in
+hospital settings. Antimicrob Agents Chemother. 2011;55(10):
+4888–4895.
+74. Van Effelterre T, Moore MR, Fierens F, et al. A dynamic
+model of pneumococcal infection in the United States:
+implications for prevention through vaccination. Vaccine.
+2010;28(21):3650–3660.
+75. Haber M, Levin BR, Kramarz P. Antibiotic control of
+antibiotic resistance in hospitals: a simulation study. BMC
+Infect Dis. 2010;10:254.
+76. Jansen JP, Kumar R, Carmeli Y. Accounting for the
+development of antibacterial resistance in the cost
+effectiveness of ertapenem versus piperacillin/tazobactam in
+the treatment of diabetic foot infections in the UK.
+PharmacoEconomics. 2009;27(12):1045–1056.
+77. Jansen JP, Kumar R, Carmeli Y. Cost-effectiveness evaluation
+of ertapenem versus piperacillin/tazobactam in the treatment of
+complicated intraabdominal infections accounting for
+antibiotic resistance. Value Health. 2009;12(2):234–244.
+78. Kouyos RD, Abel Zur Wiesch P, Bonhoeffer S. On being the
+right size: the impact of population size and stochastic effects
+on the evolution of drug resistance in hospitals and the
+community. PLoS Pathog. 2011;7(3):e1001334.
+79. Lipsitch M, Bergstrom CT, Levin BR. The epidemiology of
+antibiotic resistance in hospitals: paradoxes and prescriptions.
+Proc Natl Acad Sci U S A. 2000;97(4):1938–1943.
+80. McCormick AW, Whitney CG, Farley MM, et al. Geographic
+diversity and temporal trends of antimicrobial resistance in
+Streptococcus pneumoniae in the United States. Nat Med.
+2003;9(4):424–430.
+81. Samore MH, Lipsitch M, Alder SC, et al. Mechanisms by
+which antibiotics promote dissemination of resistant
+pneumococci in human populations. Am J Epidemiol.
+2006;163(2):160–170.
+82. Atun RA, Lebcir R, Drobniewski F, et al. Impact of an
+effective multidrug-resistant tuberculosis control programme
+in the setting of an immature HIV epidemic: system dynamics
+simulation model. Int J STD AIDS. 2005;16(8):560–570.
+83. Reluga TC. Simple models of antibiotic cycling. Math Med
+Biol. 2005;22(2):187–208.
+84. Sbille V, Chevret S, Valleron AJ. Modeling the spread of
+resistant nosocomial pathogens in an intensive-care unit. Infect
+Control Hosp Epidemiol. 1997;18(2):84–92.
+85. Smith DL, Johnson JA, Harris AD, et al. Assessing risks for a
+pre-emergent pathogen: virginiamycin use and the emergence
+of streptogramin resistance in Enterococcus faecium. Lancet
+Infect Dis. 2003;3(4):241–249.
+86. Austin DJ, Bonten MJ, Weinstein RA, et al. Vancomycinresistant enterococci in intensive-care hospital settings:
+transmission dynamics, persistence, and the impact of
+infection control programs. Proc Natl Acad Sci U S A. 1999;
+96(12):6908–6913.
+
+520 Spicknall et al.
+
+87. Abatih EN, Alban L, Ersbøll AK, et al. Impact of
+antimicrobial usage on the transmission dynamics of
+antimicrobial resistant bacteria among pigs. J Theor Biol.
+2009;256(4):561–573.
+88. Sun H, Lu X, Ruan S. Qualitative analysis of models with
+different treatment protocols to prevent antibiotic resistance.
+Math Biosci. 2010;227(1):56–67.
+89. Stilianakis NI, Perelson AS, Hayden FG. Emergence of
+drug resistance during an inﬂuenza epidemic: insights
+from a mathematical model. J Infect Dis. 1998;177(4):
+863–873.
+90. Boni MF, Feldman MW. Evolution of antibiotic resistance by
+human and bacterial niche construction. Evolution. 2005;
+59(3):477–491.
+
+91. Xu Y, Allen LJS, Perelson AS. Stochastic model of an inﬂuenza
+epidemic with drug resistance. J Theor Biol. 2007;248(1):
+179–193.
+92. Levin BR, Lipsitch M, Perrot V, et al. The population genetics
+of antibiotic resistance. Clin Infect Dis. 1997;24(suppl 1):
+S9–S16.
+93. Kouyos RD, Abel Zur Wiesch P, Bonhoeffer S. Informed
+switching strongly decreases the prevalence of antibiotic
+resistance in hospital wards. PLoS Comput Biol. 2011;7(3):
+e1001094.
+94. Domenech de Cells M, Opatowski L, Salomon J, et al.
+Intrinsic epidemicity of Streptococcus pneumoniae depends on
+strain serotype and antibiotic susceptibility pattern. Antimicrob
+Agents Chemother. 2011;55(11):5255–5261.
+
+Am J Epidemiol. 2013;178(4):508–520
+

@@ -1,0 +1,109 @@
+﻿Full Genome Sequence of a Recombinant H5N1 Influenza Virus from
+a Condor in Southern China
+Peirong Jiao, Runyu Yuan, Yafen Song, Liangmeng Wei, Tao Ren, Ming Liao, and Kaijian Luo
+MOA Key Laboratory for Animal Vaccine Development, Key Laboratory of Zoonoses Control and Prevention of Guangdong, College of Veterinary Medicine, South China
+Agricultural University, Guangzhou, China
+In this study, we report the first genomic information on an H5N1 avian influenza virus (AIV) isolated from a condor in Guang-
+dong Province in southern China in 2003. Full genome sequencing and phylogenetic analyses show that it is a recombinant virus
+containing genome segments derived from the Eurasia and North America gene pools. This will be useful for analyses of the evo-
+lution of H5N1 AIV in southern China.
+H5N1 highly pathogenic avian influenza (HPAI) is caused by
+H5N1 influenza A virus, which can result in serious systemic
+or respiratory diseases in birds. H5N1 avian influenza viruses
+(AIV) have been reported to be transmitted from wild birds to
+domestic poultry and various mammalian species (1). In 1996, the
+H5N1 HPAI virus (A/Goose/Guangdong/1/1996) was first iso-
+lated from a sick goose in southern China (2, 9). In 1997, the
+transmission of H5N1 viruses to humans had caused the deaths of
+6 of 18 infected persons in southern China (3, 8). Since 2003,
+H5N1 HPAI viruses which had developed a high degree antigenic
+variation began to spread and caused serious outbreaks in more
+than 60 countries of Asia, Europe, and Africa, not only resulting in
+the destruction of hundreds of millions of poultry but also causing
+serious infection and death of humans. Therefore, H5N1 AIVs are
+zoonotic agents recognized as a continuing threat to both the
+poultry industry and human public health.
+Here, a H5N1 influenza virus (A/Condor/Guangdong/139/
+2003 [GD139]) was isolated from a sick condor in southern
+China in 2003. To investigate more information about this
+recombinant virus, we determined the complete genomic se-
+quence with an ABI 3730 genetic analyzer using the Sanger
+method, which is based on DNA fragments amplified by PCR
+with a previous primer (5). Sequence fragments were assem-
+bled using Sequencher 5.0. The 8 genome segments of the virus
+encode 10 proteins (PB2, PB1, PA, HA, NP, NA, M1, M2, NS1,
+and NS2) with lengths of 759, 757, 716, 568, 498, 449, 252, 97,
+225, and 121 amino acids, respectively. There are 20- and
+5-amino-acid deletions in NA and NS1, respectively. The
+GD139 virus has a series of basic amino acids at the cleavage site
+of the HA (RRKKR) that is characteristic of HPAI viruses. The
+receptor-binding pocket of HA1 retains the amino acid residues
+Q226 and G228 (H3 numbering), which preferentially bind to the
+avian influenza virus receptor (4). The PB2 protein has E and D at
+positions 627 and 701, which are characteristic of the avian influ-
+enza virus (6, 7).
+Phylogenetic analysis of GD139 revealed that the HA and NA
+genes belong to the Eurasia gene pool (A/Hong Kong/213/2003
+[H5N1]-like virus) and share 99% and 94.7% nucleotide identity
+with HK213-like virus, respectively. The internal genes showed
+that PB1, PA, NP, M, and NS genes also belong to the Eurasia gene
+pool and exhibit more than 99%, 96%, 99% and 99% sequence
+identity to HK213-like virus, respectively. However, the PB2 gene
+belongs to the North America gene pool and has 94% sequence
+identity with the A/Pheasant/NJ/9804570/1998(H5N2) virus.
+Thus, GD139 virus is a recombinant virus between the Eurasia
+gene pool and the North America gene pool which has rarely been
+reported in southern China.
+The genomic information on this H5N1 natural recombinant
+virus from a condor will be helpful for analyses of the evolution of
+H5N1 AIV in southern China.
+Nucleotide sequence accession numbers. The genome se-
+quences of A/Condor/Guangdong/139/2003 (H5N1) have been
+deposited in GenBank under accession numbers JQ966928 to
+JQ966935.
+ACKNOWLEDGMENTS
+This work was supported by grants from the Agriculture Science and
+Technology Projects of China (no. 2011GB2E000005), the Natural
+Science Foundation of Guangdong Province (no. 10251064201000004
+and 10151064201000021), the National Natural Science Foundation of
+China (no. 31172343), the Science and Technology Projects of Guang-
+dong Province (no. 2010B020307005), the Earmarked Fund for Mod-
+ern Agro-Industry Technology Research System (nycytx-42-G3-03),
+and the High-level Talents in University Project of Guangdong Prov-
+ince.
+REFERENCES
+1. Belser JA, Szretter KJ, Katz JM, Tumpey TM. 2009. Use of animal models
+to understand the pandemic potential of highly pathogenic avian influenza
+viruses. Adv. Virus Res. 73:55­97.
+2. Chen H, Yu K, Bu Z. 1999. Molecular analysis of hemagglutinin gene of a
+goose origin highly pathogenic avian influenza virus. Chin. Agric. Sci. 32:
+87­92.
+3. Claas EC, et al. 1998. Human influenza A H5N1 virus related to a highly
+pathogenic avian influenza virus. Lancet 351:472­477.
+4. Ha Y, Stevens DJ, Skehel JJ, Wiley DC. 2001. X-ray structures of H5 avian
+and H9 swine influenza virus hemagglutinins bound to avian and human
+receptor analogs. Proc. Natl. Acad. Sci. U. S. A. 98:11181­11186.
+5. Jiao P, et al. 2008. A single-amino-acid substitution in the NS1 protein
+Received 26 April 2012 Accepted 30 April 2012
+Address correspondence to Kaijian Luo, kjluo@scau.edu.cn.
+Copyright © 2012, American Society for Microbiology. All Rights Reserved.
+doi:10.1128/JVI.01043-12
+GENOME ANNOUNCEMENT
+7722 jvi.asm.org Journal of Virology p. 7722­7723 July 2012 Volume 86 Number 14
+changes the pathogenicity of H5N1 avian influenza viruses in mice. J. Virol.
+82:1146­1154.
+6. Li Z, et al. 2005. Molecular basis of replication of duck H5N1 influenza
+viruses in a mammalian mouse model. J. Virol. 79:12058­12064.
+7. Massin P, van der Werf S, Naffakh N. 2001. Residue 627 of PB2 is a
+determinant of cold sensitivity in RNA replication of avian influenza vi-
+ruses. J. Virol. 75:5398­5404.
+8. Subbarao K, et al. 1998. Characterization of an avian influenza A (H5N1)
+virus isolated from a child with a fatal respiratory illness. Science 279:393­
+396.
+9. Xu X, Subbarao K, Cox N, Guo Y. 1999. Genetic characterization of the
+pathogenic influenza A/Goose/Guangdong/1/96 (H5N1) virus: similarity
+of its hemagglutinin gene to those of H5N1 viruses from the 1997 outbreaks
+in Hong Kong. Virology 261:15­19.
+Genome Announcement
+July 2012 Volume 86 Number 14 jvi.asm.org 7723
+

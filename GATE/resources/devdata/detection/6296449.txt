@@ -1,0 +1,399 @@
+﻿Vol. 45, No. 1
+JOURNAL OF VIROLOGY, Jan. 1983, p. 434-438
+0022-538X/83/010434-05$02.00/0
+The Influenza Virus Nucleoprotein Synthesized from Cloned
+DNA in a Simian Virus 40 Vector Is Detected in the Nucleus
+BOR-CHIAN LIN AND CHING-JUH LAI*
+Molecular Viral Biology Section, Laboratory ofInfectious Diseases, National Institute ofAllergy and
+Infectious Diseases, Bethesda, Maryland 20205
+Received 28 June 1982/Accepted 8 September 1982
+We obtained DNA sequences coding for the nucleoprotein (NP) of an influenza
+A virus by reverse transcription of virion RNA with synthetic oligonucleotide
+primers. Terminal sequence analysis showed that the cloned gene contained a full-
+length copy of the virion RNA segment. The NP-specific DNA was inserted into
+the late region of a simian virus 40 vector, and the DNA recombinant was
+propagated in the presence of an early simian virus 40 temperature-sensitive
+mutant helper. Infection of African green monkey kidney cells with the recombi-
+nant produced a polypeptide immunoprecipitable with NP-specific antisera. The
+polypeptide product had a molecular weight of 56,000, identical to that of the
+nucleoprotein of influenza virus as estimated on polyacrylamide gels. The
+putative NP was detected in the nucleus of infected primate cells by an
+immunofluorescence assay. This nuclear localization of NP from recombinant
+DNA was similar to that seen during influenza virus infection.
+Influenza virus nucleoprotein (NP), serologi-
+cally characterized as a type-specific antigen
+that distinguishes type A, B, and C viruses,
+constitutes a major internal component of the
+virion (18). NP interacts with viral genomic
+RNA to form helical ribonucleoprotein complex-
+es (5, 7, 15). These complexes, in association
+with the three viral polymerase proteins, are
+transcriptionally active, generating viral mRNA
+species (17). Monocolonal antibodies specific to
+NP affect mRNA transcription in vitro, and at
+least three nonoverlapping antigenic determi-
+nants on the viral polypeptide have been demon-
+strated (23). Influenza virus temperature-sensi-
+tive mutants defective in the NP gene fail to
+synthesize mRNA or virion RNA in infected
+cells at restrictive temperature (11, 20, 21).
+These data suggest that NP is directly or indi-
+rectly involved in transcription and replication.
+Recent evidence indicates that the nucleus is the
+site of influenza mRNA transcription and that
+NP is primarily present in the nucleus ofinfected
+cells (3, 6, 9, 10). Studies on another negative-
+strand virus, vesicular stomatitis virus, suggest
+that its NP may play a role in the regulation of
+viral replication through a specific binding to
+vesicular stomatitis virus RNA (1); however,
+analogous experiments have not been carried
+out with influenza virus. Many important ques-
+tions concerning the structural features and in-
+volvement of NP in transcription remain to be
+elucidated. In this report, we describe cloning of
+the full-length NP gene and characterization of
+the viral polypeptide produced in African green
+monkey kidney (AGMK) cells during infection
+with the cloned gene inserted into a simian virus
+40 (SV40) vector.
+Virion RNA was prepared from the egg-grown
+virus as described previously (12) and used to
+prepare double-stranded DNA for cloning. As
+shown in Fig. 1, the first cDNA strand was
+synthesized by reverse transcription of RNA by
+using a synthetic dodecanucleotide primer
+(AGCAAAAGCAGG) complementary to the
+conserved 3' terminus. After removal of the
+virion RNA from the hybrids (0.2 N NaOH at
+70°C for 30 min), the cDNA strand was convert-
+ed to double-stranded DNA by using another
+dodecanucleotide primer (AGTAGAAACAAG)
+which corresponds to the 5'-common sequence
+of virion RNA (12, 16, 26). The DNA duplexes
+were separated on polyacrylamide gel, and the
+fifth largest DNA segment was isolated for char-
+acterization of the NP gene by restriction en-
+zyme digestion and for cloning in the Escherich-
+ia coli system. The NP gene was inserted into
+the late region between the HpaII and BamHI
+sites of SV40 in an expression vector with a
+BamHI linker. In this vector, the HpaII site of
+SV40 was converted to a BamHI site that could
+be used for insertion, and the TaqI site had been
+converted into an XbaI site for joining with
+pBR322; an XbaI site had been introduced previ-
+ously into pBR322 (4) (kindly given by P.
+Gruss). The cloned NP DNA was further char-
+acterized by digestion with restriction enzymes.
+434
+NOTES 435
+(-) vRNA -
+I Synthetic primer
+Reverse transcriptase
+(+) cDNA -
+Synthetic primer
+Reverse transcriptase
+ds DNA -
+| Bam HI linker
+N
+Ligase
+NP DNA
+Bam Hi Bam Hl
+(Hpa 11
+Ori S40 )
+Xba I ;Xba I
+322
+Ori -
+Xba I
+Ori
+SV40-NP RECOMBINANT DNA
+FIG. 1. Scheme for cloning influenza virus NP
+DNA and construction of SV40-NP recombinant.
+The map positions of restriction enzyme sites,
+including PstI, BglII, and PvuI, corresponded
+with those of NP genes from other influenza
+viral strains (8, 22, 25). To ascertain that our NP
+clone contained a full-length copy of the vRNA
+segment, we sequenced the terminal nucleotides
+of the DNA segment. At both termini, the con-
+served nucleotide sequences of virion RNA
+were completely represented (Fig. 2) (16). Simi-
+lar to the NP sequence of A/PRI8/34(HlN1) and
+A/NT/60/68(H3N2), the ATG initiation codon on
+the sense strand was located at positions 46 to 48
+and was followed by an identical coding se-
+quence of eight amino acids in the region se-
+quenced. At the 3' end of the sense strand,
+identical sequences were also present in the
+cloned gene, and a termination codon was there-
+fore inferred from other NP DNA sequences
+described.
+To express NP polypeptide, we used the SV40
+vector of Gruss et al. (4) and constructed an
+SV40-NP recombinant that contained an NP
+DNA insert in the sense orientation relative to
+the late transcription of SV40. The SV40 moiety
+lacked the late region between the HpaII and
+BamHI cleavage sites; therefore, all the late
+RNA splice sequences were absent in this vec-
+tor. The SV40-NP recombinant yielded a pre-
+dicted fragment of 1262 base pairs after PstI
+digestion at the unique PstI site in the NP DNA
+and in the pBR322-SV40 vector. Linear DNA of
+SV40-NP was prepared from the plasmid after
+XbaI digestion and was subsequently used for
+infection of AGMK cells in the presence of an
+early temperature-sensitive mutant of SV40
+(tsA) (Fig. 1). The construction of SV40-NP
+recombinant virus was essentially identical to
+the procedure described previously (19).
+AGMK cells infected with the SV40-NP
+recombinant were analyzed for the production
+of the NP polypeptide. Two separate approach-
+es were employed: one with polyacrylamide gel
+electrophoresis to analyze the molecular size of
+the product and the other with an indirect immu-
+nofluorescence assay to detect the intracellular
+location of the polypeptide. In the first experi-
+ment, confluent AGMK cells (2 x 105) were
+infected with the recombinant for 72 h and
+labeled with [35S]methionine (20 ,uCi; specific
+activity, 1,300 Ci/mmol) for 5 h. Cell lysates
+were subsequently prepared in 400 ,ul of RIPA
+buffer (0.3 M NaCI, 1% deoxycholate, 1% Tri-
+ton, 0.1% sodium dodecyl sulfate, 0.1 M Tris
+[pH 7.4], 1 mM phenylmethylsulfonyl fluoride,
+5,000 U of trasylol). Immunoprecipitation was
+carried out with 10 ,ul (70 ng) of a mixture of
+Met Ala Ser GIn G ly Thr Lys Arg...
+5'AGCAAAAGCAGGGTAAATAATCACTCACTGAGTGACATCAAAATC T_GI GCG TCC CAA GGC ACC AAA CGG...
+TCGTTTTCGTCCCATTTATTAGTGAGTGACTCACTGTAGTTTTAG TAC CGC AGG GTT CCG TGG TTT GCC...
+BaHI Bg! 11 Bg! 11Pvu
+Hpa 1 Psi Hpa 111
+..Ph e Gly A sp A sn AlIa GlIu GlIu T yr A sp As n
+...TTC GGA GAC AAT GCG GAG GAG TAC GAC AAT TAA GGAAAAATACCCTTGTTTCTACT3
+...AAG CCT CTG TTA CGC CTC CTC ATG CTG TTA ATT CCTTTTTATGGGAACAAAGATGA
+FIG. 2. Terminal nucleotide sequences of cloned full-length NP DNA. The cloned influenza virus NP DNA
+was mapped by restriction enzyme digestion, and terminal nucleotides were sequenced by the method of Maxam
+and Gilbert (14). Shown in the linear map are several endonuclease cleavage sites. Both oligonucleotide primers
+completely represented in the cloned gene are underlined. These sequences are identical to the previously
+published data from which the predicted amino acid sequences are indicated.
+VOL. 45, 1983
+436 NOTES
+three monoclonal antibodies specific to three
+distinct epitopes of NP (5/1, 3/1, and 7/3; kindly
+provided by K. van Wyke) and a 10-,ul slurry of
+protein A-Sepharose in phosphate-buffered sa-
+line. The immunoprecipitates were analyzed on
+sodium dodecyl sulfate-polyacrylamide gels
+(Fig. 3). All three independent isolates of SV40-
+NP recombinant yielded a labeled band of56,000
+daltons, equivalent in size to the NP produced
+during influenza virus infection. No such labeled
+polypeptide was found in SV40-infected cells
+(data not shown). Other minor bands were not
+related to the NP recombinant, since they were
+also present in the uninfected cell control. The
+putative NP represented the only polypeptide
+product of the cloned NP insert in the SV40
+expression vector. Our cloned NP gene ap-
+peared to contain a complete coding sequence,
+and translation of NP transcript occurred at the
+initiation codon at nucleotide positions 46 to 48
+of the NP gene, since NP synthesized from
+SV40-NP recombinant DNA-infected cells was
+identical in size to that produced during influen-
+za virus infection.
+Although there is no direct functional assay
+currently available for influenza virus NP, many
+earlier studies indicated that NP is found inside
+the nuclei of infected cells (2, 13, 24). To obtain
+further information concerning the functional
+activity of NP from SV40-NP recombinant, we
+tested whether the NP product is also detected
+in the nuclei of infected cells. Monolayers of
+AGMK cells were infected with SV40 alone,
+with influenza virus A/Udorn/72(H3N2), or with
+the SV40-NP recombinant for a period pre-
+scribed. Infected cells were fixed with acetone,
+reacted with the monoclonal antibody mixture to
+increase the sensitivity of detection, and stained
+with a fluorescein conjugate of goat anti-mouse
+serum. As a control, no immunofluorescence
+was detected in SV40-infected cells. On the
+other hand, as early as 1.5 h after infection with
+influenza virus, cells showed intense nuclear
+fluorescence, indicating that NP was predomi-
+nantly detected in the nucleus; little or no NP
+was found in the cytoplasm (Fig. 4A). The
+appearance of NP during infection with the
+SV40-NP recombinant was followed kinetically.
+At 36 to 60 h, NP was largely detected in the
+nucleus, and the pattern of nuclear fluorescence
+was identical to that seen during influenza virus
+infection (Fig. 4B). Despite a low multiplicity of
+infection (1% of cells infected), detection of NP
+in the nucleus was observed repeatedly. Howev-
+er, later after infection (72 to 96 h) with the
+recombinant, immunofluorescent staining of NP
+became diffuse and was detected in the cyto-
+plasm as well. One interpretation is that the
+accumulation of NP in the cytoplasm is a result
+of cellular dysfunction, since SV40 infection is
+cytopathic at this late stage. These results indi-
+cate that the NP product from the cloned gene
+exhibits the same nuclear localization observed
+during influenza virus infection. Since no other
+influenza viral polypeptides or virion RNA seg-
+ments are present in the infected cell, the specif-
+ic influx into the nucleus is likely a functional
+ANTI-NP SERUM
+flu" "flu" SV40-NP C
+U-.
+' .4:
+70-75K - .- i. -
+. .
+56K -
+(NP)
+28K-
+26K-
+FIG. 3. Polyacrylamide gel analysis of influenza
+virus nucleoprotein. Lysates were prepared from
+[35S]methionine-labeled AGMK cells previously in-
+fected with influenza virus A/Udorn(H3N2) ("flu") or
+three separate isolates of SV40-NP recombinant virus.
+Uninfected cell control (C) lysate was prepared in a
+similar manner. Immunoprecipitation was carried out
+with a mixture of three monoclonal antisera specific
+for NP (5/1, 3/1, and 7/5), and the labeled precipitate
+was analyzed on sodium dodecyl sulfate-15% poly-
+acrylamide gels (acrylamide:bisacrylamide = 30:1).
+Molecular size markers of influenza viral proteins are
+indicated.
+J. VIROL.
+NOTES 437
+FIG. 4. Indirect immunofluorescence assay for detection of intracellular nucleoprotein. (A) AGMK cells
+infected with influenza virus. (B) AGMK cells infected with the SV40-NP recombinant. Infected cell monolayers
+were fixed with acetone and incubated with a mixture of three monoclonal antibodies specific to NP and a
+fluorescein conjugate of goat anti-mouse serum. Infected cell nuclei are intensely stained. The nucleoli of
+uninfected cells were brightened by staining with ethidium bromide to locate the nuclear contour.
+VOL. 45, 1983
+438 NOTES
+property of NP. The specific detection of the NP
+polypeptide in the nucleus is markedly different
+from the previous observations concerning influ-
+enza virus hemagglutinin that accumulates at the
+cell surface (19). In summary, the present study
+permits the following conclusions. First, when
+inserted into an SV40 expression vector, the
+cloned full-length NP DNA produced an immu-
+noprecipitable polypeptide identical in molecu-
+lar size to influenza virus NP. Second, the
+putative NP detected in the nucleus early after
+recombinant DNA infection was analogous to
+the NP produced during influenza virus infec-
+tion, suggesting that the NP product exhibits at
+least one of its many functional characteristics.
+We thank R. Chanock for his valuable suggestion and K.
+van Wyke for her generous supply of monoclonal antibodies.
+We are also grateful to S. Kruger and J. A. Berndt for their
+expert assistance and to L. Jordan for typing the manuscript.
+LITERATURE CITED
+1. Blumberg, B. M., M. Leppert, and D. Kolakofsky. 1981.
+Interaction of VSV leader RNA and nucleocapsid protein
+may control VSV genome replication. Cell 23:837-845.
+2. Breitenfeld, P. M., and W. Schafer. 1975. The formation of
+fowl plaque virus antigens in infected cells, as studied
+with fluorescent antibodies. Virology 4:328-345.
+3. Briedis, D. J., G. Conti, E. A. Munn, and B. W. Mahy.
+1981. Migration of influenza virus-specific polypeptides
+from cytoplasm to nucleus of infected cells. Virology
+111:154-164.
+4. Gruss, P., N. Rosenthal, M. Koenig, R. W. Ellis, T. Y.
+Shih, E. M. Scolnik, and G. Khoury. 1982. Expression of
+viral and cellular p21 ras genes using SV40 as a vector, p.
+13-17. In Y. Gluzman (ed.), Eukaryotic viral vectors.
+Cold Spring Harbor Laboratory, Cold Spring Harbor,
+N.Y.
+5. Heggeness, M. H., P. R. Smith, I. Ulmanen, R. M. Krug,
+and P. W. Choppin. 1982. Studies on the helical nucleo-
+capsid of influenza virus. Virology 118:466-470.
+6. Herz, C., E. Stavnezer, R. M. Krug, and T. Gurney. 1981.
+Influenza virus, an RNA virus, synthesizes its messenger
+RNA in the nucleus of influenza cells. Cell 26:391-400.
+7. Horne, R. W., A. P. Waterson, P. Wildy, and A. E.
+Farnham. 1960. The structure and composition of myxovi-
+ruses. 1. Electron microscope studies of the structure of
+myxovirus particles by negative staining techniques. Vi-
+rology 11:74-98.
+8. Huddleston, J. A., and G. G. Brownlee. 1982. The se-
+quence of the nucleoprotein gene of human influenza A
+virus, strain AINT/60/68. Nucleic Acids Res. 10:1029-
+1038.
+9. Krug, R. M. 1972. Cytoplasmic and nucleoplasmic viral
+RNPs in influenza virus-infected MDCK cells. Virology
+50:103-113.
+10. Krug, R. M., and P. R. Etkind. 1973. Cytoplasmic and
+nuclear virus-specific proteins in influenza virus-infected
+MDCK cells. Virology 56:334-348.
+11. Krug, R. M., M. Ueda, and P. Palese. 1975. Temperature-
+sensitive mutants of influenza WSN virus defective in
+virus-specific RNA synthesis. J. Virol. 16:790-796.
+12. Lai, C.-J., L. J. Markoff, S. Zimmerman, B. Cohen, J. A.
+Berndt, and R. M. Chanock. 1980. Cloning DNA se-
+quences from viral RNA segments. Proc. Natl. Acad. Sci.
+U.S.A. 77:210-214.
+13. Liu, C. 1955. Studies on influenza infection in ferrets by
+means of fluorescein-labelled antibody. 2. The role of
+soluble antigen in nuclear fluorescence and cross-reac-
+tions. J. Exp. Med. 101:677-686.
+14. Maxam, A. M., and W. Gilbert. 1977. A new method for
+sequencing DNA. Proc. Natl. Acad. Sci. U.S.A. 74:560-
+564.
+15. Murti, K. G., W. J. Bean, and R. G. Webster. 1980.
+Helical ribonucleoproteins of influenza virus: an electron
+microscopic analysis. Virology 104:224-229.
+16. Robertson, J. S. 1979. 5' and 3' terminal nucleotide
+sequences of the RNA genome segments of influenza
+virus. Nucleic Acids Res. 6:3745-3757.
+17. Rochovansky, 0. M. 1976. RNA synthesis by ribonucleo-
+protein-polymerase complexes isolated from influenza
+virus. Virology 73:327-338.
+18. Schild, G. C. 1972. Evidence for a new type-specific
+structural antigen of the influenza virus particle. J. Gen.
+Virol. 15:99-103.
+19. Sveda, M. M., and C.-J. Lai. 1981. Functional expression
+in primate cells of cloned DNA coding for the hemaggluti-
+nin surface glycoprotein of influenza virus. Proc. Natl.
+Acad. Sci. U.S.A. 78:5488-5492.
+20. Thierry, F., and 0. Danos. 1982. Use of specific single
+stranded DNA probes cloned in M13 to study the RNA
+synthesis of four temperature-sensitive mutants of HK/68
+influenza virus. Nucleic Acids Res. 10:2925-2938.
+21. Thierry, F., S. B. Spring, and R. M. Chanock. 1980.
+Localization of the ts defect in two ts mutants of influenza
+A virus: evidence for the occurrence of intracistronic
+complementation between ts mutants of influenza A virus
+coding for the neuraminidase and nucleoprotein polypep-
+tides. Virology 101:484-492.
+22. Van Rompuy, L., W. Min-Jou, D. Huylebroeck, R. Devos,
+and W. Fiers. 1981. Complete nucleotide sequence of the
+nucleoprotein gene from the human influenza strain
+AIPR/8/34 (HoN1). Eur. J. Biochem. 116:347-353.
+23. van Wyke, K. L., W. J. Bean, Jr., and R. G. Webster.
+1981. Monoclonal antibodies to the influenza A virus
+nucleoprotein affecting RNA transcription. J. Virol.
+39:313-317.
+24. Watson, B. K., and A. H. Coons. 1954. Studies of influen-
+za virus infection in the chick embryo using fluorescent
+antibody. J. Exp. Med. 99:419-428.
+25. Winter, G., and S. Fields. 1981. The structure of the gene
+encoding the nucleoprotein of human influenza virus
+AIPR18/34. Virology 114:423-428.
+26. Winter, G., S. Fields, M. J. Gait, and G. G. Brownlee.
+1981. The use of synthetic oligodeoxynucleotide primers
+in cloning and sequencing segment 8 of influenza virus
+(A/PR/8/34). Nucleic Acids Res. 9:237-245.
+J. VIROL.
+

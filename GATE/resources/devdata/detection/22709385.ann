@@ -1,0 +1,26 @@
+T1	Location 73 78	China
+#1	AnnotatorNotes T1	<latlng>35,105</latlng><geoID>1814991</geoID>
+T11	Location 227 232	China
+#11	AnnotatorNotes T11	<latlng>35,105</latlng><geoID>1814991</geoID>
+T12	Location 657 668	Switzerland
+#12	AnnotatorNotes T12	<latlng>47,8</latlng><geoID>2658434</geoID>
+T13	Location 812 819	Jiangsu
+#13	AnnotatorNotes T13	<latlng>33.0,120.0</latlng><pop>76770000</pop><geoID>1806260</geoID>
+T34	Location 6298 6303	China
+#34	AnnotatorNotes T34	<latlng>35,105</latlng><geoID>1814991</geoID>
+T35	Location 7395 7400	China
+#35	AnnotatorNotes T35	<latlng>35,105</latlng><geoID>1814991</geoID>
+T6	Location 830 856	People's Republic of China
+#6	AnnotatorNotes T6	<latlng>35,105</latlng><geoID>1814991</geoID>
+T2	Protein 80 89	Huanliang
+#2	AnnotatorNotes T2	BEGIN
+T3	Protein 162 166	Chen
+#3	AnnotatorNotes T3	END
+T4	Protein 9535 9550	Acknowledgments
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 14988 14992	2005
+#5	AnnotatorNotes T5	END
+T8	Protein 4823 4833	DISPATCHES
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 5156 5162	120009
+#9	AnnotatorNotes T9	END

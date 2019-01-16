@@ -1,0 +1,150 @@
+T232	Protein 90 92	Vy
+#232	AnnotatorNotes T232	BEGIN
+T233	Protein 417 424	America
+#233	AnnotatorNotes T233	END
+T25	Protein 2100 2108	Citation
+#25	AnnotatorNotes T25	BEGIN
+T23	Protein 3459 3464	(RWC)
+#23	AnnotatorNotes T23	END
+T33	Location 4271 4277	Mexico
+#33	AnnotatorNotes T33	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T3	Location 4385 4387	US
+#3	AnnotatorNotes T3	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T26	Protein 5467 5471	PLOS
+#26	AnnotatorNotes T26	BEGIN
+T27	Protein 5534 5540	e76708
+#27	AnnotatorNotes T27	END
+T35	Location 9948 9958	California
+#35	AnnotatorNotes T35	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T37	Location 10065 10076	Netherlands
+#37	AnnotatorNotes T37	<latlng>52.5,5.75</latlng><geoID>2750405</geoID>
+T44	Location 10911 10918	Atlanta
+#44	AnnotatorNotes T44	<latlng>33.749,-84.38798</latlng><pop>420003</pop><geoID>4180439</geoID>
+T4	Location 10920 10922	GA
+#4	AnnotatorNotes T4	<latlng>32.75042,-83.50018</latlng><pop>8975842</pop><geoID>4197000</geoID>
+T51	Location 11214 11222	Manassas
+#51	AnnotatorNotes T51	<latlng>38.75095,-77.47527</latlng><pop>37821</pop><geoID>4771401</geoID>
+T5	Location 11224 11226	VA
+#5	AnnotatorNotes T5	<latlng>37.54812,-77.44675</latlng><pop>7642884</pop><geoID>6254928</geoID>
+T53	Location 11854 11866	Indianapolis
+#53	AnnotatorNotes T53	<latlng>39.76838,-86.15804</latlng><pop>829718</pop><geoID>4259418</geoID>
+T6	Location 11868 11870	IN
+#6	AnnotatorNotes T6	<latlng>40.00032,-86.25027</latlng><pop>6265933</pop><geoID>4921868</geoID>
+T28	Protein 11879 11888	Influenza
+#28	AnnotatorNotes T28	BEGIN
+T29	Protein 11986 11992	e76708
+#29	AnnotatorNotes T29	END
+T55	Location 12552 12564	Indianapolis
+#55	AnnotatorNotes T55	<latlng>39.76838,-86.15804</latlng><pop>829718</pop><geoID>4259418</geoID>
+T7	Location 12566 12568	IN
+#7	AnnotatorNotes T7	<latlng>40.00032,-86.25027</latlng><pop>6265933</pop><geoID>4921868</geoID>
+T9	Location 13042 13048;13049 13052	Santa Ana
+#9	AnnotatorNotes T9	<latlng>33.74557,-117.86783</latlng><pop>324528</pop><geoID>5392900</geoID>
+T8	Location 13054 13056	CA
+#8	AnnotatorNotes T8	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T61	Location 13620 13630	Coralville
+#61	AnnotatorNotes T61	<latlng>41.6764,-91.58045</latlng><pop>18907</pop><geoID>4852640</geoID>
+T10	Location 13632 13634	IA
+#10	AnnotatorNotes T10	<latlng>42.00027,-93.50049</latlng><pop>2955010</pop><geoID>4862182</geoID>
+T62	Location 14376 14389	Buffalo Grove
+#62	AnnotatorNotes T62	<latlng>42.15141,-87.95979</latlng><pop>41496</pop><geoID>4885955</geoID>
+T11	Location 14391 14393	IL
+#11	AnnotatorNotes T11	<latlng>40.00032,-89.25037</latlng><pop>12772888</latlng><geoID>4896861</geoID>
+T63	Location 14543 14553	Burlingame
+#63	AnnotatorNotes T63	<latlng>37.5841,-122.36608</latlng><pop>28806</pop><geoID>5331920</geoID>
+T12	Location 14555 14557	CA
+#12	AnnotatorNotes T12	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T64	Location 14700 14709	Littleton
+#64	AnnotatorNotes T64	<latlng>39.61332,-105.01665</latlng><pop>41737</pop><geoID>5429032</geoID>
+T13	Location 14711 14713	CO
+#13	AnnotatorNotes T13	<latlng>39.00027,-105.50083</latlng><pop>4678630</pop><geoID>5417618</geoID>
+T67	Location 14761 14769	San Jose
+#67	AnnotatorNotes T67	<latlng>37.33939,-121.89496</latlng><pop>945942</pop><geoID>5392171</geoID>
+T14	Location 14771 14773	CA
+#14	AnnotatorNotes T14	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T68	Location 14814 14823	San Diego
+#68	AnnotatorNotes T68	<latlng>33.0282, -116.77021</latlng><geoID>5391832</geoID><pop>3095313</pop>
+T15	Location 14825 14827	CA
+#15	AnnotatorNotes T15	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T70	Location 14926 14936	Birmingham
+#70	AnnotatorNotes T70	<latlng>33.52066,-86.80249</latlng><pop>212237</pop><geoID>4049979</geoID>
+T16	Location 14938 14940	AL
+#16	AnnotatorNotes T16	<latlng>32.75041,-86.75026</latlng><pop>4530315</pop><geoID>4829764</geoID>
+T74	Location 15107 15118	Saint Louis
+#74	AnnotatorNotes T74	<latlong>38.62727, -90.19789</latlong><geoID>4407084</geoID><pop>319294</pop>
+T17	Location 15120 15122	MO
+#17	AnnotatorNotes T17	<latlng>38.25031,-92.50046</latlng><pop>5768151</pop><geoID>4398678</geoID>
+T75	Location 16040 16051	Minneapolis
+#75	AnnotatorNotes T75	<latlng>44.97997,-93.26384</latlng><pop>382578</pop><geoID>5037649</geoID>
+T18	Location 16053 16055	MN
+#18	AnnotatorNotes T18	<latlng>46.25024,-94.25055</latlng><pop>5141953</pop><geoID>5037779</geoID>
+T76	Location 16228 16239	Santa Clara
+#76	AnnotatorNotes T76	<latlng>37.23249,-121.69627</latlng><pop>1781642</pop><geoID>5393021</geoID>
+T19	Location 16242 16244	CA
+#19	AnnotatorNotes T19	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T77	Location 16367 16377	Rocky Hill
+#77	AnnotatorNotes T77	<latlng>40.39983,-74.63432</latlng><pop>682</pop><geoID>5103424</geoID>
+T20	Location 16379 16381	NJ
+#20	AnnotatorNotes T20	<latlng>40.16706,-74.49987</latlng><pop>8751436</pop><geoID>5101760</geoID>
+T79	Location 16528 16540	Grand Island
+#79	AnnotatorNotes T79	<latlng>43.03311,-78.96254</latlng><pop>0</pop><geoID>5119019</geoID>
+T21	Location 16542 16544	NY
+#21	AnnotatorNotes T21	<latlng>43.00035,-75.4999</latlng><pop>19274244</pop><geoID>5128638</geoID>
+T81	Location 16747 16757	Huntsville
+#81	AnnotatorNotes T81	<latlng>34.73037,-86.5861</latlng><pop>180105</pop><geoID>4068590</geoID>
+T22	Location 16759 16761	AL
+#22	AnnotatorNotes T22	<latlng>32.75041,-86.75026</latlng><pop>4530315</pop><geoID>4829764</geoID>
+T83	Location 17138 17146	La Jolla
+#83	AnnotatorNotes T83	<latlng>32.84727,-117.2742</latlng><pop>42808</pop><geoID>5363943</geoID>
+T24	Location 17148 17150	CA
+#24	AnnotatorNotes T24	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T30	Protein 17917 17926	Influenza
+#30	AnnotatorNotes T30	BEGIN
+T31	Protein 18024 18030	e76708
+#31	AnnotatorNotes T31	END
+T32	Protein 24289 24298	Influenza
+#32	AnnotatorNotes T32	BEGIN
+T34	Protein 24396 24402	e76708
+#34	AnnotatorNotes T34	END
+T36	Protein 24979 24982	doi
+#36	AnnotatorNotes T36	BEGIN
+T38	Protein 25126 25132	e76708
+#38	AnnotatorNotes T38	END
+T39	Protein 29435 29438	doi
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 29582 29588	e76708
+#40	AnnotatorNotes T40	END
+T41	Protein 31348 31351	doi
+#41	AnnotatorNotes T41	BEGIN
+T42	Protein 31382 31386	g003
+#42	AnnotatorNotes T42	END
+T89	Location 33258 33261	USA
+#89	AnnotatorNotes T89	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T43	Protein 34689 34698	Influenza
+#43	AnnotatorNotes T43	BEGIN
+T45	Protein 34796 34802	e76708
+#45	AnnotatorNotes T45	END
+T46	Protein 35352 35355	doi
+#46	AnnotatorNotes T46	BEGIN
+T47	Protein 35499 35505	e76708
+#47	AnnotatorNotes T47	END
+T48	Protein 36695 36698	doi
+#48	AnnotatorNotes T48	BEGIN
+T49	Protein 36729 36733	g005
+#49	AnnotatorNotes T49	END
+T50	Protein 38778 38781	doi
+#50	AnnotatorNotes T50	BEGIN
+T52	Protein 38925 38931	e76708
+#52	AnnotatorNotes T52	END
+T54	Protein 39783 39786	doi
+#54	AnnotatorNotes T54	BEGIN
+T56	Protein 39817 39821	g007
+#56	AnnotatorNotes T56	END
+T57	Protein 43316 43325	Influenza
+#57	AnnotatorNotes T57	BEGIN
+T58	Protein 43424 43430	e76708
+#58	AnnotatorNotes T58	END
+T1	Protein 46575 46591	Acknowledgements
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 58702 58708	e76708
+#2	AnnotatorNotes T2	END

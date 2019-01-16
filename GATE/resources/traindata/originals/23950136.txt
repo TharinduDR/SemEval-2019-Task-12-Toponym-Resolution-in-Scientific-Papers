@@ -1,0 +1,113 @@
+﻿Genome Sequence of a Reassortant H5N1 Avian Influenza Virus
+Isolated from Domestic Green-Winged Teal
+Chaochao Xiong, Qian Liu, Quanjiao Chen, Jianjun Chen
+Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China
+An avian influenza virus strain, A/domestic green-winged teal/Hunan/3450/2006(H5N1) (DGW-T3450), was isolated from do-
+mestic green-winged teals. Genome analysis demonstrated that DGW-T3450 is a novel reassortant strain. The hemagglutinin
+(HA) and neuraminidase (NA) genes of this strain originated from H5N1 viruses circulating in poultry, while its remaining
+genes are derived from multiple ancestors, including viruses like those that infect wild birds.
+Received 18 July 2013 Accepted 22 July 2013 Published 15 August 2013
+Citation Xiong C, Liu Q, Chen Q, Chen J. 2013. Genome sequence of a reassortant H5N1 avian influenza virus isolated from domestic green-winged teal. Genome Announc.
+1(4):e00639-13. doi:10.1128/genomeA.00639-13.
+Copyright © 2013 Xiong et al. This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 Unported license.
+Address correspondence to Jianjun Chen, chenjj126@126.com.
+H5N1 highly pathogenic avian influenza (HPAI) viruses have
+seriously affected the Asian poultry industry since their re-
+currence in 2003. In a previous study, we isolated two H5N1 viral
+strains, closely related to viruses circulating in chickens and ducks,
+from apparently healthy domestic green-winged teals (1). These
+results suggested that domestic green-winged teals, a type of wild
+duck bred for meat, may play an important role in the transmis-
+sion of avian influenza virus.
+In this study, an H5N1 virus, designated A/domestic green-
+winged teal/Hunan/3450/2006 (DGW-T3450), was isolated from
+domestic green-winged teals. We carried out reverse transcription
+(RT)-PCR using universal primers for influenza A virus and se-
+quenced the entire viral genome (2). The full lengths of the gene
+segments are as follows: hemagglutinin (HA) gene, 1,776 nucleo-
+tides (nt); neuraminidase (NA) gene, 1,398 nt; nucleoprotein
+(NP) gene, 1,565 nt; polymerase PB1 and PB2 genes, 2,341 nt each;
+polymerase acidic protein (PA) gene, 2,233 nt; matrix (M) gene,
+1,027 nt; and nonstructural (NS) protein gene, 890 nt.
+Sequence analysis revealed that the nucleotide sequence of the
+HA gene of DGW-T3450 is homologous to that of the already
+identified strain A/environment/Hunan/1-8/2007(H5N1), shar-
+ing 99% nucleotide homology, while the NA gene sequence
+is most closely related to that of A/chicken/Sichuan/81/
+2005(H5N1). The NP gene nucleotide sequence shares approxi-
+mately 98% identity with that of H8N4 A/duck/Yangzhou/02/
+2005(H8N4). The PB1 and PB2 gene fragments are most closely
+related to H6N2 isolate A/duck/Guizhou/2773/2006(H6N2) and
+H6N2 isolate A/duck/Guizhou/1088/2007(H6N2), respectively,
+with both sharing 99% nucleotide identity. The PA and M genes
+share the greatest DNA sequence identities (over 99%) with H7N7
+isolate A/mallard/Korea/GH170/2007(H7N7) and H3N6 isolate
+A/red crested pochard/Mongolia/1915/2006(H3N6), respec-
+tively. The NS gene nucleotide sequence is 99% similar to that of
+the H3N1 isolate A/whooper swan/Mongolia/1-21/2007(H3N1).
+These results indicate that the DGW-T3450 virus is a novel reas-
+sortant H5N1 virus, with its HA and NA genes derived from H5N1
+viruses circulating in poultry and its remaining genes originating
+from multiple ancestors, including viruses like those that infect
+wild birds.
+Based on the deduced amino acid sequence of the HA gene,
+DGW-T3450 possesses multiple basic amino acids at the connect-
+ing peptide between HA1 and HA2 (RRRGKR/G), a signal of high
+pathogenicity in chickens (3). The receptor-binding pocket re-
+tains the amino acid residues 222Gln and 224Gly in HA1, indicat-
+ing an 2,3-linked sialic acid preference and a greater likelihood of
+avian infectivity (1, 4). No 627Lys or 701Asn mutations, which are
+associated with high virulence in mice (5, 6), are found in PB2. In
+addition, no 5-amino-acid (aa) deletion is present in the middle of
+the NS protein as in the dominant H5N1 found in southern
+China. The absence of an His274Tyr mutation in the DGW-T3450
+NA protein indicates that DGW-T3450 may be sensitive to neur-
+aminidase inhibitors (7).
+In summary, DGW-T3450 is a novel reassortant avian influ-
+enza virus with its gene constellation derived from multiple an-
+cestors, including viruses like those that infect wild birds. These
+results highlight the importance of surveillance at live poultry
+markets.
+Nucleotide sequence accession numbers. The genome se-
+quences of A/domestic green-winged teal/Hunan/3450/2006(H5N1)
+have been deposited in GenBank under accession num-
+bers KC690153 to KC690160.
+ACKNOWLEDGMENTS
+This study was supported by the following research funds: National 973
+Project (2010CB530301); National Natural Science Foundation of China
+(310000088); Foundation for Study Encouragement to Young Scien-
+tists, Chinese Academy of Sciences (KSCX2-EW-J-19); and the Ministry
+of Science and Technology Special Project (2013FY113500).
+REFERENCES
+1. Chen J, Yang Z, Chen Q, Liu X, Fang F, Chang H, Li D, Chen Z. 2009.
+Characterization of H5N1 influenza A viruses isolated from domestic
+green-winged teal. Virus Genes 38:66­73.
+2. Hoffmann E, Stech J, Guan Y, Webster RG, Perez DR. 2001. Universal
+primer set for the full-length amplification of all influenza A viruses. Arch.
+Virol. 146:2275­2289.
+Genome Announcements
+July/August 2013 Volume 1 Issue 4 e00639-13 genomea.asm.org 1
+3. Senne DA, Panigrahy B, Kawaoka Y, Pearson JE, Suss J, Lipkind M, Kida
+H, Webster RG. 1996. Survey of the hemagglutinin (HA) cleavage site
+sequence of H5 and H7 avian influenza viruses: amino acid sequence at the
+HA cleavage site as a marker of pathogenicity potential. Avian Dis. 40:
+425­437.
+4. Ha Y, Stevens DJ, Skehel JJ, Wiley DC. 2001. X-ray structures of H5 avian
+and H9 swine influenza virus hemagglutinins bound to avian and human
+receptor analogs. Proc. Natl. Acad. Sci. U. S. A. 98:11181­11186.
+5. Hatta M, Gao P, Halfmann P, Kawaoka Y. 2001. Molecular basis for high
+virulence of Hong Kong H5N1 influenza A viruses. Science 293:1840­1842.
+6. Li KS, Guan Y, Wang J, Smith GJ, Xu KM, Duan L, Rahardjo AP,
+Puthavathana P, Buranathai C, Nguyen TD, Estoepangestie AT, Chais-
+ingh A, Auewarakul P, Long HT, Hanh NT, Webby RJ, Poon LL, Chen
+H, Shortridge KF, Yuen KY, Webster RG, Peiris JS. 2004. Genesis of a
+highly pathogenic and potentially pandemic H5N1 influenza virus in east-
+ern Asia. Nature 430:209­213.
+7. Li Z, Chen H, Jiao P, Deng G, Tian G, Li Y, Hoffmann E, Webster RG,
+Matsuoka Y, Yu K. 2005. Molecular basis of replication of duck H5N1
+influenza viruses in a mammalian mouse model. J. Virol. 79:
+12058­12064.
+Xiong et al.
+Genome Announcements
+2 genomea.asm.org July/August 2013 Volume 1 Issue 4 e00639-13
+

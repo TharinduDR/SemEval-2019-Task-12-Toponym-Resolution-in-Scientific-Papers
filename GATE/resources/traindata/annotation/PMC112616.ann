@@ -1,0 +1,120 @@
+T1	Protein 0 7	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 154 155	.
+#2	AnnotatorNotes T2	END
+T3	Protein 279 283	OLLI
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1045 1049	1999
+#4	AnnotatorNotes T4	END
+T5	Protein 6148 6149	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6365 6369	5586
+#6	AnnotatorNotes T6	END
+T7	Protein 14003 14006	VOL
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 14070 14074	5587
+#8	AnnotatorNotes T8	END
+T9	Protein 20226 20230	5588
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 20256 20257	.
+#10	AnnotatorNotes T10	END
+T11	Protein 22123 22126	VOL
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 22190 22194	5589
+#12	AnnotatorNotes T12	END
+T13	Protein 24541 24545	5590
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 24571 24572	.
+#14	AnnotatorNotes T14	END
+T15	Protein 29973 29988	ACKNOWLEDGMENTS
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 41009 41010	.
+#16	AnnotatorNotes T16	END
+T18	Location 1144 1154;1155 1160	Topografov River
+#18	AnnotatorNotes T18	<latlng>76.60072, 111.50649</latlng>><geoID>NA</geoID>
+T19	Location 3131 3139;3140 3146	northern Europe
+#19	AnnotatorNotes T19	<latlng>61.68987, 2.90039</latlng><geoID>7729883 </geoID> <pop> 99000000 </pop>
+T20	Location 3495 3501	Norway
+#20	AnnotatorNotes T20	<latlng>62, 10</latlng><geoID>3144096</geoID><pop>5009150</pop>
+T21	Location 3503 3509	Sweden
+#21	AnnotatorNotes T21	<latlng>62, 15</latlng><geoID>2661886 </geoID><pop>9828655</pop>
+T22	Location 3511 3518	Finland
+#22	AnnotatorNotes T22	<latlng>64, 26</latlng><geoID> 660013</geoID><pop>5244000</pop>
+T23	Location 3542 3548	Russia
+#23	AnnotatorNotes T23	<latlng>60, 100</latlng><geoID> 2017370</geoID><pop>140702000</pop>
+T24	Location 3641 3657	Taymyr Peninsula
+#24	AnnotatorNotes T24	<latlng>75.36117, 107.69475</latlng><geoID>2015435 </geoID>
+T25	Location 3801 3805	Lena
+#25	AnnotatorNotes T25	Lena River <latlng>71.1311, 127.5261</latlng><geoID>NA</geoID>
+T26	Location 3813 3819	Kolyma
+#26	AnnotatorNotes T26	Kolyma River <latlng>69.5, 161</latlng><geoID>2124398 </geoID>
+T27	Location 3891 3897	Alaska
+#27	AnnotatorNotes T27	<latlng>64.00028, -150.00028</latlng><geoID>5879092 </geoID><pop>660633</pop>
+T28	Location 3661 3667	Russia
+#28	AnnotatorNotes T28	<latlng>60, 100</latlng><geoID> 2017370</geoID><pop>140702000<pop>
+T30	Location 4323 4330	Siberia
+#30	AnnotatorNotes T30	<latlng>60, 100</latlng><geoID>2016590</geoID>
+T31	Location 5702 5709	Siberia
+#31	AnnotatorNotes T31	<latlng>60, 100</latlng><geoID>2016590</geoID>
+T32	Location 6929 6934	Finse
+#32	AnnotatorNotes T32	Finse, Norway <latlng>60.6, 7.5</latlng><geoID>3157520 </geoID>
+T34	Location 9533 9542	Fairbanks
+#34	AnnotatorNotes T34	<latlng>64.83778, -147.71639</latlng><geoID>5861897 </geoID><pop>32325</pop>
+T35	Location 9766 9774	Berkeley
+#35	AnnotatorNotes T35	<latlng>37.86646, -122.29886</latlng><geoID>11788954</geoID>
+T36	Location 13595 13605	Lena River
+#36	AnnotatorNotes T36	<latlng>71.1311, 127.5261</latlng><geoID>NA</geoID>
+T37	Location 13657 13661	Lena
+#37	AnnotatorNotes T37	<latlng>71.1311, 127.5261</latlng><geoID>NA</geoID>
+T38	Location 13666 13672	Kolyma
+#38	AnnotatorNotes T38	Kolyma River <latlng>69.5, 161</latlng><geoID>2124398 </geoID>
+T39	Location 13758 13770	Kolyma River
+#39	AnnotatorNotes T39	<latlng>69.5, 161</latlng><geoID>2124398 </geoID>
+T44	Location 16068 16084	Topografov River
+#44	AnnotatorNotes T44	<latlng>76.60072, 111.50649</latlng><geoID>NA</geoID>
+T45	Location 25035 25040	Japan
+#45	AnnotatorNotes T45	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID><pop>126672000</pop>
+T46	Location 25044 25051	Belgium
+#46	AnnotatorNotes T46	<latlng>50.833333, 4</latlng><geoID>2802361 </geoID><pop>11303528</pop>
+T47	Location 25475 25487	Fennoscandia
+#47	AnnotatorNotes T47	<latlng>63, 17</latlng><geoID>2622229 </geoID>
+T48	Location 26496 26502	Europe
+#48	AnnotatorNotes T48	<latlng>48.69096, 9.14062</latlng><geoID> 6255148</geoID>
+T49	Location 26577 26581	Asia
+#49	AnnotatorNotes T49	<latlng>29.84064, 89.29688</latlng><geoID> 6255147</geoID><pop>3812366000</pop>
+T51	Location 29111 29123	Fennoscandia
+#51	AnnotatorNotes T51	<latlng>63, 17</latlng><geoID>2622229 </geoID>
+T52	Location 29755 29767	Fennoscandia
+#52	AnnotatorNotes T52	<latlng>63, 17</latlng><geoID>2622229 </geoID>
+T17	Location 1168 1184	Taymyr Peninsula
+#17	AnnotatorNotes T17	<latlng>75.36117, 107.69475</latlng><geoID>2015435 </geoID>
+T53	Location 1186 1193	Siberia
+T29	Location 4241 4246	Salla
+#29	AnnotatorNotes T29	<latlng>66.83333, 28.66667</latlng><geoID>638074 </geoID><pop>4401<pop>
+T54	Location 4248 4255	Finland
+#53	AnnotatorNotes T54	<latlng>64, 26</latlng><geoID> 660013</geoID><pop>5244000</pop>
+T55	Location 6936 6942	Norway
+#54	AnnotatorNotes T55	<latlng>62, 10</latlng><geoID>3144096</geoID><pop>5009150</pop>
+T33	Location 8206 8217	Foster City
+#33	AnnotatorNotes T33	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T56	Location 8219 8224	Calif
+#55	AnnotatorNotes T56	<latlng> 37.25022, -119.75126 </latlng><geoID> 5332921</geoID> <pop>37691912</pop>
+T40	Location 13865 13870	Finse
+#40	AnnotatorNotes T40	<latlng>60.6, 7.5</latlng><geoID> 3157520</geoID>
+T41	Location 13916 13921	Salla
+#41	AnnotatorNotes T41	<latlng>66.83333, 28.66667</latlng><geoID>638074 </geoID><pop>4401</pop>
+T57	Location 13872 13878	Norway
+#56	AnnotatorNotes T57	<latlng>62, 10</latlng><geoID> 3144096</geoID><pop>5009150</pop>
+T58	Location 13923 13930	Finland
+#57	AnnotatorNotes T58	<latlng>64, 26</latlng><geoID> 660013</geoID><pop>5244000</pop>
+T43	Location 15436 15441	Finse
+#43	AnnotatorNotes T43	<latlng>60.6, 7.5</latlng><geoID>3157520 </geoID>
+T59	Location 15443 15449	Norway
+#58	AnnotatorNotes T59	<latlng>62, 10</latlng><geoID> 3144096</geoID><pop>5009150</pop>
+T50	Location 28520 28525	Salla
+#50	AnnotatorNotes T50	<latlng>66.83333, 28.66667</latlng><geoID>638074 </geoID><pop>4401</pop>
+T60	Location 28527 28534	Finland
+#59	AnnotatorNotes T60	<latlng> 64, 26 </latlng><geoID> 660013</geoID> <pop> 5244000 </pop>
+#60	AnnotatorNotes T53	<latlng>61.037, 99.1967</latlng><geoID>NA</geoID>
+T42	Location 15315 15326;15327 15333	Taymyr Pen- insula
+#42	AnnotatorNotes T42	<latlng>75.36117, 107.69475</latlng><geoID>2015435 </geoID>

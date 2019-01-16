@@ -1,0 +1,56 @@
+T161	Protein 1 5	FEBS
+#161	AnnotatorNotes T161	BEGIN
+T162	Protein 75 86	febsopenbio
+#162	AnnotatorNotes T162	END
+T163	Protein 202 210	Tadanobu
+#163	AnnotatorNotes T163	BEGIN
+T164	Protein 1348 1357	Sialidase
+#164	AnnotatorNotes T164	END
+T4	Protein 1981 1982	c
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 2072 2081	reserved.
+#5	AnnotatorNotes T5	END
+T33	Location 2209 2218	Hong Kong
+#33	AnnotatorNotes T33	<latlng>22.25,114.1667</latlng><geoID>1819729</geoID>
+T34	Location 2321 2330	Indonesia
+#34	AnnotatorNotes T34	<latlng>-5,120</latlng><geoID>1643084</geoID>
+T35	Location 2332 2340	Viet Nam
+#35	AnnotatorNotes T35	<latlng>16,106</latlng><geoID>1562822</geoID>
+T36	Location 2346 2351	Egypt
+#36	AnnotatorNotes T36	<latlng>27,30</latlng><geoID>357994</geoID>
+T6	Protein 3151 3152	*
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 3694 3707	(Y. Kawaoka).
+#7	AnnotatorNotes T7	END
+T8	Protein 5312 5316	2211
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 5532 5539	261­266
+#9	AnnotatorNotes T9	END
+T57	Location 6850 6857	Madison
+#57	AnnotatorNotes T57	<latlng>43.07305,-89.40123</latlng><pop>233209</pop><geoID>5261457</geoID>
+T1	Location 6859 6861	WI
+#1	AnnotatorNotes T1	<latlng>44.50024,-90.00041</latlng><pop>5535168</pop><geoID>5279468</geoID>
+T59	Location 7413 7422	St. Louis
+#59	AnnotatorNotes T59	<latlng>38.62727,-90.19789</latlng><pop>319294</pop><geoID>4407066</geoID>
+T2	Location 7424 7426	MI
+#2	AnnotatorNotes T2	<latlng>38.25031,-92.50046</latlng><pop>5768151</pop><geoID>4398678</geoID>
+T3	Location 7671 7674;7675 7683	M¨ annedorf
+#3	AnnotatorNotes T3	<latlng>47.25965,8.69981</latlng><pop>10470</pop><geoID>7286430</geoID>
+T60	Location 7685 7696	Switzerland
+#60	AnnotatorNotes T60	<latlng>47,8</latlng><geoID>2658434</geoID>
+T14	Protein 13261 13269	Tadanobu
+#14	AnnotatorNotes T14	BEGIN
+T15	Protein 13320 13323	263
+#15	AnnotatorNotes T15	END
+T10	Protein 13849 13852	264
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 13904 13911	261­266
+#11	AnnotatorNotes T11	END
+T12	Protein 14316 14324	Tadanobu
+#12	AnnotatorNotes T12	BEGIN
+T13	Protein 14375 14378	265
+#13	AnnotatorNotes T13	END
+T165	Protein 19599 19614	Acknowledgments
+#165	AnnotatorNotes T165	BEGIN
+T166	Protein 23737 23738	.
+#166	AnnotatorNotes T166	END

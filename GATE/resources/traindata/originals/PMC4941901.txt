@@ -1,0 +1,945 @@
+Genetic diversity of swine influenza viruses isolated
+from pigs during 2000 to 2005 in Thailand
+Nobuhiro Takemae,a,b
+Sujira Parchariyanon,c
+Sudarat Damrongwatanapokin,c
+Yuko Uchida,a,b
+Ruttapong Ruttanapumma,c
+Chiaki Watanabe,a,b
+Shigeo Yamaguchi,a
+Takehiko Saitoa,b
+a
+Thailand-Japan Zoonotic Diseases Collaboration Center, Bangkok, Thailand. b
+Research Team for Zoonotic Diseases, National Institute of Animal
+Health, National Agriculture and Food Research Organization (NARO), Ibaraki, Japan. c
+National Institute of Animal Health, Bangkok, Thailand.
+Correspondence address: Takehiko Saito, Research Team for Zoonotic Diseases, National Institute of Animal Health, National Agriculture and Food
+Research Organization (NARO), 3-1-5 Kannondai, Tsukuba, Ibaraki 305-0856, Japan. E-mail:taksaito@affrc.go.jp
+Accepted 21 October 2008. Published Online 20 November 2008.
+Background Recent studies have revealed the existence of genetic
+diversity in swine influenza viruses (SIVs) in the world. In
+Thailand, there has been a little information on the molecular
+characteristics of the SIVs since the first isolation of viruses of
+H1N1 and H3N2 subtypes in the late 1970s. Our previous study
+demonstrated that Thai H1N1 SIVs possessed the classical swine
+H1 and avian-like swine N1 genes (Takemae et al., Proceedings of
+the Options for the Control of Influenza VI.2007;350–353).
+Objectives In the present study, we genetically characterized 12
+SIVs including those of H1N1, H1N2 and H3N2 subtypes isolated
+between 2000 and 2005.
+Methods We determined the entire nucleotide sequences of the
+eight gene segments of those isolates.
+Results Phylogenetic analysis revealed the existence of nine
+distinct genotypes amongst the Thai SIVs. These genotypes arose
+from multiple introductions of classical swine, avian-like swine
+and human viruses. The existence of two distinct sublineages
+within classical swine H1 and NS, avian-like swine PA and M and
+human H3 and N2 genes of the Thai SIVs suggested that
+introduction of viruses of classical swine, avian-like swine and
+human origins occurred twice respectively into the Thai pig
+population. The predominance of avian-like swine genes amongst
+the Thai SIVs was evident. In particular, three polymerase (PB1,
+PB2 and PA) and matrix genes of avian-like swine origin were
+retained in all the Thai SIVs examined.
+Conclusions These observations may suggest that genes of avian-
+like swine lineages have some advantages to be maintained in pigs
+as seen in the SIVs established through multiple introductions in
+other regions.
+Keywords Genetic diversity, influenza virus, pig, Thailand.
+Please cite this paper as: Takemae et al. (2008). Genetic diversity of swine influenza viruses isolated from pigs during 2000 to 2005 in Thailand. Influenza
+and Other Respiratory Viruses 2(5), 181–189.
+Introduction
+Swine influenza was first described in the United States in
+1918 when the Spanish Flu pandemic occurred in the
+human population.1,2
+Typical clinical signs in pigs are respi-
+ratory diseases with fever, coughing and nasal discharge, as
+in humans. Anorexia and diarrhoea that are directly associ-
+ated with reducing body weight are also occasionally
+involved.3
+These signs may result in serious economic losses
+when pigs are raised and fattened on farms. Thus, although
+swine influenza results in low mortality, it has been recog-
+nized as an important pathogen in the swine industry.2
+Recent genetic and antigenetical analyses have revealed
+complicated features of the evolutionary diversity of swine
+influenza viruses (SIVs). In Europe, H3N2 viruses possess-
+ing genes encoding internal proteins related to avian-like
+swine H1N1 and surface antigens related to human H3N2
+viruses were isolated from Italian pigs in the 1980s and con-
+tinued to circulate in Italian pigs since then.4,5
+In 1998, at
+least two different genotypes of SIV of the H3N2 subtype
+emerged amongst the pig population in the USA by the
+introduction of human, classical swine and avian viruses6
+and one of them has established new lineage in North
+America.7
+In addition to those, SIVs of the H4N6 subtype
+were isolated from pigs in Canada,8
+and SIVs of the H9N2
+subtype have been reported to circulate in China.9,10
+The
+segmented nature of the influenza genome and receptor
+molecules in the swine respiratory tract contributes to such
+evolutionary diversity of SIVs.1
+This segmented nature
+enables influenza viruses to exchange their genes when
+viruses of two or more different origins infect a host at the
+same time. The existence of 2-3 and 2-6 linked sialic acid in
+the swine respiratory tract allows type A influenza viruses of
+human and avian origin to infect pigs.11
+DOI:10.1111/j.1750-2659.2008.00062.x
+www.blackwellpublishing.com/influenza
+Original Article
+ª 2008 The Authors
+Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189 181
+The pig industry in Thailand has developed as one of
+the major livestock industries since 1970s. Production of
+pig meat in Thailand had tripled in the 37 years from 1971
+to 2006.12
+The number of pig farms including breeding
+and fattening farm also has increased about four times in
+the last decade.13
+About 34 000 pig farms were scattered
+throughout the country in 2006, in which over 70% was
+dominated by small farms having 10–50 pigs; large produc-
+ers having more than 500 pigs were only 6%.13
+Although SIVs of H1N1 and H3N2 subtypes were first
+isolated in the 1970s in Thailand,14,15
+little information on
+SIVs had been obtained in Thailand until recently. Contin-
+uous surveillance by the National Institute of Animal
+Health in Thailand since 2000 demonstrated the co-circula-
+tion of three subtypes, H1N1, H1N2 and H3N2, amongst
+the swine population in Thailand,16
+raising the possibility
+that evolutionary diversity of SIVs may exist in Thailand as
+seen in other region of the world. Our previous phylo-
+genetic study demonstrated that H1N1 Thai isolates pos-
+sessed an evolutionarily distinct set of surface antigens, that
+was the H1 gene derived from the classical swine lineage
+and the N1 gene from the avian-like swine lineage,17
+this
+finding has been also supported by Chutinimitku et al.18
+In
+order to explore the extent of the genetic diversity, we
+determined the whole sequences of all eight gene segments
+of the Thai strains isolated between 2000 and 2005, consist-
+ing of one H1N1 strain and five strains of the H3N2 sub-
+type as well as all gene segments encoding internal proteins
+of five H1N1 and one H1N2 strains whose surface antigen
+genes were sequenced in our previous study.17
+Phylogenetic
+and regression analyses were applied to those sequences to
+identify the genetic origin and the genetic relationship
+between the Thai isolates and other SIVs circulating in the
+world and to elucidate the evolutional pathways of the Thai
+isolates.
+Materials
+Viruses
+Nasal swabs of pigs have been periodically collected from
+the farms mainly in the central regions of Thailand by
+the National Institute of Animal Health, Thailand since
+2000. All the 12 viruses available at the National Institute
+of Animal Health, Thailand, which were isolated from six
+provinces of Thailand between 2000 and 2005 were
+subjected to the study. They included six H1N1 isolates
+designated as A ⁄ Sw⁄ Ratchaburi ⁄ NIAH1481⁄ 00(Rat1481),
+A ⁄Sw⁄ Ratchaburi ⁄ NIAH550⁄ 03(Rat550), A⁄ Sw⁄ Chonburi ⁄
+NIAH977 ⁄ 04(Chon977), A ⁄ Sw ⁄ Chonburi ⁄ NIAH9469 ⁄ 04
+(Chon9469), A⁄Sw⁄Chachonegsao⁄NIAH587⁄05(Chacho587)
+and A ⁄ Sw⁄ Chonburi ⁄ NIAH589⁄ 05(Chon589), one H1N2
+isolate designated as A ⁄ Sw⁄Saraburi ⁄ 13021⁄ 05(Sara13021)
+and five H3N2 isolates designated as A ⁄ Sw⁄ Chachoengsao ⁄
+03(Chacho03), A⁄ Sw⁄ Udon Thani ⁄ NIAH464⁄ 04(UT464),
+A ⁄ Sw⁄Ratchaburi ⁄NIAH59 ⁄ 04(Rat59), A⁄ Sw⁄ Ratchaburi ⁄
+NIAH874⁄ 05(Rat874) and A ⁄ Sw⁄ Nakhon Pathom⁄
+NIAH586-1 ⁄ 05(NP586-1). Subtypes of these viruses were
+identified by a standard polymerase chain reaction (PCR)
+method with subtype-specific primers designed in this
+study. Rat1481, Chon977, Chon9469, UT464 and Rat59
+were isolated from pigs showing respiratory diseases with
+coughing and ⁄ or sneezing. Low appetite and ⁄ or diarrhoea
+were recorded in the pigs from which Rat1481 and
+Chon9469 were isolated. Viruses were propagated in allan-
+toic cavities of embryonated eggs.
+DNA sequencing and analyses
+The entire nucleotide sequences of the coding region were
+determined for all eight genes of each virus. Viral RNA
+was extracted from infectious allantoic fluid by using
+MagNA Pure LC (Roche Diagnostics Corp., Basel, Swit-
+zerland) as specified by the manufacturer. Reverse tran-
+scription-polymerase chain reaction (RT-PCR) was carried
+out under standard conditions with specific primers
+designed for this study. PCR products were purified from
+agarose gels using the QIAquick Gel Extraction Kit (Qia-
+gen, Hilden, Germany). Purified products were subjected
+to sequence reactions with gene-specific primers using Big
+Dye terminator version 3Æ1 (Applied Biosystems, Foster
+City, CA, USA). Reactions were analysed by the ABI
+model 3130 DNA sequencer (Applied Biosystems, USA).
+The sequences obtained in this study along with other
+sequences from humans, pigs, birds and equines available
+from GenBank were aligned, and the gaps were removed
+using BioEdit software version 7Æ0Æ5Æ3.19
+Phylogenetic trees
+were constructed by the neighbour-joining method with
+1000-times bootstrapping replicates.20
+A total of 157 H1
+genes including the Thai SIVs examined in this study, 281
+H3, 186 N1, 294 N2, 128 PB2, 148 PB1, 145 M, 136 PA,
+423 NS and 167 NP were analysed. The genes from Gen-
+bank were collected from a variety of viruses isolated in
+different years and from different subtypes. The lengths of
+the nucleotide bases used were 1695bp for H1, 1611bp for
+H3, 1197bp for N1, 1242bp for N2, 2235bp for PB2,
+2154bp for PB1, 945bp for M, 2079bp for PA, 770bp for
+NS and 1459bp for NP respectively. Regression analysis by
+plotting the number of nucleotide substitutions against
+the year of isolation were applied to the clusters Thai
+SIVs belonging in all phylogenetic trees obtained with all
+eight segments to estimate the year (with a 95% confi-
+dence limit) when the strains within a particular cluster
+derived from a common ancestor. The coefficient of
+determination (R2
+) was used as a measure of the reliabil-
+ity of the estimation years. All of the sequences belonging
+to one particular lineage for each segment were used for
+regression analysis.
+Takemae et al.
+ª 2008 The Authors
+182 Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189
+Nucleotide sequence accession numbers
+The sequences determined in this study are available from
+GenBank under accession numbers AB434285–AB434380,
+AB434389–AB434420.
+Results
+Phylogenetic analysis of the H3 HA1 genes (Figure 1) and
+the N2 NA genes (Data not shown) revealed the existence
+of at least two distinct evolutional pathways in the human
+virus lineage, designated as clusters Ha and Hb respectively,
+amongst the Thai SIV isolates examined. Rat59 and Rat874
+belonged to the cluster Ha whereas Chacho03, UT464 and
+NP586-1 belonged to the cluster Hb (Table 1). The H3 Ha
+Thai isolates were closely related to a human virus isolated
+in Thailand in 1997 (Figure 1), suggesting that an ancestral
+Ha strain may have acquired an H3 HA gene from a
+human H3N2 strain circulating in the late 1990s. The H3
+Hb Thai isolates were estimated to have derived from a
+hypothetical common ancestor in 1976, which had acquired
+an H3 HA gene from a human-like H3N2 swine strain cir-
+culating in the early 1970s. Similar evolutional pattern was
+observed in the N2 tree (data not shown). N2 gene of the
+H1N2 isolate, Sara13021, which HA gene was of classical
+swine origin, also belonged to the cluster Hb. The branch
+points of common ancestors for those clusters of N2
+genes were estimated to be 1998 for Ha and 1976 for Hb
+respectively.
+Two distinct clusters of H1 HA genes of the Thai SIVs
+that were demonstrated in the classical swine lineage17
+were
+designated as Cla and Clb (Table 1). The Cla viruses
+(Rat550 and Rat1480) and the rest Clb H1 viruses were
+estimated to have derived from a hypothetical common
+ancestor in 1981 with 95% confidence limits at 1979 and
+1983 for Cla and in 1990 (95% confidence limit; 1988–
+1991) for Clb.
+PB2 (Figure 2) and N1 NA17
+genes of all the Thai SIVs
+formed a single cluster, designated as ALa within the avian-
+like swine lineage (Table 1). Regression analysis estimated
+that they were derived from a hypothetical common ances-
+tor in 1983 (95% confidence limit; 1981–1986) for N1, and
+1990 (95% confidence limit; 1988–1992) for PB2. The
+topologies of the Thai SIVs in those phylogenetic trees
+coincide with each other, providing supporting evidence
+for the single introduction of those genes. The PB1 gene of
+all the strains, except Rat59, showed a similar evolutional
+pathway to those seen in N1 and PB2 genes. They were
+derived from a hypothetical common ancestor in 1983
+(95% confidence limit; 1980–1987). The PB1 gene of Rat59
+was located in another cluster within the avian-like swine
+lineage, sharing a common ancestor with European swine
+viruses isolated between 1995 and 2004. Because of the low
+bootstrap value (52%) at the node where Rat59 and the
+other Thai isolates diverged, it was not clear whether or
+not the PB1 gene of Rat59 had been introduced in another
+occasion.
+M (Figure 3) and PA (data not shown) genes of the Thai
+isolates also belonged to the avian-like swine lineage. Fur-
+thermore, at least two distinct evolutional pathways clearly
+existed amongst the Thai isolates in both these genes. The
+one that diverged earlier was considered to be an equiva-
+lent of the ALa in the previous segments, and the other
+was designated as ALb (Table 1). The years of divergence
+of the ALa were estimated as 1990 (95% confidence limit;
+1988–1992) for the M gene and 1987 (95% confidence
+limit; 1985–1989) for the PA gene. Those for the ALb clus-
+ter were estimated as 2000 (95% confidence limit; 1999–
+2001) for the M gene and 1999 (95% confidence limit;
+1998–1999) for the PA gene. The cluster ALa of the PA
+gene was divided into two groups with a low bootstrap
+value (21%) at the node of the hypothetical common
+ancestor of that cluster. In addition, NP586-1 possessed M
+gene of ALa and PA gene of ALb.
+Nonstructural (NS) and nucleoprotein (NP) genes of the
+Thai SIVs were contained in both the classical swine lineage
+and the avian-like swine lineage (Figure 4 and Table 1).
+Furthermore, two distinct clusters were found within the
+classical swine NS lineage (Figure 4). One cluster, consist-
+ing of exclusively H3 isolates (Rat874, Rat59 and Cha-
+cho03), diverged from 1987 (95% confidence limit; 1986–
+1988), was suggested to be the cluster Cla. The other clus-
+ter including three H1 viruses (Sara13021, Chon977 and
+Chon9496), which diverged from 1986 (95% confidence
+limit; 1986–1987), appeared to be similar to that of the Clb
+H1 HA gene. NP586-1, instead of Rat59, clustered with
+Rat874 and Chacho03 within the classical swine lineage in
+the NP tree (data not shown). The similarity of the topol-
+ogy with the NS tree suggested that those three isolates
+share a common genetic origin with the cluster Cla. How-
+ever, the estimated year of origin of the NP Cla gene was
+older (1963; 95% confidence limit; 1955–1971) than that
+calculated for the NS and H1 Cla. This discrepancy was
+probably due to the low R2
+value for the estimation of the
+NP gene (R2
+= 0Æ488). All the NS genes of Thai isolates
+belonging to the avian-like swine lineage were considered
+to be the cluster ALa (Table 1). A common ancestor of the
+ALa strains was estimated to have occurred in 1985 (95%
+confidence limit; 1982–1988) for NS and 1989 (95% confi-
+dence limit; 1988–1990) for NP.
+Taken together, the existence of nine genotypes of the
+SIVs was evident in the Thai pig populations within the
+three subtypes examined (Table 1). All of the avian-like
+swine segments possessed by the Thai SIVs were closely
+related to the European avian-like swine lineage repre-
+sented by A ⁄ Swine ⁄ Arnsberg ⁄ 6554⁄ 79(H1N1),21
+but not
+to those found in the North American swine viruses
+Swine influenza virus in Thailand
+ª 2008 The Authors
+Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189 183
+Sw/Hong Kong/7220/00(N2)
+Chinese swine isolates (’99-’03)
+Sw/Guangdong/6/04(N2)
+Moscow/10/99(N2)
+Sw/Hong Kong/4361/99(N2)
+Sydney/5/97(N2)
+New York/501/97(N2)
+Sw /Finistere/127/99(N2)
+99
+Human and Swine isolates(‘99-’06)
+Sw /Finistere/127/99(N2)
+Sw/Korea/PZ72-1/06(N1)
+Sw/Korea/CN22/06(N1)
+Sw/Ratchaburi/NIAH59/04(N2)
+Sw/Ratchaburi/NIAH874/05(N2)
+Bangkok/1/97(N2)
+Thailand/79/97(N2)
+Thailand/78/97(N2)
+New York/584/96(N2)
+Thailand/94/96(N2)
+Sw/Ontario/00130/97(N2)
+New York/565/96(N2)
+99
+99
+99
+99
+97
+Cluster
+Ha
+Hong Kong swine isolates (’98)
+New
+Paris/896/97(N2)
+Memphis/24/95(N2)
+New York/609/95(N2)
+Vienna/47/96
+Beijing/32/92(N2)
+New York/712/93(N2)
+New York/733/94(N2)
+Nanchang/A2/94(N2)
+Nanchang/58/93(N2)
+99
+99
+98
+90
+North American swine and turkey isolates (’03-’05)
+North American swine isolates (’98-’99)
+Nanchang/58/93(N2)
+Hong Kong/14/92(N2)
+Beijing/353/89(N2)
+Hongkong/1/89(N2)
+Hong Kong/7/87(N2)
+Memphis/8/88(N2)
+Hong Kong/2/88(N2)
+Leningrad/360/86(N2)
+Mem/6/86 (N2)
+Sw/Karrenzien/2/87(N2)
+Hong Kong/5/83(N2)
+Hong Kong/6/85(N2)
+Philippines/2/82 (N2)
+98
+91
+93
+90
+Hong Kong/43/75(N2)
+Victoria/3/75(N2)
+Beijing/39/75(N2)
+Albany/1/1976(N2)
+98
+95
+Philippines/2/82
+Bangkok/1/79(N2)
+Hong Kong/45/80(N2)
+Sw/Taiwan/0408/04(N1)
+Albany/14/78(N2)
+98
+Human isolates (’77-’80) and etc.
+Human isolates (’76-’77) and etc.
+Human isolates (’74-’75)
+Bilthoven/5930/74(N2)
+Hong Kong/14/74(N2)
+Port Chalmers/73(N2)
+Hong Kong/49/74(N2)
+Hong Kong/33/73(N2)
+Albany/20/74(N2)
+Bilthoven/2600/75(N2)
+England/72(N2)
+Sw/Potsdam/35/82(N2)
+Sw/Leipzig/145/92(N2)
+Sw/Nakhon Pathom/NIAH586-1/05(N2)
+Human isolates (’72-’73)
+European
+and
+Hong
+Kong
+H3N2(N1)
+Swine
+viruses
+Cluster
+Hb
+Avian,
+equine
+H3
+lineage
+Sw/Ukkel/1/84(N2) Sw/Chachoengsao/03(N2)
+Sw/Udon Thani/NIAH464/05(N2)
+Sw/Hong Kong/5200/99(N2)
+Hong Kong/1774/99(N2)
+Sw/Hong Kong/7982/00(N2)
+Sw/Hong Kong/9745/01(N2)
+Sw/Hong Kong/1144/02(N2)
+Sw/Italy/1510/98(N2)
+Sw/Jena/5/96(N2)
+Sw/Bakum/8602/99(N2)
+Sw/Spain/33601/01(N2)
+Sw/Bakum/909/93
+Sw/Lohne/1/97(N2)
+99
+99
+93
+94
+94
+95
+99
+99
+Sw/Spain/39139/02(N2)
+Sw/Spain/54008/04(N2)
+Sw/Italy/66945/06(N1)
+97
+0·02
+Human isolates (’68-’77) and etc.
+Figure 1. Phylogenetic tree of H3 HA genes of human lineage using HA1 region. Bootstrap values of more than 90% are shown at the nodes. Thai
+isolates are indicated by . Sw represents swine.
+Takemae et al.
+ª 2008 The Authors
+184 Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189
+Table 1. Phylogenetic origin and cluster of each RNA segment*
+strain subtype HA NA PB2 PB1 PA M NP NS
+Sw ⁄ Ratchaburi ⁄ NIAH1481 ⁄ 00
+H1N1 Cla ALa ALa ALa ALa ALa ALa ALa
+Sw ⁄ Ratchaburi ⁄ NIAH550 ⁄ 03
+Sw ⁄ Chonburi ⁄ NIAH9469 ⁄ 04
+H1N1 Clb – – – ALb ALb – Clb
+Sw ⁄ Chonburi ⁄ NIAH977 ⁄ 04
+Sw ⁄ Chonburi ⁄ NIAH589 ⁄ 05
+H1N1 Clb – – – ALb ALb – –
+Sw ⁄ Chachoengsao ⁄ NIAH587 ⁄ 05
+Sw ⁄ Saraburi ⁄ NIAH13021 ⁄ 05 H1N2 Clb Hb – – – – – Clb
+Sw ⁄ Chachoengsao ⁄ 03 H3N2 Hb Hb – – – – Cla Cla
+Sw ⁄ Udon Thani ⁄ NIAH464 ⁄ 04 H3N2 Hb Hb – – – – – –
+Sw ⁄ Nakhon Pathom ⁄ NIAH586-1 ⁄ 05 H3N2 Hb Hb – – ALb – Cla –
+Sw ⁄ Ratchaburi ⁄ NIAH59 ⁄ 04 H3N2 Ha Ha – –**
+– – – Cla
+Sw ⁄ Ratchaburi ⁄ NIAH874 ⁄ 05 H3N2 Ha Ha – – – – Cla Cla
+*
+Phylogenetic origins that differ from A ⁄ Sw ⁄ Ratchaburi ⁄ NIAH1481 ⁄ 00 are shown. The small characters a and b after the origins represent the
+clusters designated in this study. Cl, AL and H stand for classical swine, avian-like swine and human origins respectively.
+**
+It was not clear whether another introduction had occurred or not.
+Sw/Chachoengsao/03 (H3N2)
+Sw/Udon Thani/NIAH464/04 (H3N2)
+Sw/Rathaburi/NIAH1481/00 (H1N1)
+Sw/Ratchaburi/NIAH59/04(H3N2)
+Sw/Rathaburi/NIAH550/03(H1N1)
+Thailand/271/2005(H1N1)
+Sw/Chonburi/NIAH977/04(H1N1)
+95
+Cluster
+ALa
+Sw/Chonburi/NIAH977/04(H1N1)
+Sw/Chonburi/NIAH9469/04(H1N1)
+Sw/Nakhon Pathom/NIAH586-1/05(H3N2)
+Sw/Ratchaburi/NIAH874/05(H3N2)
+Sw/Saraburi/NIAH13021/05(H1N2)
+Sw/Chonburi/NIAH589/05(H1N1)
+Sw/Chachoengsao/NIAH587/05(H1N1)
+Hong Kong/1774/99(H3N2)
+Sw/Cotes d’Armor/1488/99(H1N1)
+Sw/Ille et Vilaine/1455/99(H1N1)
+Sw/Italy/2064/99(H1N2)
+100
+100
+100
+99
+92
+94
+99
+91
+1990
+Sw/Italy/1523/98(H3N2)
+Sw/Spain/33601/01(H3N2)
+Sw/Spain/39139/02(H3N2)
+Sw/Spain/54008/04(H3N2)
+Sw/Spain/50047/03(H1N1)
+Sw/Spain/53207/04(H1N1)
+Sw/Spain/51915/03(H1N1)
+Philippines/344/04(H1N2)
+Sw/Virginia/670/87(H1N1)
+Sw/Virginia/671/87(H1N1)
+Sw/Italy/1513/1/98(H1N1)
+100
+100
+100
+97
+100
+97
+Human,
+avian
+classical
+swine
+lineage
+Sw/Italy/1513/1/98(H1N1)
+Sw/Cotes d’Armor/3633/84(H1N1)
+0·02
+Figure 2. Phylogenetic tree of PB2 genes of avian-like swine lineage. Bootstrap values of more than 90% are shown at the nodes. Thai isolates are
+indicated by d(H1N1 ⁄ N2 strains) and (H3N2 strains) and the estimated years are indicated by arrows at the nodes of the hypothetical common
+ancestor. Sw also represents swine.
+Swine influenza virus in Thailand
+ª 2008 The Authors
+Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189 185
+represented by A ⁄ Swine ⁄ Texas⁄ 4199-2 ⁄98(H3N2),6
+indicat-
+ing that the genetic resources introduced into the Thai
+SIVs were mainly from Europe. This is consistent with the
+fact that Thailand has imported breeding pigs from Europe
+rather than North America since late 1980s.13
+Discussion
+The genetic diversity of SIVs as seen in other SIVs of the
+world was evident in Thai pig population even from a
+small number of viruses obtained between 2000 and 2005
+(Table 1). The viruses containing genes from avian-like
+swine viruses appeared to have some advantages for being
+maintained in the pig population. All the Thai SIVs exam-
+ined possessed PB2, PB1, PA and M genes of avian-like
+swine lineages. Avian H1N1 viruses entered the pig popula-
+tion in 1979 in Europe, and have gradually replaced classi-
+cal swine H1N1 viruses, which circulated in Europe before
+1979.21
+Although human-like swine H3N2 and H1N2 with
+human surface antigens emerged as a consequence of the
+introduction of human viruses, avian-like swine genes
+encoding internal proteins have been retained for nearly
+Sw/Spain/50047/03(H1N1)
+Sw/Bakum/8602/99(H3N2)
+Sw/Belzig/2/01(H1N1)
+Sw/Spain/33601/01(H3N2)
+Sw/Spain/54008/04(H3N2)
+Sw/Spain/42386/02(H3N2)
+Sw/Spain/51915/03(H1N1)
+99
+99
+Sw/Spain/51915/03(H1N1)
+Sw/Spain/53207/04(H1N1)
+Sw/Spain/39139/02(H3N2)
+Sw/Bakum/1832/00(H1N2)
+Sw/Bakum/1833/00(H1N2)
+Sw/Chachoengsao/NIAH587/05(H1N1)
+Sw/Chonburi/NIAH589/05(H1N1)
+Thailand/271/05(H1N1)
+Sw/Chonburi/NIAH9469/04(H1N1)
+Sw/Chonburi/NIAH977/04(H1N1)
+Hong Kong/1774/99(H3N2)
+Sw/Hong Kong/7982/00(H3N2)
+Sw/HongKong/9745/01(H3N2)
+99
+96
+99
+99
+98
+99
+95
+99
+2000
+Cluster
+ALb
+Cluster
+ALa
+Sw/Hong
+Sw/Hong Kong/1144/02(H3N2)
+Sw/Hong Kong/5200/99(H3N2)
+Sw/Saraburi/NIAH13021/05(H1N2)
+Sw/Ratchaburi/NIAH874/05(H3N2)
+Sw/Udon Thani/NIAH464/05(H3N2)
+Sw/Ratchaburi/NIAH1481/00(H1N1)
+Sw/Nakhon Pathom/NIAH586-1/05(H3N2)
+Sw/Ratchaburi/NIAH59/04(H3N2)
+Sw/Rachaburi/NIAH550/03(H1N1)
+Sw/Chachoengsao/03(H3N2)
+Sw/Italy/1521/98(H1N2)
+98
+99
+1990
+Sw/Cotes d’Armor/790/97(H1N2)
+Sw/Leipzig/145/92(H3N2)
+Sw/Lohne/1/97(H3N2)
+Sw/Germany/8533/91(H1N1)
+Sw/Italy/1553-2/98(H3N2)
+Sw/Jena/5/96(H3N2)
+Philippines/344/04(H1N2)
+Sw/Bakum/5/95(H1N1)
+Sw/Schwerin/103/89(H1N1)
+Sw/Virginia/670/87(H1N1)
+Sw/Virginia/671/87(H1N1)
+Sw/Karrenzien/2/87(H3N2)
+Sw/Netherlands/12/85(H1N1)
+99
+99
+Human,
+avian,
+classical
+swine
+lineage
+Sw/Netherlands/25/80(H1N1)
+Sw/Germany/2/1981(H1N1)
+Sw/Potsdam/35/82(H3N2)
+Sw/Finistere/2899/82(H1N1)
+Sw/Potsdam/15/81(H1N1)
+0·01
+Figure 3. Phylogenetic tree of M genes of avian-like swine lineage. Bootstrap values of more than 90% are shown at the nodes. Thai isolates are
+indicated by d(H1N1 ⁄ N2 strains) and (H3N2 strains) and the estimated years are indicated by arrows at the nodes of the hypothetical common
+ancestor. Sw also represents swine.
+Takemae et al.
+ª 2008 The Authors
+186 Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189
+30 years in the European pig population.4,22,23
+There was
+evidence that German swine H1N2 isolates in 2005 were
+reassortants of avian-like swine H3N2 and H1N2.24
+In
+North America, the reassortant H3N2 SIVs containing
+avian genes (PB2, PA) have spread more rapidly in the pig
+population since 1998 than other reassortant H3N2 SIVs
+without avian genes.25
+Interestingly, the introduction of
+classical swine H1N1 viruses into the former H3N2 SIVs
+occurred and established the swine H1N2 lineage retaining
+the PB2 and PA genes of avian origin.26
+The complicated genetic diversity of SIVs in southern
+China, where transmissions of avian viruses into pigs have
+been reported over the last 30 years, is evident.27
+In 1993,
+Eurasian avian H1N1 virus entered the Hong Kong pig
+population. It was an independent event from that
+observed in the European pig population in 1979.28
+Swine
+Avian-like
+swine
+Cluster
+ALa
+Sw/Ratchaburi/NIAH550/03(H1N1)
+Sw/Ratchaburi/NIAH1481/00(H1N1)
+Sw/Udon Thani/NIAH464/04(H3N2)
+1985
+Sw/Chonburi/NIAH589/05(H1N1)
+Sw/Chachoengsao/NIAH587/05(H1N1)
+Sw/Nakhon Pathom/NIAH586-1/05 (H3N2)
+North American avian
+Equine
+Swine isolates (’88-’06) and etc.
+HPAI H5N1
+Avian,
+Allele
+B
+lineage
+Cluster
+Cla
+Classical
+swine
+Sw/Ratchaburi/NIAH874/05(H3N2)
+Sw/Chachoengsao/03 (H3N2)
+Sw/Ratchaburi/NIAH59/04(H3N2)
+1987
+Cluster
+Clb
+Sw/Chonburi/NIAH9469/04(H1N1)
+Sw/Chonburi/NIAH977/04(H1N1)
+Sw/Saraburi/NIAH13021/05(H1N2)
+1986
+Human origin
+0·05
+Swine isolates U.S.A (’30-’77)
+Swine isolates Japan (’77-’06)
+Figure 4. Phylogenetic tree of (Nonstructural) NS genes. Thai isolates are indicated by d(H1N1 ⁄ N2 strains) and (H3N2 strains) and the estimated
+years are indicated by arrows at the nodes of the hypothetical common ancestor. Bootstrap values and strains except for the Thai isolates examined
+are omitted. Sw represents swine.
+Swine influenza virus in Thailand
+ª 2008 The Authors
+Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189 187
+H3N2 viruses that were closely related to those isolated
+from the European pig population were isolated from
+Hong Kong pigs.27
+Prior to that event, an H3N2 virus with
+similar gene set was isolated from a young child in 1999 in
+Hong Kong.29
+Additionally, H1N2 swine viruses containing
+classical swine H1 and human-like N2 were isolated in
+2004 in China.30
+Our phylogenetic analysis indicated that
+none of those avian-like and classical swine genes identified
+in China were directly introduced into Thai pig population.
+This observation correlates well with the fact that <30
+breeding pigs were imported from China from 1986 to
+2006 to Thailand.13
+Our phylogenic analysis suggested two possibilities by
+which Thai H1N1(N2) SIVs, which possess the HA gene of
+classical swine origin and most of the other gene segments
+of avian-like swine origin, emerged. One possibility is that
+an avian-like swine H1N1 virus (ancestral ALa) was intro-
+duced into the Thai pig population around 1990, where
+two distinct classical swine viruses (Cla and Clb) had
+already been circulating. By means of this introduction, all
+of the gene segments except the HA of the Cla viruses were
+replaced by genes of ancestral ALa virus. For the viruses
+which retained the Clb HA gene, most of the segments
+were also replaced by genes of ALa origin. The fact that
+three strains (Chon9469, Chon977 and Sara13021) with the
+Clb HA had retained NS genes of Clb origin supports this
+possibility. Another possibility is that progenitor viruses
+with a combination of genes of Clb and ALa origin estab-
+lished elsewhere were introduced into the Thai pig popula-
+tion where only viruses with genes of Cla origin had been
+circulating. The coincidence of the divergent year of hypo-
+thetical ancestral genes for Clb and ALa genes supports this
+possibility. A weakness of the latter hypothesis is that there
+has been no report of such a progenitor virus in the world,
+although this does not completely exclude the possibility.
+Also, the existence of the Clb NS genes in the Thai SIVs
+discounts this possibility as well. In any case, the introduc-
+tion of avian-like swine virus resulted in a variety of
+genetic constellations within the H1N1 Thai SIVs.
+This study also revealed that a human-like swine H3N2,
+which may have been a provider of the Hb genes, was
+introduced into the Thai pig population. The Hb genes of
+the Thai SIVs shared a common ancestor with European
+and Hong Kong H3 (H1) N2 SIVs which possess human-
+like surface antigens and avian-like genes encoding internal
+proteins. SIVs with an avian internal protein gene constel-
+lation have been recognized in Europe for H3N2 and
+H1N2 subtypes since the mid-1980s and -1990s respec-
+tively.4,22
+Although it is not clear when the progeny Hb
+Thai viruses were introduced into the Thai pig population,
+our estimation revealed that the H3 and N2 genes of an
+ancestral Hb virus had diverged in 1976, indicating that the
+virus did not contain any avian-like swine genes at that
+time. Then, genes encoding internal proteins of the H3
+(H1) N2 SIVs possessing surface antigens of Hb origin
+were replaced with those of the H1N1 SIVs established in
+Thailand, although it is not clear that the ancestral H3N2
+viruses containing Hb origin were circulating amongst the
+Thai pig population prior to the introduction of the ALa
+genes from the data analysed by us.
+The introduction of another human H3N2 virus (ances-
+tral Ha virus) into the Thai pig populations was estimated
+to have occurred around 1998. At that time, our analyses
+indicated that H1N1 and H3N2 viruses containing a variety
+of combination genes had already co-circulated in the Thai
+pig population. Interspecies transmissions from pigs to
+humans or vice versa have been described in many coun-
+tries such as some European countries,31,32
+China29
+and
+Thailand.18,33
+Our analysis clearly demonstrated that the
+Ha viruses acquired the HA gene not from swine but from
+human virus (Figure 1). In contrast, Chutinimitku et al.
+concluded that Rat874, used in both studies, derived from
+an American or Asian SIV.18
+This discrepancy was referable
+to the data set used for the phylogenetic analysis. Chut-
+inimitku et al., included only seven human H3 viruses and
+13 American and Asian H3 SIVs for the analysis; in con-
+trast, 109 human H3 viruses and 37 American and Asian
+H3 SIVs were used in our study to improve reliability
+of the analysis. Their work might not have adequate num-
+ber of human epidemic H3 viruses to lead to a correct
+conclusion.
+The prevalence and pathogenicity of the Thai SIVs have
+not been well known, and neither has the economic impact
+caused by the SIVs in Thailand. The situation in Thailand
+where several genotypes of SIVs could be co-circulating in
+pig population certainly increases the chance of additional
+evolutional events of the SIVs. Further surveillance would
+elucidate whether one genotype highly adapted to the pigs
+in each subtype gradually became dominant amongst vari-
+ous genotypes of the Thai SIVs. It is unclear whether dif-
+ferent gene constellations observed in this study could
+affect the pathogenicity of the Thai SIVs. Van Reeth
+observed no differences of virulence in pigs amongst three
+subtypes (H1N1, H3N2 and H1N2) or strains.34
+In addi-
+tion, dual infections with SIVs and other pathogens such as
+porcine reproductive and respiratory syndrome virus
+(PRRSV)35
+and Mycoplasma hyopneumoniae36
+complicate
+the pathogenicity of SIVs. We need further analyses of the
+SIVs in Thailand to deepen our understanding regarding
+not only the ecology but also the pathogenesis of the SIVs.
+Acknowledgements
+We would like to thank Drs. Kida and Sakoda at the Labo-
+ratory of Microbiology, Graduate School of Veterinary
+Medicine, Hokkaido University for providing
+Takemae et al.
+ª 2008 The Authors
+188 Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189
+A ⁄Swine ⁄ Hokkaido ⁄ 2⁄81, A ⁄ Swine ⁄Niigata ⁄ 1⁄77 and
+A ⁄Swine ⁄ Saitama ⁄ 96. This work was supported by the pro-
+gramme of the Founding Research Center for Emerging
+and Reemerging Infectious Diseases launched by a project
+commissioned by the Ministry of Education, Culture,
+Sports, Science and Technology (MEXT) of Japan.
+References
+1 Brown IH. The epidemiology and evolution of influenza viruses in
+pigs. Vet Microbiol 2000; 74:29–46.
+2 Easterday BC. The epidemiology and ecology of swine influenza as
+a zoonotic disease. Comp Immunol Microbiol Infect Dis 1980;
+3:105–109.
+3 Jo SK, Kim HS, Cho SW et al. Pathogenesis and inflammatory
+responses of swine H1N2 influenza viruses in pigs. Virus Res 2007;
+129:64–70.
+4 Castrucci MR, Donatelli I, Sidoli L et al. Genetic reassortment
+between avian and human influenza A viruses in Italian pigs. Virol-
+ogy 1993;193:503–506.
+5 Campitelli L, Donatelli I, Foni E et al. Continued evolution of H1N1
+and H3N2 influenza viruses in pigs in Italy. Virology 1997;
+232:310–318.
+6 Webby RJ, Swenson SL, Krauss SL et al. Evolution of swine H3N2
+influenza viruses in the United States. J Virol 2000; 74:8243–8251.
+7 Olsen CW, Karasin AI, Carman S et al. Triple reassortant H3N2
+influenza A viruses, Canada, 2005. Emerg Infect Dis 2006; 12:
+1132–1135.
+8 Karasin AI, Brown IH, Carman S et al. Isolation and characterization
+of H4N6 avian influenza viruses from pigs with pneumonia in Can-
+ada. J Virol 2000; 74:9322–9327.
+9 Peiris JSM, Guan Y, Markwell D et al. Cocirculation of avian H9N2
+and contemporary ‘‘Human’’ H3N2 influenza A viruses in pigs in
+Southeastern China: potential for genetic reassortment? J Virol 2001;
+75:9679–9686.
+10 Cong YL, Pu J, Liu QF et al. Antigenic and genetic characterization
+of H9N2 swine influenza viruses in China. J Gen Virol 2007;
+88:2035–2041.
+11 Ito T, Couceiro JNSS, Kelm S et al. Molecular basis for the generation
+in pigs of influenza A viruses with pandemic potential. J Virol 1998;
+72:7367–7373.
+12 FAO. FAOSTAT data. Rome: Food and Agriculture Organization
+[cited 1 June 2008]. Available from: http://faostat.fao.org/.
+13 Department of Livestock Development of Thailand. Department of
+Livestock Development, Ministry of Agriculture and Cooperatives:
+Yearly Statistics Report, Thailand, 1980–2006.
+14 Nerome K, Ishida M, Nakayama M et al. Antigenic and genetic
+analysis of A ⁄ Hong Kong (H3N2) influenza viruses isolated from
+swine and man. J Gen Virol 1981; 56:441–445.
+15 Nerome K, Ishida M, Oya A et al. Isolation of an influenza H1N1
+virus from a pig. Virology 1982; 117:485–489.
+16 Damrongwatanapokin S, Pinyochon W, Parchariyanon S et al. Sero-
+logical study and isolation of influenza A virus infection of pigs in
+Thailand. In: Nielsen JP, Jorsal SE (ed): Proceedings of the 19th
+International Pig Veterinary Society (IPVS) Congress. Copenhagen,
+Denmark: Narayana press, 2006: vol 2. 136.
+17 Takemae N, Parchariyanon S, Damrongwatanapokin S et al. Isola-
+tion of swine H1N1 influenza viruses possessing classical swine H1
+and avian-like N1 genes in Thailand. In: Katz JM, (ed): Proceedings
+of the Options for the Control of Influenza VI Conference. Toronto,
+Ontario, Canada: International Medical Press, 350–353, 2007.
+18 Chutinimitkul S, Thippamom N, Damrongwatanapokin S et al.
+Genetic characterization of H1N1, H1N2 and H3N2 swine influenza
+virus in Thailand. Arch Virol 2008; 153:1049–1056.
+19 Hall TA. BioEdit: a user-friendly biological sequence alignment editor
+and analysis program for Windows 95 ⁄ 98 ⁄ NT. Nucl Acids Symp Ser
+1999; 41:95–98.
+20 Saitou N, Nei M. The neighbor-joining method: a new method for
+reconstructing phylogenetic trees. Mol Biol Evol 1987; 4:406–425.
+21 Scholtissek C, Burger H, Bachmann PA et al. Genetic relatedness of
+hemagglutinins of the H1 subtype of influenza a viruses isolated
+from swine and birds. Virology 1983; 129:521–523.
+22 Brown IH, Harris PA, McCauley JW et al. Multiple genetic reassort-
+ment of avian and human influenza A viruses in European pigs,
+resulting in the emergence of an H1N2 virus of novel genotype. J
+Gen Virol 1998;79:2947–2955.
+23 de Jong JC, Smith DJ, Lapedes AS et al. Antigenic and genetic evo-
+lution of swine influenza A (H3N2) viruses in Europe. J Virol 2007;
+81:4315–4322.
+24 Zell R, Motzke S, Krumbholz A et al. Novel reassortant of swine
+influenza H1N2 virus in Germany. J Gen Virol 2008;89:271–276.
+25 Olsen CW. The emergence of novel swine influenza viruses in North
+America. Virus Res 2002; 85:199–210.
+26 Karasin AI, Landgraf J, Swenson S et al. Genetic characterization of
+H1N2 influenza A viruses isolated from pigs throughout the United
+States. J Clin Microbiol 2002; 40:1073–1079.
+27 Yu H, Hua R-H, Zhang Q et al. Genetic evolution of swine influenza
+A (H3N2) viruses in China from 1970 to 2006. J Clin Microbiol
+2008; 46:1067–1075.
+28 Guan Y, Shortridge KF, Krauss S et al. Emergence of avian H1N1
+influenza viruses in pigs in China. J Virol 1996; 70:8041–8046.
+29 Gregory V, Lim W, Cameron K et al. Infection of a child in Hong
+Kong by an influenza A H3N2 virus closely related to viruses circu-
+lating in European pigs. J Gen Virol 2001; 82:1397–1406.
+30 Qi X, Lu CP. Genetic characterization of novel reassortant H1N2
+influenza A viruses isolated from pigs in southeastern China. Arch
+Virol 2006; 151:2289–2299.
+31 Claas ECJ, Kawaoka Y, de Jong JC et al. Infection of children with
+avian-human reassortant influenza virus from pigs in Europe. Virol-
+ogy 1994;204:453–457.
+32 Rimmelzwaan GF, de Jong JC, Bestebroer TM et al. Antigenic and
+genetic characterization of swine influenza A (H1N1) viruses iso-
+lated from pneumonia patients in The Netherlands. Virology 2001;
+282:301–306.
+33 Komadina N, Roque V, Thawatsupha P et al. Genetic analysis of
+two influenza A (H1) swine viruses isolated from humans in Thai-
+land and the Philippines. Virus Genes 2007; 35:161–165.
+34 Van Reeth K. Avian and swine influenza viruses: our current under-
+standing of the zoonotic risk. Vet Res 2007; 38:243–260.
+35 Van Reeth K, Nauwynck H, Pensaert M. Dual infections of feeder
+pigs with porcine reproductive and respiratory syndrome virus fol-
+lowed by porcine respiratory coronavirus or swine influenza virus: a
+clinical and virological study. Vet Microbiol 1996; 48:325–335.
+36 Thacker EL, Thacker BJ, Janke BH. Interaction between mycoplasma
+hyopneumoniae and swine influenza virus. J Clin Microbiol 2001;
+39:2525–2530.
+Swine influenza virus in Thailand
+ª 2008 The Authors
+Journal Compilation ª 2008 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 2, 181–189 189

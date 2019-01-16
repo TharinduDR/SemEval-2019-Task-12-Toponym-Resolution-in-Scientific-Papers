@@ -1,0 +1,170 @@
+T1	Location 70 77	Finland
+#1	AnnotatorNotes T1	<latlng>64,26</latlng><geoID>660013</geoID>
+T25	Location 708 715	Finland
+#25	AnnotatorNotes T25	<latlng>64,26</latlng><geoID>660013</geoID>
+T42	Location 5161 5167	Norway
+#42	AnnotatorNotes T42	<latlng>62,10</latlng><geoID>3144096</geoID>
+T43	Location 5416 5422	Mexico
+#43	AnnotatorNotes T43	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T44	Location 5432 5445	United States
+#44	AnnotatorNotes T44	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T45	Location 5447 5450	USA
+#45	AnnotatorNotes T45	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T46	Location 5500 5507	Finland
+#46	AnnotatorNotes T46	<latlng>64,26</latlng><geoID>660013</geoID>
+T47	Location 5649 5655	Mexico
+#47	AnnotatorNotes T47	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T48	Location 6398 6405	Finland
+#48	AnnotatorNotes T48	<latlng>64,26</latlng><geoID>660013</geoID>
+T49	Location 7665 7672	Finland
+#49	AnnotatorNotes T49	<latlng>64,26</latlng><geoID>660013</geoID>
+T50	Location 7811 7824	North America
+#50	AnnotatorNotes T50	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T51	Location 7836 7842	Europe
+#51	AnnotatorNotes T51	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T52	Location 7853 7866	South America
+#52	AnnotatorNotes T52	<latlng>-14.60485,-57.65625</latlng><pop>357000000</pop><geoID>6255150</geoID>
+T53	Location 7876 7880	Asia
+#53	AnnotatorNotes T53	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T54	Location 7894 7903	Australia
+#54	AnnotatorNotes T54	<latlng>-27,133</latlng><geoID>2077456</geoID>
+T55	Location 7908 7915	Oceania
+#55	AnnotatorNotes T55	<latlng>-18.31281,138.51562</latlng><pop>0</pop><geoID>6255151</geoID>
+T59	Location 9153 9160	Finland
+#59	AnnotatorNotes T59	<latlng>64,26</latlng><geoID>660013</geoID>
+T63	Location 10088 10094	Cyprus
+#63	AnnotatorNotes T63	<latlng>35,33</latlng><geoID>146669</geoID>
+T64	Location 10096 10102	Greece
+#64	AnnotatorNotes T64	<latlng>39,22</latlng><geoID>390903</geoID>
+T65	Location 10104 10110	Turkey
+#65	AnnotatorNotes T65	<latlng>39,35</latlng><geoID>298795</geoID>
+T66	Location 10116 10121	Spain
+#66	AnnotatorNotes T66	<latlng>40,-4</latlng><geoID>2510769</geoID>
+T68	Location 11280 11288	New York
+#68	AnnotatorNotes T68	<latlng>43.00035,-75.4999</latlng><pop>19274244</pop><geoID>5128638</geoID>
+T69	Location 11290 11296	Mexico
+#69	AnnotatorNotes T69	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T70	Location 11303 11311	Thailand
+#70	AnnotatorNotes T70	<latlng>15,100</latlng><geoID>1605651</geoID>
+T73	Location 12892 12900	Bulgaria
+#73	AnnotatorNotes T73	<latlng>43,25</latlng><geoID>732800</geoID>
+T75	Location 12947 12961	United Kingdom
+#75	AnnotatorNotes T75	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T76	Location 13625 13632	Finland
+#76	AnnotatorNotes T76	<latlng>64,26</latlng><geoID>660013</geoID>
+T78	Location 14205 14208	USA
+#78	AnnotatorNotes T78	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T81	Location 14344 14359	Eastern Finland
+#81	AnnotatorNotes T81	<latlng>62.5,28</latlng><geoID>828988</geoID>
+T84	Location 14398 14405	Finland
+#84	AnnotatorNotes T84	<latlng>64,26</latlng><geoID>660013</geoID>
+T85	Location 14417 14421	Oulu
+#85	AnnotatorNotes T85	<latlng>65.0,27.0</latlng><pop>0</pop><geoID>643485</geoID>
+T86	Location 14426 14433	Lapland
+#86	AnnotatorNotes T86	<latlng>67.75, 26.5</latlng><pop>182885</pop><geoID>830603</geoID>
+T101	Location 19910 19917	Finland
+#101	AnnotatorNotes T101	<latlng>64,26</latlng><geoID>660013</geoID>
+T109	Location 21734 21741	Finland
+#109	AnnotatorNotes T109	<latlng>64,26</latlng><geoID>660013</geoID>
+T113	Location 23044 23050	Norway
+#113	AnnotatorNotes T113	<latlng>62,10</latlng><geoID>3144096</geoID>
+T114	Location 24147 24154	Finland
+#114	AnnotatorNotes T114	<latlng>64,26</latlng><geoID>660013</geoID>
+T116	Location 24654 24657	USA
+#116	AnnotatorNotes T116	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T119	Location 24793 24808	Eastern Finland
+#119	AnnotatorNotes T119	<latlng>62.5,28</latlng><geoID>828988</geoID>
+T122	Location 24846 24853	Finland
+#122	AnnotatorNotes T122	<latlng>64,26</latlng><geoID>660013</geoID>
+T123	Location 24865 24869	Oulu
+#123	AnnotatorNotes T123	<latlng>65.0,27.0</latlng><pop>0</pop><geoID>643485</geoID>
+T124	Location 24874 24881	Lapland
+#124	AnnotatorNotes T124	<latlng>67.75, 26.5</latlng><pop>182885</pop><geoID>830603</geoID>
+T130	Location 26795 26801	Greece
+#130	AnnotatorNotes T130	<latlng>39,22</latlng><geoID>390903</geoID>
+T132	Location 27557 27566	Singapore
+#132	AnnotatorNotes T132	<latlng>1.3667,103.8</latlng><geoID>1880251</geoID>
+T133	Location 28526 28533	Finland
+#133	AnnotatorNotes T133	<latlng>64,26</latlng><geoID>660013</geoID>
+T137	Location 30594 30601	Finland
+#137	AnnotatorNotes T137	<latlng>64,26</latlng><geoID>660013</geoID>
+T139	Location 32775 32782	Finland
+#139	AnnotatorNotes T139	<latlng>64,26</latlng><geoID>660013</geoID>
+T152	Location 35410 35417	Finland
+#152	AnnotatorNotes T152	<latlng>64,26</latlng><geoID>660013</geoID>
+T156	Location 36411 36417	Hilden
+#156	AnnotatorNotes T156	<latlng>51.16818,6.93093</latlng><pop>56565</pop><geoID>2904795</geoID>
+T157	Location 36420 36427	Germany
+#157	AnnotatorNotes T157	<latlng>51,9</latlng><geoID>2921044</geoID>
+T158	Location 36751 36759	Carlsbad
+#158	AnnotatorNotes T158	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T159	Location 36761 36764	USA
+#159	AnnotatorNotes T159	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T162	Location 36951 36957	Hilden
+#162	AnnotatorNotes T162	<latlng>51.16818,6.93093</latlng><pop>56565</pop><geoID>2904795</geoID>
+T163	Location 36959 36966	Germany
+#163	AnnotatorNotes T163	<latlng>51,9</latlng><geoID>2921044</geoID>
+T171	Location 37171 37182	Foster City
+#171	AnnotatorNotes T171	<latlng>37.55855,-122.27108</latlng><pop>30567</pop><geoID>5350159</geoID>
+T173	Location 37392 37401	Ann Arbor
+#173	AnnotatorNotes T173	<latlng>42.27756,-83.74088</latlng><pop>113934</pop><geoID>4984247</geoID>
+T174	Location 37404 37407	USA
+#174	AnnotatorNotes T174	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T181	Location 39192 39199	Finland
+#181	AnnotatorNotes T181	<latlng>64,26</latlng><geoID>660013</geoID>
+T183	Location 39690 39693	USA
+#183	AnnotatorNotes T183	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T188	Location 39903 39907	Oulu
+#188	AnnotatorNotes T188	<latlng>65.0,27.0</latlng><pop>0</pop><geoID>643485</geoID>
+T189	Location 39913 39920	Lapland
+#189	AnnotatorNotes T189	<latlng>67.75, 26.5</latlng><pop>182885</pop><geoID>830603</geoID>
+T2	Location 14321 14337	Southern Finland
+#2	AnnotatorNotes T2	<latlng>60.83333,26</latlng><pop>2209677</pop><geoID>828987</geoID>
+T3	Location 14366 14381	Western Finland
+#3	AnnotatorNotes T3	<latlng>62,24</latlng><pop>1889542</pop><geoID>828989</geoID>
+T4	Location 24769 24785	Southern Finland
+#4	AnnotatorNotes T4	<latlng>60.83333,26</latlng><pop>2209677</pop><geoID>828987</geoID>
+T5	Location 24815 24830	Western Finland
+#5	AnnotatorNotes T5	<latlng>62,24</latlng><pop>1889542</pop><geoID>828989</geoID>
+T6	Location 37184 37186	CA
+#6	AnnotatorNotes T6	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T7	Location 39807 39823	Southern Finland
+#7	AnnotatorNotes T7	<latlng>60.83333,26</latlng><pop>2209677</pop><geoID>828987</geoID>
+T8	Location 39830 39845	Eastern Finland
+#8	AnnotatorNotes T8	<latlng>62.5,28</latlng><pop>0</pop><geoID>828988</geoID>
+T9	Location 39853 39868	Western Finland
+#9	AnnotatorNotes T9	<latlng>62,24</latlng><pop>1889542</pop><geoID>828989</geoID>
+T10	Location 39884 39891	Finland
+#10	AnnotatorNotes T10	<latlng>64,26</latlng><geoID>660013</geoID>
+T11	Protein 79 84	Niina
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 674 681	Finland
+#12	AnnotatorNotes T12	END
+T13	Protein 2684 2692	Citation
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 3926 3928	fi
+#14	AnnotatorNotes T14	END
+T15	Protein 40488 40493	Found
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 44710 44716	e13329
+#16	AnnotatorNotes T16	END
+T17	Protein 9359 9362	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 9599 9605	e13329
+#18	AnnotatorNotes T18	END
+T19	Protein 15629 15632	doi
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 15764 15770	e13329
+#20	AnnotatorNotes T20	END
+T21	Protein 19219 19222	doi
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 19459 19465	e13329
+#22	AnnotatorNotes T22	END
+T23	Protein 25738 25741	doi
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 25978 25984	e13329
+#24	AnnotatorNotes T24	END
+T26	Protein 33760 33763	doi
+#26	AnnotatorNotes T26	BEGIN
+T27	Protein 33895 33901	e13329
+#27	AnnotatorNotes T27	END

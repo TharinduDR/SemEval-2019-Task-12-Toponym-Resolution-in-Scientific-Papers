@@ -1,0 +1,182 @@
+T1	Protein 117 121	Wafa
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 569 576	Tunisia
+#2	AnnotatorNotes T2	END
+T3	Protein 2652 2660	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3779 3781	tn
+#4	AnnotatorNotes T4	END
+T5	Protein 5547 5551	PLOS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5612 5618	e53524
+#6	AnnotatorNotes T6	END
+T7	Protein 12732 12737	Avian
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 12845 12851	e53524
+#8	AnnotatorNotes T8	END
+T9	Protein 19232 19237	Avian
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 19345 19351	e53524
+#10	AnnotatorNotes T10	END
+T11	Protein 20107 20110	doi
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 20140 20144	g001
+#12	AnnotatorNotes T12	END
+T13	Protein 20328 20331	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 20479 20485	e53524
+#14	AnnotatorNotes T14	END
+T15	Protein 23794 23797	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 23945 23951	e53524
+#16	AnnotatorNotes T16	END
+T17	Protein 27051 27054	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 27202 27208	e53524
+#18	AnnotatorNotes T18	END
+T19	Protein 28021 28024	doi
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 28172 28178	e53524
+#20	AnnotatorNotes T20	END
+T21	Protein 29882 29885	doi
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 29915 29919	t003
+#22	AnnotatorNotes T22	END
+T23	Protein 30100 30103	doi
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 30251 30257	e53524
+#24	AnnotatorNotes T24	END
+T25	Protein 32815 32818	doi
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 32966 32972	e53524
+#26	AnnotatorNotes T26	END
+T27	Protein 34301 34304	doi
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 34453 34459	e53524
+#28	AnnotatorNotes T28	END
+T29	Protein 42093 42098	Avian
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 42207 42213	e53524
+#30	AnnotatorNotes T30	END
+T31	Protein 44136 44151	Acknowledgments
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 51827 51833	e53524
+#32	AnnotatorNotes T32	END
+T33	Location 109 116	Tunisia
+#33	AnnotatorNotes T33	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T34	Location 5984 5991	Tunisia
+#34	AnnotatorNotes T34	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T35	Location 6177 6184	Tunisia
+#35	AnnotatorNotes T35	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T36	Location 6576 6583	Tunisia
+#36	AnnotatorNotes T36	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T37	Location 7245 7252	Tunisia
+#37	AnnotatorNotes T37	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T38	Location 9242 9253	Montpellier
+#38	AnnotatorNotes T38	<latlng>43.66667, 3.83333</latlng><geoID>2992165 </geoID><pop>661123</pop>
+T39	Location 9255 9261	France
+#39	AnnotatorNotes T39	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T40	Location 11590 11597	Germany
+#40	AnnotatorNotes T40	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T41	Location 12019 12030	Montpellier
+#41	AnnotatorNotes T41	<latlng>43.66667, 3.83333</latlng><geoID>2992165 </geoID><pop>661123</pop>
+T42	Location 12032 12038	France
+#42	AnnotatorNotes T42	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T43	Location 12714 12721	Germany
+#43	AnnotatorNotes T43	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T44	Location 12959 12967	Carlsbad
+#44	AnnotatorNotes T44	<latlng>33.12455, -117.28354</latlng><geoID>11788776</geoID>
+T45	Location 12969 12971	CA
+#45	AnnotatorNotes T45	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T46	Location 13985 13993	Carlsbad
+#46	AnnotatorNotes T46	<latlng>33.12455, -117.28354</latlng><geoID>11788776</geoID>
+T47	Location 13995 13997	CA
+#47	AnnotatorNotes T47	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T48	Location 13999 14002	USA
+#48	AnnotatorNotes T48	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T49	Location 14458 14464	Hilden
+#49	AnnotatorNotes T49	<latlng>51.16942, 6.92534</latlng><geoID>6557500 </geoID><pop>54736</pop>
+T50	Location 14466 14473	Germany
+#50	AnnotatorNotes T50	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T51	Location 15110 15114	Ohio
+#51	AnnotatorNotes T51	<latlng>40.25034, -83.00018</latlng><geoID>5165418 </geoID><pop>11467123</pop>
+T52	Location 15104 15109	Solon
+#52	AnnotatorNotes T52	<latlng>41.38644, -81.44011</latlng><geoID>5172395 </geoID><pop>23348</pop>
+T53	Location 15209 15219	Wilmington
+#53	AnnotatorNotes T53	<latlng>39.73485, -75.52844</latlng><geoID>7161473</geoID><pop>70851</pop>
+T54	Location 15221 15223	DE
+#54	AnnotatorNotes T54	<latlng>39.00039, -75.49992</latlng><geoID>4142224 </geoID><pop>838549</pop>
+T55	Location 15225 15228	USA
+#55	AnnotatorNotes T55	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T56	Location 15494 15497	USA
+#56	AnnotatorNotes T56	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T57	Location 15490 15492	CA
+#57	AnnotatorNotes T57	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T58	Location 15626 15628	CA
+#58	AnnotatorNotes T58	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T59	Location 15630 15633	USA
+#59	AnnotatorNotes T59	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T60	Location 17258 17264	Nabeul
+#60	AnnotatorNotes T60	<latlng>36.66667, 10.66667</latlng><geoID>2468567 </geoID><pop>787920</pop>
+T61	Location 17291 17295	Sfax
+#61	AnnotatorNotes T61	<latlng>34.75, 10.41667</latlng><geoID>2467450 </geoID><pop>955421</pop>
+T62	Location 17229 17234	Tunis
+#62	AnnotatorNotes T62	<latlng>36.76667, 10.13333</latlng><geoID>2464464 </geoID><pop>1056247</pop>
+T63	Location 17804 17809	Tunis
+#63	AnnotatorNotes T63	<latlng>36.76667, 10.13333</latlng><geoID>2464464 </geoID><pop>1056247</pop>
+T64	Location 17848 17852	Sfax
+#64	AnnotatorNotes T64	<latlng>34.75, 10.41667</latlng><geoID>2467450 </geoID><pop>955421</pop>
+T65	Location 17811 17817	Nabeul
+#65	AnnotatorNotes T65	<latlng>36.66667, 10.66667</latlng><geoID>2468567 </geoID><pop>787920</pop>
+T66	Location 17819 17825	Sousse
+#66	AnnotatorNotes T66	<latlng>35.91667, 10.41667</latlng><geoID>2464912 </geoID><pop>674971</pop>
+T67	Location 17795 17802	Bizerte
+#67	AnnotatorNotes T67	<latlng>37.08333, 9.58333</latlng><geoID>2472699 </geoID><pop>568219</pop>
+T68	Location 17827 17833	Mahdia
+#68	AnnotatorNotes T68	<latlng>35.33333, 10.58333</latlng><geoID>2473574 </geoID><pop>410812</pop>
+T69	Location 17835 17843	Monastir
+#69	AnnotatorNotes T69	<latlng>35.61667, 10.75</latlng><geoID>2473495 </geoID><pop>548828</pop>
+T70	Location 20249 20256	Tunisia
+#70	AnnotatorNotes T70	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T71	Location 21550 21556	Nabeul
+#71	AnnotatorNotes T71	<latlng>36.66667, 10.66667</latlng><geoID>2468567 </geoID><pop>787920</pop>
+T72	Location 21558 21562	Sfax
+#72	AnnotatorNotes T72	<latlng>34.75, 10.41667</latlng><geoID>2467450 </geoID><pop>955421</pop>
+T73	Location 21567 21572	Tunis
+#73	AnnotatorNotes T73	<latlng>36.76667, 10.13333</latlng><geoID>2464464 </geoID><pop>1056247</pop>
+T74	Location 24118 24125	Tunisia
+#74	AnnotatorNotes T74	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T75	Location 24327 24334	Tunisia
+#75	AnnotatorNotes T75	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T76	Location 24943 24950	Tunisia
+#76	AnnotatorNotes T76	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T77	Location 25529 25536	Tunisia
+#77	AnnotatorNotes T77	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T78	Location 25799 25806	Tunisia
+#78	AnnotatorNotes T78	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T79	Location 26657 26664	Tunisia
+#79	AnnotatorNotes T79	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T80	Location 28522 28529	Maghreb
+#80	AnnotatorNotes T80	<latlng>30, 5</latlng><geoID>2219875 </geoID><pop>76800000</pop>
+T81	Location 28687 28694	Tunisia
+#81	AnnotatorNotes T81	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T82	Location 29378 29384	Jordan
+#82	AnnotatorNotes T82	<latlng>31, 36</latlng><geoID>248816 </geoID><pop>6407085</pop>
+T83	Location 29394 29399	Egypt
+#83	AnnotatorNotes T83	<latlng>27, 30</latlng><geoID>357994 </geoID><pop>80471869</pop>
+T84	Location 34574 34581	Tunisia
+#84	AnnotatorNotes T84	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T85	Location 36037 36044	Tunisia
+#85	AnnotatorNotes T85	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T86	Location 43166 43173	Tunisia
+#86	AnnotatorNotes T86	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T87	Location 4746 4750	Asia
+#87	AnnotatorNotes T87	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>
+T88	Location 4789 4795	Africa
+#88	AnnotatorNotes T88	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T89	Location 4824 4831	America
+#89	AnnotatorNotes T89	<latlng>NA</latlng><geoID>NA</geoID>
+T90	Location 4801 4812	Middle East
+#90	AnnotatorNotes T90	<latlng>33.13906, 35.85869</latlng><geoID>6269133 </geoID><pop>371400000</pop>
+T91	Location 15089 15102	North America
+#91	AnnotatorNotes T91	<latlng> 46.07323, -100.54588 </latlng><geoID>6255149 </geoID> 

@@ -1,0 +1,100 @@
+T1	Location 146 153	Vietnam
+#1	AnnotatorNotes T1	<latlng>16,106</latlng><geoID>1562822</geoID>
+T44	Location 1248 1255	Vietnam
+#44	AnnotatorNotes T44	<latlng>16,106</latlng><geoID>1562822</geoID>
+T45	Location 1434 1441	Vietnam
+#45	AnnotatorNotes T45	<latlng>16,106</latlng><geoID>1562822</geoID>
+T46	Location 2162 2166	Asia
+#46	AnnotatorNotes T46	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T47	Location 2169 2175	Africa
+#47	AnnotatorNotes T47	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T48	Location 2180 2186	Europe
+#48	AnnotatorNotes T48	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T49	Location 3080 3087	Vietnam
+#49	AnnotatorNotes T49	<latlng>16,106</latlng><geoID>1562822</geoID>
+T52	Location 5278 5285	Vietnam
+#52	AnnotatorNotes T52	<latlng>16,106</latlng><geoID>1562822</geoID>
+T53	Location 5915 5922	Vietnam
+#53	AnnotatorNotes T53	<latlng>16,106</latlng><geoID>1562822</geoID>
+T54	Location 5953 5960	Vietnam
+#54	AnnotatorNotes T54	<latlng>16,106</latlng><geoID>1562822</geoID>
+T57	Location 6684 6690	Ha Nam
+#57	AnnotatorNotes T57	<latlng>20.53333,105.96667</latlng><pop>0</pop><geoID>1905637</geoID>
+T59	Location 6751 6757	Ha Nam
+#59	AnnotatorNotes T59	<latlng>20.53333,105.96667</latlng><pop>0</pop><geoID>1905637</geoID>
+T61	Location 6813 6821	Nam Dinh
+#61	AnnotatorNotes T61	<latlng>20.25,106.25</latlng><pop>0</pop><geoID>1905626</geoID>
+T63	Location 6877 6886	Bac Giang
+#63	AnnotatorNotes T63	<latlng>21.33333,106.43333</latlng><pop>0</pop><geoID>1905419</geoID>
+T66	Location 6945 6953	Bac Ninh
+#66	AnnotatorNotes T66	<latlng>21.1,106.1</latlng><pop>0</pop><geoID>1905412</geoID>
+T68	Location 7014 7022	Bac Ninh
+#68	AnnotatorNotes T68	<latlng>21.1,106.1</latlng><pop>0</pop><geoID>1905412</geoID>
+T70	Location 7084 7093	Thai Binh
+#70	AnnotatorNotes T70	<latlng>20.5,106.36667</latlng><pop>0</pop><geoID>1566338</geoID>
+T72	Location 7149 7158	Bac Giang
+#72	AnnotatorNotes T72	<latlng>21.33333,106.43333</latlng><pop>0</pop><geoID>1905419</geoID>
+T75	Location 7216 7222	Ha Tay
+#75	AnnotatorNotes T75	<latlng>20.91667,105.66667</latlng><pop>2500000</pop><geoID>1581019</geoID>
+T77	Location 7290 7296	Ha Tay
+#77	AnnotatorNotes T77	<latlng>20.91667,105.66667</latlng><pop>2500000</pop><geoID>1581019</geoID>
+T79	Location 7360 7369	Thai Binh
+#79	AnnotatorNotes T79	<latlng>20.5,106.36667</latlng><pop>0</pop><geoID>1566338</geoID>
+T81	Location 7432 7438	Ha Noi
+#81	AnnotatorNotes T81	<latlng>21.0,105.75</latlng><pop>0</pop><geoID>1581129</geoID>
+T83	Location 7498 7507	Vinh Phuc
+#83	AnnotatorNotes T83	<latlng>21.33333,105.56667</latlng><pop>0</pop><geoID>1905856</geoID>
+T86	Location 7572 7581	Thanh Hoa
+#86	AnnotatorNotes T86	<latlng>20.06667,105.33333</latlng><pop>0</pop><geoID>1566165</geoID>
+T90	Location 7647 7653	Ha Nam
+#90	AnnotatorNotes T90	<latlng>20.53333,105.96667</latlng><pop>0</pop><geoID>1905637</geoID>
+T93	Location 7719 7725	Ha Nam
+#93	AnnotatorNotes T93	<latlng>20.53333,105.96667</latlng><pop>0</pop><geoID>1905637</geoID>
+T96	Location 7787 7793	Ha Tay
+#96	AnnotatorNotes T96	<latlng>20.91667,105.66667</latlng><pop>2500000</pop><geoID>1581019</geoID>
+T98	Location 7855 7861	Son La
+#98	AnnotatorNotes T98	<latlng>21.16667,104.0</latlng><pop>0</pop><geoID>1567643</geoID>
+T100	Location 7923 7934	Tuyen Quang
+#100	AnnotatorNotes T100	<latlng>22.11667,105.25</latlng><pop>0</pop><geoID>1559976</geoID>
+T102	Location 7996 8005	Hai Duong
+#102	AnnotatorNotes T102	<latlng>20.91667,106.33333</latlng><pop>0</pop><geoID>1905686</geoID>
+T104	Location 8067 8076	Ninh Binh
+#104	AnnotatorNotes T104	<latlng>20.23333,105.9</latlng><pop>0</pop><geoID>1559970</geoID>
+T106	Location 8136 8143	Phu Tho
+#106	AnnotatorNotes T106	<latlng>21.33333,105.13333</latlng><pop>0</pop><geoID>1905577</geoID>
+T120	Location 8989 8996	Vietnam
+#120	AnnotatorNotes T120	<latlng>16,106</latlng><geoID>1562822</geoID>
+T122	Location 9483 9490	Vietnam
+#122	AnnotatorNotes T122	<latlng>16,106</latlng><geoID>1562822</geoID>
+T127	Location 11370 11377	Vietnam
+#127	AnnotatorNotes T127	<latlng>16,106</latlng><geoID>1562822</geoID>
+T128	Location 11567 11574	Vietnam
+#128	AnnotatorNotes T128	<latlng>16,106</latlng><geoID>1562822</geoID>
+T129	Location 11718 11725	Vietnam
+#129	AnnotatorNotes T129	<latlng>16,106</latlng><geoID>1562822</geoID>
+T130	Location 11854 11861	Vietnam
+#130	AnnotatorNotes T130	<latlng>16,106</latlng><geoID>1562822</geoID>
+T131	Location 15581 15588	Vietnam
+#131	AnnotatorNotes T131	<latlng>16,106</latlng><geoID>1562822</geoID>
+T134	Location 15892 15899	Vietnam
+#134	AnnotatorNotes T134	<latlng>16,106</latlng><geoID>1562822</geoID>
+T135	Location 15954 15961	Vietnam
+#135	AnnotatorNotes T135	<latlng>16,106</latlng><geoID>1562822</geoID>
+T136	Location 16040 16045	China
+#136	AnnotatorNotes T136	<latlng>35,105</latlng><geoID>1814991</geoID>
+T159	Location 19590 19597	Vietnam
+#159	AnnotatorNotes T159	<latlng>16,106</latlng><geoID>1562822</geoID>
+T2	Location 2568 2575	Vietnam
+#2	AnnotatorNotes T2	<latlng>16,106</latlng><geoID>1562822</geoID>
+T245	Protein 155 160	Quynh
+#245	AnnotatorNotes T245	BEGIN
+T246	Protein 1241 1246	Japan
+#246	AnnotatorNotes T246	END
+T247	Protein 3725 3728	The
+#247	AnnotatorNotes T247	BEGIN
+T248	Protein 4061 4065	2485
+#248	AnnotatorNotes T248	END
+T249	Protein 19633 19649	Acknowledgements
+#249	AnnotatorNotes T249	BEGIN
+T250	Protein 24806 24808	91
+#250	AnnotatorNotes T250	END

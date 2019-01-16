@@ -1,0 +1,708 @@
+Viruses 2013, 5, 1964-1977; doi:10.3390/v5081964
+viruses
+ISSN 1999-4915
+www.mdpi.com/journal/viruses
+Article
+Avian Influenza: Mixed Infections and Missing Viruses
+LeAnn L. Lindsay 1
+, Terra R. Kelly 2
+, Magdalena Plancarte 1
+, Seth Schobel 3
+, Xudong Lin 3
+,
+Vivien G. Dugan 3,†
+, David E. Wentworth 3
+and Walter M. Boyce 1,
+*
+1
+Department of Pathology, Microbiology and Immunology, University of California, One Shields
+Avenue, Davis, CA 95616, USA; E-Mails: lllindsay@ucdavis.edu (L.L.L.);
+mplancarte@ucdavis.edu (M.P.)
+2
+One Health Institute, University of California, 1089 Veterinary Medicine Drive, Davis, CA 95616,
+USA; E-Mail: trkelly@ucdavis.edu
+3
+J. Craig Venter Institute, Rockville, MD 20850, USA; E-Mails: sschobel@jcvi.org (S.S.);
+xulin@jcvi.org (X.L.); vgdugan@hotmail.com (V.G.D.); dwentwor@jcvi.org (D.E.W.)
+†
+Current affiliation: Division of Microbiology and Infectious Diseases, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, US Department of Health and Human
+Services, Bethesda, MD 20892, USA.
+* Author to whom correspondence should be addressed; E-Mail: wmboyce@ucdavis.edu;
+Tel.: +1-530-752-1401; Fax: +1-530-752-3349.
+Received: 7 June 2013; in revised form: 20 July 2013 / Accepted: 23 July 2013 /
+Published: 5 August 2013
+Abstract: A high prevalence and diversity of avian influenza (AI) viruses were detected in
+a population of wild mallards sampled during summer 2011 in California, providing an
+opportunity to compare results obtained before and after virus culture. We tested cloacal
+swab samples prior to culture by matrix real-time PCR, and by amplifying and sequencing
+a 640bp portion of the hemagglutinin (HA) gene. Each sample was also inoculated into
+embryonated chicken eggs, and full genome sequences were determined for cultured
+viruses. While low matrix Ct values were a good predictor of virus isolation from eggs,
+samples with high or undetectable Ct values also yielded isolates. Furthermore, a single
+passage in eggs altered the occurrence and detection of viral strains, and mixed infections
+(different HA subtypes) were detected less frequently after culture. There is no gold
+standard or perfect reference comparison for surveillance of unknown viruses, and true
+negatives are difficult to distinguish from false negatives. This study showed that
+sequencing samples prior to culture increases the detection of mixed infections and
+OPEN ACCESS
+Viruses 2013, 5 1965
+enhances the identification of viral strains and sequences that may have changed or even
+disappeared during culture.
+Keywords: avian influenza; surveillance; hemagglutinin; virus isolation; embryonated
+chicken egg; sequencing; genome
+1. Introduction
+Influenza A surveillance in wild birds is crucial to understanding the origin, evolution and transmission
+of viruses that pose a potential health risk for humans, domesticated animals, and wildlife [1–4].
+Ideally, field and laboratory efforts should yield results that accurately reflect nature—screening tests
+should have 100% sensitivity and specificity, and virus isolation and sequencing should not alter or
+bias results. However, this is rarely the case, and many studies have shown that researchers must
+carefully consider the limitations and biases associated with different sampling strategies and
+diagnostic tests [5–10].
+On August 12 of 2011, we sampled 79 mallards (Anas platyrhynchos) at a single location in
+northern California that had a high prevalence (>50% positive by matrix gene real-time PCR) and
+diversity of hemagglutinin (HA) subtypes (H3, H4, H5, H6, H11, and H12) of avian influenza (AI)
+viruses. These samples provided a resource to evaluate and compare methods commonly used for AI
+surveillance in wild birds, and to examine how results differed before and after virus culture. We were
+particularly interested in exploring how culture affected our ability to detect mixed infections and the
+full range of viral diversity present in the ducks. Duplicate cloacal samples from each bird were
+screened for virus nucleic acid by matrix real-time (RT) PCR, and these pre-culture samples were
+subtyped by conventional PCR/sequencing of a 640 bp section of the HA gene. Each sample was
+inoculated and cultured in embryonated chicken eggs (ECE) to detect live virus, and allantoic fluid
+(ALF) was tested by matrix real time PCR, HA-subtyped by conventional PCR, and full genomes
+sequenced by a multisegment-RTPCR and next generation sequencing (NGS).
+2. Results
+2.1. AI Matrix Real-Time PCR of VTM and ALF Samples
+Fifty-one percent (81/158) of the duplicate swab samples (labeled P and V) had AI matrix real-time
+PCR cycle threshold (Ct) values <45 (the limit of detection), and 58% of the birds (46/79) were
+positive at this cutoff for either their P or V sample (Table 1). Similar values were obtained when
+repeat testing of the original samples was performed one year later, indicating test results were highly
+reproducible (p < 0.05); only average Ct values are reported. When Ct values for P and V samples
+(n = 79 each) were compared, there was no significant difference (p > 0.05) in the frequency of matrix-
+positive results, and kappa statistics (>0.80) indicated very good, but not perfect, agreement (Table 1).
+Thirty-two percent (51/158) of the samples inoculated into ECE yielded matrix-positive ALF
+samples, representing 39% of the birds (31/79) (Table 1). As shown in Figure 1, the Ct values for
+positive ALF samples (Ct 18-31) were much lower than positive VTM samples (Ct 27-43), almost
+Viruses 2013, 5 1966
+certainly as infection and replication produced larger amounts of viral RNA. As expected, there was a
+strong relationship between Ct values of matrix-positive VTM samples and the likelihood of egg
+inoculation yielding matrix-positive ALF. Overall, 60% (49/81) of the matrix PCR-positive VTM
+samples grew in eggs; two matrix-negative samples also grew in ECE for 51/81 samples total (Figure 1
+and Table 1).
+Table 1. Detection of influenza A matrix and hemagglutinin (HA) genes before (VTM
+samples) and after (ALF samples) inoculation in ECE. Paired cloacal swab samples (P, V)
+were tested from 79 mallards.
+Sample Unit
+Pre-inoculation (VTM) Post-inoculation (ALF)
+Matrix Ct < 45 Matrix Ct < 35
+HA positive
+(640PCR)
+Matrix Ct < 45
+640PCR HA
+positive
+M-RTPCR
+HA positive
+P swab 56% (44/79) 25% (20/79) 29% (23/79) 29% (23/79) 29% (23/79) 28% (22/79)
+V swab 47% (37/79) 24% (19/79) 35% (28/79) 35% (28/79) 35% (28/79) 35% (28/79)
+P and V swabs 51% (81/158) 25% (39/158) 32% (51/158) 32% (51/158) 32% (51/158) 32% (51/158)
+Birds 58% (46/79) 28% (22/79) 39% (31/79) 39% (31/79) 39% (31/79) 38% (30/79)
+Figure 1. Matrix real-time PCR and HA subtyping results for paired samples (P, V)
+from 32 birds before and after inoculation in ECE. HA subtypes in the original VTM
+samples were determined by 640PCR/Sanger sequencing, while subtypes in allantoic fluid
+(ALF) were determined by both 640PCR and M-RTPCR/NGS. NT = not tested.
+Neg = matrix Ct >45 or HA subtype not detected.
+Sample
+ID Sex
+VTM
+Cta
+ALF
+Cta
+Sample
+ID Sex
+VTM
+Cta
+ALF
+Cta
+2527P M 39.7 Neg 2559P M 29.0 21.9
+2527V 28.2 24.2 2559V 31.4 21.9
+2535P M 31.4 22.5 2548P F 42.6 31.3
+2535V 32.8 23.3 2548V Neg Neg
+2536P M 27.6 23.3 2549P F 41.8 Neg
+2536V 29.7 22.5 2549V Neg 21.9
+2589P M 34.8 21.6 2578P M 38.2 22.2
+2589V 34.7 21.2 2578V 35.9 20.4
+2563P F 30.6 20 2569P M 32.9 19.8
+2563V 34.1 20.5 2569V 32.7 27.9
+2531P M 30.1 23.3 2550P M 33.9 19.5
+2531V 31.7 27.4 2550V 34.1 20.9
+2542P M 40.4 Neg 2556P M 33.3 19.8
+2542V Neg 24.4 2556V 33.7 20.8
+2584P M 40.8 24.3 2568P M 33.3 20.5
+2584V 42.3 20.6 2568V 31.5 20.6
+2552P M 40.2 Neg 2576P M 29.4 19.8
+2552V 38.5 20.3 2576V 38.2 21.8
+2590P M 35.7 Neg 2521P F 31.5 21.9
+2590V 34.3 27.1 2521V 32.4 21.3
+2532P M 40.4 Neg 2540P F 28.3 20.0
+2532V 41.3 21.5 2540V 30.0 21.2
+2594P F 34.8 19.7 2547P M 37.2 Neg
+2594V 35.9 19.9 2547V 36.2 21.6
+2525P M 37.0 29.5 2561P M 33.7 19.7
+2525V 39.1 23.2 2561V 34.2 Neg
+2554P F 42.1 Neg 2566P F 34.4 21.5
+2554V 36.4 Neg 2566V 35.0 Neg
+2595P F 33.8 22.3 2571P M 29.7 18.3
+2595V 32.8 23.7 2571V 28.0 19.9
+2555P M 31.7 21.4
+a
+Matrix gene real-time PCR Ct 2555V 32.9 22.2
+2533P M 31.8 Neg
+H3 2533V 30.9 26.9
+H4
+H5
+H6
+H11
+H12
+Neg Neg
+Neg
+NT
+NT
+NT
+Neg
+Neg
+Neg NT
+ALF M-
+RTPCR
+NT
+NT
+ALF
+640PCR
+ALF M-
+RTPCR
+Neg Neg
+Neg
+Neg
+Neg
+VTM
+640PCR
+Neg
+Neg
+Neg
+NT
+Neg
+Neg
+Neg Neg
+Neg
+Neg
+VTM
+640PCR
+ALF
+640PCR
+NT
+Neg
+Neg
+Neg Neg
+NT
+NT
+Neg
+Neg
+Neg Neg
+Neg
+Neg
+Viruses 2013, 5 1967
+2.2. HA Subtyping
+Thirty-two percent (51/158) of the VTM and ALF samples were subtyped by either 640PCR or
+M-RTPCR. Figure 1 shows the HA subtyping results for the 32 birds that yielded an HA subtype by
+640PCR and/or M-RTPCR in at least one of the duplicate VTM samples or corresponding ALF
+samples. Six HA subtypes (H3, H4, H5, H6, H11, and H12) were identified, with H3, H4, and H5
+being the most common. All H5 sample sequences were low pathogenicity AI. Mixed infections were
+detected in seven of the bird VTM samples, while only three samples showed mixed infections in the
+ALF. There were no significant subtype differences between male and female birds. The agreement
+between ALF subtypes determined by 640PCR and M-RTPCR was nearly perfect; only two cases
+were noted where there was not a perfect match (Figure 1 and Table 1). However, the ALF subtypes
+differed from the VTM subtype for 15 of the 46 samples where both the VTM and ALF samples were
+subtyped, corresponding to conflicting results for 12 of 32 birds (kappa = 0.5 (0.25–0.75)).
+2.3. M-RTPCR Virus Segment Amplification
+The M-RTPCR amplicons were analyzed by agarose gel electrophoresis prior to NGS to assess
+whether all eight segments were present. Figure 2 shows the banding patterns for the amplified
+products, scoring samples for the presence/absence of specific segment bands. In every case where
+bands were observed but not all segments were present, the segments below the limit of detection were
+either HA or NA or both; all of the internal segment bands were present. These samples still yielded
+full genome sequences upon subsequent NGS. Interestingly, all of the samples where the HA band was
+missing but an HA sequence was still obtained (n = 14) were H4, with only one H4 sample showing a
+band on the gel. All of the NA subtyped samples showing missing NA bands (n = 4) were N9, and this
+represented all of the N9 samples.
+2.4. Sequence Analysis of Duplicate Samples from Birds
+Full genome sequences from virus isolates were obtained from both the P and V swabs for 20 birds,
+allowing comparison of the percent nucleotide identities for the eight genome segments (Table 2). Of
+the total of 160 segment pairs, 46 (29%) showed sequence variability, ranging from 91.63%–99.96%
+nucleotide identity, with 23 showing <99.90% identity. The HA and NA segments showed the least
+amount of variability, while the NP and NS segments showed the most. One sample, 2578V, showed a
+mixed NS sequence, therefore it was designated “H3N8 mix.” As expected, birds exhibiting mixed
+infections had lower percent identity values between sample segments due to differing virus sources.
+However, there was less variation than anticipated. In many cases the segment sequences were
+identical even though the presence of more than one virus was indicated.
+Viruses 2013, 5 1968
+Figure 2. Multi-segment RT-PCR results for allantoic fluid (ALF) samples that were
+positive by matrix real-time PCR. Full genome sequences were determined by next
+generation sequencing (NGS) for samples even if they lacked detectable bands. a
+Agarose
+gel profiles were examined for the presence/absence of individual segment bands. If all
+segment bands were absent on the gel, the sample was not put through NGS. Absent bands
+are highlighted. P = band present, A = band absent, NT = not tested by NGS and reported
+as negative in Figure 1. b
+The PB1 and PB2 segments are the same size and therefore
+cannot be resolved on agarose gels. c
+Sample 2578V was found to have two NS sequences
+so was designated “H3N8 mix.”
+Sample ID HA NA
+PB1/
+PB2
+b
+PA NS NP M
+NGS subtype
+result Sample ID HA NA
+PB1/
+PB2
+b
+PA NS NP M
+NGS subtype
+result
+2521P P P P P P P P H3N8 2556P P P P P P P P H3N8
+2521V P P P P P P P H3N8 2556V P P P P P P P H3N8
+2522V A A A A A A A NT 2558V A A A A A A A NT
+2525P A P P P P P P H4N6 2559P P P P P P P P H5N8
+2525V A P P P P P P H4,6N1,6 2559V P P P P P P P H3,5N8
+2527V P P P P P P P H5N1 2561P P P P P P P P H3N8
+2531P P P P P P P P H5N1 2563P A P P P P P P H4N6
+2531V P P P P P P P H5N1 2563V A P P P P P P H4N6
+2532V A P P P P P P H4N6 2566P A P P P P P P H4N8
+2533P A A A A A A A NT 2568P P P P P P P P H3N8
+2533V A P P P P P P H4N6 2568V P P P P P P P H3N8
+2535P P P P P P P P H5N1 2569P P P P P P P P H3N8
+2535V P P P P P P P H5N1 2569V P P P P P P P H3N8
+2536P P P P P P P P H5N1 2570V A A A A A A A NT
+2536V P P P P P P P H5N1 2571P P P P P P P P H11N2
+2537V A A A A A A A NT 2571V P P P P P P P H3,11N2
+2540P P P P P P P P H3N8 2576P P P P P P P P H3N8
+2540V P P P P P P P H3N8 2576V P P P P P P P H3N8
+2541V A A A A A A A NT 2578P P P P P P P P H3N8
+2542V P P P P P P P H5N1 2578V P P P P P P P H3N8/mix NS
+c
+2543V A A A A A A A NT 2579P A A A A A A A NT
+2545V A A A A A A A NT 2583P A A A A A A A NT
+2547V P P P P P P P H3N8 2584P A A P P P P P H4N9
+2548P A A A A A A A NT 2584V P A P P P P P H4N9
+2549P A A A A A A A NT 2588V A A A A A A A NT
+2549V P P P P P P P H3N8 2589P A P P P P P P H4N1
+2550P P P P P P P P H3N8 2589V A P P P P P P H4N1
+2550V P P P P P P P H3N8 2590V A P P P P P P H4N6
+2552V A P P P P P P H4N8 2594P A P P P P P P H4N6
+2554V A A A A A A A NT 2594V A P P P P P P H4N6
+2555P P A P P P P P H11N9 2595P P P P P P P P H12N5
+2555V P A P P P P P H11N9 2595V P P P P P P P H12N5
+gel results
+a
+gel results
+a
+Viruses 2013, 5 1969
+Table 2. Comparison of nucleotide identities for viruses isolated from different swabs from
+the same bird. Twenty birds yielded viruses from both their P and V swabs when
+inoculated into ECE.
+Bird ID
+NGS
+Subtype
+PB2a
+% identity
+PB1
+% identity
+PA
+% identity
+HA
+% identity
+NP
+% identity
+NA
+% identity
+M
+% identity
+NS
+% identity
+2521P H3N8
+100 100 100 100 100 100 100 100
+2521V H3N8
+2525P H4N6
+99.96 100 100 100 (H4)
+100 (P,Va)b
+100 100 100
+2525V H4,6N1,6
+92.22
+(P,Vb)
+2531P H5N1
+98.14 100 99.77 99.94 91.76 100 98.8 93.43
+2531V H5N1
+2535P H5N1
+100 100 99.91 100 100 100 100 100
+2535V H5N1
+2536P H5N1
+100 99.91 100 99.94 99.93 100 100 100
+2536V H5N1
+2540P H3N8
+98.92 99.31 99.82 99.94 99.93 100 100 100
+2540V H3N8
+2550P H3N8
+100 100 100 100 100 100 100 100
+2550V H3N8
+2555P H11N9
+100 100 100 99.94 100 100 100 99.88
+2555V H11N9
+2556P H3N8
+100 99.91 100 100 100 100 100 100
+2556V H3N8
+2559P H5N8
+99.05 96.79 96.51 99.94 (H5)
+91.63 (P,Va)
+100 97.6 93.53
+2559V H3,5N8
+99.93
+(P,Vb)
+2563P H4N6
+100 99.91 100 99.94 91.9 99.72 98 100
+2563V H4N6
+2568P H3N8
+100 99.96 100 100 100 100 100 100
+2568V H3N8
+2569P H3N8
+100 100 100 100 100 100 100 100
+2569V H3N8
+2571P H11N2
+100 100 100 99.88 (H11) 100 100 100 100
+2571V H3,11N2
+2576P H3N8
+100 100 100 100 100 99.93 100 100
+2576V H3N8
+2578P H3N8
+100 97 99.95 100 98.69 99.93 100
+100 (P,Va)
+2578V H3N8 mix
+93.87
+(P,Vb)
+2584P H4N9
+99.96 100 100 99.71 100 100 100 100
+2584V H4N9
+2589P H4N1
+99.91 100 100 99.94 100 100 99.9 100
+2589V H4N1
+2594P H4N6
+100 100 100 100 100 100 99.9 100
+2594V H4N6
+2595P H12N5
+100 100 100 100 100 100 100 100
+2595V H12N5
+a
+When both of the swab ALF samples (P and V) from a given bird yielded sequences for each of the eight viral genome
+segments by M-RTPCR/NGS, percent nucleotide identity was calculated. Highlighted samples were from samples that
+showed evidence of mixed infections within the VTM or ALF or both in the P and/or V samples (see Figure 1 and text for
+bird 2578). b
+When two sequences were found within a sample they were labeled “a” and “b.”
+3. Discussion
+The matrix gene real-time PCR is widely used to estimate the prevalence of AI in wild bird
+populations, and the assay is sometimes used to screen samples for subsequent virus isolation [5,8,10–12].
+Matrix Ct values are inversely related to the amount of viral RNA present in a sample-samples with
+low CT values have more viral RNA while samples with less RNA must undergo additional cycles to
+reach the threshold response. Although the maximum limit of detection for the matrix PCR assay is 45,
+many studies have shown that virus isolation success is much higher for samples having lower (<35)
+Ct counts [7,9,13]. In the present study, viruses were isolated from 39% of birds indicating that these
+Viruses 2013, 5 1970
+birds were shedding infectious virus (Figure 1 and Table 1). Virus was isolated from a single swab
+for 11 of 31 birds, most often corresponding to VTM samples that had high matrix Ct values (=low
+amount of RNA). Eight VTM samples with Ct values >35 grew in eggs, including two with values
+above detectable limits (>45), while three samples with Ct values <35 did not grow. Thus, as shown in
+previous studies [5,9–13] the VTM matrix Ct value is a good, but imperfect predictor for virus growth
+in ECE, and several isolates would have been missed if a low matrix Ct value were used as a
+prerequisite for inoculation into eggs.
+We amplified and sequenced a portion of the HA gene to provide an independent assessment (other
+than matrix assay) of AI infection in samples prior to egg inoculation. As with the matrix assay, the
+640PCR test only detects viral RNA and does not indicate whether infectious virus is present.
+Thirty-nine percent of birds (31/79) were HA positive on one or both of their VTM samples (Table 1),
+and six HA subtypes were detected (H3, H4, H5, H6, H11, H12). Mixed infections (two HA subtypes)
+were detected in 11 swab samples from a total of seven birds. All of the swab samples with matrix Ct
+values <35 were able to be HA subtyped, likely because these samples had the most viral RNA
+template for both the matrix and HA genes. However, 17 additional HA-subtyped samples were
+obtained by sequencing samples with matrix Ct values >35, demonstrating that samples with high
+matrix Ct values can provide important genotype information prior to virus culture and amplification
+(Figure 1 and Table 1).
+The detection of HA sequences in VTM samples was a good predictor of virus growth in ECE, and
+>90% of HA positive samples (46/51) yielded virus isolates. Conversely, growth in eggs was a good
+indicator that HA sequences could be obtained from the original VTM sample. Of the 51 VTM
+samples that yielded virus isolates, only five could not be HA subtyped prior to inoculation in eggs.
+Although the overall frequency of HA positive results did not differ between paired swab samples,
+35% (11/31) of the HA positive birds had only a single positive swab pre-inoculation. As with the
+matrix gene PCR test, combining the results of the two samples from each bird increased the estimated
+prevalence of AI within the population, and it provided a more accurate view of which birds were
+shedding infectious virus. These results are consistent with other studies that showed a combination of
+methods improved the accuracy of detection [6,10].
+It is widely recognized that virus culture in ECE is a necessary, but imperfect method for isolating
+influenza viruses infecting wild birds [5,7–10,12], and comparison of HA subtypes obtained before
+and after egg inoculation showed that egg culture altered the occurrence and detection of viral strains.
+Although the same six HA subtypes were detected in birds before and after egg inoculation, the
+detection of H3 and H4 subtypes together increased in frequency from 58% to 77% post-inoculation,
+while H5 detections decreased by 50%. Mixed infections were also detected less frequently, as has
+been suggested by other direct studies of VTM samples [14], occurring in seven birds pre-inoculation
+but in only three birds post-inoculation. These changes likely reflect low amounts or a lack of viable
+virus in the original sample, variable fitness of different strains to grow in ECE, and/or virus
+competition in mixed infections [7,10,15–17]. Most importantly, these results show that culture in eggs
+provides a biased view of viruses present in original or primary samples. The ideal surveillance assay
+would yield full genome sequences from original samples without culture. Based on the results of the
+present study, we now perform both 640PCR and M-RTPCR assays to obtain partial and even full
+Viruses 2013, 5 1971
+genome sequences from primary VTM samples. However, the low amount of RNA present in many
+samples poses a major obstacle, and more sensitive methods are needed.
+The multi-segment M-RTPCR and the 640PCR gave essentially identical results for subtyping virus
+isolates in ALF. Although M-RTPCR amplification of a subset of HA and NA segments was
+inefficient in some cases, subsequent NGS resulted in complete genome sequences. This indicated that
+all eight RNA segments were present in the ALF samples as expected, but that the HA/NA segments
+were not efficiently amplified during the M-RTPCR reaction. Interestingly, the poor amplification was
+restricted to H4 and N9 in our sample set, perhaps because RNA secondary structure inhibited efficient
+transcription, or the PCR conditions were not optimal for these subtypes. Decreased efficiency of H4
+amplification compared to other HA subtypes has also been reported in a study using a different PCR
+protocol that also used primers based on the conserved 5' and 3' ends of the viral segments [18].
+Virus selection and possibly mutation in ECE was observed by comparing the sequences obtained
+from duplicate AI isolates (two swab samples from the same bird). Nucleotide differences were
+observed in 29% of the paired segments (n = 20 birds; 160 pairwise comparisons), with identities as
+low as 91.63%. Variability between paired samples with high identity (>99.9%) may have been caused
+by the high error rate (<0.1%) of virus RNA polymerase [1], as well as PCR and DNA sequencing
+polymerase errors [19]. Paired samples that showed <99.9% identity among one or more segments
+(14% of total, n = 23 segment pairs) were from birds (8/20) with mixed infections, i.e., two HA
+subtypes were detected in the ALF sample, or, more commonly, there were differing HA subtypes
+detected in the VTM sample versus the corresponding ALF. However, not all segments in these mixed
+samples showed variability, likely because the different virus strains shared common segment
+sequences as observed previously [3]. Another possibility is that during growth in the ECE, certain
+virus segments from the mix were retained and others “discarded” during reassortment and virus
+packaging. Non-random reassortment of segments in mixed infections has been observed in other
+studies, and it has been postulated that strain-specific signals in certain genomic segments result in
+selective packaging in progeny virus particles [17,20,21].
+This study showed that mixed infections and naturally occurring viruses can be overlooked or
+altered by laboratory methods, and that analysis of primary samples prior to culture provides a more
+accurate view of viruses occurring in vivo. However, despite the use of increasingly sophisticated
+tools, our attempts to identify and characterize viral diversity will continue to be challenged by the
+dynamic, quasispecies nature of influenza viruses [22,23]. The diversity of subtypes and mixed
+infections we detected prior to culture, and the nucleotide differences we observed in sequences from
+paired swabs from the same bird, hint at the underlying complexity of infection likely occurring at the
+cellular level. However, consensus sequences oversimplify the genetic diversity and complexity of
+influenza virus infection in vivo, and they fail to fully convey a given isolate’s potential for cross-
+species transmission and pathogenicity [24]. Deep sequencing efforts that focus on characterizing the
+full diversity and interactions among virus subpopulations at the molecular and cellular levels will be
+essential going forward, particularly if they are applied to primary samples not altered by sample
+handling and laboratory methods [25].
+Viruses 2013, 5 1972
+4. Conclusions
+The true infection status of the 79 birds in this study was unknown, as is the case for all wild bird
+surveillance. There is no gold standard or perfect reference comparison for surveillance of unknown
+viruses; therefore, true negatives and false negatives cannot be reliably distinguished, and each
+additional sample and diagnostic test can provide additional information. Virus culture, with all its
+limitations, continues to be necessary for obtaining sufficient amounts of RNA and live virus for
+genotypic and phenotypic characterization. However, careful thought should be given to making sure
+that inferences drawn from the study of cultured viruses apply to the viruses that actually occur in
+nature. Improved methods for analyzing primary samples and sequencing viruses without previous
+culture will help ensure that naturally occurring variants are detected.
+5. Experimental Section
+5.1. Samples
+Wild mallard ducks (n = 79) were captured and sampled on 12 August 2011 in the Suisun Marsh
+near San Francisco, CA (38.1307°N, 121.9814°W). Influenza virus infection and shedding occurs
+seasonally among mallards at this site [26], and most of the captured ducks (74/79) were hatch-year
+birds <6 months of age (51 males, 28 females). Cloacal swabs were collected in duplicate
+(79 birds = 158 swab samples) and placed in separate vials containing 2 mL of ice-cold virus transport
+medium (VTM: Medium 199 with Earle’s salts, L-glutamine, and sodium bicarbonate, plus 2 mU/L
+penicillin G, 200 mg/L streptomycin, 2 mU/L polymyxin B, 250 mg/L gentamicin, 0.5 mU/L nystatin,
+60 mg/L ofloxacin, 200 mg/L sulfamethoxazole, and 0.5% bovine serum albumin V) [27]. The
+samples were transported on ice to the laboratory where they were stored at −80 °C. The duplicate
+samples were designated “P” (for PCR) and “V” (for virus isolation), and were collected in random
+order. In the laboratory, P samples were thawed to withdraw aliquots for RNA extraction and PCR,
+and then refrozen. The remaining P samples were later inoculated into ECE after a total of two or three
+freeze-thaw cycles. The V samples were inoculated into ECE after a single freeze-thaw cycle, refrozen,
+and then later thawed again for RNA extraction and PCR.
+5.2. RNA Isolation and Reverse Transcription
+The VTM samples were thawed on ice, vortexed briefly, and 300 µL was centrifuged in a
+microcentrifuge at top speed for 3 min. All but ~50 µL of the supernatant was removed, and the pellet
+was resuspended with the addition of 50 µL of lysis buffer (without carrier RNA) from a MagMAX-96
+AI/ND Viral RNA Isolation Kit (Ambion Inc. Austin, TX, USA). A Kingfisher nucleic acid extraction
+system (Thermo Scientific) was used to extract RNA according to the MagMAX kit instructions. The
+RNA samples were stored at −80 °C until use. Complementary DNA was generated from 4 µL of
+RNA using a MMLV reverse transcriptase kit (Invitrogen, Carlsbad, CA, USA) following the
+manufacturer’s protocol and using random primers.
+Viruses 2013, 5 1973
+5.3. Influenza A PCR
+Influenza A positive VTM and ALF samples were identified by real-time PCR to amplify the
+matrix gene based on a protocol by Spackman et al. [28] and modified by Runstadler et al. [11]. A
+TaqMan Universal PCR Master Mix No AmpErase UNG Kit (Applied Biosystems, Branchburg, NJ,
+USA) was used with 3 µL cDNA in a 25 µL reaction volume containing 800 nM primers (forward
+primer, 5' ARATGAGTCTTCTRACCGAGGTCG 3', reverse primer, 5' TGAAAAGACATCYTCAAGYYTCTG
+3') and 200 nM probe ([6-FAM]TCAGGCCCCCTCAAAGCCGA[TAMRA-6-FAM]). The PCR
+program consisted of 95 °C for 10 min followed by 45 cycles of 95 °C for 15 s and 65 °C for 1 min.
+Results from real-time PCR are reported in threshold cycle (Ct) values, which correspond to the
+number of PCR cycles required to detect nucleic acid (lower Ct levels indicate greater concentration of
+virus RNA in the sample). Any sample with a Ct value ≥45, i.e., exceeding the maximum number of
+cycles specified by the real-time PCR program, was considered negative (beyond detectable limits).
+An Applied Biosystems 7500 Fast instrument was used. All samples were tested twice, each time
+starting with the extracted RNA.
+5.4. Virus Isolation
+All VTM samples (P and V) were inoculated into 11-day-old ECE (Charles River, North Franklin,
+CT, USA) following standard methods [27]. A total of 4 eggs were used to isolate viruses from each
+bird, since each of the paired samples from a single bird was inoculated into 2 eggs. The VTM was
+thawed, vortexed briefly, and 200 µL removed and mixed with 100 µL of an antibiotic/anti-fungal
+solution containing streptomycin sulphate, penicillin G, polymyxin B, nystatin, ofloxacin, gentamycin
+and sulfamethoxazole [29]. The mixture was injected into the allantoic cavities of two eggs followed
+by incubation at 37.8 °C for three days or until embryo death as detected by daily candling. The ALF
+from each pair of eggs was harvested, pooled, and 50 µL was immediately processed for RNA
+extraction, cDNA generation, and PCR testing as described above. Remaining ALF was frozen at
+−80 °C. Second passages in eggs were not attempted so as to avoid selection for egg-adapted mutants.
+5.5. HA Subtyping
+HA subtyping was performed on cDNA from all VTM and ALF samples using a modified
+protocol based on Phipps et al. [30] to generate a 640 bp product (640PCR). The forward
+primer 5' GGRATGRTHGAYGGNTGGTAYGG 3' was a modification of the Phipps et al. [30]
+primer to include HA sequences often found in California. The HARK reverse primer
+5' ATATGGCGCCGTATTAGTAGAAACAAGGGTGTTTT 3' was from Bragstad et al. [31]. The
+25 µL PCR reaction used 0.08 U Amplitaq Gold polymerase and 10× buffer without MgCl2
+(Invitrogen), 1.5 mM MgCl2, 0.2 mM dNTP mix, and 0.6 µM of each primer. The PCR program
+consisted of 10 min at 95 °C, followed by 45 cycles of 94 °C for 1 min, 58 °C for 1 min, and 72 °C for
+1 min, with a final extension of 72 °C for 7 min. Following electrophoresis on a 1.5% agarose gel, the
+640 bp band was excised and purified using a QIAquick gel extraction kit (Qiagen, Valencia, CA,
+USA) with an elution volume of 30 µL. If a 640 bp product was not obtained using an annealing
+temperature of 58 °C, the temperature was reduced to 50 °C. Direct Sanger sequencing of amplicons
+Viruses 2013, 5 1974
+was performed (College of Biological Sciences UC
+DNA Davis Sequencing Facility, University of
+California, Davis, CA, USA) using the HARK reverse primer. Sequences were subtyped by
+performing a BLAST search at [32] to find the closest possible match from available HA sequences in
+GenBank. When mixed sample sequences were obtained, the chromatograms were inspected by eye
+and in several cases one sequence dominated, thus the two sequences could be distinguished. If mixed
+infections were indistinguishable, the PCR products were cloned using a pGEM-T Easy vector system
+(Promega, Madison, WI, USA) using the manufacturer’s instructions. Multiple colonies (6–10) were
+processed for sequencing. Subtypes were also determined by the J. Craig Venter Institute (JCVI) using
+a multi-segment reverse transcription-PCR (M-RTPCR) to simultaneously amplify all eight influenza
+A genome segments in a single reaction [33,34]. Full genome sequencing was then performed by
+high-throughput NGS [19]. The Genbank accession numbers for these segment nucleotide sequences
+are CY133917 through CY134294.
+5.6. Statistical Analyses
+McNemar’s test was used to evaluate differences in results between P and V swabs (real-time PCR,
+640PCR, M-RTPCR), to compare the frequencies of matrix-positive VTM and ALF samples, and to
+compare frequencies of HA positive results by 640PCR and M-RTPCR. Differences in the distribution
+of HA subtypes by sex was assessed using Fisher’s Exact test. Agreement in results between HA
+subtyping protocols and between the P and V swabs was evaluated using Cohen’s Kappa statistic with
+the following guidelines for index interpretation: poor agreement (<0.00), slight agreement (0.00–0.20),
+fair agreement (0.21–0.40), moderate agreement (0.41–0.60), good agreement (0.61–0.80) and very
+good agreement (0.81–1.00) [35]. All analyses were performed using R [36]. A p-value < 0.05 was
+considered statistically significant.
+Acknowledgments
+This work was supported by funds from the National Institute of Allergy and Infectious Disease, the
+National Institutes of Health and Human Services under contract nos. HHSN277200700007C and
+HHSN266200700010C.
+Conflict of Interest
+The authors declare no conflict of interest.
+References and Notes
+1. Webster, R.G.; Bean, W.J.; Gorman, O.T.; Chambers, T.M.; Kawaoka, Y. Evolution and ecology
+of influenza A viruses. Microbiol. Rev. 1992, 56, 152–179.
+2. Olsen, B.; Munster, V.J.; Wallensten, A.; Waldenström, J.; Osterhaus, A.D.M.E.; Fouchier,
+R.A.M. Global patterns of in wild birds. Science 2006, 312, 384–388.
+3. Dugan, V.G.; Chen, R.; Spiro, D.J.; Sengamalay, N.; Zaborsky, J.; Ghedin, E.; Nolting, J.;
+Swayne, D.E.; Runstadler, J.A.; Happ, G.M.; et al. The evolutionary genetics and emergence of
+avian influenza viruses in wild birds. PLoS Pathog. 2008, 4, e1000076.
+Viruses 2013, 5 1975
+4. Deliberto, T.J.; Swafford, S.R.; Nolte, D.L.; Pedersen, K.; Lutman, M.W.; Schmit, B.B.; Baroch,
+J.A.; Kohler, D.J.; Franklin, A. Surveillance for highly pathogenic avian influenza in wild birds in
+the USA. Integr. Zool. 2009, 4, 426–439.
+5. Suarez, D.L.; Das, A.; Ellis, E. Review of rapid molecular diagnostic tools for avian influenza
+virus. Avian Dis. 2007, 51, 201–208.
+6. Lira, J.; Moresco, K.A.; Stallknecht, D.E.; Swayne, D.E.; Fisher, D.S. Single and combination
+diagnostic test efficiency and cost analysis for detection and isolation of avian influenza virus
+from wild bird cloacal swabs. Avian Dis. 2010, 54, 606–612.
+7. Munster, V.J.; Baas, C.; Lexmond, P.; Bestebroer, T.M.; Guldemeester, J.; Beyer, W.E.; de Wit,
+E.; Schutten, M.; Rimmelzwaan, G.F.; Osterhaus, A.D.; et al. Practical considerations for high-
+throughput influenza A virus surveillance studies of wild birds by use of molecular diagnostic
+tests. J. Clin. Microbiol. 2009, 47, 666–673.
+8. Brown, J.D.; Poulson, R.; Carter, D.L.; Lebarbenchon, C.; Stallknecht, D.E. Infectivity of avian
+influenza virus-positive field samples for mallards: What do our diagnostic results mean?
+J. Wildlife Dis. 2013, 49, 180–185.
+9. Moresco, K.A.; Stallknecht, D.E.; Swayne, D.E. Avian embryos, real-time polymerase chain
+reaction, and cell culture for detection of avian influenza and Newcastle disease virus in wild bird
+surveillance samples. J. Vet. Diagn. Invest. 2012, 24, 563–567.
+10. Stallknecht, D.E.; Luttrell, M.P.; Poulson, R.; Goekjian, V.; Niles, L.; Dey, A.; Krauss, S.;
+Webster, R.G. Detection of avian influenza viruses from shorebirds: Evaluation of surveillance
+and testing approaches. J. Wildlife Dis. 2012, 48, 382–393.
+11. Runstadler, J.A.; Happ, G.M.; Slemons, R.D.; Sheng, Z.M.; Gundlach, N.; Petrula, M.; Senne, D.;
+Nolting, J.; Evers, D.L.; Modrell, A.; et al. Using RRT-PCR analysis and virus isolation to
+determine the prevalence of avian influenza virus infections in ducks at Minto Flats State Game
+Refuge, Alaska, during August 2005. Arch. Virol. 2007, 152, 1901–1910.
+12. Swayne, D.E.; Senne, D.A.; Suarez, D.L. Avian influenza. In A Laboratory Manual for the
+Isolation and Identification of Avian Pathogens, 5th ed.; Dufour-Zavala, L., Swayne, D.E.,
+Glisson, J.R., Pearson, J.E., Reed, W.M., Jackwood, M.W., Woolcock, P.R., Eds.; American
+Association of Avian Pathologists: Kennett Square, PA, USA, 2008; pp. 128–134.
+13. Moresco, K.A.; Stallknecht, D.E.; Swayne, D.E. Evaluation and attempted optimization of avian
+embryos and cell culture methods for efficient isolation and propagation of low pathogenicity
+avian influenza viruses. Avian Dis. 2010, 54, 622–626.
+14. Wang, R.; Soll, L.; Dugan, V.; Runstadler, J.; Happ, G.; Slemons, R.D.; Taubenberger, J.K.
+Examining the hemagglutinin subtype diversity among wild duck-origin influenza A viruses using
+ethanol-fixed cloacal swabs and a novel RT-PCR method. Virology 2008, 375, 182–189.
+15. Schild, G.C.; Oxford, J.S.; de Jong, J.C.; Webster, R.G. Evidence for host-cell selection of
+influenza virus antigenic variants. Nature 1983, 303, 706–709.
+16. Woolcock, P.R.; McFarland, M.D.; Lai, S.; Chin, R.P. Enhanced recovery of avian influenza virus
+isolates by a combination of chicken embryo inoculation methods. Avian Dis. 2001, 45, 1030–1035.
+17. Varich, N.L.; Gitelman, A.K.; Shilov, A.A.; Smirnov, Y.A.; Kaverin, N.V. Deviation from the
+random distribution pattern of influenza A virus gene segments in reassortants produced under
+non-selective conditions. Arch. Virol. 2008, 153, 1149–1154.
+Viruses 2013, 5 1976
+18. Jindal, N.; Chander, Y.; de Abin, M.; Sreevatsan, S.; Stallknecht, D.; Halvorson, D.A.; Goyal,
+S.M. Amplification of four genes of influenza A viruses using a degenerate primer set in a one
+step RT-PCR method. J. Virol. Methods 2009, 160, 163–166.
+19. Dugan, V.G. A robust tool highlights the influence of bird migration on influenza A virus
+evolution. Mol. Ecol. 2012, 21, 5905–5907.
+20. Lubeck, M.D.; Palese, P.; Schulman, J.L. Nonrandom association of parental genes in influenza A
+virus recombinants. Virology 1979, 95, 269–274.
+21. Hutchinson, E.C.; von Kirchbach, J.C.; Gog, J.R.; Digard, P. Genome packaging in influenza A
+virus. J. Gen. Virol. 2010, 91, 313–328.
+22. Ramakrishnan, M.A.; Tu, Z.J.; Singh, S.; Chockalingam, A.K.; Gramer, M.R.; Wang, P.; Goyal,
+S.M.; Yang, M.; Halvorson, D.A.; Sreevatsan, S. The feasibility of using hih resolution genome
+sequencing of influenza A viruses to detect mixed infections and quasispecies. PLoS One 2009, 4,
+e7105.
+23. Lauring, A.S.; Andino, R. Quasispecies theory and the behavior of RNA viruses. PLoS Pathog.
+2010, 6, e1001005.
+24. Mertens, E.; Dugan, V.G.; Stockwell, T.B.; Lindsay, L.L.; Plancarte, M.; Boyce, W.M.
+Evaluation of phenotypic markers in full genome sequences of avian influenza isolates from
+California. Comp. Immunol. Microbiol. Infect. Dis. 2013, in press.
+25. Saira, K.; Lin, X.; Depasse, J.V.; Halpin, R.; Twaddle, A.; Stockwell, T.; Angus, B.; Cozzi-Lepri,
+A.; Delfino, M.; Dugan, V.; et al. Sequence analysis of in vivo defective interfering-like RNA of
+influenza A H1N1 pandemic virus. J. Virol. 2013, 87, 8064–8074.
+26. Hill, N.J.; Takekawa, J.Y.; Ackerman, J.T.; Hobson, K.A.; Herring, G.; Cardona, C.J.; Runstadler,
+J.A.; Boyce, W.M. Migration strategy affects avian influenza dynamics in mallards (Anas
+platyrhynchos). Mol. Ecol. 2012, 21, 5986–5999.
+27. Krauss, S.; Walker, D.; Webster, R.G. Influenza virus isolation. Method. Mol. Biol. 2012, 865,
+11–24.
+28. Spackman, E.; Senne, D.A.; Myers, T.J.; Bulaga, L.L.; Garber, L.P.; Perdue, M.L.; Lohman, K.;
+Daum, L.T.; Suarez, D.L. Development of a real-time reverse transcriptase PCR assay for type A
+influenza virus and the avian H5 and H7 hemagglutinin subtypes. J. Clin. Microbiol. 2002, 40,
+3256–3260.
+29. Khalenkov, A.; Laver, W.G.; Webster, R.G. Detection and isolation of H5N1 influenza virus from
+large volumes of natural water. J. Virol. Methods 2008, 149, 180–183.
+30. Phipps, L.P.; Essen, S.C.; Brown, I.H. Genetic subtyping of influenza A viruses using RT-PCR
+with a single set of primers based on conserved sequences within the HA2 coding region. J. Virol.
+Methods 2004, 122, 119–122.
+31. Bragstad, K.; Jorgensen, P.H.; Handberg, K.J.; Mellergaard, S.; Corbet, S.; Fomsgaard, A. New
+avian influenza A virus subtype combination H5N7 identified in Danish mallard ducks. Virus Res.
+2005, 109, 181–190.
+32. Basic Local Alignment Search Tool. Available online: http://www.ncbi.nlm.nih.gov/BLAST
+(accessed on 30 January 2013).
+Viruses 2013, 5 1977
+33. Zhou, B.; Donnelly, M.E.; Scholes, D.T.; St George, K.; Hatta, M.; Kawaoka, Y.; Wentworth,
+D.E. Single-reaction genomic amplification accelerates sequencing and vaccine production for
+classical and Swine origin human influenza a viruses. J. Virol. 2009, 83, 10309–10313.
+34. Zhou, B.; Wentworth, D.E. Influenza A virus molecular virology techniques. Method. Mol. Biol.
+2012, 865, 175–192.
+35. Landis, J.R.; Koch, G.G. The measurement of observer agreement for categorical data. Biometrics
+1977, 33, 159–174.
+36. R. Development Core Team. R: A language and environment for statistical computing. In R
+Foundation for Statistical Computing: Vienna, Austria, 2011. ISBN 3-900051-07-0. Available
+online: http://www.R-project.org (accessed on 15 January 2011).
+© 2013 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article
+distributed under the terms and conditions of the Creative Commons Attribution license
+(http://creativecommons.org/licenses/by/3.0/).

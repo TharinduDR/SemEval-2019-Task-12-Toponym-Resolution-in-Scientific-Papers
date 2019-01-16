@@ -1,0 +1,118 @@
+T1	Location 92 97	Japan
+#1	AnnotatorNotes T1	<latlng>36,138</latlng><geoID>1861060</geoID>
+T2	Location 103 108	China
+#2	AnnotatorNotes T2	<latlng>35,105</latlng><geoID>1814991</geoID>
+T18	Location 610 615	China
+#18	AnnotatorNotes T18	<latlng>35,105</latlng><geoID>1814991</geoID>
+T19	Location 861 866	China
+#19	AnnotatorNotes T19	<latlng>35,105</latlng><geoID>1814991</geoID>
+T20	Location 1109 1114	China
+#20	AnnotatorNotes T20	<latlng>35,105</latlng><geoID>1814991</geoID>
+T10	Location 1400 1409	East Asia
+#10	AnnotatorNotes T10	<latlng>32.24997, 114.60938</latlng><pop>1575784500</pop><geoID>7729894</geoID>
+T23	Location 1427 1438	Middle East
+#23	AnnotatorNotes T23	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T24	Location 1441 1447	Europe
+#24	AnnotatorNotes T24	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T11	Location 1453 1468	Southern Africa
+#11	AnnotatorNotes T11	<latlng>-27.11781, 22.28027</latlng><pop>57000000</pop><geoID>9406051</geoID>
+T27	Location 1709 1718	Hong Kong
+#27	AnnotatorNotes T27	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID>
+T28	Location 1962 1966	Asia
+#28	AnnotatorNotes T28	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T29	Location 2219 2224	China
+#29	AnnotatorNotes T29	<latlng>35,105</latlng><geoID>1814991</geoID>
+T32	Location 2469 2474	China
+#32	AnnotatorNotes T32	<latlng>35,105</latlng><geoID>1814991</geoID>
+T33	Location 2478 2483	Korea
+#33	AnnotatorNotes T33	<latlng>37,127.5</latlng><geoID>1835841</geoID>
+T34	Location 2780 2785	China
+#34	AnnotatorNotes T34	<latlng>35,105</latlng><geoID>1814991</geoID>
+T45	Location 3432 3437	Japan
+#45	AnnotatorNotes T45	<latlng>36,138</latlng><geoID>1861060</geoID>
+T46	Location 3550 3555	Japan
+#46	AnnotatorNotes T46	<latlng>36,138</latlng><geoID>1861060</geoID>
+T55	Location 5968 5973	Tokyo
+#55	AnnotatorNotes T55	<latlng>35.6895,139.69171</latlng><pop>12445327</pop><geoID>1850144</geoID>
+T56	Location 5975 5980	Japan
+#56	AnnotatorNotes T56	<latlng>36,138</latlng><geoID>1861060</geoID>
+T58	Location 6552 6557	China
+#58	AnnotatorNotes T58	<latlng>35,105</latlng><geoID>1814991</geoID>
+T60	Location 6700 6708	Shanghai
+#60	AnnotatorNotes T60	<latlng>31.23,121.46</latlng><pop>18880000</pop><geoID>1796231</geoID>
+T62	Location 6765 6773	Shenzhen
+#62	AnnotatorNotes T62	<latlng>22.55653,113.9859</latlng><pop>10000000</pop><geoID>1795563</geoID>
+T64	Location 6829 6837	Shandong
+#64	AnnotatorNotes T64	<latlng>36.29,118.03</latlng><pop>94170000</pop><geoID>1796328</geoID>
+T66	Location 6910 6915	Jilin
+#66	AnnotatorNotes T66	<latlng>43.58333, 126.16667</latlng><pop>27340000</pop><geoID>2036500</geoID>
+T68	Location 6972 6980	Liaoning
+#68	AnnotatorNotes T68	<latlng>41.0,123.0</latlng><pop>43150000</pop><geoID>2036115</geoID>
+T70	Location 7049 7057	Shanghai
+#70	AnnotatorNotes T70	<latlng>31.23,121.46</latlng><pop>18880000</pop><geoID>1796231</geoID>
+T72	Location 7119 7124	Jilin
+#72	AnnotatorNotes T72	<latlng>43.58333, 126.16667</latlng><pop>27340000</pop><geoID>2036500</geoID>
+T74	Location 7187 7195	Shenzhen
+#74	AnnotatorNotes T74	<latlng>22.55653,113.9859</latlng><pop>10000000</pop><geoID>1795563</geoID>
+T76	Location 7257 7262	Jilin
+#76	AnnotatorNotes T76	<latlng>43.58333, 126.16667</latlng><pop>27340000</pop><geoID>2036500</geoID>
+T78	Location 7318 7326	Shandong
+#78	AnnotatorNotes T78	<latlng>36.29,118.03</latlng><pop>94170000</pop><geoID>1796328</geoID>
+T80	Location 7383 7391	Shandong
+#80	AnnotatorNotes T80	<latlng>36.29,118.03</latlng><pop>94170000</pop><geoID>1796328</geoID>
+T89	Location 11400 11407	Shantou
+#89	AnnotatorNotes T89	<latlng>23.32024,116.53972</latlng><pop>0</pop><geoID>1795932</geoID>
+T91	Location 11440 11445	China
+#91	AnnotatorNotes T91	<latlng>35,105</latlng><geoID>1814991</geoID>
+T92	Location 12214 12219	China
+#92	AnnotatorNotes T92	<latlng>35,105</latlng><geoID>1814991</geoID>
+T94	Location 12785 12790	China
+#94	AnnotatorNotes T94	<latlng>35,105</latlng><geoID>1814991</geoID>
+T102	Location 15096 15101	China
+#102	AnnotatorNotes T102	<latlng>35,105</latlng><geoID>1814991</geoID>
+T107	Location 15735 15740	China
+#107	AnnotatorNotes T107	<latlng>35,105</latlng><geoID>1814991</geoID>
+T108	Location 16339 16343	Iran
+#108	AnnotatorNotes T108	<latlng>32,53</latlng><geoID>130758</geoID>
+T109	Location 16795 16800	China
+#109	AnnotatorNotes T109	<latlng>35,105</latlng><geoID>1814991</geoID>
+T110	Location 16915 16920	China
+#110	AnnotatorNotes T110	<latlng>35,105</latlng><geoID>1814991</geoID>
+T111	Location 17288 17293	China
+#111	AnnotatorNotes T111	<latlng>35,105</latlng><geoID>1814991</geoID>
+T112	Location 17408 17416	Shandong
+#112	AnnotatorNotes T112	<latlng>36.29,118.03</latlng><pop>94170000</pop><geoID>1796328</geoID>
+T113	Location 17426 17434	Liaoning
+#113	AnnotatorNotes T113	<latlng>41.0,123.0</latlng><pop>43150000</pop><geoID>2036115</geoID>
+T114	Location 17446 17454	Shanghai
+#114	AnnotatorNotes T114	<latlng>31.23,121.46</latlng><pop>18880000</pop><geoID>1796231</geoID>
+T115	Location 17472 17477	Jilin
+#115	AnnotatorNotes T115	<latlng>43.58333, 126.16667</latlng><pop>27340000</pop><geoID>2036500</geoID>
+T116	Location 17520 17528	Shanghai
+#116	AnnotatorNotes T116	<latlng>31.23,121.46</latlng><pop>18880000</pop><geoID>1796231</geoID>
+T117	Location 17533 17541	Shandong
+#117	AnnotatorNotes T117	<latlng>36.29,118.03</latlng><pop>94170000</pop><geoID>1796328</geoID>
+T118	Location 17564 17572	Shenzhen
+#118	AnnotatorNotes T118	<latlng>22.55653,113.9859</latlng><pop>10000000</pop><geoID>1795563</geoID>
+T119	Location 17576 17581	Jilin
+#119	AnnotatorNotes T119	<latlng>43.58333, 126.16667</latlng><pop>27340000</pop><geoID>2036500</geoID>
+T120	Location 17912 17920	Shenzhen
+#120	AnnotatorNotes T120	<latlng>22.55653,113.9859</latlng><pop>10000000</pop><geoID>1795563</geoID>
+T121	Location 17925 17933	Shandong
+#121	AnnotatorNotes T121	<latlng>36.29,118.03</latlng><pop>94170000</pop><geoID>1796328</geoID>
+T122	Location 18281 18286	China
+#122	AnnotatorNotes T122	<latlng>35,105</latlng><geoID>1814991</geoID>
+T7	Location 11409 11418	Guangdong
+#7	AnnotatorNotes T7	<latlng>22.87,113.3</latlng><pop>104303132</pop><geoID>1809935</geoID>
+T3	Protein 110 111	M
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 503 504	)
+#4	AnnotatorNotes T4	END
+T5	Protein 3062 3063	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3386 3393	Kingdom
+#6	AnnotatorNotes T6	END
+T8	Protein 18370 18386	ACKNOWLEDGEMENTS
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 23442 23445	391
+#9	AnnotatorNotes T9	END

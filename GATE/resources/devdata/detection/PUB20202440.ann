@@ -1,0 +1,44 @@
+T150	Protein 70 75	Brett
+#150	AnnotatorNotes T150	BEGIN
+T151	Protein 305 309	Nara
+#151	AnnotatorNotes T151	END
+T25	Location 454 458	Iowa
+#25	AnnotatorNotes T25	<latlng>42.00027,-93.50049</latlng><pop>2955010</pop><geoID>4862182</geoID>
+T34	Location 4430 4439	Westbrook
+#34	AnnotatorNotes T34	<latlng>43.67703,-70.37116</latlng><pop>17494</pop><geoID>4982753</geoID>
+T1	Location 4441 4443	ME
+#1	AnnotatorNotes T1	<latlng>45.50032,-69.24977</latlng><pop>1325518</pop><geoID>4971068</geoID>
+T35	Location 4445 4448	USA
+#35	AnnotatorNotes T35	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T7	Protein 4949 4959	DISPATCHES
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 5444 5447	Cat
+#8	AnnotatorNotes T8	END
+T47	Location 6100 6106	Austin
+#47	AnnotatorNotes T47	<latlng>30.26715,-97.74306</latlng><pop>790390</pop><geoID>4671654</geoID>
+T2	Location 6108 6110	TX
+#2	AnnotatorNotes T2	<latlng>31.25044,-99.25061</latlng><pop>22875689</pop><geoID>4736286</geoID>
+T48	Location 6112 6115	USA
+#48	AnnotatorNotes T48	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T52	Location 6208 6217	Woodstock
+#52	AnnotatorNotes T52	<latlng>34.10265,-84.50839</latlng><pop>23896</pop><geoID>7171042</geoID>
+T3	Location 6219 6221	GA
+#3	AnnotatorNotes T3	<latlng>32.75042,-83.50018</latlng><pop>8975842</pop><geoID>4197000</geoID>
+T53	Location 6223 6226	USA
+#53	AnnotatorNotes T53	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T54	Location 6660 6673	North America
+#54	AnnotatorNotes T54	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T63	Location 7486 7490	Ames
+#63	AnnotatorNotes T63	<latlng>42.03471,-93.61994</latlng><pop>58965</pop><geoID>4846834</geoID>
+T4	Location 7492 7494	IA
+#4	AnnotatorNotes T4	<latlng>42.00027,-93.50049</latlng><pop>2955010</pop><geoID>4862182</geoID>
+T64	Location 7496 7499	USA
+#64	AnnotatorNotes T64	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T5	Protein 8697 8705	Emerging
+#5	AnnotatorNotes T5	BEGIN
+T9	Protein 8773 8776	535
+#9	AnnotatorNotes T9	END
+T6	Protein 11013 11028	Acknowledgments
+#6	AnnotatorNotes T6	BEGIN
+T153	Protein 17062 17063	.
+#153	AnnotatorNotes T153	END

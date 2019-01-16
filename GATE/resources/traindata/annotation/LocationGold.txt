@@ -1,0 +1,3059 @@
+PUB21645421.txt	101	108	Gwalior	Location
+PUB21645421.txt	110	115	India	Location
+PUB21645421.txt	774	781	Gwalior	Location
+PUB21645421.txt	782	787	India	Location
+PUB21645421.txt	1048	1055	Gwalior	Location
+PUB21645421.txt	1058	1063	India	Location
+PUB21645421.txt	1582	1587	India	Location
+PUB21645421.txt	2494	2507	North America	Location
+PUB21645421.txt	3283	3288	India	Location
+PUB21645421.txt	3446	3451	India	Location
+PUB21645421.txt	4542	4549	Gwalior	Location
+PUB21645421.txt	4552	4566	Madhya Pradesh	Location
+PUB21645421.txt	4569	4574	India	Location
+PUB21645421.txt	4932	4939	Gwalior	Location
+PUB21645421.txt	6136	6141	Japan	Location
+PUB21645421.txt	6280	6287	Gwalior	Location
+PUB21645421.txt	6660	6671	Foster City	Location
+PUB21645421.txt	6676	6679	USA	Location
+PUB21645421.txt	7038	7047	Wisconsin	Location
+PUB21645421.txt	7050	7053	USA	Location
+PUB21645421.txt	7698	7703	India	Location
+PUB21645421.txt	7759	7768	Hyderabad	Location
+PUB21645421.txt	7795	7798	USA	Location
+PUB21645421.txt	7877	7881	Pune	Location
+PUB21645421.txt	7883	7888	Delhi	Location
+PUB21645421.txt	7891	7897	Mumbai	Location
+PUB21645421.txt	7899	7906	Chennai	Location
+PUB21645421.txt	7911	7920	Bangalore	Location
+PUB21645421.txt	7961	7965	Pune	Location
+PUB21645421.txt	7970	7979	Bangalore	Location
+PUB21645421.txt	8523	8526	USA	Location
+PUB21645421.txt	9236	9246	California	Location
+PUB21645421.txt	10211	10216	India	Location
+PUB21645421.txt	10983	10988	India	Location
+PUB21645421.txt	10990	11004	Madhya Pradesh	Location
+PUB21645421.txt	5175	5185	Ger-many	Location
+PUB21645421.txt	6672	6674	CA	Location
+PMC5837706.txt	2688	2693	India	Location
+PMC5837706.txt	2678	2683	China	Location
+PMC5837706.txt	3377	3390	Latin America	Location
+PMC5837706.txt	3399	3408	Caribbean	Location
+PMC5837706.txt	3410	3416	Africa	Location
+PMC5837706.txt	3418	3423	India	Location
+PMC5837706.txt	3433	3438	China	Location
+PMC5837706.txt	3425	3431	Russia	Location
+PMC5837706.txt	3443	3458	South East Asia	Location
+PMC5837706.txt	4422	4428	London	Location
+PMC5837706.txt	4723	4729	Brazil	Location
+PMC5837706.txt	4714	4718	Cuba	Location
+PMC5837706.txt	4773	4777	Cuba	Location
+PMC5837706.txt	4765	4771	Mexico	Location
+PMC5837706.txt	4940	4946	Mexico	Location
+PMC5837706.txt	5505	5511	Mexico	Location
+PMC5837706.txt	4759	4763	Peru	Location
+PMC5837706.txt	4931	4935	Peru	Location
+PMC5837706.txt	5481	5485	Peru	Location
+PMC5837706.txt	5487	5493	Canete	Location
+PMC5837706.txt	4779	4797	Dominican Republic	Location
+PMC5837706.txt	4855	4873	Dominican Republic	Location
+PMC5837706.txt	4878	4883	China	Location
+PMC5837706.txt	4813	4818	China	Location
+PMC5837706.txt	4848	4853	India	Location
+PMC5837706.txt	4799	4808	Venezuela	Location
+PMC5837706.txt	4969	4978	Venezuela	Location
+PMC5837706.txt	5532	5537	China	Location
+PMC5837706.txt	5029	5040	Puerto Rico	Location
+PMC5837706.txt	5090	5101	Puerto Rico	Location
+PMC5837706.txt	5724	5735	Puerto Rico	Location
+PMC5837706.txt	5513	5520	Morelos	Location
+PMC5837706.txt	5547	5554	Beijing	Location
+PMC5837706.txt	5539	5545	Daxing	Location
+PMC5837706.txt	7830	7834	Cuba	Location
+PMC5837706.txt	7875	7881	Havana	Location
+PMC5837706.txt	7886	7894	Matanzas	Location
+PMC5837706.txt	7897	7915	Dominican Republic	Location
+PMC5837706.txt	7956	7965	Venezuela	Location
+PMC5837706.txt	7933	7944	Puerto Rico	Location
+PMC5837706.txt	7977	7981	Peru	Location
+PMC5837706.txt	7990	7996	Mexico	Location
+PMC5837706.txt	8050	8055	India	Location
+PMC5837706.txt	8012	8017	China	Location
+PMC5837706.txt	8028	8035	Beijing	Location
+PMC5837706.txt	8745	8763	Dominican Republic	Location
+PMC5837706.txt	8768	8772	Cuba	Location
+PMC5837706.txt	8738	8743	China	Location
+PMC5837706.txt	8928	8933	India	Location
+PMC5837706.txt	8057	8064	Chennai	Location
+PMC5837706.txt	8019	8026	Xicheng	Location
+PMC5837706.txt	7998	8009	Mexico City	Location
+PMC5837706.txt	7983	7987	Lima	Location
+PMC5837706.txt	7967	7974	Caracas	Location
+PMC5837706.txt	7946	7953	Bayamon	Location
+PMC5837706.txt	7917	7930	Santo Domingo	Location
+PMC5837706.txt	9496	9500	Cuba	Location
+PMC5837706.txt	9689	9693	Cuba	Location
+PMC5837706.txt	9502	9508	Havana	Location
+PMC5837706.txt	9510	9518	Matanzas	Location
+PMC5837706.txt	9521	9539	Dominican Republic	Location
+PMC5837706.txt	9694	9710	Domican Republic	Location
+PMC5837706.txt	9541	9554	Santo Domingo	Location
+PMC5837706.txt	9557	9562	India	Location
+PMC5837706.txt	9793	9798	India	Location
+PMC5837706.txt	9616	9620	Peru	Location
+PMC5837706.txt	9711	9715	Peru	Location
+PMC5837706.txt	9722	9726	Peru	Location
+PMC5837706.txt	9631	9637	Canete	Location
+PMC5837706.txt	9622	9626	Lima	Location
+PMC5837706.txt	9640	9651	Puerto Rico	Location
+PMC5837706.txt	9799	9810	Puerto Rico	Location
+PMC5837706.txt	9468	9473	China	Location
+PMC5837706.txt	9769	9774	China	Location
+PMC5837706.txt	9781	9786	China	Location
+PMC5837706.txt	9564	9571	Chennai	Location
+PMC5837706.txt	9582	9593	Mexico City	Location
+PMC5837706.txt	9598	9605	Morelos	Location
+PMC5837706.txt	9574	9580	Mexico	Location
+PMC5837706.txt	9743	9749	Mexico	Location
+PMC5837706.txt	9756	9762	Mexico	Location
+PMC5837706.txt	9475	9482	Beijing	Location
+PMC5837706.txt	9487	9493	Daxing	Location
+PMC5837706.txt	9678	9685	Caracas	Location
+PMC5837706.txt	9667	9676	Venezuela	Location
+PMC5837706.txt	9733	9742	Venezuela	Location
+PMC5837706.txt	9653	9661	San Juan	Location
+PMC5837706.txt	9606	9613	Hidalgo	Location
+PMC5837706.txt	10461	10465	Cuba	Location
+PMC5837706.txt	10467	10485	Dominican Republic	Location
+PMC5837706.txt	10430	10435	China	Location
+PMC5837706.txt	10437	10442	India	Location
+PMC5837706.txt	10504	10513	Venezuela	Location
+PMC5837706.txt	10566	10571	India	Location
+PMC5837706.txt	10495	10499	Peru	Location
+PMC5837706.txt	11087	11091	Peru	Location
+PMC5837706.txt	10487	10493	Mexico	Location
+PMC5837706.txt	11093	11099	Mexico	Location
+PMC5837706.txt	11104	11109	China	Location
+PMC5837706.txt	11498	11503	China	Location
+PMC5837706.txt	10550	10561	Puerto Rico	Location
+PMC5837706.txt	11457	11468	Puerto Rico	Location
+PMC5837706.txt	11437	11455	Dominican Republic	Location
+PMC5837706.txt	11431	11435	Cuba	Location
+PMC5837706.txt	11478	11482	Peru	Location
+PMC5837706.txt	11484	11493	Venezuela	Location
+PMC5837706.txt	11470	11476	Mexico	Location
+PMC5837706.txt	12775	12793	Dominican Republic	Location
+PMC5837706.txt	12820	12824	Cuba	Location
+PMC5837706.txt	13151	13162	Puerto Rico	Location
+PMC5837706.txt	13484	13488	Peru	Location
+PMC5837706.txt	13812	13816	Peru	Location
+PMC5837706.txt	14245	14254	Venezuela	Location
+PMC5837706.txt	14583	14589	Mexico	Location
+PMC5837706.txt	14922	14928	Mexico	Location
+PMC5837706.txt	15245	15250	China	Location
+PMC5837706.txt	15572	15577	China	Location
+PMC5837706.txt	15913	15918	India	Location
+PMC5837706.txt	24038	24044	Mexico	Location
+PMC5837706.txt	24847	24853	Mexico	Location
+PMC5837706.txt	24817	24823	Mexico	Location
+PMC5837706.txt	24761	24770	Venezuela	Location
+PMC5837706.txt	23982	23991	Venezuela	Location
+PMC5837706.txt	24012	24016	Peru	Location
+PMC5837706.txt	24792	24796	Peru	Location
+PMC5837706.txt	23956	23960	Cuba	Location
+PMC5837706.txt	24643	24647	Cuba	Location
+PMC5837706.txt	23962	23980	Dominican Republic	Location
+PMC5837706.txt	24700	24718	Dominican Republic	Location
+PMC5837706.txt	23993	24004	Puerto Rico	Location
+PMC5837706.txt	24734	24745	Puerto Rico	Location
+PMC5837706.txt	25118	25122	Peru	Location
+PMC5837706.txt	26369	26373	Cuba	Location
+PMC5837706.txt	28273	28277	Cuba	Location
+PMC5837706.txt	28032	28045	Latin America	Location
+PMC5837706.txt	28050	28055	China	Location
+PMC5837706.txt	28306	28311	China	Location
+PMC5837706.txt	28101	28106	India	Location
+PMC5837706.txt	28281	28301	Dominican Republic40	Location
+PMC5837706.txt	28794	28803	Dominican	Location
+PMC5837706.txt	28664	28668	Cuba	Location
+PMC5837706.txt	28804	28810	Puerto	Location
+PMC5837706.txt	28826	28830	Peru	Location
+PMC5837706.txt	28838	28842	Peru	Location
+PMC5837706.txt	28850	28859	Venezuela	Location
+PMC5837706.txt	28860	28866	Mexico	Location
+PMC5837706.txt	29011	29017	Mexico	Location
+PMC5837706.txt	29106	29111	India	Location
+PMC5837706.txt	29043	29048	China	Location
+PMC5837706.txt	29056	29061	China	Location
+PMC3534375.txt	6866	6868	UK	Location
+PMC3534375.txt	6870	6879	Newmarket	Location
+PMC3534375.txt	5971	5985	United Kingdom	Location
+PMC3534375.txt	5960	5969	Newmarket	Location
+PMC3534375.txt	7113	7115	UK	Location
+PMC3534375.txt	7246	7255	Newmarket	Location
+PMC3534375.txt	8835	8844	Newmarket	Location
+PMC3534375.txt	9225	9234	Newmarket	Location
+PMC3534375.txt	9608	9617	Newmarket	Location
+PMC3534375.txt	10654	10663	Newmarket	Location
+PMC3534375.txt	14663	14672	Newmarket	Location
+PMC3534375.txt	15458	15467	Newmarket	Location
+PMC3534375.txt	18517	18529	South Africa	Location
+PMC3534375.txt	23822	23831	Newmarket	Location
+PMC3534375.txt	25073	25082	Newmarket	Location
+PMC3534375.txt	36433	36442	Newmarket	Location
+PMC3534375.txt	41121	41130	Newmarket	Location
+PMC3534375.txt	40689	40698	Australia	Location
+PMC3534375.txt	40787	40792	Japan	Location
+PMC3534375.txt	42278	42287	Australia	Location
+PMC3534375.txt	42695	42704	Newmarket	Location
+PMC3534375.txt	43020	43029	Newmarket	Location
+PMC3534375.txt	43120	43129	Newmarket	Location
+PMC3534375.txt	44212	44214	UK	Location
+PMC3534375.txt	44216	44222	France	Location
+PMC3534375.txt	44227	44234	Germany	Location
+PMC3534375.txt	50307	50316	Newmarket	Location
+PMC3534375.txt	52705	52714	Newmarket	Location
+PMC3534375.txt	57298	57307	Newmarket	Location
+PMC3534375.txt	57392	57401	Newmarket	Location
+PMC3534375.txt	58249	58258	Newmarket	Location
+PMC3534375.txt	58444	58453	Newmarket	Location
+PMC3534375.txt	60933	60942	Newmarket	Location
+PMC3534375.txt	7128	7134	Europe	Location
+PMC3534375.txt	18499	18512	North America	Location
+PMC3534375.txt	40934	40943	Australia	Location
+PMC3534375.txt	18116	18122	Europe	Location
+PMC3534375.txt	29331	29340	Newmarket	Location
+PMC3534375.txt	35656	35665	Newmarket	Location
+PMC3661530.txt	558	565	Finland	Location
+PMC3661530.txt	4062	4075	British Isles	Location
+PMC3661530.txt	4107	4113	Russia	Location
+PMC3661530.txt	4121	4132	Lake Baikal	Location
+PMC3661530.txt	6533	6540	Finland	Location
+PMC3661530.txt	8083	8090	Finland	Location
+PMC3661530.txt	8231	8238	Finland	Location
+PMC3661530.txt	8064	8073	Konnevesi	Location
+PMC3661530.txt	8710	8721	Hillerstorp	Location
+PMC3661530.txt	8723	8729	Sweden	Location
+PMC3661530.txt	9169	9171	UK	Location
+PMC3661530.txt	9161	9167	Abbott	Location
+PMC3661530.txt	10821	10823	UK	Location
+PMC3661530.txt	10973	10982	Lithuania	Location
+PMC3661530.txt	11034	11045	Foster City	Location
+PMC3661530.txt	11047	11049	CA	Location
+PMC3661530.txt	11051	11054	USA	Location
+PMC3661530.txt	11306	11315	Cleveland	Location
+PMC3661530.txt	11317	11320	USA	Location
+PMC3661530.txt	12733	12742	Konnevesi	Location
+PMC3661530.txt	12592	12601	Konnevesi	Location
+PMC3661530.txt	17819	17828	Konnevesi	Location
+PMC3661530.txt	22949	22958	Konnevesi	Location
+PMC3661530.txt	25074	25083	Konnevesi	Location
+PMC3661530.txt	27281	27290	Konnevesi	Location
+PMC3661530.txt	27927	27936	Konnevesi	Location
+PMC3661530.txt	28760	28769	Konnevesi	Location
+PMC3661530.txt	32729	32738	Konnevesi	Location
+PMC3661530.txt	32754	32766	Pieksämäki	Location
+PMC3661530.txt	33048	33055	Finland	Location
+PMC3661530.txt	3846	3852	Europe	Location
+PMC3661530.txt	4096	4102	Europe	Location
+PMC3581073.txt	5617	5631	United Kingdom	Location
+PMC3581073.txt	5611	5615	Avon	Location
+PMC3581073.txt	9054	9068	United Kingdom	Location
+PMC3581073.txt	9769	9783	United Kingdom	Location
+PMC3581073.txt	9857	9871	United Kingdom	Location
+PMC3581073.txt	10579	10593	United Kingdom	Location
+PMC3581073.txt	10570	10577	Bristol	Location
+PMC3581073.txt	12771	12776	Texas	Location
+PMC3581073.txt	12754	12769	College Station	Location
+PMC3581073.txt	20821	20828	Bristol	Location
+PMC3581073.txt	20830	20844	United Kingdom	Location
+PMC3581073.txt	22885	22899	United Kingdom	Location
+PMC3581073.txt	23221	23235	United Kingdom	Location
+PMC3581073.txt	23212	23219	Bristol	Location
+PMC3581073.txt	23755	23769	United Kingdom	Location
+PMC3581073.txt	25889	25903	United Kingdom	Location
+PMC3581073.txt	25880	25887	Bristol	Location
+PMC3581073.txt	27176	27190	United Kingdom	Location
+PMC3581073.txt	27414	27428	United Kingdom	Location
+PMC3581073.txt	27405	27412	Bristol	Location
+PMC3581073.txt	29501	29515	United Kingdom	Location
+PMC3581073.txt	5256	5270	United Kingdom	Location
+PMC2828076.txt	4372	4379	Germany	Location
+PMC2828076.txt	4497	4504	Germany	Location
+PMC2828076.txt	4605	4612	Germany	Location
+PMC2828076.txt	4700	4707	Germany	Location
+PMC2828076.txt	4793	4802	Ger- many	Location
+PMC2828076.txt	5247	5254	Germany	Location
+PMC2828076.txt	5320	5327	Cologne	Location
+PMC2828076.txt	5567	5574	Cologne	Location
+PMC2828076.txt	5605	5612	Cologne	Location
+PMC2828076.txt	5739	5746	Germany	Location
+PMC2828076.txt	6408	6415	Cologne	Location
+PMC2828076.txt	8294	8301	Germany	Location
+PMC2828076.txt	8303	8309	Berkel	Location
+PMC2828076.txt	8333	8343	Heidelberg	Location
+PMC2828076.txt	8350	8357	Belgium	Location
+PMC2828076.txt	8644	8651	Germany	Location
+PMC2828076.txt	9011	9014	Ulm	Location
+PMC2828076.txt	9112	9124	Danube River	Location
+PMC2828076.txt	9303	9306	Ulm	Location
+PMC2828076.txt	9429	9436	Cologne	Location
+PMC2828076.txt	9771	9774	Ulm	Location
+PMC2828076.txt	10077	10084	Germany	Location
+PMC2828076.txt	3883	3889	Europe	Location
+PMC2828076.txt	4004	4010	Europe	Location
+PMC2828076.txt	4724	4734	Alb-Danube	Location
+PMC2828076.txt	8324	8331	Germany	Location
+PMC2828076.txt	9783	9790	Cologne	Location
+PMC2828076.txt	10523	10529	Europe	Location
+PMC4805539.txt	40637	40646	Paramount	Location
+PMC4805539.txt	40648	40658	California	Location
+PMC4805539.txt	42980	42994	Franklin Lakes	Location
+PMC4805539.txt	42996	43008	New Jer- sey	Location
+PMC4805539.txt	43187	43196	Darmstadt	Location
+PMC4805539.txt	43198	43205	Germany	Location
+PUB20220153.txt	3679	3693	North Carolina	Location
+PUB20220153.txt	3712	3717	Wales	Location
+PUB20220153.txt	3719	3733	United Kingdom	Location
+PUB20220153.txt	8084	8086	CA	Location
+PUB20220153.txt	9254	9260	Boxtel	Location
+PUB20220153.txt	9262	9273	Netherlands	Location
+PUB20220153.txt	15224	15238	United Kingdom	Location
+PUB20220153.txt	15248	15261	United States	Location
+16306617.txt	277	282	China	Location
+16306617.txt	901	906	China	Location
+16306617.txt	1058	1063	China	Location
+16306617.txt	1727	1736	Hong Kong	Location
+16306617.txt	2687	2692	China	Location
+16306617.txt	2745	2749	Asia	Location
+16306617.txt	3166	3171	Japan	Location
+16306617.txt	3347	3352	China	Location
+16306617.txt	3475	3480	Henan	Location
+16306617.txt	3493	3498	China	Location
+16306617.txt	3877	3883	Pingyu	Location
+16306617.txt	3899	3904	Henan	Location
+16306617.txt	3917	3922	China	Location
+16306617.txt	10488	10492	Asia	Location
+16306617.txt	13749	13754	China	Location
+16306617.txt	14491	14499	Thailand	Location
+16306617.txt	14507	14514	Vietnam	Location
+16306617.txt	14522	14531	Indonesia	Location
+16306617.txt	14557	14566	Guangdong	Location
+16306617.txt	14574	14580	Yunnan	Location
+16306617.txt	14588	14596	Shanghai	Location
+16306617.txt	14604	14612	Shandong	Location
+16306617.txt	14620	14627	Shantou	Location
+16306617.txt	16696	16702	Pingyu	Location
+16306617.txt	16712	16717	Henan	Location
+16306617.txt	16728	16733	China	Location
+16306617.txt	17889	17898	Hong Kong	Location
+16306617.txt	21123	21128	China	Location
+16306617.txt	21417	21421	Asia	Location
+16306617.txt	21589	21594	China	Location
+16306617.txt	21939	21944	China	Location
+16306617.txt	14539	14549	Hong Kong	Location
+PUB21637809.txt	132	137	Egypt	Location
+PUB21637809.txt	1167	1171	Asia	Location
+PUB21637809.txt	1173	1179	Europe	Location
+PUB21637809.txt	1185	1191	Africa	Location
+PUB21637809.txt	1250	1255	Egypt	Location
+PUB21637809.txt	1723	1728	Egypt	Location
+PUB21637809.txt	2793	2798	Egypt	Location
+PUB21637809.txt	4798	4810	Qinghai Lake	Location
+PUB21637809.txt	4822	4827	China	Location
+PUB21637809.txt	4860	4872	central Asia	Location
+PUB21637809.txt	4874	4880	Europe	Location
+PUB21637809.txt	4886	4897	Middle East	Location
+PUB21637809.txt	4903	4909	Africa	Location
+PUB21637809.txt	5626	5631	China	Location
+PUB21637809.txt	5634	5643	Indonesia	Location
+PUB21637809.txt	5645	5653	Viet Nam	Location
+PUB21637809.txt	5658	5663	Egypt	Location
+PUB21637809.txt	5751	5766	northern Africa	Location
+PUB21637809.txt	6143	6148	Egypt	Location
+PUB21637809.txt	6317	6322	Egypt	Location
+PUB21637809.txt	6423	6428	Egypt	Location
+PUB21637809.txt	6524	6530	Africa	Location
+PUB21637809.txt	6550	6557	Nigeria	Location
+PUB21637809.txt	6562	6570	Djibouti	Location
+PUB21637809.txt	6633	6638	Egypt	Location
+PUB21637809.txt	7994	7999	Egypt	Location
+PUB21637809.txt	8328	8333	Egypt	Location
+PUB21637809.txt	8432	8437	Egypt	Location
+PUB21637809.txt	8912	8917	Egypt	Location
+PUB21637809.txt	8973	8978	Egypt	Location
+PUB21637809.txt	9364	9369	Egypt	Location
+PUB21637809.txt	9412	9417	Egypt	Location
+PUB21637809.txt	10245	10250	Egypt	Location
+PUB21637809.txt	10708	10713	Egypt	Location
+PUB21637809.txt	10859	10864	Egypt	Location
+PUB21637809.txt	10928	10933	Egypt	Location
+PUB21637809.txt	11248	11253	Egypt	Location
+PUB21637809.txt	11735	11740	Egypt	Location
+PUB21637809.txt	11817	11822	Egypt	Location
+PUB21637809.txt	11909	11914	Egypt	Location
+PUB21637809.txt	12620	12625	China	Location
+PUB21637809.txt	12628	12637	Indonesia	Location
+PUB21637809.txt	12639	12647	Viet Nam	Location
+PUB21637809.txt	12652	12657	Egypt	Location
+PUB21637809.txt	13322	13327	Egypt	Location
+PUB21637809.txt	13659	13664	Egypt	Location
+PUB21637809.txt	13688	13693	Egypt	Location
+PUB21637809.txt	15602	15607	Egypt	Location
+PUB21637809.txt	16374	16379	Egypt	Location
+PUB21637809.txt	16880	16885	Egypt	Location
+PUB21637809.txt	16973	16978	Egypt	Location
+PUB21637809.txt	18366	18371	Egypt	Location
+PUB21637809.txt	18449	18454	Egypt	Location
+PUB21637809.txt	18710	18715	Egypt	Location
+PUB21637809.txt	20685	20690	Egypt	Location
+PUB21637809.txt	20859	20864	Egypt	Location
+PUB21637809.txt	20926	20931	Egypt	Location
+PUB21637809.txt	21133	21137	Asia	Location
+PUB21637809.txt	21191	21196	Egypt	Location
+PUB21637809.txt	27163	27168	Egypt	Location
+PUB21637809.txt	33322	33327	Egypt	Location
+PUB21637809.txt	33651	33656	Egypt	Location
+PUB21637809.txt	33773	33778	Egypt	Location
+PUB21637809.txt	34912	34916	Asia	Location
+PUB21637809.txt	35029	35033	Asia	Location
+PUB21637809.txt	35056	35061	Egypt	Location
+PUB21637809.txt	35319	35324	Egypt	Location
+PUB21637809.txt	35329	35333	Asia	Location
+PUB21637809.txt	35443	35447	Asia	Location
+PUB21637809.txt	35454	35459	Egypt	Location
+PUB21637809.txt	37768	37773	Egypt	Location
+PUB21637809.txt	38324	38328	Asia	Location
+PUB21637809.txt	38717	38722	Egypt	Location
+PUB21637809.txt	40964	40969	Egypt	Location
+PUB21637809.txt	45545	45550	Egypt	Location
+PUB21637809.txt	45685	45690	Egypt	Location
+PUB21637809.txt	45879	45884	Egypt	Location
+PUB21637809.txt	46014	46019	Egypt	Location
+PUB21637809.txt	46118	46123	Egypt	Location
+PUB21637809.txt	49685	49690	Egypt	Location
+PUB21637809.txt	49809	49814	Egypt	Location
+PUB21637809.txt	51149	51154	Egypt	Location
+PUB21637809.txt	51296	51301	Egypt	Location
+PUB21637809.txt	51392	51405	North America	Location
+PUB21637809.txt	51584	51617	Lao People's Democratic Republic	Location
+PUB21637809.txt	51715	51720	Egypt	Location
+PUB21637809.txt	51986	51991	Egypt	Location
+PUB21637809.txt	52367	52372	Egypt	Location
+PUB21637809.txt	52829	52834	Egypt	Location
+PUB21637809.txt	53237	53242	Egypt	Location
+PUB21637809.txt	53253	53258	Egypt	Location
+PUB21637809.txt	53500	53507	Nigeria	Location
+PUB21637809.txt	53542	53547	Egypt	Location
+PUB21637809.txt	53710	53715	Egypt	Location
+PUB21637809.txt	53877	53882	China	Location
+PUB21637809.txt	54127	54132	Egypt	Location
+PUB21637809.txt	54767	54772	Japan	Location
+PUB21637809.txt	54871	54876	Egypt	Location
+PUB21637809.txt	55658	55664	Kagawa	Location
+PUB21637809.txt	55666	55671	Japan	Location
+PUB21637809.txt	56510	56515	Japan	Location
+PUB21637809.txt	59102	59107	Egypt	Location
+PUB21637809.txt	59674	59679	Egypt	Location
+PUB21637809.txt	59880	59885	Egypt	Location
+PUB21637809.txt	60029	60033	Asia	Location
+PUB21637809.txt	61372	61379	Corning	Location
+PUB21637809.txt	69664	69669	Egypt	Location
+PUB21637809.txt	69757	69762	Egypt	Location
+PUB21637809.txt	5993	5998	Egypt	Location
+PUB21637809.txt	52460	52465	Egypt	Location
+PUB20943966.txt	1331	1344	United States	Location
+PUB20943966.txt	2027	2034	Florida	Location
+PUB20943966.txt	2125	2138	United States	Location
+PUB20943966.txt	2470	2483	New York City	Location
+PUB20943966.txt	2917	2924	Florida	Location
+PUB20943966.txt	2954	2962	Colorado	Location
+PUB20943966.txt	4784	4797	United States	Location
+PUB20943966.txt	4964	4971	Florida	Location
+PUB20943966.txt	5479	5490	New Zealand	Location
+PUB20943966.txt	5500	5507	Iceland	Location
+PUB20943966.txt	5563	5572	Australia	Location
+PUB20943966.txt	5593	5605	South Africa	Location
+PUB20943966.txt	5842	5849	Florida	Location
+PUB20943966.txt	5928	5941	United States	Location
+PUB20943966.txt	6217	6231	United Kingdom	Location
+PUB20943966.txt	6258	6269	South Korea	Location
+PUB20943966.txt	7229	7242	United States	Location
+PUB20943966.txt	7369	7382	United States	Location
+PUB20943966.txt	7391	7399	Colorado	Location
+PUB20943966.txt	7964	7977	New York City	Location
+PUB20943966.txt	8053	8066	United States	Location
+PUB20943966.txt	8477	8490	United States	Location
+PUB20943966.txt	8565	8573	New York	Location
+PUB20943966.txt	8614	8622	Colorado	Location
+PUB20943966.txt	8660	8672	Philadelphia	Location
+PUB20943966.txt	8685	8693	Virginia	Location
+PUB20943966.txt	8797	8810	New York City	Location
+PUB20943966.txt	9509	9522	New York City	Location
+PUB20943966.txt	10487	10495	Carlsbad	Location
+PUB20943966.txt	10545	10552	Ipswich	Location
+PUB20943966.txt	10801	10809	Carlsbad	Location
+PUB20943966.txt	11706	11717	Long Island	Location
+PUB20943966.txt	11758	11766	New York	Location
+PUB20943966.txt	11841	11849	New York	Location
+PUB20943966.txt	11922	11930	Colorado	Location
+PUB20943966.txt	11965	11978	Staten Island	Location
+PUB20943966.txt	12018	12026	Colorado	Location
+PUB20943966.txt	12071	12083	Philadelphia	Location
+PUB20943966.txt	12117	12125	Virginia	Location
+PUB20943966.txt	13080	13087	Madison	Location
+PUB20943966.txt	13213	13220	Madison	Location
+PUB20943966.txt	17804	17811	Florida	Location
+PUB20943966.txt	17888	17901	United States	Location
+PUB20943966.txt	17961	17974	New York City	Location
+PUB20943966.txt	18653	18666	New York City	Location
+PUB20943966.txt	18922	18930	Virginia	Location
+PUB20943966.txt	18944	18956	Philadelphia	Location
+PUB20943966.txt	19019	19032	United States	Location
+PUB20943966.txt	19138	19146	New York	Location
+PUB20943966.txt	19196	19204	Colorado	Location
+PUB20943966.txt	19258	19271	New York City	Location
+PUB20943966.txt	20170	20176	Sydney	Location
+PUB20943966.txt	20512	20521	Australia	Location
+PUB20943966.txt	24262	24275	New York City	Location
+PUB20943966.txt	28012	28025	New York City	Location
+PUB20943966.txt	28684	28689	China	Location
+PUB20943966.txt	32119	32132	United States	Location
+PUB20943966.txt	33798	33811	United States	Location
+PUB20943966.txt	36222	36235	United States	Location
+PUB20943966.txt	36294	36308	United Kingdom	Location
+PUB20943966.txt	36587	36600	United States	Location
+PUB20943966.txt	37700	37714	New York City	Location
+PUB20943966.txt	6505	6519	United States	Location
+PUB20943966.txt	9853	9864	Va-lencia	Location
+PUB20943966.txt	9866	9868	CA	Location
+PUB20943966.txt	10497	10499	CA	Location
+PUB20943966.txt	10554	10556	MA	Location
+PUB20943966.txt	10811	10813	CA	Location
+PUB20943966.txt	11719	11721	NY	Location
+PUB20943966.txt	11980	11982	NY	Location
+PUB20943966.txt	13089	13091	WI	Location
+PUB20943966.txt	13222	13224	WI	Location
+PUB20943966.txt	20178	20190	Aus-tralia	Location
+PMC3736756.txt	3156	3169	United States	Location
+PMC3773574.txt	83	88	China	Location
+PMC3773574.txt	916	921	China	Location
+PMC3773574.txt	891	902	Poyang Lake	Location
+PMC3773574.txt	4112	4121	Hong Kong	Location
+PMC3773574.txt	4194	4199	China	Location
+PMC3773574.txt	4727	4732	China	Location
+PMC3773574.txt	5010	5015	China	Location
+PMC3773574.txt	5239	5244	China	Location
+PMC3773574.txt	5737	5742	China	Location
+PMC3773574.txt	5858	5867	Hong Kong	Location
+PMC3773574.txt	5883	5894	South Korea	Location
+PMC3773574.txt	5956	5961	China	Location
+PMC3773574.txt	6776	6781	China	Location
+PMC3773574.txt	6983	6988	China	Location
+PMC3773574.txt	7268	7273	China	Location
+PMC3773574.txt	7259	7266	Jiangxi	Location
+PMC3773574.txt	7562	7573	Poyang Lake	Location
+PMC3773574.txt	7622	7629	Jiangxi	Location
+PMC3773574.txt	7640	7651	Poyang Lake	Location
+PMC3773574.txt	8941	8949	Valencia	Location
+PMC3773574.txt	8951	8953	CA	Location
+PMC3773574.txt	9353	9361	Shanghai	Location
+PMC3773574.txt	9363	9368	China	Location
+PMC3773574.txt	10252	10260	Shanghai	Location
+PMC3773574.txt	12457	12468	Poyang Lake	Location
+PMC3773574.txt	12472	12479	Jiangxi	Location
+PMC3773574.txt	12492	12497	China	Location
+PMC3773574.txt	14237	14242	China	Location
+PMC3773574.txt	14334	14339	China	Location
+PMC3773574.txt	21593	21598	China	Location
+PMC3773574.txt	25907	25918	Poyang Lake	Location
+PMC3773574.txt	25961	25966	China	Location
+PMC3773574.txt	26155	26166	Poyang Lake	Location
+PMC3773574.txt	37672	37681	Hong Kong	Location
+PMC3773574.txt	37668	37670	HK	Location
+PMC3773574.txt	41942	41944	BJ	Location
+PMC3773574.txt	41946	41953	Beijing	Location
+PMC3773574.txt	41955	41957	HK	Location
+PMC3773574.txt	41959	41968	Hong Kong	Location
+PMC3773574.txt	41970	41972	SH	Location
+PMC3773574.txt	41974	41982	Shanghai	Location
+PMC3773574.txt	41984	41986	ST	Location
+PMC3773574.txt	41988	41995	Shantou	Location
+PMC3773574.txt	42981	42983	BJ	Location
+PMC3773574.txt	42985	42992	Beijing	Location
+PMC3773574.txt	42994	42996	HK	Location
+PMC3773574.txt	42998	43007	Hong Kong	Location
+PMC3773574.txt	7742	7746	Asia	Location
+22470427.txt	5127	5133	Mexico	Location
+22470427.txt	5185	5188	USA	Location
+22470427.txt	5193	5199	Canada	Location
+22470427.txt	5340	5347	Alberta	Location
+22470427.txt	5349	5355	Canada	Location
+22470427.txt	5441	5446	Chile	Location
+22470427.txt	5482	5489	Ontario	Location
+22470427.txt	5491	5497	Canada	Location
+22470427.txt	6251	6264	North America	Location
+22470427.txt	6599	6613	North America	Location
+22470427.txt	6785	6799	North Carolina	Location
+22470427.txt	6837	6846	Minnesota	Location
+22470427.txt	6848	6852	Iowa	Location
+22470427.txt	6857	6862	Texas	Location
+22470427.txt	6905	6914	Minnesota	Location
+22470427.txt	6916	6920	Iowa	Location
+22470427.txt	6925	6930	Texas	Location
+22470427.txt	7293	7299	Canada	Location
+22470427.txt	7315	7322	Ontario	Location
+22470427.txt	7595	7602	Ontario	Location
+22470427.txt	8307	8314	Ontario	Location
+22470427.txt	9016	9023	Ontario	Location
+22470427.txt	11049	11060	Pipersville	Location
+22470427.txt	11062	11064	PA	Location
+22470427.txt	11066	11069	USA	Location
+22470427.txt	11650	11658	Winnipeg	Location
+22470427.txt	12165	12173	Winnipeg	Location
+22470427.txt	13223	13229	Austin	Location
+22470427.txt	13231	13236	Texas	Location
+22470427.txt	15468	15471	USA	Location
+22470427.txt	16667	16679	Gaithersburg	Location
+22470427.txt	16681	16683	MD	Location
+22470427.txt	18457	18464	Madison	Location
+22470427.txt	18466	18468	WI	Location
+22470427.txt	20388	20394	Quebec	Location
+22470427.txt	24239	24242	USA	Location
+22470427.txt	24268	24274	Canada	Location
+22470427.txt	24679	24685	Quebec	Location
+22470427.txt	24923	24929	Quebec	Location
+22470427.txt	35661	35667	Quebec	Location
+22470427.txt	38265	38268	USA	Location
+22470427.txt	38292	38298	Canada	Location
+22470427.txt	38688	38694	Quebec	Location
+22470427.txt	38970	38976	Quebec	Location
+22470427.txt	42567	42573	Canada	Location
+PMC2732512.txt	687	693	Israel	Location
+PMC2732512.txt	1289	1295	Uganda	Location
+PMC2732512.txt	1474	1487	United States	Location
+PMC2732512.txt	1723	1735	South Africa	Location
+PMC2732512.txt	1813	1819	Israel	Location
+PMC2732512.txt	1895	1900	India	Location
+PMC2732512.txt	2110	2116	France	Location
+PMC2732512.txt	1987	1992	Egypt	Location
+PMC2732512.txt	2209	2233	Central African Republic	Location
+PMC2732512.txt	2235	2238	CAR	Location
+PMC2732512.txt	2442	2449	Algeria	Location
+PMC2732512.txt	2451	2458	Romania	Location
+PMC2732512.txt	2460	2467	Morocco	Location
+PMC2732512.txt	2469	2476	Tunisia	Location
+PMC2732512.txt	2478	2483	Italy	Location
+PMC2732512.txt	2485	2491	Russia	Location
+PMC2732512.txt	2493	2499	France	Location
+PMC2732512.txt	2501	2507	Israel	Location
+PMC2732512.txt	2517	2530	United States	Location
+PMC2732512.txt	2574	2581	Romania	Location
+PMC2732512.txt	2599	2612	United States	Location
+PMC2732512.txt	2700	2713	United States	Location
+PMC2732512.txt	2812	2818	Israel	Location
+PMC2732512.txt	3692	3697	Karoo	Location
+PMC2732512.txt	3702	3715	Northern Cape	Location
+PMC2732512.txt	4389	4411	Witwatersrand-Pretoria	Location
+PMC2732512.txt	4422	4434	South Africa	Location
+PMC2732512.txt	6160	6171	Aus- tralia	Location
+PMC2732512.txt	6264	6274	Madagascar	Location
+PMC2732512.txt	6711	6723	South Africa	Location
+PMC2732512.txt	7854	7862	Pretoria	Location
+PMC2732512.txt	7963	7975	Stellenbosch	Location
+PMC2732512.txt	7977	7989	Western Cape	Location
+PMC2732512.txt	8097	8105	Gaborone	Location
+PMC2732512.txt	8107	8115	Botswana	Location
+PMC2732512.txt	9442	9450	Valencia	Location
+PMC2732512.txt	9452	9454	CA	Location
+PMC2732512.txt	9757	9764	Germany	Location
+PMC2732512.txt	9983	9993	Warrington	Location
+PMC2732512.txt	9995	10008	Great Britain	Location
+PMC2732512.txt	10289	10297	Adelphia	Location
+PMC2732512.txt	10299	10309	New Jersey	Location
+PMC2732512.txt	10556	10564	Brisbane	Location
+PMC2732512.txt	10566	10568	CA	Location
+PMC2732512.txt	11890	11900	Free State	Location
+PMC2732512.txt	11913	11925	South Africa	Location
+PMC2732512.txt	12269	12277	Pretoria	Location
+PMC2732512.txt	12946	12951	Ndumo	Location
+PMC2732512.txt	12953	12967	Kwa-Zulu Natal	Location
+PMC2732512.txt	12969	12972	RSA	Location
+PMC2732512.txt	13027	13030	RSA	Location
+PMC2732512.txt	13084	13087	RSA	Location
+PMC2732512.txt	13148	13151	RSA	Location
+PMC2732512.txt	13205	13208	RSA	Location
+PMC2732512.txt	13325	13328	RSA	Location
+PMC2732512.txt	13384	13387	RSA	Location
+PMC2732512.txt	13456	13459	RSA	Location
+PMC2732512.txt	13702	13705	RSA	Location
+PMC2732512.txt	13766	13769	RSA	Location
+PMC2732512.txt	13833	13836	RSA	Location
+PMC2732512.txt	13901	13904	RSA	Location
+PMC2732512.txt	13966	13969	RSA	Location
+PMC2732512.txt	14034	14037	RSA	Location
+PMC2732512.txt	14102	14105	RSA	Location
+PMC2732512.txt	14170	14173	RSA	Location
+PMC2732512.txt	14238	14241	RSA	Location
+PMC2732512.txt	14306	14309	RSA	Location
+PMC2732512.txt	14374	14377	RSA	Location
+PMC2732512.txt	14439	14442	RSA	Location
+PMC2732512.txt	14507	14510	RSA	Location
+PMC2732512.txt	14575	14578	RSA	Location
+PMC2732512.txt	14643	14646	RSA	Location
+PMC2732512.txt	14710	14713	RSA	Location
+PMC2732512.txt	14776	14779	RSA	Location
+PMC2732512.txt	14791	14794	RSA	Location
+PMC2732512.txt	14796	14820	Republic of South Africa	Location
+PMC2732512.txt	13440	13454	Kwa-Zulu Natal	Location
+PMC2732512.txt	13433	13438	Ndumo	Location
+PMC2732512.txt	13136	13146	Free State	Location
+PMC2732512.txt	13954	13964	Free State	Location
+PMC2732512.txt	14563	14573	Free State	Location
+PMC2732512.txt	14631	14641	Free State	Location
+PMC2732512.txt	14698	14708	Free State	Location
+PMC2732512.txt	13688	13700	Western Cape	Location
+PMC2732512.txt	13752	13764	Western Cape	Location
+PMC2732512.txt	13015	13025	Mpumulanga	Location
+PMC2732512.txt	13824	13831	Gauteng	Location
+PMC2732512.txt	13892	13899	Gauteng	Location
+PMC2732512.txt	14025	14032	Gauteng	Location
+PMC2732512.txt	14093	14100	Gauteng	Location
+PMC2732512.txt	14161	14168	Gauteng	Location
+PMC2732512.txt	14229	14236	Gauteng	Location
+PMC2732512.txt	14297	14304	Gauteng	Location
+PMC2732512.txt	14365	14372	Gauteng	Location
+PMC2732512.txt	14430	14437	Gauteng	Location
+PMC2732512.txt	14498	14505	Gauteng	Location
+PMC2732512.txt	14767	14774	Gauteng	Location
+PMC2732512.txt	13003	13013	Middelburg	Location
+PMC2732512.txt	13075	13082	Gauteng	Location
+PMC2732512.txt	13196	13203	Gauteng	Location
+PMC2732512.txt	13375	13382	Gauteng	Location
+PMC2732512.txt	13515	13522	Gauteng	Location
+PMC2732512.txt	13061	13073	Johannesburg	Location
+PMC2732512.txt	13122	13134	Bloemfontein	Location
+PMC2732512.txt	13186	13194	Pretoria	Location
+PMC2732512.txt	13251	13258	Namibia	Location
+PMC2732512.txt	13243	13249	Ovambo	Location
+PMC2732512.txt	13292	13304	Naboomspruit	Location
+PMC2732512.txt	13306	13323	Northern Province	Location
+PMC2732512.txt	13361	13373	Johannesburg	Location
+PMC2732512.txt	13501	13513	Olifantsvlei	Location
+PMC2732512.txt	13524	13527	RSA	Location
+PMC2732512.txt	13579	13589	Mozambique	Location
+PMC2732512.txt	13571	13577	Mopeia	Location
+PMC2732512.txt	13630	13638	Botswana	Location
+PMC2732512.txt	13620	13628	Gabarone	Location
+PMC2732512.txt	13673	13686	Prince Albert	Location
+PMC2732512.txt	13737	13750	Somerset West	Location
+PMC2732512.txt	13810	13822	Olifantsvlei	Location
+PMC2732512.txt	13878	13890	Olifantsvlei	Location
+PMC2732512.txt	14011	14023	Olifantsvlei	Location
+PMC2732512.txt	14079	14091	Olifantsvlei	Location
+PMC2732512.txt	14147	14159	Olifantsvlei	Location
+PMC2732512.txt	14215	14227	Olifantsvlei	Location
+PMC2732512.txt	14283	14295	Olifantsvlei	Location
+PMC2732512.txt	14351	14363	Olifantsvlei	Location
+PMC2732512.txt	14416	14428	Olifantsvlei	Location
+PMC2732512.txt	14484	14496	Olifantsvlei	Location
+PMC2732512.txt	14553	14561	Bethulie	Location
+PMC2732512.txt	14621	14629	Bethulie	Location
+PMC2732512.txt	14688	14696	Bethulie	Location
+PMC2732512.txt	14756	14765	Rondebult	Location
+PMC2732512.txt	15651	15659	Botswana	Location
+PMC2732512.txt	16101	16114	Somerset West	Location
+PMC2732512.txt	16211	16224	Prince Albert	Location
+PMC2732512.txt	16241	16253	Western Cape	Location
+PMC2732512.txt	16774	16779	India	Location
+PMC2732512.txt	16789	16802	United States	Location
+PMC2732512.txt	16818	16827	Australia	Location
+PMC2732512.txt	17190	17195	Egypt	Location
+PMC2732512.txt	17220	17226	Israel	Location
+PMC2732512.txt	17252	17257	India	Location
+PMC2732512.txt	17302	17308	Uganda	Location
+PMC2732512.txt	17337	17343	France	Location
+PMC2732512.txt	17375	17378	CAR	Location
+PMC2732512.txt	17415	17422	Algeria	Location
+PMC2732512.txt	17462	17472	Madagascar	Location
+PMC2732512.txt	17517	17524	Senegal	Location
+PMC2732512.txt	17560	17571	Ivory Coast	Location
+PMC2732512.txt	17601	17604	CAR	Location
+PMC2732512.txt	17649	17659	Madagascar	Location
+PMC2732512.txt	17699	17709	Madagascar	Location
+PMC2732512.txt	17738	17741	CAR	Location
+PMC2732512.txt	17779	17786	Senegal	Location
+PMC2732512.txt	17822	17829	Senegal	Location
+PMC2732512.txt	17863	17870	Romania	Location
+PMC2732512.txt	17895	17902	Morocco	Location
+PMC2732512.txt	17935	17941	Israel	Location
+PMC2732512.txt	17967	17972	Italy	Location
+PMC2732512.txt	18011	18016	Kenya	Location
+PMC2732512.txt	18107	18112	Kenya	Location
+PMC2732512.txt	18062	18065	USA	Location
+PMC2732512.txt	18135	18144	Australia	Location
+PMC2732512.txt	18179	18184	China	Location
+PMC2732512.txt	18317	18320	CAR	Location
+PMC2732512.txt	18322	18346	Central African Republic	Location
+PMC2732512.txt	18793	18803	Madagascar	Location
+PMC2732512.txt	18905	18915	Madagascar	Location
+PMC2732512.txt	19450	19453	CAR	Location
+PMC2732512.txt	19455	19462	Senegal	Location
+PMC2732512.txt	19468	19473	Kenya	Location
+PMC2732512.txt	22111	22114	AUS	Location
+PMC2732512.txt	22116	22125	Australia	Location
+PMC2732512.txt	22129	22132	CAR	Location
+PMC2732512.txt	22134	22158	Central African Republic	Location
+PMC2732512.txt	22163	22165	SA	Location
+PMC2732512.txt	22167	22179	South Africa	Location
+PMC2732512.txt	22401	22404	CAR	Location
+PMC2732512.txt	22406	22413	Senegal	Location
+PMC2732512.txt	22419	22424	Kenya	Location
+PMC2732512.txt	23888	23894	Israel	Location
+PMC2732512.txt	24440	24443	CAR	Location
+PMC2732512.txt	24751	24763	South Africa	Location
+PMC2732512.txt	25024	25036	South Africa	Location
+PMC2732512.txt	26054	26066	South Africa	Location
+PMC2732512.txt	25988	25996	Botswana	Location
+PMC2732512.txt	26731	26743	South Africa	Location
+PMC2732512.txt	26855	26867	South Africa	Location
+PMC2732512.txt	27068	27080	Western Cape	Location
+PMC2732512.txt	699	712	North America	Location
+PMC2732512.txt	679	685	Europe	Location
+PMC2732512.txt	764	770	Africa	Location
+PMC2732512.txt	3052	3058	Africa	Location
+PMC2732512.txt	775	785	Madagascar	Location
+PMC2732512.txt	4536	4548	South Africa	Location
+PMC2732512.txt	6045	6051	Africa	Location
+PMC2732512.txt	6074	6080	Europe	Location
+PMC2732512.txt	6082	6086	Asia	Location
+PMC2732512.txt	6092	6105	North America	Location
+PMC2732512.txt	6443	6449	Africa	Location
+PMC2732512.txt	7012	7018	Africa	Location
+PMC2732512.txt	16743	16749	Europe	Location
+PMC2732512.txt	16751	16757	Africa	Location
+PMC2732512.txt	18780	18786	Africa	Location
+PMC2732512.txt	6253	6259	Africa	Location
+PMC2732512.txt	1362	1368	Europe	Location
+PMC2732512.txt	1344	1350	Africa	Location
+PMC2732512.txt	1352	1356	Asia	Location
+PMC2732512.txt	1620	1626	Africa	Location
+PMC2732512.txt	1647	1651	Asia	Location
+PMC2732512.txt	1687	1693	Israel	Location
+PMC2732512.txt	26256	26262	Africa	Location
+PMC2732512.txt	22664	22670	Africa	Location
+PMC2732512.txt	22675	22682	Eurasia	Location
+PMC2732512.txt	7447	7453	Africa	Location
+PMC2732512.txt	2583	2589	Israel	Location
+PMC2732512.txt	13946	13952	Welkom	Location
+PMC2732512.txt	2872	2879	America	Location
+PMC2732512.txt	665	677	North Africa	Location
+PMC2732512.txt	1632	1641	Near East	Location
+PMC2732512.txt	2889	2898	Near East	Location
+PMC2732512.txt	16763	16772	Near East	Location
+18214200.txt	2362	2367	Egypt	Location
+18214200.txt	2709	2736	People's Republic of China	Location
+18214200.txt	2756	2767	Middle East	Location
+18214200.txt	2769	2775	Africa	Location
+18214200.txt	2781	2787	Europe	Location
+18214200.txt	3182	3192	Azerbaijan	Location
+18214200.txt	3279	3284	Egypt	Location
+18214200.txt	3552	3561	Port Said	Location
+18214200.txt	3563	3571	Damietta	Location
+18214200.txt	3574	3580	Fayoum	Location
+18214200.txt	3582	3587	Arish	Location
+18214200.txt	3593	3608	Sharm el Sheikh	Location
+18214200.txt	4033	4043	Nile Delta	Location
+18214200.txt	4055	4063	Damietta	Location
+18214200.txt	4443	4451	Damietta	Location
+18214200.txt	4774	4779	Egypt	Location
+18214200.txt	5227	5232	Egypt	Location
+18214200.txt	5891	5896	Egypt	Location
+18214200.txt	6379	6384	Egypt	Location
+18214200.txt	7390	7395	Egypt	Location
+PMC3543454.txt	109	116	Tunisia	Location
+PMC3543454.txt	5984	5991	Tunisia	Location
+PMC3543454.txt	6177	6184	Tunisia	Location
+PMC3543454.txt	6576	6583	Tunisia	Location
+PMC3543454.txt	7245	7252	Tunisia	Location
+PMC3543454.txt	9242	9253	Montpellier	Location
+PMC3543454.txt	9255	9261	France	Location
+PMC3543454.txt	11590	11597	Germany	Location
+PMC3543454.txt	12019	12030	Montpellier	Location
+PMC3543454.txt	12032	12038	France	Location
+PMC3543454.txt	12714	12721	Germany	Location
+PMC3543454.txt	12959	12967	Carlsbad	Location
+PMC3543454.txt	12969	12971	CA	Location
+PMC3543454.txt	13985	13993	Carlsbad	Location
+PMC3543454.txt	13995	13997	CA	Location
+PMC3543454.txt	13999	14002	USA	Location
+PMC3543454.txt	14458	14464	Hilden	Location
+PMC3543454.txt	14466	14473	Germany	Location
+PMC3543454.txt	15110	15114	Ohio	Location
+PMC3543454.txt	15104	15109	Solon	Location
+PMC3543454.txt	15209	15219	Wilmington	Location
+PMC3543454.txt	15221	15223	DE	Location
+PMC3543454.txt	15225	15228	USA	Location
+PMC3543454.txt	15494	15497	USA	Location
+PMC3543454.txt	15490	15492	CA	Location
+PMC3543454.txt	15626	15628	CA	Location
+PMC3543454.txt	15630	15633	USA	Location
+PMC3543454.txt	17258	17264	Nabeul	Location
+PMC3543454.txt	17291	17295	Sfax	Location
+PMC3543454.txt	17229	17234	Tunis	Location
+PMC3543454.txt	17804	17809	Tunis	Location
+PMC3543454.txt	17848	17852	Sfax	Location
+PMC3543454.txt	17811	17817	Nabeul	Location
+PMC3543454.txt	17819	17825	Sousse	Location
+PMC3543454.txt	17795	17802	Bizerte	Location
+PMC3543454.txt	17827	17833	Mahdia	Location
+PMC3543454.txt	17835	17843	Monastir	Location
+PMC3543454.txt	20249	20256	Tunisia	Location
+PMC3543454.txt	21550	21556	Nabeul	Location
+PMC3543454.txt	21558	21562	Sfax	Location
+PMC3543454.txt	21567	21572	Tunis	Location
+PMC3543454.txt	24118	24125	Tunisia	Location
+PMC3543454.txt	24327	24334	Tunisia	Location
+PMC3543454.txt	24943	24950	Tunisia	Location
+PMC3543454.txt	25529	25536	Tunisia	Location
+PMC3543454.txt	25799	25806	Tunisia	Location
+PMC3543454.txt	26657	26664	Tunisia	Location
+PMC3543454.txt	28522	28529	Maghreb	Location
+PMC3543454.txt	28687	28694	Tunisia	Location
+PMC3543454.txt	29378	29384	Jordan	Location
+PMC3543454.txt	29394	29399	Egypt	Location
+PMC3543454.txt	34574	34581	Tunisia	Location
+PMC3543454.txt	36037	36044	Tunisia	Location
+PMC3543454.txt	43166	43173	Tunisia	Location
+PMC3543454.txt	4746	4750	Asia	Location
+PMC3543454.txt	4789	4795	Africa	Location
+PMC3543454.txt	4824	4831	America	Location
+PMC3543454.txt	4801	4812	Middle East	Location
+PMC3543454.txt	15089	15102	North America	Location
+22984519.txt	69	76	Maracay	Location
+22984519.txt	78	87	Venezuela	Location
+22984519.txt	1248	1257	Venezuela	Location
+22984519.txt	1379	1386	Maracay	Location
+22984519.txt	1388	1397	Venezuela	Location
+22984519.txt	1542	1549	Maracay	Location
+22984519.txt	1551	1560	Venezuela	Location
+22984519.txt	2977	2984	Maracay	Location
+22984519.txt	2986	2995	Venezuela	Location
+22984519.txt	5058	5071	United States	Location
+22984519.txt	6176	6189	South America	Location
+22984519.txt	6462	6475	United States	Location
+22984519.txt	7649	7653	Peru	Location
+22984519.txt	7655	7661	Brazil	Location
+22984519.txt	7663	7670	Ecuador	Location
+22984519.txt	7672	7681	Nicaragua	Location
+22984519.txt	7684	7692	Honduras	Location
+22984519.txt	7698	7709	El Salvador	Location
+22984519.txt	7782	7791	Sao Paulo	Location
+22984519.txt	7793	7799	Brazil	Location
+22984519.txt	8221	8228	Ecuador	Location
+22984519.txt	8347	8352	Quito	Location
+22984519.txt	8496	8505	Guayaquil	Location
+22984519.txt	8893	8906	South America	Location
+22984519.txt	9123	9132	Venezuela	Location
+22984519.txt	9596	9605	Venezuela	Location
+22984519.txt	9948	9955	Maracay	Location
+22984519.txt	9958	9967	Venezuela	Location
+22984519.txt	13744	13751	Maracay	Location
+22984519.txt	13753	13762	Venezuela	Location
+22984519.txt	14223	14232	Venezuela	Location
+22984519.txt	14307	14320	South America	Location
+22984519.txt	14515	14528	Latin America	Location
+22984519.txt	16661	16667	Mexico	Location
+22984519.txt	17133	17140	Maracay	Location
+22984519.txt	17142	17151	Venezuela	Location
+22984519.txt	18253	18260	Maracay	Location
+22984519.txt	18262	18271	Venezuela	Location
+22984519.txt	20113	20122	Venezuela	Location
+22984519.txt	20502	20511	Venezuela	Location
+22984519.txt	20691	20698	Maracay	Location
+22984519.txt	21988	21995	Maracay	Location
+22984519.txt	21998	22007	Venezuela	Location
+22984519.txt	23434	23441	Maracay	Location
+22984519.txt	23443	23452	Venezuela	Location
+22984519.txt	23556	23563	Maracay	Location
+22984519.txt	23565	23574	Venezuela	Location
+22984519.txt	24467	24474	Maracay	Location
+22984519.txt	24476	24485	Venezuela	Location
+22984519.txt	24863	24874	El Salvador	Location
+22984519.txt	24876	24884	Honduras	Location
+22984519.txt	24890	24899	Nicaragua	Location
+22984519.txt	24957	24966	Indonesia	Location
+22984519.txt	25179	25185	Taiwan	Location
+22984519.txt	25533	25546	South America	Location
+22984519.txt	25595	25599	Peru	Location
+22984519.txt	26600	26607	Maracay	Location
+22984519.txt	27120	27127	Maracay	Location
+22984519.txt	27129	27138	Venezuela	Location
+22984519.txt	27234	27241	Maracay	Location
+22984519.txt	27243	27252	Venezuela	Location
+22984519.txt	27390	27399	Venezuela	Location
+22984519.txt	27568	27573	Zulia	Location
+22984519.txt	27576	27585	Venezuela	Location
+22984519.txt	27986	27999	South America	Location
+22984519.txt	29867	29876	Guatemala	Location
+22984519.txt	29883	29887	Peru	Location
+22984519.txt	29894	29903	Argentina	Location
+22984519.txt	29914	29920	Brazil	Location
+22984519.txt	29995	30004	Venezuela	Location
+22984519.txt	30789	30796	Maracay	Location
+22984519.txt	30864	30871	Maracay	Location
+22984519.txt	30873	30882	Venezuela	Location
+22984519.txt	31354	31361	Ecuador	Location
+22984519.txt	31526	31541	Central America	Location
+22984519.txt	34415	34422	Maracay	Location
+22984519.txt	34425	34434	Venezuela	Location
+22984519.txt	34741	34748	Maracay	Location
+22984519.txt	34750	34759	Venezuela	Location
+22984519.txt	36906	36913	Maracay	Location
+22984519.txt	36915	36924	Venezuela	Location
+22984519.txt	37038	37045	Maracay	Location
+22984519.txt	37091	37100	Venezuela	Location
+22984519.txt	37515	37523	Girardot	Location
+22984519.txt	37903	37910	Maracay	Location
+22984519.txt	37954	37960	Aragua	Location
+22984519.txt	39579	39592	Silver Spring	Location
+22984519.txt	39595	39603	Maryland	Location
+22984519.txt	39864	39873	Venezuela	Location
+22984519.txt	39941	39948	Maracay	Location
+22984519.txt	39950	39959	Venezuela	Location
+22984519.txt	41289	41293	Lima	Location
+22984519.txt	41295	41299	Peru	Location
+22984519.txt	41572	41579	Maracay	Location
+22984519.txt	43142	43148	Athens	Location
+22984519.txt	46844	46853	Venezuela	Location
+22984519.txt	47600	47607	Maracay	Location
+22984519.txt	47609	47618	Venezuela	Location
+22984519.txt	48394	48401	Austria	Location
+22984519.txt	48545	48552	Maracay	Location
+22984519.txt	48554	48563	Venezuela	Location
+22984519.txt	37529	37554	Mario Bricen ~o Iragorry	Location
+22984519.txt	41581	41590	Venezuela	Location
+22984519.txt	43150	43152	OH	Location
+22984519.txt	45719	45721	CA	Location
+22984519.txt	48386	48392	Vienna	Location
+22984519.txt	47161	47172	Englishtown	Location
+22984519.txt	47174	47176	NJ	Location
+22984519.txt	28776	28787	Michi-gan	Location
+22984519.txt	47271	47282	Foster City	Location
+22984519.txt	47284	47286	CA	Location
+22984519.txt	47424	47435	Foster City	Location
+22984519.txt	47437	47439	CA	Location
+22984519.txt	48326	48333	Chicago	Location
+22984519.txt	48335	48337	IL	Location
+22984519.txt	45707	45717	San Diego	Location
+PMC4895411.txt	2914	2922	Malaysia	Location
+PMC4895411.txt	3819	3824	China	Location
+PMC4895411.txt	4428	4433	China	Location
+PMC4895411.txt	22667	22675	Malaysia	Location
+PMC4895411.txt	33094	33102	Valencia	Location
+PMC4895411.txt	33104	33106	CA	Location
+PMC4895411.txt	33108	33111	USA	Location
+PMC4895411.txt	33791	33794	USA	Location
+PMC4895411.txt	33787	33789	WI	Location
+PMC4895411.txt	33778	33785	Madison	Location
+PMC4895411.txt	34400	34403	USA	Location
+PMC4895411.txt	34396	34398	MA	Location
+PMC4895411.txt	34387	34394	Waltham	Location
+PMC4895411.txt	34927	34934	Waltham	Location
+PMC4895411.txt	34936	34938	MA	Location
+PMC4895411.txt	35028	35030	MA	Location
+PMC4895411.txt	36017	36019	MA	Location
+PMC4895411.txt	34940	34943	USA	Location
+PMC4895411.txt	35032	35035	USA	Location
+PMC4895411.txt	34989	34992	USA	Location
+PMC4895411.txt	35304	35307	USA	Location
+PMC4895411.txt	35572	35575	USA	Location
+PMC4895411.txt	36021	36024	USA	Location
+PMC4895411.txt	34985	34987	MO	Location
+PMC4895411.txt	34974	34983	St. Louis	Location
+PMC4895411.txt	35300	35302	CA	Location
+PMC4895411.txt	35568	35570	CA	Location
+PMC4895411.txt	35555	35566	Foster City	Location
+PMC4895411.txt	35291	35298	Hayward	Location
+PMC4895411.txt	36004	36015	Northampton	Location
+PMC4895411.txt	37736	37743	Nanjing	Location
+PMC4895411.txt	37745	37752	Jiangsu	Location
+PMC4895411.txt	37754	37759	China	Location
+PMC4895411.txt	40806	40811	Davie	Location
+PMC4895411.txt	40813	40815	FL	Location
+PMC4895411.txt	40817	40820	USA	Location
+PMC4895411.txt	31743	31749	Boston	Location
+PMC4895411.txt	31751	31753	MA	Location
+PMC4895411.txt	31755	31758	USA	Location
+PMC4895411.txt	32625	32633	Shandong	Location
+PMC4895411.txt	32738	32741	USA	Location
+PMC4895411.txt	32734	32736	VA	Location
+PMC4895411.txt	32724	32732	Manassas	Location
+PMC4895411.txt	36572	36580	Shandong	Location
+19359528.txt	261	266	Korea	Location
+19359528.txt	1469	1474	Korea	Location
+19359528.txt	4266	4272	Europe	Location
+19359528.txt	4277	4282	China	Location
+19359528.txt	4416	4422	Canada	Location
+19359528.txt	4432	4437	China	Location
+19359528.txt	4711	4716	China	Location
+19359528.txt	4741	4754	United States	Location
+19359528.txt	4900	4905	Korea	Location
+19359528.txt	5165	5178	United States	Location
+19359528.txt	5999	6010	South Korea	Location
+19359528.txt	6160	6165	Korea	Location
+19359528.txt	6359	6364	Korea	Location
+19359528.txt	6754	6765	South Korea	Location
+19359528.txt	6966	6977	South Korea	Location
+19359528.txt	7580	7588	Valencia	Location
+19359528.txt	7908	7919	Foster City	Location
+19359528.txt	8009	8020	Foster City	Location
+19359528.txt	8141	8148	Madison	Location
+19359528.txt	8875	8880	Tokyo	Location
+19359528.txt	8882	8887	Japan	Location
+19359528.txt	12081	12090	Cambridge	Location
+19359528.txt	12746	12754	Chungnam	Location
+19359528.txt	15377	15382	China	Location
+19359528.txt	15629	15634	Korea	Location
+19359528.txt	17632	17637	Korea	Location
+19359528.txt	23333	23346	United States	Location
+19359528.txt	24066	24079	United States	Location
+19359528.txt	33358	33363	Korea	Location
+19359528.txt	33467	33480	United States	Location
+19359528.txt	33487	33493	Mexico	Location
+19359528.txt	33500	33505	Italy	Location
+19359528.txt	33511	33518	Nigeria	Location
+19359528.txt	33526	33531	China	Location
+19359528.txt	33541	33546	Japan	Location
+19359528.txt	34551	34556	China	Location
+19359528.txt	35551	35556	China	Location
+19359528.txt	35664	35669	Korea	Location
+19359528.txt	36758	36769	South Korea	Location
+19359528.txt	41420	41425	China	Location
+19359528.txt	6942	6953	Chung-nam	Location
+19359528.txt	7590	7592	CA	Location
+19359528.txt	7830	7832	CA	Location
+19359528.txt	7921	7923	CA	Location
+19359528.txt	8022	8024	CA	Location
+19359528.txt	8150	8152	WI	Location
+19359528.txt	12092	12094	MA	Location
+19359528.txt	7816	7828	Foster City	Location
+PUB20875285.txt	56	64	Thailand	Location
+PUB20875285.txt	428	436	Thailand	Location
+PUB20875285.txt	829	835	Mexico	Location
+PUB20875285.txt	844	857	United States	Location
+PUB20875285.txt	951	959	Thailand	Location
+PUB20875285.txt	992	998	Mexico	Location
+PUB20875285.txt	1180	1188	Thailand	Location
+PUB20875285.txt	1439	1447	Thailand	Location
+PUB20875285.txt	1534	1542	Thailand	Location
+PUB20875285.txt	1768	1776	Thailand	Location
+PUB20875285.txt	1833	1841	Thailand	Location
+PUB20875285.txt	1897	1910	North America	Location
+PUB20875285.txt	1915	1922	Eurasia	Location
+PUB20875285.txt	1992	2000	Thailand	Location
+PUB20875285.txt	2277	2285	Thailand	Location
+PUB20875285.txt	2677	2685	Thailand	Location
+PUB20875285.txt	6649	6656	Madison	Location
+PUB20875285.txt	6662	6665	USA	Location
+PUB20875285.txt	7090	7098	Thailand	Location
+PUB20875285.txt	7688	7696	Thailand	Location
+PUB20875285.txt	8602	8610	Thailand	Location
+PUB20875285.txt	10005	10013	Thailand	Location
+PUB20875285.txt	11232	11240	Thailand	Location
+PUB20875285.txt	6658	6660	WI	Location
+PUB21900171.txt	4152	4165	United States	Location
+PUB21900171.txt	6200	6205	Logan	Location
+PUB21900171.txt	6243	6251	Carlsbad	Location
+PUB21900171.txt	6488	6496	Carlsbad	Location
+PUB21900171.txt	6529	6537	Carlsbad	Location
+PUB21900171.txt	7358	7367	St. Louis	Location
+PUB21900171.txt	8190	8204	BSL-3 facility	Location
+PUB21900171.txt	8206	8213	Oakland	Location
+PUB21900171.txt	8215	8217	NE	Location
+PUB21900171.txt	10461	10473	Carol Stream	Location
+PUB21900171.txt	10571	10583	Carol Stream	Location
+PUB21900171.txt	14026	14034	La Jolla	Location
+PUB21900171.txt	6207	6209	UT	Location
+PUB21900171.txt	6253	6255	CA	Location
+PUB21900171.txt	6498	6500	CA	Location
+PUB21900171.txt	6539	6541	CA	Location
+PUB21900171.txt	7369	7371	MO	Location
+PUB21900171.txt	7939	7999	Kansas State University's biosafety level 2 (BSL-2) facility	Location
+PUB21900171.txt	10475	10477	IL	Location
+PUB21900171.txt	10586	10588	IL	Location
+PUB21900171.txt	14036	14038	CA	Location
+PMC5794229.txt	114	128	United Kingdom	Location
+PMC5794229.txt	365	379	United Kingdom	Location
+PMC5794229.txt	4370	4384	United Kingdom	Location
+PMC5794229.txt	13465	13469	Cary	Location
+PMC5794229.txt	13471	13473	NC	Location
+PMC5794229.txt	13518	13533	College Station	Location
+PMC5794229.txt	13535	13537	TX	Location
+PMC5794229.txt	20238	20252	United Kingdom	Location
+12857911.txt	8462	8468	London	Location
+12857911.txt	8470	8484	United Kingdom	Location
+12857911.txt	11075	11083	Mannheim	Location
+12857911.txt	11085	11092	Germany	Location
+12857911.txt	12985	12992	Atlanta	Location
+12857911.txt	12994	12996	Ga	Location
+12857911.txt	13927	13936	St. Louis	Location
+12857911.txt	13938	13940	Mo	Location
+18394282.txt	57	64	Nigeria	Location
+18394282.txt	648	654	Africa	Location
+18394282.txt	792	798	Kaduna	Location
+18394282.txt	808	815	Nigeria	Location
+18394282.txt	1129	1134	Lagos	Location
+18394282.txt	1200	1207	Nigeria	Location
+18394282.txt	1351	1358	Nigeria	Location
+18394282.txt	1807	1814	Nigeria	Location
+18394282.txt	2424	2435	Foster City	Location
+18394282.txt	2437	2439	CA	Location
+18394282.txt	2442	2445	USA	Location
+18394282.txt	2854	2860	Europe	Location
+18394282.txt	2862	2868	Russia	Location
+18394282.txt	2870	2876	Africa	Location
+18394282.txt	2886	2897	Middle East	Location
+18394282.txt	4282	4288	Taraba	Location
+18394282.txt	4446	4452	Sokoto	Location
+18394282.txt	4955	4962	Legnaro	Location
+18394282.txt	4964	4970	Padova	Location
+18394282.txt	4972	4977	Italy	Location
+18394282.txt	5020	5027	Plateau	Location
+18394282.txt	5035	5038	Vom	Location
+18394282.txt	5040	5047	Nigeria	Location
+18394282.txt	5076	5079	Oya	Location
+18394282.txt	5087	5093	Ibadan	Location
+18394282.txt	5095	5102	Nigeria	Location
+18394282.txt	6161	6168	Nigeria	Location
+18394282.txt	6467	6474	Nigeria	Location
+18394282.txt	6580	6587	Plateau	Location
+18394282.txt	6630	6636	Sokoto	Location
+18394282.txt	6692	6697	Borno	Location
+18394282.txt	6753	6760	Plateau	Location
+18394282.txt	6803	6809	Sokoto	Location
+18394282.txt	6866	6872	Bauchi	Location
+18394282.txt	6930	6937	Anambra	Location
+18394282.txt	6995	7001	Kaduna	Location
+18394282.txt	7059	7063	Kano	Location
+18394282.txt	7118	7123	Borno	Location
+18394282.txt	7180	7185	Lagos	Location
+18394282.txt	7242	7248	Kaduna	Location
+18394282.txt	8239	8246	Nigeria	Location
+18394282.txt	8323	8330	Nigeria	Location
+18394282.txt	8385	8392	Nigeria	Location
+18394282.txt	9277	9284	Nigeria	Location
+18394282.txt	9358	9362	Asia	Location
+18394282.txt	9551	9558	Vietnam	Location
+18394282.txt	9745	9752	Vietnam	Location
+18394282.txt	10678	10685	Nigeria	Location
+18394282.txt	11175	11181	Africa	Location
+18394282.txt	12502	12509	Nigeria	Location
+23950136.txt	4250	4255	China	Location
+PUB21392430.txt	151	157	Europe	Location
+PUB21392430.txt	401	411	Luxembourg	Location
+PUB21392430.txt	1388	1402	North America	Location
+PUB21392430.txt	1855	1869	western Europe	Location
+PUB21392430.txt	1959	1965	Norway	Location
+PUB21392430.txt	2048	2055	Germany	Location
+PUB21392430.txt	2057	2062	Italy	Location
+PUB21392430.txt	2064	2071	Denmark	Location
+PUB21392430.txt	2856	2862	Europe	Location
+PUB21392430.txt	3075	3088	North America	Location
+PUB21392430.txt	3377	3383	Europe	Location
+PUB21392430.txt	3436	3450	Western Europe	Location
+PUB21392430.txt	4139	4152	United States	Location
+PUB21392430.txt	4154	4168	United Kingdom	Location
+PUB21392430.txt	4175	4182	Finland	Location
+PUB21392430.txt	5622	5633	Junglinster	Location
+PUB21392430.txt	5636	5646	Luxembourg	Location
+PUB21392430.txt	5693	5703	Luxembourg	Location
+PUB21392430.txt	6165	6175	Luxembourg	Location
+PUB21392430.txt	6626	6640	western Europe	Location
+PUB21392430.txt	8524	8532	San Jose	Location
+PUB21392430.txt	8538	8541	USA	Location
+PUB21392430.txt	8565	8572	Chicago	Location
+PUB21392430.txt	8578	8581	USA	Location
+PUB21392430.txt	12810	12820	Luxembourg	Location
+PUB21392430.txt	15012	15022	Luxembourg	Location
+PUB21392430.txt	16326	16336	Luxembourg	Location
+PUB21392430.txt	21578	21588	Luxembourg	Location
+PUB21392430.txt	24300	24306	Europe	Location
+PUB21392430.txt	24323	24333	Luxembourg	Location
+PUB21392430.txt	24446	24453	Ireland	Location
+PUB21392430.txt	24459	24464	Spain	Location
+PUB21392430.txt	24517	24527	Luxembourg	Location
+PUB21392430.txt	25499	25509	Luxembourg	Location
+PUB21392430.txt	27135	27141	Europe	Location
+PUB21392430.txt	28741	28755	United Kingdom	Location
+PUB21392430.txt	28760	28767	Finland	Location
+PUB21392430.txt	28817	28822	China	Location
+PUB21392430.txt	29165	29178	United States	Location
+PUB21392430.txt	30446	30456	Luxembourg	Location
+PUB21392430.txt	30536	30546	Luxembourg	Location
+PUB21392430.txt	30684	30690	Europe	Location
+PUB21392430.txt	24429	24444	United Kingdom	Location
+PUB21392430.txt	125	137	the Americas	Location
+PUB21392430.txt	8534	8536	CA	Location
+PUB21392430.txt	8574	8576	IL	Location
+PMC5005937.txt	9102	9111	Australia	Location
+PMC5005937.txt	9120	9126	Canada	Location
+PMC5005937.txt	9143	9146	USA	Location
+PMC5005937.txt	9911	9920	Australia	Location
+PMC5005937.txt	9925	9936	New Zealand	Location
+PMC5005937.txt	19440	19449	Australia	Location
+PMC5005937.txt	19454	19460	Canada	Location
+PMC5005937.txt	27955	27961	Canada	Location
+PMC5005937.txt	27966	27975	Australia	Location
+PMC5005937.txt	27950	27953	USA	Location
+PMC5005937.txt	20962	20971	Australia	Location
+PMC5005937.txt	20973	20983	California	Location
+PMC5005937.txt	20985	20991	Canada	Location
+17652402.txt	264	269	China	Location
+17652402.txt	1709	1714	China	Location
+17652402.txt	2672	2678	Africa	Location
+17652402.txt	3220	3225	China	Location
+17652402.txt	3341	3352	Middle East	Location
+17652402.txt	3357	3364	Germany	Location
+17652402.txt	3439	3448	Hong Kong	Location
+17652402.txt	3539	3550	South Korea	Location
+17652402.txt	3682	3687	China	Location
+17652402.txt	3787	3792	China	Location
+17652402.txt	5168	5173	China	Location
+17652402.txt	6321	6326	China	Location
+17652402.txt	6679	6684	China	Location
+17652402.txt	7133	7142	Hong Kong	Location
+17652402.txt	7546	7551	China	Location
+17652402.txt	8825	8830	China	Location
+17652402.txt	8885	8890	China	Location
+17652402.txt	9410	9415	China	Location
+17652402.txt	9854	9863	Guangdong	Location
+17652402.txt	9977	9983	Fujian	Location
+17652402.txt	9985	9992	Guangxi	Location
+17652402.txt	9994	10001	Guizhou	Location
+17652402.txt	10003	10008	Hunan	Location
+17652402.txt	10015	10021	Yunnan	Location
+17652402.txt	10747	10755	Plymouth	Location
+17652402.txt	10757	10771	United Kingdom	Location
+17652402.txt	12670	12675	China	Location
+17652402.txt	16036	16041	China	Location
+17652402.txt	16125	16131	Fujian	Location
+17652402.txt	16133	16142	Guangdong	Location
+17652402.txt	16144	16151	Guangxi	Location
+17652402.txt	16153	16160	Guiyang	Location
+17652402.txt	16162	16167	Hunan	Location
+17652402.txt	16174	16180	Yunnan	Location
+17652402.txt	16754	16759	China	Location
+17652402.txt	19071	19076	China	Location
+17652402.txt	24201	24206	China	Location
+17652402.txt	24211	24216	Japan	Location
+17652402.txt	27928	27933	China	Location
+17652402.txt	30137	30141	Asia	Location
+17652402.txt	30733	30740	Beijing	Location
+17652402.txt	30770	30776	Fujian	Location
+17652402.txt	30782	30791	Guangdong	Location
+17652402.txt	30814	30821	Guangxi	Location
+17652402.txt	30827	30836	Hong Kong	Location
+17652402.txt	30843	30855	Heilongjiang	Location
+17652402.txt	30861	30866	Hunan	Location
+17652402.txt	30873	30881	Nanchang	Location
+17652402.txt	30944	30952	Shandong	Location
+17652402.txt	30958	30966	Shanghai	Location
+17652402.txt	30972	30979	Shantou	Location
+17652402.txt	31014	31020	Yunnan	Location
+17652402.txt	31275	31279	Asia	Location
+17652402.txt	34845	34850	China	Location
+17652402.txt	38001	38006	China	Location
+17652402.txt	38196	38201	China	Location
+17652402.txt	38669	38674	China	Location
+17652402.txt	40520	40525	China	Location
+17652402.txt	41530	41535	China	Location
+17652402.txt	42357	42361	Iran	Location
+17652402.txt	42363	42376	Saudi Arabia	Location
+17652402.txt	42378	42398	United Arab Emirates	Location
+17652402.txt	42404	42411	Germany	Location
+17652402.txt	42748	42753	China	Location
+17652402.txt	42882	42887	China	Location
+17652402.txt	43110	43115	China	Location
+17652402.txt	43445	43450	China	Location
+17652402.txt	44886	44892	Europe	Location
+17652402.txt	44897	44901	Asia	Location
+17652402.txt	45568	45573	China	Location
+17652402.txt	46046	46051	China	Location
+PMC2965766.txt	1941	1953	North Africa	Location
+PMC2965766.txt	4515	4519	Asia	Location
+PMC2965766.txt	4524	4530	Africa	Location
+PMC2965766.txt	4636	4642	Africa	Location
+PMC2965766.txt	5813	5825	North Africa	Location
+PMC2965766.txt	6222	6229	Algeria	Location
+PMC2965766.txt	6231	6238	Morocco	Location
+PMC2965766.txt	6240	6247	Tunisia	Location
+PMC2965766.txt	6281	6293	North Africa	Location
+PMC2965766.txt	6295	6300	Ceuta	Location
+PMC2965766.txt	6305	6312	Melilla	Location
+PMC2965766.txt	7181	7193	North Africa	Location
+PMC2965766.txt	7261	7268	Algeria	Location
+PMC2965766.txt	7270	7277	Morocco	Location
+PMC2965766.txt	7282	7289	Tunisia	Location
+PMC2965766.txt	8128	8135	Algeria	Location
+PMC2965766.txt	8145	8152	Morocco	Location
+PMC2965766.txt	8449	8456	Morocco	Location
+PMC2965766.txt	8437	8444	Algeria	Location
+PMC2965766.txt	8750	8757	Algeria	Location
+PMC2965766.txt	8762	8769	Morocco	Location
+PMC2965766.txt	8911	8917	Africa	Location
+PMC2965766.txt	9271	9278	Algeria	Location
+PMC2965766.txt	9258	9265	Morocco	Location
+PMC2965766.txt	9315	9322	Morocco	Location
+PMC2965766.txt	11430	11437	Algeria	Location
+PMC2965766.txt	11710	11717	Algeria	Location
+PMC2965766.txt	11698	11705	Morocco	Location
+PMC2965766.txt	12074	12081	Algeria	Location
+PMC2965766.txt	12297	12304	Morocco	Location
+PMC2965766.txt	13395	13399	Asia	Location
+PMC2965766.txt	13407	13413	Africa	Location
+PMC2965766.txt	13739	13751	North Africa	Location
+PMC2965766.txt	14249	14255	Africa	Location
+PMC2965766.txt	16008	16013	Ceuta	Location
+PMC2965766.txt	15996	16003	Melilla	Location
+PMC2965766.txt	16389	16396	Algeria	Location
+PMC2965766.txt	16401	16408	Morocco	Location
+PMC2965766.txt	17021	17028	Morocco	Location
+PMC2965766.txt	17009	17016	Algeria	Location
+PMC2965766.txt	18582	18589	Algeria	Location
+PMC2965766.txt	18594	18601	Morocco	Location
+PMC2965766.txt	18931	18938	Morocco	Location
+PMC2965766.txt	18919	18926	Algeria	Location
+PMC2965766.txt	19656	19665	Indonesia	Location
+PMC2965766.txt	19669	19682	Flores Island	Location
+PMC2965766.txt	19692	19696	Bali	Location
+PMC2965766.txt	19751	19757	Europe	Location
+PMC2965766.txt	20114	20121	Algeria	Location
+PMC2965766.txt	20126	20133	Morocco	Location
+PMC2965766.txt	21199	21211	North Africa	Location
+PMC2965766.txt	21564	21571	Algeria	Location
+PMC2965766.txt	21576	21583	Morocco	Location
+PMC2965766.txt	21669	21678	Ain Defla	Location
+PMC2965766.txt	21691	21697	Agadir	Location
+PMC2965766.txt	21710	21715	Alger	Location
+PMC2965766.txt	21730	21740	Al Hoceima	Location
+PMC2965766.txt	21753	21758	Batna	Location
+PMC2965766.txt	21771	21777	Azilal	Location
+PMC2965766.txt	21790	21796	Bejaia	Location
+PMC2965766.txt	21809	21820	Beni Mellal	Location
+PMC2965766.txt	21833	21839	Biskra	Location
+PMC2965766.txt	21852	21862	Benslimane	Location
+PMC2965766.txt	21875	21880	Blida	Location
+PMC2965766.txt	21896	21903	Berkane	Location
+PMC2965766.txt	21916	21933	Borj Bou Arreridj	Location
+PMC2965766.txt	21946	21950	Casa	Location
+PMC2965766.txt	21963	21969	Bouira	Location
+PMC2965766.txt	21982	21991	Chichaoua	Location
+PMC2965766.txt	22004	22013	Boumerdes	Location
+PMC2965766.txt	22028	22036	El Hajeb	Location
+PMC2965766.txt	22049	22054	Chlef	Location
+PMC2965766.txt	22067	22077	Errachidia	Location
+PMC2965766.txt	22090	22101	Constantine	Location
+PMC2965766.txt	22114	22117	Fes	Location
+PMC2965766.txt	22130	22136	Djelfa	Location
+PMC2965766.txt	22149	22155	Figuig	Location
+PMC2965766.txt	22168	22173	Medea	Location
+PMC2965766.txt	22186	22192	Ifrane	Location
+PMC2965766.txt	22205	22210	Msila	Location
+PMC2965766.txt	22223	22230	Jerrada	Location
+PMC2965766.txt	22243	22250	Ouargla	Location
+PMC2965766.txt	22263	22270	Kenitra	Location
+PMC2965766.txt	22283	22291	Relizane	Location
+PMC2965766.txt	22304	22312	Khenifra	Location
+PMC2965766.txt	22325	22330	Setif	Location
+PMC2965766.txt	22343	22352	Khouribga	Location
+PMC2965766.txt	22365	22371	Tipaza	Location
+PMC2965766.txt	22386	22395	Marrakech	Location
+PMC2965766.txt	22409	22419	Tissemsilt	Location
+PMC2965766.txt	22432	22437	Nador	Location
+PMC2965766.txt	22450	22460	Tizi-Ouzou	Location
+PMC2965766.txt	22473	22483	Ouarzazate	Location
+PMC2965766.txt	22496	22501	Oujda	Location
+PMC2965766.txt	22514	22519	Rabat	Location
+PMC2965766.txt	22532	22538	Settat	Location
+PMC2965766.txt	22551	22561	Sidi Kacem	Location
+PMC2965766.txt	22574	22580	Tanger	Location
+PMC2965766.txt	22594	22602	Taounate	Location
+PMC2965766.txt	22615	22623	Taourirt	Location
+PMC2965766.txt	22636	22640	Taza	Location
+PMC2965766.txt	23176	23183	Algeria	Location
+PMC2965766.txt	23188	23195	Morocco	Location
+PMC2965766.txt	23890	23897	Algeria	Location
+PMC2965766.txt	23902	23909	Morocco	Location
+PMC2965766.txt	25118	25125	Morocco	Location
+PMC2965766.txt	25127	25134	Algeria	Location
+PMC2965766.txt	25136	25143	Tunisia	Location
+PMC2965766.txt	25148	25153	Spain	Location
+PMC2965766.txt	25155	25160	Ceuta	Location
+PMC2965766.txt	25165	25172	Melilla	Location
+PMC2965766.txt	25923	25930	Algeria	Location
+PMC2965766.txt	25935	25942	Morocco	Location
+PMC2965766.txt	26122	26129	Morocco	Location
+PMC2965766.txt	26106	26113	Algeria	Location
+PMC2965766.txt	26489	26501	North Africa	Location
+PMC2965766.txt	27112	27119	Algeria	Location
+PMC2965766.txt	27128	27135	Morocco	Location
+PMC2965766.txt	28497	28509	north Africa	Location
+PMC2965766.txt	29578	29585	Morocco	Location
+PMC2965766.txt	29590	29597	Algeria	Location
+PMC2965766.txt	34173	34180	Algeria	Location
+PMC2965766.txt	34185	34192	Morocco	Location
+PMC2965766.txt	36320	36327	Algeria	Location
+PMC2965766.txt	36332	36339	Morocco	Location
+PMC2965766.txt	21585	21592	Algeria	Location
+PMC2965766.txt	21593	21600	Morocco	Location
+PMC2965766.txt	16140	16159	strait of Gibraltar	Location
+PMC2965766.txt	23205	23212	Morocco	Location
+PMC2965766.txt	23197	23204	Algeria	Location
+PMC2965766.txt	19622	19630	Virginia	Location
+PMC2965766.txt	19632	19635	USA	Location
+22733885.txt	86	91	China	Location
+22733885.txt	540	545	China	Location
+22733885.txt	800	805	China	Location
+22733885.txt	1218	1223	China	Location
+22733885.txt	1348	1353	China	Location
+22733885.txt	1523	1527	Asia	Location
+22733885.txt	1529	1535	Europe	Location
+22733885.txt	1541	1547	Africa	Location
+22733885.txt	1926	1931	China	Location
+22733885.txt	3651	3656	China	Location
+22733885.txt	3808	3813	China	Location
+22733885.txt	506	518	Guang- dong	Location
+23580714.txt	106	111	China	Location
+23580714.txt	614	621	Jiangsu	Location
+23580714.txt	643	648	China	Location
+23580714.txt	933	938	China	Location
+23580714.txt	2522	2529	Jiangsu	Location
+23580714.txt	2550	2555	China	Location
+23580714.txt	4603	4608	China	Location
+PMC3820476.txt	755	762	Denmark	Location
+PMC3820476.txt	1158	1180	Central Denmark Region	Location
+PMC3820476.txt	2490	2512	Central Denmark Region	Location
+PMC3820476.txt	2968	2975	Denmark	Location
+PMC3820476.txt	3081	3087	Europe	Location
+PMC3820476.txt	3235	3242	Denmark	Location
+PMC3820476.txt	3622	3629	Denmark	Location
+PMC3820476.txt	5092	5106	Denmark Region	Location
+PMC3820476.txt	5404	5411	Denmark	Location
+PMC3820476.txt	8521	8524	USA	Location
+PMC3820476.txt	8511	8515	Cary	Location
+PMC3820476.txt	8517	8519	NC	Location
+PMC3820476.txt	15234	15256	Central Denmark Region	Location
+PMC3820476.txt	16159	16166	Denmark	Location
+PMC3820476.txt	5704	5711	Denmark	Location
+11371620.txt	3124	3133	Hong Kong	Location
+11371620.txt	7003	7012	Hong Kong	Location
+11371620.txt	8844	8850	Ottawa	Location
+PMC2600298.txt	74	87	United States	Location
+PMC2600298.txt	1664	1671	Florida	Location
+PMC2600298.txt	2837	2844	Florida	Location
+PMC2600298.txt	2849	2857	New York	Location
+PMC2600298.txt	3240	3260	District of Columbia	Location
+PMC2600298.txt	3386	3393	Florida	Location
+PMC2600298.txt	3664	3671	Florida	Location
+PMC2600298.txt	3787	3794	Florida	Location
+PMC2600298.txt	5102	5109	Danbury	Location
+PMC2600298.txt	5111	5113	CT	Location
+PMC2600298.txt	5115	5118	USA	Location
+PMC2600298.txt	5202	5210	Valencia	Location
+PMC2600298.txt	5212	5214	CA	Location
+PMC2600298.txt	5216	5219	USA	Location
+PMC2600298.txt	6572	6575	USA	Location
+PMC2600298.txt	6850	6853	USA	Location
+PMC2600298.txt	6846	6848	CA	Location
+PMC2600298.txt	6568	6570	CA	Location
+PMC2600298.txt	6555	6566	Foster City	Location
+PMC2600298.txt	6836	6844	La Jolla	Location
+PMC2600298.txt	9533	9536	USA	Location
+PMC2600298.txt	9529	9531	MO	Location
+PMC2600298.txt	9518	9527	St. Louis	Location
+PMC2600298.txt	11781	11788	Madison	Location
+PMC2600298.txt	11790	11792	WI	Location
+PMC2600298.txt	11794	11797	USA	Location
+PMC2600298.txt	12159	12169	Sunderland	Location
+PMC2600298.txt	12171	12173	MA	Location
+PMC2600298.txt	12175	12178	USA	Location
+PMC2600298.txt	12754	12759	Tokyo	Location
+PMC2600298.txt	12761	12766	Japan	Location
+PMC2600298.txt	352	359	Florida	Location
+PMC4941901.txt	87	95	Thailand	Location
+PMC4941901.txt	993	1001	Thailand	Location
+PMC4941901.txt	2874	2887	United States	Location
+PMC4941901.txt	3560	3566	Europe	Location
+PMC4941901.txt	3927	3930	USA	Location
+PMC4941901.txt	4043	4056	North America	Location
+PMC4941901.txt	4133	4139	Canada	Location
+PMC4941901.txt	4206	4211	China	Location
+PMC4941901.txt	4914	4922	Thailand	Location
+PMC4941901.txt	5017	5025	Thailand	Location
+PMC4941901.txt	5467	5475	Thailand	Location
+PMC4941901.txt	5530	5538	Thailand	Location
+PMC4941901.txt	5627	5635	Thailand	Location
+PMC4941901.txt	5753	5761	Thailand	Location
+PMC4941901.txt	5838	5846	Thailand	Location
+PMC4941901.txt	6974	6982	Thailand	Location
+PMC4941901.txt	7027	7035	Thailand	Location
+PMC4941901.txt	7121	7129	Thailand	Location
+PMC4941901.txt	7173	7181	Thailand	Location
+PMC4941901.txt	8997	9008	Foster City	Location
+PMC4941901.txt	9101	9104	USA	Location
+PMC4941901.txt	11259	11267	Thailand	Location
+PMC4941901.txt	16237	16245	Thailand	Location
+PMC4941901.txt	21204	21212	Thailand	Location
+PMC4941901.txt	21481	21487	Europe	Location
+PMC4941901.txt	21527	21535	Thailand	Location
+PMC4941901.txt	21568	21574	Europe	Location
+PMC4941901.txt	21587	21600	North America	Location
+PMC4941901.txt	22099	22105	Europe	Location
+PMC4941901.txt	22187	22193	Europe	Location
+PMC4941901.txt	24440	24453	North America	Location
+PMC4941901.txt	24870	24875	China	Location
+PMC4941901.txt	25732	25737	U.S.A	Location
+PMC4941901.txt	25763	25768	Japan	Location
+PMC4941901.txt	26131	26139	Thailand	Location
+PMC4941901.txt	26495	26504	Hong Kong	Location
+PMC4941901.txt	26614	26619	China	Location
+PMC4941901.txt	26729	26734	China	Location
+PMC4941901.txt	26875	26880	China	Location
+PMC4941901.txt	26902	26910	Thailand	Location
+PMC4941901.txt	28896	28902	Europe	Location
+PMC4941901.txt	29424	29432	Thailand	Location
+PMC4941901.txt	30075	30080	China	Location
+PMC4941901.txt	30087	30095	Thailand	Location
+PMC4941901.txt	30912	30920	Thailand	Location
+PMC4941901.txt	30939	30947	Thailand	Location
+PMC4941901.txt	31752	31760	Thailand	Location
+PMC4941901.txt	8839	8845	Hilden	Location
+PMC4941901.txt	8847	8854	Germany	Location
+PMC4941901.txt	8548	8561	Swit- zerland	Location
+PMC4941901.txt	9014	9017	USA	Location
+PMC4941901.txt	9010	9012	CA	Location
+PMC5860499.txt	9709	9723	United Kingdom	Location
+PMC5860499.txt	29881	29887	Vienna	Location
+PMC5860499.txt	29889	29896	Austria	Location
+PMC2857219.txt	56	67	South Korea	Location
+PMC2857219.txt	350	361	South Korea	Location
+PMC2857219.txt	785	796	South Korea	Location
+PMC2857219.txt	1055	1066	Imjin River	Location
+PMC2857219.txt	1070	1081	South Korea	Location
+PMC2857219.txt	1205	1216	South Korea	Location
+PMC2857219.txt	1575	1586	Dongducheon	Location
+PMC2857219.txt	1743	1748	Seoul	Location
+PMC2857219.txt	1750	1761	South Korea	Location
+PMC2857219.txt	3142	3153	Dongducheon	Location
+PMC2857219.txt	5785	5788	USA	Location
+PMC2857219.txt	5781	5783	TX	Location
+PMC2857219.txt	5768	5779	Friendswood	Location
+PMC2857219.txt	5888	5900	Gaithersburg	Location
+PMC2857219.txt	5902	5904	MD	Location
+PMC2857219.txt	5906	5909	USA	Location
+PMC2857219.txt	6422	6433	Foster City	Location
+PMC2857219.txt	6435	6437	CA	Location
+PMC2857219.txt	6439	6442	USA	Location
+PMC2857219.txt	7945	7956	South Korea	Location
+PMC2857219.txt	9155	9162	Paju-si	Location
+PMC2857219.txt	9163	9175	Chuncheon-si	Location
+PMC2857219.txt	9176	9188	Cheorwon-gun	Location
+PMC2857219.txt	9189	9200	Pocheon-gun	Location
+PMC2857219.txt	9201	9213	Hwacheon-gun	Location
+PMC2857219.txt	9214	9226	Gapyeong-gun	Location
+PMC2857219.txt	9227	9241	Yangpyeong-gun	Location
+PMC2857219.txt	9242	9255	Yeoncheon-gun	Location
+PMC2857219.txt	9256	9268	Namyangju-si	Location
+PMC2857219.txt	9269	9280	Gwangju-gun	Location
+PMC2857219.txt	9281	9293	Gimpo-si -gu	Location
+PMC2857219.txt	9294	9303	Dobong-gu	Location
+PMC2857219.txt	9304	9315	Gangdong-gu	Location
+PMC2857219.txt	9316	9326	Bucheon-si	Location
+PMC2857219.txt	9327	9336	Yeonsu-gu	Location
+PMC2857219.txt	9337	9347	Dongjak-gu	Location
+PMC2857219.txt	9348	9358	Yongsan-gu	Location
+PMC2857219.txt	9903	9914	South Korea	Location
+PMC2857219.txt	10731	10739	Gyeonggi	Location
+PMC2857219.txt	10750	10761	South Korea	Location
+PMC2857219.txt	12752	12763	South Korea	Location
+PMC2857219.txt	15054	15065	South Korea	Location
+23920350.txt	91	96	China	Location
+23920350.txt	1738	1742	Wuxi	Location
+23920350.txt	1752	1757	China	Location
+23920350.txt	3531	3536	China	Location
+23920350.txt	3670	3676	Taiwan	Location
+23920350.txt	4837	4848	Netherlands	Location
+23920350.txt	5439	5446	Jiangsu	Location
+23920350.txt	8279	8287	Carlsbad	Location
+23920350.txt	8289	8291	CA	Location
+23920350.txt	8293	8296	USA	Location
+23920350.txt	8394	8403	Cleveland	Location
+23920350.txt	8405	8407	OH	Location
+23920350.txt	8409	8412	USA	Location
+23920350.txt	8521	8523	CA	Location
+23920350.txt	8525	8528	USA	Location
+23920350.txt	9386	9393	Madison	Location
+23920350.txt	9395	9397	WI	Location
+23920350.txt	9399	9402	USA	Location
+23920350.txt	10390	10397	Jiangsu	Location
+23920350.txt	10527	10534	Nanjing	Location
+23920350.txt	10536	10541	China	Location
+23920350.txt	18259	18267	Shanghai	Location
+23920350.txt	18270	18278	Zhejiang	Location
+23920350.txt	18284	18289	Anhui	Location
+23920350.txt	19815	19820	China	Location
+23920350.txt	8509	8519	San Diego	Location
+PMC2943167.txt	1263	1270	Denmark	Location
+PMC2943167.txt	2978	2985	Denmark	Location
+PMC2943167.txt	3222	3229	Denmark	Location
+PMC2943167.txt	3305	3312	Krefeld	Location
+PMC2943167.txt	3314	3321	Germany	Location
+PMC2943167.txt	5275	5282	Denmark	Location
+PMC2943167.txt	5633	5640	Denmark	Location
+PMC2943167.txt	10545	10551	Viborg	Location
+PMC2943167.txt	10556	10569	North Jutland	Location
+PMC2943167.txt	10944	10951	Denmark	Location
+PMC2943167.txt	12102	12117	College Station	Location
+PMC2943167.txt	12119	12121	TX	Location
+PMC2943167.txt	12123	12126	USA	Location
+PMC2943167.txt	16700	16707	Denmark	Location
+PMC2943167.txt	5260	5266	Aarhus	Location
+PMC2943167.txt	10503	10509	Aarhus	Location
+PUB20610681.txt	1353	1364	South Korea	Location
+PUB20610681.txt	2461	2472	South Korea	Location
+PUB20610681.txt	3462	3473	South Korea	Location
+PUB20610681.txt	5661	5672	South Korea	Location
+PUB20610681.txt	7887	7895	Valencia	Location
+PUB20610681.txt	8124	8136	Foster City	Location
+PUB20610681.txt	8218	8229	Foster City	Location
+PUB20610681.txt	8318	8329	Foster City	Location
+PUB20610681.txt	8477	8484	Madison	Location
+PUB20610681.txt	9031	9036	Tokyo	Location
+PUB20610681.txt	9038	9043	Japan	Location
+PUB20610681.txt	9926	9934	New York	Location
+PUB20610681.txt	10750	10755	Seoul	Location
+PUB20610681.txt	10757	10762	Korea	Location
+PUB20610681.txt	12877	12885	Chungbuk	Location
+PUB20610681.txt	12897	12908	South Korea	Location
+PUB20610681.txt	14289	14298	Singapore	Location
+PUB20610681.txt	15778	15787	Singapore	Location
+PUB20610681.txt	16619	16626	Madison	Location
+PUB20610681.txt	18722	18733	South Korea	Location
+PUB20610681.txt	19654	19659	Korea	Location
+PUB20610681.txt	21867	21874	Alberta	Location
+PUB20610681.txt	21880	21894	Brevig Mission	Location
+PUB20610681.txt	21900	21910	California	Location
+PUB20610681.txt	21916	21921	Chile	Location
+PUB20610681.txt	21927	21932	Korea	Location
+PUB20610681.txt	21938	21947	Singapore	Location
+PUB20610681.txt	23166	23172	Canada	Location
+PUB20610681.txt	23197	23206	Singapore	Location
+PUB20610681.txt	23318	23328	California	Location
+PUB20610681.txt	23335	23342	Alberta	Location
+PUB20610681.txt	23348	23357	Singapore	Location
+PUB20610681.txt	27955	27963	Chungbuk	Location
+PUB20610681.txt	29947	29958	South Korea	Location
+PUB20610681.txt	29975	29982	Alberta	Location
+PUB20610681.txt	29984	29990	Canada	Location
+PUB20610681.txt	33034	33045	South Korea	Location
+PUB20610681.txt	37670	37675	Korea	Location
+PUB20610681.txt	7898	7900	CA	Location
+PUB20610681.txt	8138	8140	CA	Location
+PUB20610681.txt	8231	8233	CA	Location
+PUB20610681.txt	8331	8333	CA	Location
+PUB20610681.txt	8486	8488	WI	Location
+PUB20610681.txt	9936	9938	NY	Location
+PUB20610681.txt	16628	16630	WI	Location
+PUB20610681.txt	21863	21865	AB	Location
+PUB20610681.txt	21876	21878	BM	Location
+PUB20610681.txt	21896	21898	CA	Location
+PUB20610681.txt	21912	21914	CL	Location
+PUB20610681.txt	21923	21925	KR	Location
+PUB20610681.txt	21934	21936	SG	Location
+PUB20610681.txt	22247	22259	South Koreaa	Location
+PUB20610681.txt	23314	23316	CA	Location
+PUB20610681.txt	23330	23332	AL	Location
+PUB20610681.txt	23344	23346	Sp	Location
+PUB20610681.txt	33884	33896	Singa- pore	Location
+PUB20610681.txt	27974	27986	South Koreaa	Location
+18032512.txt	2642	2651	Hong Kong	Location
+18032512.txt	2966	2970	Asia	Location
+18032512.txt	2972	2978	Europe	Location
+18032512.txt	2984	2990	Africa	Location
+18032512.txt	7523	7530	Guangxi	Location
+18032512.txt	7543	7548	China	Location
+18032512.txt	15600	15608	La Jolla	Location
+18032512.txt	15611	15613	CA	Location
+18032512.txt	16753	16760	Guangxi	Location
+18032512.txt	16773	16778	China	Location
+PMC4009295.txt	5806	5813	Belgium	Location
+PMC4009295.txt	5585	5592	Belgium	Location
+PMC4009295.txt	3730	3736	Africa	Location
+PMC4009295.txt	3762	3768	Europe	Location
+PMC4009295.txt	3778	3787	Australia	Location
+PMC4009295.txt	3826	3830	Asia	Location
+PMC4009295.txt	3951	3957	Europe	Location
+PMC4009295.txt	4116	4127	Netherlands	Location
+PMC4009295.txt	5693	5704	Netherlands	Location
+PMC4009295.txt	4198	4203	Kenya	Location
+PMC4009295.txt	5680	5687	Boxmeer	Location
+PMC4009295.txt	11184	11191	Belgium	Location
+PMC4009295.txt	11288	11294	France	Location
+PMC4009295.txt	11417	11423	France	Location
+PMC4009295.txt	11617	11623	France	Location
+PMC4009295.txt	12007	12013	France	Location
+PMC4009295.txt	12028	12034	France	Location
+PMC4009295.txt	12159	12166	Belgium	Location
+PMC4009295.txt	13643	13654	Netherlands	Location
+PMC4009295.txt	15629	15637	Hercules	Location
+PMC4009295.txt	15639	15642	USA	Location
+PMC4009295.txt	15123	15126	USA	Location
+PMC4009295.txt	15113	15121	Hercules	Location
+PMC4009295.txt	15779	15789	Hong- Kong	Location
+PMC4009295.txt	15791	15796	China	Location
+PMC4009295.txt	16096	16103	Germany	Location
+PMC4009295.txt	16088	16094	Hilden	Location
+PMC4009295.txt	16981	16993	Gaithersburg	Location
+PMC4009295.txt	16995	16998	USA	Location
+PMC4009295.txt	16856	16870	United Kingdom	Location
+PMC4009295.txt	16849	16854	Bucks	Location
+PMC4009295.txt	17369	17376	Belgium	Location
+PMC4009295.txt	17360	17367	Seraing	Location
+PMC4009295.txt	19325	19332	Madison	Location
+PMC4009295.txt	19334	19337	USA	Location
+PMC4009295.txt	19428	19439	Switzerland	Location
+PMC4009295.txt	19418	19423	Basel	Location
+PMC4009295.txt	19579	19593	United Kingdom	Location
+PMC4009295.txt	19939	19953	United Kingdom	Location
+PMC4009295.txt	19559	19577	Hemel    Hempstead	Location
+PMC4009295.txt	19919	19937	Hemel    Hempstead	Location
+PMC4009295.txt	20045	20057	Gaithersburg	Location
+PMC4009295.txt	20059	20062	USA	Location
+PMC4009295.txt	23374	23377	USA	Location
+PMC4009295.txt	23362	23372	California	Location
+PMC4009295.txt	24688	24700	Gaithersburg	Location
+PMC4009295.txt	24702	24705	USA	Location
+PMC4009295.txt	24549	24564	Hemel Hempstead	Location
+PMC4009295.txt	22561	22564	USA	Location
+PMC4009295.txt	22640	22643	USA	Location
+PMC4009295.txt	22802	22805	USA	Location
+PMC4009295.txt	22798	22800	CA	Location
+PMC4009295.txt	24566	24580	United Kingdom	Location
+PMC4009295.txt	26337	26343	France	Location
+PMC4009295.txt	26327	26332	Nancy	Location
+PMC4009295.txt	34377	34383	France	Location
+PMC4009295.txt	34370	34375	Nancy	Location
+PMC4009295.txt	43905	43912	Belgium	Location
+PMC4009295.txt	44044	44050	Europe	Location
+PMC4009295.txt	46047	46054	Germany	Location
+PMC4009295.txt	45834	45839	Nancy	Location
+PMC4009295.txt	45844	45850	France	Location
+PMC4009295.txt	46812	46824	Gaithersburg	Location
+PMC4009295.txt	46826	46829	USA	Location
+PMC4009295.txt	4764	4771	Belgium	Location
+PMC4009295.txt	4857	4864	Belgium	Location
+PMC4009295.txt	4956	4963	Belgium	Location
+PMC4009295.txt	5040	5047	Belgium	Location
+PMC4009295.txt	5128	5135	Belgium	Location
+PMC4009295.txt	5226	5233	Belgium	Location
+PMC4009295.txt	5308	5315	Belgium	Location
+PMC4009295.txt	5394	5401	Belgium	Location
+PMC4009295.txt	11829	11836	Belgium	Location
+PMC4009295.txt	12464	12470	France	Location
+PMC4009295.txt	12366	12372	France	Location
+PMC4009295.txt	12295	12301	France	Location
+PMC4009295.txt	12222	12228	France	Location
+PMC4009295.txt	12698	12704	France	Location
+PMC4009295.txt	11934	11940	France	Location
+PMC4009295.txt	11708	11714	France	Location
+PMC4009295.txt	11764	11770	France	Location
+PMC4009295.txt	10508	10514	France	Location
+PMC4009295.txt	10562	10568	France	Location
+PMC4009295.txt	10612	10618	France	Location
+PMC4009295.txt	10665	10671	France	Location
+PMC4009295.txt	10730	10736	France	Location
+PMC4009295.txt	10790	10796	France	Location
+PMC4009295.txt	12691	12696	Nancy	Location
+PUB21047959.txt	1229	1241	Buenos Aires	Location
+PUB21047959.txt	1243	1252	Argentina	Location
+PUB21047959.txt	1815	1824	Argentina	Location
+PUB21047959.txt	3598	3609	Mexico City 	Location
+PUB21047959.txt	3612	3618	Mexico	Location
+PUB21047959.txt	3807	3816	Argentina	Location
+PUB21047959.txt	3943	3955	Buenos Aires	Location
+PUB21047959.txt	3957	3966	Argentina	Location
+PUB21047959.txt	6055	6067	Buenos Aires	Location
+PUB21047959.txt	6961	6973	Buenos Aires	Location
+PUB21047959.txt	6975	6984	Argentina	Location
+PUB21047959.txt	7499	7509	Entre Ríos	Location
+PUB21047959.txt	7511	7520	Argentina	Location
+PUB21047959.txt	7741	7749	Carlsbad	Location
+PUB21047959.txt	8034	8045	Foster City	Location
+PUB21047959.txt	10743	10753	Piscataway	Location
+PUB21047959.txt	10906	10913	Uppsala	Location
+PUB21047959.txt	10915	10921	Sweden	Location
+PUB21047959.txt	11405	11417	Buenos Aires	Location
+PUB21047959.txt	11419	11428	Argentina	Location
+PUB21047959.txt	11863	11875	Buenos Aires	Location
+PUB21047959.txt	26350	26359	Argentina	Location
+PUB21047959.txt	27636	27645	Argentina	Location
+PUB21047959.txt	27675	27687	Buenos Aires	Location
+PUB21047959.txt	27873	27882	Argentina	Location
+PUB21047959.txt	35017	35023	Europe	Location
+PUB21047959.txt	35028	35032	Asia	Location
+PUB21047959.txt	35915	35924	Argentina	Location
+PUB21047959.txt	7751	7753	CA	Location
+PUB21047959.txt	8047	8049	CA	Location
+PUB21047959.txt	10755	10757	NJ	Location
+PUB21047959.txt	11877	11889	Ar-gentina	Location
+PUB21047959.txt	12207	12218	Her-cules	Location
+PUB21047959.txt	12220	12222	CA	Location
+PUB20975994.txt	69	76	Finland	Location
+PUB20975994.txt	707	714	Finland	Location
+PUB20975994.txt	5160	5166	Norway	Location
+PUB20975994.txt	5415	5421	Mexico	Location
+PUB20975994.txt	5431	5444	United States	Location
+PUB20975994.txt	5446	5449	USA	Location
+PUB20975994.txt	5499	5506	Finland	Location
+PUB20975994.txt	5648	5654	Mexico	Location
+PUB20975994.txt	6397	6404	Finland	Location
+PUB20975994.txt	7664	7671	Finland	Location
+PUB20975994.txt	7810	7823	North America	Location
+PUB20975994.txt	7835	7841	Europe	Location
+PUB20975994.txt	7852	7865	South America	Location
+PUB20975994.txt	7875	7879	Asia	Location
+PUB20975994.txt	7893	7902	Australia	Location
+PUB20975994.txt	7907	7914	Oceania	Location
+PUB20975994.txt	9152	9159	Finland	Location
+PUB20975994.txt	10087	10093	Cyprus	Location
+PUB20975994.txt	10095	10101	Greece	Location
+PUB20975994.txt	10103	10109	Turkey	Location
+PUB20975994.txt	10115	10120	Spain	Location
+PUB20975994.txt	11279	11287	New York	Location
+PUB20975994.txt	11289	11295	Mexico	Location
+PUB20975994.txt	11302	11310	Thailand	Location
+PUB20975994.txt	12891	12899	Bulgaria	Location
+PUB20975994.txt	12946	12960	United Kingdom	Location
+PUB20975994.txt	13624	13631	Finland	Location
+PUB20975994.txt	14204	14207	USA	Location
+PUB20975994.txt	14343	14358	Eastern Finland	Location
+PUB20975994.txt	14397	14404	Finland	Location
+PUB20975994.txt	14416	14420	Oulu	Location
+PUB20975994.txt	14425	14432	Lapland	Location
+PUB20975994.txt	19909	19916	Finland	Location
+PUB20975994.txt	21733	21740	Finland	Location
+PUB20975994.txt	23043	23049	Norway	Location
+PUB20975994.txt	24146	24153	Finland	Location
+PUB20975994.txt	24653	24656	USA	Location
+PUB20975994.txt	24792	24807	Eastern Finland	Location
+PUB20975994.txt	24845	24852	Finland	Location
+PUB20975994.txt	24864	24868	Oulu	Location
+PUB20975994.txt	24873	24880	Lapland	Location
+PUB20975994.txt	26794	26800	Greece	Location
+PUB20975994.txt	27556	27565	Singapore	Location
+PUB20975994.txt	28525	28532	Finland	Location
+PUB20975994.txt	30593	30600	Finland	Location
+PUB20975994.txt	32774	32781	Finland	Location
+PUB20975994.txt	35409	35416	Finland	Location
+PUB20975994.txt	36410	36416	Hilden	Location
+PUB20975994.txt	36419	36426	Germany	Location
+PUB20975994.txt	36750	36758	Carlsbad	Location
+PUB20975994.txt	36760	36763	USA	Location
+PUB20975994.txt	36950	36956	Hilden	Location
+PUB20975994.txt	36958	36965	Germany	Location
+PUB20975994.txt	37170	37181	Foster City	Location
+PUB20975994.txt	37391	37400	Ann Arbor	Location
+PUB20975994.txt	37403	37406	USA	Location
+PUB20975994.txt	39191	39198	Finland	Location
+PUB20975994.txt	39689	39692	USA	Location
+PUB20975994.txt	39902	39906	Oulu	Location
+PUB20975994.txt	39912	39919	Lapland	Location
+PUB20975994.txt	14320	14336	Southern Finland	Location
+PUB20975994.txt	14365	14380	Western Finland	Location
+PUB20975994.txt	24768	24784	Southern Finland	Location
+PUB20975994.txt	24814	24829	Western Finland	Location
+PUB20975994.txt	37183	37185	CA	Location
+PUB20975994.txt	39806	39822	Southern Finland	Location
+PUB20975994.txt	39829	39844	Eastern Finland	Location
+PUB20975994.txt	39852	39867	Western Finland	Location
+PUB20975994.txt	39883	39890	Finland	Location
+PUB20631138.txt	17369	17377	Adelaide	Location
+PUB20631138.txt	17379	17388	Australia	Location
+PUB20631138.txt	18617	18624	Marburg	Location
+PUB20631138.txt	18626	18633	Germany	Location
+PUB20631138.txt	21887	21895	Victoria	Location
+PUB20631138.txt	21897	21906	Australia	Location
+PUB20631138.txt	22264	22273	Australia	Location
+PUB20631138.txt	23344	23351	Waltham	Location
+PUB20631138.txt	24269	24278	Australia	Location
+PUB20631138.txt	23354	23356	MA	Location
+PMC3204779.txt	54	62	Bulgaria	Location
+PMC3204779.txt	448	456	Bulgaria	Location
+PMC3204779.txt	570	578	Bulgaria	Location
+PMC3204779.txt	779	785	Balkan	Location
+PMC3204779.txt	790	807	Rila-Pirin-Rodopa	Location
+PMC3204779.txt	840	850	Bul- garia	Location
+PMC3204779.txt	1140	1148	Bulgaria	Location
+PMC3204779.txt	1370	1378	Bulgaria	Location
+PMC3204779.txt	1321	1328	Simitli	Location
+PMC3204779.txt	1335	1346	Blagoevgrad	Location
+PMC3204779.txt	1456	1467	Blagoevgrad	Location
+PMC3204779.txt	2372	2379	Kirkovo	Location
+PMC3204779.txt	2389	2397	Kardjali	Location
+PMC3204779.txt	2417	2427	Bul- garia	Location
+PMC3204779.txt	2471	2479	Kardjali	Location
+PMC3204779.txt	3167	3174	Smilyan	Location
+PMC3204779.txt	3185	3192	Smolyan	Location
+PMC3204779.txt	3212	3222	Bul- garia	Location
+PMC3204779.txt	3919	3931	Heidel- berg	Location
+PMC3204779.txt	3933	3940	Germany	Location
+PMC3204779.txt	4283	4291	Hercules	Location
+PMC3204779.txt	4293	4295	CA	Location
+PMC3204779.txt	4968	4974	Greece	Location
+PMC3204779.txt	4997	5005	Bulgaria	Location
+PMC3204779.txt	5172	5190	Bal- kan Peninsula	Location
+PMC3204779.txt	5247	5253	Greece	Location
+PMC3204779.txt	5261	5269	Slovenia	Location
+PMC3204779.txt	5277	5285	Ser- bia	Location
+PMC3204779.txt	5290	5300	Montenegro	Location
+PMC3204779.txt	5310	5324	Czech Republic	Location
+PMC3204779.txt	5334	5341	Hungary	Location
+PMC3204779.txt	5399	5407	Bulgaria	Location
+PMC3204779.txt	5695	5703	Bulgaria	Location
+PMC3204779.txt	4297	4300	USA	Location
+PMC3204779.txt	488	494	Europe	Location
+PMC3204779.txt	4837	4843	Europe	Location
+PMC4931335.txt	623	631	Hokkaido	Location
+PMC4931335.txt	2446	2457	Switzerland	Location
+PMC4931335.txt	2564	2578	Czech Republic	Location
+PMC4931335.txt	2603	2610	Finland	Location
+PMC4931335.txt	2650	2657	Germany	Location
+PMC4931335.txt	2682	2689	Hungary	Location
+PMC4931335.txt	2711	2717	Poland	Location
+PMC4931335.txt	2736	2742	Russia	Location
+PMC4931335.txt	2766	2774	Slovakia	Location
+PMC4931335.txt	2803	2811	Slovenia	Location
+PMC4931335.txt	4590	4605	Teletskoye Lake	Location
+PMC4931335.txt	4613	4627	Altai Republic	Location
+PMC4931335.txt	4907	4915	Hokkaido	Location
+PMC4931335.txt	5364	5376	Fennoscandia	Location
+PMC4931335.txt	5385	5392	Siberia	Location
+PMC4931335.txt	5413	5418	Japan	Location
+PMC4931335.txt	5466	5471	Sakha	Location
+PMC4931335.txt	6668	6675	Eurasia	Location
+PMC4931335.txt	6807	6817	Lena River	Location
+PMC4931335.txt	6848	6858	Amga River	Location
+PMC4931335.txt	6895	6908	Kenkeme River	Location
+PMC4931335.txt	7024	7033	Koshimizu	Location
+PMC4931335.txt	7067	7075	Shibetsu	Location
+PMC4931335.txt	7147	7152	Shari	Location
+PMC4931335.txt	7191	7198	Tobetsu	Location
+PMC4931335.txt	7561	7570	Koshimizu	Location
+PMC4931335.txt	7584	7592	Shibetsu	Location
+PMC4931335.txt	7606	7612	Mukawa	Location
+PMC4931335.txt	7626	7631	Shari	Location
+PMC4931335.txt	7645	7652	Tobetsu	Location
+PMC4931335.txt	7470	7480	Lena River	Location
+PMC4931335.txt	7494	7504	Amga River	Location
+PMC4931335.txt	7518	7531	Kenkeme River	Location
+PMC4931335.txt	7457	7469	Russia Sakha	Location
+PMC4931335.txt	11683	11688	Japan	Location
+PMC4931335.txt	20015	20021	Russia	Location
+PMC4931335.txt	20026	20031	Japan	Location
+PMC4931335.txt	20426	20433	Eurasia	Location
+PMC4931335.txt	21024	21038	Sakha Republic	Location
+PMC4931335.txt	21115	21129	Altai Republic	Location
+PMC4931335.txt	21134	21149	Khabarovsk Krai	Location
+PMC4931335.txt	21153	21159	Russia	Location
+PMC4931335.txt	21331	21338	Eurasia	Location
+PMC4931335.txt	21867	21873	Russia	Location
+PMC4931335.txt	21857	21862	Japan	Location
+PMC4931335.txt	21928	21933	Japan	Location
+PMC4931335.txt	22178	22183	Japan	Location
+PMC4931335.txt	22188	22194	Russia	Location
+PMC4931335.txt	23253	23260	Eurasia	Location
+PMC4931335.txt	23265	23270	Japan	Location
+PMC4931335.txt	24977	24983	Mukawa	Location
+PMC4931335.txt	24992	24997	Japan	Location
+PMC4931335.txt	25160	25175	Hokkaido Island	Location
+PMC4931335.txt	25385	25390	Japan	Location
+PMC4931335.txt	633	638	Japan	Location
+PMC4931335.txt	602	609	Siberia	Location
+PMC4931335.txt	611	617	Russia	Location
+PMC4931335.txt	4917	4922	Japan	Location
+PMC4931335.txt	4886	4893	Siberia	Location
+PMC4931335.txt	4895	4901	Russia	Location
+PMC4931335.txt	5484	5490	Russia	Location
+PMC4931335.txt	5560	5568	Hokkaido	Location
+PMC4931335.txt	5570	5575	Japan	Location
+PMC4931335.txt	5959	5968	San Diego	Location
+PMC4931335.txt	5970	5972	CA	Location
+PMC4931335.txt	6029	6037	Matstudo	Location
+PMC4931335.txt	6195	6199	Otsu	Location
+PMC4931335.txt	6039	6044	Japan	Location
+PMC4931335.txt	6201	6206	Japan	Location
+PMC4931335.txt	7233	7241	Hokkaido	Location
+PMC4931335.txt	7243	7248	Japan	Location
+PMC4931335.txt	25366	25374	Sakhalin	Location
+PMC4931335.txt	25375	25380	Cheju	Location
+PMC4931335.txt	4639	4646	Siberia	Location
+PMC4931335.txt	6948	6962	Sakha Republic	Location
+PMC4931335.txt	6966	6972	Russia	Location
+PMC4931335.txt	7108	7114	Mukawa	Location
+PMC4931335.txt	7552	7560	Hokkaido	Location
+PMC4931335.txt	7546	7551	Japan	Location
+PMC3320503.txt	106	111	Nepal	Location
+PMC3320503.txt	1547	1555	Thailand	Location
+PMC3320503.txt	2589	2594	Nepal	Location
+PMC3320503.txt	2979	2984	Nepal	Location
+PMC3320503.txt	3190	3198	San Jose	Location
+PMC3320503.txt	3200	3202	CA	Location
+PMC3320503.txt	3204	3207	USA	Location
+PMC3320503.txt	3419	3426	Bangkok	Location
+PMC3320503.txt	3428	3436	Thailand	Location
+PMC3320503.txt	3484	3495	San Antonio	Location
+PMC3320503.txt	3497	3502	Texas	Location
+PMC3320503.txt	3710	3715	Nepal	Location
+PMC3320503.txt	4589	4596	Atlanta	Location
+PMC3320503.txt	4598	4605	Georgia	Location
+PMC3320503.txt	4818	4826	Mannheim	Location
+PMC3320503.txt	4828	4835	Germany	Location
+PMC3320503.txt	5285	5293	Carlsbad	Location
+PMC3320503.txt	5295	5297	CA	Location
+PMC3320503.txt	5299	5302	USA	Location
+PMC3320503.txt	5775	5778	USA	Location
+PMC3320503.txt	5771	5773	CA	Location
+PMC3320503.txt	5761	5769	Valencia	Location
+PMC3320503.txt	6336	6339	USA	Location
+PMC3320503.txt	6332	6334	CA	Location
+PMC3320503.txt	6319	6330	Foster City	Location
+PMC3320503.txt	6530	6533	USA	Location
+PMC3320503.txt	6526	6528	WI	Location
+PMC3320503.txt	6517	6524	Madison	Location
+PMC3320503.txt	6988	6993	Nepal	Location
+PMC3320503.txt	7048	7054	Bhutan	Location
+PMC3320503.txt	7088	7093	Japan	Location
+PMC3320503.txt	8088	8093	Nepal	Location
+PMC3320503.txt	9716	9724	Ramstein	Location
+PMC3320503.txt	9726	9733	Germany	Location
+PMC3320503.txt	9924	9931	Germany	Location
+PMC3320503.txt	17531	17540	Singapore	Location
+PMC3320503.txt	17542	17548	Taiwan	Location
+PMC3320503.txt	17550	17555	China	Location
+PMC3320503.txt	17557	17566	Australia	Location
+PMC3320503.txt	17568	17574	Canada	Location
+PMC3320503.txt	17584	17597	United States	Location
+PMC3320503.txt	17684	17697	United States	Location
+PMC3320503.txt	17765	17778	United States	Location
+PMC3320503.txt	18018	18023	Nepal	Location
+PMC3320503.txt	15341	15346	Nepal	Location
+PMC3320503.txt	9967	9971	Asia	Location
+PMC3086444.txt	1248	1262	United Kingdom	Location
+PMC3086444.txt	1874	1880	Mexico	Location
+PMC3086444.txt	2853	2867	United Kingdom	Location
+PMC3086444.txt	3056	3069	United States	Location
+PMC3086444.txt	3494	3501	Cardiff	Location
+PMC3086444.txt	3503	3517	United Kingdom	Location
+PMC3086444.txt	3660	3665	Wales	Location
+PMC3086444.txt	6233	6238	Wales	Location
+PMC3086444.txt	6511	6516	Wales	Location
+PMC3086444.txt	8219	8225	London	Location
+PMC3086444.txt	8227	8241	United Kingdom	Location
+PMC3086444.txt	11184	11198	United Kingdom	Location
+PMC3086444.txt	11175	11182	Cardiff	Location
+PMC3086444.txt	16318	16323	Wales	Location
+PMC3086444.txt	18438	18452	United Kingdom	Location
+PMC3086444.txt	18835	18849	United Kingdom	Location
+PMC3086444.txt	18821	18826	Wales	Location
+PMC3086444.txt	19450	19455	Wales	Location
+PMC3086444.txt	20082	20087	Wales	Location
+PMC3086444.txt	23152	23166	United Kingdom	Location
+PMC3086444.txt	8208	8217	Colindale	Location
+PMC3086444.txt	17316	17330	United Kingdom	Location
+PUB22012020.txt	2812	2818	Quebec	Location
+PUB22012020.txt	2821	2827	Canada	Location
+PUB22012020.txt	4610	4616	Quebec	Location
+PUB22012020.txt	4618	4624	Canada	Location
+PUB22012020.txt	5823	5834	Mississauga	Location
+PUB22012020.txt	5836	5843	Ontario	Location
+PUB22012020.txt	5845	5851	Canada	Location
+PUB22012020.txt	6585	6593	Auckland	Location
+PUB22012020.txt	9541	9547	Quebec	Location
+PUB22012020.txt	11775	11781	Canada	Location
+PUB22012020.txt	13936	13942	Canada	Location
+PUB22012020.txt	14003	14009	Canada	Location
+PUB22012020.txt	14092	14098	Canada	Location
+PUB22012020.txt	15163	15176	United States	Location
+PUB22012020.txt	16026	16032	Quebec	Location
+PUB22012020.txt	16722	16728	Canada	Location
+PUB22012020.txt	18778	18791	United States	Location
+PUB22012020.txt	6509	6517	Carlsbad	Location
+PUB22012020.txt	6519	6521	CA	Location
+PMC3715421.txt	30	38	Pantanal	Location
+PMC3715421.txt	53	59	Brazil	Location
+PMC3715421.txt	899	911	Nhecolândia	Location
+PMC3715421.txt	926	934	Pantanal	Location
+PMC3715421.txt	1159	1167	Pantanal	Location
+PMC3715421.txt	1846	1854	Pantanal	Location
+PMC3715421.txt	3122	3127	Bahia	Location
+PMC3715421.txt	3139	3145	Brazil	Location
+PMC3715421.txt	3466	3474	Trinidad	Location
+PMC3715421.txt	3476	3482	Panama	Location
+PMC3715421.txt	3484	3492	Colombia	Location
+PMC3715421.txt	3494	3507	French Guyana	Location
+PMC3715421.txt	3509	3515	Brazil	Location
+PMC3715421.txt	3517	3524	Ecuador	Location
+PMC3715421.txt	3529	3536	Bolivia	Location
+PMC3715421.txt	4048	4054	Brazil	Location
+PMC3715421.txt	4195	4203	Pantanal	Location
+PMC3715421.txt	4227	4233	Brazil	Location
+PMC3715421.txt	4402	4414	Nhecolândia	Location
+PMC3715421.txt	4433	4441	Pantanal	Location
+PMC3715421.txt	4638	4646	Pantanal	Location
+PMC3715421.txt	4822	4834	Nhecolândia	Location
+PMC3715421.txt	5114	5122	Pantanal	Location
+PMC3715421.txt	5462	5470	Pantanal	Location
+PMC3715421.txt	5915	5927	Nhecolândia	Location
+PMC3715421.txt	6558	6570	Nhecolândia	Location
+PMC3715421.txt	6585	6593	Pantanal	Location
+PMC3715421.txt	6608	6614	Brazil	Location
+PMC3715421.txt	7699	7707	Pantanal	Location
+PMC3715421.txt	7731	7737	Brazil	Location
+PMC3715421.txt	8239	8247	Pantanal	Location
+PMC3715421.txt	8598	8606	Pantanal	Location
+PMC3715421.txt	8617	8635	Mato Grosso do Sul	Location
+PMC3715421.txt	8637	8643	Brazil	Location
+PMC3715421.txt	8875	8881	Brazil	Location
+PMC3715421.txt	8865	8873	Pantanal	Location
+PMC3715421.txt	14779	14787	Valencia	Location
+PMC3715421.txt	14789	14791	CA	Location
+PMC3715421.txt	14793	14796	USA	Location
+PMC3715421.txt	15276	15284	Hercules	Location
+PMC3715421.txt	15286	15288	CA	Location
+PMC3715421.txt	15290	15293	USA	Location
+PMC3715421.txt	15378	15381	USA	Location
+PMC3715421.txt	15660	15663	USA	Location
+PMC3715421.txt	15361	15372	Foster City	Location
+PMC3715421.txt	15374	15376	CA	Location
+PMC3715421.txt	15656	15658	CA	Location
+PMC3715421.txt	15646	15654	Carlsbad	Location
+PMC3715421.txt	15460	15463	USA	Location
+PMC3715421.txt	15456	15458	WI	Location
+PMC3715421.txt	15447	15454	Madison	Location
+PMC3715421.txt	16276	16287	Foster City	Location
+PMC3715421.txt	16555	16566	Foster City	Location
+PMC3715421.txt	16461	16472	Foster City	Location
+PMC3715421.txt	16289	16291	CA	Location
+PMC3715421.txt	16474	16476	CA	Location
+PMC3715421.txt	16568	16570	CA	Location
+PMC3715421.txt	16572	16575	USA	Location
+PMC3715421.txt	16478	16481	USA	Location
+PMC3715421.txt	16293	16296	USA	Location
+PMC3715421.txt	21902	21908	Brazil	Location
+PMC3715421.txt	22138	22145	Ecuador	Location
+PMC3715421.txt	23055	23063	Pantanal	Location
+PMC3715421.txt	23028	23040	Nhecolândia	Location
+PMC3715421.txt	23508	23516	Pantanal	Location
+PMC3715421.txt	24597	24605	Pantanal	Location
+PMC3715421.txt	25148	25156	Pantanal	Location
+PMC3715421.txt	719	727	Pantanal	Location
+PMC3715421.txt	3395	3408	South America	Location
+PMC3715421.txt	7625	7638	South America	Location
+PMC3715421.txt	7505	7518	South America	Location
+PMC3715421.txt	16370	16372	CA	Location
+PMC3715421.txt	16374	16377	USA	Location
+PMC3715421.txt	16360	16368	Hercules	Location
+PMC3715421.txt	3104	3111	Ilhéus	Location
+PMC3715421.txt	3694	3707	South America	Location
+22709385.txt	72	77	China	Location
+22709385.txt	226	231	China	Location
+22709385.txt	656	667	Switzerland	Location
+22709385.txt	811	818	Jiangsu	Location
+22709385.txt	6297	6302	China	Location
+22709385.txt	7394	7399	China	Location
+22709385.txt	829	855	People's Republic of China	Location
+6253883.txt	4602	4616	St. Petersberg	Location
+6253883.txt	4618	4621	Fla	Location
+23441208.txt	1077	1085	Kentucky	Location
+23441208.txt	7781	7789	Kentucky	Location
+23441208.txt	8368	8376	Kentucky	Location
+23441208.txt	9042	9050	Kentucky	Location
+23441208.txt	9165	9173	Kentucky	Location
+23441208.txt	9242	9252	Louisville	Location
+23441208.txt	19411	19419	Kentucky	Location
+23441208.txt	19438	19440	KY	Location
+23441208.txt	19446	19456	Louisville	Location
+23441208.txt	32178	32186	Kentucky	Location
+23441208.txt	32188	32191	USA	Location
+23441208.txt	32881	32889	Kentucky	Location
+23441208.txt	36617	36622	China	Location
+23441208.txt	54602	54608	Austin	Location
+23441208.txt	54611	54613	TX	Location
+23441208.txt	55134	55142	Murietta	Location
+23441208.txt	55144	55146	CA	Location
+23441208.txt	55230	55238	Valencia	Location
+23441208.txt	55240	55242	CA	Location
+23441208.txt	55933	55935	KY	Location
+23441208.txt	60065	60075	Bar Harbor	Location
+23441208.txt	60077	60079	ME	Location
+23441208.txt	67706	67714	Kentucky	Location
+24086762.txt	4270	4276	Mexico	Location
+24086762.txt	4384	4386	US	Location
+24086762.txt	9947	9957	California	Location
+24086762.txt	10064	10075	Netherlands	Location
+24086762.txt	10910	10917	Atlanta	Location
+24086762.txt	10919	10921	GA	Location
+24086762.txt	11213	11221	Manassas	Location
+24086762.txt	11223	11225	VA	Location
+24086762.txt	11853	11865	Indianapolis	Location
+24086762.txt	11867	11869	IN	Location
+24086762.txt	12551	12563	Indianapolis	Location
+24086762.txt	12565	12567	IN	Location
+24086762.txt	13041	13051	Santa Ana	Location
+24086762.txt	13053	13055	CA	Location
+24086762.txt	13619	13629	Coralville	Location
+24086762.txt	13631	13633	IA	Location
+24086762.txt	14375	14388	Buffalo Grove	Location
+24086762.txt	14390	14392	IL	Location
+24086762.txt	14542	14552	Burlingame	Location
+24086762.txt	14554	14556	CA	Location
+24086762.txt	14699	14708	Littleton	Location
+24086762.txt	14710	14712	CO	Location
+24086762.txt	14760	14768	San Jose	Location
+24086762.txt	14770	14772	CA	Location
+24086762.txt	14813	14822	San Diego	Location
+24086762.txt	14824	14826	CA	Location
+24086762.txt	14925	14935	Birmingham	Location
+24086762.txt	14937	14939	AL	Location
+24086762.txt	15106	15117	Saint Louis	Location
+24086762.txt	15119	15121	MO	Location
+24086762.txt	16039	16050	Minneapolis	Location
+24086762.txt	16052	16054	MN	Location
+24086762.txt	16227	16238	Santa Clara	Location
+24086762.txt	16241	16243	CA	Location
+24086762.txt	16366	16376	Rocky Hill	Location
+24086762.txt	16378	16380	NJ	Location
+24086762.txt	16527	16539	Grand Island	Location
+24086762.txt	16541	16543	NY	Location
+24086762.txt	16746	16756	Huntsville	Location
+24086762.txt	16758	16760	AL	Location
+24086762.txt	17137	17145	La Jolla	Location
+24086762.txt	17147	17149	CA	Location
+24086762.txt	33257	33260	USA	Location
+PMC4323142.txt	7274	7281	Finland	Location
+PMC4323142.txt	7265	7272	­Kuopio	Location
+PMC4323142.txt	8413	8419	Kuopio	Location
+PMC4323142.txt	22250	22256	Kuopio	Location
+PMC4323142.txt	22258	22265	Finland	Location
+PMC4323142.txt	31008	31015	Finland	Location
+PMC4323142.txt	31000	31006	Kuopio	Location
+23087121.txt	108	113	China	Location
+23087121.txt	1652	1657	China	Location
+23087121.txt	1712	1717	China	Location
+23087121.txt	1719	1726	Vietnam	Location
+23087121.txt	1728	1732	Laos	Location
+23087121.txt	2085	2092	Jiangsu	Location
+23087121.txt	2113	2118	China	Location
+23285143.txt	713	718	China	Location
+23285143.txt	825	830	China	Location
+23285143.txt	896	901	China	Location
+23285143.txt	1097	1102	China	Location
+23285143.txt	1809	1814	China	Location
+23285143.txt	3670	3683	North America	Location
+23285143.txt	3685	3691	Europe	Location
+23285143.txt	3694	3698	Asia	Location
+23285143.txt	3700	3706	Africa	Location
+23285143.txt	3929	3934	China	Location
+23285143.txt	4009	4014	China	Location
+23285143.txt	5385	5390	China	Location
+23285143.txt	7060	7065	China	Location
+23285143.txt	7130	7135	China	Location
+23285143.txt	8540	8553	North America	Location
+23285143.txt	8598	8611	North America	Location
+23285143.txt	8685	8704	Eastern Hemisphere	Location
+23285143.txt	8733	8746	North America	Location
+23285143.txt	8807	8826	Eastern Hemisphere	Location
+23285143.txt	8955	8959	Asia	Location
+23285143.txt	8961	8967	Europe	Location
+23285143.txt	8969	8975	Africa	Location
+23285143.txt	8993	9006	North America	Location
+23285143.txt	9054	9058	Asia	Location
+23285143.txt	9242	9247	China	Location
+23285143.txt	9300	9305	China	Location
+23285143.txt	9316	9324	Pakistan	Location
+23285143.txt	9326	9331	India	Location
+23285143.txt	9333	9337	Iran	Location
+23285143.txt	9344	9350	Israel	Location
+23285143.txt	9800	9804	Asia	Location
+23285143.txt	9806	9812	Europe	Location
+23285143.txt	9814	9820	Africa	Location
+23285143.txt	9839	9852	North America	Location
+23285143.txt	9934	9939	China	Location
+23285143.txt	10202	10206	Asia	Location
+23285143.txt	10208	10214	Europe	Location
+23285143.txt	10216	10222	Africa	Location
+23285143.txt	10240	10253	North America	Location
+23285143.txt	10601	10605	Asia	Location
+23285143.txt	10631	10636	China	Location
+23285143.txt	11535	11540	China	Location
+23285143.txt	11588	11593	China	Location
+23285143.txt	11605	11614	Hong Kong	Location
+23285143.txt	11800	11805	China	Location
+23285143.txt	11843	11852	Hong Kong	Location
+23285143.txt	11867	11876	Guangdong	Location
+23285143.txt	11888	11895	Shantou	Location
+23285143.txt	12080	12085	China	Location
+23285143.txt	12344	12349	China	Location
+23285143.txt	12486	12492	Fujian	Location
+23285143.txt	12497	12506	Guangdong	Location
+23285143.txt	12510	12515	China	Location
+23285143.txt	12580	12585	China	Location
+23285143.txt	13481	13486	China	Location
+23285143.txt	13506	13511	China	Location
+23285143.txt	13525	13530	China	Location
+23285143.txt	13553	13558	China	Location
+23285143.txt	13879	13884	China	Location
+23285143.txt	13959	13964	China	Location
+23285143.txt	14247	14252	China	Location
+23285143.txt	14311	14316	Korea	Location
+23285143.txt	14379	14384	China	Location
+23285143.txt	14418	14425	Vietnam	Location
+23285143.txt	14427	14435	Pakistan	Location
+23285143.txt	14441	14446	India	Location
+23285143.txt	14504	14509	China	Location
+23285143.txt	14615	14620	China	Location
+23285143.txt	14706	14711	Japan	Location
+23285143.txt	14784	14789	China	Location
+23285143.txt	15014	15019	China	Location
+23285143.txt	15141	15146	China	Location
+23285143.txt	15157	15165	Pakistan	Location
+23285143.txt	15167	15172	India	Location
+23285143.txt	15174	15178	Iran	Location
+23285143.txt	15185	15191	Israel	Location
+23285143.txt	18266	18271	China	Location
+23285143.txt	18496	18501	China	Location
+23285143.txt	18551	18556	China	Location
+23285143.txt	20817	20822	China	Location
+23285143.txt	20957	20962	China	Location
+23285143.txt	21054	21059	China	Location
+23285143.txt	21892	21897	China	Location
+23285143.txt	22053	22059	Jordan	Location
+23285143.txt	22166	22177	South Korea	Location
+23285143.txt	22675	22680	China	Location
+23285143.txt	22975	22980	China	Location
+23285143.txt	23248	23253	China	Location
+23285143.txt	24921	24926	China	Location
+23285143.txt	24959	24964	China	Location
+23285143.txt	27060	27065	China	Location
+23285143.txt	29884	29890	Hilden	Location
+23285143.txt	29893	29900	Germany	Location
+23285143.txt	29968	29974	Dalian	Location
+23285143.txt	29976	29981	China	Location
+23285143.txt	30405	30411	Dalian	Location
+23285143.txt	30413	30418	China	Location
+23285143.txt	30648	30654	Dalian	Location
+23285143.txt	30656	30661	China	Location
+23285143.txt	30714	30722	Shanghai	Location
+23285143.txt	30724	30729	China	Location
+23285143.txt	31543	31548	China	Location
+23285143.txt	31577	31595	Eastern Hemisphere	Location
+23285143.txt	31604	31608	Asia	Location
+23285143.txt	31610	31616	Europe	Location
+23285143.txt	31618	31624	Africa	Location
+23285143.txt	31652	31673	Western Hemi- sphere	Location
+23285143.txt	31690	31703	South America	Location
+23285143.txt	33309	33327	Western Hemisphere	Location
+23285143.txt	33340	33358	Eastern Hemisphere	Location
+23285143.txt	34530	34537	Qingdao	Location
+23285143.txt	35725	35730	China	Location
+23285143.txt	35763	35768	China	Location
+23285143.txt	35999	36005	Takara	Location
+23285143.txt	36007	36012	Japan	Location
+22879613.txt	93	98	China	Location
+22879613.txt	470	475	China	Location
+22879613.txt	1586	1595	Guangdong	Location
+22879613.txt	1616	1621	China	Location
+22879613.txt	3089	3094	China	Location
+22879613.txt	3735	3740	China	Location
+22879613.txt	3871	3876	China	Location
+PUB20592108.txt	145	152	Vietnam	Location
+PUB20592108.txt	1247	1254	Vietnam	Location
+PUB20592108.txt	1433	1440	Vietnam	Location
+PUB20592108.txt	2161	2165	Asia	Location
+PUB20592108.txt	2168	2174	Africa	Location
+PUB20592108.txt	2179	2185	Europe	Location
+PUB20592108.txt	3079	3086	Vietnam	Location
+PUB20592108.txt	5277	5284	Vietnam	Location
+PUB20592108.txt	5914	5921	Vietnam	Location
+PUB20592108.txt	5952	5959	Vietnam	Location
+PUB20592108.txt	6683	6689	Ha Nam	Location
+PUB20592108.txt	6750	6756	Ha Nam	Location
+PUB20592108.txt	6812	6820	Nam Dinh	Location
+PUB20592108.txt	6876	6885	Bac Giang	Location
+PUB20592108.txt	6944	6952	Bac Ninh	Location
+PUB20592108.txt	7013	7021	Bac Ninh	Location
+PUB20592108.txt	7083	7092	Thai Binh	Location
+PUB20592108.txt	7148	7157	Bac Giang	Location
+PUB20592108.txt	7215	7221	Ha Tay	Location
+PUB20592108.txt	7289	7295	Ha Tay	Location
+PUB20592108.txt	7359	7368	Thai Binh	Location
+PUB20592108.txt	7431	7437	Ha Noi	Location
+PUB20592108.txt	7497	7506	Vinh Phuc	Location
+PUB20592108.txt	7571	7580	Thanh Hoa	Location
+PUB20592108.txt	7646	7652	Ha Nam	Location
+PUB20592108.txt	7718	7724	Ha Nam	Location
+PUB20592108.txt	7786	7792	Ha Tay	Location
+PUB20592108.txt	7854	7860	Son La	Location
+PUB20592108.txt	7922	7933	Tuyen Quang	Location
+PUB20592108.txt	7995	8004	Hai Duong	Location
+PUB20592108.txt	8066	8075	Ninh Binh	Location
+PUB20592108.txt	8135	8142	Phu Tho	Location
+PUB20592108.txt	8988	8995	Vietnam	Location
+PUB20592108.txt	9482	9489	Vietnam	Location
+PUB20592108.txt	11369	11376	Vietnam	Location
+PUB20592108.txt	11566	11573	Vietnam	Location
+PUB20592108.txt	11717	11724	Vietnam	Location
+PUB20592108.txt	11853	11860	Vietnam	Location
+PUB20592108.txt	15580	15587	Vietnam	Location
+PUB20592108.txt	15891	15898	Vietnam	Location
+PUB20592108.txt	15953	15960	Vietnam	Location
+PUB20592108.txt	16039	16044	China	Location
+PUB20592108.txt	19589	19596	Vietnam	Location
+PUB20592108.txt	2567	2574	Vietnam	Location
+24244615.txt	73	79	Brazil	Location
+24244615.txt	1430	1436	Brazil	Location
+24244615.txt	1632	1638	Brazil	Location
+24244615.txt	1929	1935	Brazil	Location
+24244615.txt	1937	1946	Argentina	Location
+24244615.txt	1951	1959	Paraguay	Location
+24244615.txt	2134	2140	Brazil	Location
+24244615.txt	5536	5542	Brazil	Location
+24244615.txt	5661	5667	Brazil	Location
+24244615.txt	7137	7143	Brazil	Location
+24244615.txt	8045	8047	CA	Location
+24244615.txt	8476	8489	Grand Island	Location
+24244615.txt	8491	8493	NY	Location
+24244615.txt	8554	8559	Logan	Location
+24244615.txt	8561	8565	Utah	Location
+24244615.txt	9132	9134	CA	Location
+24244615.txt	10245	10247	CA	Location
+24244615.txt	10688	10696	Valencia	Location
+24244615.txt	10698	10700	CA	Location
+24244615.txt	10790	10792	CA	Location
+24244615.txt	10974	10982	Michigan	Location
+24244615.txt	10984	10987	USA	Location
+24244615.txt	11180	11186	Brazil	Location
+24244615.txt	11546	11552	Brazil	Location
+24244615.txt	12755	12761	Brazil	Location
+24244615.txt	12840	12846	Brazil	Location
+24244615.txt	14534	14546	Minas Gerais	Location
+24244615.txt	15137	15151	Santa Catarina	Location
+24244615.txt	15158	15164	Parana	Location
+24244615.txt	17250	17256	Brazil	Location
+24244615.txt	18721	18727	Brazil	Location
+24244615.txt	19655	19661	Brazil	Location
+24244615.txt	19842	19848	Brazil	Location
+24244615.txt	20074	20080	Brazil	Location
+24244615.txt	20781	20787	Brazil	Location
+24244615.txt	21079	21085	Brazil	Location
+24244615.txt	21427	21440	Foz do Iguaçu	Location
+24244615.txt	21447	21459	Iguaçu Falls	Location
+24244615.txt	21556	21569	Puerto Iguazu	Location
+24244615.txt	21574	21589	Ciudad de Leste	Location
+24244615.txt	21606	21619	Foz do Iguaçu	Location
+24244615.txt	21833	21847	Foz do Iguaçu	Location
+24244615.txt	21852	21867	Ciudad de Leste	Location
+24244615.txt	22018	22026	Paraguay	Location
+24244615.txt	22114	22122	Paraguay	Location
+24244615.txt	22127	22136	Argentina	Location
+24244615.txt	22306	22315	Argentina	Location
+2041090.txt	2169	2175	Europe	Location
+2041090.txt	8799	8808	Champaign	Location
+2041090.txt	9612	9617	China	Location
+2041090.txt	10932	10946	Southeast Asia	Location
+2041090.txt	10956	10961	Japan	Location
+2041090.txt	11139	11144	Italy	Location
+2041090.txt	11284	11289	Italy	Location
+2041090.txt	11411	11417	Europe	Location
+2041090.txt	11496	11501	Italy	Location
+2041090.txt	11585	11590	Italy	Location
+2041090.txt	11757	11762	Italy	Location
+2041090.txt	12017	12022	China	Location
+2041090.txt	12081	12086	China	Location
+2041090.txt	18339	18348	Astrakhan	Location
+2041090.txt	18377	18383	Gurjev	Location
+2041090.txt	34788	34794	Europe	Location
+2041090.txt	42513	42527	North America	Location
+2041090.txt	45518	45524	Europe	Location
+2041090.txt	45528	45532	Asia	Location
+2041090.txt	45684	45697	North America	Location
+2041090.txt	45808	45821	North America	Location
+2041090.txt	45823	45829	Europe	Location
+2041090.txt	45835	45839	Asia	Location
+2041090.txt	46284	46297	North America	Location
+2041090.txt	47172	47178	Europe	Location
+2041090.txt	50863	50869	Europe	Location
+2041090.txt	52204	52209	China	Location
+2041090.txt	52303	52308	China	Location
+2041090.txt	52386	52391	China	Location
+2041090.txt	52393	52399	Taiwan	Location
+2041090.txt	52405	52420	Southeast Asia	Location
+2041090.txt	52541	52554	North America	Location
+2041090.txt	52594	52600	Europe	Location
+PUB20167132.txt	83	87	Iran	Location
+PUB20167132.txt	789	793	Iran	Location
+PUB20167132.txt	1093	1097	Iran	Location
+PUB20167132.txt	1912	1916	Iran	Location
+PUB20167132.txt	1949	1960	Caspian Sea	Location
+PUB20167132.txt	3294	3308	Southeast Asia	Location
+PUB20167132.txt	4226	4237	Middle East	Location
+PUB20167132.txt	4380	4384	Iran	Location
+PUB20167132.txt	4567	4581	Cas-pian Sea	Location
+PUB20167132.txt	4675	4682	Siberia	Location
+PUB20167132.txt	4697	4703	Russia	Location
+PUB20167132.txt	5064	5076	Central Asia	Location
+PUB20167132.txt	5085	5096	Middle East	Location
+PUB20167132.txt	5524	5528	Iran	Location
+PUB20167132.txt	5539	5549	Mazandaran	Location
+PUB20167132.txt	5551	5556	Gilan	Location
+PUB20167132.txt	5558	5576	West Azer-baijan	Location
+PUB20167132.txt	5578	5584	Tehran	Location
+PUB20167132.txt	5586	5590	Fars	Location
+PUB20167132.txt	5595	5604	Khuzestan	Location
+PUB20167132.txt	5678	5682	Iran	Location
+PUB20167132.txt	5853	5864	Caspian Sea	Location
+PUB20167132.txt	5941	5953	Central Asia	Location
+PUB20167132.txt	6266	6270	Iran	Location
+PUB20167132.txt	6516	6523	Germany	Location
+PUB20167132.txt	6597	6602	Italy	Location
+PUB20167132.txt	6694	6700	France	Location
+PUB20167132.txt	7131	7135	Iran	Location
+PUB20167132.txt	7232	7239	Germany	Location
+PUB20167132.txt	7663	7669	France	Location
+PUB20167132.txt	7699	7704	Italy	Location
+PUB20167132.txt	10646	10650	Iran	Location
+PUB20167132.txt	10719	10735	West Azerbaijan	Location
+PUB20167132.txt	10740	10744	Fars	Location
+PUB20167132.txt	10749	10754	Gilan	Location
+PUB20167132.txt	10759	10768	Khuzestan	Location
+PUB20167132.txt	10773	10783	Mazandaran	Location
+PUB20167132.txt	10788	10794	Tehran	Location
+PUB20167132.txt	10931	10935	Iran	Location
+PUB20167132.txt	15896	15900	Iran	Location
+PUB20167132.txt	16489	16498	Khuzestan	Location
+PUB20167132.txt	16518	16531	W. Azerbaijan	Location
+PUB20167132.txt	16551	16557	Tehran	Location
+PUB20167132.txt	16582	16587	Gilan	Location
+PUB20167132.txt	16610	16620	Mazandaran	Location
+PUB20167132.txt	16642	16647	Gilan	Location
+PUB20167132.txt	16850	16855	Gilan	Location
+PUB20167132.txt	16665	16669	Fars	Location
+PUB20167132.txt	16690	16696	Tehran	Location
+PUB20167132.txt	16742	16748	Tehran	Location
+PUB20167132.txt	16794	16800	Tehran	Location
+PUB20167132.txt	16717	16726	Khuzestan	Location
+PUB20167132.txt	16763	16773	Mazandaran	Location
+PUB20167132.txt	16817	16827	Mazandaran	Location
+PUB20167132.txt	16872	16882	Mazandaran	Location
+PUB20167132.txt	17050	17054	Iran	Location
+PUB20167132.txt	20732	20743	Caspian Sea	Location
+PUB20167132.txt	20801	20807	Tehran	Location
+PUB20167132.txt	21216	21220	Iran	Location
+PUB20167132.txt	21334	21343	Khuzestan	Location
+PUB20167132.txt	21376	21382	Tehran	Location
+PUB20167132.txt	21421	21426	Gilan	Location
+PUB20167132.txt	21461	21466	Gilan	Location
+PUB20167132.txt	21511	21516	Gilan	Location
+PUB20167132.txt	21548	21554	Tehran	Location
+PUB20167132.txt	21589	21595	Tehran	Location
+PUB20167132.txt	21631	21637	Tehran	Location
+PUB20167132.txt	21672	21678	Tehran	Location
+PUB20167132.txt	21707	21713	Tehran	Location
+PUB20167132.txt	21748	21754	Tehran	Location
+PUB20167132.txt	21790	21796	Tehran	Location
+PUB20167132.txt	21832	21838	Tehran	Location
+PUB20167132.txt	21873	21883	Mazandaran	Location
+PUB20167132.txt	21916	21926	Mazandaran	Location
+PUB20167132.txt	21955	21965	Mazandaran	Location
+PUB20167132.txt	22002	22012	Mazandaran	Location
+PUB20167132.txt	22047	22057	Mazandaran	Location
+PUB20167132.txt	22104	22114	Mazandaran	Location
+PUB20167132.txt	22154	22164	Mazandaran	Location
+PUB20167132.txt	22200	22210	Mazandaran	Location
+PUB20167132.txt	22247	22257	Mazandaran	Location
+PUB20167132.txt	22293	22303	Mazandaran	Location
+PUB20167132.txt	22340	22350	Mazandaran	Location
+PUB20167132.txt	22388	22398	Mazandaran	Location
+PUB20167132.txt	22433	22443	Mazandaran	Location
+PUB20167132.txt	22480	22490	Mazandaran	Location
+PUB20167132.txt	22522	22532	Mazandaran	Location
+PUB20167132.txt	22564	22574	Mazandaran	Location
+PUB20167132.txt	22606	22616	Mazandaran	Location
+PUB20167132.txt	22661	22671	Mazandaran	Location
+PUB20167132.txt	22703	22713	Mazandaran	Location
+PUB20167132.txt	22755	22765	Mazandaran	Location
+PUB20167132.txt	22800	22810	Mazandaran	Location
+PUB20167132.txt	22847	22857	Mazandaran	Location
+PUB20167132.txt	24023	24027	Iran	Location
+PUB20167132.txt	25132	25136	Iran	Location
+PUB20167132.txt	26880	26884	Iran	Location
+PUB20167132.txt	27070	27074	Iran	Location
+PUB20167132.txt	27280	27284	Iran	Location
+PUB20167132.txt	27413	27417	Iran	Location
+PUB20167132.txt	27513	27519	Russia	Location
+PUB20167132.txt	27524	27532	Hokkaido	Location
+PUB20167132.txt	28341	28354	Central Asia	Location
+PUB20167132.txt	28366	28377	Middle East	Location
+PUB20167132.txt	28443	28447	Iran	Location
+PUB20167132.txt	28512	28527	Northern Europe	Location
+PUB20167132.txt	28673	28678	Italy	Location
+PUB20167132.txt	28771	28777	Norway	Location
+PUB20167132.txt	28875	28881	Alaska	Location
+PUB20167132.txt	28886	28892	Canada	Location
+PUB20167132.txt	29900	29919	Northern Hemisphere	Location
+PUB20167132.txt	30279	30289	Mazandaran	Location
+PUB20167132.txt	30417	30423	Tehran	Location
+PUB20167132.txt	30619	30623	Iran	Location
+PUB20167132.txt	30903	30909	Europe	Location
+PUB20167132.txt	30914	30926	the Americas	Location
+PUB20167132.txt	31682	31693	Caspian Sea	Location
+PUB20167132.txt	32092	32098	Sweden	Location
+PUB20167132.txt	33687	33694	Germany	Location
+PUB20167132.txt	33699	33705	France	Location
+PUB20167132.txt	33706	33711	Italy	Location
+PUB20167132.txt	36149	36153	Iran	Location
+PUB20167132.txt	37133	37137	Iran	Location
+PUB20167132.txt	37171	37182	Caspian Sea	Location
+PMC4257849.txt	60	66	Poland	Location
+PMC4257849.txt	1239	1245	Poland	Location
+PMC4257849.txt	1351	1357	Poland	Location
+PMC4257849.txt	2141	2147	Poland	Location
+PMC4257849.txt	2309	2315	Poland	Location
+PMC4257849.txt	4307	4313	Russia	Location
+PMC4257849.txt	4329	4339	Yugoslavia	Location
+PMC4257849.txt	4564	4569	India	Location
+PMC4257849.txt	5531	5538	Austria	Location
+PMC4257849.txt	5540	5554	Czech Republic	Location
+PMC4257849.txt	5556	5563	Finland	Location
+PMC4257849.txt	5565	5572	Germany	Location
+PMC4257849.txt	5574	5581	Hungary	Location
+PMC4257849.txt	5583	5589	Russia	Location
+PMC4257849.txt	5591	5599	Slovakia	Location
+PMC4257849.txt	5604	5612	Slovenia	Location
+PMC4257849.txt	5838	5844	Russia	Location
+PMC4257849.txt	6292	6298	Poland	Location
+PMC4257849.txt	6677	6683	Poland	Location
+PMC4257849.txt	6943	6954	Zala County	Location
+PMC4257849.txt	6956	6963	Hungary	Location
+PMC4257849.txt	7547	7553	Poland	Location
+PMC4257849.txt	8706	8714	Valencia	Location
+PMC4257849.txt	8716	8718	CA	Location
+PMC4257849.txt	9375	9377	CA	Location
+PMC4257849.txt	9364	9373	San Diego	Location
+PMC4257849.txt	9855	9860	Shiga	Location
+PMC4257849.txt	9862	9867	Japan	Location
+PMC4257849.txt	10441	10448	Waltham	Location
+PMC4257849.txt	10450	10452	MA	Location
+PMC4257849.txt	10549	10559	Goettingen	Location
+PMC4257849.txt	10561	10568	Germany	Location
+PMC4257849.txt	10684	10686	CA	Location
+PMC4257849.txt	10671	10682	Foster City	Location
+PMC4257849.txt	11960	11966	Poland	Location
+PMC4257849.txt	12220	12226	Chmiel	Location
+PMC4257849.txt	12274	12281	Boginia	Location
+PMC4257849.txt	12283	12291	Kurowice	Location
+PMC4257849.txt	12296	12310	Huta Dłutowska	Location
+PMC4257849.txt	12469	12476	Germany	Location
+PMC4257849.txt	12485	12499	Czech Republic	Location
+PMC4257849.txt	12540	12547	Finland	Location
+PMC4257849.txt	12665	12673	Kurowice	Location
+PMC4257849.txt	12731	12737	Chmiel	Location
+PMC4257849.txt	12839	12846	Austria	Location
+PMC4257849.txt	13541	13547	Poland	Location
+PMC4257849.txt	13970	13977	Hungary	Location
+PMC4257849.txt	14182	14190	Slovakia	Location
+PMC4257849.txt	14297	14304	Croatia	Location
+PMC4257849.txt	14474	14480	Poland	Location
+PMC4257849.txt	14592	14598	Poland	Location
+PMC4257849.txt	14731	14738	Germany	Location
+PMC4257849.txt	14967	14974	Siberia	Location
+PMC4257849.txt	15317	15331	Huta Dłutowska	Location
+PMC4257849.txt	15541	15547	France	Location
+PMC4257849.txt	15873	15887	United Kingdom	Location
+PMC4257849.txt	15895	15906	Scandinavia	Location
+PMC4257849.txt	15921	15927	Russia	Location
+PMC4257849.txt	18303	18309	Poland	Location
+PMC4257849.txt	18578	18584	Chmiel	Location
+PMC4257849.txt	18595	18609	Huta Dłutowska	Location
+PMC4257849.txt	18694	18700	Poland	Location
+PMC4257849.txt	18824	18830	Poland	Location
+PMC4257849.txt	18832	18839	Boginia	Location
+PMC4257849.txt	18841	18855	Huta Dłutowska	Location
+PMC4257849.txt	18860	18868	Kurowice	Location
+PMC4257849.txt	19231	19245	Huta Dłutowska	Location
+PMC4257849.txt	19905	19911	Poland	Location
+PMC4257849.txt	19916	19922	France	Location
+PMC4257849.txt	20489	20496	Hungary	Location
+PMC4257849.txt	20336	20342	Poland	Location
+PMC4257849.txt	20691	20697	Poland	Location
+PMC4257849.txt	21100	21106	Chmiel	Location
+PMC4257849.txt	21121	21127	Poland	Location
+PMC4257849.txt	21136	21143	Boginia	Location
+PMC4257849.txt	21148	21162	Huta Dłutowska	Location
+PMC4257849.txt	21172	21178	Poland	Location
+PMC4257849.txt	21286	21293	Germany	Location
+PMC4257849.txt	21299	21313	Czech Republic	Location
+PMC4257849.txt	21318	21326	Slovakia	Location
+PMC4257849.txt	21702	21710	Slovakia	Location
+PMC4257849.txt	21862	21868	Poland	Location
+PMC4257849.txt	21933	21940	Hungary	Location
+PMC4257849.txt	21972	21978	France	Location
+PMC4257849.txt	22283	22289	France	Location
+PMC4257849.txt	22294	22301	Hungary	Location
+PMC4257849.txt	22275	22281	Poland	Location
+PMC4257849.txt	23664	23670	Poland	Location
+PMC4257849.txt	23827	23833	Poland	Location
+PMC4257849.txt	23485	23492	Germany	Location
+PMC4257849.txt	23542	23556	Czech Republic	Location
+PMC4257849.txt	23584	23592	Slovakia	Location
+PMC4257849.txt	24378	24398	Carpathian mountains	Location
+PMC4257849.txt	24415	24421	Poland	Location
+PMC4257849.txt	24466	24478	Ruska Poruba	Location
+PMC4257849.txt	24501	24509	Slovakia	Location
+PMC4257849.txt	24837	24843	Poland	Location
+PMC4257849.txt	24929	24935	Poland	Location
+PMC4257849.txt	25045	25051	Poland	Location
+PMC4257849.txt	25389	25395	Poland	Location
+PMC4257849.txt	41205	41211	Poland	Location
+PMC4257849.txt	41603	41609	Poland	Location
+PMC4257849.txt	41658	41664	Poland	Location
+PMC4257849.txt	42243	42249	Poland	Location
+PMC4257849.txt	42440	42446	Poland	Location
+PMC4257849.txt	42507	42518	Switzerland	Location
+PMC4257849.txt	42582	42588	Poland	Location
+PMC4257849.txt	42649	42656	Hungary	Location
+PMC4257849.txt	42734	42740	France	Location
+PMC4257849.txt	44862	44868	Poland	Location
+PMC4257849.txt	44970	44977	Boginia	Location
+PMC4257849.txt	45010	45016	Chmiel	Location
+PMC4257849.txt	45055	45069	Huta Dłutowska	Location
+PMC4257849.txt	45084	45088	Jura	Location
+PMC4257849.txt	45098	45106	Kurowice	Location
+PMC4257849.txt	45122	45131	Nowosolna	Location
+PMC4257849.txt	45141	45150	Pabianice	Location
+PMC4257849.txt	45174	45181	Boginia	Location
+PMC4257849.txt	45200	45206	Chmiel	Location
+PMC4257849.txt	45243	45257	Huta Dłutowska	Location
+PMC4257849.txt	45276	45284	Kurowice	Location
+PMC4257849.txt	45314	45323	Nowosolna	Location
+PMC4257849.txt	45349	45355	Chmiel	Location
+PMC4257849.txt	45403	45410	Boginia	Location
+PMC4257849.txt	45425	45433	Chojnowo	Location
+PMC4257849.txt	45443	45457	Huta Dłutowska	Location
+PMC4257849.txt	45724	45732	Kurowice	Location
+PMC4257849.txt	45761	45770	Pabianice	Location
+PMC4257849.txt	45795	45802	Boginia	Location
+PMC4257849.txt	45835	45849	Huta Dłutowska	Location
+PMC4257849.txt	45911	45915	ŁódŸ	Location
+PMC4257849.txt	45925	45936	Pawlikowice	Location
+PMC4257849.txt	45946	45955	Rożniatów	Location
+PMC4257849.txt	45965	45972	Wiączyń	Location
+PMC4257849.txt	46014	46021	Boginia	Location
+PMC4257849.txt	46051	46059	Bronisin	Location
+PMC4257849.txt	45812	45820	Brosinin	Location
+PMC4257849.txt	46090	46096	Chmiel	Location
+PMC4257849.txt	46127	46135	Chojnowo	Location
+PMC4257849.txt	46166	46180	Huta Dłutowska	Location
+PMC4257849.txt	46210	46214	Jura	Location
+PMC4257849.txt	46243	46251	Kurowice	Location
+PMC4257849.txt	46282	46286	ŁódŸ	Location
+PMC4257849.txt	46317	46326	Nowosolna	Location
+PMC4257849.txt	46357	46366	Pabianice	Location
+PMC4257849.txt	46396	46407	Pawlikowice	Location
+PMC4257849.txt	46437	46446	Rożniatów	Location
+PMC4257849.txt	46471	46478	Wiączyń	Location
+PMC4257849.txt	48902	48916	Huta Dłutowska	Location
+PMC4257849.txt	49138	49152	Huta Dłutowska	Location
+PMC4257849.txt	49869	49883	Huta Dłutowska	Location
+PMC4257849.txt	1928	1942	Huta Dłutowska	Location
+PMC4257849.txt	2435	2441	Europe	Location
+PMC4257849.txt	22481	22487	Africa	Location
+PMC4257849.txt	22554	22558	Asia	Location
+PMC4257849.txt	22877	22881	Asia	Location
+PMC4257849.txt	23445	23451	Europe	Location
+PMC4257849.txt	5457	5463	Europe	Location
+PMC4257849.txt	5950	5956	Europe	Location
+PMC4257849.txt	5468	5472	Asia	Location
+PMC4257849.txt	15181	15194	North America	Location
+PMC4257849.txt	18718	18724	Europe	Location
+PMC4257849.txt	19267	19275	Bronisin	Location
+PUB21490925.txt	37759	37766	Austria	Location
+PUB21490925.txt	38245	38252	Austria	Location
+PUB21490925.txt	38393	38400	Germany	Location
+PUB21490925.txt	39062	39068	Vienna	Location
+PUB21490925.txt	39071	39078	Austria	Location
+PUB21490925.txt	39280	39296	Saint Petersburg	Location
+PUB21490925.txt	39298	39304	Russia	Location
+PUB21490925.txt	39565	39574	Frankfurt	Location
+PUB21490925.txt	39576	39583	Germany	Location
+PUB21490925.txt	43098	43100	UK	Location
+PUB21490925.txt	47131	47136	Japan	Location
+PMC4861906.txt	152	158	Yunnan	Location
+PMC4861906.txt	168	173	China	Location
+PMC4861906.txt	562	567	China	Location
+PMC4861906.txt	546	552	Yunnan	Location
+PMC4861906.txt	1465	1470	China	Location
+PMC4861906.txt	1820	1829	Hong Kong	Location
+PMC4861906.txt	2423	2428	China	Location
+PMC4861906.txt	2406	2412	Yunnan	Location
+PMC4861906.txt	2558	2564	Yunnan	Location
+PMC4861906.txt	2575	2580	China	Location
+PMC4861906.txt	2802	2807	China	Location
+PMC4861906.txt	6868	6874	Yunnan	Location
+PMC4861906.txt	7112	7117	China	Location
+PMC4861906.txt	11828	11834	Yunnan	Location
+PMC4861906.txt	11835	11840	China	Location
+PMC4861906.txt	15164	15170	Yunnan	Location
+PMC4861906.txt	15930	15936	Yunnan	Location
+PMC4861906.txt	17554	17560	Yunnan	Location
+PMC4861906.txt	17919	17925	Yunnan	Location
+PMC4861906.txt	17983	17988	China	Location
+PMC4861906.txt	18064	18072	Shanghai	Location
+PMC4861906.txt	18074	18081	Jiangsu	Location
+PMC4861906.txt	18086	18094	Thailand	Location
+PMC4861906.txt	18213	18221	Thailand	Location
+PMC4861906.txt	20799	20805	Yunnan	Location
+PMC4861906.txt	20806	20811	China	Location
+PMC4861906.txt	22658	22661	USA	Location
+PMC4861906.txt	26351	26357	Yunnan	Location
+PMC4861906.txt	29620	29626	Yunnan	Location
+PMC4861906.txt	29627	29632	China	Location
+PMC4861906.txt	29859	29864	China	Location
+PMC4861906.txt	29851	29857	Harbin	Location
+PMC4861906.txt	30235	30241	Harbin	Location
+PMC4861906.txt	30243	30248	China	Location
+PMC4861906.txt	2785	2791	Yunnan	Location
+PMC4861906.txt	18002	18006	Asia	Location
+18704172.txt	1513	1517	Asia	Location
+18704172.txt	1519	1525	Europe	Location
+18704172.txt	1531	1537	Africa	Location
+18704172.txt	1626	1632	Africa	Location
+18704172.txt	1790	1797	Nigeria	Location
+18704172.txt	5161	5173	South Africa	Location
+18704172.txt	5576	5580	Asia	Location
+18704172.txt	5583	5589	Europe	Location
+18704172.txt	5594	5600	Africa	Location
+18704172.txt	5973	5984	Middle East	Location
+18704172.txt	5989	5995	Africa	Location
+18704172.txt	6545	6552	Nigeria	Location
+18704172.txt	6687	6694	Nigeria	Location
+18704172.txt	7257	7264	Nigeria	Location
+18704172.txt	7266	7278	Jigawa State	Location
+18704172.txt	8255	8259	Asia	Location
+18704172.txt	8261	8267	Europe	Location
+18704172.txt	8273	8279	Africa	Location
+18704172.txt	8418	8424	Africa	Location
+18704172.txt	8781	8788	Nigeria	Location
+18704172.txt	9297	9304	Nigeria	Location
+18704172.txt	9329	9333	Chad	Location
+18704172.txt	10562	10569	Nigeria	Location
+18704172.txt	10617	10623	Africa	Location
+18704172.txt	11110	11125	Central Europe	Location
+18704172.txt	11158	11170	South Africa	Location
+18704172.txt	12056	12068	South Africa	Location
+18704172.txt	12614	12626	South Africa	Location
+18704172.txt	12761	12770	East Asia	Location
+18704172.txt	13259	13266	Nigeria	Location
+18704172.txt	14608	14614	Africa	Location
+18704172.txt	16459	16463	Chad	Location
+18704172.txt	17278	17285	Nigeria	Location
+18704172.txt	18095	18107	South Africa	Location
+18704172.txt	18278	18284	Africa	Location
+18704172.txt	22150	22154	Asia	Location
+18704172.txt	22156	22162	Europe	Location
+18704172.txt	22168	22174	Africa	Location
+18704172.txt	22612	22616	Asia	Location
+18704172.txt	22618	22624	Europe	Location
+18704172.txt	22629	22635	Africa	Location
+18704172.txt	22953	22958	Italy	Location
+18704172.txt	23331	23340	Hong Kong	Location
+18704172.txt	25053	25065	South Africa	Location
+18704172.txt	27017	27024	Nigeria	Location
+18704172.txt	27118	27122	Asia	Location
+18704172.txt	27124	27130	Europe	Location
+18704172.txt	27134	27140	Africa	Location
+18704172.txt	27215	27229	Central Europe	Location
+18704172.txt	27629	27645	Southern Africa	Location
+18704172.txt	27703	27710	Nigeria	Location
+18704172.txt	27767	27773	Africa	Location
+18704172.txt	27914	27919	Sahel	Location
+18704172.txt	29087	29093	Europe	Location
+18704172.txt	29098	29104	Africa	Location
+18704172.txt	29530	29537	Nigeria	Location
+18704172.txt	29959	29966	Nigeria	Location
+18704172.txt	30216	30223	Nigeria	Location
+18704172.txt	32630	32641	Montpellier	Location
+18704172.txt	32644	32650	France	Location
+18704172.txt	33273	33279	Padova	Location
+18704172.txt	33281	33286	Italy	Location
+18704172.txt	34524	34528	Ohio	Location
+18704172.txt	34531	34534	USA	Location
+18704172.txt	35298	35305	Nigeria	Location
+18704172.txt	35370	35376	France	Location
+18704172.txt	35640	35648	Toulouse	Location
+18704172.txt	35651	35657	France	Location
+18704172.txt	1588	1602	Eastern Europe	Location
+18704172.txt	1608	1620	Middle East	Location
+18704172.txt	5953	5967	Eastern Europe	Location
+18704172.txt	7221	7243	Hadejia-Nguru Wetlands	Location
+18704172.txt	9260	9284	Hadejia-Nguru Wetlands	Location
+18704172.txt	9308	9317	Lake Chad	Location
+18704172.txt	11826	11841	Southern Europe	Location
+18704172.txt	12541	12556	Southern Europe	Location
+18704172.txt	16638	16647	Lake Chad	Location
+18704172.txt	17582	17605	Hadejia-Nguru Wetlands	Location
+PMC112616.txt	1144	1160	Topografov River	Location
+PMC112616.txt	3131	3146	northern Europe	Location
+PMC112616.txt	3495	3501	Norway	Location
+PMC112616.txt	3503	3509	Sweden	Location
+PMC112616.txt	3511	3518	Finland	Location
+PMC112616.txt	3542	3548	Russia	Location
+PMC112616.txt	3641	3657	Taymyr Peninsula	Location
+PMC112616.txt	3801	3805	Lena	Location
+PMC112616.txt	3813	3819	Kolyma	Location
+PMC112616.txt	3891	3897	Alaska	Location
+PMC112616.txt	3661	3667	Russia	Location
+PMC112616.txt	4323	4330	Siberia	Location
+PMC112616.txt	5702	5709	Siberia	Location
+PMC112616.txt	6929	6934	Finse	Location
+PMC112616.txt	9533	9542	Fairbanks	Location
+PMC112616.txt	9766	9774	Berkeley	Location
+PMC112616.txt	13595	13605	Lena River	Location
+PMC112616.txt	13657	13661	Lena	Location
+PMC112616.txt	13666	13672	Kolyma	Location
+PMC112616.txt	13758	13770	Kolyma River	Location
+PMC112616.txt	16068	16084	Topografov River	Location
+PMC112616.txt	25035	25040	Japan	Location
+PMC112616.txt	25044	25051	Belgium	Location
+PMC112616.txt	25475	25487	Fennoscandia	Location
+PMC112616.txt	26496	26502	Europe	Location
+PMC112616.txt	26577	26581	Asia	Location
+PMC112616.txt	29111	29123	Fennoscandia	Location
+PMC112616.txt	29755	29767	Fennoscandia	Location
+PMC112616.txt	1168	1184	Taymyr Peninsula	Location
+PMC112616.txt	1186	1193	Siberia	Location
+PMC112616.txt	4241	4246	Salla	Location
+PMC112616.txt	4248	4255	Finland	Location
+PMC112616.txt	6936	6942	Norway	Location
+PMC112616.txt	8206	8217	Foster City	Location
+PMC112616.txt	8219	8224	Calif	Location
+PMC112616.txt	13865	13870	Finse	Location
+PMC112616.txt	13916	13921	Salla	Location
+PMC112616.txt	13872	13878	Norway	Location
+PMC112616.txt	13923	13930	Finland	Location
+PMC112616.txt	15436	15441	Finse	Location
+PMC112616.txt	15443	15449	Norway	Location
+PMC112616.txt	28520	28525	Salla	Location
+PMC112616.txt	28527	28534	Finland	Location
+PMC112616.txt	15315	15333	Taymyr Pen- insula	Location

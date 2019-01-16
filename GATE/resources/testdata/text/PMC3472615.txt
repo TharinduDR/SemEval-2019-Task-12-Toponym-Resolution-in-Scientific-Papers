@@ -1,0 +1,1558 @@
+American Journal of Epidemiology
+© The Author 2012. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://
+creativecommons.org/licenses/by-nc/3.0), which permits unrestricted reuse, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+
+Vol. 176, No. 8
+DOI: 10.1093/aje/kws162
+Advance Access publication:
+September 27, 2012
+
+Original Contribution
+Do Good Health and Material Circumstances Protect Older People From the
+Increased Risk of Death After Bereavement?
+
+Sunil M. Shah*, Iain M. Carey, Tess Harris, Stephen DeWilde, Christina R. Victor, and
+Derek G. Cook
+* Correspondence to Dr. Sunil M. Shah, Division of Population Health Sciences and Education, St George’s University of London, Cranmer
+Terrace, London SW17 0RE, United Kingdom (e-mail: sushah@sgul.ac.uk).
+
+Initially submitted December 20, 2011; accepted for publication March 5, 2012.
+
+An increased risk of death in persons who have suffered spousal bereavement has been described in many
+populations. The impact of modifying factors, such as chronic disease and material circumstances, is less well
+understood. The authors followed 171,120 couples 60 years of age or older in a United Kingdom primary care
+database between 2005 and 2010 for an average of 4 years. A total of 26,646 (15.5%) couples experienced
+bereavement, with mean follow up after bereavement of 2 years. In a model adjusted for age, sex, comorbid
+conditions at baseline, material deprivation based on area of residence, season, and smoking status, the hazard
+ratio for mortality in the first year after bereavement was 1.25 (95% confidence interval: 1.18, 1.33). Further
+adjustment for changes in comorbid conditions throughout follow up did not alter the hazard ratio for bereavement (hazard ratio = 1.27, 95% confidence interval: 1.19, 1.35). The association was strongest in individuals with
+no significant chronic comorbid conditions throughout follow up (hazard ratio = 1.50, 95% confidence interval:
+1.28, 1.77) and in more affluent couples (P = 0.035). In the first year after bereavement, the association between
+bereavement and death is not primarily mediated through worsening or new onset of chronic disease. Good
+health and material circumstances do not protect individuals from increased mortality rates after bereavement.
+aged; bereavement; comorbid conditions; mortality
+
+Abbreviations: CI, confidence interval; THIN, The Health Improvement Network.
+
+Death of a spouse or partner is a common major life
+event for older people (1). The adverse impact of bereavement on health has been long recognized, with an increased
+risk of death described in several populations (2). The increase in mortality has been most consistently described in
+the ﬁrst year after bereavement, and a recent meta-analysis
+estimated a 41% increase in mortality in the ﬁrst 6 months
+after bereavement in all age groups (3). The consistency of
+ﬁndings and robustness to adjustment suggest that the
+impact of bereavement is causal, but mechanisms and modifying factors are not well understood (2). In particular, it is
+not known whether good physical health and high socioeconomic status protect individuals from the adverse effects
+of bereavement, and neither is the relative contribution of
+acute events or worsening of chronic disease to excess
+mortality after bereavement known.
+
+Most large studies on bereavement have relied on
+census databases or follow up of community surveys
+(4, 5). The recording of chronic disease in such sources is
+often limited or self-reported, and few studies have used
+validated morbidity measures, such as the Charlson Index
+(3–5). Larger studies with well-recorded comorbid conditions have limited their analyses to baseline comorbid
+conditions and have not considered whether those conditions mediate or modify the impact of bereavement on
+mortality (6). Two studies have explicitly examined the
+modifying inﬂuence of pre-existing health on the increased risk of death after bereavement (7, 8). They
+suggest, paradoxically, that good health before bereavement increases the adverse impact of bereavement rather
+than providing protection, but these ﬁndings are limited
+by sample size or limited information on comorbid
+689
+
+Am J Epidemiol. 2012;176(8):689–698
+
+690 Shah et al.
+
+conditions (7, 8). Analysis of causes of death in bereaved
+individuals provides some insights into whether worsening of pre-existing chronic disease or acute events contribute to excess mortality, but the evidence is unclear,
+with both sudden unexpected deaths and chronic conditions contributing to excess mortality (6).
+In the present study, we used a large United Kingdom
+primary care database with detailed recording of comorbid
+conditions to examine the modifying and mediating impact
+of physical comorbid conditions and material socioeconomic circumstances on mortality in the ﬁrst year after bereavement. Unlike existing studies on bereavement, we were
+uniquely able to take account of changes in comorbid conditions before and after bereavement.
+Speciﬁcally, we tested whether adjustment for physicianrecorded chronic comorbid conditions before and after bereavement attenuated the association between bereavement
+and mortality; such attenuation would suggest that increased mortality is mediated through worsening or new
+onset of chronic conditions rather than unexpected acute
+events. Furthermore, we tested whether individuals with
+good health and higher socioeconomic status were protected from increased risk of death after bereavement.
+
+The algorithm identiﬁed 316,569 patients aged 60 years
+or older (47% registered patients of this age) and 32,661
+patients 50–59 years of age to form a total of 174,615
+couples. From this group, we excluded any couple in
+which: 1) a patient had codes in their primary care record
+that indicated residence in a communal establishment before
+the index date, 2) a patient had inconsistent registration
+details between their current and historical registration ﬁles,
+or 3) both patients were 95 years of age or older. This
+resulted in 171,720 couples for analysis, 76.3% of whom
+were identiﬁed as living with no other household members.
+Follow up
+
+Couples were followed in the primary care record from
+the index date for their practice between 2005 and 2008 to
+their last practice data collection date up to September
+2010. When one or both members of the couple deregistered from the participating general practice, both members
+of the couple were censored from the analysis at that point.
+The average follow up time was 208 weeks for women and
+202 weeks for men.
+Bereavement
+
+MATERIALS AND METHODS
+Data source
+
+The Health Improvement Network (THIN, Cegedim
+Strategic Data Medical Research UK) database is an established primary care database which collects anonymized
+data from United Kingdom general practices and includes a
+full record of diagnoses (9, 10) A feature of the THIN database is the family number, which allows practices to link
+patients who live in the same household or institution (11).
+Subjects
+
+We included 401 practices from the database who were
+participating in the THIN scheme between 2005 and 2008.
+We identiﬁed the ﬁrst year during this period in which
+the practice contributed data (2005 = 278, 2006 = 35,
+2007 = 32, 2008 = 56), and used a historical patient ﬁle
+from that year to identify household members registered on
+the index date. This allowed us to capture the household
+composition for a cohort of patients who were 60 years of
+age or older on an index date between 2005 and 2008
+(n = 672,543).
+We based our approach to identiﬁcation of cohabiting
+couples on an analysis of national survey data. This
+showed that among those who were 60 years of age or
+older, couples of the opposite sex with an age difference of
+less than 10 years who live together in a household are
+almost invariably married or cohabiting (12). We developed
+an algorithm (Appendix Figure 1) that identiﬁed households that contained a person who was 60 years of age or
+older living and with another adult 50 years of age or older
+of opposite sex. We required that included couples had an
+age difference of 10 years or less and that no younger adult
+in the household be within 15 years of either of the couple.
+
+The timing of bereavement was identiﬁed through the
+earliest record of death in the deceased partner’s primary
+care record, based on either a speciﬁc Read code for death
+or a ﬂag on their registration ﬁle that indicated death. Read
+codes are a standardized coded thesaurus of clinical terms
+that are used for recording in primary care information
+systems in the United Kingdom.
+Bereavement was modelled as a time-dependent variable
+so that after bereavement, the status of the surviving partner
+was changed to bereaved and the impact of different
+periods after bereavement on mortality could be examined.
+We initially describe the inﬂuence of bereavement in each
+consecutive 90-day period (quarter) in the ﬁrst 2 years after
+partner death and then focus on death in the ﬁrst year after
+bereavement for our main hypotheses. We excluded 9
+couples in which both patients were recorded as having
+died on the same day.
+Predictors of mortality
+
+Our main measure of comorbidity was the Charlson
+Index, a validated score that weights 17 chronic physical
+conditions with a score of 1–6 (13). The score is highly
+predictive of 1-year mortality and has been validated in
+primary care databases (14). We also examined the impact
+of additional comorbid conditions not included in the
+Charlson Index: coronary heart disease without a history of
+myocardial infarction, atrial ﬁbrillation, and hypertension.
+Inclusion of these comorbid conditions did not change our
+ﬁndings with the Charlson Index alone and, for simplicity,
+analysis with these additional comorbid conditions are not
+presented.
+Comorbid conditions were examined in 2 ways. Firstly,
+the Charlson Index score was analyzed as a ﬁxed variable
+determined at the start of follow up. We then examined the
+Am J Epidemiol. 2012;176(8):689–698
+
+Mortality After Bereavement 691
+
+Table 1. Baseline Characteristics of Older Couples, United Kingdom, 2005–2008
+Women
+No. of
+Participants
+
+All
+
+%
+
+Men
+Mean (SD)
+
+171,720
+
+%
+
+208 (79)
+17,514
+
+Mean (SD)
+
+171,720
+
+Total follow up, weeks
+Suffered a bereavement
+
+No. of
+Participants
+
+10.2
+
+Follow up after bereavement, weeks
+
+202 (82)
+9,132
+
+5.3%
+
+112 (76)
+
+108 (75)
+
+Age at start of follow up, years
+50–59
+
+26,188
+
+15.3
+
+6,014
+
+3.5
+
+60–64
+
+47,500
+
+27.7
+
+48,967
+
+28.5
+
+65–69
+
+36,788
+
+21.4
+
+39,862
+
+23.2
+
+70–74
+
+28,423
+
+16.6
+
+32,709
+
+19.1
+
+75–79
+
+18,995
+
+11.1
+
+23,624
+
+13.8
+
+80–84
+
+9,986
+
+5.8
+
+14,011
+
+8.2
+
+85–89
+
+3,236
+
+1.9
+
+5,320
+
+3.1
+
+90–94
+
+604
+
+0.4
+
+1,213
+
+0.7
+
+Age
+
+67.2 (7.8)
+
+69.5 (7.6)
+
+Smoking status at start
+Nonsmoker
+
+97,846
+
+57.0
+
+60,576
+
+35.3
+
+Ex-smoker
+
+49,334
+
+28.7
+
+82,592
+
+48.1
+
+Current (unknown)
+
+2,959
+
+1.7
+
+5,727
+
+3.3
+
+Current (0–9 cigarettes/day)
+
+4,247
+
+2.5
+
+4,836
+
+2.8
+
+Current (10–19 cigarettes/day)
+
+7,561
+
+4.4
+
+6,098
+
+3.6
+
+Current (≥20 cigarettes/day)
+
+5.606
+
+3.3
+
+6,752
+
+3.9
+
+No smoking status
+
+4,167
+
+2.4
+
+5,139
+
+3.0
+
+0
+
+108,077
+
+62.9
+
+91,237
+
+53.1
+
+1
+
+35,102
+
+20.4
+
+40,719
+
+23.7
+
+2
+
+18,726
+
+10.9
+
+22,840
+
+13.3
+
+3
+
+6,403
+
+3.7
+
+9,881
+
+5.8
+
+4
+
+1,951
+
+1.1
+
+4,020
+
+2.3
+
+5
+
+637
+
+0.4
+
+1,549
+
+0.9
+
+≥6
+
+824
+
+0.5
+
+1,474
+
+0.9
+
+Baseline Charlson Index score
+
+Abbreviation: SD, standard deviation.
+
+effect of the Charlson Index score as a time-dependent variable updated weekly throughout follow up based on any
+new diagnoses recorded in the primary care record. We
+used a 1-week lag on the calculation to avoid any recorded
+causes of death in the medical record being used to predict
+death.
+Our main measure of deprivation was the Townsend
+Index, a composite small-area ecological measure of deprivation, which was assigned to couples based on their postal
+code at start of follow up and summarized as quintiles
+based on national ranking (15). In brief, the Townsend
+score combines 4 measures of deprivation from the 2001
+census (unemployment, access to a car, home ownership,
+and home overcrowding) for small geographic areas in the
+Am J Epidemiol. 2012;176(8):689–698
+
+United Kingdom into a standardized score. We also examined the impact of the Index of Multiple Deprivation 2007,
+an alternate small-area measure of deprivation that was
+available in England only and included a wider range of
+measures of deprivation (16).
+Season was included as a time-dependent predictor of
+mortality, with the period December to March deﬁned as
+winter, in line with standard United Kingdom deﬁnitions for
+examination of seasonal mortality (17). Other ﬁxed predictors were age, sex, smoking status and quantity of cigarettes
+smoked (last recorded before index date), United Kingdom
+region, and the presence of a younger member of the household. Missing data for smoking status and Townsend score
+were included in the models as a separate category.
+
+692 Shah et al.
+
+Table 2. Predictors of Mortality in Older Couples Adjusted for Age, Sex, and Region, United Kingdom, 2005–2010
+Total No. of
+Participants
+
+No. of
+Deaths
+
+Women
+
+171,720
+
+10,402
+
+6.1
+
+1.00
+
+Men
+
+171,720
+
+18,757
+
+10.9
+
+1.53
+
+1.49, 1.56
+0.66, 0.77
+
+%
+
+Hazard
+Ratio
+
+95% Confidence
+Interval
+
+Sex
+
+Age, years
+50–59
+
+32,202
+
+624
+
+1.9
+
+0.71
+
+60–64
+
+96,467
+
+3,093
+
+3.2
+
+1.00
+
+65–69
+
+76,650
+
+4,146
+
+5.4
+
+1.65
+
+1.57, 1.72
+
+70–74
+
+61,132
+
+5,416
+
+8.9
+
+2.74
+
+2.62, 2.86
+
+75–79
+
+42,619
+
+6,440
+
+15.1
+
+4.90
+
+5.71, 5.11
+
+80–84
+
+23,997
+
+5,582
+
+23.3
+
+8.18
+
+7.84, 8.53
+
+85–89
+
+8,556
+
+2,952
+
+34.5
+
+14.05
+
+13.31, 14.83
+
+90–94
+
+1,817
+
+888
+
+48.9
+
+24.82
+
+22.96, 26.84
+
+262,168
+
+24,551
+
+9.4
+
+1.00
+
+81,272
+
+4,608
+
+5.7
+
+1.08
+
+1.04, 1.12
+
+North
+
+168,152
+
+15,164
+
+9.0
+
+1.15
+
+1.11, 1.20
+
+South
+
+175,288
+
+13,995
+
+8.0
+
+1.00
+
+Household status
+Couple living alone
+Couple living with a younger person
+Region
+
+Townsend Index quintile
+1 (least deprivation)
+
+111,379
+
+7,685
+
+6.9
+
+1.00
+
+2
+
+89,873
+
+7,195
+
+8.0
+
+1.12
+
+1.08, 1.15
+
+3
+
+65,141
+
+5,957
+
+9.1
+
+1.24
+
+1.19, 1.30
+
+4
+
+45,053
+
+4,884
+
+10.8
+
+1.42
+
+1.37, 1.48
+
+5 (most deprivation)
+
+21,644
+
+2,748
+
+12.7
+
+1.62
+
+1.54, 1.70
+
+Nonsmoker
+
+158,422
+
+9,525
+
+6.0
+
+1.00
+
+Ex-smoker
+
+131,926
+
+14,244
+
+10.8
+
+1.57
+
+1.52, 1.62
+
+8,686
+
+852
+
+9.8
+
+1.44
+
+1.34, 1.55
+
+Smoking status
+
+Current (unknown)
+Current (0–9 cigarettes/day)
+
+9,083
+
+982
+
+10.8
+
+1.98
+
+1.84, 2.13
+
+Current (10–19 cigarettes/day)
+
+13,659
+
+1,472
+
+10.8
+
+2.46
+
+2.32, 2.60
+
+Current (≥20 cigarettes/day)
+
+12,358
+
+1,380
+
+11.2
+
+2.99
+
+2.83, 3.16
+
+Table continues
+
+Analysis
+
+A Cox proportional hazards model for mortality was developed for all couples using PROC PHREG in SAS,
+version 9.2 (SAS Institute, Inc., Cary, North Carolina). The
+initial model examined the impact of all predictors, including
+bereavement, adjusted for age, sex, and region. Bereavement
+status was entered as time-dependent variable with nonbereaved couples as the baseline group and bereavement status
+deﬁned in categories based on time since bereavement.
+A fully adjusted baseline model included all predictors
+and Charlson Index score at beginning of follow up. A
+time-dependent comorbidity model included the weekly
+updated Charlson Index score in place of baseline Charlson
+Index score in the fully adjusted model. All hazard ratios
+
+were adjusted for clustering at practice level using the sandwich estimator to produce robust standard errors.
+Effect modiﬁcation was examined using stratiﬁed analysis, thus estimating the bereavement coefﬁcients within
+strata and allowing us to a test for heterogeneity or trend in
+effects. All P values are 2-sided. This study was approved
+by the South-East National Health Service Research Ethics
+Committee.
+RESULTS
+Subject characteristics and bereavement
+
+The characteristics of the couples included in the analysis are shown in Table 1. During follow up, 26,646
+Am J Epidemiol. 2012;176(8):689–698
+
+Mortality After Bereavement 693
+
+Table 2. Continued
+Total No. of
+Participants
+
+No. of
+Deaths
+
+%
+
+Hazard
+Ratio
+
+95% Confidence
+Interval
+
+Charlson Index score
+0
+
+199,314
+
+8,390
+
+4.2
+
+1.00
+
+1
+
+75,821
+
+6,980
+
+9.2
+
+1.75
+
+1.69, 1.81
+
+2
+
+41,556
+
+6,309
+
+15.2
+
+2.72
+
+2.62, 2.82
+
+3
+
+16,284
+
+3,681
+
+22.6
+
+3.66
+
+3.51, 3.81
+
+4
+
+5,971
+
+1,806
+
+30.3
+
+4.68
+
+4.42, 4.95
+
+5
+
+2,186
+
+876
+
+40.1
+
+6.39
+
+5.90, 6.92
+
+2,298
+
+1,117
+
+48.6
+
+9.36
+
+8.56, 10.22
+
+1.10
+
+1.06, 1.15
+
+≥6
+a
+
+Winter (December–March)
+
+Time-varying Charlson Index score
+
+a
+
+0
+
+1.00
+
+1
+
+2.45
+
+2.35, 2.56
+
+2
+
+5.58
+
+5.33, 5.83
+
+3
+
+8.32
+
+7.94, 8.72
+
+4
+
+11.37
+
+10.75, 12.02
+
+5
+
+14.97
+
+13.97, 16.04
+
+≥6
+
+35.83
+
+33.45, 38.38
+
+Time-varying variable.
+
+couples (15.5%) experienced bereavement. The mean
+follow up after bereavement was just over 2 years. Among
+patients who experienced bereavement at least 1 year
+before the end of their practice recording (n = 21,017),
+942 died within a year (4.5%) and 1,086 (5.2%) deregistered from the practice. The rate of deregistration during
+the ﬁrst year of follow up among nonbereaved couples
+was 2.3%.
+Predictors of mortality
+
+Age-, sex-, and region-adjusted hazard ratios for predictors of mortality are shown in Table 2. The Charlson
+Index score was a strong predictor of mortality, and the
+time-dependent Charlson Index score was notably stronger. The Townsend Index also strongly predicted mortality, and within England, the Index of Multiple Deprivation
+showed an almost identical impact (not shown). Similarly,
+smoking status and quantity predicted mortality. Living
+with a younger household member weakly predicted
+mortality.
+Bereavement and adjustment for comorbid conditions
+
+The age-, sex-, region-, and season-adjusted hazard ratios
+for death in the ﬁrst 8 quarters after bereavement are shown
+in Figure 1. Mortality was highest in the ﬁrst 90 days after
+bereavement, with the suggestion of a subsequent peak
+before the ﬁrst anniversary of bereavement and attenuation
+in the second year. In the ﬁrst year after bereavement, the
+hazard ratio for death was 1.29 (95% conﬁdence interval
+(CI): 1.21, 1.37) (Table 3). Adjustment for all baseline
+Am J Epidemiol. 2012;176(8):689–698
+
+predictors, including Charlson Index score, had little effect,
+with the hazard ratio in the ﬁrst year being reduced to 1.25
+(95% CI: 1.18, 1.33). Adjustment for changes in comorbid
+conditions throughout follow up did not attenuate the rise
+in mortality in the ﬁrst year after bereavement (hazard
+ratio = 1.27 (95% CI: 1.19, 1.35).
+Modification by age, sex, comorbid conditions, and
+deprivation
+
+There was no evidence that the rise in mortality in the ﬁrst
+year after bereavement differed between men and women
+(P = 0.99) or in those above and below the age of 75 years
+(P = 0.56) (Table 4). Stratiﬁcation of analysis by Charlson
+Index score at baseline showed no evidence that the mortality
+increase after bereavement was more marked in subjects with
+pre-existing comorbid conditions (Table 4). Further stratiﬁcation by baseline comorbid conditions and change in comorbid conditions during follow up suggested that subjects who
+had no recorded conditions during follow up experienced the
+largest relative rise in mortality after bereavement (hazard
+ratio = 1.50, 95% CI: 1.28, 1.77).
+Stratiﬁcation by Townsend score in the fully adjusted
+model, including time-dependent Charlson Index score,
+showed a larger effect of bereavement in the 2 most afﬂuent
+groups. A test for linear trend was marginally signiﬁcant
+(P = 0.035), and there was no evidence of a nonlinear relation
+DISCUSSION
+
+We have conﬁrmed the increased risk of death after bereavement and demonstrated its independence of pre-existing
+
+694 Shah et al.
+
+Strengths and limitations
+
+Figure 1. Quarterly log scale hazard ratios for death after
+bereavement in older couples, United Kingdom, 2005–2010. Hazard
+ratios were adjusted for age, sex, and region. Bars, 95% confidence
+interval.
+
+physician-recorded chronic comorbid conditions and social
+status. Our analysis, which took into account changes in
+morbidity before and after bereavement, suggested that the
+rise in the mortality rate after bereavement is not primarily
+mediated through new or worsening chronic physical
+disease. Furthermore, there was no evidence that pre-existing
+or continuing good health or afﬂuence protected individuals;
+paradoxically, good health and high social status may accentuate the rise in mortality after bereavement.
+Table 3. Adjusted Hazard Ratios for Death in the First Year After
+Bereavement in Older Couples (n = 343,440), United Kingdom,
+2005–2010
+Adjustment
+
+Hazard
+Ratio
+
+95% Confidence
+Interval
+
+Age, sex, and region
+
+1.29
+
+1.21, 1.37
+
+Age, sex, region, smoking,
+Townsend Index quintile, and
+living alone
+
+1.24
+
+1.17, 1.32
+
+Age, sex, region, Townsend
+Index quintile, living alone, and
+Charlson Index score (fixed)
+
+1.25
+
+1.18, 1.33
+
+Age, sex, region, Townsend
+Index quintile, living alone, and
+Charlson Index score (timedependent)
+
+1.27
+
+1.19, 1.35
+
+We were able to examine mortality after bereavement in
+a large sample of older people. Only census-based Finnish
+cohorts and cohorts based on US Medicare data have included a larger number of bereaved individuals (2, 3). The
+accrual of bereavement events over a relatively short time
+period reduced concerns about changes in baseline exposures between start of study and bereavement, in particular
+possible changes in marital status. Indeed, in our study, relocation of one partner with deregistration from their
+general practitioner would lead to exclusion of the couple.
+A unique strength of our study is the ability to control
+for physician-recorded comorbid conditions both at baseline and during follow up using a validated mortalityprediction score. In our cohort, the Charlson Index score
+adjusted for age and sex accounted for more than 80% of
+the variation in mortality based on the area under the receiver operator curve for our baseline model. Such control
+for comorbid conditions has not been possible in larger
+studies on bereavement that have relied on self-reports or
+recording of comorbid conditions at baseline only.
+A potential weakness is that we identiﬁed couples indirectly through a marker of cohabitation in the primary care
+record. We conﬁrmed the validity of this approach by
+comparison with contemporary national representative
+household surveys in England, which conﬁrmed that 99.4%
+of couples selected using our criteria identify themselves as
+married or cohabiting (12). In other words, very few
+couples would be misclassiﬁed in terms of the nature of
+their relationship, although couples with a large age difference between the partners or registered with different
+general practices or practices that choose not to use the
+household identiﬁer consistently would be excluded from
+our analysis. These exclusions should not bias our cohabiting couples-only analysis.
+Our measure of socioeconomic status was based on a
+small-area ecological measure of deprivation, the Townsend
+Index score, rather than individual measures, such as personal income or educational level. This measure, summarized in quintiles based on national ranking, strongly
+predicted death. Studies in the United Kingdom have demonstrated the acceptability of such measures as surrogates
+for individual measures of socioeconomic status, especially
+when, as in our study, attributed at the subelectoral ward
+level (18, 19). Furthermore, for older couples in the United
+Kingdom, area-based measures may be preferable because
+of changes in the meaning of individual measures of socioeconomic status with aging and the difﬁculty of measuring
+socioeconomic status meaningfully in older people, which
+has been well described (20). Speciﬁcally, individual measures, such as income or educational attainment, would
+have a very different meaning in terms of socioeconomic
+position for a 60-year-old couple before retirement and a
+90-year-old woman.
+Our ﬁnding that the rise in mortality after bereavement is
+attenuated in the second year conﬁrms that this is not a selection effect due to shared environmental factors or the
+tendency to cohabit with individuals with similar health
+characteristics (8). Any such selection is unlikely to
+Am J Epidemiol. 2012;176(8):689–698
+
+Mortality After Bereavement 695
+
+Table 4. Adjusted Hazard Ratios for Death in the First Year After Bereavement in Older Couples, Stratified by
+Potential Effect Modifiers, United Kingdom, 2005–2010
+No. of
+Participants
+
+Hazard
+Ratioa
+
+95% Confidence
+Interval
+
+Sex
+
+P
+Valueb
+
+0.99
+
+Women
+
+171,720
+
+1.26
+
+1.16, 1.37
+
+Men
+
+171,720
+
+1.26
+
+1.15, 1.38
+
+50–74
+
+266,451
+
+1.23
+
+1.07, 1.41
+
+≥75
+
+76,989
+
+1.25
+
+1.17, 1.34
+
+262,168
+
+1.25
+
+1.17, 1.33
+
+81,272
+
+1.41
+
+1.16, 1.70
+
+Age, years
+
+0.56
+
+Household status
+
+0.25
+
+Couples lives alone
+Younger household member
+Townsend Index quintile
+1 (least deprived)
+
+0.035
+111,379
+
+1.32
+
+1.16, 1.50
+
+2
+
+89,873
+
+1.42
+
+1.25, 1.61
+
+3
+
+65,141
+
+1.16
+
+1.01, 1.33
+
+4
+
+45,053
+
+1.19
+
+1.02, 1.39
+
+5 (most deprived)
+
+21,644
+
+1.21
+
+0.98, 1.49
+
+Charlson Index score
+
+0.85
+
+Baseline
+0
+
+199,314
+
+1.27
+
+1.13, 1.43
+
+1
+
+75,821
+
+1.19
+
+1.06, 1.34
+
+2
+
+41,566
+
+1.29
+
+1.13, 1.47
+
+3
+
+16,284
+
+1.28
+
+1.08, 1.53
+
+4
+
+5,971
+
+1.34
+
+1.07, 1.69
+
+5
+
+2,186
+
+1.28
+
+0.89, 1.86
+
+≥6
+
+2,298
+
+0.99
+
+0.66, 1.48
+
+164,005
+
+1.50
+
+1.28, 1.77
+
+35,309
+
+1.12
+
+0.95, 1.30
+
+144,126
+
+1.24
+
+1.15, 1.33
+
+Time-varying Charlson
+Index score
+0 throughout
+c
+
+0 at baseline only
+>0 at baseline
+
+0.029
+
+a
+
+Hazard ratio estimates from a model adjusted for age, sex, household status, region, deprivation, Charlson
+Index score, smoking, and season, with a stratification factor excluded from the model.
+b
+P values (2-sided) for heterogeneity except for Townsend Index quintile, which is test for trend.
+c
+Charlson Index score increased during follow up.
+
+attenuate so quickly. Speciﬁcally for our cohort, this means
+that our ﬁndings are unlikely to be explained by differential
+deregistration and loss to follow up of healthy individuals
+after bereavement.
+Comparison with other studies
+
+Further external validation of our methods is provided by
+our estimate of the rise in mortality after bereavement,
+which is consistent with both United Kingdom and other
+developed country studies using a range of data sources. A
+recent meta-analysis estimated a relative risk of death in the
+ﬁrst 6 months after bereavement of 1.41, with attenuation
+of the effect over time (3). Our age- and sex-adjusted
+hazard ratio of 1.29 over the ﬁrst year is also consistent
+with a recent United Kingdom survey-based study (5).
+Am J Epidemiol. 2012;176(8):689–698
+
+Our ﬁndings conﬁrm that the association between bereavement and mortality is not confounded by pre-existing
+chronic disease. However, compared with studies that have
+reported both unadjusted and adjusted estimates, we found
+that adjustment for comorbid conditions and socioeconomic
+status did not attenuate the effect of bereavement, whereas
+other studies have reported some attenuation (5, 7). This
+difference from studies which use measures of self-reported
+health may reﬂect potential bias in self-reports.
+Few studies have attempted to examine effect modiﬁcation by socioeconomic status. A large census-based Finnish
+study found that the relative rise in mortality after bereavement did not differ by educational status or income,
+whereas an Israeli study found a greater rise in bereaved
+individuals with high educational attainment (21, 22). Similarly, a Scottish census-based study found a greater impact
+
+696 Shah et al.
+
+of bereavement in individuals with higher educational attainment (8). Interestingly, an early United Kingdom study
+suggested that the increased risk of death after bereavement
+was largest in higher social class groups but did not test
+this association statistically (23). Our ﬁndings are consistent
+with these ﬁndings.
+We only found 2 studies that examined the mortality rise
+after bereavement by comorbid conditions or pre-existing
+health. Both studies relied on self-reported health measures
+(7, 8). A study in California, which included 4,747 bereaved individuals, found that the impact of bereavement
+was less marked in subjects with more self-reported health
+problems at baseline (7). A more recent study in Scotland,
+with 14,630 bereaved subjects, found the strongest association between bereavement and mortality in those without
+self-reported limited illness (8). To our knowledge, no
+study to date has attempted to take account of changes in
+comorbid conditions during follow up.
+Implications
+
+Our study provides a number of new and important insights into the health impact of bereavement. A key ﬁnding
+is that adjustment for comorbid conditions throughout follow
+up, both before and after bereavement, does not attenuate the
+rise in mortality after bereavement. This ﬁnding suggests that
+the early effects of bereavement are not primarily mediated
+through worsening or development of chronic disease.
+Studies on cause of death after bereavement have shown an
+increase across a range of conditions, including cardiovascular disease, cancer, accidents, suicide, and infectious causes,
+which suggests an impact on both acute health events and
+chronic disease (6, 21). However, examination of a single
+underlying cause of death may be subject to bias caused by
+death in patients with an existing chronic disease, such as
+cancer, being attributed to the chronic problem even if an
+acute event is responsible. Indeed, World Health Organization coding rules for underlying cause of death promote
+such attribution. Our ﬁndings tend to favor an explanation
+that, at least in the early period after bereavement, the increase in mortality is mediated through acute or short-term
+events, with all older people being vulnerable, irrespective of
+pre-existing comorbid conditions.
+This interpretation is supported by our ﬁnding that preexisting comorbid conditions do not modify the impact of
+bereavement on mortality. This ﬁnding is counterintuitive,
+as we expected good health to protect individuals from the
+stress of major life events. However, it is consistent with
+the limited studies on this question to date (7, 8). Furthermore, individuals who have good health throughout follow
+up experience the greatest relative impact of bereavement
+on mortality, which supports a hypothesis that much of the
+excess mortality of early bereavement is due to acute unexpected events. This interpretation is biologically plausible,
+as studies have identiﬁed increases in cardiovascular risk
+factors and reduced immunity after bereavement, and epidemiologic studies have highlighted the marked increase in
+rates of suicide and accidental deaths (24–26). Although
+accidents, suicide, and other violent deaths increase after
+bereavement, they cannot explain the majority of excess
+
+deaths. Existing studies describe a 2–3-fold increase in accidental and violent deaths in the year after bereavement
+(5, 24). As such deaths are uncommon in older people, accounting for 2% of deaths among those who were 60 years
+of age or older in the United Kingdom; even a 3-fold increase in such deaths would account for less than one ﬁfth
+of excess deaths. The most plausible explanation for most
+excess mortality after bereavement is an increase in unexpected cardiac and respiratory deaths.
+One caution in interpreting these ﬁndings is that we have
+focused on relative increases in mortality but, of course, individuals with high levels of comorbid conditions will have
+a much higher baseline mortality risk before bereavement.
+Thus, in absolute terms, those individuals are likely to experience the greatest burden of excess mortality after
+bereavement.
+Our ﬁndings on effect modiﬁcation by socioeconomic
+status are similarly counterintuitive, as we expected afﬂuence to buffer the effects of major live events. The consistency of our ﬁndings with studies in other countries
+suggests that this is a real effect that is independent of cultural context. Our study has limited measures of social
+support and so we cannot exclude the possibility that higher
+social support compensates for poorer material circumstances. However, the presence of a younger household member
+was not protective. Again, it should be noted that the
+absolute effect of bereavement will be greater in lower
+socioeconomic groups with higher baseline mortality.
+In conclusion, our ﬁndings suggest that the rise in mortality after bereavement acts as a leveller, affording no protection to the afﬂuent or healthy, and is best explained by
+an increase in sudden unexpected deaths. For health and
+social services, this highlights the need to offer universal
+support to older people at the time of bereavement.
+
+ACKNOWLEDGMENTS
+
+Author afﬁliations: Division of Population Health Sciences and Education, St. George’s University of London,
+London, United Kingdom (Sunil M. Shah, Iain M. Carey,
+Tess Harris, Stephen DeWilde, Derek G. Cook); and School
+of Health Sciences and Social Care, Brunel University, Uxbridge, Middlesex, United Kingdom (Christina R. Victor).
+This study was funded by a grant from the Dunhill
+Medical Trust.
+The authors thank the Ofﬁce for National Statistics, Social
+and Vital Statistics Division and the United Kingdom Data
+Archive for use of data from the General Household Survey
+2005. They bear no responsibility for the analysis or interpretation of the data.
+Conﬂict of interest: none declared.
+
+REFERENCES
+1. Holmes TH, Rahe RH. The social readjustment rating scale.
+J Psychosom Res. 1967;11(2):213–218.
+Am J Epidemiol. 2012;176(8):689–698
+
+Mortality After Bereavement 697
+
+2. Stroebe M, Schut H, Stroebe W. Health outcomes of
+bereavement. Lancet. 2007;370(9603):1960–1973.
+3. Moon JR, Kondo N, Glymour MM, et al. Widowhood and
+mortality: a meta-analysis. PLoS ONE. 2011;6(8):e23465.
+(doi:10.1371/journal.pone.0023465).
+4. Martikainen P, Valkonen T. Mortality after death of spouse in
+relation to duration of bereavement in Finland. J Epidemiol
+Community Health. 1996;50(3):264–268.
+5. Hart CL, Hole DJ, Lawlor DA, et al. Effect of conjugal
+bereavement on mortality of the bereaved spouse in
+participants of the Renfrew/Paisley Study. J Epidemiol
+Community Health. 2007;61(5):455–460.
+6. Elwert F, Christakis NA. The effect of widowhood on
+mortality by the causes of death of both spouses. Am J Public
+Health. 2008;98(11):2092–2098.
+7. Schaefer C, Quesenberry CP Jr, Wi S. Mortality following
+conjugal bereavement and the effects of a shared
+environment. Am J Epidemiol.1995;141(12):1142–1152.
+8. Boyle PJ, Feng Z, Raab GM. Does widowhood increase
+mortality risk? Testing for selection effects by comparing
+causes of spousal death. Epidemiology. 2011;22(1):1–5.
+9. Bourke A, Dattani H, Robinson M. Feasibility study
+and methodology to create a quality-evaluated database
+of primary care data. Inform Prim Care. 2004;12(3):
+171–177.
+10. Lewis JD, Schinnar R, Bilker WB, et al. Validation studies of
+the health improvement network (THIN) database for
+pharmacoepidemiology research. Pharmacoepidemiol Drug
+Saf. 2007;16(4):393–401.
+11. Shah SM, Carey IM, Harris T, et al. Identifying the clinical
+characteristics of older people living in care homes using a
+novel approach in a primary care database. Age Ageing.
+2010;39(5):617–623.
+12. Ofﬁce for National Statistics, Social and Vital Statistics
+Division. General Household Survey, 2005. 2nd ed.
+Colchester, Essex: UK Data Archive; 2007. (http://dx.doi.org/
+10.5255/UKDA-SN-5640-1). (Accessed November 11, 2011).
+13. Charlson ME, Pompei P, Ales KL, et al. A new method of
+classifying prognostic comorbidity in longitudinal studies:
+development and validation. J Chronic Dis. 1987;40(5):
+373–383.
+
+14. Khan NF, Perera R, Harper S, et al. Adaptation and validation
+of the Charlson Index for Read/OXMIS coded databases.
+BMC Fam Pract. 2010;11:1. (doi:10.1186/1471-2296-11-1).
+15. Townsend P, Phillimore P Beattie A. Health and Deprivation:
+Inequality and the North. London, United Kingdom: Croom
+Helm; 1998.
+16. Noble M, McLennan D, Wilkinson K, et al. The English
+Indices of Deprivation 2007. London, United Kingdom:
+Department for Communities and Local Government; 2008.
+17. Brown G, Fearn V, Wells C. Exploratory analysis of seasonal
+mortality in England, Wales, 1998 to 2007. Health Stat Q.
+2010;(48):58–80.
+18. Adams J, Ryan V, White M. How accurate are Townsend
+Deprivation Scores as predictors of self-reported health? A
+comparison with individual level data. J Public Health (Oxf ).
+2005;27(1):101–106.
+19. Sloggett A, Joshi H. Higher mortality in deprived areas:
+community or personal disadvantage? BMJ. 1994;
+309(6967):1470–1474.
+20. Bowling A. Socioeconomic differentials in mortality among
+older people. J Epidemiol Community Health. 2004;58(6):
+438–440.
+21. Martikainen P, Valkonen T. Do education and income buffer
+the effects of death of spouse on mortality? Epidemiology.
+1998;9(5):530–534.
+22. Manor O, Eisenbach Z. Mortality after spousal loss: are there
+socio-demographic differences? Soc Sci Med. 2003;56(2):
+405–413.
+23. Parkes CM, Benjamin B, Fitzgerald RG. Broken heart: a
+statistical study of increased mortality among widowers.
+Br Med J. 1969;1(5646):740–743.
+24. Martikainen P, Valkonen T. Mortality after the death of a
+spouse: rates and causes of death in a large Finnish cohort.
+Am J Public Health. 1996;86(8):1087–1093.
+25. Phillips AC, Carroll D, Burns VE, et al. Bereavement and
+marriage are associated with antibody response to inﬂuenza
+vaccination in the elderly. Brain Behav Immun. 2006;20(3):
+279–289.
+26. Buckley T, McKinley S, Toﬂer G, et al. Cardiovascular
+risk in early bereavement: a literature review and proposed
+mechanisms. Int J Nurs Stud. 2010;47(2):229–238.
+
+(Appendix follows)
+
+Am J Epidemiol. 2012;176(8):689–698
+
+698 Shah et al.
+
+Appendix Figure 1. Algorithm for identification of couples, United Kingdom, 2005–2010. Percentages refer to totals in the box above.
+
+Am J Epidemiol. 2012;176(8):689–698
+

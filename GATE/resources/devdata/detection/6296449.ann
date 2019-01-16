@@ -1,0 +1,12 @@
+T1	Protein 1 4	Vol
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 90 91	0
+#2	AnnotatorNotes T2	END
+T3	Protein 212 215	BOR
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 437 441	1982
+#4	AnnotatorNotes T4	END
+T5	Protein 13696 13698	We
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 18770 18771	.
+#6	AnnotatorNotes T6	END

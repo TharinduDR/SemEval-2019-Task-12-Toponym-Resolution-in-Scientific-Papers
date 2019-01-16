@@ -1,0 +1,62 @@
+T1	Protein 0 8	American
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 538 545	Article
+#2	AnnotatorNotes T2	END
+T3	Protein 666 669	Ian
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1013 1014	.
+#4	AnnotatorNotes T4	END
+T5	Protein 2130 2134	anti
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2373 2374	.
+#6	AnnotatorNotes T6	END
+T7	Protein 4586 4589	508
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4687 4690	509
+#8	AnnotatorNotes T8	END
+T9	Protein 8020 8022	Am
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 8052 8055	520
+#10	AnnotatorNotes T10	END
+T11	Protein 11368 11371	510
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 11387 11388	.
+#12	AnnotatorNotes T12	END
+T13	Protein 12487 12489	Am
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 12583 12586	511
+#14	AnnotatorNotes T14	END
+T15	Protein 13031 13033	Am
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 13087 13088	.
+#16	AnnotatorNotes T16	END
+T17	Protein 19462 19464	Am
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 19531 19534	520
+#18	AnnotatorNotes T18	END
+T19	Protein 23504 23512	Modeling
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 23587 23588	.
+#20	AnnotatorNotes T20	END
+T21	Protein 25078 25080	Am
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 25174 25177	515
+#22	AnnotatorNotes T22	END
+T23	Protein 27742 27744	Am
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 27774 27777	520
+#24	AnnotatorNotes T24	END
+T25	Protein 31181 31184	516
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 31200 31201	.
+#26	AnnotatorNotes T26	END
+T27	Protein 32779 32781	Am
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 32875 32878	517
+#28	AnnotatorNotes T28	END
+T29	Protein 35334 35349	ACKNOWLEDGMENTS
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 53870 53873	520
+#30	AnnotatorNotes T30	END
+T31	Location 3156 3169	United States
+#31	AnnotatorNotes T31	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>

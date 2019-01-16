@@ -1,0 +1,1359 @@
+Am. J. Trop. Med. Hyg., 92(2), 2015, pp. 377–393
+doi:10.4269/ajtmh.14-0291
+Copyright © 2015 by The American Society of Tropical Medicine and Hygiene
+Arboviruses in North Dakota, 2003–2006
+John F. Anderson,* Andy J. Main, Philip M. Armstrong, Theodore G. Andreadis, and Francis J. Ferrandino
+Department of Entomology and Center for Vector Biology and Zoonotic Diseases, The Connecticut Agricultural Experiment Station,
+New Haven, Connecticut; Department of Environmental Sciences, Center for Vector Biology and Zoonotic Diseases;
+Department of Plant Pathology and Ecology
+Abstract. To investigate arbovirus transmission in North Dakota, we collected and screened mosquitoes for viral
+infection by Vero cell culture assay. Seven viruses were isolated from 13 mosquito species. Spatial and temporal distribu-
+tions of the important vectors of West Nile virus (WNV), Cache Valley virus, Jamestown Canyon virus (JCV), and
+trivittatus virus are reported. Snowshoe hare virus, Potosi virus, and western equine encephalomyelitis virus were also
+isolated. The risks of Culex tarsalis and Aedes vexans transmitting WNV to humans were 61.4% and 34.0% in 2003–2006,
+respectively, but in 2003 when the largest epidemic was reported, risks for Ae. vexans and Cx. tarsalis in Cass County were
+73.6% and 23.9%, respectively. Risk of humans acquiring an infectious bite was greatest from about the second week of
+July through most of August. West Nile virus sequences were of the WN02 genotype. Most JCV strains belonged to a single
+clade of genetically related strains. Cache Valley virus and JCV were prevalent during August and early September and
+during July and August, respectively.
+INTRODUCTION
+Five arboviruses have been reported from North Dakota
+mosquitoes. Two of these viruses caused significant epidemics
+and epizootics in humans and in horses. Western equine
+encephalomyelitis virus (WEEV; Togaviridae: Alphavirus)
+infected 1,180 humans and caused 96 deaths in 1941.1
+Sixty-
+one years later in 2002, West Nile virus (WNV; Flaviviridae:
+Flavivirus) was introduced into North Dakota and caused
+disease in 17 humans and 577 horses followed by 617 human
+cases, five human deaths, and 42 equine cases during 2003.2
+Since then, North Dakota has reported human WNV cases
+every year and has one of the highest incidence rates of
+neuroinvasive disease in the country.2,3
+Other arboviruses
+identified in North Dakota include St. Louis encephalitis virus
+(SLEV; Flaviviridae: Flavivirus),4
+Cache Valley virus (CVV;
+Bunyaviridae: Orthobunyavirus),4
+and trivittatus virus (TVTV;
+Bunyaviridae: Orthobunyavirus).4
+Jamestown Canyon virus
+(JCV; Bunyaviridae: Orthobunyavirus), which has one of the
+widest geographical ranges in North America of the California
+serogroup of viruses, surprisingly, has previously not been docu-
+mented in North Dakota.4
+After the first report of WNV in North Dakota in 2002,2
+we
+established a mosquito and virus surveillance program in and
+around the eastern city of Fargo (Cass County) and near the
+town of Walcott (Richland County) in 2003–2005, and in the
+northwestern city of Williston in 2004–2006 (Williams County)
+(Figure 1). Additionally, collections were made for 3 days in
+July 2003 in the rural town of Lakota (Nelson County). Our
+objectives were to conduct an in-depth study of mosquitoes
+and their viruses throughout the spring and summer in
+selected locations in North Dakota. We report the isolation
+of seven viruses from 13 species of mosquitoes, the spatial and
+temporal distributions of the important vectors of the most
+abundant arboviruses, the relative risk of mosquito vectors in
+transmitting WNV to humans, the correlation of temporal
+numbers of human cases of WNV with mosquito abundance
+and infection rate, and a genetic analysis of WNV and JCV
+isolates from different mosquito species, years of isolation,
+and geographic locations.
+MATERIALS AND METHODS
+Mosquito collections and identification. Trapping of
+mosquitoes was done in Cass County in 2003–2005 and in
+Williams County in 2004–2006 (Figure 1). Fargo (46°52¢38²N/
+96°47¢21²W), a city of 110,000 people, is the county seat
+in Cass County and is located on the western side of the
+Red River, which runs along the North Dakota-Minnesota
+border. Williston (48°08¢49²N/103°37¢05²W), a city of about
+18,000 inhabitants, is the county seat in Williams County and
+is situated along the Missouri River near the North Dakota-
+Montana border. Mosquitoes were also collected in 2003 in
+Nelson County in the vicinity of Lakota, the county seat.
+Lakota (48°02²34²N/98°20¢10²W) is an agricultural commu-
+nity with < 700 inhabitants and is located in the northwestern
+portion of the county. Trapping in Lakota was discontinued
+after 3 nights because of inability to consistently obtain dry
+ice to supplement the traps. Mosquitoes were collected near
+Walcott (46°32¢52²N/96°56¢19²W) in Richland County, which
+is adjacent to the southern border of Cass County, in 2003–2005
+(Figure 1). Trapping was carried out from July 4 to September
+26, June 8 to October 6, May 24 to September 29, June 8 to
+September 7 in 2003, 2004, 2005, and 2006, respectively.
+In 2003, five distinct trapping sites were established north-
+east (two sites in Argusville, near the Sheyenne River
+(47°03¢08²N/96°20¢10²W)) and southwest (three sites in Horace
+(46°45¢32²N/96°54¢13²W) of Fargo and one site near Walcott.
+Trapping was not done in Fargo because of an extensive mos-
+quito control program initiated on the day traps were first
+placed in the field. Traps were often placed weekly at each
+location. Traps were set for 1 to 2 nights at 10 different loca-
+tions near Lakota.
+In 2004 and 2005, the same six trapping sites northeast and
+southwest of Fargo were continued. Three additional sites
+were established in Horace. Seven different geographically
+different sites were established within the City of Fargo in
+2004 and 2005.
+In 2004–2006, mosquitoes were trapped at six different
+locations immediately around Williston, ND. An additional
+site was trapped in 2004 and 2005. Trapping was not done
+*Address correspondence to John F. Anderson, The Connecticut
+Agricultural Experiment Station, P.O. Box 1106, New Haven, CT
+06504. E-mail: John.F.Anderson@Ct.gov
+377
+within the city because of relatively frequent spraying of
+insecticides for the control of mosquitoes.
+Mosquitoes were collected with Centers for Disease Con-
+trol and Prevention (CDC) miniature light traps baited with
+dry ice (model 512; John W. Hock Co., Gainesville, FL).5
+Traps were placed about 0.9 m off the ground in the afternoon
+or evening and collected the following morning. Mosquitoes
+were knocked down in the field or laboratory with dry ice
+or freezing temperatures, aspirated, and transferred into a
+17
++
+55 mm flat-bottomed shell vial that was sealed with a
+rubber stopper. Three layers of water and gas-proof tape were
+used to seal the juncture of the rubber stopper and vial. The
+vial was appropriately labeled and immediately stored on dry
+ice or in a −80°C freezer until packaged in dry ice within a
+Styrofoam shipping container and sent by overnight mail to
+The Connecticut Agriculture Experiment Station (CAES).
+Mosquitoes were stored at CAES in a −80°C freezer until
+processing. Extremely large collections were placed in 0.47 L
+or 0.24 L Mason jars that were sealed with three layers of
+water and gas-proof tape.
+Mosquitoes were identified to species.6,7
+Specimens were
+placed on a cold platform and, with the aid of a dissecting
+microscope, each specimen was identified. Mosquitoes were
+placed into pools according to species, date, and trap location.
+Pools contained from 1 to 50 mosquitoes. After identification
+and pooling, mosquitoes were kept on regular ice until
+attempted isolation of virus on the same day.
+Virus isolation. Mosquitoes were ground in 0.5 to 1.25 mL
+of phosphate-buffered saline containing 0.5% gelatin,
+30% rabbit serum, and 1% 100
++
+antibiotic-antimycotic
+(10,000 units mg/mL of streptomycin sulfate, and 25 mg/mL of
+amphotericin B, Invitrogen, Carlsbad, CA, in 0.85% saline).
+Mosquitoes and saline were placed in a 2.5 mL plastic centri-
+fuge vial containing a copper BB pellet. A Vibration Mill MM
+300 (Retsch Laboratory, Irvine, CA) set at 30 cycles per sec-
+ond and operated for 4 minutes was used inside a biosafety
+hood to macerate mosquitoes.
+After centrifugation at 4°C for 7 minutes at 520
++
+g, a 100 mL
+sample of supernatant was placed onto a monolayer of Vero
+cells, growing in 4 mL of Minimum Essential Medium
+containing fetal bovine serum, glutamine, and antibiotic-
+antimycotic (Invitrogen), set up the day before in a 25-cm2
+flask kept in a 5% CO2 incubator set at 37°C. Growth
+medium in each flask was decanted before addition of the
+inoculum. The flask was rocked for 5 minutes before 4 mL of
+new growth medium was added to the flask. After flasks were
+returned to the incubator, cells were examined for cytopatho-
+genic effects (CPE) 3–7 d after inoculation.
+Virus identification. Many viral isolates were identified
+by virus-dilution serum constant-neutralization tests. Virus
+dilutions from 10−4
+to 10−6
+were incubated with a panel of
+hamster antisera (1:10) directed against JCV, La Crosse virus
+(LACV; Bunyaviridae, Orthobunyavirus), snowshoe hare
+virus (SSHV; Bunyaviridae, Orthobunyavirus), Keystone
+virus (KEYV; Bunyaviridae, Orthobunyavirus), CVV, Potosi
+virus (POV; Bunyaviridae, Orthobunyavirus), Jerry Slough
+virus (JSV; Bunyaviridae, Orthobunyavirus) or hyperimmune
+mouse ascetic fluids (1:10) against eastern equine encephalo-
+myelitis virus (EEEV; Togaviridae: Alphavirus), Highlands
+J virus (HJV; Togaviridae: Alphavirus), TVTV, WEEV, or
+WNV for 1 hour at 37°C. The virus–serum mixtures were
+then assayed for neutralizing activity by infecting Vero cell
+cultures and screening them for CPE.8
+West Nile virus also was identified by a TaqMan reverse
+transcriptase-polymerase chain reaction (RT-PCR) assay.
+The QIAamp viral RNA mini kit protocol (Qiagen, Valencia,
+CA) was used to extract RNA from a 70 mL sample of infec-
+tious Vero cell-growth medium. The RT-PCR protocol was
+used to identify isolates of WNV.9
+The positive RNA control
+for WNV was from an isolate from Culiseta melanura (8094-01)
+that had been diluted 1:100. Its cycle threshold was 21 to 22.
+Double processed sterile water (Sigma, St. Louis, MO) was
+used as the negative control. Primers and probe for WNV
+used in the TaqMan RT-PCR assay were prepared by
+QIAGEN. Primers were WNENV-forward 1160-1180
+(5¢-TCAGCGATCTCTCCACCAAAG-3¢) and WNENV-
+reverse 1229-1209 (5¢-GGGTCAGCACGTTTGTCATTG-3¢)
+with probe WNENV 1186-1207 (5¢-TGCCCGACCATGG-
+GAGAAGCTC-3¢).9
+The probe had the 5¢ end labeled with
+FAM reporter dye and the 3¢ end labeled with TAMRA
+quencher dye. Primers, probe, and viral RNA were added to
+the reagents in the TaqMan RT-PCR Ready-Mix Kit (PE
+Applied Biosystems, Branchburg, NJ). Each isolate was pre-
+pared for testing by adding 2.5 mL of viral RNA, 0.25 mL of
+100 mM of each primer, 0.15 mL of 25 mM of probe, 12.5 mL of
+2
++
+buffer, 0.5 mL of RT-PCR enzyme, and 8.85 mL of water to
+a microcentrifuge tube for a total volume of 25 mL. Samples
+were amplified with a Smart Cycler that was run with Smart
+Cycler software (Cepheid, Sunnyvale, CA). Amplification
+included one cycle at 50°C for 20 min, one cycle at 95°C for
+10 min, and 50 cycles at 95°C for 15 sec, and at 60°C for
+60 sec. Isolates with a cycle threshold value of < 37 were
+identified as WNV.
+Four Orthobunyavirus isolates (JCV, POTV, CVV, and
+TVTV) also were identified by RT-PCR. RNA was extracted
+from primary viral isolates using the viral RNA Kit (Qiagen),
+and RT-PCR was performed using the Titan One-Tube RT-
+PCR System (Roche Diagnostics, Indianapolis, IN). Primers
+BUNS+new: 5-TGACCAGTAGTGTACTCCAC-3_ and
+BUNS-new: 5_-CAAGCAGTAGTGTGCTCCAC-3_ that
+targeted the conserved terminal ends of the S-segment of the
+Orthobunyavirus genus were used as previously described.10,11
+The amplification product of each unknown virus was digested
+with one or more of four restriction enzymes in separate
+Figure 1. North Dakota Counties where mosquito traps
+were placed.
+378 ANDERSON AND OTHERS
+reactions. The master mix for each restriction enzyme
+consisted of 13.55 mL of water, 2.0 mL 10
++
+reaction buffer,
+0.2 mL 100
++
+BSA, and 0.25 mL of the specific restriction
+enzyme to which was added 4 mL of the amplified reagent
+and then incubated overnight at 37°C.
+Each digestion product was separated on a 2% agarose gel
+and stained with ethidium bromide. The restriction enzymes
+used and their fragment sizes for specific viruses were as
+follows: EcoRV cut JCV at 364 bps and 627 bps, CAC81
+severed POTV at 256 bps and 677 bps, Swal cut CVV at
+411 bps and 539 bps, and Xhol cut TVTV at 233 bps and 740 bps.
+Alternatively for isolates that could not be specifically iden-
+tified using restriction enzymes or that were not identified by
+virus-dilution serum constant-neutralization tests, amplifica-
+tion products were purified using the PCR purification kit
+(Qiagen) and commercially sequenced at the DNA Analysis
+Facility (Yale University, New Haven, CT). Edited nucleotide
+sequences were compared with those available on GenBank
+using the Blastn search algorithm http://blast.ncbi.nlm.nih.gov/
+Blast.cgi.
+Genetic analyses of West Nile virus. The NS3 gene of WNV
+was selected for analysis because this gene was previously
+shown to have a strong phylogenetic signal.12
+The RNA was
+extracted from primary viral isolates using the Viral RNA Kit
+(Qiagen). The RT-PCR was performed using the Titan One-
+Tube RT-PCR System (Roche Diagnostics, Indianapolis, IN)
+and primers WNV4532f (TCGCGATTAGTGCGTACACC)
+and WNV6516r (GAAGTGCTCAGGCATCTTTCC). Ampli-
+fication was performed as follows: 1 cycle of 50°C for 30 min
+and 94°C for 2 min, 10 cycles of 94°C for 15 sec, 55°C for
+30 sec, and 68°C for 2 min, followed by 25 cycles of 94°C for
+15 sec, 55°C for 30 sec, and 68°C for 2 min + 5 sec per cycle,
+and 1 cycle of 68°C for 7 min. The PCR products (length =
+1,984 bps) were commercially sequenced at the Yale DNA
+Analysis Facility and edited sequences were aligned using
+the ClustalW algorithm in MEGA 5.13
+A phylogenetic tree
+was reconstructed by maximum-likelihood (ML) analysis
+in MEGA using the substitution model TN93 + G. The
+optimal nucleotide substitution model was identified after
+performing ML fits of 24 different models in MEGA. Support
+for individual nodes was obtained by performing 1,000 boot-
+strap replicates.
+Genetic analyses of Jamestown Canyon, snowshoe hare,
+and trivittatus viruses. The RNA was extracted from primary
+virus cultures, the S segment was amplified by RT-PCR, and
+amplification products were purified and sequenced accord-
+ing to previously described methods.14
+A total of 48 sequences
+were combined with another 19 sequences available on
+GenBank and aligned using MEGA. The final alignment
+consisted of 832 characters that included the nucleocapsid
+open reading frame and flanking portions of the 5¢ and 3¢
+non-coding regions. Phylogenetic analysis was performed by
+ML analysis as described earlier for WNV sequences except
+using a different substitution model (T92 + G+I) that was
+selected after performing ML fits in MEGA.
+GenBank. The WNV, JCV, SSHV, and TVTV edited
+nucleotide sequences were submitted to GenBank (accession
+nos. KM215518–KM215607).
+Statistics. The field infection rates for each species of mos-
+quito infected with a specific virus within Cass, Richland,
+Nelson, or Williams Counties for each week and year was
+determined per 1,000 specimens using the bias-corrected max-
+imum likelihood estimation method.15
+Relative risk of infected vectors transmitting WNV to
+humans in North Dakota in 2003–2006 was assessed using
+information on mosquito abundance, infection rate, vector
+competence, and biting behavior.16
+Relative abundance was
+determined by dividing the total numbers of a specific species
+captured during the 4-year study by the total number of mos-
+quitoes collected and identified (Table 1). It is noteworthy
+that relative abundance was determined from numbers of
+mosquitoes captured in CDC miniature light traps placed rel-
+atively near the ground and may not reflect the abundance of
+specific species feeding on humans. Infection rate was deter-
+mined using a previously published formula.15
+Vector compe-
+tence (fraction of infected mosquitoes that will transmit virus
+in a later feeding) was obtained from previously published
+studies on specific species. The fraction of blood meals of
+specific species that contained mammalian blood published
+by others was used as a relative estimate of the likelihood of
+the species feeding on humans. Humans shelter themselves
+from mosquitoes and have significantly less exposure to mos-
+quitoes compared with wild and large domestic mammals.
+The use of the fraction of specimens feeding on mammals is a
+Table 1
+Thirteen mosquito species infected with virus,* North Dakota, 2003–2006
+Species
+Number of specimens by year
+Totals Percent
+2003 2004 2005 2006
+Aedes cinereus 0 593 5,867 218 6,678 0.2
+Aedes vexans 223,693 519,443 1,477,623 591,152 2,811,911 83.2
+Anopheles earlei 21 6 72 79 178 < 0.1
+Coquillettidia perturbans 1,021 1,574 2,199 246 5,040 0.2
+Culex tarsalis 3,028 20,608 48,615 478 72,729 2.2
+Culiseta inornata 983 6,336 21,566 508 29,393 0.9
+Ochlerotatus dorsalis 2,511 15,279 36,953 1,375 56,118 1.7
+Ochlerotatus flavescens 579 463 938 310 2,290 0.1
+Ochlerotatus melanimon 403 8,381 35,559 46,306 90,649 2.7
+Ochlerotatus spencerii 0 479 368 26 873 < 0.1
+Ochlerotatus sticticus 176 7,555 25,985 416 34,132 1.0
+Ochlerotatus triseriatus 95 56 106 0 257 < 0.1
+Ochlerotatus trivittatus 16,017 94,904 135,873 12,757 259,551 7.7
+Other species* 393 1,751 3,274 2,666 8,084 0.2
+Totals 248,920 677,428 1,794,998 656,537 3,377,883
+*Viruses were not isolated from 21 species; these species are not listed.
+ARBOVIRUSES IN NORTH DAKOTA 379
+relative estimate of the approximation that a specific species
+would feed on humans.16
+All mosquito species reported in
+this study feed on humans.
+A vector index was used to correlate weekly numbers of
+documented WNV-infected humans with mosquito abundance
+and infection rate.17
+Human cases were recorded as the num-
+ber for a specific week and were plotted at the middle of that
+week (numbers were reported at the end of the week by the
+North Dakota Department of Health).18
+The average numbers
+of a specific vector per trap-night per week were multiplied by
+its infection rate (IR)/1,000 to give the vector index, the aver-
+age number of infected mosquitoes per trap-night.
+RESULTS
+Mosquitoes. A total of 3,377,883 specimens representing
+34 species were collected and identified in 2003–2006 (Table 1).
+Data for mosquito species (N = 21) that did not yield virus
+are not included. Aedes vexans was dominate throughout the
+state and represented 83.2% of the specimens identified.
+Ochlerotatus trivittatus, Ochlerotatus melanimon, Culex tarsalis,
+and Ochlerotatus dorsalis made up 7.7%, 2.7%, 2.2%, and 1.7%,
+respectively.
+Viruses. Seven distinct viruses were identified among the
+816 isolates (Table 2). Trivittatus virus (46.4%), WNV
+(22.8%), CVV (18.5%), and JCV (10.8%) were the most
+prevalent. Trivittatus virus was isolated from mosquitoes col-
+lected from June 2 through the week of October 6. The other
+viruses tended to be isolated from mosquitoes collected from
+mid to late June and early July through the second week of
+September. Potosi virus was an exception and was isolated
+during the weeks of August 18 through September 22.
+Viruses were isolated from 13 species of mosquitoes (Table 3).
+The largest numbers of viral isolations were from Oc. trivittatus
+(N = 313), Ae. vexans (N = 289), and Cx. tarsalis (N = 131).
+Six different viral species were isolated from Ae. vexans
+(CVV, JCV, POTV, SSHV, TVTV, and WNV). Five different
+viruses were isolated from Cx. tarsalis (CVV, JCV, TVTV,
+WNV, and WEEV), Oc. dorsalis (CVV, JCV, POTV,
+TVTV, and WNV), and Oc. trivittatus (CVV, JCV, SSHV,
+TVTV, and WNV). Four and three different viruses were
+isolated from Culiseta inornata (CVV, JCV, POTV, and
+WNV) and Ochlerotatus flavescens (CVV, JCV, and WNV).
+West Nile virus. This invasive Flavivirus was isolated in
+2003–2006 from five genera and nine species collected in
+Nelson, Cass, Richland, and Williams Counties (Tables 2
+and 3). The largest numbers of isolations were from Cx. tarsalis
+(N = 121) and Ae. vexans (N = 55). The WNV IR per thousand
+pooled mosquitoes for all species by year and county are shown
+in Supplemental Table 1. Culex tarsalis and Ae. vexans IRs by
+county and year ranged from 1.12 to 12.26 and < 0.01 to 0.19
+per thousand specimens, respectively.
+Culex tarsalis was collected from the first week of June into
+the first week of October (Figure 2A). Largest numbers were
+collected from the week June 30 through the week August 4
+when numbers per trap-night averaged 134 to 239. West Nile
+virus was isolated from Cx. tarsalis from the last week of June
+through the second week of September. Eighty-eight percent
+of the isolations from Cx. tarsalis were made during a 7-week
+period from the week beginning July 14 through the week
+Table 2
+Viruses isolated from mosquitoes collected in Nelson, Cass, Richland, and Williams Counties, North Dakota, 2003–2006
+Virus
+Year and Counties
+Total
+2003 2004 2005 2006
+Nelson Cass Richland Cass Richland Williams Cass Richland Williams Williams
+West Nile 2 37 1 19 0 13 67 0 41 6 186
+Trivittatus 0 35 11 85 1 14 123 4 73 33 379
+Jamestown Canyon 5 11 1 10 0 1 14 0 44 2 88
+Cache Valley 1 1 0 0 0 0 53 0 96 0 151
+Snowshoe Hare 0 0 0 1 0 0 3 0 0 0 4
+Western Equine Encephalomyelitis 0 0 0 0 0 2 0 0 0 0 2
+Potosı́ 0 0 0 0 0 0 6 0 0 0 6
+Total 8 84 13 115 1 30 266 4 254 41 816
+Table 3
+Seven viruses isolated from 13 species of mosquitoes, North Dakota, 2003–2006
+Species
+Viruses
+Cache Valley Jamestown Canyon Potosi Snowshoe Hare Trivittatus West Nile Western Equine Encephalomyelitis Total
+Aedes cinereus 3 0 0 0 0 0 0 3
+Aedes vexans 92 58 4 3 77 55 0 289
+Anopheles earlei 1 0 0 0 0 0 0 1
+Coquillettidia perturbans 0 0 0 0 0 1 0 1
+Culex tarsalis 4 2 0 0 2 121 2 131
+Culiseta inornata 27 4 1 0 0 2 0 34
+Ochlerotatus dorsalis 15 8 1 0 1 1 0 26
+Ochlerotatus flavescens 1 1 0 0 0 1 0 3
+Ochlerotatus melanimon 6 2 0 0 1 0 0 9
+Ochlerotatus spencerii 0 0 0 0 0 1 0 1
+Ochlerotatus sticticus 0 1 0 0 3 0 0 4
+Ochlerotatus triseriatus 0 0 0 0 0 1 0 1
+Ochlerotatus trivittatus 2 12 0 1 295 3 0 313
+Total 151 88 6 4 379 186 2 816
+380 ANDERSON AND OTHERS
+beginning August 25. The IRs for Cx. tarsalis tended to
+increase as the season progressed from 0.93 per thousand
+specimens on June 30 to 8.07 and 5.64 during the weeks of
+September 1 and 8.
+Aedes vexans averaging 2,705 per trap-night were collected
+during the week of June 2 and continued to be collected
+through the week of October 6 (Figure 2B). Populations aver-
+aged 5,083 to 9,394 specimens per trap-night from the week of
+June 16 through the week of July 14. Numbers averaged 1,270
+per trap-night during the week of September 15. West Nile
+virus was first isolated from Ae. vexans during the week of
+June 16, but consistent isolations began during the week of
+Figure 2. (A) Weekly number of West Nile virus isolations and infection rates (IR) relative to mean numbers of Culex tarsalis per trap-night,
+North Dakota, 2003–2006. (B) Weekly number of West Nile virus isolations and infection rates relative to mean numbers of Aedes vexans per
+trap-night, North Dakota, 2003–2006.
+ARBOVIRUSES IN NORTH DAKOTA 381
+July 7 and continued through the week of September 8.
+Eighty-four percent of the 55 isolations were obtained during
+a 5-week period from July 7 through the week of August 4.
+Smaller numbers of isolations were made from Coquillettidia
+perturbans, Cs. inornata, Oc. dorsalis, Oc. flavescens,
+Oc. spencerii, Ochlerotatus triseriatus, and Oc. trivittatus
+(Table 3, Supplemental Table 1). West Nile virus was isolated
+from Oc. dorsalis during the week of June 16.
+The risk of seven infected species for transmitting WNV to
+humans in North Dakota was assessed using a risk-assessment
+method, which used information on mosquito abundance,
+infection rate, vector competence, and biting behavior (Sup-
+plemental Table 2).16
+The greatest seasonal risk of 61.4% was
+from Cx. tarsalis. The second largest risk was from Ae. vexans
+with a value of 34.0%. The risks of five other species were
+much lower, £ 1.8%.
+We evaluated the importance of specific species on trans-
+mission of WNV in Cass County during the years of 2003–
+2005. Mosquitoes were trapped at the same five trapping sites
+during the 3 years when numbers of human cases in Cass
+County were 32, 0, and 12. The risks of the five species that
+were infected are shown in Supplemental Table 3. The largest
+number of human cases was in 2003 when the risks of being
+bitten by infected Ae. vexans and Cx. tarsalis were 73.6% and
+23.9%. In 2004 and 2005, risks of being infected by Ae. vexans
+were 24.8% and 17.3% and by Cx. tarsalis were 61.3% and
+76.6%, respectively, when numbers of human cases were 0
+and 12. The IRs for Ae. vexans were 9.5 and 6.3 times greater
+in 2003 than in 2004 and 2005, respectively. The IRs for
+Cx. tarsalis were 5.6 and 2.6 times greater in 2003 than in
+2004 and 2005. These data suggest that infected Ae. vexans
+participated in vectoring WNV in North Dakota in 2003 when
+617 people were documented to have been infected.
+Dates of onset of humans infected with WNV and the
+weekly numbers of isolations of WNV from all mosquitoes
+for 2003–2006 are shown in Figure 3. The earliest human case
+was reported during the week of May 26 and the last cases
+were reported during the week of October 6. A steady
+increase in numbers of human cases began in mid-June and
+peaked during the last week of August with a 182 cases. West
+Nile virus was first isolated on June 16. Numbers of isolations
+increased from the last week of June through July and peaked
+on August 4, when 42 isolations were made, 2 to 3 weeks
+before the peaks of human cases. The decline of human cases
+beginning during the week of September 1 followed by
+3 weeks the reduction in numbers of isolations that began
+during the week of August 11.
+The weekly risk of humans being bitten by an infectious
+mosquito was also evaluated (Supplemental Table 4). The
+risks of being bitten by Cx. tarsalis were greater than being
+bitten by Ae. vexans and five other vector species during most
+weeks beginning in mid-July through August. However dur-
+ing this time period, the weekly risk of being bitten by infec-
+tious Ae. vexans plus the lesser important vectors varied from
+10.3% to 57.8%.
+We compared the weekly vector indexes for Cx. tarsalis,
+Ae. vexans, and the seven other vectors to the onset of human
+cases for 2003–2006 (Figure 4).17
+The weekly vector index for
+all vectors exceeded two only in 2003 when the largest out-
+break of West Nile fever erupted with 617 cases. The weekly
+vector indexes for Ae. vexans in 2003 were greater than
+indexes for Cx. tarsalis the last 2 weeks of July through the
+first week of August, and were similar during the second and
+third weeks of August (Figure 4, Supplemental Table 5). The
+vector index for all species combined in 2003 exceeded one
+during the third week of July and exceeded two during the last
+Figure 3. Relation between onset of human disease and total number of West Nile virus isolates from all mosquito species, North Dakota,
+2003–2006.
+382 ANDERSON AND OTHERS
+week of July and first week of August. The increasing onset
+of human disease of 75 to 171 cases per week lagged by about
+2 to 3 weeks the increasing vector index. The weekly vector
+indexes in the years 2004–2006, when numbers of human
+cases varied from 20 to 137, exceeded one only in 1 week in
+2005 (Figure 4, Supplemental Tables 6–8). Cx. tarsalis had a
+higher weekly vector index compared with Ae. vexans during
+most weeks during these 3 years. The composite weekly vec-
+tor indexes during 2003–2006 for Cx. tarsalis were similar to
+those for Ae. vexans plus the other vectors from the middle of
+Figure 4. Stacked area graphs showing weekly vector index for Culex tarsalis, Aedes vexans, and seven other species relative to
+weekly numbers of human cases diagnosed with West Nile virus infection 2003, 2004, 2005, 2006, and 2003–2006. The other species were
+Coquillettidia perturbans, Culiseta inornata, Ochlerotatus dorsalis, Ochlerotatus flavescens, Ochlerotatus spencerii, Ochlerotatus triseriatus, and
+Ochlerotatus trivittatus.
+ARBOVIRUSES IN NORTH DAKOTA 383
+Figure 5. Phylogenetic tree depicting relationships of WNV isolates from North Dakota based on ML analysis of NS3 sequences.
+Branch lengths are proportional to the number of nucleotide substitutions. Numbers at node indicate bootstrap P values ³ 50%.
+384 ANDERSON AND OTHERS
+June through the last week of July, but weekly vector indexes
+throughout August were higher for Cx. tarsalis (Figure 4,
+Supplemental Table 9).
+Figure 5 depicts the ML tree of WNV sequences from
+North Dakota. The overall topology is consistent with prior
+analyses and shows that viruses segregate into two major
+groups termed the NY99 and WN02 genotypes in North
+America.19,20
+Earlier WNV isolates from the northeastern
+United States form the NY99 genotype, whereas later strains
+from North Dakota and the rest of the US cluster into the
+WN02 genotype.
+Cache Valley virus. This Bunyamwera serogroup virus of
+the genus Orthobunyavirus was isolated from mosquitoes cap-
+tured in 2003 and 2005 but not in 2004 and 2006 (Table 2).
+Single pools of Cs. inornata collected on July 4 in Nelson
+County and of Oc. trivittatus collected on July 22 in Cass
+County yielded positive Vero cell cultures in 2003. In 2005,
+CVV was widespread and prevalent in both eastern (Cass
+County) and western (Williams County) North Dakota. Pools
+from five genera and nine species were positive for CVV
+(Table 3). The largest numbers of isolations were from
+Ae. vexans (N = 92), Cs. inornata (N = 27), and Oc. dorsalis
+(N = 15). The IRs for each species by year and county are
+shown in Supplemental Table 10 and ranged from 0.03 in
+Oc. trivittatus to 16.55 in Anopheles earlei in Williams County,
+and from 0.04 in Ae. vexans to 1.94 in Cs. inornata in Cass
+County. Ninety-seven percent of the isolations were made
+during the weeks of August 1 through September 8 (Figure 6).
+The weekly IRs were relatively high during this 6-week
+period, ranging from 0.14 to 1.09. Most isolations of CVV
+were made in August and early September when mosquito
+populations were significantly reduced from mid-June
+through mid-July.
+Jamestown Canyon virus. This widely distributed
+Orthobunyavirus in the United States was isolated in 2003–
+2006 from mosquitoes captured in four counties (Table 2).
+Eighty-eight isolations were made from four genera and eight
+species (Table 3). The largest numbers of isolations were from
+Ae. vexans (N = 58), Oc. trivittatus (N = 12), and Oc. dorsalis
+(N = 8) (Table 3). The IRs for year and county ranged
+from 0.01–0.08, 0.02–0.51, and 0.07–1.21 for Ae. vexans,
+Oc. trivittatus, and Oc. dorsalis, respectively (Supplemental
+Table 11). Isolations were made from mosquitoes collected
+from the week of June 30 through the week of September 8
+(Figure 7). Ninety-eight percent of the isolations were from
+mosquitoes collected from the week of June 30 through the
+week beginning August 25.
+Phylogenetic analysis of 44 isolates of JCV showed that the
+vast majority belonged to a single clade of genetically related
+strains (Figure 8). Forty-one isolates from seven species, four
+different counties, and four different years were similar to the
+lineage A isolates from Connecticut.14
+Three isolates sorted
+by phylogenetic analysis and by virus-dilution serum constant-
+neutralization tests were the Jerry Slough variant of JCV.
+Trivittatus virus. This California encephalitis virus was the
+most frequently isolated virus (Table 2). The 379 isolates were
+from three genera and six species collected in Cass, Williams,
+and Richland Counties in 2003–2006 (Table 3). Two-hundred
+ninety-five and 77 of the isolates were from Oc. trivittatus and
+Ae. vexans, respectively. The IRs for Ochlerotatus trivittatus
+and Ae. vexans by year and county ranged from 0.70 to 5.09
+and 0.01 to 0.42, respectively (Supplemental Table 12).
+Figure 6. Weekly numbers of Cache Valley virus isolations and infection rates (IR) relative to the mean number per trap-night of Aedes vexans,
+Aedes cinereus, Anopheles earlei, Culex tarsalis, Culiseta inornata, Ochlerotatus dorsalis, Ochlerotatus flavescens, Ochlerotatus melanimon, and
+Ochlerotatus trivittatus, North Dakota, 2005.
+ARBOVIRUSES IN NORTH DAKOTA 385
+Virus was isolated from Oc. trivittatus from early June to
+early October in 2003–2006 (Figure 9). Ninety-seven percent
+of the isolates were from early June through the week of
+August 4. Weekly IRs was equal to or > 0.39. No isolates were
+obtained during the weeks of September 8, 15, and 29. One
+pool of 50 specimens was dually infected with TVTV and WNV.
+Aedes vexans infected with TVTV were collected from
+June 8 through August 5. Two isolates from Ae. vexans were
+shown by phylogenetic analysis to be similar to the prototype
+strain isolated from Oc. trivittatus and distinctly different from
+JCV (Figure 8).21
+Western equine encephalomyelitis virus. This native
+Alphavirus was isolated from two pools of Cx. tarsalis col-
+lected on August 3 and August 10, 2004 in Williams County
+(Tables 2 and 3). The IR was 0.30 (Supplemental Table 13).
+Snowshoe hare virus. This California encephalitis virus was
+isolated in Cass County from one pool of Oc. trivittatus col-
+lected on July 1, 2004 and from three pools of Ae. vexans
+collected on July 13, 2005 (Tables 2 and 3, Supplemental
+Table 13). The IR for both species was 0.01. Two isolates from
+Ae. vexans were phylogenetically similar to the snowshoe
+hare virus (Figure 8).
+Potosi virus. This Orthobunyavirus was isolated from three
+species collected in Cass County from August 22 through
+September 28, 2005 (Table 2 and 3, Supplemental Table 13).
+Four isolations were from Ae. vexans (IR = 0.01). Single
+isolations were from Oc. dorsalis (IR = 0.04) and from
+Cs. inornata (IR = 0.08).
+DISCUSSION
+Seven species of viruses circulated among 13 species of
+North Dakota mosquitoes during 2003–2006 (Tables 2
+and 3). Five of the viruses cause human disease: WNV,
+JCV, CVV, SSHV, and WEEV. West Nile virus was isolated
+from four North Dakota counties in 2003–2006 (Table 2).
+Cache Valley virus was isolated from three counties in 2003
+and in 2005. Jamestown Canyon virus was isolated from
+three counties in 2003–2006. Snowshoe hare virus and WEEV
+were isolated from one county each in 2004 and 2005 and
+in 2004, respectively.
+Culex tarsalis and Ae. vexans were both important vectors
+of WNV in North Dakota. This virus was isolated from nine
+species of mosquitoes and multiple isolations were made from
+Figure 7. Weekly numbers of Jamestown Canyon virus isolations and infection rates (IR) relative to the mean number per trap-night of
+Aedes vexans, Culex tarsalis, Culiseta inornata, Ochlerotatus dorsalis, Ochlerotatus flavescens, Ochlerotatus melanimon, Ochlerotatus sticticus,
+and Ochlerotatus trivittatus, North Dakota, 2003–2006.
+386 ANDERSON AND OTHERS
+Figure 8. Phylogenetic tree showing relationships of Jamestown Canyon, snowshoe hare, and trivittatus viruses from North Dakota based
+on ML analysis of S-segment nucleotide sequences. Branch lengths are proportional to the number of nucleotide substitutions. Bootstrap
+P values ³ 50% are given only at major nodes for clarity.
+ARBOVIRUSES IN NORTH DAKOTA 387
+four species, but Cx. tarsalis and Ae. vexans accounted for
+95.4% of the total risk for the years 2003–2006 (Supplemental
+Table 2).16
+The relatively high IR for Cx. tarsalis and the
+abundance of Ae. vexans accounted for their relatively high
+risks. Culex tarsalis was the more important with a risk factor
+of 61.4%. However, the largest epidemic of WNV infection in
+North Dakota was recorded in 2003, and in Cass County with
+32 cases, humans had a greater risk of being bitten by infected
+Ae. vexans (73.6%) (Supplemental Table 3). The abundance
+and relatively high IR of 0.19 per thousand tested mosquitoes
+accounted for the risk of Ae. vexans transmitting WNV to
+humans in 2003. Previous laboratory and field studies identi-
+fied Cx. tarsalis as one of the most important vectors in west-
+ern United States,22–25
+including North Dakota.26
+Our current
+investigations confirm this conclusion, but we also documented
+Ae. vexans to be an important vector. Previously, WNV was
+detected only in Cx. tarsalis in North Dakota.26,27
+Unlike
+studies elsewhere in the United States where Ae. vexans was
+not as abundant,28–30
+numbers per trap-night in North Dakota
+averaged > 1,890 from June 2 through the week of August 4
+and averaged as high as 9,393 per trap-night during the week
+of July 7 (Figure 2B).
+Culex tarsalis feeds on both birds and mammals,31–35
+including humans.36
+It was relatively abundant in North
+Dakota from the end of June through the end of August, had
+a relatively high IR during the summer, is efficient in trans-
+mitting this virus horizontally,22,24,25,37
+and is relatively effi-
+cient in transmitting this virus vertically.24,38,39
+Culex tarsalis
+was collected during the weeks of June 2 to October 6, similar
+to collections made in Grand Forks, North Dakota,26
+but
+populations were highest from the week of June 30 through
+August ranging from 63.9 to 239.4 per trap-night (Figure 2A).
+The Cx. tarsalis weekly risk and vector index was dominant
+during August except in 2003 (Supplemental Tables 4–9,
+Figure 4). These data were similar to those reported in Grand
+Forks, ND.26,27
+The IR was near or greater than three per
+thousand specimens, and populations were relatively abun-
+dant (Figure 2A). The IR increased in early September, but
+populations were drastically reduced and risk of transmission
+reduced. It is noteworthy that Cx. pipiens, which is a relatively
+important vector in Illinois and Colorado,17,40
+was not preva-
+lent in our collections in North Dakota, although we did not
+use gravid traps to collect mosquitoes.41
+Aedes vexans is the most abundant mosquito in North
+Dakota,42
+and it is an aggressive feeder on humans.43
+Infected
+specimens with WNV were collected during the same weeks
+of summer as were Cx. tarsalis (Figure 2A, B), and females
+with a disseminated infection transmit the virus by bite.37
+It
+primarily feeds on mammals, particularly large mammals, and
+infrequently feeds on birds.31,44–46
+More than 1,850 specimens
+were captured per trap-night from early June through the first
+week of August, and more than a 1,000 specimens were col-
+lected per trap-night in mid-September. Weekly risk of being
+bitten by infected specimens ranged from 36.2% to 74.0%
+during most of July and the first week of August, but declined
+to 10.3–14.5% for the remainder of August (Supplemental
+Table 4). It increased to 35.5% and 60.0% in early September.
+Aedes vexans may become infected by feeding on small or
+Figure 9. Weekly numbers of trivittatus virus isolations and infections rates (IR) relative to the mean number per trap-night of Ochlerotatus
+trivittatus, North Dakota, 2003–2006.
+388 ANDERSON AND OTHERS
+medium-sized mammals, which have been reported to have
+specific antibodies to WNV,47
+shown to produce viremias
+sufficient to infect mosquitoes,48–51
+and found naturally
+infected in the field.52
+The risk that humans will acquire an infectious bite was
+greatest from the middle of July through the end of August
+with transmission still occurring in early September (Supple-
+mental Table 4). The vector index was highest from the mid-
+dle of July through the end of August (Supplemental Table 9,
+Figure 4). Increasing vector indexes preceded onset of
+human symptoms by 2 to 3 weeks. This time-lag results from
+a 7–14-day delay for symptoms to appear and a several day
+WNV extrinsic incubation period in the mosquito.53,54
+With the exceptions of weeks June 16, July 7, July 28, and
+September 8, human risk of being bitten by infected
+Cx. tarsalis during the weeks of June 30 through September 8
+was greater than being bitten by other vector species, includ-
+ing Ae. vexans. Nonetheless, the weekly risk of being bitten by
+an infectious Ae. vexans plus other vector species, other than
+Cx. tarsalis, from mid-July through August ranged from
+10.3% to 57.8%. Vector indexes were also relatively high for
+Cx. tarsalis during mid-July through August. The earliest
+human cases may have resulted from bites from Ae. vexans
+and Oc. dorsalis, which were relatively abundant during June.
+Alternatively, humans may have been bitten by Cx. tarsalis
+that overwintered as adults and were vertically infected.24,38,39
+West Nile virus has been isolated from overwintering
+Cx. pipiens and has been shown to survive winter in unfed,
+vertically infected Cx. pipiens with amplification initiated
+in the spring by horizontal transmission.55,56
+Human cases
+reported in October may have resulted from bites by infected
+Cx. tarsalis or Ae. vexans.
+Phylogenetic analysis of WNV sequences of isolates made
+from 2003 to 2006 showed that strains circulating in North
+Dakota were members of the WN02 genotype (Figure 5).
+These findings are consistent with those reported elsewhere
+in the United States.19,20
+Five of the viruses belong to the genus Orthobunyavirus in
+the family Bunyaviridae. Cache Valley virus, originally iso-
+lated from Cx. inornata collected in Cache Valley, Utah in
+1956,57
+has been reported from four Canadian provinces,
+22 states, including North Dakota, northern Mexico, and
+Jamaica.58–60
+Our isolations of CVV from Ae. vexans,
+Cs. inornata, Oc. dorsalis, and six other species (Table 3,
+Supplemental Table 10) are consistent with previous findings
+of its presence in several species of mosquitoes and from
+mammals, including humans.58,61
+It causes congenital defects
+in fetal or neonatal sheep and cattle,62,63
+including those in
+North Dakota,64
+has caused disease in humans,61,65,66
+and it
+may be responsible for birth defects in humans.67
+Cache Valley virus was isolated in two of the four years
+sampled and was prevalent only in 2005 when it was isolated
+from 149 pools of mosquitoes collected in eastern and western
+North Dakota (Table 2). These data suggest that CVV
+becomes epizootic periodically. Although four isolations were
+made in July when mosquito populations of the nine infected
+species were highest, 96.7% of the isolations were made
+throughout August and the first week of September when
+mosquito abundance was significantly reduced compared with
+their numbers in June and July (Figure 6). The infection rate
+in August and the first week of September was relatively high
+ranging from 0.14 to 1.09 per 1,000 specimens tested and is the
+time when sheep and cattle are most likely to become infected
+with virus.
+Jamestown Canyon virus is widely distributed in North
+America and causes a mild febrile illness that may cause cen-
+tral nervous system infection.68,69
+Human cases are relatively
+rare with 15 cases reported from 2004 to 2010, including one
+from Montana in 2009,69
+and two cases were reported during
+2012.70
+Although not previously reported from North Dakota,
+we found this virus to be widespread. It is transmitted primar-
+ily by mammalian-feeding Aedes and Ochlerotatus mosqui-
+toes.71
+Deer are considered the primary hosts, although other
+ungulates may also be involved.71
+This virus survives winter in
+mosquito eggs via vertical transmission.71
+Our isolation of
+JCV from eight species within four genera from four counties
+during the 4 years confirms earlier findings that several spe-
+cies are likely vectors (Table 2 and 3) The largest numbers of
+isolations were from Ae. vexans, but IRs were all < 0.1 per
+thousand specimens tested (Supplemental Table 11). Species
+less numerous but with larger IRs included Cs. inornata,
+Oc. dorsalis, Oc. flavescens, Ochlerotatus melanimon, and
+Oc. trivittatus. Species not previously reported to be infected
+included Cx. tarsalis and Oc. flavescens. This virus was iso-
+lated from the last week of June to the second week of
+September (Figure 7). Most isolates (98%) were from mos-
+quitoes collected during the week of June 30 through the last
+week of August. Sequence analysis of 44 isolates from North
+Dakota showed that most belonged to Lineage A (Figure 8).
+Forty-one isolates from seven species, collected in four differ-
+ent counties, and four different years were similar to the line-
+age A isolates from Connecticut.14
+Three isolates belonged to
+the Jerry Slough variant.72
+Our findings suggest the JCV
+strains were stably maintained in North Dakota, infecting a
+number of different mosquito species.
+Trivittatus virus, which was originally isolated in Bismarck,
+North Dakota in 1948,21
+was the most frequently isolated
+virus. Although isolated from six species, 77.8% were from
+Oc. trivittatus, confirming it as the most important vector
+(Table 3).73–75
+Many of the remaining isolates (20.3%) were
+from Ae. vexans. The IRs for Oc. trivittatus by county and
+year ranged from 0.70 to 5.09 and were significantly higher
+than the IRs for Ae. vexans, which ranged from 0.01 to 0.42
+(Supplemental Table 12). This virus, which is transmitted
+horizontally and vertically by Oc. trivittatus,73–76
+was isolated
+during most weeks of the summer and fall, particularly during
+June and July when Oc. trivittatus were most abundant
+(Figure 9). Two isolates were genetically similar to the proto-
+type strain (Figure 8). This virus infects humans,77
+but rarely
+causes clinical symptoms.71
+Seasonal relationships between numbers of Oc. trivittatus
+infected with TVTV and mosquitoes infected with CVV were
+markedly different (Figures 6 and 9). Differences reflect at
+least in part the means by which these mosquitoes become
+infected. Isolations of TVTV were made weekly, with the
+exception of 3 weeks in September, from Oc. trivittatus
+throughout the season from early June to the first week of
+October (Figure 9). Vertical transmission is responsible for
+early season-infection, and vertical and horizontal transmis-
+sion cause infection later in the season.73–76
+In contrast, hori-
+zontal transmission likely is the primary means of infection
+during summer for CVV. In mid-June through late July,
+weekly vector numbers per trap-night averaged > 4,000 to
+> 14,000 and few isolations were recorded (Figure 6). In late
+ARBOVIRUSES IN NORTH DAKOTA 389
+July, after numbers of mosquitoes declined, numbers of
+weekly isolations in August and early September increased
+to as high as 50 per week. Mosquitoes collected in June and
+early July likely had not fed on viremic mammals, whereas
+relative numbers of those collected in late July and into the
+first week of September likely became infected by feeding on
+viremic mammals.
+Potosi virus originally isolated from Ae. albopictus collected
+in Potosi, MO in 1989,78
+also has been isolated from several
+species of mammal-feeding mosquitoes in Illinois, Michigan,
+Ohio, the Carolinas, Connecticut, and New York.79–84
+We
+now report POTV in three species in North Dakota. Isolation
+of POTV from four pools of Ae. vexans and single pools of
+Ae. dorsalis and Cx. inornata in 2005 clearly shows its distri-
+bution extends into the northern great plains. Infected mos-
+quitoes were collected from late August through the last week
+of September 2005. This virus is horizontally transmitted by
+several species to white-tailed deer, Odocoileus virginianus.85,86
+Although POTV is not known to cause human disease, related
+Bunyamwera viruses are known to cause febrile illness, central
+neurological system disease, and hemorrhagic fever.61,87–89
+It is
+also worth noting that POTV may co-circulate with CVV,
+which causes congenital defects in sheep and cattle,62,63
+during
+late August and September.
+Snowshoe hare virus was initially isolated in 1959 in
+Montana from a snowshoe hare, Lepus americanus,90
+and sub-
+sequently from at least 23 species of mosquitoes,91
+which were
+collected in Alaska,91
+Montana,91
+New York,92
+Wisconsin,92
+Massachusetts,92
+and all Canadian provinces.93,94
+Our isola-
+tions of SSHV from Ae. vexans and Oc. trivittatus are the first
+from North Dakota. They were genetically similar to a known
+strain of SSHV (Figure 8). This virus is transmitted horizon-
+tally by several species of mosquitoes in the genera Aedes,
+Ochlerotatus, and Culiseta, and it is also transmitted verti-
+cally.95,96
+Snowshoe hares and squirrels are principal reservoir
+hosts in Canada.93,94
+Human infection ranges from absence of
+clinical disease to non-fatal meningitis and encephalitis.93,94
+Disease in domestic animals has occurred infrequently.97
+Western equine encephalomyelitis virus causes disease and
+death in humans and horses in western and central Canada
+and the United States, Mexico, Guyana, Brazil, Uruguay, and
+Argentina.98
+One of the largest human epidemics of WEEV
+occurred in North Dakota in 1941.1
+Since 1955, a total of
+93 cases have been documented in North Dakota, but none
+has been reported since 1987.99,100
+The basic transmission
+cycle involves Cx. tarsalis and passerine birds. Humans and
+horses are tangential hosts. Our isolation of WEEV from two
+pools of Cx. tarsalis in 2005 shows this virus still persists at
+low levels in North Dakota. The decline of WEEV as a
+human and equine health problem in North Dakota is similar
+to declines reported in Kern County, CA and elsewhere in
+North America.101,102
+Both WNV and WEEV are amplified
+in birds after bites by infected Cx. tarsalis, but WEEV has not
+amplified sufficiently in recent decades to infect humans and
+horses. Reasons for the suppression of WEEV in the years
+preceding and after the introduction of WNV are not known.
+Received May 8, 2014. Accepted for publication November 2, 2014.
+Published online December 8, 2014.
+Note: Supplemental tables appear at www.ajtmh.org.
+Acknowledgments We thank Loida Tobias, Silka Tobias, David Benth,
+Chris Bean, and Jacquelin Stenehjem for collecting mosquitoes and
+sending them on dry ice to our laboratory. Jacquelin Stenehjem made
+arrangements for the Williston Vector Control, District 1 to collect
+mosquitoes. The Williston Vector Control Board allowed us to have
+their employees collect mosquitoes and to use their facilities. Gary
+Brewer, Chairman, Department of Entomology, North Dakota State
+University, provided helpful suggestions and arranged the use of their
+laboratories and equipment and for the employment of Loida and
+Silka Tobias. We thank many North Dakota citizens for allowing us
+to trap mosquitoes on their properties, including. William Barker of
+North Dakota State University who enabled us to trap mosquitoes at
+the Ekre Ranch. The following provided superb technical assistance at
+the Connecticut Agricultural Experiment Station: Angela Bransfield,
+Michael Misencik, Bonnie Hamid, Amanda Rahmann, Michael Vasil,
+Terrill Goodman, John Shepard, Michael Thomas, Elizabeth Alves,
+Tanya Petruff, Clare Secker-Walker, Leah Heibi, Alyson Florek,
+Charles McGee, Susan McKnight, Sarah Reiff, and Leigh Cash. Hyper-
+immune mouse ascetic fluid (1:10) against TVTV virus was kindly
+supplied by the late Robert E. Shope and by Robert Tesh, Pathology
+Department, University of Texas Medical Branch at Galveston.
+Financial support: This work was supported in part by USDA Specific
+Cooperative agreement 58-6615-1-218 and by Laboratory Capacity
+for Infectious Diseases Cooperative Agreement U50/CCU116806-01-1
+from the Centers for Disease Control and Prevention.
+Authors’ addresses: John F. Anderson, Andrew J. Main, and Philip
+M. Armstrong, Department of Entomology and Center for Vector
+Biology and Zoonotic Diseases, The Connecticut Agricultural Exper-
+iment Station, New Haven, CT, E-mails: John.F.Anderson@ct.gov,
+andymain@aucegypt.edu, and Philip.Armstrong@ct.gov. Theodore G.
+Andreadis, Director’s Office and Center for Vector Biology and Zoo-
+notic Diseases, The Connecticut Agricultural Experiment Station,
+New Haven, CT, E-mail: Theodore.Andreadis@ct.gov. Francis J.
+Ferrandino, Department of Plant Pathology & Ecology, The
+Connecticut Agricultural Experiment Station, New Haven, CT, E-mail:
+Francis.Ferrandino@ct.gov.
+REFERENCES
+1. Leake JP, 1941. Epidemic of infectious encephalitis. Public
+Health Rep 56: 1902–1905.
+2. U.S. Geological Survey, 2012. West Nile virus maps. Available at:
+http://diseasemaps.usgs.gov/wnv_us_humans.html. Accessed
+April 23, 2014.
+3. Borchardt SM, Feist MA, Miller T, Loq TS, 2010. Epidemiology of
+West Nile virus in the highly epidemic state of North Dakota,
+2002–2007. Public Health Rep 125: 246–249.
+4. Karabatsos N, 1985. International Catalogue of Arboviruses
+Including Certain Other Viruses of Vertebrates. San Antonio,
+TX: American Society of Tropical Medicine and Hygiene.
+5. Sudia WD, Chamberlain RW, 1962. Battery-operated light trap,
+an improved model. Mosq News 3: 311–316.
+6. Andreadis TG, Thomas MC, Shepard JJ, 2005. Identification
+guide to the mosquitoes of Connecticut. Bull Conn Agric Exp
+Sta 966: 1–173.
+7. Darsie RF Jr, Ward RA, 2005. Identification and Geographical
+Distribution of the Mosquitoes of North America, North of
+Mexico. Gainesville, FL: University Press of Florida.
+8. Hammon WM, Sather GE, 1969. Arboviruses. Lennette EH,
+Schmidt NJ, eds. Procedures for Viral and Rickettsial Infections.
+New York: American Public Health Association, Inc., 227–280.
+9. Lanciotti RS, Kerst AJ, Nasci RS, Godsey MS, Mitchell CJ,
+Savage HM, Komar N, Panella NA, Allen BC, Volpe KE,
+Davis BS, Roehrig JT, 2000. Rapid detection of West Nile
+virus from human clinical specimens, field-collected mosqui-
+toes, and avian samples by a TaqMan reverse transcriptase-
+PCR assay. J Clin Microbiol 38: 4066–4071.
+10. Dunn EF, Pritlove DC, Elliott RM, 1994. The S RNA genome
+segments of Batai, Cache Valley, Guaroa, Kairi, Lumbo, Main
+Drain and Northway bunyaviruses: sequence determination
+and analysis. J Gen Virol 75: 597–608.
+11. Armstrong PM, Andreadis TG, 2006. A new genetic variant of
+La Crosse virus (Bunyaviridae) isolated from New England.
+Am J Trop Med Hyg 75: 491–496.
+12. Gray RR, Veras VMC, Santos LA, Salemi M, 2010. Evolutionary
+characterization of the West Nile virus complete genome.
+Mol Phylogenet Evol 56: 195–200.
+390 ANDERSON AND OTHERS
+13. Tamura K, Peterson D, Peterson N, Stecher G, Nei M, Kumar S,
+2011. MEGA5: Molecular evolutionary genetics analysis using
+maximum likelihood, evolutionary distance, and maximum
+parsimony methods. Mol Eiol Evol 28: 2731–2739.
+14. Armstrong PM, Andreadis TG, 2007. Genetic relationships of
+Jamestown Canyon virus strains infecting mosquitoes collected
+in Connecticut. Am J Trop Med Hyg 77: 1157–1162.
+15. Biggerstaff BJ, 2006. PooledInfRate. Version 3.0: a Microsoft Excel
+Add-In to compute prevalence estimates from pooled samples.
+Fort Collins, CO: Centers for Disease Control and Prevention.
+16. Kilpatrick AM, Kramer LD, Campbell SR, Alleyne EO, Dobson
+AP, Daszak P, 2005. West Nile virus risk assessment and the
+bridge vector paradigm. Emerg Infect Dis 11: 425–429.
+17. Centers for Disease Control and Prevention, 2013. West Nile virus
+in the United States: Guidelines for Surveillance, Prevention,
+and Control. Available at: http://www.cdc.gov/westnile/vector
+control/index.html. 1–69. Accessed August 13, 2014.
+18. North Dakota Department of Health (NDDPH), 2013. West Nile
+Virus Data Summaries. Available at: http://www.ndhealth.gov/
+wnv/data/summary.aspx. Accessed April 23, 2014.
+19. Davis CT, Ebel GD, Lanciotti RS, Brault AC, Guzman H, Siirin
+M, Lambert A, Parsons RE, Beasley DW, Novak RJ, Elizondo-
+Quiroga D, Green EN, Young DS, Stark LM, Drebot MA,
+Artsob H, Tesh RB, Kramer LD, Barrett AD, 2005. Phyloge-
+netic analysis of North American West Nile virus isolates, 2001–
+2004: evidence for the emergence of a dominant genotype.
+Virology 342: 252–265.
+20. Ebel GD, Carricaburu J, Young D, Bernard KA, Kramer LD,
+2004. Genetic and phenotypic variation of West Nile virus in
+New York, 2000–2003. Am J Trop Med Hyg 71: 493–500.
+21. Hammon WM, Reeves WC, Sather GE, 1952. California enceph-
+alitis virus, a newly described agent. II. Isolations and attempts
+to identify and characterize the agent. J Immunol 69: 493–510.
+22. Goddard LB, Roth AE, Reisen WK, Scott TW, 2002. Vector
+competence of California mosquitoes for West Nile virus.
+Emerg Infect Dis 8: 1385–1391.
+23. Turell MJ, O’Guinn ML, Dohm DJ, Webb JP Jr, Sardelis MR,
+2002. Vector competence of Culex tarsalis from Orange County,
+California, for West Nile virus. Vector Borne Zoonotic Dis
+2: 193–196.
+24. Anderson JF, Main AJ, Cheng G, Ferrandino FJ, Fikrig E, 2012.
+Horizontal and vertical transmission of West Nile virus geno-
+type NY99 by Culex salinarius and genotypes NY99 and WN02
+by Culex tarsalis. Am J Trop Med Hyg 86: 134–139.
+25. Reisen WK, Fang Y, Martinez VM, 2006. Effects of temperature
+on the transmission of West Nile virus by Culex tarsalis
+(Diptera:Culicidae). J Med Entomol 43: 309–317.
+26. Bell JA, Mickelson NJ, Vaughan JA, 2005. West Nile virus in
+host-seeking mosquitoes within a residential neighborhood
+in Grand Forks, North Dakota. Vector Borne Zoonotic Dis
+5: 373–382.
+27. Bell JA, Brewer CM, Mickelson NJ, Garman GW, Vaughan JA,
+2006. West Nile virus epizootiology, central Red River Valley,
+North Dakota and Minnesota, 2002–2005. Emerg Infect Dis
+12: 1245–1247.
+28. Bernard KA, Maffei JG, Jones SA, Kauffman EB, Ebel GD,
+Dupuis AP II, Ngo KA, Nicholas DC, Young DM, Shi P-Y,
+Kulasekera VL, Eidson M, White DJ, Stone WB, Kramer LD;
+State West Nile Virus Surveillance Team NY, 2001. West Nile
+virus infection in birds and mosquitoes, New York State, 2000.
+Emerg Infect Dis 7: 679–685.
+29. Andreadis TG, Anderson JF, Vossbrinck CR, Main AJ, 2004.
+Epidemiology of West Nile virus in Connecticut: a five-year
+analysis of mosquito data 1999–2003. Vector Borne Zoonotic
+Dis 4: 360–378.
+30. Anderson JF, Andeadis TG, Main AJ, Kline DL, 2004. Prevalence
+of West Nile virus in tree canopy-inhabiting Culex pipiens and
+associated mosquitoes. Am J Trop Med Hyg 71: 112–119.
+31. Tempelis CH, 1974. Host-feeding patterns of mosquitoes, with a
+review of advances in analysis of blood meals by serology.
+J Med Entomol 11: 635–653.
+32. Kent R, Juliusson L, Weissmann M, Evans S, Komar N, 2009.
+Seasonal blood-feeding behavior of Culex tarsalis (Dipter:
+Culicidae) in Weld County, Colorado, 2007. J Med Entomol
+46: 380–390.
+33. Molaei G, Cummings RF, Su T, Armstrong PM, Williams GA,
+Cheng ML, Webb JP, Andreadis TG, 2010. Vector-host inter-
+actions governing epidemiology of West Nile virus in Southern
+California. Am J Trop Med Hyg 83: 1269–1282.
+34. Thiemann TC, Lemenager DA, Kluh S, Carroll BD, Lothrop HD,
+Reisen WK, 2012. Spatial variation in host feeding patterns
+of Culex tarsalis and the Culex pipiens complex (Diptera:
+Culicidae) in California. J Med Entomol 49: 903–916.
+35. Thiemann TC, Reisen WK, 2012. Evaluating sampling method
+bias in Culex tarsalis and Culex quinquefasciatus (Diptera:
+Culicidae) blood meal identification studies. J Med Entomol
+49: 143–149.
+36. Reeves WC, Tempelis CH, Bellamy RE, Lofy MF, 1963. Obser-
+vations on the feeding habits of Culex tarsalis in Kern County,
+California, using precipitating antisera produced in birds. Am J
+Trop Med Hyg 12: 929–935.
+37. Turell MJ, Dohm DJ, Sardelis MR, Oguinn ML, Andreadis TG,
+Blow JA, 2005. An update on the potential of North American
+mosquitoes (Diptera: Culicidae) to transmit West Nile virus.
+J Med Entomol 42: 57–62.
+38. Goddard LB, Roth AE, Reisen WK, Scott TW, 2003. Vertical
+transmission of West Nile virus by three California Culex
+(Diptera:Culicidae) species. J Med Entomol 40: 743–746.
+39. Reisen WK, Fang Y, Lothrop HD, Martinez VM, Wilson J,
+O’Connor P, Carney R, Cahoon-Young B, Shafii M, Brault AC,
+2006. Overwintering of West Nile virus in southern California.
+J Med Entomol 43: 344–355.
+40. Lampman RL, Krasavin NM, Ward MP, Beveroth TA, Lankau
+EW, Alto BW, Muturi E, Novak RJ, 2013. West Nile virus
+infection rates and avian serology in east-central Illinois. J Am
+Mosq Control Assoc 29: 108–122.
+41. Reiter P, 1983. A portable, battery-powered trap for collecting
+gravid Culex mosquitoes. Mosq News 43: 496–498.
+42. Post RL, Munro JA, 1949. Mosquitoes of North Dakota. N. D.
+Agr. Expert. Sta. Bimonthly Bull 11: 173–183.
+43. Horsfall WR, Fowler HW, Moretti LJ, Larsen JR, 1973. Bionomics
+and Embryology of the Inland Floodwater Mosquito Aedes
+vexans. Urbana, IL: University of Illinois Press.
+44. Magnarelli LA, 1977. Host feeding patterns of Connecticut
+mosquitoes (Diptera: Culicidae). Am J Trop Med Hyg 26:
+547–552.
+45. Nasci RS, 1984. Variations in the blood-feeding patterns of Aedes
+vexans and Aedes trivittatus (Diptera:Culicidae). J Med Entomol
+21: 95–99.
+46. Molaei G, Andreadis TG, 2006. Identification of avian- and
+mammalian-derived blood meals in Aedes vexans and Culiseta
+melanura (Diptera:Culicidae) and its implication for West Nile
+virus transmission in Connecticut, USA. J Med Entomol
+43: 1088–1093.
+47. Root JJ, Hall JS, McLean RG, Marlenee NL, Beaty BJ,
+Gansowski J, Clark L, 2005. Serologic evidence of exposure
+of wild mammals to flaviviruses in the central and eastern
+United States. Am J Trop Med Hyg 72: 622–630.
+48. Root JJ, Oesterle PT, Nemeth NM, Klenk K, Gould DH,
+McLean RG, Clark L, Hall JS, 2006. Experimental infection
+of fox squirrels (Sciurus niger) with West Nile virus. Am J Trop
+Med Hyg 75: 697–701.
+49. Platt KB, Tucker BJ, Halbur PG, Blitvich BJ, Fabiosa FG, Mullin
+K, Parikh GR, Kitikoon P, Bartholomay LC, Rowley WA,
+2008. Fox squirrels (Sciurus niger) develop West Nile virus
+viremias sufficient for infecting select mosquito species. Vector
+Borne Zoonotic Dis 8: 225–233.
+50. Platt KB, Tucker BJ, Halbur PG, Tiawsirisup S, Blitvich BJ,
+Fabiosa FG, Bartholomay LC, Rowley WA, 2007. West Nile
+virus viremia in eastern chipmunks (Tamias striatus) suffi-
+cient for infecting different mosquitoes. Emerg Infect Dis 13:
+831–837.
+51. Tiawsirisup S, Platt KB, Tucker BJ, Rowley WA, 2005. Eastern
+cottontail rabbits (Sylvilagus floridanus) develop West Nile
+virus viremias sufficient for infecting select mosquito species.
+Vector Borne Zoonotic Dis 5: 342–350.
+52. Anderson JF, Vossbrinck CR, Andreadis TG, Iton A, Beckwith
+WH 3rd, Mayo DR, 2001. A phylogenetic approach to follow-
+ing West Nile virus in Connecticut. Proc Natl Acad Sci USA
+98: 12885–12889.
+ARBOVIRUSES IN NORTH DAKOTA 391
+53. Chung WM, Buseman CM, Joyner SN, Hughes SM, Fomby TB,
+Luby JP, Haley RW, 2013. The 2012 West Nile encephalitis
+epidemic in Dallas, Texas. JAMA 310: 297–307.
+54. Kramer LD, Styer LM, Ebel GD, 2008. A global perspective on the
+epidemiology of West Nile virus. Annu Rev Entomol 53: 61–81.
+55. Nasci RS, Savage HM, White DJ, Miller JR, Cropp BC, Godsey
+MS, Kerst AJ, Bennett P, Gottfried K, Lanciotti RS, 2001.
+West Nile virus in overwintering Culex mosquitoes, New York
+City, 2000. Emerg Infect Dis 7: 742–744.
+56. Anderson JF, Main AJ, 2006. Importance of vertical and horizon-
+tal transmission of West Nile virus by Culex pipiens in the
+northeastern United States. J Infect Dis 194: 1577–1579.
+57. Holden P, Hess AD, 1959. Cache Valley virus, a previously
+undescribed mosquito-borne agent. Science 130: 1187–1188.
+58. Calisher CH, Francy DB, Smith GC, Muth DJ, Lazuick JS,
+Karabatsos N, Jakob WL, McLean RG, 1986. Distribution of
+Bunyamwera serogroup viruses in North America, 1956–1984.
+Am J Trop Med Hyg 35: 429–443.
+59. Iversen JO, Wagner RJ, Leung MK, Hayles LB, McLintock JR,
+1979. Cache Valley virus: isolations from mosquitoes in
+Saskatchewan, 1972–1974. Can J Microbiol 25: 760–764.
+60. Armstrong PM, Anderson JF, Farajollahi A, Healy SP, Unlu I,
+Crepeau TN, Gaugler R, Fonseca DM, Andreadis TG, 2013.
+Isolations of Cache Valley virus from Aedes albopictus
+(Diptera: Culicidae) in New Jersey and evaluation of its role
+as a regional arbovirus vector. J Med Entomol 50: 1310–1314.
+61. Sexton DJ, Rollin PE, Breitschwerdt EB, Corey GR, Myers SA,
+Dumais MR, Bowen MD, Goldsmith CS, Zaki SR, Nichol ST,
+Peters CJ, Ksiazek TG, 1997. Life-threatening Cache Valley
+virus infection. N Engl J Med 336: 547–549.
+62. Crandell RA, Livingston CW Jr, Shelton MJ, 1989. Laboratory
+investigation of a naturally occurring outbreak of arthrogryposis-
+hydranencephaly in Texas sheep. J Vet Diagn Invest 1: 62–65.
+63. McConnell S, Livingston C Jr, Calisher CH, Crandell RA, 1987.
+Isolations of Cache Valley virus in Texas, 1981. Vet Microbiol
+13: 11–18.
+64. Redden R, 2011. Update on Cache Valley virus. N. D. Sheep
+Industry Newsletter. 62: 2.
+65. Campbell GL, Mataczynski JD, Reisdorf ES, Powell JW, Martin
+DA, Lambert AJ, Haupt TE, Davis JP, Lanciotti RS, 2006.
+Second human case of Cache Valley virus disease. Emerg
+Infect Dis 12: 854–856.
+66. Nguyen NL, Zhao G, Hull R, Shelly MA, Wong SJ, Wu G,
+St George K, Wang D, Menegus MA, 2013. Cache valley virus
+in a patient diagnosed with aseptic meningitis. J Clin Microbiol
+51: 1966–1969.
+67. Calisher CH, Sever JL, 1995. Are North American Bunyamwera
+serogroup viruses etiologic agents of human congenital defects
+of the central nervous system? Emerg Infect Dis 1: 147–151.
+68. Andreadis TG, Anderson JF, Armstrong PM, Main AJ, 2008.
+Isolations of Jamestown Canyon virus (Bunyaviridae:
+Orthobunyavirus) from field-collected mosquitoes (Diptera:
+Culicidae) in Connecticut, USA: a ten-year analysis, 1997–
+2006. Vector Borne Zoonotic Dis 8: 175–188.
+69. Centers for Disease Control and Prevention, 2011. Human
+Jamestown Canyon virus infection—Montana, 2009. MMWR
+Morb Mortal Wkly Rep 60: 652–655.
+70. Centers for Disease Control and Prevention, 2013. West Nile
+virus and other arboviral diseases–United States, 2012.
+MMWR Morb Mortal Wkly Rep 62: 513–517.
+71. Grimstad PR, 1988. California group virus disease. Monath TP, ed.
+The Arboviruses: Epidemiology and Ecology. Boca Raton, FL:
+CRC Press, 99–136.
+72. Hammon WM, Sather G, 1966. History and recent reappearance
+of viruses in the California encephalitis group. Am J Trop Med
+Hyg 15: 199–204.
+73. Turell MJ, LeDuc JW, 1983. The role of mosquitoes in the natural
+history of California serogroup viruses. Calisher CH, Thompson
+WH, eds. California Serogroup Viruses. New York: Alan R.
+Liss, 43–56.
+74. Watts DM, DeFoliart GR, Yuill TM, 1976. Experimental trans-
+mission of Trivittatus virus (California virus group) by Aedes
+trivittatus. Am J Trop Med Hyg 25: 173–176.
+75. Andrews WN, Rowley WA, Wong YW, Dorsey DC, Hausler
+WJ Jr, 1977. Isolation of trivittatus virus from larvae and adults
+reared from field-collected larvae of Aedes trivittatus (Diptera:
+Culicidae). J Med Entomol 13: 699–701.
+76. Rowley WA, Wong YW, Dorsey DC, Hausler WJ Jr, Currier
+RW, 1983. California serogroup viruses in Iowa. Calisher CH,
+Thompson WH, eds. California Serogroup Viruses. New York:
+Alan R. Liss, 237–246.
+77. Monath TP, Nuckolls JG, Berall J, Bauer H, Chappell WA,
+Coleman PH, 1970. Studies on California encephalitis in
+Minnesota. Am J Epidemiol 92: 40–50.
+78. Francy DB, Karabatsos N, Wesson DM, Moore CG Jr, Lazuick
+JS, Niebylski ML, Tsai TF, Craig GB Jr, 1990. A new arbovirus
+from Aedes albopictus, an Asian mosquito established in the
+United States. Science 250: 1738–1740.
+79. Harrison BA, Mitchell CJ, Apperson CS, Smith GC, Karabatsos
+N, Engber BR, Newton NH, 1995. Isolation of Potosi virus
+from Aedes albopictus in North Carolina. J Am Mosq Control
+Assoc 11: 225–229.
+80. Mitchell CJ, Haramis LD, Karabatsos N, Smith GC, Starwalt
+VJ, 1998. Isolation of La Crosse, Cache Valley, and Potosi
+viruses from Aedes mosquitoes (Diptera: Culicidae) collected
+at used-tire sites in Illinois during 1994–1995. J Med Entomol
+35: 573–577.
+81. Mitchell CJ, Smith GC, Karabatsos N, Moore CG, Francy DB,
+Nasci RS, 1996. Isolations of Potosi virus from mosquitoes
+collected in the United States, 1989–94. J Am Mosq Control
+Assoc 12: 1–7.
+82. Wozniak A, Dowda HE, Tolson MW, Karabatsos N, Vaughan
+DR, Turner PE, Ortiz DI, Wills W, 2001. Arbovirus surveil-
+lance in South Carolina, 1996–98. J Am Mosq Control Assoc
+17: 73–78.
+83. Armstrong PM, Andreadis TG, Anderson JF, Main AJ, 2005.
+Isolations of Potosi virus from mosquitoes (Diptera: Culicidae)
+collected in Connecticut. J Med Entomol 42: 875–881.
+84. Ngo KA, Maffei JG, Dupuis AP 2nd, Kauffman EB, Backenson
+PB, Kramer LD, 2006. Isolation of Bunyamwera serogroup
+viruses (Bunyaviridae, Orthobunyavirus) in New York state.
+J Med Entomol 43: 1004–1009.
+85. McLean RG, Kirk LJ, Shriner RB, Cook PD, Myers EE, Gill JS,
+Campos EG, 1996. The role of deer as a possible reservoir
+host of Potosi virus, a newly recognized arbovirus in the
+United States. J Wildl Dis 32: 444–452.
+86. Blackmore CG, Grimstad PR, 1998. Cache Valley and Potosi
+viruses (Bunyaviridae) in white-tailed deer (Odocoileus
+virginianus): experimental infections and antibody prevalence
+in natural populations. Am J Trop Med Hyg 59: 704–709.
+87. Beaty BJ, Calisher CH, 1991. Bunyaviridae-natural history.
+Curr Top Microbiol Immunol 169: 27–78.
+88. Nashed NW, Olson JG, el-Tigani A, 1993. Isolation of Batai virus
+(Bunyaviridae: Bunyavirus) from the blood of suspected
+malaria patients in Sudan. Am J Trop Med Hyg 48: 676–681.
+89. Gerrard SR, Li L, Barrett AD, Nichol ST, 2004. Ngari virus is a
+Bunyamwera virus reassortant that can be associated with large
+outbreaks of hemorrhagic fever in Africa. J Virol 78: 8922–8926.
+90. Burgdorfer W, Newhouse VF, Thomas LA, 1961. Isolation of
+California encephalitis virus from the blood of a snowshoe
+hare (Lepus americanus) in western Montana. Am J Hyg 73:
+344–349.
+91. Sudia WD, Newhouse VF, Calisher CH, Chamberlain RW, 1971.
+California group arboviruses: isolations from mosquitoes in
+North America. Mosq News 31: 576–600.
+92. Whitney E, Jamnback H, Means RG, Roz AP, Rayner GA, 1969.
+California virus in New York State. Isolation and characteriza-
+tion of CEV complex from Aedes cinereus. Am J Trop Med
+Hyg 18: 123–131.
+93. McLean DM, 1981. California group viral infections of Canada.
+Steele JH, Beran GW, eds. Handbook Series in Zoonoses.
+Section B: Viral Zoonoses. Boca Raton, FL: CRC Press, 107–111.
+94. Artsob H, 1981. California encephalitis (CE). Steele JH, Beran
+GW, eds. Handbook Series in Zoonoses. Section B: Viral Zoo-
+noses. Boca Raton, FL: CRC Press, 150–154.
+95. McLintock J, Curry PS, Wagner RJ, Leung MK, Iversen JO,
+1976. Isolation of snowshoe hare virus from Aedes implicatus
+larvae in Saskatchewan. Mosq News 36: 233–237.
+96. McLean DM, Bergman SK, Gould AP, Grass PN, Miller MA,
+Spratt EE, 1975. California encephalitis virus prevalence
+392 ANDERSON AND OTHERS
+throughout the Yukon Territory, 1971–1974. Am J Trop Med
+Hyg 24: 676–684.
+97. Heath SE, Bell R, 1988. Saskatchewan. Snowshoe hare virus
+encephalitis in a filly. Can Vet J 29: 392.
+98. Hayes RO, 1981. Eastern and western encephalitis. Steele JH,
+Beran GW, eds. Handbook Series in Zoonoses. Section B: Viral
+Zoonoses. Boca Raton, FL: CRC Press, 37–57.
+99. McGowan JE, Bryan JA, Gregg MB, 1973. Surveillance of
+arboviral encephalitis in the United States, 1955–1971. Am J
+Epidemiol 97: 199–207.
+100. Centers for Disease Control and Prevention, 1987. Epidemiologic
+notes and reports western equine encephalitis—United States
+and Canada, 1987. MMWR Morb Mortal Wkly Rep 36: 655–659.
+101. Reisen WK, Carroll BD, Takahashi R, Fang Y, Garcia S, Martinez
+VM, Quiring R, 2009. Repeated West Nile virus epidemic trans-
+mission in Kern County, California, 2004–2007. J Med Entomol
+46: 139–157.
+102. Reisen WK, Monath TP, 1989. Western equine encephalomyeli-
+tis. Monath TP, ed. The arboviruses: epidemiology and ecology.
+Volume V. Boca Raton, FL: CRC, 89–138.
+ARBOVIRUSES IN NORTH DAKOTA 393

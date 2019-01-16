@@ -1,0 +1,767 @@
+﻿Evidence of Infection by H5N2 Highly Pathogenic Avian
+Influenza Viruses in Healthy Wild Waterfowl
+Nicolas Gaidet1.
+*, Giovanni Cattoli2.
+, Saliha Hammoumi1
+, Scott H. Newman3
+, Ward Hagemeijer4
+, John Y.
+Takekawa5
+, Julien Cappelle1
+, Tim Dodman4
+, Tony Joannis6
+, Patricia Gil1
+, Isabella Monne2
+, Alice Fusaro2
+,
+Ilaria Capua2
+, Shiiwuua Manu7
+, Pierfrancesco Micheloni8
+, Ulf Ottosson9
+, John H. Mshelbwala10
+, Juan
+Lubroth3
+, Joseph Domenech3
+, Franc
+¸ois Monicat1
+1 Centre de Coope
+´ration Internationale en Recherche Agronomique pour le De
+´veloppement, Montpellier, France, 2 Istituto Zooprofilattico Sperimentale delle Venezie,
+Legnaro, Italy, 3 Food and Agriculture Organization of the United Nations, Animal Production and Health Division, Rome, Italy, 4 Wetlands International, Wageningen, The
+Netherlands, 5 U.S. Geological Survey, Western Ecological Research Center, Vallejo California, United States of America, 6 National Veterinary Research Institute, Vom,
+Nigeria, 7 AP Leventis Ornithological Research Institute, Jos, Nigeria, 8 Istituto Nazionale per la Fauna Selvatica, Bologna, Italy, 9 Ottenby Bird Observatory, Kehlen,
+Luxembourg, 10 Federal Department of Forestry, Abuja, Nigeria
+Abstract
+The potential existence of a wild bird reservoir for highly pathogenic avian influenza (HPAI) has been recently questioned by
+the spread and the persisting circulation of H5N1 HPAI viruses, responsible for concurrent outbreaks in migratory and
+domestic birds over Asia, Europe, and Africa. During a large-scale surveillance programme over Eastern Europe, the Middle
+East, and Africa, we detected avian influenza viruses of H5N2 subtype with a highly pathogenic (HP) viral genotype in
+healthy birds of two wild waterfowl species sampled in Nigeria. We monitored the survival and regional movements of one
+of the infected birds through satellite telemetry, providing a rare evidence of a non-lethal natural infection by an HP viral
+genotype in wild birds. Phylogenetic analysis of the H5N2 viruses revealed close genetic relationships with H5 viruses of low
+pathogenicity circulating in Eurasian wild and domestic ducks. In addition, genetic analysis did not reveal known
+gallinaceous poultry adaptive mutations, suggesting that the emergence of HP strains could have taken place in either wild
+or domestic ducks or in non-gallinaceous species. The presence of coexisting but genetically distinguishable avian influenza
+viruses with an HP viral genotype in two cohabiting species of wild waterfowl, with evidence of non-lethal infection at least
+in one species and without evidence of prior extensive circulation of the virus in domestic poultry, suggest that some strains
+with a potential high pathogenicity for poultry could be maintained in a community of wild waterfowl.
+Citation: Gaidet N, Cattoli G, Hammoumi S, Newman SH, Hagemeijer W, et al. (2008) Evidence of Infection by H5N2 Highly Pathogenic Avian Influenza Viruses in
+Healthy Wild Waterfowl. PLoS Pathog 4(8): e1000127. doi:10.1371/journal.ppat.1000127
+Editor: Ron A. M. Fouchier, Erasmus Medical Center, Netherlands
+Received March 10, 2008; Accepted July 16, 2008; Published August 15, 2008
+This is an open-access article distributed under the terms of the Creative Commons Public Domain declaration which stipulates that, once placed in the public
+domain, this work may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose.
+Funding: This extensive survey has been implemented in the framework of an FAO Technical Cooperation Programme, and has been made possible by
+additional financial resources received from the governments of France and Sweden. We also acknowledge the Global Avian Influenza Network for Surveillance
+(GAINS) program, funded in part by USAID Grant No. LAG-A-00-99-00047-00, for the larger joint wild bird surveillance activities in Nigeria. The opinions expressed
+herein are those of the authors and do not necessarily reflect the views of the U.S. Agency for International Development.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: nicolas.gaidet@cirad.fr
+. These authors contributed equally to this work.
+Introduction
+Wild waterbirds are considered the natural reservoirs of low
+pathogenic avian influenza (LPAI) viruses [1,2], but highly
+pathogenic avian influenza (HPAI) viruses responsible for high
+mortality in domestic birds do not have recognised wild bird
+reservoirs [3]. Among the 16 hemagglutinin (HA) subtypes of
+avian influenza viruses (AIVs) perpetuated in wild birds, where
+they caused unapparent or mild disease [1,4], H5 and H7 viruses
+are recognised to have the potential to become highly pathogenic
+(HP) in poultry. HPAI viruses are generally considered to emerge
+from LPAI precursors once introduced and adapted to gallina-
+ceous poultry populations, and to not occur in wild birds [5,6].
+Prior to 2002, no HPAI virus had been isolated from free-living
+waterbird populations, with the exception of a large mortality
+event in Common Terns Sterna hirundo in South Africa in 1961
+associated with an H5N3 HPAI infection [7], and a few isolated
+cases in terrestrial birds associated with AIV-infected poultry flocks
+[6]. The ecology of HPAI viruses has changed since 2002 with the
+re-emergence and spread of the Asian H5N1 HPAI virus that has
+been responsible for mortalities in more than 75 wild bird species
+in 38 countries [8]. The spread of the H5N1 HPAI virus over Asia,
+Europe and Africa, contemporary to the isolation of the virus in
+dead migratory birds, questioned the potential for wild birds to
+perpetuate and spread HPAI viruses.
+In response to the inter-continental spread of the H5N1 HPAI
+virus, we sampled and tested for HPAI infection in live-caught and
+hunted wild birds (.11,000 birds of 144 species) in 19 countries over
+Eastern Europe, the Middle East and Africa during 2006 [9] and
+2007. In addition, we equipped some of the wild ducks (n= 45) we
+caught with satellite transmitters to track their local and migratory
+movements in relation to the potential spread of avian diseases.
+During this large-scale surveillance programme, we detected the
+presence of AIVs with an HP viral genotype (i.e. motif at the HA
+PLoS Pathogens | www.plospathogens.org 1 August 2008 | Volume 4 | Issue 8 | e1000127
+cleavage site consistent with highly pathogenic avian influenza) in
+two wild African waterfowl species in Nigeria. One of the infected
+ducks had been fitted with a satellite transmitter during a
+concurrent satellite telemetry survey conducted in Nigeria,
+allowing its movements to be monitored. Here we present
+combined results from the molecular analysis of the viral genome
+and the satellite tracking survey of wild waterfowl naturally
+infected by HPAI viruses.
+Results
+Wild bird surveillance for HPAI
+AIVs of the H5N2 subtype were detected by means of
+molecular tests in free living and apparently healthy White-faced
+Whistling Duck (WFWD) Dendrocygna viduata and Spur-winged
+Goose (SWG) Plectropterus gambensis. These birds had been sampled
+at the same lake in the Hadejia-Nguru Wetlands in northern
+Nigeria (Jigawa State; latitude: 12u489N; longitude: 10u449E;
+Figure 1), respectively on the 14th
+(WFWD) and 17th
+(SWG)
+February 2007. In details, the oro-pharyngeal swab of one WFWD
+out of nine (11.1%) tested positive for type A influenza viruses and
+H5 subtype by RRT-PCR (Table 1). AIVs were also detected in
+fresh faecal samples from 8 SWG out of 97 (8.2%), of which six
+(6.2%) tested H5 positive. H5 positive samples showed clear
+positive fluorescence signal, with real time PCR Cycle threshold
+(Ct) values ranging from 26 to 30. Other waterbirds species
+Author Summary
+Until recently, the highly pathogenic avian influenza (HPAI)
+viruses responsible for high mortality in some domestic
+poultry were considered not to have a wild bird reservoir,
+but to emerge in domestic poultry populations from low
+pathogenic viruses perpetuated in wild waterbirds. The
+rapid spread of H5N1 HPAI virus in 2005­2006, with
+concurrent outbreaks reported in both domestic and wild
+birds over Asia, Europe, and Africa, has raised concerns
+about the potential role of migratory birds in the
+epidemiology of the HPAI infection. Wild birds were
+sampled in Africa and tested by molecular and virological
+methods in an attempt to trace the circulation of HPAI
+viruses. In addition, some of these wild birds were
+equipped with satellite transmitters to track their local
+and migratory movements in relation to the potential
+spread of avian diseases. Avian influenza viruses (H5N2)
+were detected in wild waterfowl in Nigeria, and were
+subsequently characterized as highly pathogenic by
+molecular sequencing (HPAI viral genotype). Movements
+of one infected bird tracked by satellite telemetry revealed
+that it survived infection by an HP viral genotype. This
+result constitutes a rare finding of infection by an AIV with
+an HPAI viral genotype in healthy wild birds.
+Figure 1. Movement paths of one White-faced Whistling Duck (Dendrocygna viduata) fitted with a satellite transmitter, from Hadejia-
+Nguru Wetlands in northern Nigeria to Lake Chad in western Chad, during February­March 2007. Dates and minimum distances
+between main staging areas (orange circles) are indicated on the satellite image.
+doi:10.1371/journal.ppat.1000127.g001
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 2 August 2008 | Volume 4 | Issue 8 | e1000127
+(n = 122 birds), mostly waders, sampled at the same site during the
+same period (1­17th
+February 2007) all tested negative (Table 1).
+Sequence analysis was able to reveal the presence of HPAI viral
+genotypes, with multiple basic amino acid motif at the cleavage site
+of the HA molecule (PQKEKRRKKR*GLF and PQREKRR-
+KKR*GLF, Table 2) in four samples collected in four distinct birds
+(one WFWD and three SWG, Table 1). Conventional RT-PCR
+assay targeting the neuraminidase (NA) gene segment tested positive
+for the N2 subtype. No virus isolate could be obtained but sequence
+analysis of the entire segments encoding HA and NA proteins from
+PCR products confirmed the presence of AIVs of H5N2 subtype.
+Insufficient material of the five remaining samples was available for
+sequencing and further analysis.
+Molecular and phylogenetic analysis
+The site where birds were sampled is situated in Northern
+Nigeria where the first outbreak of H5N1 HPAI virus in Africa
+was reported in January 2006 [10], with many subsequent
+outbreaks in gallinaceous poultry or free-ranging ducks (the closest
+past outbreak occurred 80 km away). Unexpectedly, phylogenetic
+analysis of the entire HA and NA gene segments (accession
+numbers EU544242 to EU544248) showed that the viruses were
+unrelated to any strains of H5N1 HPAI viruses. Phylogenetic
+analysis based on the HA gene clustered the sequences with
+contemporary LPAI viral strains isolated in South and Central
+Europe and with H5 viruses isolated in South Africa (Figure 2).
+Nigerian H5 sequences revealed the highest homologies with the
+H5N2 LPAI isolate A/mallard/Bavaria/1/2005 (98.2% for A/
+SWG/Nigeria/5388-2-8-5/2007 and 97.9% for A/WFWD/
+Nigeria/3927-1/2007). Analysis of the HA deduced amino acid
+sequence of the Nigerian viruses A/WFWD/Nigeria/3927-1/
+2007 and A/SWG/Nigeria/5388-2-8-5/2007 showed high simi-
+larity with isolate A/mallard/Bavaria/1/2005, with only 11, 8 and
+9 amino acid differences located outside the cleavage site,
+respectively. High homology at the nucleotide level, ranging from
+97% to 98%, was also revealed when the sequences were
+compared to H5 LPAI viruses circulating in Southern Europe,
+A/teal/Italy/3931-38/2005 (H5N2), A/teal/Italy/3931/2005
+(H5N2), A/teal/Italy/3812/2005 (H5N3) and A/mallard/Italy/
+5366/2007 (H5N2). Representative isolates of HPAI and LPAI
+H5N2 viruses recently detected in South Africa, A/ostrich/
+SouthAfrica/AI1091/2006 (HPAI) and A/ostrich/SouthAfrica/
+AI1160/2006 (LPAI), also showed high nucleotide sequence
+similarities (97.6%) to A/mallard/Bavaria/1/2005, but lower
+homologies with the Nigerian HPAI H5N2 sequences (range
+95.9%­96.4%). As shown in Figure 2, A/SWG/Nigeria/5388-2-
+8-5/2007 and A/WFWD/Nigeria/3927-1/2007 sequences were
+not closely related genetically to the other H5 HPAI viruses
+previously detected in gallinaceous poultry in Southern Europe
+(e.g. A/chicken/Italy/8/98 H5N2) and in Common Tern in
+South Africa (A/tern/South Africa/1/61 H5N3). Phylogenetic
+analysis based on the NA gene revealed similarities with LPAI
+viruses isolated in Far East Asia (Figure 3). The highest homology
+(98.3%­98.5%) was observed with A/duck/Jiang Xi/1286/2005
+(H5N2). The N2 sequences of A/ostrich/South Africa/AI1091/
+2006 (HPAI) and A/ostrich/South Africa/AI1160/2006 (LPAI)
+[11] were not closely related, showing homologies ranging from
+89%­89.5% (Figure 3).
+Genetic markers supposed to be related to gallinaceous poultry
+adaptation and virulence, such as potential additional glycosyla-
+Table 1. Wild bird species sampled and tested for AIVs in Nigeria in 2007, and results of molecular tests and sequence analyses.
+Bird group Species No. birds No. Type A positivea
+/No. Samples
+No. H5/No.
+Type A HPAIb
+Cloaca Oropharynx Faeces
+Afro-tropical ducks White-faced Whistling-Duck Dendrocygna viduata 9 0/2 1/2 0/7 1/1 1
+Spur-winged Goose Plectropterus gambensis 97 8/97 6/8 3
+Comb Duck Sarkidiornis melanotos 8 0/7 0/8
+Eurasian duckc
+Garganey Anas querquedula 9 0/9 0/8
+Eurasian waders Ruff Philomachus pugnax 49 0/11 0/11 0/38
+Little Stint Calidris minuta 9 0/9 0/8
+Wood Sandpiper Tringa glareola 1 0/1 0/1
+Marsh Sandpiper Tringa stagnatilis 1 0/1 0/1
+Jack Snipe Lymnocryptes minimus 1 0/1 0/1
+Black-winged Stiltd
+Himantopus himantopus 1 0/1 0/1
+Afro-tropical waders Spur-winged Lapwing Vanellus spinosus 18 0/18 0/18
+Greater Painted-Snipe Rostratula benghalensis 2 0/2 0/2
+Herons Common Squacco Heron Ardeola ralloides 4 0/4 0/4
+Yellow-billed Egret Egretta intermedia 1 0/1 0/1
+Black-crowned Night-Heron Nycticorax nycticorax 1 0/1 0/1
+Passerines Yellow Wagtail Motacilla flava 16 0/16 0/16
+Raptors Pallid Harrier Circus macrourus 1 0/1 0/1
+Total 17 species 228 0/85 1/84 8/142 7 4
+a
+Evaluated by means of real-time RT-PCR specific for type A influenza viruses (M gene).
+b
+Evaluated by genomic sequencing.
+c
+Birds that breed in the Western Palearctic and migrate to Africa.
+d
+Potentially either an Afro-tropical breeding or Eurasian wintering individual.
+doi:10.1371/journal.ppat.1000127.t001
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 3 August 2008 | Volume 4 | Issue 8 | e1000127
+tion sites (AGS) in the HA molecule [12] and stalk deletion in the
+NA molecule [13], were not detected in the Nigerian sequences. In
+the NA molecule, one potential additional glycosylation site was
+detected in position 331 in A/WFWD/Nigeria/3927-1/2007
+(S331N mutation) and in position 329 in A/SWG/Nigeria/5388-
+8/2007 and A/SWG/Nigeria/5388-2/2007 (D329N mutation).
+Sequence analysis also revealed that two distinct H5N2 viruses
+with an HP viral genotype were present in these two cohabiting
+species of the waterfowl community. Eight and seven amino acid
+differences located outside the cleavage site were detected in A/
+WFWD/Nigeria/3927-1/2007 when compared to A/SWG/
+Nigeria/5388-8/2007 and A/SWG/Nigeria/5388-2/2007, A/
+SWG/Nigeria/5388-5/2007, respectively. NA sequence variabil-
+ity within the Nigerian viral genomes was less pronounced
+(homology 99.0%­100%). However, 5 amino acid differences
+were detected in A/SWG/Nigeria/5388-2-8/2007 when com-
+pared to A/WFWD/Nigeria/3927-1/2007.
+Satellite tracking
+Movements of one of the H5N2 infected birds were tracked for
+47 days, revealing that this bird survived infection by an HP viral
+genotype. This adult male WFWD had been equipped with a
+satellite transmitter on the date of capture and sampling, without
+knowing its infection status. No clinical signs were reported for this
+bird and it had a medium body mass respective to this species
+(630g [14]). It first remained for 17 days within an 8 km radius of
+the capture site, performing daily movement of 1­7 km (Figure 1).
+It then flew eastwards to Chad in four stages (140­175 km daily
+flights), covering a total distance of 655 km. The satellite signal
+disappeared a few days after this duck had settled in the interior of
+Lake Chad, at 360 km from the sampling site. We consider a
+mortality associated with HPAI infection unlikely, since the time
+span between capture and signal disappearance (47 days) is long,
+and comparatively 6 times greater than the maximum time of
+death which has been reported in susceptible wild waterfowl
+following experimental infection with H5N1 HPAI viruses
+(,8 days post inoculation; [15­18]). Signal loss, though specula-
+tive, is likely related to the death of the bird (either natural or by
+hunting) or to the failure of the battery of the transmitter. For
+comparison, another WFWD fitted with a similar transmitter in
+Nigeria, which tested negative for type A influenza virus (Table 1),
+stopped transmitting after 25 days. During this period, this non-
+infected WFWD (captured, sampled and equipped at the same site
+on the same day) had a similar movement pattern to the H5N2-
+infected WFWD, remaining within the same Hadejia-Nguru
+Wetlands area (within 17 km radius of capture site during the
+same first 18 day period), and performing similar short daily
+movements (1­18 km).
+Discussion
+The H5N2 viruses we detected in two apparently healthy wild
+waterfowl species constitute a rare finding of infection by AIVs
+with an HPAI viral genotype in wild birds. Until recently, AIVs
+with an HPAI viral genotype had not been detected in free-living
+wild birds [5,6], except for a single report of an H5N3 HPAI virus
+outbreak in South Africa [7], and a few cases in terrestrial birds
+associated with outbreaks in poultry [6,19]. Since the emergence
+and spread of the Asian H5N1 virus lineage over Eurasia and
+Africa, H5N1 HPAI viruses have been isolated in a wide range of
+wild bird species. However, both these H5N3 and H5N1 HPAI
+viruses were isolated in sick, moribund or dead wild birds. Despite
+extensive global wildlife surveillance efforts, no infection with
+H5N1 HPAI viruses has been detected in healthy wild birds,
+except for a few isolated cases [20,21]. Therefore, the significance
+of wild birds as a source of infection and their influence on the
+epidemiology of H5N1 HPAI viruses is yet to be fully established.
+The two species in which these H5N2 viruses were detected are
+both Anatidae species, a group of wild birds with a predominant
+role in the perpetuation of LPAI viruses [2,22]. Both species forage
+in shallow water and are highly gregarious outside the breeding
+season, two ecological factors associated with an increased
+exposure to AIV infection. The fact that we detected these H5N2
+viruses at a three-day interval at the same site first suggested a virus
+transmission between these two cohabiting species. WFWD and
+SWG were the most abundant Afro-tropical ducks counted at the
+sampling site (53% and 40% respectively, n = 3772). Moreover,
+these two species, which commonly share the same habitats at
+feeding and roosting sites and have similar foraging behaviour and
+daily activity patterns [14], are prone to regular contacts or to
+indirect AIV transmission via shared water. However, high
+variation at the nucleotide and amino acid level was observed
+between the Nigerian H5N2 HPAI sequences detected in the
+WFWD and SWG. The presence of genetically distinguishable
+H5N2 HPAI viruses does not support the hypothesis of a cluster of
+infection. Rather, it indicates the co-circulation of distinct viruses in
+the same waterfowl community, suggesting some degree of genetic
+adaptation to different host species.
+The survival and movements of one of the H5N2 infected duck
+revealed by satellite telemetry provide evidence of a non-lethal
+natural infection by an AIV with an HPAI viral genotype in a wild
+duck. This result is consistent with the absence of disease signs or
+mortality generally reported in ducks for most HPAI viruses.
+Before the Asian H5N1 HPAI viruses, no disease or mortality
+events associated with a natural AIV infection had been reported
+in either wild or domestic ducks ([5]; with the single exception of
+Table 2. Summary of the cleavage site motif in selected
+African H5 HPAI and LPAI viruses.
+Virus Cleavage site
+No. basic
+amino
+acids
+Nigerian H5N2 HPAI PQKEKRRKKR*GLF 7
+PQREKRRKKR*GLF
+African H5N1 HPAI 2006­2007a
+PQGERRRKKR*GLF 6
+A/chicken/Egypt/5610NAMRU3-F3/2006
+(H5N1)
+PQGKRRRKKR*GLF 7
+A/chicken/Egypt/5611NAMRU3-AF/2006
+(H5N1)
+PQGKRRRKKR*GLF 7
+A/Sudan/2006 (H5N1) HPAI PQGEGRRKKR*GLF 5
+A/ostrich/South Africa/N227/04 (H5N2)
+HPAI (9)
+PQREKRRKKR*GLF 7
+A/tern/South Africa/1961 (H5N3) HPAI PQRETRRQKR*GLF 5
+A/ostrich/South Africa/AI1091/2006 (HPAI) PQRRKKR*GLF 5
+A/ostrich/South Africa/AI1160/2006 (LPAI) PQRETR*GLF 2
+A/yellow-billed duck/South Africa/811/04
+(H5N1LPAI)
+PQRETR*GLF 2
+A/mallard/Bavaria/1/2005 (H5N2 LPAI) PQRETR*GLF 2
+Cleavage site motif of the HA sequence phylogenetically most closely related to
+the Nigerian H5N2 HA (A/mallard/Bavaria/1/2005) is included for comparison.
+a
+Representatives of all the sequenced African H5N1 HPAI viruses circulating in
+2006­2007 (exceptions were observed in the Sudanese isolates and in 2
+Egyptian isolates).
+doi:10.1371/journal.ppat.1000127.t002
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 4 August 2008 | Volume 4 | Issue 8 | e1000127
+Figure 2. Phylogenetic tree based on the sequence analysis of the entire segment encoding for HA proteins, with representative
+H5N1, H5N2, and H5N3 influenza A viruses isolated in naturally infected wild and domestic birds in Asia, Europe, and Africa. Viral
+sequences analyzed in this study are marked with a circle.
+doi:10.1371/journal.ppat.1000127.g002
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 5 August 2008 | Volume 4 | Issue 8 | e1000127
+Figure 3. Phylogenetic tree based on the sequence analysis of the entire segment encoding for NA proteins. The phylogenetic tree
+includes selected N2 sequences of influenza viruses isolated in Asia, Europe and Africa. Viral sequences analyzed in this study are marked with a circle.
+doi:10.1371/journal.ppat.1000127.g003
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 6 August 2008 | Volume 4 | Issue 8 | e1000127
+mortality cases in domestic ducks and geese during H7N1 HPAI
+outbreaks in Italy [23]). In addition, experimental infections with
+most AIV with a high pathogenicity for gallinaceous poultry
+(except H5N1), as well as with the A/tern/South Africa/1/61
+(H5N3) [24], caused no clinical signs in domestic ducks [25] (except
+for A/FPV/Rostock/34 (H7N1) [26]). Lethality of HPAI viruses for
+duck has changed with the re-emergence of H5N1 HPAI viruses in
+Hong Kong in 2002 [27­29]. These H5N1 HPAI viruses, previously
+non lethal in ducks [30], have become highly lethal in some naturally
+infected wild ducks [27,31], as well as in some experimentally
+infected wild [15,18] and domestic ducks [28,32]. However, H5N1
+HPAI viruses show a high diversity in their pathogenicity for ducks.
+Results of experimental inoculations in these birds ranged from
+asymptomatic infection to high mortality rate, depending on species
+[15,18], virus strain and age of the host (i.e. lethal only in ,5-week-
+old domestic ducks) [33].
+Telemetry results further suggest that the AIV infection did not
+reduce migration capacity of this duck. The movement pattern we
+recorded is in agreement with the described movement behaviour of
+WFWDs [14,34], which are mainly sedentary but perform
+occasional flights of several hundred kilometres. However, the bird
+we tracked performed some long distance movements only 18 days
+after it had tested positive for HPAI virus. This period is longer than
+the duration of illness and viral shedding generally recorded in
+waterfowl inoculated with H5N1 HPAI viruses (,7 days; [15­
+18,32]). Despite the absence of clinical symptoms at the time of
+capture, we cannot conclude on the ability of a wild duck to fly great
+distances during infection and hence to spread the virus, since no
+data about the persistence of viral shedding could be collected.
+However, the local movements (1­7 km) performed initially by this
+infected bird were similar in pattern and range to the movements
+concurrently monitored in one non-infected WFWD. Furthermore,
+this pattern was comparable to the short weekly distances recorded
+in two satellite tracked WFWD in South Africa [35], suggesting that
+movements were not influenced by the AIV infection.
+Based on the current OIE definition [36], the molecular
+signature at the HA cleavage site, as revealed in the H5N2
+Nigerian genomes, defines these viruses as HPAI. The acquisition
+of multiple basic amino acid at the HA cleavage site is recognised
+as a major molecular determinant of virulence in AIVs, but it
+might not be sufficient for the expression of high lethality [13,37].
+We did not succeed in isolating these viruses, thus in vivo
+pathogenicity tests to establish the pathogenicity for chickens
+[36] could not be performed. Based on the clear fluorescence
+signal and the low Ct values in real time PCR, the failure of the
+virus isolation attempt was probably not related to a sensitivity
+issue of the virological method. Rather, the reasons for virus
+isolation failure could be related to the loss of viral viability during
+transportation and storage or to a lack of adaptation of the viruses
+to the substrates used in the laboratory (i.e., SPF embryonating
+chicken eggs) [38]. Caution should therefore be taken to consider
+the phenotype of these Nigerian viruses as highly pathogenic for
+chickens, since few exceptions have been described involving H5
+viruses with a multiple basic amino acid motif resulting in low
+pathogenicity in experimentally infected chickens [37,39]. How-
+ever, the number of basic amino acids at the HA cleavage site of
+the Nigerian H5N2 viruses was identical (n = 7) to some other
+African H5N1 and H5N2 HPAI viruses (Table 2). Furthermore,
+the cleavage site of A/SWG/Nigeria/5388-2-8-5/2007 is identical
+to A/ostrich/South Africa/N227/2004 (H5N2) HPAI which
+caused clinical signs characteristic of HPAI phenotype [11],
+suggesting a potential for an HPAI behaviour of these viruses.
+Despite the relative proximity of our sampling site with past and
+recent H5N1 HPAI virus outbreaks in domestic birds in northern
+Nigeria (#80 km), the H5N2 viruses we detected were unrelated
+to any 2004-07 H5N1 HPAI strains from Asia, Europe or Africa.
+The HA gene instead clustered with sequences from ducks from
+South and Central Europe, in particular with contemporary
+strains isolated from wild ducks, suggesting a connection via
+migratory flyways. This finding is consistent with the close
+relationship previously reported between H5N1 HPAI viruses
+isolated from Nigerian poultry and European wild birds [40] and
+with the role suggested for the Eurasian migratory birds in the
+occurrence of H5 outbreaks previously reported in Southern
+Africa [41,42]. The two waterfowl species we found infected in
+Nigeria (i.e. WFWD and SWG) are widespread across sub-
+Saharan Africa, but no African populations of either species move
+out of the continent [14]. H5N2 viruses were detected during the
+mid-dry season of the Sahel zone, when large flocks of Afro-
+tropical duck species congregate at permanent water bodies in
+large floodplains. At this time of year, these birds also mix with a
+large number of migratory ducks originating from Eurasian
+breeding grounds (e.g. 50,000 Garganeys Anas querquedula were
+present on the sampling site), which gather in tropical wetlands
+during the northern winter. This suggests a potential role of
+Eurasian migratory ducks in the introduction of these viruses or
+their precursors into these ecosystems, which offer an interface
+between Eurasian and Afro-tropical wild ducks.
+The proposed mechanism for the emergence of pathogenicity is
+that it occurs only after a virus has been introduced and adapted to
+gallinaceous poultry populations [5]. This theory is supported by
+phylogenetic analysis that demonstrated shared phylogenetic sub-
+lineages among viruses of both high and low pathogenicity [3,43],
+and that identified precursors of HPAI viruses of gallinaceous poultry
+in wild ducks [44,45]. However, the Nigerian HA sequences showed
+little or no homology with recent H5N2 or H5N1 HPAI viruses
+isolated from gallinaceous poultry in Europe and Africa. Further, no
+mutations commonly observed in gallinaceous poultry-adapted AI
+viruses were observed in their genomes [12,13,43], suggesting that
+these viruses may not have circulated in gallinaceous poultry, at least
+not in an extensive manner. This appears to be supported by the lack
+of evidence of a circulation in poultry of H5 viruses different from
+H5N1 HPAI during an extensive active surveillance conducted over
+Nigeria in 2007 (T. Joannis, personal communication), or in samples
+collected from suspected cases in Nigerian poultry in the same period
+H5N2 was detected in wild waterfowl (January­February 2007) [46].
+The absence of molecular features associated with an extensive viral
+circulation in gallinaceous birds, together with the absence of
+evidence of circulation of H5 LPAI precursor or HPAI viruses in
+gallinaceous birds in Nigeria, suggests that the acquisition of an HP
+viral genotype could have taken place in ducks, either wild or
+domestic, or in other non-gallinaceous species.
+The site where the birds were sampled constitutes one of the
+major wetlands for waterbirds in Nigeria, but is also located in one
+of the major areas of free-ranging duck production in this country
+[47]. WFWD and SWG are found in all types of natural
+freshwater habitats, but they also commonly feed on rice fields
+where domestic ducks may also feed. Local conditions are hence
+favourable to potential transmission events between wild and
+domestic ducks, through direct contact or shared water.
+Though several factors contribute to virulence in AIVs, the
+acquisition of multiple basic amino acids at the HA cleavage site is
+recognised as one of the major molecular determinants in the
+development of HP strains [37]. The presence of coexisting but
+genetically distinguishable avian influenza viruses with an HP viral
+genotype in two cohabiting species of wild waterfowl, with evidence
+of non-lethal infection at least in one species and without evidence of
+prior extensive circulation of the virus in domestic poultry, suggest
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 7 August 2008 | Volume 4 | Issue 8 | e1000127
+that some strains with a potential high pathogenicity for poultry
+could be maintained in a community of wild waterfowl.
+Methods
+Wild bird surveillance
+Birds were captured using mist nets with playbacks, baited traps
+and nooses. Both cloacal and oropharyngeal swabs were collected
+from live-caught birds using sterile cotton swabs (5615 mm and
+2610 mm size, Dutscher manufacturer). Fresh faecal samples
+were also collected at roosting areas (non-captured birds), ensuring
+that the exact species yielding the samples were identified. The
+health of birds was assessed by observing their movements prior to
+sampling, and for captured birds, by their behaviour in the hand,
+mass, and body condition. Samples were placed in a transport
+medium consisting of an isotonic phosphate buffered saline (PBS),
+pH 7.0­7.4, containing antibiotics and antimycotic (penicillin
+10,000 units/ml, streptomycin 10 mg/ml, nystatin 1000 U/ml
+and gentamycin 250 mg/ml) supplemented with 20% glycerol.
+Samples were stored in liquid nitrogen directly in the field. An
+unbroken cold chain was maintained, using a liquid nitrogen
+container during national transport and a cryopack with dry ice
+during international shipment to the laboratory.
+RNA isolation, amplification, and sequence analysis
+RNA was extracted at the CIRAD laboratory (Montpellier,
+France) with the Nucleospin RNA virus kit from Macherey Nagel
+using the automate Biomek FX from Beckman, after elution into
+50 ml H2O. RNA was first screened for the presence of genomic
+nucleic acid from type A Influenza viruses by means of RRT-PCR
+targeting the influenza matrix gene [48]. Positive samples were tested
+by RT-PCR specific for H5 and H7 subtype [48,49]. Conventional
+RT-PCR amplifying specifically the cleavage site was carried out on
+H5 or H7 positive samples and amplified products sequenced in
+order to detect the presence of multibasic amino acids. At the OIE/
+FAO Reference Laboratory for AI (IZSE, Padova, Italy), confirma-
+tory molecular tests, including sequencing, molecular and phyloge-
+netic analysis, were further applied and virus isolation in
+embryonating SPF chicken eggs was attempted for all RRT-PCR-
+positive samples according to standard procedures [36].
+From positive samples the complete ORF of the HA and NA
+genomic segments were directly sequenced and phylogenetically
+analysed. Briefly, the cDNA of viral genomic segments 4 and 6 was
+amplified through the application of five to six distinct PCRs
+targeting overlapping regions of approximately 400 to 900 bp
+each. Briefly, 6 primer sets were applied to amplify and sequence 6
+overlapping segments for the HA gene sequence (59-39 segments
+position 222 to 666; 422 to 1303; 900 to 1726; 557 to 1526; 729
+to 1207 and 437 to 1248; referring to A/turkey/Italy/1325/
+05(H5N2); Genbank accession number CY022629). For the NA
+gene, 5 primer sets were applied to amplify and sequence five
+overlapping segments (59-39 segments position 27 to 171; 1­723;
+583 to 950; 877 to 1374 and 877 to 1426; referring to A/turkey/
+Italy/1325/05(H5N2); Genbank accession number CY022631).
+Primer sequences are available on request.
+Amplicons were purified (ExoSap-IT, USB Corporation, Ohio,
+USA) and sequenced on both strands. The obtained sequences
+were then aligned together with contemporary and Eurasian
+HPAI and LPAI sequences and their phylogenetic relationship was
+inferred by the application of Neighbor-Joining algorithm (MEGA
+4.0; 1,000 bootstrapping) [50]. Sequences have been deposited in a
+public database (GenBank accession numbers EU544242 to
+EU544248).
+Satellite tracking
+The two WFWDs captured at the Dagona Waterfowl sanctuary
+were equipped with an 18g solar powered satellite Platform
+Transmitter Terminal (PTT), attached on the back of the bird using
+a Teflon harness-attachment. Sex was determined on the basis of
+cloacal examination, and body mass was measured to the nearest
+10 g. Before the deployment of transmitters in Nigeria a test had
+been conducted on captive WFWDs at Montpellier Zoo (France) to
+monitor the effects of attachment technique and transmitter load on
+birds. Movements were monitored using the Argos satellite tracking
+system. The PTT was programmed to transmit for a 10 h interval
+every 24 h according to the battery capacity. Argos CLS (Toulouse,
+France) processed the satellite signals and provided locations. Only
+locations with a precision ,1000 m (location classes 1, 2 and 3,
+dependent on the number and quality of signals received) were used
+for analysis and mapping.
+Acknowledgments
+We are grateful to all the ornithologists and veterinarians who collaborated
+in this large-scale surveillance programme coordinated by CIRAD and
+Wetlands International, and in particular to the participants of the
+Nigerian field operation: Onyeche O. Adah, Delmo Mannok, Longtong
+Turshat (AP Leventis Ornithological Research Institute; contribution
+number 31), Harry Hanson Jr (Hadejia-Nguru Wetlands Office), Giuseppe
+Rossi (Istituto Nazionale per la Fauna Selvatica), Dr Scott Petrie (Bird
+Studies Canada) and Gabriel Norevik, Per O
+¨ sterman, and Andreas
+Eriksson (Ottenby Bird Observatory; contribution number 225).
+The authors thank the Conservator-General of Nigerian National Parks
+for permission to capture birds for telemetry study in Nigeria, and to Celia
+Abolnik (Ondesterpoort Veterinary Institute of Pretoria, South Africa) for
+providing the information on the South African AI sequences included in
+this study. We would like to thank the Lunaret-Montpellier Zoo (France)
+for allowing the test on captive birds to be conducted.
+Author Contributions
+Conceived and designed the experiments: NG SHN WH TD JL JD FM.
+Performed the experiments: SH WH JYT TJ PG SM PM. Analyzed the
+data: NG GC JC IM AF. Contributed reagents/materials/analysis tools:
+GC SH UO JHM. Wrote the paper: NG GC. Revised the article critically
+for important intellectual content: IC.
+References
+1. Webster RG, Bean WJ, Gorman OT, Chambers TM, Kawaoka Y (1992)
+Evolution and ecology of influenza A viruses. Microbiol Rev 56: 152­179.
+2. Olsen B, Munster VJ, Wallensten A, Waldenstrom J, Osterhaus AD, Fouchier RA
+(2006) Global patterns of influenza a virus in wild birds. Science. 312: 384­88.
+3. Ro
+¨hm C, Horimoto T, Kawaoka Y, Suss J, Webster RG (1995) Do
+hemagglutinin genes of highly pathogenic avian influenza viruses constitute
+unique phylogenetic lineages? Virology 209: 664­670.
+4. van Gils JA, Munster VJ, Radersma R, Liefhebber D, Fouchier RAM, et al.
+(2007) Hampered Foraging and Migratory Performance in Swans Infected with
+Low-Pathogenic Avian Influenza A Virus. PLoS ONE 2(1): e184.
+5. Alexander DJ (2000) A review of avian influenza in different bird species. Vet
+Microbiol 74: 3­13.
+6. Stallknecht DE, Nagy E, Hunter D, Slemons RD (2007) Avian Influenza. In:
+Thomas NJ, Hunter DB, Atkinson CT, eds. Infectious Diseases of Wild Birds
+Blackwell Publishing. pp 108­130.
+7. Becker WB (1966) The isolation and classification of tern virus: influenza virus
+A/tern/South Africa/1961. J Hyg 64: 309­320.
+8. Food and Agriculture Organization of the United Nations (2007) Wild Birds and
+Avian Influenza: an introduction to applied field research and disease sampling
+techniques. Whitworth D, Newman SH, Mundkur T, Harris P, eds. FAO
+Animal Production and Health Manual, No. 5, pp 123 (available at www.fao.
+org/avianflu).
+9. Gaidet N, Dodman T, Caron A, Balanc
+¸a G, Desvaux S, et al. (2007) Avian
+influenza viruses in water birds, Africa. Emerg Infect Dis 13: 626­629.
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 8 August 2008 | Volume 4 | Issue 8 | e1000127
+10. De Benedictis P, Joannis TM, Lombin LH, Shittu I, Beato MS, Rebonato V,
+Cattoli G, Capua I (2007) Field and laboratory findings of the first incursion of
+the Asian H5N1 highly pathogenic avian influenza virus in Africa. Avian Pathol
+36: 115­117.
+11. Abolnik C (2007) Molecular characterization of H5N2 avian influenza viruses
+isolated from South African ostriches in 2006. Avian Dis 51: 873­879.
+12. Matrosovich M, Zhou N, Kawaoka Y, Webster RG (1999) The surface
+glycoproteins of H5 influenza viruses isolated from humans, chickens, and wild
+aquatic birds have distinguishable properties. J Virol 73: 1146­1155.
+13. Banks J, Speidel ES, Moore E, Plowright L, Piccirillo A, et al. (2001) Changes in
+the haemagglutinin and the neuraminidase genes prior to the emergence of
+highly pathogenic H7N1 avian influenza viruses in Italy. Arch Virol 146:
+963­973.
+14. Brown LH, Urban EK, Newman K (1982) The Birds of Africa Vol. 1. London:
+Academic Press. 521 p.
+15. Brown JD, Stallknecht DE, Beck JR, Suarez DL, Swayne DE (2006)
+Susceptibility of North American ducks and gulls to H5N1 highly pathogenic
+avian influenza viruses. Emerg Infect Dis 12: 1663­1670.
+16. Pasick J, Berhane Y, Embury-Hyatt C, Copps J, Kehler H, et al. (2007)
+Susceptibility of Canada geese (Branta canadensis) to highly pathogenic avian
+influenza virus (H5N1). Emerg Infect Dis 13: 1821­1827.
+17. Brown JD, Stallknecht DE, Swayne DE (2008) Experimental infection of swans
+and geese with highly pathogenic avian influenza virus (H5N1) of Asian lineage.
+Emerg Infect Dis 14: 136­142.
+18. Keawcharoen J, van Riel D, van Amerongen G, Bestebroer T, Beyer WE, et al.
+(2008) Wild ducks as long-distance vectors of highly pathogenic avian influenza
+virus (H5N1). Emerg Infect Dis 14: 600­607.
+19. Capua I, Grossele B, Bertoli E, Cordioli P (2000) Monitoring for highly
+pathogenic avian influenza in wild birds in Italy. Vet Rec 147: 640.
+20. Saad MD, Ahmed LS, Gamal-Eldein MA, Fouda MK, Khalil FM, et al. (2007)
+Possible avian influenza (H5N1) from migratory bird, Egypt. Emerg Infect Dis
+13: 1120­1121.
+21. Chen H, Li KS, Wang J, Fan XH, Rayner JM, et al. (2006) Establishment of
+multiple sublineages of H5N1 influenza virus in Asia: Implications for pandemic
+control. Proc Nat Acad Sci USA 103: 2845­50.
+22. Wallensten A, Munster VJ, Latorre-Margalef N, Brytting M, Elmberg J, et al.
+(2007) Surveillance of influenza A virus in migratory waterfowl in Northern
+Europe. Emerg. Infect. Dis. 13: 404­411.
+23. Capua I, Mutinelli F (2001) Mortality in Muscovy ducks (Cairina moschata) and
+domestic geese (Anser anser var. domestica) associated with natural infection with a
+highly pathogenic avian influenza virus of H7N1 subtype. Avian Pathol 30:
+179­183.
+24. Kishida N, Sakoda Y, Isoda N, Matsuda K, Eto M, Sunaga Y, et al. (2005)
+Pathogenicity of H5 influenza viruses for ducks. Arch Virol 150: 1383­1392.
+25. Wood GW, Parsons G, Alexander DJ (1995) Replication of influenza A viruses
+of high and low pathogenicity for chickens at different sites in chickens and ducks
+following intranasal inoculation. Avian Pathol 24: 545­541.
+26. Alexander DJ, Allan WH, Parsons DG, Parsons G (1978) The pathogenicity of
+four avian influenza viruses for fowls, turkeys and ducks. Res Vet Sci 24:
+242­247.
+27. Ellis TM, Bousfield B, Bissett L, Dyrting K, Luk GSM, et al. (2004) Investigation
+of outbreaks of highly pathogenic H5N1 avian influenza in waterfowl and wild
+birds in Hong Kong in late 2002. Avian Pathol 33: 492­505.
+28. Sturm-Ramirez KM, Ellis T, Bousfield B, Bissett L, Dyrting K, et al. (2004)
+Reemerging H5N1 influenza viruses in Hong Kong in 2002 are highly
+pathogenic to ducks. J Virol 78: 4892­4901.
+29. Webster RG, Hulse-Post DJ, Sturm-Ramirez KM, Guan Y, Peiris M, et al.
+(2007) Changing epidemiology and ecology of highly pathogenic avian H5N1
+influenza viruses. Avian Dis 51: 269­272.
+30. Perkins LEL, Swayne DE (2002) Pathogenicity of a Hong Kong-origin H5N1
+highly pathogenic avian influenza virus for emus, geese, ducks, and pigeons.
+Avian Dis 46: 53­63.
+31. Pittman M, Laddomada A, Freigofas R, Piazza V, Brouw A, et al. (2007)
+Surveillance, prevention, and disease management of avian influenza in the
+European Union. J Wildlife Dis 43: S64­S70.
+32. Hulse-Post DJ, Sturm-Ramirez KM, Humberd J, Seiler P, Govorkova EA, et al.
+(2005) Role of domestic ducks in the propagation and biological evolution of
+highly pathogenic H5N1 influenza viruses in Asia. Proc Natl Acad Sci U S A
+102: 10682­10687.
+33. Pantin-Jackwood MJ, Suarez DL, Spackman E, Swayne DE (2007) Age at
+infection affects the pathogenicity of Asian highly pathogenic avian influenza
+H5NI viruses in ducks. Virus Res 130: 151­161.
+34. Oatley TB, Prys-Jones RP (1986) A comparative analysis of movements of
+southern African waterfowl (Anatidae) based on ringing recoveries. S Afr J Wildl
+Res 16: 1­6.
+35. Petrie SA, Rogers KH (1997) Satellite tracking of white-faced whistling ducks in
+a semiarid region of South Africa. J Wildlife Manage 61: 1208­1213.
+36. OIE (World Organization for Animal Health) (2004) Highly pathogenic avian
+influenza. In: Manual of diagnostic tests and vaccines for terrestrial animals, 5th
+Edition, Paris, France: Office International des Epizooties. 258 p.
+37. Lee CW, Lee YJ, Swayne D, Senne D, Linares DJ, et al. (2007) Assessing
+potential pathogenicity of avian influenza virus: Current and experimental
+system. Avian Dis 51: 260­263.
+38. Fouchier RAM, Olsen B, Bestebroer TM, Herfst S, van der Kemp L, et al.
+(2003) Influenza A virus surveillance in wild birds in northern Europe in 1999
+and 2000. Avian Dis 47: 857­860.
+39. Lo
+¨ndt BZ, Banks J, Alexander DJ (2007) Highly pathogenic avian influenza
+viruses with low virulence for chickens in in vivo tests. Av Pathol 36: 347­350.
+40. Ducatez MF, Olinger CM, Owoade AA, De Landtsheer S, Ammerlaan W, et al.
+(2006) Avian flu: Multiple introductions of H5N1 in Nigeria. Nature 442: 37.
+41. Abolnik C, Cornelius E, Bisshopp SPR, Romito M, Verwoerd DJ (2006)
+Phylogenetic analyses of genes from South African LPAI viruses isolated in 2004
+from wild aquatic birds suggests introduction by Eurasian migrants. Dev. Biol.
+24: 189­199.
+42. Olivier AJ (2006) Ecology and epidemiology of avian influenza in ostriches. Dev
+Biol 124: 51­57.
+43. Banks J, Speidel EC, McCauley JW, Alexander DJ (2000) Phylogenetic analysis
+of H7 haemagglutinin subtype influenza A viruses. Arch Virol 145: 1047­1058.
+44. Munster VJ, Wallensten A, Baas C, Rimmelzwaan GF, Schutten M, et al. (2005)
+Mallards and highly pathogenic avian influenza ancestral viruses, Northern
+Europe. Emerg Infect Dis 11: 1545­1551.
+45. Campitelli L, Di Martino A, Spagnolo D, Smith GJD, Di Trani L, et al. (2008)
+Molecular analysis of avian H7 influenza viruses circulating in Eurasia in 1999-
+2005: detection of multiple reassortant virus genotypes. J Gen Virol 89: 48­59.
+46. Monne I, Joannis TM, Fusaro A, de Benedictis P, Lombin LH, et al. (2008)
+Reassortant avian influenza virus (H5N1) in poultry, Nigeria, 2007. Emerg
+Infect Dis 14: 637­640.
+47. Adene DF, Oguntade AE (2006) The structure and importance of the
+commercial and village based poultry industry in Nigeria. Rome: FAO. 109 p.
+48. Spackman E, Senne DA, Myers TJ, Bulaga LL, Garber LP, et al. (2002)
+Development of a real-time reverse transcriptase PCR assay for Type A
+influenza virus and the avian H5 and H7 hemagglutinin subtypes. J Clin
+Microbiol 40: 3256­3260.
+49. Slomka MJ, Pavlidis T, Banks J, Shell W, McNally A, et al. (2007) Validated H5
+Eurasian realtime reverse transcriptase­polymerase chain reaction and its
+application in H5N1 outbreaks in 2005­2006. Avian Dis 51: 373­377.
+50. Tamura K, Dudley J, Nei M, Kumar S (2007) MEGA4: Molecular Evolutionary
+Genetics Analysis (MEGA) software version 4.0. Mol Biol Evol 24: 1596­1599.
+Highly Pathogenic Avian Influenza in Wild Birds
+PLoS Pathogens | www.plospathogens.org 9 August 2008 | Volume 4 | Issue 8 | e1000127
+

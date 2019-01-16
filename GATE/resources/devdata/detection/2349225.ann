@@ -1,0 +1,36 @@
+T1	Protein 1 5	Proc
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 64 76	Biochemistry
+#2	AnnotatorNotes T2	END
+T3	Protein 168 169	(
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 772 773	)
+#4	AnnotatorNotes T4	END
+T18	Location 4877 4888	Saint Louis
+#18	AnnotatorNotes T18	<latlong>38.62727, -90.19789</latlong><geoID>4407084</geoID><pop>319294</pop>
+T7	Location 4890 4892	MO
+#7	AnnotatorNotes T7	<latlng>38.25031,-92.50046</latlng><pop>5768151</pop><geoID>4398678</geoID>
+T8	Protein 6457 6461	4154
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 6713 6717	4155
+#9	AnnotatorNotes T9	END
+T31	Location 11033 11045	Philadelphia
+#31	AnnotatorNotes T31	<latlng>39.95234,-75.16379</latlng><pop>1526006</pop><geoID>4560349</geoID>
+T10	Protein 13202 13214	Biochemistry
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 13267 13270	al.
+#11	AnnotatorNotes T11	END
+T39	Location 16539 16546	Atlanta
+#39	AnnotatorNotes T39	<latlng>33.749,-84.38798</latlng><pop>420003</pop><geoID>4180439</geoID>
+T12	Protein 19972 19976	Proc
+#12	AnnotatorNotes T12	BEGIN
+T13	Protein 20048 20052	4157
+#13	AnnotatorNotes T13	END
+T14	Protein 28407 28419	Biochemistry
+#14	AnnotatorNotes T14	BEGIN
+T15	Protein 28472 28475	al.
+#15	AnnotatorNotes T15	END
+T5	Protein 28854 28856	We
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 32862 32863	)
+#6	AnnotatorNotes T6	END

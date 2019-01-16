@@ -1,0 +1,321 @@
+﻿LETTERS
+1120 Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 13, No. 7, July 2007
+Qiao-Ping Wang,*
+Xiao-Guang Chen
+and Zhao-Rong Lun*
+*Sun Yat-Sen (Zhongshan) University,
+Guangzhou, People's Republic of China;
+and Southern Medical University, Guang-
+zhou, People's Republic of China
+References
+1. Xu HG, Qiang S. Inventory invasive alien
+species in China. Beijing: Chinese Envi-
+ronmental Science Press; 2004.
+2. Zhou XC. Risk analysis of invasive Poma-
+cea canaliculata. Jian Yan Jian Yi Ke Xue.
+2004;14:37­9.
+3. Tsai HC, Liu YC, Kunin CM, Lai PH, Lee
+SS, Chen YS, et al. Eosinophilic meningi-
+tis caused by Angiostrongylus cantonensis
+associated with eating raw snails: correla-
+tion of brain magnetic resonance imaging
+scans with clinical findings. Am J Trop
+Med Hyg. 2003;68:281­5.
+4. Tsai HC, Liu YC, Kunin CM, Lee SS,
+Chen YS, Lin HH, et al. Eosinophilic
+meningitis caused by Angiostrongylus
+cantonensis: report of 17 cases. Am J
+Med. 2001;111:109­14.
+5. Lin W, Wang XT. Epidemiological survey
+of angiostrongyliasis in Mainland China.
+Chin J Zoonoses. 2004;20:1004­5.
+6. Hollingsworth RG, Cowie RH. Apple
+snails as disease vectors. In: Joshi RC,
+Sebastian LC. Global advances in ecology
+and management of gloden apple snails.
+Nueva Ecija: Philippine Rice Institute;
+2006. p. 121­32
+7. Chen XG, Li H, Lun ZR. Angiostrongyli-
+asis, mainland China. Emerg Infect Dis.
+2005;11:1645­7.
+8. The number of the case of angiostron-
+gyliasis caused by eating P. canaliculata
+reached 131 in Beijing. [cited 2007 Jan
+21]. Available from http://news3.xinhua-
+net.com/fortune//2006-09/12/content_
+5078790.htm
+9. Cowie RH. Apple snails (Ampullariidae)
+as agricultural pests: their biology, im-
+pacts and management. In: Barker GM.
+Molluscus as crop pests. Wallingford
+(UK): CABI Publishing; 2002. p. 145­92
+10. Tsai HC, Lee SS, Huang CK, Yen CM,
+Chen ER, Liu YC. Outbreak of eosino-
+philic meningitis associated with drinking
+raw vegetable juice in southern Taiwan.
+Am J Trop Med Hyg. 2004;71:222­6.
+Address for correspondence: Zhao-Rong
+Lun, Center for Parasitic Organisms, State
+Key Laboratory of Biocontrol, School of Life
+Sciences, Sun Yat-Sen (Zhongshan) University,
+Guangzhou 510275, People's Republic of
+China; email: lsslzr@mail.sysu.edu.cn
+Possible Avian
+Influenza (H5N1)
+from Migratory
+Bird, Egypt
+To the Editor: Wild migratory
+birds are reservoirs for low pathogenic
+avian influenza (LPAI) viruses (1), but
+their role in transmitting highly patho-
+genic avian influenza (HPAI) viruses
+is hotly debated and unclear (2­4). Be-
+ginning in July 2005, a clade of HPAI
+(H5N1) viruses rapidly expanded from
+an apparent focus in western People's
+Republic of China and spread to the
+Middle East, Africa, and Europe (5).
+Genetic analysis of HPAI virus iso-
+lates from dead wild birds along major
+flyways indicated that the strains were
+closely related to the Qinghai H5N1
+A/bar-headed goose/Qinghai/65 /2005
+virus (clade II) (GenBank accession
+no. DQ095622). In addition to trans-
+mission to domestic poultry, HPAI
+(H5N1)­infected mute swans have
+been implicated in direct transmission
+to humans in Azerbaijan (6).
+The US Naval Medical Research
+Unit No. 3 and the Ministry of Envi-
+ronment of Egypt have collaborated
+since 2003 in obtaining samples from
+migratory birds to detect circulating
+influenza viruses. During the 2005­06
+migratory birds season, 1,304 migra-
+tory birds were sampled from either
+live bird markets or cage birds trapped
+by fishermen in Port Said, Damietta,
+Fayoum, Arish, and Sharm el Sheikh
+(online Appendix Figure, panel A,
+available from www.cdc.gov/EID/
+content/13/7/1120-appG.htm).
+A total of 203 cloacal swab sam-
+ples were positive for influenzaAvirus
+matrix gene when tested by real-time
+PCR, and 2 were also positive for the
+hemagglutinin 5 (H5) gene by using
+specific primers (7). Of the 2 migra-
+tory birds positive for the H5 gene, the
+first was a common teal (Anas crec-
+ca) captured in the Nile Delta region
+of Damietta in October 2005 (online
+Appendix Figure, panel A). Sequenc-
+ing of the H5 gene showed that this
+virus was an LPAI most closely re-
+lated to strain A/mallard/Bavaria/1/
+2005(H5N2) (GenBank accession no.
+DQ387854 (2).
+In January 2006, an influenza A
+H5 virus (weak positive result) was
+detected in another common teal
+(trapped in a cage by a fisherman)
+sampled from the Damietta region
+in December 2005 (online Appendix
+Figure, panel A). The low viral load,
+coupled with the failure to isolate the
+virus, precluded the laboratory from
+conducting sequence analysis at the
+time on the basis of insufficient tem-
+plate material. After the outbreak of
+influenza A (H5N1) in poultry and
+humans in Egypt in February 2006,
+additional retrospective attempts to
+concentrate RNA were used to as-
+sess potential introduction scenarios.
+After multiple RNA extractions were
+conducted and the RNA was concen-
+trated, this specimen was found to be
+positive for the neuraminidase 1 (N1)
+gene by real-time PCR.
+The hemagglutinin gene from
+both teal strains was sequenced
+(1,596 bp). Sequences were aligned
+with other influenza A (H5N1) strains
+from Egypt (9 from humans, 5 from
+chickens). Twenty other strains with
+high similarity and from different lo-
+cations were selected by using a Gen-
+Bank search algorithm and included in
+the alignment.Aphylogenetic analysis
+was conducted by using the Kimura
+2-parameter model. The LPAI H5 vi-
+rus strain was used as an outgroup in
+a neighbor-joining phylogenetic tree.
+Bootstrap analysis with 500 replicates
+of sequence data was also conducted
+by using MEGA 3.1 software (8).
+Phylogenetic analysis showed
+clustering of the HPAI (H5N1) strains
+collected from 1 geographic region
+(country) (online Appendix Figure,
+panel B). All HPAI (H5N1) strains
+from Egypt from humans or chickens
+analyzed clustered with a bootstrap
+supportvalueof98%.Furthermore,the
+A/Teal/Egypt/14051-NAMRU3/2006
+LETTERS
+Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 13, No. 7, July 2007 1121
+(H5N1) strain (collected in December
+2005; online Appendix Figure, panel
+A) is an HPAI and is closely related
+to the parent of the group of viruses
+isolated in the early 2006 Egypt out-
+break, with an average identity of
+99.4% with all other strains from
+Egypt and a bootstrap support value of
+96% (online Appendix Figure, panel
+B). Despite the rapid spread of this
+clade (Qinghai-like strain) to many
+countries, since late 2005, strains ana-
+lyzed in this study showed low-level
+genetic variation (<2%).
+Brown et al. reported that spe-
+cies can vary greatly in their response
+to HPAI (9). At least in ducks, it ap-
+pears that viral shedding is highest in
+birds with clinical signs of infection,
+and lowest, as seen in the common
+teal infected with the HPAI strain in
+this study, in birds with subclinical in-
+fections. These subclinical infections
+may be due to flock immunity from
+previous exposure to LPAI H5 virus
+or genetic factors. This suggestion is
+conceivable in light of the LPAI H5
+virus detected in the other teal a few
+months earlier.
+Such naturally resistant wild birds
+might serve as vectors for introduction
+of HPAI viruses into new locations.
+Data presented herein suggest that an
+HPAI virus may have been introduced
+into Egypt through a migratory bird.
+Whether poultry were infected before
+mid-February or the teal was infected
+with influenza A (H5N1) virus by a
+domesticated species is not unknown.
+The low degree of viral shedding in-
+dicates that detection of any influenza
+A (H5N1) virus in wild birds in a new
+region should be immediately fol-
+lowed up with efforts to characterize
+the virus to control the spread of new
+subtypes/strains of HPAI into new lo-
+cations.
+Acknowledgments
+We thank the Egyptian Ministry of
+Environment for its continued collabora-
+tive efforts in migratory bird surveillance.
+This study was supported by the
+Department of Defense Global Emerg-
+ing Infections System (work unit no.
+847705.82000.25GB.E0018).
+Magdi D. Saad,*
+Lu'ay S. Ahmed,
+Mohamed A. Gamal-Eldein,
+Mohamed K. Fouda,
+Fouda M. Khalil,
+Samuel L. Yingst,*
+Michael A. Parker,*
+and Marshall R. Montevillel*
+*US Naval Medical Research Unit No. 3,
+Cairo, Egypt; and Ministry of Environment,
+Cairo, Egypt
+References
+1. Alexander DJ. A review of avian influenza
+in different bird species. Vet Microbiol.
+2000;74:3­13.
+2. Munster VJ, Wallensten A, Baas C, Rim-
+melzwaan GF, Schutten M, Olsen B, et al.
+Mallards and highly pathogenic avian in-
+fluenza ancestral viruses, northern Europe.
+Emerg Infect Dis. 2005;11:1545­51.
+3. Sturm-Ramirez KM, Ellis T, Bousfield B,
+Bissett L, Dyrting K, Rehg JE, et al. Re-
+emerging H5N1 influenza viruses in Hong
+Kong in 2002 are highly pathogenic to
+ducks. J Virol. 2004;78:4892­901.
+4. Normile D. Avian influenza. Evidence
+points to migratory birds in H5N1 spread.
+Science. 2006;311:1225.
+5. Yingst SL, Saad MD, Felt SA. Qinghai-
+like H5N1 from domestic cats, northern
+Iraq. Emerg Infect Dis. 2006;12:1295­7.
+6. Gilsdorf A, Boxall N, Gasimov V, Agayev
+I, Mammadzale F, Ursu P, et al. Two clus-
+ters of human infection with influenza
+A/H5N1 virus in the Republic of Azerbai-
+jan, February-March 2006. Euro Surveill.
+2006;11:122­6.
+7. Spackman E, Senne DA, Myers TJ, Bulaga
+LL, Garber LP, Perdue ML, et al. Devel-
+opment of a real-time reverse transcriptase
+PCR assay for type A influenza virus and
+the avian H5 and H7 hemagglutinin sub-
+types. J Clin Microbiol. 2002;40:3256­
+60.
+8. Kumar S, Tamura K, Nei M. MEGA3: In-
+tegrated software for molecular evolution-
+ary genetics analysis and sequence align-
+ment. Brief Bioinform. 2004;5:150­63.
+9. Brown JD, Stallknecht DE, Beck JR, Su-
+arez DL, Swayne DE. Susceptibility of
+North American ducks and gulls to H5N1
+highly pathogenic avian influenza viruses.
+Emerg Infect Dis. 2006;12:1663­70.
+Address for correspondence: Magdi D. Saad,
+Commanding Officer, US Naval Medical
+Research Unit No.3, PSC 452, Box 5000, MDS
+Code 303, FPO AE 09835-0007, Cairo, Egypt;
+email: darwishm@namru3.med.navy.mil
+Community-
+acquired Extended-
+Spectrum
+-Lactamase
+Producers,
+United States
+To the Editor: Extended-spec-
+trum -lactamase (ESBL)­producing
+organisms have become a common
+problem for patients in hospitals and
+other healthcare facilities (1). Com-
+munity-onset ESBL infections have
+recently been described in Spain, the
+United Kingdom, Israel, and Canada
+(2,3). Typically, the infections are uri-
+nary tract infections (UTIs) with CTX-
+M­producing Escherichia coli. These
+organisms may be resistant to most
+or all antimicrobial agents commonly
+used to treat UTIs, such as ciprofloxa-
+cin, trimethoprim-sulfamethoxazole,
+gentamicin, and ceftriaxone.
+Although CTX-M­producing E.
+coli have previously been found in the
+United States (4), clinical descriptions
+of community-acquired ESBL-pro-
+ducing E. coli infections have not been
+reported in this country. We describe 2
+healthy young women in Pennsylvania
+in whom UTI with CTX-M-15­pro-
+ducing E. coli developed.
+A 25-year-old woman was seen
+in October 2006 at the emergency de-
+partment of a hospital in Pittsburgh
+reporting frequent urination, chills,
+and bilateral back pain. She had no
+relevant past medical history except
+for previous UTIs. Results of a physi-
+cal examination were unremarkable.
+

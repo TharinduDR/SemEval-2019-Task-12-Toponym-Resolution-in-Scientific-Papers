@@ -1,0 +1,1132 @@
+Emergence and Evolution of H10 Subtype Influenza Viruses in
+Poultry in China
+Chi Ma,a,b,c
+Tommy Tsan-Yuk Lam,b
+Yujuan Chai,b
+Jia Wang,a,b
+Xiaohui Fan,d
+Wenshan Hong,a
+Yu Zhang,a,b
+Lifeng Li,a,b
+Yongmei Liu,b
+David K. Smith,b
+Richard J. Webby,e
+Joseph S. M. Peiris,b,c
+Huachen Zhu,a,b,c
+Yi Guana,b,c
+Joint Influenza Research Centre (SUMC/HKU), Shantou University Medical College, Shantou, Chinaa
+; Centre of Influenza Research, School of Public Health, The University
+of Hong Kong, Hong Kong SAR, Chinab
+; State Key Laboratory of Emerging Infectious Diseases (Shenzhen Branch), Shenzhen Third People’s Hospital, Shenzhen, Chinac
+;
+Department of Microbiology, Guangxi Medical University, Nanning, Chinad
+; Division of Virology, Department of Infectious Diseases, St. Jude Children’s Research Hospital,
+Memphis, Tennessee, USAe
+ABSTRACT
+The cases of human infections with H10N8 viruses identified in late 2013 and early 2014 in Jiangxi, China, have raised concerns
+over the origin, prevalence, and development of these viruses in this region. Our long-term influenza surveillance of poultry and
+migratory birds in southern China in the past 12 years showed that H10 influenza viruses have been introduced from migratory
+to domestic ducks over several winter seasons at sentinel duck farms at Poyang Lake, where domestic ducks share their water
+body with overwintering migratory birds. H10 viruses were never detected in terrestrial poultry in our survey areas until August
+2013, when they were identified at live-poultry markets in Jiangxi. Since then, we have isolated 124 H10N8 or H10N6 viruses
+from chickens at local markets, revealing an ongoing outbreak. Phylogenetic analysis of H10 and related viruses showed that the
+chicken H10N8 viruses were generated through multiple reassortments between H10 and N8 viruses from domestic ducks and
+the enzootic chicken H9N2 viruses. These chicken reassortant viruses were highly similar to the human isolate, indicating that
+market chickens were the source of human infection. Recently, the H10 viruses further reassorted, apparently with H5N6 vi-
+ruses, and generated an H10N6 variant. The emergence and prevalence of H10 viruses in chickens and the occurrence of human
+infections provide direct evidence of the threat from the current influenza ecosystem in China.
+IMPORTANCE
+After the outbreak of avian-origin H7N9 influenza viruses in China, fatal human infections with a novel H10N8 virus were re-
+ported. Utilizing data from 12 years of influenza surveillance in southern China, we showed that H10 viruses were regularly in-
+troduced by migratory ducks to domestic ducks on Poyang Lake, a major aggregative site of migratory birds in Asia. The H10
+viruses were maintained and amplified in domestic ducks and then transmitted to chickens and reassorted with enzootic H9N2
+viruses, leading to an outbreak and human infections at live-poultry markets. The emergence of the H10N8 virus, following a
+pathway similar to that of the recent H7N9 virus, highlights the role of domestic ducks and the current influenza ecosystem in
+China that facilitates influenza viruses moving from their reservoir hosts through the live-poultry system to cause severe conse-
+quences for public health.
+Direct interspecies transmissions of avian influenza viruses
+(AIVs) to humans repeatedly occurred in the last 2 decades,
+especially in regions where AIVs have become established or en-
+zootic in poultry (1–4). Lowly pathogenic AIVs do not usually
+cause explicit symptoms in poultry, and unless ongoing surveil-
+lance is in place, human infections may occur before an outbreak
+in poultry is recognized, as was the case with the recent H7N9
+viruses (5, 6).
+It was through hospital-based surveillance of patients with se-
+vere pneumonia in China that a novel H10N8 AIV was identified
+in Nanchang, Jiangxi, with three cases occurring between Novem-
+ber 2013 and February 2014 (7, 8). The virus isolated from the
+initial patient was a reassortant, with its internal gene complex
+derived from the H9N2 viruses enzootic in chickens in China and
+its surface genes related to those found in ducks and wild birds (7,
+9). This is similar to the H7N9 viruses that emerged in early 2013
+(5, 6). The patients with H10N8 infections were known to have a
+history of visiting live-poultry markets (LPMs) or exposure to live
+poultry before disease onset (7, 8), suggesting that market chick-
+ens may be the source of human infections (9, 10).
+H10 subtype influenza viruses from waterfowl have occasion-
+ally infected mammals. H10N7 viruses were found to cause spo-
+radic human infection cases in Egypt in 2004 (11) and in Australia
+in 2010 (12). An H10N4 outbreak in mink was observed in 1984
+(13), and an H10N5 virus was detected in swine in 2008 (14). All of
+these were short-term and isolated events. H10 viruses have never
+Received 30 October 2014 Accepted 31 December 2014
+Accepted manuscript posted online 14 January 2015
+Citation Ma C, Lam TT-Y, Chai Y, Wang J, Fan X, Hong W, Zhang Y, Li L, Liu Y, Smith
+DK, Webby RJ, Peiris JSM, Zhu H, Guan Y. 2015. Emergence and evolution of H10
+subtype influenza viruses in poultry in China. J Virol 89:3534–3541.
+doi:10.1128/JVI.03167-14.
+Editor: R. M. Sandri-Goldin
+Address correspondence to Huachen Zhu, zhuhch@hku.hk, or
+Yi Guan, yguan@hku.hk.
+Supplemental material for this article may be found at http://dx.doi.org/10.1128
+/JVI.03167-14.
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+doi:10.1128/JVI.03167-14
+3534 jvi.asm.org April 2015 Volume 89 Number 7
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from
+become established and caused continuous infections in mamma-
+lian species.
+Continuing human infections with H7N9 AIVs (5, 6) and the
+enzootic status of H5N1 (15) and H9N2 (16) AIVs indicate that
+the influenza ecosystem in China can facilitate the emergence and
+persistence of influenza viruses that are able to infect humans.
+Whether the H10N8 viruses infecting humans will persist remains
+to be explored. The findings of our systematic surveillance in six
+provinces of southern China from 2002 to 2014 showed that H10
+viruses were regularly found in wild and domestic ducks but were
+never identified in terrestrial poultry until August 2013. Since
+then, and prior to the appearance of human infections, H10N8
+viruses were frequently isolated from chickens at LPMs in Nan-
+chang.
+How H10 viruses evolved in wild and domestic birds over the
+past decades, how the current influenza ecosystem in China led to
+the genesis of the H10N8 virus infecting humans, and how these
+H10 viruses are continuing to develop remain to be fully ad-
+dressed. To examine these questions and the potential conse-
+quences of the emergence of H10 viruses in Nanchang, detailed
+analyses of the genomic sequences of 219 H10 and 124 related
+viruses isolated in our surveillance network during the last 12
+years were undertaken. The H10N8 virus that infected a human
+resulted from the interaction of wild birds with domestic ducks in
+the farming system of China, leading to the transfer of H10 and N8
+genes to the markets and reassortment with enzootic H9N2 vi-
+ruses. The transfer of the chicken viruses to humans was coinci-
+dent with H10 virus outbreaks in LPMs. The continuing presence
+of the H10 virus in markets led to it acquiring an N6 neuramini-
+dase (NA), again demonstrating the role of LPMs and the current
+influenza ecosystem of China in generating and perpetuating in-
+fluenza viruses that pose threats to public health.
+MATERIALS AND METHODS
+Active surveillance in southern China.Ongoing surveillance of influenza
+viruses in Jiangxi province has been conducted since 2002 at live-poultry
+markets (LPMs) in the capital city Nanchang (primarily from either the
+major wholesale or retail market), two sentinel duck farms (farms raising
+only domestic ducks, which share their water body with migratory water-
+fowl), and uninhabited islets in Poyang Lake, a major overwinter aggre-
+gation site for migratory waterfowl in Asia (Table 1). Simultaneous sam-
+pling in islets and sentinel duck farms at Poyang Lake can be used to
+monitor the transmission of viruses between migratory waterfowl and
+domestic ducks.
+Migratory bird samples were obtained from fresh fecal droppings col-
+lected at isolated, publicly accessible islets on the lake from mid-October
+to the next March without disturbing the birds. Cloacal samples were
+taken year-round from sentinel ducks, approximately every 10 days. Sam-
+pling at LPMs in Fujian, Guangdong, Guangxi, Guizhou, Jiangxi, and
+Yunnan was carried out weekly from 2002 to 2014. Paired oropharyngeal
+and cloacal swabs were taken from apparently healthy birds at the mar-
+kets. Surveillance in farms and markets was conducted according to pro-
+cedures and guidelines in the WHO Manual on Animal Influenza Diagno-
+sis and Surveillance (17).
+Sample swabs were collected in vials with transport medium (medium
+199 with antibiotics) and kept in cool boxes before being sent to the
+laboratory, where they were inoculated in 9- to 11-day-old embryonated
+chicken eggs for 48 to 72 h at 36°C to isolate influenza viruses (5). Hem-
+agglutinin (HA)-positive isolates were further subtyped by hemagglutinin
+inhibition and neuraminidase inhibition assays using a panel of reference
+antisera, as described previously (5).
+Full-genome sequencing. Samples were selected for sequencing as
+described below. Sequencing was performed by using a Roche 454 Ge-
+nome Sequencer Junior with sample preparation according to the manu-
+facturer’s protocols, giving ⬃150⫻ coverage of the influenza virus ge-
+nome on average. Original reads from 454 sequencing were assembled
+into contigs by using overlapping regions of 40 nucleotides with ⬎90%
+identity with the 454 de novo assembler. Contigs were identified as influ-
+enza A virus sequences by using BLAST against the influenza A virus
+sequences from GenBank. The contigs were then assembled with Laser-
+gene, version 9.0 (DNAStar). For samples having mixed infections, based
+on manual curation, if two copies of an internal gene segment had ⬍97%
+identity in the nucleotide sequence, they were separated and named mix-a
+and mix-b. Otherwise, the gene was marked as “mixed” with degenerate
+nucleotide codes and excluded from further analysis.
+TABLE 1 H10 subtype avian influenza viruses isolated from migratory and domestic birds in six provinces of southern China from 2002 to 2014a
+Yr
+No. of isolates (no. of viruses sequenced)
+Migratory ducks
+Sentinel ducks
+in JX
+Domestic ducks and geese from LPMs Chickens from LPMs
+Total
+JX Others JX FJ GD GX GZ YN JX Others
+2002 / — — / / — / / / / — —
+2003 2 (2) — 1 / / 3 / / / / — 6 (2)
+2004 — — — / — — — / — / — —
+2005 9 (6) — 3 (3) / — — 1 — — / — 13 (9)
+2006 — — 267 (6) / — 4 — — 1 / — 272 (6)
+2007 — — 3 8 — — — — — — — 11
+2008 2 (1) — — 39 (7) — 2 — 5b
+— — — 48 (8)
+2009 1 (1) — 30 (4) 10 (5) — 1 1 1 — — — 44 (10)
+2010 — — — 3 — — — — — — — 3
+2011 — — — 18 — — — 2 — — — 20
+2012 1 (1) — — — — — — 2c
+— — — 3 (1)
+2013 12 (12) — 103 (20) 27 (27) — — — — 1 38 (38) — 181 (97)
+2014 — — — — — — — — — 86 (86) — 86 (86)
+Total 27 (23) — 407 (33) 105 (39) — 10 2 10 2 124 (124) — 687 (219)
+a
+Abbreviations: JX, Jiangxi; FJ, Fujian; GD, Guangdong; GX, Guangxi; GZ, Guizhou; YN, Yunnan; Others, all except Jiangxi; LPMs, live-poultry markets; —, no isolate; /, not
+sampled.
+b
+Including 2 goose isolates from Guizhou LPMs.
+c
+Including 1 goose isolate from Guizhou LPMs.
+Genesis and Development of H10N8 Virus in Poultry
+April 2015 Volume 89 Number 7 jvi.asm.org 3535
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from
+Data set preparation and alignment. Nucleotide sequences generated
+in this study were combined with all publicly available sequences of avian
+influenza A viruses in GenBank (http://www.ncbi.nlm.nih.gov/GenBank)
+and H10N8 and H7N9 human virus sequences from GISAID (http:
+//gisaid.org/). Sequences with ⬎5 ambiguous nucleotides, or ⬍70% of the
+length of the coding region, or that were mosaic (18) were excluded.
+Sequences were aligned by using MUSCLE v3.5 (19), with manual adjust-
+ments.
+Phylogenetic analysis. A “panoramic” maximum likelihood (ML)
+phylogeny of each gene segment was first constructed by using the rapid
+hill-climbing search method and the GTRGAMMA nucleotide substitu-
+tion model in RAxML v7.6.8 (20). The Eurasian lineage that contains the
+H10N8 human and chicken isolates was retained, except for the N8 gene,
+where the major North American lineage was kept. The number of se-
+quences of each segment was reduced to ⬃1,000 by keeping those se-
+quences most closely related to the H10N8 viruses. They were then built
+into ML phylogenies by 100 independent tree searches using RAxML
+v7.6.8. The robustness of the topologies was evaluated with the Shimod-
+aira-Hasegawa approximate likelihood ratio test (21) on the best trees.
+The smaller ML trees shown in Fig. 2 and 3 were created with PhyML v3.0
+(22), with bootstrap support values obtained from 1,000 pseudorepli-
+cates.
+Molecular dating. A set of closely related viruses (⬃100 sequences for
+each gene) was chosen for molecular clock estimation. The time-scaled
+maximum clade credibility phylogenies of the H10 virus segments were
+inferred by using a relaxed molecular clock model with an uncorrelated
+log-normal distribution (23) and virus sampling dates accurate to the day
+of a year. The SRD06 nucleotide substitution model (24) and the coales-
+cent Bayesian skyline model (25) were incorporated into the Bayesian
+Markov chain Monte Carlo (MCMC) method implemented in BEAST
+v1.7.5 (26). Multiple independent MCMC runs were performed and as-
+sessed for consistency. They were combined to give a total chain length of
+2 ⫻ 108
+to 6 ⫻ 108
+steps, with sampling at every 1,000 steps. Convergence
+of relevant parameters was assessed by effective sample sizes of ⬎200 in
+Tracer v1.5 (http://tree.bio.ed.ac.uk/software/tracer/).
+Nucleotide sequence accession numbers. Sequences generated in this
+study are available in GenBank under accession numbers KP284874 to
+KP288026.
+RESULTS
+Prevalence of H10 AIV in aquatic birds. From 2002 to 2014, a
+total of 560 H10 AIVs were isolated from migratory or domestic
+ducks in six provinces in southern China. Of these, 539 were iso-
+lated in Jiangxi from migratory ducks (n ⫽ 27) at islets in Poyang
+Lake, sentinel domestic ducks (n ⫽ 407) at farms on Poyang Lake,
+and domestic ducks (n ⫽ 105) at LPMs in Nanchang (40 km
+southwest of Poyang Lake) (Table 1). In contrast, in the remaining
+five provinces, only 21 H10 viruses were isolated from domestic
+ducks, and 3 were isolated from geese. Transmissions of H10 vi-
+ruses from migratory birds to sentinel domestic ducks in Jiangxi
+were observed in the winters of 2005 to 2006, 2008 to 2009, and
+2012 to 2013, with further transmissions to domestic ducks at
+LPMs (Table 1). Thus, Poyang Lake, a major aggregative site of
+migratory birds in Asia, is a major source of H10 viruses in south-
+ern China, while sentinel domestic ducks played a key role in
+spreading the H10 viruses.
+Emergence and outbreak of H10 AIV in chickens in Jiangxi.
+The H10 subtype had never been detected in terrestrial poultry
+before August 2013 in our surveillance areas. Up to April 2014, a
+total of 124 H10 viruses were isolated from chickens at LPMs in
+Nanchang (Table 1 and Fig. 1). Sixty-seven H10N8 viruses were
+obtained over 13 sampling occasions from August 2013 to January
+2014, and 57 H10N6 viruses were isolated on 4 sampling occasions
+in March and April 2014 (Fig. 1). All chicken H10 viruses were
+detected from oropharyngeal swabs, suggesting that these chicken
+H10 viruses mainly replicated in and were shed through the upper
+respiratory and/or oral tract. Nearly one-half (n ⫽ 33) of the
+chicken H10N8 isolates were detected as mixed infections with
+H9N2 viruses. Of the H10N6 isolates, six were detected as mixed
+infections with H7N9 viruses, and one was mixed with an H9N2
+virus.
+Phylogenetic analysis of the H10 viruses. Whole-genome se-
+quences of H10 viruses isolated in Jiangxi from 2003 to 2014 were
+49 50 51 52 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+0
+10
+20
+30
+40
+50
+60
+80
+100
+Week
+Migratory ducks - H10N5/H10N7
+Ducks at sentinel duck farms - H10N8
+LPM domestic ducks - H10N3
+LPM chickens - H10N8
+LPM chickens - H10N6
+2013
+2012 2014
+Number
+of
+Isolates
+Two sampling
+occasions
+Two sampling
+occasions
+FIG 1 Isolation of H10 influenza A viruses from migratory and domestic birds in Jiangxi during 2012 to 2014. If two sampling occasions fell within 1 week, this
+is indicated. LPM, live-poultry market.
+Ma et al.
+3536 jvi.asm.org April 2015 Volume 89 Number 7
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from
+obtained. These were H10 chicken isolates, 23 migratory duck
+isolates, 33 sentinel duck isolates, and 39 viruses from domestic
+ducks at LPMs (Table 1). Additionally, 68 H9N2 viruses and 56 N8
+or N6 viruses isolated from 2013 to 2014 were also sequenced. All
+the sequences were analyzed along with those of the human
+H10N8 virus (A/Jiangxi/Donghu-346/2013 [JX346]) and other
+closely related sequences from publicly available databases.
+Phylogenetic analysis of the H10 HA gene showed that there
+was a recent introduction of H10 viruses from migratory ducks to
+domestic ducks in Jiangxi from 2012 to 2013 and three earlier
+introductions in 2003, early 2005, and 2008 (Fig. 2A, asterisks; see
+also Fig. S1A in the supplemental material, asterisks). Only a single
+introduction of an H10 virus from domestic ducks to chickens was
+observed. The HA genes of all the chicken H10N8 viruses isolated
+at LPMs in Nanchang formed a monophyletic group (the JX346-
+like sublineage) together with the human H10N8 isolate, consis-
+tent with avian-to-human transmission of the virus at the LPM
+(Fig. 2A). The chicken H10N6 viruses that were isolated subse-
+quently also had HA genes belonging to this sublineage, suggest-
+ing that N6 was acquired by a reassortment of the H10N8 viruses.
+The N8 gene phylogeny showed that all the NA genes of the
+chicken H10N8 viruses formed a monophyletic group (the JX346-
+like sublineage), with ⬎99.5% nucleotide sequence identity to the
+human isolate. N8 genes from Jiangxi domestic duck isolates with
+mixed infections involving multiple subtypes were the immediate
+outlier group of the chicken H10N8 viruses (Fig. 2B; see also Fig.
+S1B in the supplemental material), suggesting that frequent coin-
+fections and reassortment in ducks may contribute to the assem-
+bly of novel HA and NA combinations and may be associated with
+interspecies transmission to chickens. These viruses were derived
+from the North American lineage as one of the several interconti-
+nental transmissions of the N8 segment to the Eurasian gene pool
+that subsequently passed from migratory birds in eastern Asia to
+domestic ducks in Jiangxi (Fig. 2B, triangles; see also Fig. S1B in
+the supplemental material, triangle).
+The N8 genes of the duck H10N8 viruses isolated at sentinel
+duck farms on Poyang Lake in February 2013 were genetically
+distant from those of the human and chicken viruses and origi-
+nated from a separate intercontinental introduction (Fig. 2B; see
+also Fig. S1B in the supplemental material). Even though H3N8
+viruses have been the most predominant among duck N8 viruses,
+only one chicken H3 virus (H3N8, isolated in February 2013) was
+identified in Jiangxi (Fig. 2B; see also Fig. S1B in the supplemental
+material). This chicken N8 gene was more closely related to those
+of the duck H10N8 viruses isolated at the sentinel duck farms than
+to the N8 genes of the JX346-like sublineage that led to the human
+infection.
+The N6 genes of the chicken H10N6 viruses isolated from Ji-
+angxi LPMs were closely related to those of H6N6 viruses estab-
+lished in domestic ducks in southern China (27). They appear to
+be directly derived from H5N6 viruses isolated from multiple
+types of poultry from late 2013 to early 2014, which acquired the
+N6 gene containing an 11-amino-acid stalk deletion from H6N6
+viruses of ducks in southern China (Fig. 2C; see also Fig. S1C in the
+supplemental material) (27). This indicates a recent reassortment,
+probably between the H10N8 and H5N6 viruses in poultry. Only
+H10N6 viruses have been detected in chickens at LPMs since
+March 2014, suggesting that the N8 gene may have been replaced.
+The internal genes of chicken H10N8 and H10N6 viruses were
+derived mainly from the locally enzootic chicken H9N2 virus lin-
+eage (Ck/Zhejiang/HJ/2007, ZJ-HJ-07 lineage) (Fig. 3; ZJ-HJ-07;
+see also Fig. S2 in the supplemental material), as were the internal
+genes of the human H10N8 and the recent H7N9 viruses. For each
+internal gene, the majority of the H10N8 viruses, including that
+from the human case, formed a monophyletic clade (JX346-like)
+(Fig. 3; see also Fig. S2 in the supplemental material). PB1 and PB2
+gene segments derived from Eurasian gene pool viruses were com-
+monly identified in the H10N8 viruses, leading to four different
+genotypes (Fig. 4; see also Tables S1 and S2 in the supplemental
+material) before January 2014. These segments were then replaced
+by those from H9N2 viruses (Fig. 3; see also Fig. S2A and S2B and
+Tables S1 and S2 in the supplemental material), indicating con-
+tinual reassortments between H10N8 and H9N2 viruses. In the
+case of a few chicken H10 viruses, the internal genes clustered with
+those from the first wave of H7N9 viruses (Fig. 3; see also Fig. S2 in
+the supplemental material), suggesting that H10 viruses might
+have reassorted in chickens with H7N9 viruses or with H9N2 vi-
+ruses that carried H7N9-like internal genes.
+Dating the emergence of the H10N8 viruses. The times of the
+interspecies transmission and reassortment events leading to the
+emergence of the chicken H10N8 viruses were estimated by mo-
+lecular dating (see Fig. S3 and S4 in the supplemental material).
+The H10 gene was transferred from ducks to chickens in April to
+June 2013, based on estimates for the time of divergence (tDiv)
+from the duck lineages to the time of the most recent common
+ancestor (tMRCA) of the chicken viruses. Similarly, the transfer of
+the N8 segment from ducks to chickens occurred between Octo-
+ber 2012 and July 2013 (see Fig. S4 in the supplemental material).
+For the six internal genes, the tMRCAs of the JX346-like sublin-
+eage, containing both H10N8 and H9N2 viruses, were estimated
+to range from January to September 2013 (see Fig. S4 in the sup-
+plemental material). Thus, the generation of the H10N8 viruses in
+chickens appears to be a recent event that most probably occurred
+in the middle of 2013.
+MolecularcharacterizationofH10N8andH10N6viruses.All
+the H10 chicken viruses and the human isolate had an HA Q220R
+substitution (residue 210, H3 numbering) relative to the duck
+viruses. This residue is located in the trimer interface of the HA
+protein (28). This substitution was shown to increase the pH of
+virus fusion and viral replication of an H3N2 virus in murine
+tracheal epithelial cells and lungs of mice (29). Deletions in the
+stalk region of NA are frequently found in viruses that have be-
+come established in terrestrial poultry (30, 31); however, deletions
+were not seen in N8 of the chicken isolates. The N6 proteins con-
+tain a stalk deletion at residues 59 to 69, which was originally
+identified in H6N6 viruses established in domestic ducks in south-
+ern China (27) and the H5N6 viruses identified in 2013 to 2014.
+None of the H10N8 chicken viruses carry the mammalian adap-
+tation marker substitution E627K or D701N in the PB2 protein.
+However, PB2 of the human case had a mixture of 627E and 627K,
+with 627K predominating as the infection progressed (7).
+DISCUSSION
+The emergence of the H10N8 viruses and the associated human
+infections highlight the continual threat posed by the influenza
+ecosystem of China (Fig. 5). Our findings demonstrate how key
+aspects of the current influenza ecosystem facilitate the emergence
+and development of novel influenza viruses in the region, as oc-
+curred with the highly pathogenic H5N1 and H9N2 viruses and
+the recently emerged H7N9 viruses (5, 6, 32, 33).
+Genesis and Development of H10N8 Virus in Poultry
+April 2015 Volume 89 Number 7 jvi.asm.org 3537
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from
+98
+100
+100
+100
+71
+100
+93
+100
+100
+100
+100
+100
+JX346-like
+sub-lineage
+H10N6
+*
+*
+*
+*
+0.01
+*
+0
+*
+*
+*Mdk/JX/593/2005_H10N8 (9-Jan-05)
+Dk/JX/4759/2009_H10N8 (15-Mar-09)
+Md/Sweden/105522/2009_H10N1
+Ck/Jiangxi/102/2013_H10N8 (8-Dec-13)
+avian/Israel/543/2008_H10N7
+Dk/Vietnam/LBM300/2012_H10N2
+Dk/Hunan/S11205/2012_H10N3
+northern shoveler/Hong Kong/MPE2531/2008_H10N9
+Dk/JX/26281/2009_H10N7 (27-Dec-09)
+Dk/JX/6460/2013_H10N8 (3-Feb-13)
+Mdk/JX/31474/2013_H10N5 (8-Dec-13)
+Dk/Guangdong/E1/2012_H10N8
+Mdk/JX/27314/2014_H10N7 (23-Dec-2012)
+Gs/Guizhou/829/2012_H10N7
+Dk/JX/3008/2009_H10N2 (21-Feb-09)
+Ck/JX/36229/2013_H10N8 (29-Dec-13)
+Ck/JX/18399/2013_H10N8 (4-Aug-13)
+Ck/JX/23252/2013_H10N8 (13-Oct-13)
+Mdk/JX/33038/2013_H10N7 (15-Dec-13)
+Md/Republic of Georgia/12/2011_H10N4
+Dk/JX/13875/2005_H10N3 (26-Dec-05)
+Dk/JX/24570/2009_H6,H10/N6,N8 (6-Dec-09)
+Ck/JX/23273/2013_H9,H10/N2,N8 (13-Oct-13)
+Ck/JX/12272/2014_H10N6 (16-Mar-14)
+Mdk/JX/21248/2009_H10N8 (28-Oct-09)
+Md/Korea/1242/2010_H10N6
+Mdk/JX/30556/2013_H10N5 (30-Nov-13)
+Ck/JX/14512/2014_H10N6 (20-Apr-14)
+Mdk/JX/20960/2008_H10N8 (23-Nov-08)
+Ck/JX/5195/2014_H10N8 (19-Jan-14)
+Ck/JX/3152/2014_H10N8 (12-Jan-14)
+Dk/JX/15862/2013_H10N3 (23-Jun-13)
+Dk/Tsukuba/574/2006_H10N1
+Dk/JX/860/2006_H10N3 (19-Jan-06)
+common teal/Hong Kong/MPK630/2009_H10N9
+avian/Israel/824/2005_H10N2
+pintail/Korea/188/2009_H10N4
+wild bird/Korea/A02/2011_H10N4
+Dk/JX/22960/2008_H10N3 (15-Dec-08)
+Ck/JX/19924/2013_H10N8 (25-Aug-13)
+Ck/JX/27604/2013_H10N8 (24-Nov-13)
+A/Jiangxi-Donghu/346/2013_H10N8
+Dk/JX/302/2006_H10N3 (11-Jan-06)
+Mdk/JX/9492/2005_H10N6 (26-Oct-05)
+Ck/JX/1204/2014_H10N8 (5-Jan-14)
+wild bird/Korea/A01/2009_H10N6
+Ck/JX/12782/2014_H10N6 (22-Mar-14)
+Mdk/JX/7231/2003_H10N5 (23-Nov-03)
+Dk/JX/33779/2013_H10N3 (15-Dec-13)
+Ck/JX/34609/2013_H10N8 (23-Dec-13)
+Mdk/JX/10857/2005_H10N3 (12-Nov-05)
+Md/Sweden/4/2002_H10N2
+Mdk/JX/6847/2003_H10N5 (23-Nov-03)
+Md/Bavaria/3/2006_H10N7
+Ck/JX/13213/2014_H10N6 (30-Mar-14)
+Ck/JX/31856/2013_H10N8 (8-Dec-13)
+shorebird/Korea/S331/2006_H10N9
+Md/Portugal/79906/2009_H10
+northern shoveler/Hong Kong/MPC657/2006_H10N9
+muscovy Dk/Thailand/CU-LM4754/2009_H10N3
+Dk/JX/2039/2005_H10N8(4-Feb-05)
+Md/Korea/1203/2010_H10N8
+Dk/JX/13946/2005_H10N3 (26-Dec-05)
+Ck/JX/36263/2013_H9,H10/N2,N8 (29-Dec-13)
+Ck/JX/1288/2014_H10N8 (5-Jan-14)
+Ck/Jiangsu/RD5/2013_H10N9
+Eurasian wigeon/Netherlands/4/2007_H10N1
+Md/Sweden/4/2005_H10N4
+Dk/Hokkaido/W87/2007_H10N2
+wild bird/Korea/A12/2010_H10N1
+B (N8)
+0.01
+Ck/JX/36229/2013_H10N8 (29-Dec-13)
+aquatic bird/Korea/KN-3/2005_H3N8
+Ck/JX/23273/2013_H9,H10/N2,N8 (13-Oct-13)
+Dk/Osaka/1/2005_H4N8
+avian/Japan/8KI0102/2008_H3N8
+Dk/JX/5460/2014_H3,H7/N3,N8 (19-Jan-14)
+Ck/Laos/A0573/2007_H3N8
+Md/Korea/1041/2010_H10N8
+Ck/JX/27604/2013_H10N8 (24-Nov-13)
+Ck/JX/1204/2014_H10N8 (5-Jan-14)
+Dk/Hokkaido/W2/2004_H6N8
+Dk/JX/6602/2013_H10N8 (3-Feb-13)
+Dk/Vietnam/OIE-2747/2012_H3N8
+Ck/JX/6717/2013_H3,H9/N2,N8 (14-Feb-13)
+Dk/JX/6460/2013_H10N8 (3-Feb-13)
+psittacine/Italy/2873/2000_H3N8
+A/Jiangxi-Donghu/346/2013_H10N8
+blue-winged teal/North Dakota/Sg-00719/2008_H3N8
+Md/Alberta/274/2006_H3N8
+aquatic bird/Korea/CN9/2009_H6N8
+Ck/JX/1288/2014_H10N8 (5-Jan-14)
+northern pintail/Alaska/44340-071/2007_H3N8
+Md/Minnesota/Sg-00677/2008_H3N8
+Gs/Eastern China/s94/2009_H3N8
+Ck/JX/19924/2013_H10N8 (25-Aug-13)
+northern shoveler/Interior Alaska/7MP1649/2007_H3N8
+Ck/JX/36263/2013_H9,H10/N2,N8 (29-Dec-13)
+shorebird/Delaware Bay/274/2005_H3N8
+Md/Alberta/140/1987_H3N8
+ring-necked duck/Minnesota/Sg-00069/2007_H3N8
+black scoter/New Brunswick/00002/2009_H3N8
+double-crested cormorant/California/20119-001/2007_H3N8
+Dk/JX/17142/2013_H3,H7/N3,N7,N8 (13-Jul-13)
+Dk/JX/27793/2013_H3,H4,H7/N3,N8 (24-Nov-13)
+Md/Minnesota/Sg-00061/2007_H3N8
+Md/Sanjiang/90/2006_H3N8
+Ck/JX/23252/2013_H10N8 (13-Oct-13)
+Ck/JX/31856/2013_H10N8 (8-Dec-13)
+CK/JX/5195/2014_H10N8 (19-Jan-14)
+Ck/JX/18399/2013_H10N8 (4-Aug-13)
+American green-winged teal/Oregon/44336-124/2007_H3N8
+CK/JX/3152/2014_H10N8 (12-Jan-14)
+Dk/JX/29301/2013_H3,H4,H7/N3,N6,N7 (17-Nov-13)
+Ck/JX/34609/2013_H10N8 (23-Dec-13)
+JX346-like
+sub-lineage
+99
+99
+95
+98
+100
+88
+100
+100
+C (N6)
+A (H10)
+CK/JX/12272/2014_H10N6 (16-Mar-14)
+CK/JX/14512/2014_H10N6 (20-Apr-14)
+CK/DG/3363/2013_H5N6 (18-Dec-13)
+Dk/Guangdong/S1419/2011_H6N6
+Ck/DG/4190/2013_H7N9/H5N6 (19-Dec-13)
+Dk/Shantou/13629/2006_H6N6
+Dk/Shantou/1165/2006_H6N6
+swine/Guangdong/K6/2010_H6N6
+Gs/Eastern China/17/2010_H6N6
+Dk/Shantou/3389/2006_H6N6
+CK/JX/12782/2014_H10N6 (22-Mar-14)
+CK/SZ/2269/2013_H5N6 (13-Dec-13)
+Dk/Shantou/494/2007_H6N6
+Dk/Hubei/5/2010_H6N6
+Ck/SZ/433/2013_H5N6 (10-Dec-13)
+Dk/Shantou/14531/2006_H6N6
+Dk/Guangxi/038/2009_H6N6
+Dk/Shantou/6270/2006_H6N6
+Dk/Eastern China/376/2004_H4N6
+Dk/Shantou/14877/2006_H6N6
+Dk/Hokkaido/138/2007_H4N6
+Dk/Shantou/19616/2006_H6N6
+Dk/Shantou/9702/2006_H6N6
+CK/JX/13213/2014_H10N6 (30-Mar-14)
+Dk/Guangdong/S4251/2010_H6N6
+Dk/Fujian/4185/2007_H6N6
+Gs/ST/1791/2014_H5N6 (5-Mar-14)
+Dk/DG/3069/2013_H5N6 (18-Dec-13)
+wild duck/Shantou/9466/2006_H6N6
+Dk/Shantou/1984/2007_H6N6
+Dk/Jiangxi/95/2014_H5N6 (10-Jan-14)
+A/Dk/Guangdong/S1663/2009_H6N6
+A/Chicken/Hunan/S3003/2009_H6N6
+Ck/SZ/1395/2013_H5N6 (11-Dec-13)
+Dk/Guangxi/GXd-4/2009_H6N6
+Dk/Shantou/4636/2006_H6N6
+0.01
+95
+99
+100
+100
+80
+100
+H10N6
+FIG 2 Maximum likelihood phylogenies of the surface genes. Sequences obtained in this study are labeled in blue, green, and purple for isolates from chickens,
+domestic ducks, and migratory ducks, respectively, in the phylogenetic trees of Eurasian H10 (n ⫽ 70) (A), North American N8 (n ⫽ 44) (B), and Eurasian N6
+(n ⫽ 36) (C). The human H10N8 virus is marked in red, and the JX346-like sublineage is indicated by a dark blue bar. Introductions of H10 viruses from
+migratory to domestic ducks are indicated by asterisks in the H10 phylogeny. Intercontinental introductions of N8 viruses from North America to Eurasia are
+indicated by triangles in the N8 phylogeny. Bootstrap support values (percentages) from 1,000 pseudoreplicates are shown for selected lineages. Ck, chicken; Dk,
+duck; Gs, goose; Pg, pigeon; Mdk, migratory duck; Md, mallard; JX, Jiangxi; ST, Shantou; DG, Dongguan; SZ, Shenzhen.
+Ma et al.
+3538 jvi.asm.org April 2015 Volume 89 Number 7
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from
+Introductions of influenza viruses from migratory waterfowl
+(the natural reservoir) through domestic ducks to other poultry
+were frequently observed in the last decades (34, 35). As ⬎65% of
+the global population of domestic ducks are bred in China
+(FAOSTAT [http://faostat.fao.org/]), which forms the largest nat-
+ural host population for influenza viruses in the world, these birds
+have become the major source of introductions of influenza vi-
+ruses to poultry. In this study, ⬎90% of the H10 viruses from
+ducks in our surveillance were isolated from domestic ducks in
+Jiangxi, especially from sentinel ducks that share their water body
+with migratory birds at Poyang Lake (Table 1).
+Domestic ducks play a central role in the development of newly
+introduced viruses in the poultry system by allowing the viruses to
+spread within their large and highly dense population, by main-
+taining the local genetic diversity of the viruses through reassort-
+ment with other subtypes, and by carrying viruses to LPMs (Fig.
+5). After domestic ducks at sentinel duck farms on Poyang Lake
+acquired H10 viruses similar to those from migratory birds at the
+lake, related viruses appeared at LPMs in the nearby city of Nan-
+chang. This pattern has occurred previously with H10 viruses dur-
+ing the winter seasons of 2003 to 2004, 2004 to 2005, and 2008 to
+2009, although not all introductions persisted or transmitted
+through the entire chain (Fig. 1 and 2A and Table 1).
+In LPMs, the interaction of different types of poultry facilitates
+interspecies transmissions from domestic ducks to terrestrial
+poultry. In the emergence of H10N8 viruses, either separate duck
+H10 and N8 viruses or a precursor H10N8 virus was introduced to
+PB1
+100
+100
+100
+100
+100
+100
+100
+100
+92
+100
+100
+98
+100
+98
+Eurasian
+gene
+pool
+ZJ-HJ-07-H9N2
+lineage
+JX346-like
+sub-lineage
+H7N9
+outbreak
+0.01
+0
+0
+9
+0
+0
+Dk/Yunnan/2908/2009_H11N9
+Dk/Zhejiang/0611-3/2011_H1N3
+Ck/JX/10269/2013_H9N2 (10-Mar-13)
+A/Zhejiang/02/2013_H7N9
+Ck/Shanghai/F/98_H9N2
+Ck/Hong Kong/FL96/2010_H9N2
+Ck/Rizhao/723/2013_H9N2
+turkey/Italy/1258/2005_H5N2
+Ck/Shandong/237/2007_H9N2
+brambling/Beijing/16/2012_H9N2
+Ck/JX/19934/2013_H9N2 (25-Aug-13)
+Ck/JX/34609/2013_H10N8 (23-Dec-13)
+Ck/JX/1204/2014_H10N8 (5-Jan-14)
+Ck/JX/5195/2014_H10N8 (19-Jan-14)
+Ck/JX/36229/2013_H10N8 (29-Dec-13)
+Ck/Hangzhou/48-2/2013_H9N2
+Dk/Wuxi/7/2010_H9N2
+Dk/Zhejiang/2/2011_H7N3
+Ck/JX/13213/2014_H10N6 (30-Mar-14)
+Ck/Rizhao/875/2013_H7N9
+A/Shanghai/1/2013_H7N9
+Dk/Hunan/S4111/2011_H9N2
+Ck/JX/31856/2013_H10N8 (8-Dec-13)
+Dk/Jiangxi/13291/2009_H7N3
+Ck/Zhejiang/HJ/2007_H9N2
+Ck/JX/14512/2014_H10N6 (20-Apr-14)
+Ck/JX/13228/2014-b_H7,H10/N6 (30-Mar-14)
+Pg/Juzhou/1/2011_H9N2
+Ck/Yunnan/nh/2001_H9N2
+Ck/JX/23273/2013-b_H9,H10/N2,N8 (13-Oct-13)
+Ck/JX/1202/2014_H9N2 (5-Jan-14)
+Ck/JX/12272/2014_H10N6 (16-Mar-14)
+Dk/Zhejiang/5/2011_H3N3
+Ck/JX/27604/2013_H10N8 (24-Nov-13)
+Ck/Guangdong/LG1/2013_H9N2
+Ck/Zhejiang/SD007/2013_H7N9
+Dk/Jiangxi/3292/2009_H7N9
+Ck/Shuanggou/1/2011_H9N2
+Ck/JX/18399/2013_H10N8 (4-Aug-13)
+Dk/Jiangxi/21714/2011_H11N9
+Ck/Zhejiang/329/2011_H9N2
+Dk/Wenzhou/775/2013_H7N2
+A/Anhui/1/2013_H7N9
+A/Shanghai/12/2013_H7N9
+Pg/Shanghai/S1423/2013_H7N9
+Dk/JX/6460/2013_H10N8 (3-Feb-13)
+Mdk/JX/30556/2013_H10N5 (30-Nov-13)
+Ck/JX/13228/2014-a_H10N6/H7 (30-Mar-14)
+Ck/JX/33542/2013_H9N2 (15-Dec-13)
+Dk/Fujian/6380/2010_H7N3
+A/Jiangxi-Donghu/346/2013_H10N8
+Ck/JX/12782/2014_H10N6 (22-Mar-14)
+Md/Sweden/7/2003_H10N8
+Dk/Zhejiang/SC410/2013_H7N9
+A/Shanghai/5190T/2013_H7N9
+Mdk/JX/33038/2013_H10N7 (15-Dec-13)
+Ck/Nanjing/908/2009_H11N2
+Ck/Jiangxi/102/2013_H10N8
+Ck/JX/23252/2013_H10N8 (13-Oct-13)
+Ck/JX/30772/2013_H9N2 (1-Dec-13)
+Ck/Zhejiang/SD033/2013_H7N9
+Md/Italy/36/2002_H5N3
+Ck/JX/1288/2014-a_H10N8 (5-Jan-14)
+Ck/JX/3152/2014_H10N8 (12-Jan-14)
+Pg/Wenzhou/559/2013_H7N7
+Dk/JX/33779/2013_H10N3 (15-Dec-13)
+Ck/JX/1288/2014-b_H10N8 (5-Jan-14)
+Ck/Wenzhou/662/2013_H7N7
+wild waterfowl/Hong Kong/MPL696/2011_H2N9
+Ck/Wenzhou/614/2013_H9N2
+Ck/Anhui/HF/2010_H9N2
+Ck/Anhui/10/2009_H9N2
+Ck/JX/19924/2013_H10N8 (25-Aug-13)
+Ck/JX/23273/2013-a_H9,H10/N2,N8 (13-Oct-13)
+Mdk/JX/31474/2013_H10N5 (8-Dec-13)
+Ck/China/AH-10-01/2010_H9N2
+FIG 3 Maximum likelihood phylogenies of the PB1 gene (n ⫽ 76). Isolates
+that contained mixed infections are indicated by “-a” and “-b” after the strain
+name in the PB1 tree (see Materials and Methods). The ZJ-HJ-07 lineage
+nominal virus is highlighted in yellow. Abbreviations are described in the
+legend of Fig. 2.
+H10N8 ?
+Chicken
+H10N8
+viruses
+Human H10N8 virus (JX346)
+Eurasian
+H10 viruses
+H10NX
+North American
+N8 viruses
+HXN8
+Chicken H10N6 viruses
+Domestic duck
+H6N6 viruses
+Poultry H5N6 viruses
+Enzootic H9N2 viruses
+FIG 4 Genesis and evolutionary pathway of H10 viruses in Jiangxi. Either
+independent H10 and N8 viruses (dotted light blue lines) or an undetected
+H10N8 precursor in ducks (solid dark blue lines) was introduced to chickens
+and reassorted with enzootic H9N2 viruses. Reassortment of H10N8 viruses
+with N6 viruses is indicated by orange lines. Virus particles are indicated by
+ovals containing bars for the eight gene segments (PB2, PB1, PA, HA, NP, M,
+and NS, from top to bottom), colored by their source. NA stalk deletions are
+indicated by a broken line in segment 6.
+Genesis and Development of H10N8 Virus in Poultry
+April 2015 Volume 89 Number 7 jvi.asm.org 3539
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from
+chickens, followed by reassortment with H9N2 viruses, leading to
+the genesis of the H10N8 virus (Fig. 4), which mirrors the scenario
+observed in the H7N9 outbreak. The subsequent prevalence and
+outbreak of the novel H10N8 viruses at LPMs in Nanchang be-
+came the source of human infections. The existence of distinct
+genotypes of H10 viruses in chickens, which changed over time,
+and the replacement of the NA subtype (Fig. 4) suggest that these
+viruses are subject to ongoing selection and adaptation in this new
+host species.
+Introductions of viruses from aquatic birds to terrestrial poul-
+try occur in most regions of the world (36, 37). However, the
+current influenza ecosystem of China, associated with the pres-
+ence of multiple subtypes of influenza viruses enzootic in terres-
+trial poultry, the huge poultry population size and density, the
+combination of industrial and mixed-animal backyard farming
+practices, and the widespread LPM system, provides a unique set
+of conditions that favor the emergence and genesis of novel vi-
+ruses. This has been repeatedly demonstrated by the emergence of
+H5N1, H9N2, and the recent H7N9 and H10N8 viruses in China.
+All these factors make China a unique influenza epicenter for gen-
+erating novel viruses with pandemic potential.
+This study highlights each of the steps by which the H10N8
+virus was generated and evolved (Fig. 4 and 5). Currently, the H10
+viruses related to the human infections have been detected only in
+Jiangxi, reflecting the early phase of an epizootic. If proper mea-
+sures are implemented at this stage, it will be possible to eradicate
+these viruses completely. However, the long-term enzootic status
+of H9N2 and H5N1 viruses and the recent development of H7N9
+viruses in China have demonstrated the inefficacy of current dis-
+ease control systems.
+To reduce the emergence of novel viruses and control current
+enzootic influenza viruses, revolutionary changes to the entire
+structure of poultry farming practices, LPMs, and the poultry dis-
+tribution system are needed. Otherwise, H10N8 or H10N6 viruses
+are likely to disseminate to neighboring regions and follow the
+trajectory of the H7N9 outbreak. Coupling surveillance with
+changes in the management of LPMs will provide a higher level of
+protection against the potential emergence of a pandemic influ-
+enza virus from poultry in China.
+ACKNOWLEDGMENTS
+This study was supported by the Li Ka Shing Foundation, the Shenzhen
+Peacock Plan High-End Talents Program (KQTD201203), the University
+Grants Committee of the Hong Kong SAR (Area of Excellence Scheme
+grant AoE/M-12/06), and the National Institute of Allergy and Infectious
+Diseases (contracts HHSN266200700005C and HHSN272201400006C).
+REFERENCES
+1. Butt KM, Smith GJD, Chen H, Zhang LJ, Leung YHC, Xu KM, Lim W,
+Webster RG, Yuen KY, Peiris JSM. 2005. Human infection with an avian
+H9N2 influenza A virus in Hong Kong in 2003. J Clin Microbiol 43:5760–
+5767. http://dx.doi.org/10.1128/JCM.43.11.5760-5767.2005.
+2. Shortridge KF, Zhou NN, Guan Y, Gao P, Ito T, Kawaoka Y, Kodihalli
+S, Krauss S, Markwell D, Murti KG, Norwood M, Senne D, Sims L,
+Takada A, Webster RG. 1998. Characterization of avian H5N1 influenza
+viruses from poultry in Hong Kong. Virology 252:331–342. http://dx.doi
+.org/10.1006/viro.1998.9488.
+3. Nguyen-Van-Tam JS, Nair P, Acheson P, Baker A, Barker M, Bracebridge
+S, Croft J, Ellis J, Gelletlie R, Gent N, Ibbotson S, Joseph C, Mahgoub H,
+Monk P, Reghitt TW, Sundkvist T, Sellwood C, Simpson J, Smith J,
+Watson JM, Zambon M, Lightfoot N, Incident Response Team. 2006.
+Outbreak of low pathogenicity H7N3 avian influenza in UK, including asso-
+ciated case of human conjunctivitis. Euro Surveill 11(18):pii⫽2952. http:
+//www.eurosurveillance.org/ViewArticle.aspx?ArticleId⫽2952.
+4. Fouchier RAM, Schneeberger PM, Rozendaal FW, Broekman JM,
+Kemink SAG, Munster V, Kuiken T, Rimmelzwaan GF, Schutten M,
+Van Doornum GJJ, Koch G, Bosman A, Koopmans M, Osterhaus
+ADME. 2004. Avian influenza A virus (H7N7) associated with human
+conjunctivitis and a fatal case of acute respiratory distress syndrome. Proc
+Natl Acad Sci U S A 101:1356–1361. http://dx.doi.org/10.1073/pnas
+.0308352100.
+5. Lam TT-Y, Wang J, Shen Y, Zhou B, Duan L, Cheung C-L, Ma C, Lycett
+SJ, Leung CY-H, Chen X, Li L, Hong W, Chai Y, Zhou L, Liang H, Ou
+Z, Liu Y, Farooqui A, Kelvin DJ, Poon LLM, Smith DK, Pybus OG,
+Leung GM, Shu Y, Webster RG, Webby RJ, Peiris JSM, Rambaut A,
+Zhu H, Guan Y. 2013. The genesis and source of the H7N9 influenza
+viruses causing human infections in China. Nature 502:241–244. http://dx
+.doi.org/10.1038/nature12515.
+6. Gao R, Cao B, Hu Y, Feng Z, Wang D, Hu W, Chen J, Jie Z, Qiu H, Xu
+K, Xu X, Lu H, Zhu W, Gao Z, Xiang N, Shen Y, He Z, Gu Y, Zhang
+Z, Yang Y, Zhao X, Zhou L, Li XX, Zou S, Zhang YY, Yang L, Guo J,
+Dong J, Li Q, Dong L, Zhu Y, Bai T, Wang S, Hao P, Yang W, Han J,
+Yu H, Li D, Gao GF, Wu G, Wang Y, Yuan Z, Shu Y. 2013. Human
+infection with a novel avian-origin influenza A (H7N9) virus. N Engl J
+Med 368:1888–1897. http://dx.doi.org/10.1056/NEJMoa1304459.
+7. Chen H, Yuan H, Gao R, Zhang J, Wang D, Xiong Y, Fan G, Yang F,
+Li X, Zhou J, Zou S, Yang L, Chen T, Dong L, Bo H, Zhao X, Zhang Y,
+Lan Y, Bai T, Dong J, Li Q, Wang S, Zhang Y, Li H, Gong T, Shi Y, Ni
+X, Li J, Zhou J, Fan J, Wu J, Zhou X, Hu M, Wan J, Yang W, Li D, Wu
+G, Feng Z, Gao GF, Wang Y, Jin Q, Liu M, Shu Y. 2014. Clinical and
+epidemiological characteristics of a fatal case of avian influenza A H10N8
+Chicken farm
+LPM
+Duck farm
+Classic gene pool
+FIG 5 The current ecosystem of avian influenza viruses in China. The diver-
+sity of avian influenza viruses is maintained primarily in the classic gene pool
+viruses of wild waterfowl (green circle). Industrial poultry farming (blue and
+pink circles) largely separates species, but wild and domestic ducks may inter-
+act and transmit viruses. Trading in live-poultry markets (funnel) brings dif-
+ferent types of poultry together to facilitate the sharing and mixing of viruses,
+favoring the emergence of novel AIVs and interspecies transmission of viruses
+(arrows). The markets are the major contact point between humans and live
+poultry, and this leads to the transmission of viruses to humans. Improper
+management may lead to the transfer of viruses from chickens in LPMs to
+those in farms. The stroke weight of an arrow indicates the frequency of trans-
+missions between different hosts, arrowheads show the direction, and dashed
+lines indicate sporadic transmissions.
+Ma et al.
+3540 jvi.asm.org April 2015 Volume 89 Number 7
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from
+virus infection: a descriptive study. Lancet 383:714–721. http://dx.doi.org
+/10.1016/S0140-6736(14)60111-2.
+8. World Health Organization. 2014. Influenza at the human-animal inter-
+face. World Health Organization, Geneva, Switzerland. http://www.who
+.int/influenza/human_animal_interface/Influenza_Summary_IRA_HA
+_interface_25Feburary14.pdf?ua⫽1.
+9. Qi W, Zhou X, Shi W, Huang L, Xia W, Liu D, Li H, Chen S, Lei F, Cao
+L, Wu J, He F, Song W, Li Q, Li H, Liao M, Liu M. 2014. Genesis of the
+novel human-infecting influenza A(H10N8) virus and potential genetic
+diversity of the virus in poultry, China. Euro Surveill 19(25):pii⫽20841.
+http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId⫽20841.
+10. Zhang T, Bi Y, Tian H, Li X, Liu D, Wu Y, Jin T, Wang Y, Chen Q,
+Chen Z, Chang J, Gao GF, Xu B. 2014. Human infection with influenza
+virus A(H10N8) from live poultry markets, China, 2014. Emerg Infect Dis
+20:2076–2079. http://dx.doi.org/10.3201/eid2012.140911.
+11. Pan American Health Organization. 2004. Avian influenza virus A (H10N7)
+circulating among humans in Egypt. Pan American Health Organization,
+Washington,DC.http://new.paho.org/hq/dmdocuments/2010/Avian_Influenza
+_Egypt_070503.pdf.
+12. Arzey GG, Kirkland PD, Arzey KE, Frost M, Maywood P, Conaty S,
+Hurt AC, Deng YM, Iannello P, Barr I, Dwyer DE, Ratnamohan M,
+McPhie K, Selleck P. 2012. Influenza virus A (H10N7) in chickens and
+poultry abattoir workers, Australia. Emerg Infect Dis 18:814–816. http:
+//dx.doi.org/10.3201/eid1805.111852.
+13. Klingeborn B, Englund L, Rott R, Juntti N, Rockborn G. 1985. An avian
+influenza A virus killing a mammalian species—the mink. Brief report.
+Arch Virol 86:347–351. http://dx.doi.org/10.1007/BF01309839.
+14. Wang N, Zou W, Yang Y, Guo X, Hua Y, Zhang Q, Zhao Z, Jin M. 2012.
+Complete genome sequence of an H10N5 avian influenza virus isolated
+from pigs in central China. J Virol 86:13865–13866. http://dx.doi.org/10
+.1128/JVI.02687-12.
+15. Chen H, Smith GJ, Li KS, Wang J, Fan XH, Rayner JM, Vijaykrishna D,
+Zhang JX, Zhang LJ, Guo CT, Cheung CL, Xu KM, Duan L, Huang K,
+Qin K, Leung YH, Wu WL, Lu HR, Chen Y, Xia NS, Naipospos TS,
+Yuen KY, Hassan SS, Bahri S, Nguyen TD, Webster RG, Peiris JS, Guan
+Y. 2006. Establishment of multiple sublineages of H5N1 influenza virus in
+Asia: implications for pandemic control. Proc Natl Acad Sci U S A 103:
+2845–2850. http://dx.doi.org/10.1073/pnas.0511120103.
+16. Guan Y, Shortridge KF, Krauss S, Chin PS, Dyrting KC, Ellis TM,
+Webster RG, Peiris M. 2000. H9N2 influenza viruses possessing H5N1-
+like internal genomes continue to circulate in poultry in southeastern
+China. J Virol 74:9372–9380. http://dx.doi.org/10.1128/JVI.74.20.9372
+-9380.2000.
+17. World Health Organization. 2002. WHO manual on animal influenza
+diagnosis and surveillance. World Health Organization, Geneva, Swit-
+zerland. http://www.who.int/csr/resources/publications/influenza/en
+/whocdscsrncs20025rev.pdf.
+18. Lam TT, Chong YL, Shi M, Hon CC, Li J, Martin DP, Tang JW, Mok
+CK, Shih SR, Yip CW, Jiang J, Hui RK, Pybus OG, Holmes EC, Leung
+FC. 2013. Systematic phylogenetic analysis of influenza A virus reveals
+many novel mosaic genome segments. Infect Genet Evol 18:367–378. http:
+//dx.doi.org/10.1016/j.meegid.2013.03.015.
+19. Edgar RC. 2004. MUSCLE: multiple sequence alignment with high accu-
+racy and high throughput. Nucleic Acids Res 32:1792–1797. http://dx.doi
+.org/10.1093/nar/gkh340.
+20. Stamatakis A. 2006. RAxML-VI-HPC: maximum likelihood-based phy-
+logenetic analyses with thousands of taxa and mixed models. Bioinformat-
+ics 22:2688–2690. http://dx.doi.org/10.1093/bioinformatics/btl446.
+21. Anisimova M, Gil M, Dufayard JF, Dessimoz C, Gascuel O. 2011.
+Survey of branch support methods demonstrates accuracy, power, and
+robustness of fast likelihood-based approximation schemes. Syst Biol 60:
+685–699. http://dx.doi.org/10.1093/sysbio/syr041.
+22. Guindon S, Dufayard JF, Lefort V, Anisimova M, Hordijk W, Gascuel
+O. 2010. New algorithms and methods to estimate maximum-likelihood
+phylogenies: assessing the performance of PhyML 3.0. Syst Biol 59:307–
+321. http://dx.doi.org/10.1093/sysbio/syq010.
+23. Drummond AJ, Ho SY, Phillips MJ, Rambaut A. 2006. Relaxed phylo-
+genetics and dating with confidence. PLoS Biol 4:e88. http://dx.doi.org/10
+.1371/journal.pbio.0040088.
+24. Shapiro B, Rambaut A, Drummond AJ. 2006. Choosing appropriate
+substitution models for the phylogenetic analysis of protein-coding se-
+quences. Mol Biol Evol 23:7–9. http://dx.doi.org/10.1093/molbev/msj021.
+25. Minin VN, Bloomquist EW, Suchard MA. 2008. Smooth skyride
+through a rough skyline: Bayesian coalescent-based inference of popula-
+tion dynamics. Mol Biol Evol 25:1459–1471. http://dx.doi.org/10.1093
+/molbev/msn090.
+26. Drummond AJ, Suchard MA, Xie D, Rambaut A. 2012. Bayesian phy-
+logenetics with BEAUti and the BEAST 1.7. Mol Biol Evol 29:1969–1973.
+http://dx.doi.org/10.1093/molbev/mss075.
+27. Huang K, Zhu H, Fan X, Wang J, Cheung C-L, Duan L, Hong W, Liu
+Y, Li L, Smith DK, Chen H, Webster RG, Webby RJ, Peiris M, Guan Y.
+2012. Establishment and lineage replacement of H6 influenza viruses in
+domestic ducks in southern China. J Virol 86:6075–6083. http://dx.doi
+.org/10.1128/JVI.06389-11.
+28. Vachieri SG, Xiong X, Collins PJ, Walker PA, Martin SR, Haire LF,
+Zhang Y, McCauley JW, Gamblin SJ, Skehel JJ. 2014. Receptor binding
+by H10 influenza viruses. Nature 511:475–477. http://dx.doi.org/10.1038
+/nature13443.
+29. Keleta L, Ibricevic A, Bovin NV, Brody SL, Brown EG. 2008. Experi-
+mental evolution of human influenza virus H3 hemagglutinin in the
+mouse lung identifies adaptive regions in HA1 and HA2. J Virol 82:
+11599–11608. http://dx.doi.org/10.1128/JVI.01393-08.
+30. Banks J, Speidel ES, Moore E, Plowright L, Piccirillo A, Capua I,
+Cordioli P, Fioretti A, Alexander DJ. 2001. Changes in the haemagglu-
+tinin and the neuraminidase genes prior to the emergence of highly patho-
+genic H7N1 avian influenza viruses in Italy. Arch Virol 146:963–973. http:
+//dx.doi.org/10.1007/s007050170128.
+31. Dlugolenski D, Jones L, Saavedra G, Tompkins SM, Tripp RA, Mundt
+E. 2011. Passage of low-pathogenic avian influenza (LPAI) viruses medi-
+ates rapid genetic adaptation of a wild-bird isolate in poultry. Arch Virol
+156:565–576. http://dx.doi.org/10.1007/s00705-010-0891-x.
+32. Xu KM, Smith GJD, Bahl J, Duan L, Tai H, Vijaykrishna D, Wang J,
+Zhang JX, Li KS, Fan XH, Webster RG, Chen H, Peiris JSM, Guan Y.
+2007. The genesis and evolution of H9N2 influenza viruses in poultry
+from southern China, 2000 to 2005. J Virol 81:10389–10401. http://dx.doi
+.org/10.1128/JVI.00979-07.
+33. Li KS, Guan Y, Wang J, Smith GJD, Xu KM, Duan L, Rahardjo AP,
+Puthavathana P, Buranathai C, Nguyen TD, Estoepangestie ATS,
+Chaisingh A, Auewarakul P, Long HT, Hanh NTH, Webby RJ, Poon
+LLM, Chen H, Shortridge KF, Yuen KY, Webster RG, Peiris JSM. 2004.
+Genesis of a highly pathogenic and potentially pandemic H5N1 influenza
+virus in eastern Asia. Nature 430:209–213. http://dx.doi.org/10.1038
+/nature02746.
+34. Huang K, Bahl J, Fan XH, Vijaykrishna D, Cheung CL, Webby RJ,
+Webster RG, Chen H, Smith GJD, Peiris JSM, Guan Y. 2010. Establish-
+ment of an H6N2 influenza virus lineage in domestic ducks in southern
+China. J Virol 84:6978–6986. http://dx.doi.org/10.1128/JVI.00256-10.
+35. Duan L, Campitelli L, Fan XH, Leung YH, Vijaykrishna D, Zhang JX,
+Donatelli I, Delogu M, Li KS, Foni E, Chiapponi C, Wu WL, Kai H,
+Webster RG, Shortridge KF, Peiris JS, Smith GJ, Chen H, Guan Y. 2007.
+Characterization of low-pathogenic H5 subtype influenza viruses from
+Eurasia: implications for the origin of highly pathogenic H5N1 viruses. J
+Virol 81:7529–7539. http://dx.doi.org/10.1128/JVI.00327-07.
+36. Campitelli L, Mogavero E, De Marco MA, Delogu M, Puzelli S, Frezza
+F, Facchini M, Chiapponi C, Foni E, Cordioli P, Webby R, Barigazzi G,
+Webster RG, Donatelli I. 2004. Interspecies transmission of an H7N3
+influenza virus from wild birds to intensively reared domestic poultry in
+Italy. Virology 323:24–36. http://dx.doi.org/10.1016/j.virol.2004.02.015.
+37. Manin TB, Chvala IA, Kolosov SN, Pchelkina IP, Irza VN, Drygin VV.
+2010. H5N1 avian influenza outbreak in the Far East of Russia in 2008:
+new introduction. Avian Dis 54:509–512. http://dx.doi.org/10.1637/8732
+-032509-Case.1.
+Genesis and Development of H10N8 Virus in Poultry
+April 2015 Volume 89 Number 7 jvi.asm.org 3541
+Journal of Virology
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jvi.asm.org/
+Downloaded
+from

@@ -1,0 +1,56 @@
+T3	Protein 1 8	JOURNAL
+#3	AnnotatorNotes T3	BEGIN
+T20	Protein 176 184	Reserved
+#20	AnnotatorNotes T20	END
+T21	Protein 311 318	Nikolai
+#21	AnnotatorNotes T21	BEGIN
+T4	Protein 778 782	2007
+#4	AnnotatorNotes T4	END
+T1	Location 2897 2911	Southeast Asia
+#1	AnnotatorNotes T1	<latlng>12.38293, 103.00781</latlng><pop>608290000</pop><geoID>6942346</geoID>
+T2	Location 2935 2940	China
+#2	AnnotatorNotes T2	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T22	Location 2947 2953	Africa
+#22	AnnotatorNotes T22	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T23	Location 2959 2965	Turkey
+#23	AnnotatorNotes T23	<latlng>35,39</latlng><geoID>298795</geoID>
+T24	Location 2976 2983	Siberia
+#24	AnnotatorNotes T24	<latlng>60.0,100.0</latlng><pop>0</pop><geoID>2016590</geoID>
+T5	Protein 5228 5229	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5528 5533	12911
+#6	AnnotatorNotes T6	END
+T33	Location 6597 6604	Atlanta
+#33	AnnotatorNotes T33	<latlng>33.749,-84.38798</latlng><pop>420003</pop><geoID>4180439</geoID>
+T7	Location 6606 6608	GA
+#7	AnnotatorNotes T7	<latlng>32.75042,-83.50018</latlng><pop>8975842</pop><geoID>4197000</geoID>
+T9	Location 7702 7704	ME
+#9	AnnotatorNotes T9	<latlng>45.50032,-69.24977</latlng><pop>1325518</pop><geoID>4971068</geoID>
+T11	Location 8278 8280	MO
+#11	AnnotatorNotes T11	<latlng>38.25032,-92.50046</latlng><pop>5768151</pop><geoID>4398678</geoID>
+T12	Protein 12123 12128	12912
+#12	AnnotatorNotes T12	BEGIN
+T13	Protein 12147 12152	VIROL
+#13	AnnotatorNotes T13	END
+T25	Protein 17988 17991	VOL
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 18048 18053	12913
+#26	AnnotatorNotes T26	END
+T18	Protein 22083 22088	12914
+#18	AnnotatorNotes T18	BEGIN
+T19	Protein 22107 22112	VIROL
+#19	AnnotatorNotes T19	END
+T16	Protein 27932 27935	VOL
+#16	AnnotatorNotes T16	BEGIN
+T17	Protein 27992 27997	12915
+#17	AnnotatorNotes T17	END
+T14	Protein 33230 33245	ACKNOWLEDGMENTS
+#14	AnnotatorNotes T14	BEGIN
+T15	Protein 42121 42126	12917
+#15	AnnotatorNotes T15	END
+T27	Location 8266 8270;8271 8276	St.
+ Louis
+#27	AnnotatorNotes T27	<latlong>38.62727, -90.19789</latlong><geoID>4407084</geoID><pop>319294</pop>
+T28	Location 7689 7693;7694 7700	Bar
+ Harbor
+#28	AnnotatorNotes T28	<latlng>44.38559, -68.26579</latlng><geoID>4957335</geoID><pop>5321</pop>

@@ -1,0 +1,140 @@
+T1	Protein 0 1	1
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 71 88	scientificreports
+#2	AnnotatorNotes T2	END
+T3	Protein 282 284	Yi
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 310 314	Diao
+#4	AnnotatorNotes T4	END
+T5	Protein 3255 3262	College
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3640 3649	srep27605
+#6	AnnotatorNotes T6	END
+T7	Protein 8312 8315	www
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 8392 8401	srep27605
+#8	AnnotatorNotes T8	END
+T9	Protein 11491 11494	www
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 11571 11580	srep27605
+#10	AnnotatorNotes T10	END
+T11	Protein 14901 14904	www
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 14981 14990	srep27605
+#12	AnnotatorNotes T12	END
+T13	Protein 16203 16206	www
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 16283 16292	srep27605
+#14	AnnotatorNotes T14	END
+T15	Protein 20948 20951	www
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 21028 21037	srep27605
+#16	AnnotatorNotes T16	END
+T17	Protein 21970 21973	www
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 22050 22059	srep27605
+#18	AnnotatorNotes T18	END
+T19	Protein 27984 27987	www
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 28064 28073	srep27605
+#20	AnnotatorNotes T20	END
+T21	Protein 34563 34566	www
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 34644 34653	srep27605
+#22	AnnotatorNotes T22	END
+T23	Protein 41314 41317	www
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 41395 41404	srep27605
+#24	AnnotatorNotes T24	END
+T25	Protein 41568 41578	References
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 51530 51531	/
+#26	AnnotatorNotes T26	END
+T27	Location 2914 2922	Malaysia
+#27	AnnotatorNotes T27	<latlng>2.5, 112.5</latlng><geoID>1733045 </geoID><pop>28274729</pop>
+T28	Location 3819 3824	China
+#28	AnnotatorNotes T28	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T29	Location 4428 4433	China
+#29	AnnotatorNotes T29	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T30	Location 22667 22675	Malaysia
+#30	AnnotatorNotes T30	<latlng>2.5, 112.5</latlng><geoID>1733045 </geoID><pop>28274729</pop>
+T31	Location 33094 33102	Valencia
+#31	AnnotatorNotes T31	<latlng>34.44361, -118.60953</latlng><geoID>5405288 </geoID><pop>148456</pop>
+T32	Location 33104 33106	CA
+#32	AnnotatorNotes T32	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T33	Location 33108 33111	USA
+#33	AnnotatorNotes T33	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T34	Location 33791 33794	USA
+#34	AnnotatorNotes T34	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T35	Location 33787 33789	WI
+#35	AnnotatorNotes T35	<latlng>44.50024, -90.00041</latlng><geoID>5279468 </geoID><pop>5535168</pop>
+T36	Location 33778 33785	Madison
+#36	AnnotatorNotes T36	<latlng>43.08097, -89.39172</latlng><geoID>5261482</geoID><pop>233209</pop>
+T37	Location 34400 34403	USA
+#37	AnnotatorNotes T37	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T38	Location 34396 34398	MA
+#38	AnnotatorNotes T38	<latlng>42.36565, -71.10832</latlng><geoID>6254926 </geoID><pop>6433422</pop>
+T39	Location 34387 34394	Waltham
+#39	AnnotatorNotes T39	<latlng>42.38892, -71.24232</latlng><geoID>4954400 </geoID><pop>60632</pop>
+T40	Location 34927 34934	Waltham
+#40	AnnotatorNotes T40	<latlng>42.38892, -71.24232</latlng><geoID>4954400 </geoID><pop>60632</pop>
+T41	Location 34936 34938	MA
+#41	AnnotatorNotes T41	<latlng>42.36565, -71.10832</latlng><geoID>6254926 </geoID><pop>6433422</pop>
+T42	Location 35028 35030	MA
+#42	AnnotatorNotes T42	<latlng>42.36565, -71.10832</latlng><geoID>6254926 </geoID><pop>6433422</pop>
+T43	Location 36017 36019	MA
+#43	AnnotatorNotes T43	<latlng>42.36565, -71.10832</latlng><geoID>6254926 </geoID><pop>6433422</pop>
+T44	Location 34940 34943	USA
+#44	AnnotatorNotes T44	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T45	Location 35032 35035	USA
+#45	AnnotatorNotes T45	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T46	Location 34989 34992	USA
+#46	AnnotatorNotes T46	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T47	Location 35304 35307	USA
+#47	AnnotatorNotes T47	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T48	Location 35572 35575	USA
+#48	AnnotatorNotes T48	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T49	Location 36021 36024	USA
+#49	AnnotatorNotes T49	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T50	Location 34985 34987	MO
+#50	AnnotatorNotes T50	<latlng>38.25031, -92.50046</latlng><geoID>4398678 </geoID><pop>5768151</pop>
+T51	Location 34974 34983	St. Louis
+#51	AnnotatorNotes T51	<latlng>38.62727, -90.19789</latlng><geoID>4407084 </geoID><pop>319294</pop>
+T52	Location 35300 35302	CA
+#52	AnnotatorNotes T52	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T53	Location 35568 35570	CA
+#53	AnnotatorNotes T53	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T54	Location 35555 35566	Foster City
+#54	AnnotatorNotes T54	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T55	Location 35291 35298	Hayward
+#55	AnnotatorNotes T55	<latlng>37.62723, -122.10492</latlng><geoID>11788327 </geoID>
+T56	Location 36004 36015	Northampton
+#56	AnnotatorNotes T56	<latlng> 42.32663, -72.67545 </latlng> <geoID>4945838</geoID> <pop>28549</pop>
+T57	Location 37736 37743	Nanjing
+#57	AnnotatorNotes T57	<latlng>31.96572, 118.87294</latlng><geoID>1799960 </geoID>
+T58	Location 37745 37752	Jiangsu
+#58	AnnotatorNotes T58	<latlng>33, 119.83333</latlng><geoID>1806260 </geoID><pop>76770000</pop>
+T59	Location 37754 37759	China
+#59	AnnotatorNotes T59	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T60	Location 40806 40811	Davie
+#60	AnnotatorNotes T60	<latlng>26.07893, -80.28698</latlng><geoID>7171598 </geoID><pop>91992</pop>
+T61	Location 40813 40815	FL
+#61	AnnotatorNotes T61	<latlng>28.75054, -82.5001</latlng><geoID>5549030 </geoID><pop>17671452</pop>
+T62	Location 40817 40820	USA
+#62	AnnotatorNotes T62	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T63	Location 31743 31749	Boston
+#63	AnnotatorNotes T63	<latlng>42.33222, -71.01643</latlng><geoID>4931029 </geoID> <pop>667137<pop>
+T64	Location 31751 31753	MA
+#64	AnnotatorNotes T64	<latlng>42.36565, -71.10832</latlng><geoID>6254926 </geoID> <pop> 6433422</pop>
+T65	Location 31755 31758	USA
+#65	AnnotatorNotes T65	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T66	Location 32625 32633	Shandong
+#66	AnnotatorNotes T66	<latlng>36.33333, 118.25 </latlng><geoID>1796328 </geoID>
+T67	Location 32738 32741	USA
+#67	AnnotatorNotes T67	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T68	Location 32734 32736	VA
+#68	AnnotatorNotes T68	<latlng>37.54812, -77.44675 </latlng><geoID>6254928 </geoID>
+T69	Location 32724 32732	Manassas
+#69	AnnotatorNotes T69	<latlng>38.75095, -77.47527 </latlng><geoID>4771426 </geoID><pop>37821</pop>
+T70	Location 36572 36580	Shandong
+#70	AnnotatorNotes T70	<latlng>36.33333, 118.25 </latlng><geoID>1796328 </geoID>

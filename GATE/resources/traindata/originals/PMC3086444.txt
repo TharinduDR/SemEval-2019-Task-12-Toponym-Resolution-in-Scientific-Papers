@@ -1,0 +1,714 @@
+B R I E F R E P O R T
+Evidence of Person-to-Person
+Transmission of Oseltamivir-
+Resistant Pandemic Influenza
+A(H1N1) 2009 Virus in
+a Hematology Unit
+Catherine Moore,1 Monica Galiano,7 Angie Lackenby,7 Tamer Abdelrahman,1
+Rosemary Barnes,4 Meirion R. Evans,3,5 Christopher Fegan,2 Susannah Froude,1
+Mark Hastings,1 Steven Knapper,6 Emma Litt,2 Nicola Price,1 Roland Salmon,3
+Mark Temple,3 and Eleri Davies1
+1Public Health Wales Microbiology, Public Health Wales NHS Trust, Cardiff, UK;
+2Hematology Department, University Hospital of Wales, Heath Park;
+3Communicable Disease Surveillance Centre, Public Health Wales NHS Trust,
+Temple of Peace and Health, Cathays Park, Cardiff, UK; 4Medical Microbiology,
+Department of Infection, Immunity and Biochemistry, Cardiff University School of
+Medicine, Cardiff, UK; 5Department of Primary Care and Public Health, Cardiff
+University, Cardiff, UK; 6Department of Hematology, Cardiff University, Cardiff, UK
+7Respiratory Virus Unit, Virus Reference Division, Centre for Infection, Health
+Protection Agency, Colindale, London, United Kingdom
+We describe the first confirmed person-to-person trans-
+mission of oseltamivir-resistant pandemic influenza
+A(H1N1) 2009 virus that occurred in a hematology unit in
+the United Kingdom. Eleven cases of (H1N1) 2009 virus
+infection were identified, of which, ten were related as shown
+by sequence analysis of the hemagglutinin and neuramini-
+dase genes. H275Y analysis demonstrated that 8 of 10 case
+patients had oseltamivir-resistant virus, with 4 of 8 case
+patients infected by direct transmission of resistant virus.
+Zanamivir should be considered as first-line therapy for in-
+fluenza in patients with lymphopenic hematological con-
+ditions and uptake of influenza vaccination encouraged to
+further reduce the number of susceptible individuals.
+Pandemic influenza A(H1N1) 2009 virus emerged in Mexico
+during April 2009 and has caused 2 successive pandemic waves
+[1]. Analysis of the (H1N1) 2009 virus showed that it was
+inherently resistant to the adamantane group of antivirals due to
+a serine to asparagine mutation at amino acid 31 (S31N) in the
+M2 ion channel [2]. Unlike the previously circulating seasonal
+influenza A(H1N1) virus, which is fully resistant to oseltamivir
+due to the presence of the H275Y mutation in the neuramini-
+dase (NA) gene [3], the (H1N1) 2009 virus was shown to be
+susceptible to both oseltamivir and zanamivir [2].
+However, by October 2009, the sporadic emergence of
+oseltamivir-resistant (OR) (H1N1) 2009 virus was reported in
+immunocompromised patients who were receiving oseltamivir
+therapy and in some individuals who had received oseltamivir
+prophylaxis [4]. Fewer than 60 isolates of OR-(H1N1) 2009
+had been reported to the World Health Organization by the
+end of October 2009, and, of these, only 3 isolates had been
+identified in the United Kingdom. There were no confirmed
+reports of person-to-person transmission of OR-(H1N1) 2009
+virus except for 1 incident involving 2 cases of resistant virus
+in adolescents at a summer camp in the United States,
+where evidence of spread was inconclusive [5]. We describe
+the emergence of OR-(H1N1) 2009 virus during a nosocomial
+outbreak on a hematology unit between October and
+November 2009 with epidemiological and molecular evidence
+of person-to-person transmission.
+METHODS
+Setting and patients. During October 2009, an outbreak of
+OR-(H1N1) 2009 virus began in an adult hematology unit at the
+University Hospital of Wales (UHW), Cardiff, United Kingdom.
+The hematology unit provides hematology services to a local
+population of 770, 000 and hematopoietic stem cell transplant
+(HSCT) service for Wales (population 3 million). The unit
+has a general hematology section for nontransplant recipients
+(17 beds) and a dedicated HSCT section for patients
+immediately after transplantation (10 beds). The HSCT section
+has its own positive pressure, high efficiency particulate (HEPA)
+filtered air supply. Elective admissions are for planned chemo-
+therapy, transplantation, or central line insertion, whereas
+emergency admissions are mostly associated with neutropenic
+sepsis or chemotherapy complications.
+Upper respiratory tract samples were collected from in-
+patients presenting with an influenza-like illness (ILI), defined
+by the Health Protection Agency (HPA) as a fever .38°
+C with 2
+or more of the following: cough, coryza, sore throat, headache,
+myalgia, diarrhea, and from patients with an unresolving
+pyrexia. Patients who received mechanical ventilation had
+Received 19 May 2010; accepted 3 August 2010.
+Potential conflicts of interest: none reported.
+Reprints or correspondence: Dr Eleri Davies, Public Health Wales Microbiology Cardiff,
+Public Health Wales NHS Trust University Hospital of Wales, Heath Park, Cardiff CF14 4XW,
+United Kingdom (email: eleri.davies4@wales.nhs.uk)
+The Journal of Infectious Diseases 2011;203:18–24
+Ó The Author 2011. Published by Oxford University Press on behalf of the Infectious
+Diseases Society of America. All rights reserved. For Permissions, please e-mail:
+journals.permissions@oxfordjournals.org.
+1537-6613/2011/2031-0001$15.00
+DOI: 10.1093/infdis/jiq007
+18 d JID 2011:203 (1 January) d Moore et al.
+diagnostic bronchoalveolar lavages (BALs) performed. Samples
+were obtained from case patients every 3–5 days after treatment
+until 2 sequential test results were influenza A negative. Patients
+who continued to have symptoms or who became symptomatic
+were retested regardless of previous polymerase chain reaction
+(PCR) results. All patients in contact with confirmed case pa-
+tients were monitored for symptoms with a low threshold of
+suspicion to ensure early sampling.
+Retrospective review of admission records was undertaken by
+the attending physician for each of the case patients to determine
+clinical characteristics, date of admission, and length of time on
+the unit (Table 1). Lymphocyte counts were recorded (reference
+range, 1.0–4.0 109
+cells/L) and compared for each of the case
+patients during viral excretion and post viral clearance. Statis-
+tical analysis was undertaken using the Mann-Whitney 2-tailed
+nonparametric test.
+Community surveillance and controls. Positive (H1N1)
+2009 virus isolates from across Wales were tested for the H275Y
+mutation by pyrosequencing to determine whether OR-(H1N1)
+2009 virus was circulating in the wider community [6]. These
+data were used to determine whether the emergence and
+transmission of OR-(H1N1) 2009 virus in the UHW was an
+isolated event in Wales.
+Outbreak management. Early cases in the outbreak were
+managed following standard outbreak interventions, including
+isolating and cohorting of case patients and the reinforcement of
+the use of personal protective equipment by health care workers
+(HCWs) when working with symptomatic patients. HCWs on
+the unit were offered both seasonal and pandemic influenza
+vaccination.
+Additional control measures were initiated when later cases of
+OR-(H1N1) 2009 virus were identified. Elective admissions were
+delayed, and the HSCT unit was used as an isolation facility.
+Prophylaxis was stopped, and zanamivir was used as dual
+therapy with oseltamivir. Patients who could not tolerate in-
+haled zanamivir or who were receiving mechanical ventilation
+were prescribed intravenous zanamivir on a named-patient
+basis. Seasonal and pandemic vaccination was extended to in-
+clude all patients and close contacts. Finally, screening of all
+inpatients on the unit was undertaken to locate additional cases;
+this was repeated 72 h later to show no further transmission
+events had occurred.
+Molecular diagnostics. Generic influenza A testing was
+performed by real-time reverse-transcription PCR (RT-PCR)
+targeting the matrix gene. To ensure sample quality and lack
+of inhibition, an assay targeting human RNaseP was used;
+a sample with a crossing threshold (ct) value of ,40 in the
+influenza A assay as described in the Centers for Disease
+Control and Prevention (CDC) protocol indicated a positive
+test result for influenza A [7]. Influenza A–positive samples
+were subtyped using a specific (H1N1) 2009 duplex real-time
+RT-PCR assay designed by the Health Protection Agency
+(HPA), Centre for Infections (CfI) (Colindale, London,
+United Kingdom) [8].
+Antiviral susceptibility testing. Positive samples from case
+patients who did not clear virus despite treatment and from
+cases whose first diagnosis occurred after evidence of viral re-
+sistance was found on the unit were forwarded to the respiratory
+virus unit at CfI for pyrosequencing analysis for the H275Y
+mutation using (H1N1) 2009 specific primers. When virus
+could be isolated in cell culture, phenotypic testing for oselta-
+mivir and zanamivir was undertaken [6].
+Sequencing and phylogenetic analysis. Amplification and
+sequencing of the complete coding regions of the haemagglutinin
+(HA) and NA genes was performed directly from original
+respiratory material with a 2-step RT-PCR using Superscript III
+RT reverse transcriptase and Platinum Pfx polymerase
+(Invitrogen Ltd), following manufacturer’s instructions. The HA
+gene was amplified in 2 overlapping fragments (1.2–1.0 kb),
+whereas NA was amplified in a single fragment (1.4 kb). Primers
+are available upon request. Sequencing was performed on
+a 48-capillary ABI 3730 Genetic Analyser (Applied Biosystems).
+Raw sequencing data were edited and assembled using
+Sequencher software (version 4.9).
+Nucleotide sequences were aligned, trimmed to include
+coding regions, and concatenated in the order HA-NA. Before
+phylogenetic analysis, the triplet coding for position 275
+associated with drug resistance was deleted from all NA
+sequences. A maximum likelihood (ML) phylogenetic tree of
+the concatenated HA-NA segments was inferred using PAUP
+software package, version 4.0 (Swofford DL). The best-fit
+model of nucleotide substitution was identified using
+Modeltest [9] as the HKY851C model, with parameters esti-
+mated from the empirical data. ML trees were determined
+through an heuristic search. Bootstrap analysis was performed
+through neighbor joining algorithm with 1000 replicates,
+incorporating the ML substitution model previously
+determined. Accession numbers and standard strain names are
+provided in Suppl Table 1.
+RESULTS
+Case identification. From 29 October through 25 November
+2009, 11 cases of (H1N1) 2009 virus were found in the
+hematology unit (defined as an in-patient in the hematology
+unit with a virological diagnosis of [H1N1] 2009). Epidemio-
+logical analysis suggested an outbreak of (H1N1) 2009 virus had
+occurred because the patients involved could be linked in time
+and place. The outbreak affected male patients with underlying
+hematological malignancy, and sequence analysis of the isolates
+showed that 10 cases were virologically linked (Table 1 and
+Figure 1). The probable index case of the outbreak (case 1) was
+identified retrospectively on the basis of the HA and NA
+sequencing of this virus.
+Transmission of Oseltamivir-Resistant A(H1N1) Virus d JID 2011:203 (1 January) d 19
+Table 1. Clinical and Virological Background of the 10 Cases involved in the Oseltamivir-Resistant (H1N1) 2009 Virus Outbreak, University Hospital of Wales, Cardiff, United Kingdom
+Case Age
+Underlying
+Condition Admission
+Reason for
+admission
+Length of
+admission
+Date of first
+Influenza PCR
+Positive
+Date of sample
+positive with
+H275Y mutation
+Minimum time of
+viral shedding Treatment
+Other
+information
+1 19 Acute
+Lymphoblastic
+leukemia
+10/18/09 ILI ,1 day 10/18
+(Oseltamivir
+sensitive)
+N/A N/A 5 days
+oseltamivir
+(75 mg/BD)
+Admitted for
+sampling
+Recovered
+2 26 Acute myeloid
+leukemia
+10/11/09 Fever .40 days
+(transferred
+to ICU 11/05)
+10/29
+(Oseltamivir
+sensitive)
+11/04 (70%
+H275Y) (result
+available for
+clinician 11/12)
+30 days 5 days oseltamivir
+(75 mg/BD),
+4 days oselta-
+mivir (150 mg/
+BD), 10 days
+intravenous
+zanamivir
+Recovered
+3 52 Mantle cell
+lymphoma
+10/25/09 Induction
+chemotherapy
+7 days
+readmitted 11/
+09 for 6 days
+10/30
+(Oseltamivir
+sensitive)
+11/05 (86%
+H275Y)(result
+available for
+clinician 11/12)
+12 days 5 days
+oseltamivir (75
+mg/BD), stop-
+ped treatment
+1 day, 10 days
+oseltamivir
+(150 mg/BD) 1
+inhaled
+zanamivir
+Recovered
+4 56 Multiple
+myeloma
+10/28/09 Consolidation
+chemotherapy
+8 days 11/02
+(Oseltamivir
+sensitive)
+No evidence of
+H275Y muta-
+tion in repeat
+samples
+,5 days 5 days
+oseltamivir
+(75 mg/BD)
+Earlier sample 10/
+30 negative
+Recovered
+5 48 Multiple
+myeloma
+10/29/09 Fever 25 days 11/07
+(Oseltamivir
+resistant)
+11/07 (100%
+H275Y) (result
+available
+for clinician
+11/19)
+23 days 3daysOseltamivir
+(75 mg/BD),
+9 days
+oseltamivir (150
+mg/BD), 1
+day oseltamivir
+(150 mg/BD) 1
+inhaled
+zanamivir,
+4 days inhaled
+zanamivir
+Recovered
+6 27 Non-Hodgkin
+lymphoma
+10/25/09 Induction
+chemotherapy
+24 days 11/09
+(oseltamivir
+sensitive),
+Negative
+PCR 11/17
+Viral rebound 11/
+19 (100%
+H275Y)(result
+available for
+clinician 11/26)
+10 days 10 days Oselta
+mivir (150 mg/
+BD)
+Recovered
+7 48 Burkitt’s
+lymphoma
+11/02/09 Consolidation
+chemotherapy
+9 days
+readmitted
+11/13 for
+.14 days
+11/09
+(Oseltamivir
+resistant)
+11/09 (100%
+H275Y)(result
+available
+for clinician
+11/19)
+20 days 5 days Oseltami
+vir (150 mg/
+BD), 3 days
+oseltamivir
+(150 mg/BD) 1
+inhaled zana-
+mivir, 10 days
+intravenous
+zanamivir
+Recovered
+20
+d
+JID
+2011:203
+(1
+January)
+d
+Moore
+et
+al.
+The 11th case patient was admitted in late October 2009 but
+was ruled out of the outbreak by sequence analysis. He was
+symptomatic and had been admitted directly into isolation
+where he was managed for his entire admission. No evidence of
+onward transmission of his virus was found, suggesting appro-
+priate infection control measures were being undertaken.
+Overall, outbreak management was challenging because of the
+difficulty in clinically diagnosing influenza in this patient cohort
+using standard definitions of ILI. Mild symptoms and asymp-
+tomatic illness were main features of this outbreak.
+During the first 2 weeks of the outbreak, 6 HCWs on the unit
+were absent from work with a multitude of different symptoms,
+including lethargy, diarrhea, and coryza. No respiratory sam-
+pling of HCWs had been undertaken because symptoms were
+generally mild and nonspecific.
+Antiviral susceptibility findings. Eight of the 10 outbreak
+case patients had (H1N1) 2009 virus expressing the H275Y
+mutation (Table 1). Where phenotypic testing was performed,
+the presence of this mutation correlated with high-level oselta-
+mivir resistance (200–600-fold increase in oseltamivir IC50).
+Three of 8 case patients developed resistant virus while receiving
+treatment. Pretreatment samples from these patients showed
+sensitive virus by pyrosequencing and phenotypic assays analy-
+sis. Cases 2 and 3 developed a mixed majority populations of
+H275Y (Table 1), which did not alter on repeat testing. No other
+case patients in the unit with OR-(H1N1) 2009 were shown to
+have a similar mixed population. Case 6 had viral rebound with
+OR-(H1N1) 2009 that was fully resistant to oseltamivir. Case 10
+was on oseltamivir prophylaxis due to being in contact with 2
+cases, and this possibly drove the emergence of OR-(H1N1)
+2009 virus. No other patients had prior exposure to oseltamivir,
+suggesting that person-to-person transmission of oseltamivir-
+resistant virus had occurred.
+Prophylaxis and treatment. Treatment and prophylaxis
+used in the outbreak is summarized in Table 1. At the start of the
+outbreak, all case patients were treated with 5 days of standard
+dose oseltamivir (75 mg/BD). Subsequently, all case patients
+were treated with 10 days double-dose oseltamivir (150 mg/
+twice daily) and inhaled or intravenous zanamivir added if
+resistant virus was suspected. Oseltamivir prophylaxis was used
+sparingly and was stopped when it became apparent that the
+outbreak involved an OR-(H1N1) 2009 virus.
+Viral excretion and immune status. OR-(H1N1) 2009 vi-
+rus was excreted by case patients for a mean of 17 days (range,
+6–30 days). Prolonged positivity was seen in patients in whom
+lymphocyte counts were ,0.5 3 109
+cells/L, with a median of
+0.27 3 109
+cells/L compared with 0.65 3 109
+cells/L when virus
+was not detected (P ,0.001).
+Sequence analysis results. Phylogenetic analysis of the
+concatenated HA and NA genes from the outbreak influenza
+viruses showed that they clustered together in a separate branch
+from other (H1N1) 2009 viruses isolated in Wales and the
+8
+45
+Acute
+myeloid
+leukemia
+10/24/09
+Induction
+chemotherapy
+25
+days
+11/09
+(Oseltamivir
+resistant)
+11/09
+(100%
+H275Y)
+(result
+available
+for
+clinician
+11/19)
+6
+days
+10
+days
+oseltamivir
+(150
+mg/BD)
+Earlier
+sample
+11/02
+negative
+Recovered
+9
+74
+Acute
+myeloid
+leukemia
+10/26/09
+Perianal
+abscess
+11
+days
+readmitted
+11/16
+11/17
+(Oseltami-
+vir
+resistant)
+11/17
+(100%
+H275Y)
+(result
+available
+for
+clinician
+11/19)
+22
+days
+2
+days
+oseltamivir
+(150
+mg/BD),
+8
+day
+oseltamivir
+(150
+mg/BD)
+1
+inhaled
+zana-
+mivir
+2
+days
+intravenous
+zanamivir
+Readmitted
+with
+ILI
+Recovered
+10
+68
+Chronic
+lymphocytic
+leukemia
+11/05/09
+Expressive
+dysphasia,
+poor
+coordination
+.25
+days
+11/20
+(Oseltami-
+vir
+resistant)
+11/20
+(100%
+H275Y)
+(result
+available
+11/26)
+10
+days
+Oseltamivir
+pro-
+phylaxis
+from
+11/
+10,
+10
+days
+Oseltamivir
+(150
+mg/BD)
+1
+in-
+haled
+zanamivir
+Earlier
+sample
+11/07
+negative
+Recovered
+NOTE.
+ILI,
+influenza-like
+illness.
+Transmission of Oseltamivir-Resistant A(H1N1) Virus d JID 2011:203 (1 January) d 21
+United Kingdom during the same period (October – November
+2009) (Figure 1). This cluster was characterized by a bootstrap
+value of 94% and the presence of 4 nucleotide substitutions: 1
+synonymous change in the HA gene (C273T), 2 synonymous
+changes in the NA gene (G603A, T645C), and a nonsynonymous
+mutation also in NA (G1384A) leading to an amino acid re-
+placement (E462K). After deletion of codon position 275, all the
+NA sequences from this cluster were shown to be identical.
+Given the higher variable nature of the HA gene, a few addi-
+tional single mutations had accumulated in all the viruses
+sampled from case patients 9 (G751A), 7 (A330G), and 10
+(G1035A). Also, posttreatment sample from case patient 2,
+taken 5 days after the pretreatment sample, had accumulated
+single substitution A716G. To further confirm the distinctive
+feature of the 4 mutations characterizing the outbreak cluster,
+a thorough search through all the sequences deposited in public
+influenza sequencing databases (NCBI, GISAID) was carried
+out, revealing that these mutations were present in ,1% of
+global sequences, none of them from the United Kingdom, and
+not concomitantly seen in any NA global sequence deposited to
+date. This striking finding strongly supports our hypothesis of
+transmission of OR viruses among the outbreak patients.
+Figure 1. Maximum-likelihood tree of the nucleotide coding region of the concatenated HA and NA genes of pandemic H1N1 2009 influenza viruses
+from the outbreak and the community in Wales and the United Kingdom. Tree was rooted using A/California/07/2009 as out-group. Branch lengths are
+drawn to scale. Oseltamivir-resistant viruses are in bold marked with #. Bootstrap values are displayed in brackets below the nodes. Signature mutations
+are annotated in bold italics and refer to changes seen in the nucleotide sequence of the HA and NA gene using as reference the sequence of
+A/California/07/2009. OT 5 oseltamivir treatment.
+22 d JID 2011:203 (1 January) d Moore et al.
+No evidence of the H275Y mutation was found in any other
+(H1N1) 2009 virus isolate collected over the same period as
+the outbreak from Wales. One further hematology patient (case
+12, Figure 1) later developed a minority mixed population of
+OR-(H1N1) 2009 virus on treatment, but this virus was shown
+to be genetically distinct from the outbreak cluster.
+DISCUSSION
+This is the first confirmed outbreak to our knowledge of OR-
+(H1N1) 2009 virus with person-to-person transmission, as
+demonstrated by the presence of OR virus in pretreatment and
+posttreatment samples of 2 patients. Subsequent genetic analysis
+of the HA and NA genes proved that the same virus was involved
+in the outbreak.
+It occurred during the peak of the second wave of the (H1N1)
+2009 pandemic in Wales, when 60% of community surveillance
+samples tested positive for (H1N1) 2009 virus [10]. (H1N1)
+2009 virus was introduced to the hematology unit from the
+community with oseltamivir resistance being driven by treat-
+ment in 2 lymphopenic patients with onward transmission
+of OR-(H1N1) 2009 virus to other patients on the unit. Case
+patients were all men, and their admissions on the ward
+overlapped.
+Treatment guidelines for hematology patients with (H1N1)
+2009 virus infections were revised in light of this outbreak. Dual
+treatment with oseltamivir and zanamivir was used when re-
+sistant virus was suspected or confirmed. Although all of the
+cases recovered from influenza using this approach, recent data
+suggest there is possibly no synergy to be gained from this ap-
+proach [11] Zanamivir alone therefore would be preferable as a
+frontline treatment in particularly high-risk groups. Prophylaxis
+should be used with caution in patients with lymphopenia, be-
+cause they may have asymptomatic infection with prolonged
+viral excretion; both of which are significant factors in the
+emergence of resistance [12]. Viral clearance in this outbreak
+was associated with immune reconstitution, supporting pre-
+vious findings [12, 13]. Case 6 transiently had a lymphocyte
+count above 0.5 3 109
+cells/L and became PCR negative, sug-
+gesting that a combination of antivirals and a degree of immune
+reconstitution temporarily suppressed viral replication. Viral
+rebound may have occurred because of the presence of a mi-
+nority population of OR-(H1N1) 2009 virus that replicated
+despite the presence of oseltamivir [6]. Drug resistance should
+therefore always be considered in any immunosuppressed
+patient who does not clear virus.
+Transmission of infection on hematology units might be re-
+duced by protective isolation of neutropenic patients using
+single cubicles, but this approach is controversial. Although
+some studies show reduced infection rates, none have been able
+to demonstrate reduced mortality [14]. Patients treated in iso-
+lation were shown to have a significant psychological burden,
+including increased levels of insomnia and depression [15]. An
+alternative to isolation is increasing vigilance for the in-
+troduction of respiratory infections into areas where immuno-
+compromised patients are cared for, together with good
+infection control procedures to prevent transmission events.
+There were no deaths and only limited morbidity associated
+with(H1N1)2009infectionregardlessofoseltamivirsusceptibility
+in this outbreak. Despite the ease of transmission of the OR-
+(H1N1)2009virusontheunit,themildsymptomsassociatedwith
+this outbreak led to difficulties in determining when a case patient
+acquired their infection, making the production of a meaningful
+outbreak curve impossible. Because screening of the unit did not
+occur until late into the outbreak, it is possible that an individual
+with mild symptoms or asymptomatic shedding played a role in
+the continued transmission of the OR-(H1N1) 2009 virus.
+Pandemic influenza vaccine was available in the United
+Kingdom in late October 2009; when the outbreak was identi-
+fied, vaccination of hematology patients, their families, and
+hospital staff was undertaken. Vaccination against influenza
+remains the best way of preventing infection in these patients,
+and therefore, vaccine uptake must be strongly encouraged to
+reduce the pool of susceptible individuals prior to the start of
+each influenza season.
+Supplementary Data
+Supplementary data are available at http://www.oxfordjournals.
+org/our_journals/jid/ online. Supplementary Table 1 contains
+GenBank accession numbers of nucleotide sequences of pan-
+demic influenza (H1N1) 2009 used for phylogenetic analysis.
+Funding
+M.G. has received funding from the Wellcome Trust for a Project
+‘‘Development of an influenza virus sequencing pipeline’’ (October 2006 to
+November 2009). A.L. has received funding from Roche given for an in-
+fluenza virus shedding study in oseltamivir-treated patients in collabora-
+tion with Leicester Royal Infirmary.
+Acknowledgments
+The authors thank the staff of the Public Health Wales Microbiology
+Laboratory in Cardiff for all the routine virology diagnostics undertaken
+throughout the outbreak, the infection control team at the UHW site, and
+Dr Marion Lyons and the health protection team who followed up all case
+patients and contacts. We would also especially like to thank the staff and
+patients of the UHW Hematology Unit, Cardiff.
+References
+1. Update: novel influenza A(H1N1) infection - Mexico, March-May
+2009. MMWR 2010; 58(21);585–589.
+2. Sullivan SJ, Jacobson RM, Dowdle WR, Poland GA. (H1N1) 2009
+influenza. Mayo Clin Proc 2010; 85(1);64–76.
+3. Lackenby A, Hungnes O, Dudman SG, et al. Emergence of resistance to
+oseltamivir among influenza A(H1N1) viruses in Europe. Euro Surveill
+2008; 13(5).
+Transmission of Oseltamivir-Resistant A(H1N1) Virus d JID 2011:203 (1 January) d 23
+4. Update: influenza activity - United States, September 28, 2008–January
+31, 2009. MMWR Morb Mortal Wkly Rep 2009; 58(5);115–119.
+5. Oseltamivir-resistant 2009 pandemic influenza A(H1N1) virus in-
+fection in two summer campers receiving prophylaxis–North Carolina,
+2009. MMWR Morb Mortal Wkly Rep 2009; 58(35);969–972.
+6. Lackenby A, Democratis J, Siqueira MM, Zambon MC. Rapid quan-
+titation of neuraminidase inhibitor drug resistance in influenza virus
+quasispecies. Antivir Ther 2008; 13(6);809–820.
+7. World Health Organization. CDC protocol of realtime RTPCR for
+influenza A(H1N1). 9 A.D.http://www.who.int/csr/resources/pub-
+lications/swineflu/realtimeptpcr/en/index.html). Accessed May 2009.
+8. Ellis J, Iturriza M, Allen R, et al. Evaluation of four real-time PCR assays
+for detection of influenza A(H1N1)v viruses. Euro Surveill 2009; 14(22).
+9. Posada D, Crandall KA. MODELTEST: testing the model of DNA
+substitution. Bioinformatics 1998; 14:817–818.
+10. Welsh CDCS. Influenza Surveillance Data Weekly Report, http://
+www.wales.nhs.uk/sites3/page.cfm?orgid5457&pid527922. Accessed
+April 2010.
+11. Nguyen J, Hoopes J, Le M, et al. Triple combination of amantadine,
+ribavirin, and oseltamivir is highly acitve and synergistic against drug
+resistant influenza virus strain In Vitro. PLoS ONE 2010; 5(2);1–12.
+12. Gooskens J, Jonges M, Claas EC, Meijer A, Kroes AC. Prolonged
+influenza virus infection during lymphocytopenia and frequent
+detection of drug-resistant viruses. J Infect Dis 2009; 199(10);
+1435–1441.
+13. Gooskens J, Jonges M, Claas EC, Meijer A, van den Broek PJ, Kroes
+AM. Morbidity and mortality associated with nosocomial transmission
+of oseltamivir-resistant influenza A(H1N1) virus. JAMA 2009;
+301(10);1042–1046.
+14. Mank A, van der Lelie H. Is there still an indication for nursing patients
+with prolonged neutropenia in protective isolation? An evidence-based
+nursing and medical study of 4 years experience for nursing patients with
+neutropenia without isolation. Eur J Oncol Nurs 2003; 7(1);17–23.
+15. Kunitomi A, Iida H, Kamiya Y, et al. Insomnia and depression during
+protective isolation in patients with hematological disorders. Intern
+Med 2010; 49(1);17–22.
+24 d JID 2011:203 (1 January) d Moore et al.

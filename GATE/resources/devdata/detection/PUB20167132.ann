@@ -1,0 +1,304 @@
+T6	Protein 1 9	RESEARCH
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 15 21	Access
+#7	AnnotatorNotes T7	END
+T3	Location 84 88	Iran
+#3	AnnotatorNotes T3	<latlng>32,53</latlng><geoID>130758</geoID>
+T1	Protein 101 106	Sasan
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 572 585	Mettenleiter1
+#2	AnnotatorNotes T2	END
+T22	Location 790 794	Iran
+#22	AnnotatorNotes T22	<latlng>32,53</latlng><geoID>130758</geoID>
+T23	Location 1094 1098	Iran
+#23	AnnotatorNotes T23	<latlng>32,53</latlng><geoID>130758</geoID>
+T29	Location 1913 1917	Iran
+#29	AnnotatorNotes T29	<latlng>32,53</latlng><geoID>130758</geoID>
+T30	Location 1950 1961	Caspian Sea
+#30	AnnotatorNotes T30	<latlng>42.0,50.0</latlng><pop>0</pop><geoID>630671</geoID>
+T34	Location 3295 3309	Southeast Asia
+#34	AnnotatorNotes T34	<latlng>12.38293,103.00781</latlng><pop>0</pop><geoID>6942346</geoID>
+T8	Protein 3700 3701	*
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 4218 4224	cited.
+#9	AnnotatorNotes T9	END
+T32	Location 4227 4238	Middle East
+#32	AnnotatorNotes T32	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T47	Location 4381 4385	Iran
+#47	AnnotatorNotes T47	<latlng>32,53</latlng><geoID>130758</geoID>
+T10	Location 4568 4573;4574 4582	Cas-pian Sea
+#10	AnnotatorNotes T10	<latlng>42.0,50.0</latlng><pop>0</pop><geoID>630671</geoID>
+T48	Location 4676 4683	Siberia
+#48	AnnotatorNotes T48	<latlng>60,100</latlng><pop>0</pop><geoID>2016590</geoID>
+T49	Location 4698 4704	Russia
+#49	AnnotatorNotes T49	<latlng>60,100</latlng><geoID>2017370</geoID>
+T33	Location 5065 5077	Central Asia
+#33	AnnotatorNotes T33	<latlng>43.00465,71.71875</latlng><pop>66453533</pop><geoID>7729893</geoID>
+T35	Location 5086 5097	Middle East
+#35	AnnotatorNotes T35	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T53	Location 5525 5529	Iran
+#53	AnnotatorNotes T53	<latlng>32,53</latlng><geoID>130758</geoID>
+T54	Location 5540 5550	Mazandaran
+#54	AnnotatorNotes T54	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T55	Location 5552 5557	Gilan
+#55	AnnotatorNotes T55	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T11	Location 5559 5570;5571 5577	West Azer-baijan
+#11	AnnotatorNotes T11	<latlng>37.66667,45</latlng><pop>0</pop><geoID>142550</geoID>
+T57	Location 5579 5585	Tehran
+#57	AnnotatorNotes T57	<latlng>35.66667,51.41667</latlng><pop>110791</pop><geoID>110791</geoID>
+T58	Location 5587 5591	Fars
+#58	AnnotatorNotes T58	<latlng>29,53</latlng><pop>0</pop><geoID>134766</geoID>
+T59	Location 5596 5605	Khuzestan
+#59	AnnotatorNotes T59	<latlng>31.5,49.0</latlng><pop>0</pop><geoID>127082</geoID>
+T60	Location 5679 5683	Iran
+#60	AnnotatorNotes T60	<latlng>32,53</latlng><geoID>130758</geoID>
+T61	Location 5854 5865	Caspian Sea
+#61	AnnotatorNotes T61	<latlng>42.0,50.0</latlng><pop>0</pop><geoID>630671</geoID>
+T62	Location 5942 5954	Central Asia
+#62	AnnotatorNotes T62	<latlng>43.00465,71.71875</latlng><pop>66453533</pop><geoID>7729893</geoID>
+T63	Location 6267 6271	Iran
+#63	AnnotatorNotes T63	<latlng>32,53</latlng><geoID>130758</geoID>
+T65	Location 6517 6524	Germany
+#65	AnnotatorNotes T65	<latlng>51,9</latlng><geoID>2921044</geoID>
+T66	Location 6598 6603	Italy
+#66	AnnotatorNotes T66	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T68	Location 6695 6701	France
+#68	AnnotatorNotes T68	<latlng>46,2</latlng><geoID>3017382</geoID>
+T70	Location 7132 7136	Iran
+#70	AnnotatorNotes T70	<latlng>32,53</latlng><geoID>130758</geoID>
+T71	Location 7233 7240	Germany
+#71	AnnotatorNotes T71	<latlng>51,9</latlng><geoID>2921044</geoID>
+T73	Location 7664 7670	France
+#73	AnnotatorNotes T73	<latlng>46,2</latlng><geoID>3017382</geoID>
+T74	Location 7700 7705	Italy
+#74	AnnotatorNotes T74	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T36	Protein 9444 9454	Fereidouni
+#36	AnnotatorNotes T36	BEGIN
+T37	Protein 9542 9544	14
+#37	AnnotatorNotes T37	END
+T89	Location 10647 10651	Iran
+#89	AnnotatorNotes T89	<latlng>32,53</latlng><geoID>130758</geoID>
+T12	Location 10720 10725;10726 10736	West Azerbaijan
+#12	AnnotatorNotes T12	<latlng>37.66667,45</latlng><pop>0</pop><geoID>142550</geoID>
+T92	Location 10741 10745	Fars
+#92	AnnotatorNotes T92	<latlng>29,53</latlng><pop>0</pop><geoID>134766</geoID>
+T93	Location 10750 10755	Gilan
+#93	AnnotatorNotes T93	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T94	Location 10760 10769	Khuzestan
+#94	AnnotatorNotes T94	<latlng>31.5,49.0</latlng><pop>0</pop><geoID>127082</geoID>
+T95	Location 10774 10784	Mazandaran
+#95	AnnotatorNotes T95	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T96	Location 10789 10795	Tehran
+#96	AnnotatorNotes T96	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T38	Protein 10799 10809	Fereidouni
+#38	AnnotatorNotes T38	BEGIN
+T39	Protein 10897 10899	14
+#39	AnnotatorNotes T39	END
+T98	Location 10932 10936	Iran
+#98	AnnotatorNotes T98	<latlng>32,53</latlng><geoID>130758</geoID>
+T40	Protein 13074 13084	Fereidouni
+#40	AnnotatorNotes T40	BEGIN
+T41	Protein 13172 13174	14
+#41	AnnotatorNotes T41	END
+T156	Location 15897 15901	Iran
+#156	AnnotatorNotes T156	<latlng>32,53</latlng><geoID>130758</geoID>
+T13	Location 16490 16499	Khuzestan
+#13	AnnotatorNotes T13	<latlng>31.5,49.0</latlng><pop>0</pop><geoID>127082</geoID>
+T14	Location 16519 16532	W. Azerbaijan
+#14	AnnotatorNotes T14	<latlng>37.66667,45</latlng><pop>0</pop><geoID>142550</geoID>
+T15	Location 16552 16558	Tehran
+#15	AnnotatorNotes T15	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T16	Location 16583 16588	Gilan
+#16	AnnotatorNotes T16	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T17	Location 16611 16621	Mazandaran
+#17	AnnotatorNotes T17	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T18	Location 16643 16648	Gilan
+#18	AnnotatorNotes T18	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T19	Location 16851 16856	Gilan
+#19	AnnotatorNotes T19	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T20	Location 16666 16670	Fars
+#20	AnnotatorNotes T20	<latlng>29,53</latlng><pop>0</pop><geoID>134766</geoID>
+T21	Location 16691 16697	Tehran
+#21	AnnotatorNotes T21	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T24	Location 16743 16749	Tehran
+#24	AnnotatorNotes T24	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T25	Location 16795 16801	Tehran
+#25	AnnotatorNotes T25	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T26	Location 16718 16727	Khuzestan
+#26	AnnotatorNotes T26	<latlng>31.5,49.0</latlng><pop>0</pop><geoID>127082</geoID>
+T27	Location 16764 16774	Mazandaran
+#27	AnnotatorNotes T27	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T28	Location 16818 16828	Mazandaran
+#28	AnnotatorNotes T28	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T31	Location 16873 16883	Mazandaran
+#31	AnnotatorNotes T31	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T42	Protein 16917 16927	Fereidouni
+#42	AnnotatorNotes T42	BEGIN
+T43	Protein 17015 17017	14
+#43	AnnotatorNotes T43	END
+T171	Location 17051 17055	Iran
+#171	AnnotatorNotes T171	<latlng>32,53</latlng><geoID>130758</geoID>
+T44	Protein 20192 20202	Fereidouni
+#44	AnnotatorNotes T44	BEGIN
+T45	Protein 20290 20292	14
+#45	AnnotatorNotes T45	END
+T218	Location 20733 20744	Caspian Sea
+#218	AnnotatorNotes T218	<latlng>42.0,50.0</latlng><pop>0</pop><geoID>630671</geoID>
+T219	Location 20802 20808	Tehran
+#219	AnnotatorNotes T219	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T220	Location 21217 21221	Iran
+#220	AnnotatorNotes T220	<latlng>32,53</latlng><geoID>130758</geoID>
+T222	Location 21335 21344	Khuzestan
+#222	AnnotatorNotes T222	<latlng>31.5,49.0</latlng><pop>0</pop><geoID>127082</geoID>
+T224	Location 21377 21383	Tehran
+#224	AnnotatorNotes T224	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T226	Location 21422 21427	Gilan
+#226	AnnotatorNotes T226	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T227	Location 21462 21467	Gilan
+#227	AnnotatorNotes T227	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T229	Location 21512 21517	Gilan
+#229	AnnotatorNotes T229	<latlng>37.16667,49.5</latlng><pop>0</pop><geoID>133349</geoID>
+T232	Location 21549 21555	Tehran
+#232	AnnotatorNotes T232	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T233	Location 21590 21596	Tehran
+#233	AnnotatorNotes T233	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T234	Location 21632 21638	Tehran
+#234	AnnotatorNotes T234	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T235	Location 21673 21679	Tehran
+#235	AnnotatorNotes T235	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T236	Location 21708 21714	Tehran
+#236	AnnotatorNotes T236	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T237	Location 21749 21755	Tehran
+#237	AnnotatorNotes T237	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T238	Location 21791 21797	Tehran
+#238	AnnotatorNotes T238	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T239	Location 21833 21839	Tehran
+#239	AnnotatorNotes T239	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T240	Location 21874 21884	Mazandaran
+#240	AnnotatorNotes T240	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T242	Location 21917 21927	Mazandaran
+#242	AnnotatorNotes T242	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T243	Location 21956 21966	Mazandaran
+#243	AnnotatorNotes T243	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T245	Location 22003 22013	Mazandaran
+#245	AnnotatorNotes T245	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T248	Location 22048 22058	Mazandaran
+#248	AnnotatorNotes T248	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T251	Location 22105 22115	Mazandaran
+#251	AnnotatorNotes T251	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T254	Location 22155 22165	Mazandaran
+#254	AnnotatorNotes T254	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T257	Location 22201 22211	Mazandaran
+#257	AnnotatorNotes T257	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T260	Location 22248 22258	Mazandaran
+#260	AnnotatorNotes T260	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T263	Location 22294 22304	Mazandaran
+#263	AnnotatorNotes T263	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T265	Location 22341 22351	Mazandaran
+#265	AnnotatorNotes T265	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T267	Location 22389 22399	Mazandaran
+#267	AnnotatorNotes T267	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T268	Location 22434 22444	Mazandaran
+#268	AnnotatorNotes T268	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T270	Location 22481 22491	Mazandaran
+#270	AnnotatorNotes T270	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T271	Location 22523 22533	Mazandaran
+#271	AnnotatorNotes T271	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T272	Location 22565 22575	Mazandaran
+#272	AnnotatorNotes T272	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T273	Location 22607 22617	Mazandaran
+#273	AnnotatorNotes T273	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T274	Location 22662 22672	Mazandaran
+#274	AnnotatorNotes T274	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T275	Location 22704 22714	Mazandaran
+#275	AnnotatorNotes T275	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T277	Location 22756 22766	Mazandaran
+#277	AnnotatorNotes T277	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T280	Location 22801 22811	Mazandaran
+#280	AnnotatorNotes T280	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T283	Location 22848 22858	Mazandaran
+#283	AnnotatorNotes T283	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T46	Protein 22890 22900	Fereidouni
+#46	AnnotatorNotes T46	BEGIN
+T50	Protein 22988 22990	14
+#50	AnnotatorNotes T50	END
+T289	Location 24024 24028	Iran
+#289	AnnotatorNotes T289	<latlng>32,53</latlng><geoID>130758</geoID>
+T292	Location 25133 25137	Iran
+#292	AnnotatorNotes T292	<latlng>32,53</latlng><geoID>130758</geoID>
+T51	Protein 25140 25150	Fereidouni
+#51	AnnotatorNotes T51	BEGIN
+T52	Protein 25238 25240	14
+#52	AnnotatorNotes T52	END
+T56	Protein 25367 25377	Fereidouni
+#56	AnnotatorNotes T56	BEGIN
+T64	Protein 25465 25467	14
+#64	AnnotatorNotes T64	END
+T293	Location 26881 26885	Iran
+#293	AnnotatorNotes T293	<latlng>32,53</latlng><geoID>130758</geoID>
+T295	Location 27071 27075	Iran
+#295	AnnotatorNotes T295	<latlng>32,53</latlng><geoID>130758</geoID>
+T296	Location 27281 27285	Iran
+#296	AnnotatorNotes T296	<latlng>32,53</latlng><geoID>130758</geoID>
+T297	Location 27414 27418	Iran
+#297	AnnotatorNotes T297	<latlng>32,53</latlng><geoID>130758</geoID>
+T298	Location 27514 27520	Russia
+#298	AnnotatorNotes T298	<latlng>60,100</latlng><geoID>2017370</geoID>
+T299	Location 27525 27533	Hokkaido
+#299	AnnotatorNotes T299	<latlng>43.06451,141.3466</latlng><pop>5647230</pop><geoID>2130037</geoID>
+T302	Location 28342 28355	Central Asia
+#302	AnnotatorNotes T302	<latlng>43.00465,71.71875</latlng><pop>66453533</pop><geoID>7729893</geoID>
+T67	Location 28367 28378	Middle East
+#67	AnnotatorNotes T67	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T304	Location 28444 28448	Iran
+#304	AnnotatorNotes T304	<latlng>32,53</latlng><geoID>130758</geoID>
+T305	Location 28513 28528	Northern Europe
+#305	AnnotatorNotes T305	<latlng>61.68987,2.90039</latlng><pop>0</pop><geoID>7729883</geoID>
+T306	Location 28674 28679	Italy
+#306	AnnotatorNotes T306	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T307	Location 28772 28778	Norway
+#307	AnnotatorNotes T307	<latlng>62,10</latlng><geoID>3144096</geoID>
+T308	Location 28876 28882	Alaska
+#308	AnnotatorNotes T308	<latlng>64.00028,-150.00028</latlng><pop>660633</pop><geoID>5879092</geoID>
+T309	Location 28887 28893	Canada
+#309	AnnotatorNotes T309	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T69	Location 29901 29920	Northern Hemisphere
+#69	AnnotatorNotes T69	<latlng>45.0,0.0</latlng><geoID>NA</geoID>
+T314	Location 30280 30290	Mazandaran
+#314	AnnotatorNotes T314	<latlng>36.25,52.33333</latlng><pop>0</pop><geoID>124544</geoID>
+T315	Location 30418 30424	Tehran
+#315	AnnotatorNotes T315	<latlng>35.66667,51.41667</latlng><pop>0</pop><geoID>110791</geoID>
+T316	Location 30620 30624	Iran
+#316	AnnotatorNotes T316	<latlng>32,53</latlng><geoID>130758</geoID>
+T317	Location 30904 30910	Europe
+#317	AnnotatorNotes T317	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T72	Location 30915 30927	the Americas
+#72	AnnotatorNotes T72	<latlng>11.863562,-107.4353043</latlng><geoID>NA</geoID>
+T75	Protein 31089 31099	Fereidouni
+#75	AnnotatorNotes T75	BEGIN
+T76	Protein 31188 31190	14
+#76	AnnotatorNotes T76	END
+T323	Location 31683 31694	Caspian Sea
+#323	AnnotatorNotes T323	<latlng>42.0,50.0</latlng><pop>0</pop><geoID>630671</geoID>
+T327	Location 32093 32099	Sweden
+#327	AnnotatorNotes T327	<latlng>62,15</latlng><geoID>2661886</geoID>
+T77	Protein 32652 32662	Fereidouni
+#77	AnnotatorNotes T77	BEGIN
+T78	Protein 32751 32753	14
+#78	AnnotatorNotes T78	END
+T328	Location 33688 33695	Germany
+#328	AnnotatorNotes T328	<latlng>51,9</latlng><geoID>2921044</geoID>
+T329	Location 33700 33706	France
+#329	AnnotatorNotes T329	<latlng>46,2</latlng><geoID>3017382</geoID>
+T330	Location 33707 33712	Italy
+#330	AnnotatorNotes T330	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T335	Location 36150 36154	Iran
+#335	AnnotatorNotes T335	<latlng>32,53</latlng><geoID>130758</geoID>
+T341	Location 37134 37138	Iran
+#341	AnnotatorNotes T341	<latlng>32,53</latlng><geoID>130758</geoID>
+T342	Location 37172 37183	Caspian Sea
+#342	AnnotatorNotes T342	<latlng>42.0,50.0</latlng><pop>0</pop><geoID>630671</geoID>
+T79	Protein 38624 38634	Fereidouni
+#79	AnnotatorNotes T79	BEGIN
+T5	Protein 48770 48772	14
+#5	AnnotatorNotes T5	END

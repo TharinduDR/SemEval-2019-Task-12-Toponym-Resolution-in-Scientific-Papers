@@ -1,0 +1,1545 @@
+American Journal of Epidemiology
+© The Author 2013. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://
+creativecommons.org/licenses/by-nc/3.0), which permits unrestricted reuse, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+
+Vol. 177, No. 12
+DOI: 10.1093/aje/kws437
+Advance Access publication:
+May 14, 2013
+
+Original Contribution
+Environmental Exposure to Metals and Children’s Growth to Age 5 Years:
+A Prospective Cohort Study
+
+Renee M. Gardner, Maria Kippler, Fahmida Tofail, Matteo Bottai, Jena Hamadani,
+Margaretha Grandér, Barbro Nermell, Brita Palm, Kathleen M. Rasmussen, and Marie Vahter*
+* Correspondence to Dr. Marie Vahter, Institute of Environmental Medicine, Karolinska Institutet, Box 210, 171 77 Stockholm, Sweden (e-mail:
+marie.vahter@ki.se).
+
+Initially submitted March 5, 2012; accepted for publication November 2, 2012.
+
+In this prospective cohort study, based on 1,505 mother-infant pairs in rural Bangladesh, we evaluated the
+associations between early-life exposure to arsenic, cadmium, and lead, assessed via concentrations in maternal
+and child urine, and children’s weights and heights up to age 5 years, during the period 2001–2009. Concurrent
+and prenatal exposures were evaluated using linear regression analysis, while longitudinal exposure was
+assessed using mixed-effects linear regression. An inverse association was found between children’s weight and
+height, age-adjusted z scores, and growth velocity at age 5 years and concurrent exposure to cadmium and
+arsenic. In the longitudinal analysis, multivariable-adjusted attributable differences in children’s weight at age 5
+years were −0.33 kg (95% confidence interval (CI): −0.60, −0.06) for high (≥95th percentile) arsenic exposure
+and −0.57 kg (95% CI: −0.88, −0.26) for high cadmium exposure, in comparison with children with the lowest
+exposure (≤5th percentile). Multivariable-adjusted attributable differences in height were −0.50 cm (95% CI:
+−1.20, 0.21) for high arsenic exposure and −1.6 cm (95% CI: −2.4, −0.77) for high cadmium exposure. The associations were apparent primarily among girls. The negative effects on children’s growth at age 5 years attributable
+to arsenic and cadmium were of similar magnitude to the difference between girls and boys in terms of weight
+(−0.67 kg, 95% CI: −0.82, −0.53) and height (−1.3 cm, 95% CI: −1.7, −0.89).
+arsenic; body height; body weight; cadmium; child, preschool; growth; lead; prenatal exposure delayed effects
+
+Abbreviations: CI, confidence interval; DMA, dimethylarsinic acid; MINIMat, Maternal and Infant Nutrition Interventions in Matlab;
+MMA, monomethylarsonic acid; SES, socioeconomic status.
+
+Growth restriction in early life is associated with a number
+of poor health outcomes later in life. In particular, stunting,
+or height-for-age z score more than 2 standard deviations
+below the median reference set by the World Health Organization, has been associated with later behavioral problems,
+cognitive deﬁcits, and increased risk of hypertension and
+cardiovascular disease (1–5). Underweight, or weight-forage z score more than 2 standard deviations below the World
+Health Organization median, is associated with increased
+risk of death from diseases such as pneumonia, diarrhea, and
+malaria (6).
+The primary risk factor for growth restriction in children
+is malnutrition. The most important risk factors for stunting
+
+and underweight occur during early life, including maternal
+undernutrition during pregnancy, inadequate breastfeeding,
+and inappropriate introduction of complementary foods (7).
+However, other early-life environmental exposures may also
+play a role in growth restriction (7).
+Childhood lead exposure has been associated with stunting in children (8, 9), and studies in animals demonstrate
+that lead affects growth via toxic effects on bone tissue (10).
+Both arsenic exposure and cadmium exposure are inversely
+associated with infant size at birth, and this relationship may
+vary between boys and girls (11, 12), though less is known
+about how arsenic and cadmium exposure affect subsequent
+growth. An inverse association between arsenic exposure
+
+1356
+
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Early-Life Metals Exposure and Children’s Growth 1357
+
+and children’s height and weight has been reported in relatively small, cross-sectional studies (13–15). However, in a
+much larger longitudinal study, we found only a weak
+inverse association between prenatal arsenic exposure and
+children’s growth to age 2 years that was greatly attenuated
+by adjustment for other risk factors (16). Several small
+studies have shown that prenatal cadmium exposure was
+associated with attenuated weight and height in preschool
+children, though concurrent exposures were not accounted
+for (17, 18). To our knowledge, no studies to date have considered the independent associations of these toxic metals
+over time with anthropometric outcomes within the same
+population.
+In the present study, we aimed to evaluate the relationship
+between both prenatal and concurrent environmental exposure and children’s attained weight and height at 5 years, as
+well as growth velocities from birth to age 5 years and standardized z scores, using a longitudinal study design within a
+well-characterized mother-child cohort in rural Bangladesh.
+MATERIALS AND METHODS
+Study area and population
+
+The present study is part of our ongoing research concerning health effects of early-life exposure to toxic agents in
+Matlab, Bangladesh, a rural area 53 km southeast of Dhaka.
+This research is nested into a population-based randomized
+trial of food and micronutrient supplementation, Maternal
+and Infant Nutrition Interventions in Matlab (MINIMat) (19).
+Mothers of children born between May 2002 and December
+2003 (n = 2,853) were invited to participate in the assessment of environmental contaminants and child health and
+development (20). Of these mother-child pairs, those who
+had complete anthropometric data at birth and at ages 1.5
+and 5 years, as well as environmental exposure data prenatally and at ages 1.5 and 5 years, were included in this study
+(n = 1,505; Figure 1). Pairs who were included in the study
+were similar to excluded pairs in terms of exposures, outcomes, and other demographic characteristics (see Web
+Table 1, available at http://aje.oxfordjournals.org/).
+This study was approved by the Regional Ethical Committee at Karolinska Institutet (Stockholm, Sweden) and the
+Ethical Review Committee at the International Center for
+Diarrhoeal Disease Research, Bangladesh (Dhaka, Bangladesh). Informed consent was obtained from the mothers, and
+all participants were free to refrain from any part of the study.
+Anthropometric measurements
+
+Children’s weights and lengths/heights were measured at
+birth, monthly during the ﬁrst year of life, once every 3
+months during the second year of life, and again at a 5-year
+follow-up visit, according to methods previously described
+in detail (21, 22). Missing measurements were more
+common during the ﬁrst year, because study capacity was
+still being developed during the ﬁrst months of the
+MINIMat follow-up; 41% of measurements were missing at
+month 1, 20% were missing at month 6, and 5% were
+missing at month 12.
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Figure 1. Loss to follow-up and exclusion of mother-child pairs
+within the MINIMat Study, Matlab, Bangladesh, 2007–2009.
+MINIMat, Maternal and Infant Nutrition Interventions in Matlab.
+
+Socioeconomic status
+
+Data on an extensive list of socioeconomic status (SES)
+factors at the time of enrollment were extracted from the
+health and demographic database maintained by the International Centre for Diarrhoeal Disease Research, Bangladesh.
+SES was deﬁned in terms of assets (on the basis of household ownership of different items), dwelling characteristics,
+drinking-water source, and household sanitation. Asset
+scores were standardized as previously described (23, 24).
+Exposure assessment
+
+Exposure assessment was based on urinary concentrations
+of arsenic, cadmium, and lead in spot urine samples collected from pregnant women and their children at ages 1.5
+and 5 years (25–27). Urinary arsenic, deﬁned as the total
+concentration of the metabolites of inorganic arsenic (inorganic
+arsenic + monomethylarsonic acid (MMA) + dimethylarsinic
+acid (DMA)), was determined by high-performance liquid
+chromatography (Agilent 1100 Series system; Agilent Technologies, Waldbronn, Germany) coupled with hydride generation and inductively coupled plasma mass spectrometry
+(Agilent 7500ce; Agilent Technologies) for all children at
+both 1.5 and 5 years of age (25, 27, 28) and by hydride generation atomic absorption spectrometry for maternal samples
+(26). Measurement of cadmium (mass-to-charge ratio, 111)
+and lead (mass-to-charge ratio, 208) was also performed
+with inductively coupled plasma mass spectrometry for
+maternal samples and children’s samples at age 5 years (29,
+30). The between-assay coefﬁcient of variation was 2.0%
+for maternal total urinary arsenic (26) and 6.8% and 5.8%
+for DMA in children’s samples at ages 1.5 years (27) and 5
+years (25), respectively. For urinary cadmium, the coefﬁcient
+
+1358 Gardner et al.
+
+Figure 2. The relationship between log2-transformed urinary biomarkers of metals exposure and children’s weight (left-hand panels) and height
+(right-hand panels) at age 5 years, Matlab, Bangladesh, 2007–2009. Top row, urinary arsenic; middle row, urinary cadmium; bottom row, urinary
+lead. In all cases, the solid line represents a LoWeSS (locally weighted scatterplot smoothing) moving-average curve for the raw data represented
+in the scatterplot. The dashed line represents the fitted curve following log2-transformation of urinary concentration, adjusted for child’s sex, family
+socioeconomic status, season of birth, gestational age at birth, maternal education, maternal height or body mass index (weight (kg)/height (m)2)
+(as appropriate), maternal tobacco-chewing, indoor cooking without ventilation, and birth order (model 2).
+
+of variation was 2.9% for maternal samples (12) and 3.3%
+for children’s samples at age 5 years (30). For urinary lead,
+the coefﬁcient of variation was 11% for maternal samples
+
+and 7.3% for children’s samples at age 5 years (29). (See
+the Web Appendix for further description of analytical
+measurements.)
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Early-Life Metals Exposure and Children’s Growth 1359
+
+Table 1. Spearman Correlations Between Biomarkers of Exposure and Predictors of Anthropometric Outcomes at Age 5 Years Among Children
+in Matlab, Bangladesh, 2007–2009
+Childrena
+Urinary Arsenic
+Level, μg/L
+
+Child’s urinary cadmium
+level, μg/L
+
+0.12**
+
+Child’s urinary lead level,
+μg/L
+
+0.00
+
+Mother’s urinary arsenic
+level, μg/L
+
+0.45**
+
+Mother’s urinary
+cadmium level, μg/L
+
+0.08*
+−0.04
+
+Mother’s urinary lead
+level, μg/L
+
+Urinary Cadmium
+Level, μg/L
+
+Mothersb
+Urinary Lead
+Level, μg/L
+
+Urinary Arsenic
+Level, μg/L
+
+−0.01
+0.11**
+0.02
+
+−0.02
+−0.09*
+0.14**
+
+0.10**
+−0.03
+
+0.07*
+
+0.05
+
+−0.06*
+
+0.04
+
+Sexd
+
+0.00
+
+0.05
+
+0.02
+
+0.03
+
+−0.12**
+
+−0.16**
+
+0.06*
+
+−0.12**
+
+Post-rainy-season birth
+
+−0.10**
+
+−0.10**
+
+0.11**
+
+Gestational age at birth,
+weeks
+
+−0.04
+
+−0.01
+
+0.03
+
+Maternal tobaccochewingg
+
+0.03
+
+0.01
+
+0.02
+
+Indoor open-flame
+cookingh
+
+−0.01
+
+−0.02
+
+−0.02
+
+Maternal educationi
+
+−0.13**
+
+−0.11**
+
+f
+
+Urinary Lead
+Level, μg/L
+
+0.11**
+
+Birth orderc
+Socioeconomic statuse
+
+Urinary Cadmium
+Level, μg/L
+
+0.03
+
+0.11**
+0.19**
+−0.01
+−0.16**
+
+−0.13**
+−0.03
+0.19**
+
+0.00
+
+0.01
+
+0.10**
+
+−0.02
+
+0.01
+
+0.02
+
+0.03
+
+−0.09*
+
+0.05*
+−0.01
+−0.11**
+
+0.09**
+−0.19**
+
+0.01
+0.11*
+
+* P < 0.01; **P < 0.001.
+a
+Concentration measured in children’s urine at age 5 years.
+b
+Concentration measured in mothers’ urine during early gestation (approximately gestational week 8).
+c
+Birth order or mother’s parity (range, 0–7).
+d
+Boys = 0; girls = 1.
+e
+Socioeconomic status was defined on the basis of ownership of various household assets.
+f
+Children born between September and December = 1; all others = 0.
+g
+Mothers were asked postpartum about whether they chewed tobacco, either “jarda” (sweetened tobacco leaves in a mixture of sliced areca
+nut, calcium carbonate, and a leaf of the piper betel plant) or “gul” (dried and powdered tobacco), during their pregnancy. Tobacco-chewing during
+pregnancy was classified as either “yes = 1” or “no = 0.”
+h
+Mothers were asked postpartum whether they had cooked food indoors using a flame (not counting gas) in an area that was enclosed on all
+sides, including the top, for at least 2 weeks during pregnancy.
+i
+In total years of schooling.
+
+To compensate for variation in dilution of the urine samples, we adjusted all measurements for the speciﬁc gravity
+of the urine, measured by means of a digital clinical refractometer (EUROMEX RD 712; EUROMEX, Arnhem,
+the Netherlands) (31). Adjustment by urinary creatinine is
+problematic in growth studies, particularly those involving
+arsenic, because urinary creatinine is associated with body
+size, is inﬂuenced by nutritional factors that can also inﬂuence arsenic metabolism and growth, and is itself correlated
+with arsenic metabolism efﬁciency (31, 32).
+Statistical analysis
+
+All statistical analyses were conducted using STATA,
+version 10 (StataCorp LP, College Station, Texas).
+We considered attained weight, height, weight-for-age z
+score, height-for-age z score, peak weight velocity, and peak
+height velocity as outcomes. Weight-for-age z score and
+height-for-age z score were calculated according to standard
+Am J Epidemiol. 2013;177(12):1356–1367
+
+World Health Organization methods (33). Peak weight velocity and peak height velocity were calculated using all available
+data from birth to the 5-year visit. The 4-parameter Reed
+model (34) for children’s growth, modiﬁed according to the
+methods described by Simondon et al. (35), was ﬁtted by sex
+using maximum likelihood estimation and assuming both
+ﬁxed and random components for all parameters. The ﬁrst
+derivatives of the individual ﬁtted growth curves were taken to
+calculate the maximum weight or height velocity for each
+child (36).
+Given the potential for a nonlinear association between
+the exposure biomarkers and the outcomes (Figure 2), we
+tested the crude association between the tertiles of each biomarker and the anthropometric outcomes. We repeated this
+analysis, adjusting for the following possible confounders:
+family SES, maternal tobacco-chewing during pregnancy,
+cooking over ﬁre indoors, maternal educational level (≥5
+years or <5 years (the median value)), season of birth ( pre–
+rainy season, rainy season, or post–rainy season), and parity.
+
+1360 Gardner et al.
+
+Table 2. Anthropometric Characteristics (Mean and Standard Deviation) at Age 5 Years According to Arsenic, Cadmium, and Lead Exposure
+and Covariates for Children in Matlab, Bangladesh, 2007–2009
+Variable
+
+All children
+
+No. of
+Children
+
+Weight,
+kg
+
+Weight-for-Age
+z Score
+
+Peak Weight
+Velocity, kg/month
+
+Height,
+cm
+
+Height-for-Age
+z Score
+
+Peak Height
+Velocity, cm/month
+
+1,505
+
+14.9 (1.8)
+
+−1.80 (0.89)
+
+0.10 (0.03)
+
+104 (4.6)
+
+−1.59 (0.94)
+
+0.43 (0.07)
+
+Tertile of measured level
+at age 5 years, μg/L
+Urinary arsenic
+<35
+
+484
+
+15.2 (2.1)
+
+−1.68 (0.99)
+
+0.11 (0.03)
+
+104 (4.9)
+
+−1.47 (0.99)
+
+0.43 (0.07)
+
+≥35–<84
+
+509
+
+14.8 (1.6)
+
+−1.87 (0.85)
+
+0.09 (0.02)
+
+103 (4.4)
+
+−1.66 (0.92)
+
+0.43 (0.06)
+
+≥84
+
+512
+
+14.8 (1.7)
+
+−1.84 (0.83)
+
+0.10 (0.02)
+
+103 (4.5)
+
+−1.62 (0.89)
+
+0.43 (0.06)
+0.44 (0.06)
+
+Urinary cadmium
+<0.16
+
+515
+
+15.2 (1.8)
+
+−1.68 (0.88)
+
+0.11 (0.03)
+
+104 (4.6)
+
+−1.45 (0.94)
+
+≥0.16–<0.27
+
+480
+
+14.9 (1.9)
+
+−1.83 (0.92)
+
+0.10 (0.03)
+
+103 (4.5)
+
+−1.62 (0.94)
+
+0.43 (0.07)
+
+≥0.27
+
+510
+
+14.7 (1.7)
+
+−1.90 (0.86)
+
+0.09 (0.02)
+
+103 (4.7)
+
+−1.69 (0.94)
+
+0.42 (0.07)
+
+Urinary lead
+<2.9
+
+495
+
+14.9 (1.7)
+
+−1.84 (0.87)
+
+0.10 (0.03)
+
+104 (4.6)
+
+−1.59 (0.95)
+
+0.43 (0.07)
+
+≥2.9–<4.6
+
+498
+
+14.9 (1.9)
+
+−1.78 (0.94)
+
+0.10 (0.03)
+
+104 (4.7)
+
+−1.59 (0.94)
+
+0.43 (0.07)
+
+≥4.6
+
+512
+
+14.9 (1.7)
+
+−1.78 (0.86)
+
+0.10 (0.02)
+
+103 (4.5)
+
+−1.58 (0.94)
+
+0.43 (0.06)
+
+Sex
+Boys
+
+794
+
+15.3 (1.8)
+
+−1.73 (0.90)
+
+0.10 (0.03)
+
+104 (4.7)
+
+−1.55 (0.97)
+
+0.43 (0.07)
+
+Girls
+
+711
+
+14.6 (1.8)
+
+−1.88 (0.88)
+
+0.10 (0.03)
+
+103 (4.5)
+
+−1.63 (0.91)
+
+0.44 (0.06)
+
+Quintile of socioeconomic
+statusa
+1 (lowest)
+
+322
+
+14.4 (1.5)
+
+−2.04 (0.78)
+
+0.09 (0.02)
+
+102 (4.0)
+
+−1.93 (0.83)
+
+0.41 (0.06)
+
+2
+
+341
+
+14.5 (1.6)
+
+−2.02 (0.83)
+
+0.10 (0.02)
+
+102 (4.5)
+
+−1.81 (0.90)
+
+0.41 (0.06)
+
+3
+
+287
+
+14.7 (1.5)
+
+−1.89 (0.80)
+
+0.10 (0.02)
+
+103 (4.2)
+
+−1.67 (0.85)
+
+0.43 (0.06)
+
+4
+
+275
+
+15.4 (1.9)
+
+−1.59 (0.90)
+
+0.11 (0.03)
+
+105 (4.6)
+
+−1.33 (0.94)
+
+0.44 (0.07)
+
+5 (highest)
+
+280
+
+15.8 (2.2)
+
+−1.37 (0.96)
+
+0.12 (0.03)
+
+106 (4.8)
+
+−1.09 (0.95)
+
+0.46 (0.07)
+
+469
+
+15.3 (2.1)
+
+−1.62 (0.98)
+
+0.11 (0.03)
+
+104 (4.8)
+
+−1.40 (0.99)
+
+0.45 (0.07)
+
+1,046
+
+14.8 (1.7)
+
+−1.88 (0.84)
+
+0.10 (0.02)
+
+103 (4.5)
+
+−1.67 (0.91)
+
+0.42 (0.06)
+
+Birth order
+Firstborn
+Second-born or more
+
+Table continues
+
+Possible confounders were deﬁned as being associated with
+any exposure (Table 1) as well as being associated with
+children’s anthropometric outcomes at age 5 years. Additionally, we included other predictors of the outcomes:
+child’s sex, maternal anthropometric characteristics, and
+gestational age at birth. The effect of food and micronutrient
+supplementation on childhood growth has been reported for
+the full MINIMat cohort elsewhere (22). We also assessed
+whether adding the 2 different types of food (early and
+usual) and/or 3 different types of micronutrient supplementation used in the MINIMat supplementation trial (22, 37) to
+the models changed the associations between environmental
+exposures and anthropometric outcomes. Because inclusion
+of these covariates did not change any of the associations
+(using either this strategy or the modeling strategy outlined
+below), we did not include these covariates in the ﬁnal
+models presented here.
+We also considered 4 models in which the biomarker concentration was log2-transformed to account for the nonlinear
+
+relationship between biomarkers and anthropometric measures (Figure 2). In this analysis, each β coefﬁcient represents the average change in the outcome associated with
+each doubling of the concentration of the biomarker. In
+model 1, we examined the crude association between each
+individual environmental exposure (measured as children’s
+urinary arsenic, urinary cadmium, and urinary lead levels at
+age 5 years) and each outcome at age 5 years. In model 2,
+we repeated the analysis, adjusting for possible confounders
+and predictors of outcome listed above. In model 3, to
+control for any effects of prenatal environmental exposure,
+we adjusted the results as in model 2, with the addition of
+maternal urinary arsenic, urinary cadmium, or urinary lead
+measured during gestational week 8. In model 4, we evaluated the associations of children’s urinary arsenic, urinary
+cadmium, and urinary lead levels with anthropometric outcomes in the same model, also adjusted as in model 2. After
+calculating the estimates for all models described here, we
+used the STATA suest command for “seemingly unrelated
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Early-Life Metals Exposure and Children’s Growth 1361
+
+Table 2. Continued
+Variable
+
+No. of
+Children
+
+Weight,
+kg
+
+Weight-for-Age
+z Score
+
+Peak Weight
+Velocity, kg/month
+
+Height,
+cm
+
+Height-for-Age
+z Score
+
+Peak Height
+Velocity, cm/month
+
+Season of birth
+Pre–rainy seasonb
+
+383
+
+14.9 (4.7)
+
+−1.82 (0.87)
+
+0.10 (0.03)
+
+104 (4.4)
+
+−1.53 (0.91)
+
+0.43 (0.06)
+
+Rainy seasonc
+
+524
+
+14.9 (2.0)
+
+−1.83 (0.94)
+
+0.10 (0.03)
+
+104 (4.6)
+
+−1.58 (0.94)
+
+0.43 (0.07)
+
+Post–rainy seasond
+
+598
+
+15.0 (1.7)
+
+−1.76 (0.87)
+
+0.10 (0.02)
+
+103 (4.8)
+
+−1.62 (0.97)
+
+0.43 (0.07)
+
+Gestational age at birth,
+weeks
+≤37
+
+138
+
+15.0 (1.9)
+
+−1.78 (0.97)
+
+0.11 (0.03)
+
+104 (4.8)
+
+−1.53 (1.0)
+
+0.46 (0.07)
+
+>37
+
+1,367
+
+14.9 (1.8)
+
+−1.80 (0.88)
+
+0.10 (0.03)
+
+103 (4.6)
+
+−1.59 (0.94)
+
+0.43 (0.07)
+
+Maternal education, years
+≥5
+
+806
+
+15.2 (2.0)
+
+−1.62 (0.93)
+
+0.11 (0.03)
+
+105 (4.8)
+
+−1.37 (0.97)
+
+0.45 (0.07)
+
+<5
+
+699
+
+14.5 (1.5)
+
+−2.00 (0.80)
+
+0.09 (0.02)
+
+102 (4.2)
+
+−1.85 (0.84)
+
+0.41 (0.06)
+
+Tobacco-chewing during
+pregnancye
+Yes
+
+934
+
+14.8 (1.8)
+
+−1.88 (0.88)
+
+0.10 (0.03)
+
+103 (4.5)
+
+−1.62 (0.93)
+
+0.43 (0.06)
+
+No
+
+567
+
+15.1 (1.9)
+
+−1.73 (0.90)
+
+0.10 (0.03)
+
+104 (4.8)
+
+−1.53 (0.96)
+
+0.43 (0.07)
+
+Indoor open-flame
+cookingf
+Yes
+No
+
+261
+
+14.9 (1.6)
+
+−1.81 (0.81)
+
+0.10 (0.02)
+
+103 (4.8)
+
+−1.63 (0.94)
+
+0.42 (0.07)
+
+1,244
+
+14.9 (1.9)
+
+−1.80 (0.91)
+
+0.10 (0.03)
+
+104 (4.6)
+
+−1.58 (0.94)
+
+0.43 (0.07)
+
+a
+
+Socioeconomic status was defined on the basis of ownership of various household assets.
+Children born between January and April.
+c
+Children born between May and August.
+d
+Children born between September and December.
+e
+Mothers were asked postpartum about whether they chewed tobacco, either “jarda” (sweetened tobacco leaves in a mixture of sliced areca
+nut, calcium carbonate, and a leaf of the piper betel plant) or “gul” (dried and powdered tobacco), during their pregnancy. Tobacco-chewing during
+pregnancy was classified as either “yes = 1” or “no = 0.”
+f
+Mothers were asked postpartum whether they had cooked food indoors using a flame (not counting gas) in an area that was enclosed on all
+sides, including the top, for at least 2 weeks during pregnancy.
+b
+
+estimation,” which provides robust standard errors and
+adjusts model estimates for intragroup correlation after conducting multiple tests on a set of correlated exposures and
+outcomes (38). We present the adjusted model estimates. In
+a subsequent analysis, we added the percentage of MMA,
+the most toxic arsenic metabolite, into model 2 for the
+arsenic-only models to test whether efﬁciency of arsenic
+metabolism affected these relationships.
+We next examined whether prenatal environmental exposures were related to the anthropometric outcomes at age
+5 years. We followed the same modeling strategy as outlined
+above, substituting maternal urinary biomarkers measured at
+gestational week 8 for children’s urinary biomarkers in the
+models.
+To explore the longitudinal relationship between exposure
+and children’s weight and height over time, we used mixedeffects linear regression models with a random intercept and
+random slope, ﬁtted using maximum likelihood estimation,
+and including all environmental exposures. Weight and height
+were regressed separately over time, in terms of months since
+birth (time = 0). Maternal urinary arsenic, urinary cadmium,
+and urinary lead were taken as proxy measures for exposure at
+Am J Epidemiol. 2013;177(12):1356–1367
+
+birth. To allow the effects of environmental exposures to
+change over time, we included interaction terms for each biomarker and time. To allow for differences between boys and
+girls and SES to change over time, we included terms for the
+interaction between these variables and time. We adjusted the
+results as in model 2 above.
+Given evidence that metals may have sex-speciﬁc
+effects (39), we stratiﬁed the data by sex and repeated the
+above analysis, excluding any sex-related terms. Additionally, we lacked data on individual nutritional intake in this
+study. In order to address the possibility that the observed
+associations were due to unobserved confounding by nutritional status, we stratiﬁed the sample based on quintiles of
+SES and compared the associations between environmental exposures and weight and height according to SES
+quintile (highest quintile (rate of stunting at age 5 years:
+16%) vs. lowest quintile (rate of stunting at age 5 years:
+46%)).
+We calculated the multivariable-adjusted difference
+in weight and height due to environmental exposures by
+comparing the multivariable-adjusted weight or height of
+children with urinary arsenic at or above the 95th percentile
+
+1362 Gardner et al.
+
+Figure 3. Relationship between urinary arsenic (As), urinary cadmium (Cd), and urinary lead (Pb) concentrations and anthropometric outcomes
+according to tertiles of exposure, measured in children at age 5 years in Matlab, Bangladesh, 2007–2009. Weight (A), height (B), weight-for-age z
+score (WAZ) (C), height-for-age z score (HAZ) (D), peak weight velocity (E), and peak height velocity (F) were considered as outcomes. Crude
+(unadjusted) model estimates are shown as squares. Estimates adjusted for child’s sex, family socioeconomic status, season of birth, gestational
+age at birth, maternal education, maternal height or body mass index (weight (kg)/height (m)2) (as appropriate), maternal tobacco-chewing, indoor
+cooking without ventilation, and birth order (model 2) are presented as diamonds. Δ indicates “change,” and tertiles are labeled along the x-axis.
+Vertical lines represent 95% confidence intervals.
+
+at age 5 years with that of children with urinary arsenic at or
+below the 5th percentile. We repeated this procedure for
+urinary cadmium and urinary lead. For comparison, we also
+calculated the multivariable-adjusted difference between
+boys and girls at age 5 years and the multivariable-adjusted
+difference between the highest and lowest SES quintiles.
+
+summary of the exposure levels for the mother-child pairs
+included in this study.) Children’s and mothers’ urinary
+arsenic, urinary cadmium, and urinary lead levels were weakly
+but positively correlated, and mothers’ and children’s urinary
+arsenic and urinary cadmium levels were inversely associated
+with SES (Table 1).
+
+RESULTS
+
+Are concurrent environmental exposures associated
+with anthropometric outcomes in 5-year-olds?
+
+Population characteristics
+
+On average, the children were 63 months of age (standard
+deviation, 1.8 months) at the 5-year visit. At age 5 years,
+41% of the children were underweight and 33% were
+stunted. Table 2 shows in detail the participants’ anthropometric characteristics at age 5 years, according to environmental exposures and demographic information. Detailed
+descriptions of the anthropometric measures for this cohort
+at the time of birth (11, 12) and during the ﬁrst 2 years of
+life (16) have been reported previously. Children’s early-life
+exposures to arsenic, cadmium, and lead have been explored
+in detail previously (25, 29, 30). (See Web Table 1 for a
+
+In the tertile analysis (Figure 3), urinary arsenic was
+inversely associated with both weight and height outcomes.
+The inverse association was most apparent when comparing
+the middle tertile with the lowest tertile; in all cases, the association was attenuated in the highest tertile after adjustment.
+Urinary cadmium was consistently inversely associated with
+both weight and height outcomes, though not all associations
+remained statistically signiﬁcant after adjustment. Urinary lead
+was not associated with any of the anthropometric outcomes.
+In an analysis using log2-transformed data (Figure 4),
+urinary arsenic was inversely associated with weight, height,
+weight-for-age z score, height-for-age z score, and weight
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Early-Life Metals Exposure and Children’s Growth 1363
+
+Figure 4. Relationship between children’s log2-transformed urinary arsenic (As), urinary cadmium (Cd), and urinary lead (Pb) concentrations
+and anthropometric outcomes at age 5 years (linear regression analysis) in Matlab, Bangladesh, 2007–2009. Weight (A), height (B), weight-forage z score (WAZ) (C), height-for-age z score (HAZ) (D), peak weight velocity (E), and peak height velocity (F) were considered as outcomes.
+Crude (unadjusted) associations, as described for model 1 in the Materials and Methods section, are shown as diamonds. Estimates adjusted for
+child’s sex, family socioeconomic status, season of birth, gestational age at birth, maternal education, maternal height or body mass index (weight
+(kg)/height (m)2) (as appropriate), maternal tobacco-chewing, indoor cooking without ventilation, and birth order (model 2) are shown as squares.
+Estimates additionally adjusted for log2-transformed maternal urinary As, Cd, or Pb as appropriate (model 3) are shown as triangles. Results from
+a model jointly estimating the combined effects of urinary As, Cd, and Pb (model 4) are shown as circles. Δ indicates “change.” Vertical lines
+represent 95% confidence intervals.
+
+velocity at age 5 years, although these associations were no
+longer apparent after adjustment. When the percentage of
+MMA was included in model 2, we found that the percentage
+of MMA was positively associated with the anthropometric
+outcomes (Web Table 2). Urinary cadmium was consistently
+inversely associated with all anthropometric outcomes. The
+association was attenuated, though still statistically signiﬁcant,
+after adjustment. The association strengthened slightly with the
+addition of prenatal urinary cadmium to the model (model 3).
+Urinary lead level was not associated with any of the anthropometric outcomes. In a model accounting for all 3 environmental exposures, urinary cadmium was the only biomarker
+to remain associated with the anthropometric outcomes.
+Are prenatal environmental exposures associated with
+anthropometric outcomes in 5-year-olds?
+
+Only maternal urinary cadmium level was inversely associated with the children’s anthropometric outcomes, although
+Am J Epidemiol. 2013;177(12):1356–1367
+
+this relationship disappeared after adjustment (Web Figure 1).
+None of the maternal biomarkers were associated with the
+anthropometric outcomes at age 5 years in a model accounting for exposure to all 3 metals or in models also accounting
+for postnatal exposure.
+Are lifelong environmental exposures related to
+children’s growth to age 5 years?
+
+The multivariable-adjusted difference in attained weight
+at age 5 years between highly exposed (≥95th percentile)
+and less exposed (≤5th percentile) children was 0.33 kg for
+arsenic and 0.57 kg for cadmium (Figure 5). The difference
+in attained height at age 5 years attributable to high cadmium
+exposure was 1.6 cm, while the difference in attained height
+attributable to high arsenic exposure was 0.5 cm and not
+statistically signiﬁcant (Figure 5). The differences in both
+weight and height attributable to lead exposure were not statistically signiﬁcant. For comparison, multivariable-adjusted
+
+1364 Gardner et al.
+
+Figure 5. Differences in children’s weights and heights at age 5
+years attributable to lifelong arsenic (As), cadmium (Cd), and lead
+(Pb) exposure, assessed in Matlab, Bangladesh, 2001–2009. The
+relationship between combined exposure to arsenic, cadmium, and
+lead over time and the child’s weight and length/height from birth to
+age 5 years was assessed using mixed-effects linear regression and
+was adjusted for child’s sex, family socioeconomic status (SES),
+season of birth, gestational age at birth, maternal education, maternal
+height or body mass index (weight (kg)/height (m)2) (as appropriate),
+maternal tobacco-chewing, indoor cooking without ventilation, and
+birth order. Multivariable-adjusted attributable differences were
+calculated by comparing the model-predicted weight (A) or height (B)
+of children with urinary arsenic, urinary cadmium, and urinary lead
+levels at or above the 95th percentile at age 5 years with those of
+children at or below the 5th percentile (shown as squares). The
+analysis was repeated after stratification for sex and SES, and
+multivariable-adjusted differences are also shown for boys
+(triangles), girls (circles), low SES (diamonds), and high SES (X’s). Δ
+indicates “change.” Vertical lines represent 95% confidence intervals.
+
+estimates showed that girls were on average 0.67 kg lighter
+(95% conﬁdence interval (CI): −0.82, −0.53) and 1.3 cm
+shorter (95% CI: −1.7, −0.89) than boys at age 5 years and
+that children with the lowest SES were on average 1.03 kg
+lighter (95% CI: −1.14, −0.76) and 2.8 cm shorter (95% CI:
+−3.2, −2.4) than children with the highest SES.
+After stratiﬁcation by sex, the differences in attained weight
+and height at age 5 years attributable to high arsenic or high
+cadmium were apparent only in the girls. After stratiﬁcation
+by SES, the differences in attained weight and height attributable to high arsenic exposure were apparent only among those
+with low SES, while the attributable change due to high
+cadmium exposure was somewhat attenuated in the high-SES
+group compared with the low-SES group.
+DISCUSSION
+
+In this study, we showed that, among the 3 metals tested,
+early-life cadmium exposure had the strongest and most consistent inverse association with children’s growth in terms of
+weight and (particularly) height. The inverse association
+
+between cadmium and arsenic and children’s growth was
+most apparent among the girls, and these inverse associations
+persisted even after controlling for the other environmental
+exposures and relevant factors for children’s growth in a longitudinal model. Consistent with our earlier observations of
+children’s size at birth (11), the arsenic dose-effect relationship was nonlinear, with the largest changes occurring within
+the lower arsenic exposure range and leveling off at higher
+exposures. While previous cross-sectional studies have shown
+inverse associations between both cadmium exposure and
+arsenic exposure during various windows of development
+and children’s height and weight, we showed that concurrent
+exposures were more strongly correlated with children’s size
+at age 5 years than were prenatal exposures. Surprisingly, children with a higher percentage of MMA, the most toxic
+arsenic metabolite, had improved anthropometric outcomes.
+This may indicate that children with the best growth trajectories lack methyl groups readily available for the complete
+metabolism of arsenic to DMA, since methyl groups are also
+necessary for building new tissue.
+With regard to maternal exposures, cadmium levels of
+this magnitude are somewhat elevated but not uncommon in
+other countries (40, 41), particularly in persons who consume greater amounts of rice and vegetables (42). However,
+the cadmium exposure levels observed among most children
+in this population were above the median reported for US
+(43) and German (44) children. The children’s rice-based
+diet is most likely the main source of cadmium exposure
+(30). Arsenic was markedly elevated in most children (25),
+in comparison with values reported in German children (44).
+Exposure to arsenic in this population is due to elevated concentrations of arsenic in tube-well water, as well as elevated
+concentrations in rice irrigated with arsenic-contaminated
+water (25). One limitation of this study was that we lacked
+blood lead measurements for the children; therefore, direct
+comparisons with exposures in other populations and with
+the literature on the association between lead and stunting
+were difﬁcult to make. If the children’s blood lead concentrations were similar to their mothers’ previously reported
+values (median, 3.6 μg/dL; range, 1.4–11.5) (29) given their
+similar urinary lead concentrations, they would be within
+the range for which associations between lead and stunting
+have been reported in studies of other populations (8, 45).
+The mechanisms by which arsenic and cadmium may
+affect growth in early life are unclear. The literature on
+cadmium exposure and osteoporosis suggests that cadmium
+may be directly toxic to bone in adults, leading to increased
+risk of osteoporosis (46–48). One recent study showed evidence for increased bone resorption and demineralization in
+10-year-old children with exposure to cadmium, suggesting
+that cadmium may affect bone tissue from an early age (49).
+Such toxic effects may translate to impaired bone growth in
+children and, thus, to a reduction in attained height.
+Cadmium and arsenic also interfere with the distribution
+and function of micronutrients. Our studies in this cohort
+have shown that maternal cadmium exposure was associated
+with impaired transfer of zinc across the placenta and
+decreased calcium levels in breast milk (50, 51). While disruption of the transfer of these nutrients in the pregnant and
+nursing mother could lead to disrupted growth in children,
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Early-Life Metals Exposure and Children’s Growth 1365
+
+concurrent exposure was more strongly associated with negative outcomes in terms of weight and height than was prenatal
+exposure. It is plausible that cadmium exposure may affect
+calcium and zinc distribution and function in children as well.
+Arsenic exposure is associated with increased risk of
+anemia (52). Growth retardation is one potential consequence
+of anemia in children, and improving iron and zinc status in
+undernourished children aged 1–4 years improves growth trajectories (53). Both arsenic and cadmium were inversely
+associated with family SES, a broad indicator of nutritional
+status (54), and the associations of both markers with anthropometric outcomes were attenuated by the addition of SES
+and other potential confounders to the model. However, we
+observed that the inverse association between arsenic exposure and children’s growth was apparent only among children
+of the highest SES, and that the inverse association between
+cadmium exposure and children’s growth was mildly attenuated among children of the highest SES compared with children
+of the lowest SES. This indicates that our results are not likely
+to be due to unobserved confounding by nutritional status.
+Additionally, cadmium and arsenic have endocrinedisrupting properties, which may disrupt growth in young
+children, particularly in a sex-speciﬁc fashion. Evidence in
+humans and experimental animals suggests that cadmium
+disrupts steroidogenesis, particularly in the placenta, and
+acts as an endocrine-disrupting chemical, capable of mimicking or inhibiting the functions of endogenous estradiol
+(55). Cadmium exposure in adolescents living in Belgium
+was associated with decreased height and body mass index, as
+well as lower circulating levels of estradiol and testosterone in
+the blood (56, 57). Additionally, in experimental animals,
+high doses of cadmium have been found to lower plasma concentrations of insulin-like growth factor 1, a hormone critical
+for childhood growth (58). Arsenic may affect insulin signaling and glucose metabolism (59, 60), eventually leading to
+glucose intolerance and diabetes in exposed populations.
+Early disruption of glucose uptake by tissues may plausibly
+lead to impaired growth. This mechanism may be more pronounced in children with better overall nutrition, potentially
+explaining our observations of arsenic’s effects after stratiﬁcation by SES.
+In conclusion, this study has provided evidence that environmental exposures to cadmium and arsenic during early life
+may contribute to poor growth. The longitudinal modeling
+presented here showed that persistent exposure to cadmium
+in early life led to a cadmium-attributable decrease in height
+and weight by age 5 years that was of the same magnitude as
+the differences observed between girls and boys at that age.
+Arsenic-attributable differences in weight were smaller, though
+still large enough to prompt concern.
+
+ACKNOWLEDGMENTS
+
+Author afﬁliations: Institute of Environmental Medicine,
+Karolinska Institutet, Stockholm, Sweden (Renee M.
+Gardner, Maria Kippler, Matteo Bottai, Margaretha Grandér,
+Barbro Nermell, Brita Palm, Marie Vahter); International
+Centre for Diarrhoeal Disease Research, Bangladesh, Dhaka,
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Bangladesh (Fahmida Tofail, Jena Hamadani); and Division
+of Nutritional Sciences, Cornell University, Ithaca, New York
+(Kathleen M. Rasmussen).
+This work was supported by grants from the Swedish International Development Cooperation Agency, the Swedish
+Research Council, the European Commission (PHIME (Public Health Impact of Long-term, Low-level Mixed Element
+Exposure in Susceptible Population Strata) project FOODCT-2006-016253), and the Karolinska Institutet. The MINIMat
+Study was initiated at the International Centre for Diarrhoeal
+Disease Research, Bangladesh (Principal Investigators: Lars
+Åke Persson and Shams El Arifeen) with the support of the
+United Nations Children’s Fund; the Swedish International
+Development Cooperation Agency; the United Kingdom
+Medical Research Council; the Swedish Research Council;
+the United Kingdom Department for International Development; the International Centre for Diarrhoeal Disease
+Research, Bangladesh; the Global Health Research Fund,
+Japan; the Child Health and Nutrition Research Initiative
+(Global Forum for Health Research); Uppsala University;
+and the US Agency for International Development.
+We thank the ﬁeld staff in Matlab for collection of urine
+samples and data.
+All of the authors have read, critiqued, and approved the
+contents of this article.
+Conﬂict of interest: none declared.
+
+REFERENCES
+1. Walker SP, Chang SM, Powell CA, et al. Early childhood
+stunting is associated with poor psychological functioning in
+late adolescence and effects are reduced by psychosocial
+stimulation. J Nutr. 2007;137(11):2464–2469.
+2. Sawaya AL, Martins PA, Grillo LP, et al. Long-term effects of
+early malnutrition on body weight regulation. Nutr Rev.
+2004;62(7):S127–S133.
+3. Gaskin PS, Walker SP, Forrester TE, et al. Early linear growth
+retardation and later blood pressure. Eur J Clin Nutr. 2000;
+54(7):563–567.
+4. Walker SP, Grantham-McGregor SM, Powell CA, et al. Effects
+of growth restriction in early childhood on growth, IQ, and
+cognition at age 11 to 12 years and the beneﬁts of nutritional
+supplementation and psychosocial stimulation. J Pediatr.
+2000;137(1):36–41.
+5. Walker SP, Wachs TD, Grantham-McGregor S, et al.
+Inequality in early childhood: risk and protective factors for
+early child development. Lancet. 2011;378(9799):1325–1338.
+6. Caulﬁeld LE, de Onis M, Blossner M, et al. Undernutrition as
+an underlying cause of child deaths associated with diarrhea,
+pneumonia, malaria, and measles. Am J Clin Nutr. 2004;
+80(1):193–198.
+7. Walker SP, Wachs TD, Gardner JM, et al. Child development:
+risk factors for adverse outcomes in developing countries.
+Lancet. 2007;369(9556):145–157.
+8. Ballew C, Khan LK, Kaufmann R, et al. Blood lead
+concentration and children’s anthropometric dimensions in the
+Third National Health and Nutrition Examination Survey
+(NHANES III), 1988–1994. J Pediatr. 1999;134(5):623–630.
+9. Schwartz J, Angle C, Pitcher H. Relationship between
+childhood blood lead levels and stature. Pediatrics. 1986;
+77(3):281–288.
+
+1366 Gardner et al.
+
+10. Pounds JG, Long GJ, Rosen JF. Cellular and molecular
+toxicity of lead in bone. Environ Health Perspect.
+1991;91:17–32.
+11. Rahman A, Vahter M, Smith AH, et al. Arsenic exposure
+during pregnancy and size at birth: a prospective cohort study
+in Bangladesh. Am J Epidemiol. 2009;169(3):304–312.
+12. Kippler M, Tofail F, Gardner R, et al. Maternal cadmium
+exposure during pregnancy and size at birth: a prospective
+cohort study. Environ Health Perspect. 2011;120(2):284–289.
+13. Wasserman GA, Liu X, Parvez F, et al. Water arsenic exposure
+and children’s intellectual function in Araihazar, Bangladesh.
+Environ Health Perspect. 2004;112(13):1329–1333.
+14. Watanabe C, Matsui T, Inaoka T, et al. Dermatological and
+nutritional/growth effects among children living in arseniccontaminated communities in rural Bangladesh. J Environ Sci
+Health A Tox Hazard Subst Environ Eng. 2007;42(12):
+1835–1841.
+15. Minamoto K, Mascie-Taylor CG, Moji K, et al. Arseniccontaminated water and extent of acute childhood malnutrition
+(wasting) in rural Bangladesh. Environ Sci. 2005;12(5):
+283–292.
+16. Saha KK, Hamadani J, Tofail F, et al. Pre- and postnatal
+arsenic exposure and child growth to age 2 years: a cohort
+study in rural Bangladesh. Environ Health Perspect. 2012;
+120(8):1208–1214.
+17. Tian LL, Zhao YC, Wang XC, et al. Effects of gestational
+cadmium exposure on pregnancy outcome and development in
+the offspring at age 4.5 years. Biol Trace Elem Res. 2009;
+132(1–3):51–59.
+18. Lin CM, Doyle P, Wang D, et al. Does prenatal cadmium
+exposure affect fetal and child growth? Occup Environ Med.
+2011;68(9):641–646.
+19. Tofail F, Persson LA, El Arifeen S, et al. Effects of prenatal
+food and micronutrient supplementation on infant
+development: a randomized trial from the Maternal and Infant
+Nutrition Interventions, Matlab (MINIMat) study. Am J Clin
+Nutr. 2008;87(3):704–711.
+20. Hamadani JD, Grantham-McGregor SM, Tofail F, et al. Preand postnatal arsenic exposure and child development at 18
+months of age: a cohort study in rural Bangladesh. Int J
+Epidemiol. 2010;39(5):1206–1216.
+21. Saha KK, Frongillo EA, Alam DS, et al. Appropriate infant
+feeding practices result in better growth of infants and young
+children in rural Bangladesh. Am J Clin Nutr. 2008;87(6):
+1852–1859.
+22. Khan AI, Kabir I, Ekstrom EC, et al. Effects of prenatal food
+and micronutrient supplementation on child growth from birth
+to 54 months of age: a randomized trial in Bangladesh. Nutr J.
+2011;10:134.
+23. Gwatkin DR, Rustein S, Johnson K, et al. Socioeconomic
+Differences in Health, Nutrition, and Population in
+Bangladesh, HNP/Poverty Thematic Group Working Paper.
+Washington, DC: The World Bank; 2000.
+24. Saha KK, Frongillo EA, Alam DS, et al. Household food
+security is associated with infant feeding practices in rural
+Bangladesh. J Nutr. 2008;138(7):1383–1390.
+25. Gardner RM, Hamadani J, Grandér M, et al. Persistent
+exposure to arsenic via drinking water and food in rural
+Bangladesh affects growth in early childhood: a cohort
+study. Am J Public Health. 2011;101(suppl 1):
+S333–S338.
+26. Vahter ME, Li L, Nermell B, et al. Arsenic exposure in
+pregnancy: a population-based study in Matlab, Bangladesh.
+J Health Popul Nutr. 2006;24(2):236–245.
+
+27. Fangstrom B, Hamadani J, Nermell B, et al. Impaired arsenic
+metabolism in children during weaning. Toxicol Appl
+Pharmacol. 2009;239(2):208–214.
+28. Li L, Ekstrom EC, Goessler W, et al. Nutritional status has
+marginal inﬂuence on the metabolism of inorganic arsenic in
+pregnant Bangladeshi women. Environ Health Perspect.
+2008;116(3):315–321.
+29. Bergkvist C, Kippler M, Hamadani JD, et al. Assessment of
+early-life lead exposure in rural Bangladesh. Environ Res.
+2010;110(7):718–724.
+30. Kippler M, Nermell B, Hamadani J, et al. Burden of cadmium
+in early childhood: longitudinal assessment of urinary
+cadmium in rural Bangladesh. Toxicol Lett. 2010;198(1):
+20–25.
+31. Nermell B, Lindberg AL, Rahman M, et al. Urinary arsenic
+concentration adjustment factors and malnutrition. Environ
+Res. 2008;106(2):212–218.
+32. Basu A, Mitra S, Chung J, et al. Creatinine, diet,
+micronutrients, and arsenic methylation in West Bengal, India.
+Environ Health Perspect. 2011;119(9):1308–1313.
+33. de Onis M, Onyango AW, Borghi E, et al. Development of a
+WHO growth reference for school-aged children and
+adolescents. Bull World Health Organ. 2007;85(9):660–667.
+34. Berkey CS, Reed RB. A model for describing normal and
+abnormal growth in early childhood. Hum Biol. 1987;59(6):
+973–987.
+35. Simondon KB, Simondon F, Delpeuch F, et al. Comparative
+study of ﬁve growth models applied to weight data from
+Congolese infants between birth and 13 months of age. Am J
+Hum Biol. 1992;4(3):327–335.
+36. Hauspie RC, Molinari L. Parametric models for postnatal
+growth. In: Hauspie RC, Cameron N, Molinari L, eds.
+Methods in Human Growth Research. Cambridge, United
+Kingdom: Cambridge University Press; 2004:205–233.
+37. Persson LA, Arifeen SE, Ekström EC, et al. Effects of prenatal
+micronutrient and early food supplementation on maternal
+hemoglobin, birth weight, and infant mortality among children
+in Bangladesh: the MINIMat randomized trial. JAMA.
+2012;307(19):2050–2059.
+38. Zellner A. An efﬁcient method of estimating seemingly
+unrelated regressions and tests for aggregation bias. J Am Stat
+Assoc. 1962;57(298):348–368.
+39. Vahter M, Akesson A, Liden C, et al. Gender differences in
+the disposition and toxicity of metals. Environ Res. 2007;
+104(1):85–95.
+40. Akesson A, Berglund M, Schutz A, et al. Cadmium exposure
+in pregnancy and lactation in relation to iron status. Am J
+Public Health. 2002;92(2):284–287.
+41. McElroy JA, Shafer MM, Hampton JM, et al. Predictors of
+urinary cadmium levels in adult females. Sci Total Environ.
+2007;382(2-3):214–223.
+42. Nishijo M, Tawara K, Honda R, et al. Cadmium and
+nutritional intake in pregnant Japanese women. Toxicol Lett.
+2004;148(3):171–176.
+43. Ruiz P, Mumtaz M, Osterloh J, et al. Interpreting NHANES
+biomonitoring data, cadmium. Toxicol Lett. 2010;198(1):
+44–48.
+44. Schulz C, Angerer J, Ewers U, et al. Revised and new
+reference values for environmental pollutants in urine or blood
+of children in Germany derived from the German
+Environmental Survey on Children 2003–2006 (GerES IV).
+Int J Hyg Environ Health. 2009;212(6):637–647.
+45. Ignasiak Z, Slawinska T, Rozek K, et al. Lead and growth
+status of school children living in the copper basin of south-
+
+Am J Epidemiol. 2013;177(12):1356–1367
+
+Early-Life Metals Exposure and Children’s Growth 1367
+
+46.
+47.
+48.
+
+49.
+50.
+
+51.
+
+52.
+53.
+
+western Poland: differential effects on bone growth. Ann Hum
+Biol. 2006;33(4):401–414.
+Engstrom A, Skerving S, Lidfeldt J, et al. Cadmium-induced
+bone effect is not mediated via low serum 1,25-dihydroxy
+vitamin D. Environ Res. 2009;109(2):188–192.
+Akesson A, Bjellerup P, Lundh T, et al. Cadmium-induced
+effects on bone in a population-based study of women.
+Environ Health Perspect. 2006;114(6):830–834.
+Schutte R, Nawrot TS, Richart T, et al. Bone resorption
+and environmental exposure to cadmium in women: a
+population study. Environ Health Perspect. 2008;116(6):
+777–783.
+Sughis M, Penders J, Haufroid V, et al. Bone resorption and
+environmental exposure to cadmium in children: a crosssectional study. Environ Health. 2011;10:104.
+Kippler M, Lonnerdal B, Goessler W, et al. Cadmium interacts
+with the transport of essential micronutrients in the mammary
+gland—a study in rural Bangladeshi women. Toxicology.
+2009;257(1-2):64–69.
+Kippler M, Hoque AM, Raqib R, et al. Accumulation of
+cadmium in human placenta interacts with the transport of
+micronutrients to the fetus. Toxicol Lett. 2010;192(2):
+162–168.
+Heck JE, Chen Y, Grann VR, et al. Arsenic exposure and
+anemia in Bangladesh: a population-based study. J Occup
+Environ Med. 2008;50(1):80–87.
+Sazawal S, Dhingra U, Dhingra P, et al. Micronutrient fortiﬁed
+milk improves iron status, anemia and growth among children
+1–4 years: a double masked, randomized, controlled trial. PloS
+One. 2010;5(8):e12167.
+
+Am J Epidemiol. 2013;177(12):1356–1367
+
+54. Lindstrom E, Hossain MB, Lonnerdal B, et al. Prevalence of
+anemia and micronutrient deﬁciencies in early pregnancy in
+rural Bangladesh, the MINIMat trial. Acta Obstet Gynecol
+Scand. 2011;90(1):47–56.
+55. Henson MC, Chedrese PJ. Endocrine disruption by cadmium, a
+common environmental toxicant with paradoxical effects on
+reproduction. Exp Biol Med (Maywood). 2004;229(5):
+383–392.
+56. Dhooge W, den Hond E, Koppen G, et al. Internal exposure to
+pollutants and sex hormone levels in Flemish male adolescents
+in a cross-sectional study: associations and dose-response
+relationships. J Expo Sci Environ Epidemiol. 2011;21(1):
+106–113.
+57. Dhooge W, Den Hond E, Koppen G, et al. Internal exposure to
+pollutants and body size in Flemish adolescents and adults:
+associations and dose-response relationships. Environ Int.
+2010;36(4):330–337.
+58. Turgut S, Kaptanoglu B, Turgut G, et al. Effects of cadmium
+and zinc on plasma levels of growth hormone, insulin-like
+growth factor I, and insulin-like growth factor-binding protein
+3. Biol Trace Elem Res. 2005;108(1-3):197–204.
+59. Paul DS, Hernandez-Zavala A, Walton FS, et al. Examination
+of the effects of arsenic on glucose homeostasis in cell culture
+and animal studies: development of a mouse model for
+arsenic-induced diabetes. Toxicol Appl Pharmacol. 2007;
+222(3):305–314.
+60. Navas-Acien A, Silbergeld EK, Streeter RA, et al. Arsenic
+exposure and type 2 diabetes: a systematic review of the
+experimental and epidemiological evidence. Environ Health
+Perspect. 2006;114(5):641–648.
+

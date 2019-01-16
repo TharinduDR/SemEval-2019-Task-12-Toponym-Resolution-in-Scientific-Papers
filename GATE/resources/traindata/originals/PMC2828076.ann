@@ -1,0 +1,72 @@
+T1	Protein 0 7	LETTERS
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 3649 3656	Germany
+#2	AnnotatorNotes T2	END
+T3	Protein 5333 5340	LETTERS
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 5418 5422	2007
+#4	AnnotatorNotes T4	END
+T5	Protein 9669 9676	LETTERS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 9754 9758	1273
+#6	AnnotatorNotes T6	END
+T7	Protein 10531 10546	Acknowledgments
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 15249 15250	-
+#8	AnnotatorNotes T8	END
+T9	Location 4372 4379	Germany
+#9	AnnotatorNotes T9	<latlng>51.5, 10.5</latlng><geoID> 2921044</geoID><pop>81802257</pop>
+T10	Location 4497 4504	Germany
+#10	AnnotatorNotes T10	<latlng>51.5, 10.5</latlng><geoID> 2921044</geoID><pop>81802257</pop>
+T11	Location 4605 4612	Germany
+#11	AnnotatorNotes T11	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T12	Location 4700 4707	Germany
+#12	AnnotatorNotes T12	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T13	Location 4793 4797;4798 4802	Ger- many
+#13	AnnotatorNotes T13	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T14	Location 5247 5254	Germany
+#14	AnnotatorNotes T14	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T15	Location 5320 5327	Cologne
+#15	AnnotatorNotes T15	<latlng>50.78333, 6.8666</latlng><geoID>2886241 </geoID><pop>4315912</pop>
+T16	Location 5567 5574	Cologne
+#16	AnnotatorNotes T16	<latlng>50.78333, 6.8666</latlng><geoID>2886241 </geoID><pop>4315912</pop>
+T17	Location 5605 5612	Cologne
+#17	AnnotatorNotes T17	<latlng>50.93835, 6.95427</latlng><geoID>6553049</geoID><pop>1075935</pop>
+T18	Location 5739 5746	Germany
+#18	AnnotatorNotes T18	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T19	Location 6408 6415	Cologne
+#19	AnnotatorNotes T19	<latlng>50.93835, 6.95427</latlng><geoID>6553049</geoID><pop>1075935</pop>
+T21	Location 8294 8301	Germany
+#21	AnnotatorNotes T21	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T22	Location 8303 8309	Berkel
+#22	AnnotatorNotes T22	<latlng>52.67844, 8.90540</latlng><geoID>NA</geoID>
+T23	Location 8333 8343	Heidelberg
+#23	AnnotatorNotes T23	<latlng>49.41056, 8.69556</latlng><geoID>3220720 </geoID><pop>150335</pop>
+T24	Location 8350 8357	Belgium
+#24	AnnotatorNotes T24	<latlng>50.75, 4.5</latlng><geoID>2802361 </geoID><pop>10403000</pop>
+T25	Location 8644 8651	Germany
+#25	AnnotatorNotes T25	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T26	Location 9011 9014	Ulm
+#26	AnnotatorNotes T26	<latlng>48.38722, 9.96222</latlng><geoID>3220787 </geoID>
+T27	Location 9112 9124	Danube River
+#27	AnnotatorNotes T27	<latlng>45.33333, 29.66667</latlng><geoID> 791630</geoID>
+T28	Location 9303 9306	Ulm
+#28	AnnotatorNotes T28	<latlng>48.38722, 9.96222</latlng><geoID>3220787 </geoID>
+T29	Location 9429 9436	Cologne
+#29	AnnotatorNotes T29	<latlng>50.93835, 6.95427</latlng><geoID>6553049</geoID><pop>1075935</pop>
+T30	Location 9771 9774	Ulm
+#30	AnnotatorNotes T30	<latlng>48.38722, 9.96222</latlng><geoID>3220787 </geoID>
+T31	Location 10077 10084	Germany
+#31	AnnotatorNotes T31	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T32	Location 3883 3889	Europe
+#32	AnnotatorNotes T32	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T33	Location 4004 4010	Europe
+#33	AnnotatorNotes T33	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T34	Location 4724 4734	Alb-Danube
+#34	AnnotatorNotes T34	<latlng>48.3964, 9.9808</latlng><geoID>NA</geoID>
+T35	Location 8324 8331	Germany
+#35	AnnotatorNotes T35	<latlng> 51.5, 10.5 </latlng>2921044<geoID>2921044</geoID> <pop> 81802257 </pop>
+T20	Location 9783 9790	Cologne
+#20	AnnotatorNotes T20	<latlng>50.78333, 6.8666</latlng><geoID>2886241 </geoID><pop>4315912</pop>
+T36	Location 10523 10529	Europe
+#36	AnnotatorNotes T36	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID>

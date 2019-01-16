@@ -1,0 +1,266 @@
+T1	Protein 73 80	Wenming
+#1	AnnotatorNotes T1	BEGIN
+T385	Protein 284 289	China
+#385	AnnotatorNotes T385	END
+T18	Location 714 719	China
+#18	AnnotatorNotes T18	<latlng>35,105</latlng><geoID>1814991</geoID>
+T19	Location 826 831	China
+#19	AnnotatorNotes T19	<latlng>35,105</latlng><geoID>1814991</geoID>
+T20	Location 897 902	China
+#20	AnnotatorNotes T20	<latlng>35,105</latlng><geoID>1814991</geoID>
+T23	Location 1098 1103	China
+#23	AnnotatorNotes T23	<latlng>35,105</latlng><geoID>1814991</geoID>
+T27	Location 1810 1815	China
+#27	AnnotatorNotes T27	<latlng>35,105</latlng><geoID>1814991</geoID>
+T4	Protein 1950 1958	Citation
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 2961 2966	work.
+#5	AnnotatorNotes T5	END
+T36	Location 3671 3684	North America
+#36	AnnotatorNotes T36	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T37	Location 3686 3692	Europe
+#37	AnnotatorNotes T37	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T38	Location 3695 3699	Asia
+#38	AnnotatorNotes T38	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T39	Location 3701 3707	Africa
+#39	AnnotatorNotes T39	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T41	Location 3930 3935	China
+#41	AnnotatorNotes T41	<latlng>35,105</latlng><geoID>1814991</geoID>
+T42	Location 4010 4015	China
+#42	AnnotatorNotes T42	<latlng>35,105</latlng><geoID>1814991</geoID>
+T47	Location 5386 5391	China
+#47	AnnotatorNotes T47	<latlng>35,105</latlng><geoID>1814991</geoID>
+T6	Protein 5665 5669	PLOS
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 5732 5738	e52671
+#7	AnnotatorNotes T7	END
+T50	Location 7061 7066	China
+#50	AnnotatorNotes T50	<latlng>35,105</latlng><geoID>1814991</geoID>
+T52	Location 7131 7136	China
+#52	AnnotatorNotes T52	<latlng>35,105</latlng><geoID>1814991</geoID>
+T53	Location 8541 8554	North America
+#53	AnnotatorNotes T53	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T54	Location 8599 8612	North America
+#54	AnnotatorNotes T54	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T10	Location 8686 8694;8695 8705	Eastern Hemisphere
+#10	AnnotatorNotes T10	<latlng>0.0,90.0</latlng><geoID>NA</geoID>
+T56	Location 8734 8747	North America
+#56	AnnotatorNotes T56	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T9	Location 8808 8816;8817 8827	Eastern Hemisphere
+#9	AnnotatorNotes T9	<latlng>0.0,90.0</latlng><geoID>NA</geoID>
+T58	Location 8956 8960	Asia
+#58	AnnotatorNotes T58	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T59	Location 8962 8968	Europe
+#59	AnnotatorNotes T59	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T60	Location 8970 8976	Africa
+#60	AnnotatorNotes T60	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T62	Location 8994 9007	North America
+#62	AnnotatorNotes T62	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T63	Location 9055 9059	Asia
+#63	AnnotatorNotes T63	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T64	Location 9243 9248	China
+#64	AnnotatorNotes T64	<latlng>35,105</latlng><geoID>1814991</geoID>
+T66	Location 9301 9306	China
+#66	AnnotatorNotes T66	<latlng>35,105</latlng><geoID>1814991</geoID>
+T67	Location 9317 9325	Pakistan
+#67	AnnotatorNotes T67	<latlng>30,70</latlng><geoID>1168579</geoID>
+T68	Location 9327 9332	India
+#68	AnnotatorNotes T68	<latlng>20,77</latlng><geoID>1269750</geoID>
+T69	Location 9334 9338	Iran
+#69	AnnotatorNotes T69	<latlng>32,53</latlng><geoID>130758</geoID>
+T70	Location 9345 9351	Israel
+#70	AnnotatorNotes T70	<latlng>31.5,34.75</latlng><geoID>294640</geoID>
+T72	Location 9801 9805	Asia
+#72	AnnotatorNotes T72	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T73	Location 9807 9813	Europe
+#73	AnnotatorNotes T73	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T74	Location 9815 9821	Africa
+#74	AnnotatorNotes T74	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T76	Location 9840 9853	North America
+#76	AnnotatorNotes T76	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T78	Location 9935 9940	China
+#78	AnnotatorNotes T78	<latlng>35,105</latlng><geoID>1814991</geoID>
+T79	Location 10203 10207	Asia
+#79	AnnotatorNotes T79	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T80	Location 10209 10215	Europe
+#80	AnnotatorNotes T80	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T81	Location 10217 10223	Africa
+#81	AnnotatorNotes T81	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T83	Location 10241 10254	North America
+#83	AnnotatorNotes T83	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T84	Location 10602 10606	Asia
+#84	AnnotatorNotes T84	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T85	Location 10632 10637	China
+#85	AnnotatorNotes T85	<latlng>35,105</latlng><geoID>1814991</geoID>
+T86	Location 11536 11541	China
+#86	AnnotatorNotes T86	<latlng>35,105</latlng><geoID>1814991</geoID>
+T87	Location 11589 11594	China
+#87	AnnotatorNotes T87	<latlng>35,105</latlng><geoID>1814991</geoID>
+T88	Location 11606 11615	Hong Kong
+#88	AnnotatorNotes T88	<latlng>22.25,114.16667</latlng><geoID>1819729</geoID>
+T89	Location 11801 11806	China
+#89	AnnotatorNotes T89	<latlng>35,105</latlng><geoID>1814991</geoID>
+T90	Location 11844 11853	Hong Kong
+#90	AnnotatorNotes T90	<latlng>22.25,114.16667</latlng><geoID>1819730</geoID>
+T91	Location 11868 11877	Guangdong
+#91	AnnotatorNotes T91	<latlng>23,113</latlng><pop>104303132</pop><geoID>1809935</geoID>
+T92	Location 11889 11896	Shantou
+#92	AnnotatorNotes T92	<latlng>23.36814,116.71479</latlng><pop>1333973</pop><geoID>1795940</geoID>
+T93	Location 12081 12086	China
+#93	AnnotatorNotes T93	<latlng>35,105</latlng><geoID>1814991</geoID>
+T95	Location 12345 12350	China
+#95	AnnotatorNotes T95	<latlng>35,105</latlng><geoID>1814991</geoID>
+T97	Location 12487 12493	Fujian
+#97	AnnotatorNotes T97	<latlng>26.545,117.84278</latlng><pop>36040000</pop><geoID>1811017</geoID>
+T98	Location 12498 12507	Guangdong
+#98	AnnotatorNotes T98	<latlng>23,113</latlng><pop>104303132</pop><geoID>1809935</geoID>
+T99	Location 12511 12516	China
+#99	AnnotatorNotes T99	<latlng>35,105</latlng><geoID>1814991</geoID>
+T100	Location 12581 12586	China
+#100	AnnotatorNotes T100	<latlng>35,105</latlng><geoID>1814991</geoID>
+T8	Protein 12810 12822	Distribution
+#8	AnnotatorNotes T8	BEGIN
+T11	Protein 12913 12919	e52671
+#11	AnnotatorNotes T11	END
+T101	Location 13482 13487	China
+#101	AnnotatorNotes T101	<latlng>35,105</latlng><geoID>1814991</geoID>
+T103	Location 13507 13512	China
+#103	AnnotatorNotes T103	<latlng>35,105</latlng><geoID>1814991</geoID>
+T105	Location 13526 13531	China
+#105	AnnotatorNotes T105	<latlng>35,105</latlng><geoID>1814991</geoID>
+T107	Location 13554 13559	China
+#107	AnnotatorNotes T107	<latlng>35,105</latlng><geoID>1814991</geoID>
+T108	Location 13880 13885	China
+#108	AnnotatorNotes T108	<latlng>35,105</latlng><geoID>1814991</geoID>
+T113	Location 13960 13965	China
+#113	AnnotatorNotes T113	<latlng>35,105</latlng><geoID>1814991</geoID>
+T114	Location 14248 14253	China
+#114	AnnotatorNotes T114	<latlng>35,105</latlng><geoID>1814991</geoID>
+T115	Location 14312 14317	Korea
+#115	AnnotatorNotes T115	<latlng>37,127.5</latlng><geoID>1835841</geoID>
+T116	Location 14380 14385	China
+#116	AnnotatorNotes T116	<latlng>35,105</latlng><geoID>1814991</geoID>
+T117	Location 14419 14426	Vietnam
+#117	AnnotatorNotes T117	<latlng>16,106</latlng><geoID>1562822</geoID>
+T118	Location 14428 14436	Pakistan
+#118	AnnotatorNotes T118	<latlng>30,70</latlng><geoID>1168579</geoID>
+T119	Location 14442 14447	India
+#119	AnnotatorNotes T119	<latlng>20,77</latlng><geoID>1269750</geoID>
+T120	Location 14505 14510	China
+#120	AnnotatorNotes T120	<latlng>35,105</latlng><geoID>1814991</geoID>
+T121	Location 14616 14621	China
+#121	AnnotatorNotes T121	<latlng>35,105</latlng><geoID>1814991</geoID>
+T122	Location 14707 14712	Japan
+#122	AnnotatorNotes T122	<latlng>36,138</latlng><geoID>1861060</geoID>
+T123	Location 14785 14790	China
+#123	AnnotatorNotes T123	<latlng>35,105</latlng><geoID>1814991</geoID>
+T124	Location 15015 15020	China
+#124	AnnotatorNotes T124	<latlng>35,105</latlng><geoID>1814991</geoID>
+T126	Location 15142 15147	China
+#126	AnnotatorNotes T126	<latlng>35,105</latlng><geoID>1814991</geoID>
+T127	Location 15158 15166	Pakistan
+#127	AnnotatorNotes T127	<latlng>30,70</latlng><geoID>1168579</geoID>
+T128	Location 15168 15173	India
+#128	AnnotatorNotes T128	<latlng>20,77</latlng><geoID>1269750</geoID>
+T129	Location 15175 15179	Iran
+#129	AnnotatorNotes T129	<latlng>32,53</latlng><geoID>130758</geoID>
+T130	Location 15186 15192	Israel
+#130	AnnotatorNotes T130	<latlng>31.5,34.75</latlng><geoID>294640</geoID>
+T135	Location 18267 18272	China
+#135	AnnotatorNotes T135	<latlng>35,105</latlng><geoID>1814991</geoID>
+T136	Location 18497 18502	China
+#136	AnnotatorNotes T136	<latlng>35,105</latlng><geoID>1814991</geoID>
+T137	Location 18552 18557	China
+#137	AnnotatorNotes T137	<latlng>35,105</latlng><geoID>1814991</geoID>
+T12	Protein 20178 20190	Distribution
+#12	AnnotatorNotes T12	BEGIN
+T13	Protein 20281 20287	e52671
+#13	AnnotatorNotes T13	END
+T140	Location 20818 20823	China
+#140	AnnotatorNotes T140	<latlng>35,105</latlng><geoID>1814991</geoID>
+T141	Location 20958 20963	China
+#141	AnnotatorNotes T141	<latlng>35,105</latlng><geoID>1814991</geoID>
+T143	Location 21055 21060	China
+#143	AnnotatorNotes T143	<latlng>35,105</latlng><geoID>1814991</geoID>
+T144	Location 21893 21898	China
+#144	AnnotatorNotes T144	<latlng>35,105</latlng><geoID>1814991</geoID>
+T145	Location 22054 22060	Jordan
+#145	AnnotatorNotes T145	<latlng>31,36</latlng><geoID>248816</geoID>
+T146	Location 22167 22178	South Korea
+#146	AnnotatorNotes T146	<latlng>37,127.5</latlng><geoID>1835841</geoID>
+T147	Location 22676 22681	China
+#147	AnnotatorNotes T147	<latlng>35,105</latlng><geoID>1814991</geoID>
+T148	Location 22976 22981	China
+#148	AnnotatorNotes T148	<latlng>35,105</latlng><geoID>1814991</geoID>
+T149	Location 23249 23254	China
+#149	AnnotatorNotes T149	<latlng>35,105</latlng><geoID>1814991</geoID>
+T154	Location 24922 24927	China
+#154	AnnotatorNotes T154	<latlng>35,105</latlng><geoID>1814991</geoID>
+T156	Location 24960 24965	China
+#156	AnnotatorNotes T156	<latlng>35,105</latlng><geoID>1814991</geoID>
+T14	Protein 26673 26676	doi
+#14	AnnotatorNotes T14	BEGIN
+T15	Protein 26815 26821	e52671
+#15	AnnotatorNotes T15	END
+T165	Location 27061 27066	China
+#165	AnnotatorNotes T165	<latlng>35,105</latlng><geoID>1814991</geoID>
+T175	Location 29885 29891	Hilden
+#175	AnnotatorNotes T175	<latlng>51.16818,6.93093</latlng><pop>56565</pop><geoID>2904795</geoID>
+T176	Location 29894 29901	Germany
+#176	AnnotatorNotes T176	<latlng>51,9</latlng><geoID>2921044</geoID>
+T178	Location 29969 29975	Dalian
+#178	AnnotatorNotes T178	<latlng>38.91222,121.60222</latlng><pop>2035307</pop><geoID>1814087</geoID>
+T179	Location 29977 29982	China
+#179	AnnotatorNotes T179	<latlng>35,105</latlng><geoID>1814991</geoID>
+T180	Location 30406 30412	Dalian
+#180	AnnotatorNotes T180	<latlng>38.91222,121.60222</latlng><pop>2035307</pop><geoID>1814087</geoID>
+T181	Location 30414 30419	China
+#181	AnnotatorNotes T181	<latlng>35,105</latlng><geoID>1814991</geoID>
+T182	Location 30649 30655	Dalian
+#182	AnnotatorNotes T182	<latlng>38.91222,121.60222</latlng><pop>2035307</pop><geoID>1814087</geoID>
+T183	Location 30657 30662	China
+#183	AnnotatorNotes T183	<latlng>35,105</latlng><geoID>1814991</geoID>
+T184	Location 30715 30723	Shanghai
+#184	AnnotatorNotes T184	<latlng>31.22222,121.45806</latlng><pop>22315474</pop><geoID>1796236</geoID>
+T185	Location 30725 30730	China
+#185	AnnotatorNotes T185	<latlng>35,105</latlng><geoID>1814991</geoID>
+T189	Location 31544 31549	China
+#189	AnnotatorNotes T189	<latlng>35,105</latlng><geoID>1814991</geoID>
+T16	Location 31578 31596	Eastern Hemisphere
+#16	AnnotatorNotes T16	<latlng>0.0,90.0</latlng><geoID>NA</geoID>
+T190	Location 31605 31609	Asia
+#190	AnnotatorNotes T190	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T191	Location 31611 31617	Europe
+#191	AnnotatorNotes T191	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T192	Location 31619 31625	Africa
+#192	AnnotatorNotes T192	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T17	Location 31653 31667;31668 31674	Western Hemi- sphere
+#17	AnnotatorNotes T17	<latlng>0.0,-90.0</latlng><geoID>NA</geoID>
+T196	Location 31691 31704	South America
+#196	AnnotatorNotes T196	<latlng>-14.60485,-57.65625</latlng><pop>357000000</pop><geoID>6255150</geoID>
+T21	Location 33310 33328	Western Hemisphere
+#21	AnnotatorNotes T21	<latlng>0.0,-90.0</latlng><geoID>NA</geoID>
+T22	Location 33341 33359	Eastern Hemisphere
+#22	AnnotatorNotes T22	<latlng>0.0,90.0</latlng><geoID>NA</geoID>
+T24	Protein 33562 33574	Distribution
+#24	AnnotatorNotes T24	BEGIN
+T25	Protein 33665 33671	e52671
+#25	AnnotatorNotes T25	END
+T208	Location 34531 34538	Qingdao
+#208	AnnotatorNotes T208	<latlng>36.06605,120.36939</latlng><pop>1642245</pop><geoID>1797929</geoID>
+T216	Location 35726 35731	China
+#216	AnnotatorNotes T216	<latlng>35,105</latlng><geoID>1814991</geoID>
+T218	Location 35764 35769	China
+#218	AnnotatorNotes T218	<latlng>35,105</latlng><geoID>1814991</geoID>
+T26	Protein 35772 35775	doi
+#26	AnnotatorNotes T26	BEGIN
+T28	Protein 35914 35920	e52671
+#28	AnnotatorNotes T28	END
+T219	Location 36000 36006	Takara
+#219	AnnotatorNotes T219	<latlng>NA</latlng><pop>0</pop><geoID>NA</geoID>
+T220	Location 36008 36013	Japan
+#220	AnnotatorNotes T220	<latlng>36,138</latlng><geoID>1861060</geoID>
+T2	Protein 38003 38018	Acknowledgments
+#2	AnnotatorNotes T2	BEGIN
+T3	Protein 47107 47113	e52671
+#3	AnnotatorNotes T3	END

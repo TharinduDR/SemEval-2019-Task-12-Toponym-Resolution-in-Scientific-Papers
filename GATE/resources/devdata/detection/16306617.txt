@@ -1,0 +1,645 @@
+﻿JOURNAL OF VIROLOGY, Dec. 2005, p. 15460­15466 Vol. 79, No. 24
+0022-538X/05/$08.000 doi:10.1128/JVI.79.24.15460­15466.2005
+Copyright © 2005, American Society for Microbiology. All Rights Reserved.
+New Genotype of Avian Influenza H5N1 Viruses Isolated from
+Tree Sparrows in China
+Z. Kou,1
+F. M. Lei,2
+* J. Yu,3
+Z. J. Fan,1
+Z. H. Yin,2
+C. X. Jia,2
+K. J. Xiong,1
+Y. H. Sun ,2
+X. W. Zhang,3
+X. M. Wu,4
+X. B. Gao,4
+and T. X. Li1
+*
+State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1
+;
+Institute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2
+; Beijing Genomics Institute,
+Chinese Academy of Sciences, Beijing, 101300 China3
+; and
+Shaanxi Institute of Zoology, Xi'an, 710032 China4
+Received 28 June 2005/Accepted 27 September 2005
+The 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss
+and society attention. A survey of avian influenza viruses was conducted on tree sparrows (Passer montanus)
+collected in China in 2004. Four viruses were isolated from free-living tree sparrows. The results of the
+whole-genome analysis indicated that an H5N1 virus with a new genotype is circulating among tree sparrows.
+The hemagglutinin and neuraminidase genes of the new genotype were derived from Gs/Gd/96-like viruses and
+the nuclear protein gene descended from the 2001 genotype A H5N1 viruses, while the other inner genes
+originated from an unknown influenza virus. In experimental infection, all four viruses were highly pathogenic
+to chickens but not pathogenic to ducks or mice. The four tree sparrow viruses were different from the 2003 tree
+sparrow strain (genotype Z) in Hong Kong. The results suggested that H5N1 viruses might be distributed
+widely in tree sparrows.
+Highly pathogenic H5N1 influenza virus has caused serious
+poultry loss, and since 1997 it has been reported to cause
+human deaths. It has been determined that H5N1 influenza
+viruses have undergone reassortment in recent years (12, 17).
+The Hong Kong influenza H5N1 virus that infected humans in
+1997 was confirmed to be a reassortant virus that had acquired
+the hemagglutinin (HA) gene from A/goose/GuanGdong/1/96
+(Gs/Gd/96; H5N1)-like viruses, the neuraminidase (NA) gene
+from A/teal/HongKong/W312/97 (Teal/HK/W312/97; H6N1)-
+like viruses, and the internal genes from A/quail/HongKong/
+G1/97(Qa/HK/G1/97; H9N2)-like or Teal/HK/W312/97 viruses
+(1, 5). Multiple genotypes of H5N1 were detected from 2001 to
+2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and
+Z (6, 12). Since 2002, genotype Z has been the dominant
+H5N1 virus in southern China and was responsible for the
+2003-2004 outbreaks in Asia (12).
+Although the aquatic bird has been considered a natural
+reservoir for avian influenza viruses (20), in recent years H5N1
+viruses have also been isolated from terrestrial birds. From
+2002 to 2004, genotype Z viruses were isolated from a feral
+pigeon (Columba livia), a tree sparrow (Passer montanus), and
+a peregrine falcon (Falco peregrinus) (12), and two genotype V
+viruses were isolated from crows in Japan (13). The systematic
+surveillance of avian H5N1 influenza viruses in resident birds
+has not been well established. As the tree sparrow is a very
+common terrestrial bird in China and has frequent contact with
+humans, we conducted a survey of epidemic avian influenza
+viruses in tree sparrows in the Henan province of China in
+2004. Four H5N1 avian influenza viruses were isolated. All the
+viruses were sequenced, and their pathogenicity to chickens,
+ducks, and mice were tested. The results indicated that they
+were new-genotype H5N1 viruses and highly pathogenic to
+chickens.
+MATERIALS AND METHODS
+Virus isolation. A survey of epidemic avian influenza virus in tree sparrows was
+conducted in Pingyu country in the Henan province of China in May 2004.
+Cloacal swabs were collected from 38 captured free-living tree sparrows and were
+eluted with 0.5 ml of phosphate-buffered saline (PBS). After centrifugation at
+6,000  g/min for 5 min at 4°C, the supernatant was identified by sandwich
+enzyme-linked immunosorbent assay with an avian influenza virus antigen de-
+tection kit (Keqian Ltd.). The antigen-positive supernatant of cloacal swabs was
+mixed with an equal volume of PBS containing antibiotics (penicillin G, 4,000
+U/ml; streptomycin sulfate, 800 U/ml) for 4 h at 4°C and was inoculated into the
+allantoic cavities of 10-day-old, specific-pathogen-free, embryonated eggs (Bei-
+jing MERIAL Ltd.). After incubation at 37°C for 48 to 72 h, the allantoic fluid
+of the inoculated eggs was collected. Fifty percent egg infectious dose (EID50)
+titers were calculated by the method of Reed-Muench. Allantoic fluid containing
+virus stocks had been stored at 70°C before being used.
+RNA extraction and nucleotide sequencing. Viral RNA was extracted from
+virus-infected allantoic fluid with Trizol reagent (Invitrogen). The cDNAs were
+amplified by the TaKaRa rTAQ enzyme (TaKaRa Bio) with avian influenza virus
+primers (10). After being purified with Montage PCR cleanup filter plates (Mil-
+lipore Corporation), the PCR products were used for sequencing with an Am-
+ersham ET dye terminator kit (Amersham Pharmacia Bio) and ABI PRISM 370
+DNA sequencer (PE Applied Biosystems). The sequencing primers were avail-
+able at the website http://www.genomics.org.cn/AI/index.jsp. All sequence data
+were edited by BioEdit version 5.0.9 and aligned by Clustal X (version 1.8).
+Phylogenetic trees were generated with MEGA version 2.0.
+Pathogenicity tests. To determine the pathogenicity of the virus isolated, the
+viruses were inoculated into chickens, ducks, and mice. Groups of eight specific-
+pathogen-free, 6-week-old chickens (Beijing MERIAL Ltd.) were tested accord-
+ing to the recommendation of the Office International des E
+´pizooties (OIE).
+Each chicken was intravenously injected with 0.2 ml of a 1:10 dilution of allantoic
+fluid containing virus, and mortality was observed over a 10-day period. Groups
+of eight 3-week-old ducks were inoculated intranasally with 0.1 ml of allantoic
+fluid, and mortality was also observed over a 10-day period. Groups of 10 6- to
+* Corresponding author. Mailing address for T. X. Li: State Key
+Laboratory of Virology, Wuhan Institute of Virology, Chinese Acad-
+emy of Sciences, Wuhan, 430071 China. Phone: 86-27-87198465. Fax:
+86-27-87198465. E-mail: litx@wh.iov.cn. Mailing address for F. M. Lei:
+Institute of Zoology, Chinese Academy of Sciences, Beijing, 100080
+China. Phone: 86-10-62562713. Fax: 86-10-62565689. E-mail: leifm
+@ioz.ac.cn
+15460
+8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control
+Disease Center, Wuhan, China) were inoculated intranasally with the virus-
+allantoic fluid in a volume of 50 l and were observed daily for 14 days for signs
+of disease. On the third day, three mice of each group were killed purposely, and
+the EID50s of the viruses in the lungs and brains were determined. The remain-
+ing mice were monitored daily for mortality. All the animal experiments were
+performed in a biosafety level 3 laboratory, and the inoculated viral doses of the
+allantoic fluid were 105.5
+to 106.5
+EID50s. Control groups of chickens, ducks, and
+mice were inoculated with PBS.
+Nucleotide sequence accession numbers. All sequences have been deposited in
+GenBank. The accession numbers are AY741215 to AY741222 and DQ073399
+to DQ073422.
+RESULTS
+Virus isolation and molecular characterization. Among the
+38 cloacal swabs from captured free-living tree sparrows, 25
+tested avian influenza virus antigen positive by enzyme-linked
+immunosorbent assay. These 25 samples were inoculated into
+embryonated eggs, and four avian influenza viruses were iso-
+lated. They were named A/Tree sparrow/Henan/1/04 (H5N1)
+(Ts/HN/1/04) to A/Tree sparrow/Henan/4/04 (H5N1) (Ts/HN/
+4/04). Each of eight gene segments of the four viruses was
+sequenced. The four isolates shared a high homology with each
+other (96% to 99%), except in their NA and PB2 genes. For
+the NA gene, only Ts/HN/4/04 did not contain a 20-amino-acid
+(aa) deletion in the stalk of the NA molecule, so the homology
+between Ts/HN/4/04 and other sparrow viruses was low (91%
+to 92%). The homology between the PB2 genes of Ts/HN/2/04
+and Ts/HN/3/04 was 99%, but the homology between Ts/HN/
+1/04 and Ts/HN/2/04 (or Ts/HN/3/04) was 91%, while that
+between Ts/HN/4/04 and Ts/HN/2/04 (or Ts/HN/3/04) was
+95%. Nucleotide sequence analysis revealed that they origi-
+nated from different sources (Table 1.).
+The HA genes from the four tree sparrows all have the same
+multiple basic amino acids (RRKKR) at the connecting pep-
+tide between HA1 and HA2, which was considered a charac-
+teristic of influenza viruses that are highly pathogenic for
+chickens (11). All amino acids relevant to receptor binding (aa
+91, 130 to 134, 149, 151, 179, 186, 190 to 191, and 220 to 225)
+were identical to those of Gs/Gd/1/96 (3). Therefore, it is likely
+that these viruses bind to cellular receptors with 2,3-NeuAcGal
+linkages, as has been shown for Gs/Gd/1/96 (7).
+The HA protein of Ts/HN/1/04, Ts/HN/2/04, and Ts/HN/
+3/04 had an additional glycosylation site (aa 170 to 172) at the
+head of the HA molecule and contained a 20-aa deletion in the
+stalk of the NA molecule, while Ts/HN/4/04 did not. The ad-
+ditional glycosylation site in the HA protein and the deletion of
+20 aa in the NA protein were also dominant in other 2004
+viruses isolated from poultry and human, which was suggested
+to be connected with the adaptation of viruses for spreading
+more efficiently in terrestrial domestic poultry (15).
+Four tree sparrow viruses had a 5-aa deletion (aa 80 to 84)
+in the middle of the NS molecule but did not have a mutation
+of Glu92 in the NS1 protein or Lys627 in the PB2 protein,
+which had been suggested to be associated with the increased
+virulence of H5N1 viruses in mice (4, 8). Moreover, the four
+viruses did not have mutations at the amino acids Ser31,
+Leu26, Val27, and Ala30 in the transmembrane region of the
+M2 protein, which occur in many genotype Z viruses and which
+have been proved to be associated with amantadine resistance
+(18).
+Phylogenetic analysis. Phylogenetic analysis revealed that
+the HA genes of tree sparrows formed a branch in the phylo-
+genetic tree with 2000-2004 isolates from Asia (genotypes Z,
+Z, Y, A, B, C, D, E, and X). The HK/97 isolates formed
+another branch. Both branches originated from Gs/Gd/96-like
+viruses (Fig. 1).
+The NA gene tree showed that tree sparrows branched with
+genotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96
+and formed a branch of avian influenza viruses. Isolates of
+HK/97 formed a separate branch. Unlike the other three tree
+sparrow isolates, Ts/HN/02 clustered into the branch of geno-
+type Y, Z, and Z viruses of 2002 to 2004 (Fig. 1).
+Analysis of the internal protein genes shows that four H5N1
+sparrow viruses originated from multiple avian influenza vi-
+ruses. The PB2 genes of Ts/HN/2/04 and Ts/HN/3/04 were
+almost identical, but they were different from Ts/HN/1/04 and
+Ts/HN/4/04. Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-
+gether with genotypes A, B, C, D, E, Y, Z, Z, and X and with
+Gs/Gd/96. This branch was distinctly related to the branch of
+Ts/HN/2/04 and Ts/HN/3/04 and the branch of H5N1/97 (Fig.
+1). Interestingly, the PB2 gene of DK/Yolohama/aq10/03,
+which was a genotypically unique H5N1 influenza virus iso-
+lated from duck meat in 2003 (14), was found to be most
+closely related to that of the tree sparrows (Fig. 1).
+In the phylogenetic tree of the PB1 gene, the four sparrow
+viruses formed a separate fork and clustered with the branch of
+genotypes A, B, C, D, E, Y, Z, and Z and the branches of
+Gs/Gd/96 and HK/97. According to the phylogenetic tree, the
+PB1 gene of tree sparrows might be the ancestor of genotypes
+A, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97. The
+PB1 gene of genotype X is distinctly related to those of all the
+above-named genotypes (Fig. 1).
+In the phylogenetic tree of the PA gene, the four sparrow
+viruses formed a separate branch. The branch was distinctly
+related to the branch of genotypes A, B, C, D, E, Y, Z, Z,
+and X and to the branch of Gs/Gd/96, the branch of H5N1/97,
+and that of Gf/HK/38/02 (Fig. 1).
+In the phylogenetic tree of the NP gene, the four sparrow
+viruses formed a separate fork and clustered with the branch of
+genotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and
+that of DK/Yolohama/aq10/03 (14). The NP genes of the
+above-named genotypes were similar to those of genotype A
+and Gs/Gd/96 but distinctly related to that of genotype D
+(Fig. 1).
+TABLE 1. Percentages of sequence similarity between the tree
+sparrow virus isolates and other influenza viruses
+Segment Virus with the highest similaritya
+% Similarity
+PB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94
+PB1 A/swine/Hong Kong/126/82 (H3N2) 94
+PA A/swine/Hong Kong/81/78 (H3N2) 94
+HA A/chicken/Jilin/9/04 (H5N1) 97
+NP A/Duck/Hong Kong/289/78 (H9N2) 98
+NA A/Duck/Guangxi/50/01 (H5N1) 96
+M A/Duck/Hong Kong/698/79 (H5N3) 98
+NS A/Duck/Hong Kong/610/79 (H9N2) 98
+a
+Percentages of sequence similarity were calculated based on the nucleotide
+sequences of the complete open reading frames of eight genes, with Ts/HN/2/04
+as the representative strain. The nucleotide sequences of Ts/HN/2/04 were com-
+pared to those in GenBank.
+VOL. 79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15461
+15462 KOU ET AL. J. VIROL.
+FIG.
+1.
+Phylogenetic
+trees
+of
+virus
+genes
+isolated
+from
+tree
+sparrows
+in
+China.
+Trees
+were
+generated
+by
+using
+neighbor-joining
+analysis
+with
+the
+Tamura-Nei-gamma
+model
+in
+the
+MEGA
+program
+(version
+2.0).
+Numbers
+below
+branches
+indicate
+bootstrap
+value
+percentages
+from
+1,000
+replicates.
+Analysis
+was
+based
+on
+nucleotides
+1
+to
+1,012
+(1,012
+bp)
+of
+the
+HA
+gene,
+1
+to
+1,055
+(1,055
+bp)
+of
+the
+NA
+gene,
+1,058
+to
+2,227
+(1,170
+bp)
+of
+the
+PB2
+gene,
+23
+to
+1,316
+(1,294
+bp)
+of
+the
+PB1
+gene,
+1,450
+to
+2,148
+(699
+bp)
+of
+the
+PA
+gene,
+22
+to
+976
+(955
+bp)
+of
+the
+NP
+gene,
+25
+to
+759
+(725
+bp)
+of
+the
+M
+gene,
+and
+46
+to
+685
+(640
+bp)
+of
+the
+NS
+gene.
+The
+scale
+bar
+represents
+the
+distance
+unit
+between
+sequence
+pairs.
+Th,
+Thailand;
+VN,
+Vietnam;
+In,
+Indonesia;
+HK,
+Hong
+Kong;
+Gd,
+Guangdong;
+YN,
+Yunnan;
+Sh,
+Shanghai;
+Sd,
+Shandong;
+ST,
+Shantou;
+Ck,
+chicken;
+Dk,
+duck;
+Qa,
+quail;
+Gs,
+Goose;
+SCk,
+silky
+chicken.
+The
+sequences
+are
+named
+in
+concordance
+with
+their
+GenBank
+nomenclature.
+The
+tree
+sparrow
+genes
+are
+indicated
+in
+red.
+VOL. 79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15463
+FIG.
+1.
+Continued
+.
+15464 KOU ET AL. J. VIROL.
+In the phylogenetic tree of the M gene, the four sparrow
+viruses formed a separate branch with H3 and H6 subtype
+viruses. The branch was distinctly related to the branch of
+genotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,
+and that of HK/97 (Fig. 1). The NS genes of four tree sparrows
+were distinctly related to that of genotypes A, B, C, D, E, X, Y,
+Z, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,
+and H11 subtypes (Fig. 1).
+According to the above-described analysis of phylogenetic
+relationships, the four tree sparrow isolates were different from
+other reported H5N1 genotypes. They were reassortants of
+Gs/Gd/96-like viruses; the outer genes are derived form Gs/
+Gd/96-like viruses, and the inner genes are derived from un-
+known influenza viruses resident in wild birds (Fig. 1).
+Pathogenicity tests. Four isolates from tree sparrows were
+inoculated into chickens, ducks, and mice. As shown in Table
+2, all the isolates killed seven or eight out of eight infected
+chickens within 10 days. According to the OIE criteria, all the
+isolates were highly pathogenic to chickens. It was reported
+that pathogenicity to duck varied according to different H5N1
+isolates (16). The result of animal experiments indicated that
+the tree sparrow isolates were not pathogenic to ducks (Table
+2) and so were different from the highly pathogenic viruses
+isolated from wild aquatic birds in 2002 (16). In the mice
+experiments, although the viruses were unable to kill mice,
+they could be detected in all the lungs of mice examined, as
+well as in the brains of mice infected with Ts/HN/2/04 (Ta-
+ble 2).
+DISCUSSION
+A survey of epidemic avian influenza viruses in tree sparrows
+was conducted in Pingyu country, Henan province, China, in
+May 2004. Four viruses were isolated from 38 free-living tree
+sparrows and were identified to be the highly pathogenic H5N1
+subtype avian influenza virus. By molecular characterization
+and an analysis of phylogenetic relationships, their genetic
+characterizations were different from those of the dominant
+genotype Z viruses and other H5N1 genotype viruses. Accord-
+ing to phylogenetic analysis results, only the HA, NA, and NP
+genes were found connected with other reported genotypes
+viruses. The HA and NA genes are descended from Gs/Gd/
+96-like virus, while the NP gene might be from genotype A
+viruses (Fig. 1 and 2). But other inner genes, such as PB2, PB1,
+PA, M, and NS, were novel and might have originated from an
+unknown virus (Fig. 1 and 2). The PB2 gene of DK/Yolohama/
+aq10/03 might also have originated from this unknown virus.
+The possible derivation of the tree sparrow viruses and their
+relationship to other H5N1 genotypes are summarized in Fig.
+2. Reassortants were found to be very popular in the origin of
+influenza viruses (12).
+In 2003, an avian influenza H5N1 virus was isolated once
+from a tree sparrow in Hong Kong, and the genotype of this
+strain was Z. The tree sparrow viruses that we isolated were
+quite different from the genotype Z virus. The fact that a
+diversity of H5N1 viruses was isolated from tree sparrows sug-
+gested that H5N1 viruses might be distributed widely in tree
+sparrows and that infections might not be occasional cases. The
+aquatic birds of the world were considered the natural reser-
+voirs of influenza A viruses. Recently, genotype V and Z H5N1
+viruses were isolated from different terrestrial birds (12). Our
+FIG. 2. Possible derivation of the tree sparrow viruses and their
+relationship to other H5N1 genotypes. The eight gene segments in
+each schematic virus particle are (from top to bottom) the PB2, PB1,
+PA, HA, NP, NA, M, and NS genes. Genes of the same lineage are
+shown in the same color. The capital letters indicate the genotypes and
+Sparrow 1 to Sparrow 4 indicate the four sparrow isolates.
+TABLE 2. Results of animal infection experiments
+Virus
+Titer
+(log10 EID50)
+Avian infection
+(no. dead/no. inoculated)
+(no. of days to death)
+Mouse infection
+Chicken Duck
+No. dead/
+no. inoculated
+Virus in lung
+(log10 EID50)
+Virus in brain
+(log10 EID50)
+Ts/HN/1/04 6 8/8(2­5) 0/8 0/10 1.4 No
+Ts/HN/2/04 6 8/8(3­4) 0/8 0/10 2.1 1.0
+Ts/HN/3/04 5.5 7/8(6­9) 0/8 0/10 1.8 No
+Ts/HN/4/04 6.5 8/8(4­5) 0/8 0/10 1.3 No
+VOL. 79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15465
+results indicated that a new genotype H5N1 virus was found in
+tree sparrows. Multiple genotypes of viruses isolated from ter-
+restrial birds indicated that terrestrial birds may play an im-
+portant role in the natural reservoir and transmission of influ-
+enza virus. The tree sparrows from which the virus was isolated
+appeared normal when captured, indicating that they were
+carriers of the viruses instead of dead end hosts.
+The origin of the tree sparrow viruses is unclear. The simi-
+larity of the HA and NA genes with those of Gs/Gd/96 indi-
+cated that they had some connection with aquatic birds. When
+migrating birds fly to their habitants, viruses that they have can
+be transmitted to local aquatic and terrestrial birds. In con-
+trast, migrating birds can be infected by the viruses reserved in
+resident birds. So, viral genes are transmitted between the
+migrating gene pool and resident gene pool, and new-genotype
+viruses are created. Tree sparrows are in close contact with
+aquatic birds and domestic poultry; therefore, the chance of
+viral infection from other birds is high.
+The result of animal experiments indicated that the tree
+sparrow isolates were highly pathogenic to chickens but not
+pathogenic to ducks. In mice experiments, the viruses did not
+kill mice but were detected in the lungs as well as some of the
+brains. Nowadays, the mechanism of the transmissibility of
+avian influenza viruses to mammals is not resolved and was
+proposed to involve multiple viral genes. It is firmly believed
+that avian gene constellations promote transmission to mam-
+mals (19, 21). The possible transmission and adaptation to
+mammals need to be further studied.
+Highly pathogenic H5N1 avian influenza viruses resulted in
+a windstorm of disease outbreaks in China and other Asian
+countries in 2004. As there were cases in which viruses were
+fatal to humans (2, 9), the viruses have been a serious threat to
+the public health and the poultry industry. Wild birds were
+considered to be significantly related to the increasing spread
+of the virus in Asia, and H5N1 viruses with pandemic potential
+become endemic in regions and were not easily eradicable
+(12). Tree sparrows are residents and widespread in the whole
+of China and other Eurasian countries. They are more or less
+attached to human habitations and are found to have close
+contact with poultry, wild birds, domestic animals, and human
+beings. As H5N1 viruses were isolated from these birds, pre-
+caution is needed to prevent potential threats to the poultry
+industry and human health. In the region of China where the
+H5N1 viruses in this study were isolated, pigs and ducks are
+housed closely in farming villages. By means of possible trans-
+mission between swine and birds, the existence of the H5N1
+virus in tree sparrows may serve as a new reservoir for the
+reemergence of a highly pathogenic avian influenza virus
+H5N1 outbreak. Additional surveys, especially long-term sur-
+veillance of tree sparrows and other wild birds, are necessary.
+ACKNOWLEDGMENTS
+This research was supported by the Ministry of Science and Tech-
+nology of China program (grant no. 2004BA519A11), the 973 Project
+(grant no. 2005CB523000), the Innovation Program (grant no.
+INF105-SDB-3-A2) of the Chinese Academy of Sciences (CAS), the
+863 project (grant no. 2005 AA219070), and the Innovation Program
+of the Institute of Zoology, CAS.
+We appreciate the staff of the State Forestry Administration of
+China and local Forestry Departments for their help in collecting
+wild-bird samples. We acknowledge S. L. Chen, Z. Zhang, Q. S. Yan,
+H. J. Hu, H. F. Zhao, F. S. Zou, H. P. Liu, and many others for field
+sample collection and assistance in the laboratory. We also acknowl-
+edge J. Wang for sequencing efforts and Z. H. Hu for critical review of
+the manuscript.
+REFERENCES
+1. Chin, P. S., E. Hoffmann, R. Webby, R. G. Webster, Y. Guan, M. Peiris, and
+K. F. Shortridge. 2002. Molecular evolution of H6 influenza viruses from
+poultry in Southeastern China: prevalence of H6N1 influenza viruses pos-
+sessing seven A/Hong Kong/156/97 (H5N1)-like genes in poultry. J. Virol.
+76:507­516.
+2. Chotpitayasunondh, T., S. Lochindarat, P. Srisan, K. Chokepaibulkit, J.
+Weerakul, M. Maneerattanaporn, and P. Sawanpanyalert. 2004. Cases of
+influenza A (H5N1)--Thailand, 2004. Morb. Mortal. Wkly. Rep. 53:100­
+102.
+3. Claas, E., A. D. Osterhaus, R. van Beek, J. C. De Jong, G. F. Rimmelzwaan,
+D. A. Senne, S. Krauss, K. F. Shortridge, and R. G. Webster. 1998. Human
+influenza A H5N1 virus related to a highly pathogenic avian influenza virus.
+Lancet 351:472­477.
+4. Fouchier, R. A., P. M. Schneeberger, F. W. Rozendaal, J. M. Broekman, S. A.
+Kemink, V. Munster, T. Kuiken, G. F. Rimmelzwaan, M. Schutten, G. J. Van
+Doornum, G. Koch, A. Bosman, M. Koopmans, and A. D. Osterhaus. 2004.
+Avian influenza A virus (H7N7) associated with human conjunctivitis and a
+fatal case of acute respiratory distress syndrome. Proc. Natl. Acad. Sci. USA
+101:1356­1361.
+5. Guan, Y., K. F. Shortridge, S. Krauss, and R. G. Webster. 1999. Molecular
+characterization of H9N2 influenza viruses: were they the donors of the
+"internal" genes of H5N1 viruses in Hong Kong? Proc. Natl. Acad. Sci. USA
+96:9363­9367.
+6. Guan, Y., J. S. Peiris, A. S. Lipatov, T. M. Ellis, K. C. Dyrting, S. Krauss,
+L. J. Zhang, R. G. Webster, and K. F. Shortridge. 2002. Emergence of
+multiple genotypes of H5N1 avian influenza viruses in Hong Kong SAR.
+Proc. Natl. Acad. Sci. USA 99:8950­8955.
+7. Ha, Y., D. J. Stevens, J. J. Skehel, and D. C. Wiley. 2001. X-ray structures of
+H5 avian and H9 swine influenza virus hemagglutinins bound to avian and
+human receptor analogs. Proc. Natl. Acad. Sci. USA 98:11181­11186.
+8. Hatta, M., P. Gao, P. Halfmann, and Y. Kawaoka. 2001. Molecular basis for
+high virulence of Hong Kong H5N1 influenza A viruses. Science 293:1840­
+1842.
+9. Hien, T. T., N. T. Liem, N. T. Dung, et al. 2004. Avian influenza A (H5N1)
+in 10 patients in Vietnam. N. Engl. J. Med. 350:1179­1188.
+10. Hoffmann, E., J. Stech, Y. Guan, R. G. Webster, and D. R. Perez. 2001.
+Universal primer set for the full-length amplification of all influenza A
+viruses. Arch. Virol. 146:2275­2289.
+11. Horimoto, T., and Y. Kawaoka. 1994. Reverse genetics provides direct evi-
+dence for a correlation of hemagglutinin cleavability and virulence of an
+avian influenza A virus. J. Virol. 68:3120­3128.
+12. Li, K. S., Y. Guan, J. Wang, et al. 2004. Genesis of a highly pathogenic and
+potentially pandemic H5N1 influenza virus in eastern Asia. Nature 430:209­
+213.
+13. Mase, M., K. Tsukamoto, T. Imada, K. Imai, N. Tanimura, K. Nakamura, Y.
+Yamamoto, T. Hitomi, T. Kira, T. Nakai, M. Kiso, T. Horimoto, Y. Kawaoka,
+and S. Yamaguchi. 2005. Characterization of H5N1 influenza A viruses
+isolated during the 2003-2004 influenza outbreaks in Japan. Virology 332:
+167­176.
+14. Mase, M., M. Eto, N. Tanimura, K. Imai, K. Tsukamoto, T. Horimoto, Y.
+Kawaoka, and S. Yamaguchi. 2005. Isolation of a genotypically unique H5N1
+influenza virus from duck meat imported into Japan from China. Virology
+339:101­109.
+15. Pilaipan, P., A. Prasert, C. C. Pakapak, S. Kantima, P. Phisanu, B. Kobporn,
+K. Raweewan, T. Pranee, K. Rungrueng, and S. Pathom. 2005. Molecular
+characterization of the complete genome of human influenza H5N1 virus
+isolates from Thailand. J. Gen. Virol. 86:423­433.
+16. Sturm-Ramirez, K., T. Ellis, B. Bousfield, L. Bissett, K. Dyrting, J. Rehg, L.
+Poon, Y. Guan, M. Peiris, and R. G. Webster. 2004. Reemerging H5N1
+influenza viruses in Hong Kong in 2002 are highly pathogenic to ducks.
+J. Virol. 78:4892­4901.
+17. Subbarao, K., and M. W. Shaw. 2000. Molecular aspects of avian influenza
+(H5N1) viruses isolated from humans. Rev. Med. Virol. 10:337­348.
+18. Suzuki, H., R. Saito, H. Masuda, H. Oshitani, M. Sato, and I. Sato. 2003.
+Emergence of amantadine-resistant influenza A viruses: epidemiological
+study. J. Infect. Chemother. 9:195­200.
+19. Webby, R., S. Swenson, S. Krauss, P. Gerrish, S. Goyal, and R. G, Webster.
+2000. Evolution of swine H3N2 influenza viruses in the United States. J. Vi-
+rol. 74:8243­8251.
+20. Webster, R. G., W. J. Bean, O. T. Gorman, T. M. Chambers, and Y.
+Kawaoka. 1992. Evolution and ecology of influenza A viruses. Microbiol.
+Rev. 56:152­179.
+21. Zhou, N., D. Senne, J. Landgraf, S. Swenson, G. Erickson, K. Rossow, L. Liu,
+K. Yoon, S. Krauss, and R. G. Webster. 1999. Genetic reassortment of avian,
+swine, and human influenza viruses in American pigs. J. Virol. 73:8851­8856.
+15466 KOU ET AL. J. VIROL.
+

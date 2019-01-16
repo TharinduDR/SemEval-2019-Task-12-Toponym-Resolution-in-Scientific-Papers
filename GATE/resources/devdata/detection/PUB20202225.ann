@@ -1,0 +1,200 @@
+T9	Protein 1 9	RESEARCH
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 15 21	Access
+#10	AnnotatorNotes T10	END
+T3	Location 98 106	Yamagata
+#3	AnnotatorNotes T3	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T4	Location 108 113	Japan
+#4	AnnotatorNotes T4	<latlng>36,138</latlng><geoID>1861060</geoID>
+T449	Protein 177 181	Yoko
+#449	AnnotatorNotes T449	BEGIN
+T450	Protein 429 437	Tashiro5
+#450	AnnotatorNotes T450	END
+T16	Location 713 721	Yamagata
+#16	AnnotatorNotes T16	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T17	Location 723 728	Japan
+#17	AnnotatorNotes T17	<latlng>36,138</latlng><geoID>1861060</geoID>
+T18	Location 1605 1613	Yamagata
+#18	AnnotatorNotes T18	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T19	Location 1680 1686	Europe
+#19	AnnotatorNotes T19	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T1	Location 1691 1697;1698 1705	North America
+#1	AnnotatorNotes T1	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T22	Location 1777 1782	Japan
+#22	AnnotatorNotes T22	<latlng>36,138</latlng><geoID>1861060</geoID>
+T23	Location 1877 1883	Europe
+#23	AnnotatorNotes T23	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T24	Location 1888 1901	North America
+#24	AnnotatorNotes T24	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T25	Location 2234 2242	Yamagata
+#25	AnnotatorNotes T25	<latlng>38.4503,140.0997</latlng><geoID>2110554</geoID>
+T26	Location 2413 2418	Japan
+#26	AnnotatorNotes T26	<latlng>36,138</latlng><geoID>1861060</geoID>
+T27	Location 2738 2744	Europe
+#27	AnnotatorNotes T27	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T28	Location 2749 2762	North America
+#28	AnnotatorNotes T28	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T2	Location 2942 2947;2948 2951	Nor-way
+#2	AnnotatorNotes T2	<latlng>62,10</latlng><geoID>3144096</geoID>
+T29	Location 2983 2988	Japan
+#29	AnnotatorNotes T29	<latlng>36,138</latlng><geoID>1861060</geoID>
+T30	Location 3155 3160	Japan
+#30	AnnotatorNotes T30	<latlng>36,138</latlng><geoID>1861060</geoID>
+T31	Location 3243 3249	Europe
+#31	AnnotatorNotes T31	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T32	Location 3289 3294	Japan
+#32	AnnotatorNotes T32	<latlng>36,138</latlng><geoID>1861060</geoID>
+T33	Location 3321 3326	Japan
+#33	AnnotatorNotes T33	<latlng>36,138</latlng><geoID>1861060</geoID>
+T11	Protein 3408 3409	*
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 3967 3973	cited.
+#12	AnnotatorNotes T12	END
+T43	Location 4002 4007	Japan
+#43	AnnotatorNotes T43	<latlng>36,138</latlng><geoID>1861060</geoID>
+T44	Location 4290 4295	Japan
+#44	AnnotatorNotes T44	<latlng>36,138</latlng><geoID>1861060</geoID>
+T5	Location 4568 4576	Yamagata
+#5	AnnotatorNotes T5	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T46	Location 5041 5049	Yamagata
+#46	AnnotatorNotes T46	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T52	Location 6718 6726	Yamagata
+#52	AnnotatorNotes T52	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T53	Location 6728 6733	Japan
+#53	AnnotatorNotes T53	<latlng>36,138</latlng><geoID>1861060</geoID>
+T54	Location 6969 6977	Yamagata
+#54	AnnotatorNotes T54	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T62	Location 7505 7513	Yamagata
+#62	AnnotatorNotes T62	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T13	Protein 8032 8041	Matsuzaki
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 8129 8130	8
+#14	AnnotatorNotes T14	END
+T77	Location 8173 8181	Yamagata
+#77	AnnotatorNotes T77	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T83	Location 9718 9724	Europe
+#83	AnnotatorNotes T83	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T84	Location 9872 9880	Yamagata
+#84	AnnotatorNotes T84	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T85	Location 10026 10034	Yamagata
+#85	AnnotatorNotes T85	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T86	Location 10144 10150	Europe
+#86	AnnotatorNotes T86	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T87	Location 10155 10168	North America
+#87	AnnotatorNotes T87	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T88	Location 10253 10261	Yamagata
+#88	AnnotatorNotes T88	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T90	Location 10429 10437	Yamagata
+#90	AnnotatorNotes T90	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T98	Location 11681 11689	Yamagata
+#98	AnnotatorNotes T98	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T15	Protein 12108 12117	Matsuzaki
+#15	AnnotatorNotes T15	BEGIN
+T20	Protein 12205 12206	8
+#20	AnnotatorNotes T20	END
+T103	Location 12702 12707	Japan
+#103	AnnotatorNotes T103	<latlng>36,138</latlng><geoID>1861060</geoID>
+T104	Location 12795 12800	Japan
+#104	AnnotatorNotes T104	<latlng>36,138</latlng><geoID>1861060</geoID>
+T107	Location 13446 13454	Yamagata
+#107	AnnotatorNotes T107	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T108	Location 13511 13517	Europe
+#108	AnnotatorNotes T108	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T151	Location 14884 14892	Yamagata
+#151	AnnotatorNotes T151	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T152	Location 14933 14939	Europe
+#152	AnnotatorNotes T152	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T153	Location 14945 14948	USA
+#153	AnnotatorNotes T153	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T6	Location 14954 14960;14961 14967	South Africa
+#6	AnnotatorNotes T6	<latlng>-29,24</latlng><geoID>953987</geoID>
+T156	Location 15017 15025	Yamagata
+#156	AnnotatorNotes T156	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T21	Protein 15108 15117	Matsuzaki
+#21	AnnotatorNotes T21	BEGIN
+T34	Protein 15205 15206	8
+#34	AnnotatorNotes T34	END
+T202	Location 16583 16591	Yamagata
+#202	AnnotatorNotes T202	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T203	Location 16632 16638	Europe
+#203	AnnotatorNotes T203	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T204	Location 16644 16647	USA
+#204	AnnotatorNotes T204	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T205	Location 16649 16661	South Africa
+#205	AnnotatorNotes T205	<latlng>-29,24</latlng><pop>0</pop><geoID>953987</geoID>
+T206	Location 16668 16673	Japan
+#206	AnnotatorNotes T206	<latlng>36,138</latlng><geoID>1861060</geoID>
+T207	Location 16682 16690	Yamagata
+#207	AnnotatorNotes T207	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T208	Location 16741 16749	Yamagata
+#208	AnnotatorNotes T208	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T35	Protein 17663 17672	Matsuzaki
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 17760 17761	8
+#36	AnnotatorNotes T36	END
+T210	Location 17832 17837	Japan
+#210	AnnotatorNotes T210	<latlng>36,138</latlng><geoID>1861060</geoID>
+T211	Location 18782 18790	Yokohama
+#211	AnnotatorNotes T211	<latlng>35.44778,139.6425</latlng><pop>3574443</pop><geoID>1848354</geoID>
+T213	Location 18800 18805	Japan
+#213	AnnotatorNotes T213	<latlng>36,138</latlng><geoID>1861060</geoID>
+T216	Location 19096 19104	Yamagata
+#216	AnnotatorNotes T216	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T217	Location 19114 19119	Japan
+#217	AnnotatorNotes T217	<latlng>36,138</latlng><geoID>1861060</geoID>
+T218	Location 19335 19343	Yamagata
+#218	AnnotatorNotes T218	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T219	Location 19447 19455	Yamagata
+#219	AnnotatorNotes T219	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T220	Location 19514 19520	Europe
+#220	AnnotatorNotes T220	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T221	Location 19525 19538	North America
+#221	AnnotatorNotes T221	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T222	Location 19641 19646	Japan
+#222	AnnotatorNotes T222	<latlng>36,138</latlng><geoID>1861060</geoID>
+T223	Location 19825 19831	Europe
+#223	AnnotatorNotes T223	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T224	Location 20247 20255	Yamagata
+#224	AnnotatorNotes T224	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T227	Location 21651 21656	Japan
+#227	AnnotatorNotes T227	<latlng>36,138</latlng><geoID>1861060</geoID>
+T228	Location 21994 22002	Yamagata
+#228	AnnotatorNotes T228	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T229	Location 22099 22107	Yamagata
+#229	AnnotatorNotes T229	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T230	Location 22263 22271	Yamagata
+#230	AnnotatorNotes T230	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T231	Location 22309 22315	Europe
+#231	AnnotatorNotes T231	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T232	Location 22320 22333	North America
+#232	AnnotatorNotes T232	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T233	Location 22384 22389	Japan
+#233	AnnotatorNotes T233	<latlng>36,138</latlng><geoID>1861060</geoID>
+T234	Location 22946 22954	Yamagata
+#234	AnnotatorNotes T234	<latlng>38.4503,140.0997</latlng><pop>0</pop><geoID>2110554</geoID>
+T235	Location 23009 23014	Japan
+#235	AnnotatorNotes T235	<latlng>36,138</latlng><geoID>1861060</geoID>
+T37	Protein 23435 23444	Matsuzaki
+#37	AnnotatorNotes T37	BEGIN
+T38	Protein 23532 23533	8	
+#38	AnnotatorNotes T38	END
+T237	Location 23878 23889	Foster City
+#237	AnnotatorNotes T237	<latlng>37.55855,-122.27108</latlng><pop>30567</pop><geoID>5350159</geoID>
+T7	Location 23891 23893	CA
+#7	AnnotatorNotes T7	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T239	Location 24268 24279	Switzerland
+#239	AnnotatorNotes T239	<latlng>47,8</latlng><geoID>2658434</geoID>
+T8	Location 24359 24364;24365 24376	Uni-ted Kingdom
+#8	AnnotatorNotes T8	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T243	Location 24718 24723	Tokyo
+#243	AnnotatorNotes T243	<latlng>35.6895,139.69171</latlng><pop>12445327</pop><geoID>1850144</geoID>
+T244	Location 24725 24730	Japan
+#244	AnnotatorNotes T244	<latlng>36,138</latlng><geoID>1861060</geoID>
+T246	Location 26021 26027	Hilden
+#246	AnnotatorNotes T246	<latlng>51.16818,6.93093</latlng><pop>56565</pop><geoID>2904795</geoID>
+T247	Location 26029 26036	Germany
+#247	AnnotatorNotes T247	<latlng>51.5,10.5</latlng><pop>81802257</pop><geoID>2921044</geoID>
+T451	Protein 27448 27464	Acknowledgements
+#451	AnnotatorNotes T451	BEGIN
+T452	Protein 35615 35616	8
+#452	AnnotatorNotes T452	END

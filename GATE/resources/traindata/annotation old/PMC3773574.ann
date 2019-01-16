@@ -1,0 +1,156 @@
+T1	Protein 89 98	Guangjian
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 744 749	China
+#2	AnnotatorNotes T2	END
+T3	Protein 2107 2115	Keywords
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3300 3310	Manuscript
+#4	AnnotatorNotes T4	END
+T5	Protein 7283 7286	Zhu
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 7433 7443	Manuscript
+#6	AnnotatorNotes T6	END
+T7	Protein 11306 11309	Zhu
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 11456 11466	Manuscript
+#8	AnnotatorNotes T8	END
+T9	Protein 18892 18895	Zhu
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 19042 19052	Manuscript
+#10	AnnotatorNotes T10	END
+T11	Protein 23106 23109	Zhu
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 23256 23266	Manuscript
+#12	AnnotatorNotes T12	END
+T13	Protein 27135 27150	Acknowledgments
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 36732 36742	Manuscript
+#14	AnnotatorNotes T14	END
+T15	Protein 37683 37686	Zhu
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 37834 37844	Manuscript
+#16	AnnotatorNotes T16	END
+T17	Protein 38235 38238	Zhu
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 38386 38396	Manuscript
+#18	AnnotatorNotes T18	END
+T19	Protein 39113 39116	Zhu
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 39264 39274	Manuscript
+#20	AnnotatorNotes T20	END
+T21	Protein 39422 39425	Zhu
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 39573 39583	Manuscript
+#22	AnnotatorNotes T22	END
+T23	Protein 40480 40483	Zhu
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 40733 40735	16
+#24	AnnotatorNotes T24	END
+T25	Protein 42115 42118	Vet
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 42274 42276	17
+#26	AnnotatorNotes T26	END
+T27	Protein 43091 43094	Vet
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 43157 43158	.
+#28	AnnotatorNotes T28	END
+T29	Location 83 88	China
+#29	AnnotatorNotes T29	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T30	Location 916 921	China
+#30	AnnotatorNotes T30	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T31	Location 891 902	Poyang Lake
+#31	AnnotatorNotes T31	<latlng>28.84007, 116.49236</latlng><geoID>1798547 </geoID>
+T32	Location 4112 4121	Hong Kong
+#32	AnnotatorNotes T32	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T33	Location 4194 4199	China
+#33	AnnotatorNotes T33	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T34	Location 4727 4732	China
+#34	AnnotatorNotes T34	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T35	Location 5010 5015	China
+#35	AnnotatorNotes T35	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T36	Location 5239 5244	China
+#36	AnnotatorNotes T36	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T37	Location 5737 5742	China
+#37	AnnotatorNotes T37	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T38	Location 5858 5862;5863 5867	Hong Kong
+#38	AnnotatorNotes T38	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T39	Location 5883 5894	South Korea
+#39	AnnotatorNotes T39	<latlng>36.5, 127.75</latlng><geoID>1835841 </geoID><pop>48422644</pop>
+T40	Location 5956 5961	China
+#40	AnnotatorNotes T40	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T41	Location 6776 6781	China
+#41	AnnotatorNotes T41	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T42	Location 6983 6988	China
+#42	AnnotatorNotes T42	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T43	Location 7268 7273	China
+#43	AnnotatorNotes T43	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T44	Location 7259 7266	Jiangxi
+#44	AnnotatorNotes T44	<latlng>27.66667, 115.66667</latlng><geoID>1806222 </geoID><pop>44000000</pop>
+T45	Location 7562 7573	Poyang Lake
+#45	AnnotatorNotes T45	<latlng>28.84007, 116.49236</latlng><geoID>1798547 </geoID>
+T46	Location 7622 7629	Jiangxi
+#46	AnnotatorNotes T46	<latlng>27.66667, 115.66667</latlng><geoID>1806222 </geoID><pop>44000000</pop>
+T47	Location 7640 7651	Poyang Lake
+#47	AnnotatorNotes T47	<latlng>28.84007, 116.49236</latlng><geoID>1798547 </geoID>
+T48	Location 8941 8949	Valencia
+#48	AnnotatorNotes T48	<latlng>34.44361, -118.60953</latlng><geoID>5405288 </geoID><pop>148456</pop>
+T49	Location 8951 8953	CA
+#49	AnnotatorNotes T49	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T50	Location 9353 9361	Shanghai
+#50	AnnotatorNotes T50	<latlng>31.16667, 121.41667</latlng><geoID>1796231 </geoID><pop>18880000</pop>
+T51	Location 9363 9368	China
+#51	AnnotatorNotes T51	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T52	Location 10252 10260	Shanghai
+#52	AnnotatorNotes T52	<latlng>31.16667, 121.41667</latlng><geoID>1796231 </geoID><pop>18880000</pop>
+T53	Location 12457 12468	Poyang Lake
+#53	AnnotatorNotes T53	<latlng>28.84007, 116.49236</latlng><geoID>1798547</geoID>
+T54	Location 12472 12479	Jiangxi
+#54	AnnotatorNotes T54	<latlng>27.66667, 115.66667</latlng><geoID>1806222 </geoID><pop>44000000</pop>
+T55	Location 12492 12497	China
+#55	AnnotatorNotes T55	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T56	Location 14237 14242	China
+#56	AnnotatorNotes T56	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T57	Location 14334 14339	China
+#57	AnnotatorNotes T57	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T58	Location 21593 21598	China
+#58	AnnotatorNotes T58	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T59	Location 25907 25918	Poyang Lake
+#59	AnnotatorNotes T59	<latlng>28.84007, 116.49236</latlng><geoID>1798547 </geoID>
+T60	Location 25961 25966	China
+#60	AnnotatorNotes T60	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T61	Location 26155 26166	Poyang Lake
+#61	AnnotatorNotes T61	<latlng>28.84007, 116.49236</latlng><geoID>1798547 </geoID>
+T62	Location 37672 37681	Hong Kong
+#62	AnnotatorNotes T62	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T63	Location 37668 37670	HK
+#63	AnnotatorNotes T63	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T64	Location 41942 41944	BJ
+#64	AnnotatorNotes T64	<latlng>39.91691, 116.39706</latlng><geoID>2038349 </geoID><pop>14933274</pop>
+T65	Location 41946 41953	Beijing
+#65	AnnotatorNotes T65	<latlng>39.91691, 116.39706</latlng><geoID>2038349 </geoID><pop>14933274</pop>
+T66	Location 41955 41957	HK
+#66	AnnotatorNotes T66	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T67	Location 41959 41963;41964 41968	Hong Kong
+#67	AnnotatorNotes T67	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T68	Location 41970 41972	SH
+#68	AnnotatorNotes T68	<latlng>31.16667, 121.41667</latlng><geoID>1796231 </geoID><pop>18880000</pop>
+T69	Location 41974 41982	Shanghai
+#69	AnnotatorNotes T69	<latlng>31.16667, 121.41667</latlng><geoID>1796231 </geoID><pop>18880000</pop>
+T70	Location 41984 41986	ST
+#70	AnnotatorNotes T70	<latlng>NA</latlng><geoID>NA</geoID>
+T71	Location 41988 41995	Shantou
+#71	AnnotatorNotes T71	<latlng>NA</latlng><geoID>NA</geoID>
+T72	Location 42981 42983	BJ
+#72	AnnotatorNotes T72	<latlng>39.91691, 116.39706</latlng><geoID>2038349 </geoID><pop>14933274</pop>
+T73	Location 42985 42992	Beijing
+#73	AnnotatorNotes T73	<latlng>39.91691, 116.39706</latlng><geoID>2038349 </geoID><pop>14933274</pop>
+T74	Location 42994 42996	HK
+#74	AnnotatorNotes T74	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T75	Location 42998 43002;43003 43007	Hong Kong
+#75	AnnotatorNotes T75	<latlng>22.25, 114.16667</latlng><geoID>1819730 </geoID><pop>6898686</pop>
+T76	Protein 14869 14872	Zhu
+#76	AnnotatorNotes T76	BEGIN
+T77	Protein 15019 15029	Manuscript
+#77	AnnotatorNotes T77	END
+T79	Location 7742 7746	Asia
+#78	AnnotatorNotes T79	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>

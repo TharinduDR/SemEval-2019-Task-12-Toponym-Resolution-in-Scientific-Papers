@@ -1,0 +1,641 @@
+© 2009 Bjerregaard et al, publisher and licensee Dove Medical Press Ltd.This is an Open Access article
+which permits unrestricted noncommercial use, provided the original work is properly cited.
+Clinical Epidemiology
+Clinical Epidemiology 2009:1 119–124 119
+Dovepress
+open access to scientific and medical research
+Open Access Full Text Article
+submit your manuscript | www.dovepress.com
+Dovepress
+o R i g i n al re s earc h
+Detection of colorectal cancer in symptomatic
+outpatients without visible rectal bleeding:   
+Validity
+of the fecal occult blood test
+Niels Christian Bjerregaard1
+Anders Tøttrup1
+Henrik Toft Sørensen2
+Søren Laurberg1
+1
+Department of Surgery P, Aarhus
+Sygehus, Aarhus University Hospital,
+Tage-Hansens Gade 2, 8000 Aarhus C,
+Denmark; 2
+Department of Clinical
+Epidemiology, Aarhus University
+Hospital, Olof Palmes Allé 43-45,
+8200 Aarhus N, Denmark
+Correspondence: Niels C Bjerregaard
+Department of Surgery P, Aarhus Sygehus,
+Aarhus University Hospital, Tage-Hansens
+Gade 2, DK-8000 Aarhus C, Denmark
+Tel +45 89 49 75 75
+Fax +45 89 49 77 18
+Email ncb.mk@mail.tele.dk
+Background: In 2002, a new diagnostic strategy in symptomatic outpatients without known
+established colorectal cancer risk factors aged 40 years or older was implemented in Denmark.
+Fecal occult blood test (Hemoccult Sensa®
+) was a part of that strategy in patients without visible
+rectal bleeding.
+Aims: The aim was to assess the validity of the Hemoccult Sensa®
+test in detecting colorectal
+cancer in the above-mentioned outpatients.
+Patients: Symptomatic outpatients without known established colorectal cancer risk factors
+and without visible rectal bleeding.
+Methods: Hemoccult Sensa®
+was performed before endoscopic examination. Colorectal cancer
+was identified at histopathological examination. Patients completed a questionnaire about their
+symptoms before their first hospital appointment.
+Results: Eight of 256 patients were found to have colorectal cancer. Median patient age was
+63 years. The positive predictive value, negative predictive value, sensitivity, and specificity of
+Hemoccult Sensa®
+for colorectal cancer were 10.5% (95% confidence interval [CI]: 6.8–14.3),
+99.0% (95% CI: 97.8–100.0), 75.0% (95% CI: 69.7–80.3), and 79.4% (95% CI: 74.5–84.4).
+Conclusions: Hemoccult Sensa®
+as the initial examination in symptomatic outpatients without
+known established colorectal cancer risk factors presenting without rectal bleeding has to be
+used with caution. We did not find Hemoccult Sensa®
+test to be an acceptable alternative to
+flexible sigmoidoscopy.
+Keywords: colorectal neoplasms, occult blood, diagnostic tests, sensitivity, specificity
+Introduction
+Colorectal cancer (CRC) is one of the most common cancers in Westernized
+countries1,2
+and the number of cases is expected to rise as the population ages.3
+The vast majority of CRCs are found in patients without established CRC risk
+factors4
+who are diagnosed upon onset of symptoms or through routine screening.
+In Denmark, screening for CRC is not offered to the general public. In 2002, a new
+diagnostic strategy in symptomatic outpatients without known established CRC risk
+factors aged 40 or older and referred by general practitioners was implemented in
+Denmark. A fecal occult blood test (FOBT, Hemoccult Sensa®
+; Beckman Coulter
+Gmbh, Krefeld, Germany) was a part of the strategy in patients without visible rectal
+bleeding. Symptoms indicative of CRC – changes in bowel habits, abdominal pain.
+and unintentional loss of weight – are also prevalent both in the general population
+and in patients with benign disease,5–9
+differentiation between patients with CRC and
+those with benign disease is difficult. Using patient history alone as an indication
+Number of times this article has been viewed
+This article was published in the following Dove Press journal:
+Clinical Epidemiology
+18 September 2009
+Clinical Epidemiology 2009:1
+120
+Bjerregaard et al Dovepress
+submit your manuscript | www.dovepress.com
+Dovepress
+of CRC may lead many patients with benign conditions to
+undergo endoscopic examinations. Hemoccult Sensa®
+could
+be used as the initial diagnostic procedure for symptomatic
+outpatients without visible rectal bleeding.10
+Earlier studies of the usefulness of FOBT in detecting
+CRC among symptomatic patients reported sensitivities
+ranging from 69% to 100%, specificities ranging from 73%
+to 89%, and positive predictive values ranging from 7% to
+76%.10–14
+These studies either evaluated the Hemoccult and
+Hemoccult II tests, which are less sensitive to fecal blood
+than Hemoccult Sensa®
+, and/or did not take into consideration
+reason for colonoscopy referral (eg, symptoms or routine
+surveillance), risk profile (patients with vs patients without
+established CRC risk factors), or presence of visible rectal
+bleeding. We aimed to access the validity of Hemoccult
+Sensa®
+in symptomatic outpatients without known estab-
+lished CRC risk factors aged 40 years or older presenting
+without visible rectal bleeding, and who were referred by
+general practitioners, by estimating the sensitivity, specificity,
+and predictive values of Hemoccult Sensa®
+for CRC.
+Patients and methods
+This observational study took place in the surgical outpatient
+clinics at two public Danish hospitals in Aarhus County,
+Denmark (Randers Central Hospital [RCH] and Aarhus
+University Hospital [AUH]). These clinics are the primary
+referral centers in the two hospitals’ catchment areas for
+patients with symptoms consistent with CRC.
+As of January 1st, 2003, about 91% of the 433,000
+residents in the two hospitals’ catchment areas were of
+Danish origin. The entire population of Denmark receives
+tax-supported health care from the National Health
+Service, which allows free access to primary care (general
+practitioners) and to public hospitals. The study period was
+September 1st, 2002 to December 31st, 2003 in RCH and
+October 1st, 2002 to December 31st, 2003 in AUH.
+The study was approved by the local Scientific Ethics
+Committee and Danish Data Protection Agency.
+Identification of study participants
+At AUH, an author (NCB) reviewed all referrals to the
+surgical outpatient clinic. At RCH, a consultant reviewed
+the referrals. At the conclusion of enrolment, NCB examined
+case notes at RCH to ensure strict adherence to inclusion and
+exclusion criteria. Patients without known established CRC
+risk factors aged 40 years or older referred by the general
+practitioners, with symptoms consistent with CRC, were
+included in the study. Patients younger than 40 years and
+those with known established CRC risk factors (history of
+CRC or colorectal adenoma, inflammatory bowel disease,
+endometrial cancer, at least one first-degree relative under
+the age of 50 years with CRC or colorectal adenoma, familial
+hereditary nonpolyposis CRC, or familial adenomatous
+polyposis) were excluded. Eligible patients received a mailed
+questionnaire covering symptoms as well as CRC history
+among first-degree relatives. Completed questionnaires
+were collected during initial appointments at AUH or RCH.
+The examining endoscopist (surgeon or nurse) recorded the
+type of procedure performed (eg, flexible sigmoidoscopy
+[FS], colonoscopy, or FOBT) along with its findings on an
+examination form.
+Data from the questionnaire and the examination form
+were entered into a database. Patients who reported CRC
+in first-degree relatives younger than 50 years of age were
+excluded.
+From the database, we retrieved patients with available
+Hemoccult Sensa®
+test results who answered “no” or “don’t
+know” to the questionnaire item about rectal bleeding in the
+past 12 months. The date of the Hemoccult Sensa®
+test and its
+results were obtained from the departments of biochemistry at
+AUHandRCH.Thesetwodepartmentsanalyzedboththetests
+done by the general practitioners and the surgical outpatient
+clinics. Only patients with a Hemoccult Sensa®
+test performed
+within two months preceding referral, or with a Hemoccult
+Sensa®
+test performed as the initial investigation at the
+surgical outpatient clinics were included in the analyses.
+Fecal occult blood test
+The Hemoccult Sensa®
+test was distributed to patients either
+bytheirgeneralpractitionersbeforereferral,orbyhospitalstaff
+duringthefirstvisittothesurgicaloutpatientclinic.Todecrease
+false-positive and false-negative rates, patients were asked
+to abstain from red meat, cauliflower, tomato, paprika,
+horseradish, banana, melon, and soya beans (peroxidase-rich
+vegetables), and to avoid large amounts of other fresh fruit and
+rawvegetablesthreedaysbeforecollectionofthefirstspecimen
+and throughout the collection period. Except when treatment
+interruption entailed health risks, patients were also instructed
+to abstain from acetylsalicylic acid, other nonsteroidal
+anti-inflammatory drugs, adrenocortical hormones, and
+supplements containing iron and vitamin C. Stool specimens
+collected from three separate bowel movements were smeared
+on the Hemoccult Sensa®
+card windows and processed
+within six days of the final specimen collection.
+To standardize results and facilitate data collection,
+Hemoccult Sensa®
+test cards from the study patients were
+Clinical Epidemiology 2009:1 121
+Fecal occult blood test in symptomatic outpatients
+Dovepress
+submit your manuscript | www.dovepress.com
+Dovepress
+processed only by the participating hospitals’ Biochemistry
+Departments.15
+Identification of patients with cancer
+Endoscopic examinations
+If the Hemoccult Sensa®
+test was negative, a FS was
+recommended; additional examinations were performed if
+indicated by symptoms and findings at FS. Patients whose
+FS revealed polyps were referred for colonoscopy. When the
+Hemoccult Sensa®
+test result was positive, a colonoscopy was
+recommended. If a colonoscopy was incomplete a double-
+contrast barium enema (DBCE) or a virtual colonoscopy
+(VC) was performed.
+All FS’s were performed either by experienced nurse-
+endoscopists, surgeon-endoscopists (junior doctors and
+experienced surgeons). Colonoscopies were performed
+by experienced surgeon-endoscopists or by junior doctors
+supervised by an experienced surgeon-endoscopist.
+All biopsied or excised tumors were submitted for histo-
+pathological examination.
+Follow up to identify missed cancers
+Cases of CRC diagnosed after discharge from the surgical
+outpatient clinics and before January 1st, 2005 were consid-
+ered to have been missed during the diagnostic examinations.
+To detect such missed cancers, we searched computerized
+records from the hospital discharge registries of Aarhus
+County and two adjoining counties, Viborg and North Jutland
+Counties January 1st, 2005. These registries were previ-
+ously found to have high validity.16
+These population-based
+administrative public registries contain data on all nonpsy-
+chiatric hospital admissions since 1977, as well as data on
+outpatient and emergency visits since 1994. The registries
+include the unique personal identification numbers issued to
+all citizens of Denmark, as well as primary and secondary
+diagnoses coded by medical doctors at discharge according
+to the International Classification of Diseases (ICD). We used
+the following ICD, 10th revision (ICD-10) codes to identify
+patients with CRC at follow-up: DC18.0, DC18.2–18.9,
+DC19.9, and DC20.9.
+Patients were classified as having CRC if endoscopy
+detected a malignancy (confirmed by histopathological
+examination) or if CRC were detected during the follow-up
+period (confirmed by histopathological examination).
+Statistical analysis
+We estimated the sensitivity, specificity, positive predictive
+value (PPV), and negative predictive value (NPV) of
+Hemoccult Sensa®
+for CRC. Sensitivity was defined as
+the proportion of people with CRC who had a positive
+result on Hemoccult Sensa®
+; specificity was defined as
+the proportion of people without CRC who had a negative
+Hemoccult Sensa®
+; PPV was defined as the probability of
+CRC in a patient with a positive Hemoccult Sensa®
+; and
+NPV was defined as the probability of not having CRC given
+a negative Hemoccult Sensa®
+test.17
+The statistical analysis
+was performed with STATA 8.0 software (Stata Corporation,
+College Station, TX, USA).
+Results
+Two thousand four hundred eight outpatients without
+known established CRC risk factors aged 40 years or older
+with symptoms consistent with CRC were examined in
+the two surgical outpatient clinics during the study period.
+Twenty-six were excluded due to a questionnaire reporting
+of CRC in a first-degree relative aged younger than 50 years.
+Two hundred fifty-six patients who met the inclusion criteria
+for the present study (no self-reported rectal bleeding in the
+past 12 months, Hemoccult Sensa®
+test as the initial investi-
+gation) were retrieved from the database. The median age of
+study patients was 63 years (range 40–94 years) with 62.5%
+of the patients aged 60 years or older. One hundred and eight
+(42.2%) were men. The symptoms and signs reported by
+the patients are listed in Table 1 and the primary discharge
+diagnoses are listed in Table 2.
+In 11 patients, the colonoscopy was incomplete, and
+the patients subsequently received either a DCBE or a VC.
+One patient had FS and DBCE/VC, and 120 had only FS.
+Fifty-seven of the 256 patients had a positive Hemoccult
+Sensa®
+test, and of these 56 underwent colonoscopy;
+the 57th patient had a cancer diagnosed at a FS. Of the
+Table 1 Symptoms and signs reported by referred outpatients undergoing
+a Hemoccult Sensa®
+test as their initial examination
+Symptom/sign %
+Fatigue 42.9
+Weight loss 21.0
+Anemia 12.0
+Mucus discharge 23.7
+Change in frequency of bowel movements 61.3
+Change in consistency of stool 72.4
+Insufficient rectal emptying 50.4
+Abdominal pain 62.5
+Colorectal cancer in first-degree relatives
+older than 50 years of age
+8.0
+Clinical Epidemiology 2009:1
+122
+Bjerregaard et al Dovepress
+submit your manuscript | www.dovepress.com
+Dovepress
+199 patients with a negative Hemoccult Sensa®
+test, 119 had
+only FS, 79 had a colonoscopy, and one patient had FS and
+DBCE/VC. In total, 135 of the 256 eligible patients (52.7%)
+underwent colonoscopy.
+Eight cancers were diagnosed in the 256 patients (3.1%;
+95% confidence interval [CI]: 1.4%–6.1%). The tumor stages
+(according to Dukes), sites, and Hemoccult Sensa®
+test
+results are listed in Table 3. Of the six patients with cancer
+and positive Hemoccult Sensa®
+test, one had only FS and five
+underwent colonoscopy. One patient with cancer and negative
+Hemoccult Sensa®
+test underwent colonoscopy when found
+to have iron deficiency anemia. The other patient with CRC
+and a negative Hemoccult Sensa®
+test was diagnosed at a
+DCBE following an inadequate FS.
+No missed cancers were found at follow-up using the
+hospital discharge registries. Mean follow-up time was
+18.1 months (range 0.1–28.0 months).
+Six of the 57 patients with a positive Hemoccult Sensa®
+test were diagnosed with CRC (Table 2). Of the 199 patients
+with a negative Hemoccult Sensa®
+test, two were diagnosed
+with CRC. One patient with cancer also had a large adenoma
+(10 mm or larger). Of the 248 patients without cancer, 51 had
+a positive Hemoccult Sensa®
+test; ten of these were diagnosed
+with an adenoma, including six patients with adenomas
+10 mm or larger. Of the 80 patients with a negative Hemoccult
+Sensa®
+test and complete visualization of their colons, 30 had
+an adenoma of any size (six of these were 10 mm or larger).
+The PPV and NPV of Hemoccult Sensa®
+for CRC were
+10.5% (95% CI: 6.8–14.3) and 99.0% (95% CI: 97.8–100.0).
+Sensitivity and specificity of Hemoccult Sensa®
+for
+CRC were 75.0% (95% CI: 69.7–80.3) and 79.4% (95%
+CI: 74.5–84.4).
+In addition to the 256 study patients without visible rectal
+bleeding who were included in the present Hemoccult Sensa®
+validation study, 735 additional patients without visible rectal
+bleeding were examined who had no Hemoccult Sensa®
+,
+whose test was done after an endoscopic examination,
+or whose test took place more than two months before
+referral for endoscopic examination. Of these 735 patients,
+28 (3.8%; 95% CI: 2.5–5.5) were diagnosed with CRC
+during the study period and follow-up period.
+Discussion
+To the best of our knowledge, this study is the first to assess
+the diagnostic validity of Hemoccult Sensa®
+for CRC in
+symptomatic outpatients without known established CRC risk
+factors presenting without visible rectal bleeding. We found
+Hemoccult Sensa®
+to perform only relatively acceptable
+in distinguishing between patients with and without CRC,
+and for the time being we do not find it to be an acceptable
+alternative to FS as the initial examination.
+One of the most important strengths of our study, is
+that its participants were representative of the patient
+population targeted for use of Hemoccult Sensa®
+in
+Denmark. By excluding patients with known established
+CRC risk factors, the risk profile among study subjects
+was homogeneous. This is particularly important since
+the predictive value of a test depends on the prevalence of
+the disease in the population, and the prevalence of CRC
+is expected to be less in a population without established
+Table 2 Primary diagnoses at discharge of the 256 study patients
+by Hemoccult Sensa®
+result
+Primary diagnosis Positive
+(number)
+Negative
+(number)
+Colorectal cancer 6 2
+Adenoma 10 mm 6 6
+Adenoma 10 mm 4 26
+Nonneoplastic polyps 6 24
+Normal colon and rectum 22 98
+Diverticular disease 7 33
+Diverticulitis sequelae 1 2
+Colitis
+Crohn’s disease 0 1
+Ulcerative colitis 0 0
+Others 3 5
+Angiodysplasia 2 1
+Lymphoma 0 1
+Total 57 199
+Table 3 Tumor site and stage and Hemoccult Sensa®
+test results
+for the eight patients with colorectal cancer
+Tumor site Tumor stage Hemoccult
+Sensa®
+Rectum Dukes’ stage B Positive
+Rectum Dukes’ stage B Positive
+Sigmoid colon Dukes’ stage B Positive
+Sigmoid colon Adenocarcinoma in
+an adenoma (T1)a
+Positive
+Ascending colon Dukes’ stage D Negative
+Coecum Dukes’ stage B Positive
+Coecum Dukes’ stage B Positive
+Coecum and right
+flexure
+Dukes’ stage unknown.
+The patient had peritoneal
+dissemination
+Negative
+Note: a
+TNM classification.
+Clinical Epidemiology 2009:1 123
+Fecal occult blood test in symptomatic outpatients
+Dovepress
+submit your manuscript | www.dovepress.com
+Dovepress
+CRC risk factors than in a population with established CRC
+risk factors.17
+Also, the study focused on patients who did not report
+rectal bleeding. The probability of CRC in patients with
+visible rectal bleeding is higher than in patients without
+visible rectal bleeding, and visible rectal bleeding increases
+the likelihood of a positive FOBT.18
+Analysis of a pooled
+sample of patients both with and without visible rectal
+bleeding may not have provided useful information about
+the test’s value in each subgroup.
+Several potential study weaknesses must be noted.
+We attempted to control for differential recall by selecting
+patients on the basis of symptoms experienced and reported in
+the questionnaire before the first visit to the surgical outpatient
+clinics. We cannot exclude some selection bias, because a part
+of the 735 additional patients without visible rectal bleeding
+might have been referred directly to colonoscopy due to the
+severity or duration of the symptom. However, the prevalence
+of CRC among these additional patients was only slightly
+different from the prevalence in the study population.
+We included patients regardless of whether they had
+undergone a FOBT on the recommendation of their general
+practitioner. It is possible that patients with a negative
+Hemoccult Sensa®
+test performed in the general practice
+setting may have been less likely to receive a referral to a
+surgical outpatient clinic, while patients with severe symp-
+toms were more likely to be referred. If all patients who had
+a Hemoccult Sensa®
+test at the recommendation of their
+general practitioners were uniformly referred to the hospital
+clinics, the proportion of study participants with a negative
+Hemoccult Sensa®
+may have been higher.
+For a number of reasons, our calculation of the sensitivity
+of Hemoccult Sensa®
+for CRC is likely to be overestimated.
+First, because of the selective approach used in the standard
+diagnostic regimen, colonoscopy was performed in only
+about half of study patients. If all patients had undergone
+colonoscopy, we may have diagnosed more cases of proximal
+CRC. Second, a cancer missed by Hemoccult Sensa®
+might
+not have been detected within our study’s follow-up period.19
+Finally, CRC and adenomas are more likely to bleed than
+normal colon mucosa; interruption of anticoagulant therapy
+during stool collection was considered too risky, and this
+may have increased the rate of positive tests in especially
+study patients with neoplasm.
+To reduce the false-positive rate from ingested peroxidase,
+it is recommended that dietary and medication restrictions be
+imposed three days prior to starting the Hemoccult Sensa®
+test.20
+As we were unable to monitor patient adherence to
+these restrictions, low compliance may have contributed
+to the relatively low specificity and PPV for CRC.
+Adenomas smaller than 10 mm were more prevalent
+in patients with a negative Hemoccult Sensa®
+test than in
+patients with a positive test (13.1% vs 7.0%), suggesting
+that such adenomas may be found by chance, as indicated
+in another study.21
+An earlier study found that FOBT has a low sensitivity
+for detecting rectal cancer.11
+We were not able to confirm
+or disprove this finding, owing to our study’s limited
+sample size; however, all patients with rectal cancers had
+a positive Hemoccult Sensa®
+. This concordance may arise
+because Hemoccult Sensa®
+is a more sensitive test than
+Hemoccult and Hemoccult II.22,23
+Our estimated values of sensitivity, specificity, and PPV
+are consistent with those reported previously for different
+patient populations.13,14,24
+A study which examined Hemoccult
+Sensa®
+in a patient sample with the same CRC prevalence as
+in our study also found the same value for sensitivity. Unlike
+ours, that study included patients with one or fewer weekly
+episodes of visible bright red blood per rectum, thereby
+increasing the likelihood of a positive Hemoccult Sensa®
+.14
+Our PPV for CRC was similar to that reported for
+patients undergoing routine screening.24
+While this finding
+was unexpected, it may be explained by the fact that the vast
+majority of patients in the screening population were men,
+who are at increased risk of advanced polyps and cancers.25
+Our estimates of sensitivity, specificity, and PPV were very
+similar to that found in one study which evaluated the less
+sensitive test Hemoccult II in referred symptomatic patients.
+Unlike ours, that study included patients with established
+CRC risk factors and patients with rectal bleeding.13
+In conclusion, we found Hemoccult Sensa®
+only to have
+relatively acceptable sensitivity and specificity for CRC in
+symptomatic outpatients without known established CRC
+risk factors presenting without visible rectal bleeding.
+Moreover, a considerable number of patients with a positive
+test had no significant colorectal pathology. Thus, we do not
+find that Hemoccult Sensa®
+is an acceptable alternative to FS
+as the initial examination in symptomatic patients without
+known established CRC risk factors presenting without rectal
+bleeding, especially because FS is a safe examination, has a
+relatively high sensitivity for CRC and can be performed in
+outpatients without sedation and analgesia.
+Acknowledgments
+We thank the staff of the surgery outpatient clinics at Aarhus
+University Hospital and Randers Central Hospital, Denmark
+Clinical Epidemiology 2009:1
+Clinical Epidemiology
+Publish your work in this journal
+Submit your manuscript here: http://www.dovepress.com/clinical-epidemiology-journal
+Clinical Epidemiology is an international, peer-reviewed, open access
+journal focusing on disease and drug epidemiology, identification of
+risk factors and screening procedures to develop optimal preventative
+initiatives and programs. Specific topics include: diagnosis, prognosis,
+treatment, screening, prevention, risk factor modification, systematic
+reviews, risk & safety of medical interventions, epidemiology &
+biostatical methods, evaluation of guidelines, translational medicine,
+health policies & economic evaluations. The manuscript management
+system is completely online and includes a very quick and fair peer-
+review system, which is all easy to use.
+124
+Bjerregaard et al Dovepress
+submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+for participating in the study. Financial support for this study
+was provided by the Danish Cancer Society; AP Møller og
+Hustru Chastine Mc-Kinney Møllers Fond til almene Formaal;
+Erland Richard Frederiksen og Hustrus Legat; Meta og Håkon
+Baggers Fond, Max og Inger Wørzners Mindelegat; Aarhus
+Universitets Forskningsfond and Institute of Experimental
+Clinical Research, Aarhus University. All authors declare
+they have no personal financial or non-financial conflicts
+of interest.
+References
+1. Wilmink AB. Overview of the epidemiology of colorectal cancer.
+Dis Colon Rectum. 1997;40(4):483–493.
+2. Parkin DM, Pisani P, Ferlay J. Estimates of the worldwide incidence of
+eighteen major cancers in 1985. Int J Cancer. 1993;54(4):594–606.
+3. Møller B, Fekjaer H, Hakulinen T, et al. Prediction of cancer incidence
+in the Nordic countries up to the year 2020. Eur J Cancer Prev.
+2002;11 Suppl 1:S1–S96.
+4. Rudy DR, Zdon MJ. Update on colorectal cancer. Am Fam Physician.
+2000;61(6):1759–1764.
+5. Dent OF, Goulston KJ, Zubrzycki J, Chapuis PH. Bowel symptoms in an
+apparently well population. Dis Colon Rectum. 1986;29(4):243–247.
+6. Kay L, Jørgensen T, Schultz-Larsen K. Colon related symptoms in
+a 70-year-old Danish population. J Clin Epidemiol 1993;46(12):
+1445–1449.
+7. Talley NJ, O’Keefe EA, Zinsmeister AR, Melton LJ. Prevalence of
+gastrointestinal symptoms in the elderly: A population-based study.
+Gastroenterology. 1992;102(3):895–901.
+8. Crosland A, Jones R. Rectal bleeding: Prevalence and consultation
+behaviour. BMJ. 1995;311(7003):486–488.
+9. Everhart JE, Go VL, Johannes RS, Fitzsimmons SC, Roth HP,
+White LR. A longitudinal survey of self-reported bowel habits in the
+United States. Dig Dis Sci. 1989;34(8):1153–1162.
+10. Farrands PA, O’Regan D, Taylor I. An assessment of occult blood
+testing to determine which patients with large bowel symptoms
+require urgent investigation. Br J Surg. 1985;72(10):835–837.
+11. Leicester RJ, Lightfoot A, Millar J, Colin-Jones DG, Hunt RH. Accuracy
+and value of the Hemoccult test in symptomatic patients. Br Med J
+(Clin Res Ed). 1983;286(6366):673–674.
+12. Tate JJ, Northway J, Royle GT, Taylor I. Faecal occult blood testing
+in symptomatic patients: Comparison of three tests. Br J Surg. 1990;
+77(5):523–526.
+13. Niv Y, Sperber AD. Sensitivity, specificity, and predictive value of
+fecal occult blood testing (Hemoccult II) for colorectal neoplasia in
+symptomatic patients: a prospective study with total colonoscopy.
+Am J Gastroenterol. 1995;90(11):1974–1977.
+14. Greenberg PD, Bertario L, Gnauck R, et al. A prospective multicenter
+evaluation of new fecal occult blood tests in patients undergoing
+colonoscopy. Am J Gastroenterol. 2000;95(5):1331–1338.
+15. Sinatra MA, Young GP, St. John DJ, Blake D, Ratnaike S. A study of
+laboratory based faecal occult blood testing in Melbourne, Australia.
+The Faecal Occult Blood Testing Study Group. J Gastroenterol
+Hepatol. 1998;13(4):396–400.
+16. Andersen TF, Madsen M, Jorgensen J, Mellemkjoer L, Olsen JH. The
+Danish National Hospital Register. A valuable source of data for modern
+health sciences. Dan Med Bull. 1999;46(3):263–268.
+17. Fletcher RH, Fletcher SW, Wagner EH. Clinical epidemiology: the
+essentials. Lippincott Williams & Wilkins, 1996.
+18. Nakama H, Kayano T, Katsuura T, et al. Comparison of predictive
+value for colorectal cancer in subjects with and without rectal bleeding.
+Hepatogastroenterology. 1999;46(27):1730–1732.
+19. Allison JE, Feldman R, Tekawa IS. Hemoccult screening in detecting
+colorectal neoplasm: sensitivity, specificity, and predictive value.
+Long-term follow-up in a large group practice setting. Ann Intern Med.
+1990;112(5):328–333.
+20. Rozen P, Knaani J, Samuel Z. Eliminating the need for dietary
+restrictions when using a sensitive guaiac fecal occult blood test.
+Dig Dis Sci. 1999;44(4):756–760.
+21. Ransohoff DF, Lang CA. Small adenomas detected during fecal occult
+blood test screening for colorectal cancer. The impact of serendipity.
+JAMA. 1990;264(1):76–78.
+22. St. John DJ, Young GP, Alexeyeff MA, Deacon MC, Cuthbertson AM,
+Macrae FA, et al. Evaluation of new occult blood tests for detection of
+colorectal neoplasia. Gastroenterology. 1993;104(6):1661–1668.
+23. Petty MT, Deacon MC, Alexeyeff MA, St. John DJ, Young GP. Read-
+ability and sensitivity of a new faecal occult blood test in a hospital
+ward environment. Comparison with an established test. Med J Aust.
+1992;156(6):420–423.
+24. Ko CW, Dominitz JA, Nguyen TD. Fecal occult blood testing in
+a general medical clinic: comparison between guaiac-based and
+immunochemical-based tests. Am J Med. 2003;115(2):111–114.
+25. ImperialeTF,WagnerDR,LinCY,LarkinGN,RoggeJD,Ransohoff DF.
+Risk of advanced proximal neoplasms in asymptomatic adults accord-
+ing to the distal colorectal findings. N Engl J Med. 2000;343(3):
+169–174.

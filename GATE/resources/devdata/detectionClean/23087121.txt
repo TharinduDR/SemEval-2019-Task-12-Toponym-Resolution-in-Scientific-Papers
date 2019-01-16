@@ -1,0 +1,119 @@
+Genome Sequence of a Natural Reassortant H5N2 Avian Influenza
+Virus from Domestic Mallard Ducks in Eastern China
+Min Gu,a,b
+Junqing Huang,a
+Yuxin Chen,a
+Jian Chen,a
+Xiaoquan Wang,a,b
+Xiaowen Liu,a,b
+and Xiufan Liua,b
+Animal Infectious Disease Laboratory, College of Veterinary Medicine, Yangzhou University, Yangzhou, Jiangsu, China,a
+and Ministry of Education Key Lab for Avian
+Preventive Medicine, Yangzhou University, Yangzhou, Jiangsu, Chinab
+Here, we report the genomic sequence of a Chinese reassortant H5N2 avian influenza virus which possessed the polybasic motif
+PLREKRRK-R/GL at the hemagglutinin cleavage site. Phylogenetic analysis showed that all eight genes were of the Eurasian lin-
+eage, five of which were highly homologous to the endemic clade 2.3.4 H5N1 viruses and their H5N5 reassortant descendants.
+These data suggested that novel multisubtypic NA reassortants bearing the H5N1 backbone could be generated through genetic
+reassortment in H5N1 circulating regions, which will help in understanding the evolution and segment reassortment mecha-
+nism of H5 subtype avian influenza viruses.
+Avian influenza virus, a member of the family Orthomyxoviri-
+dae, is specified into 16 HA (hemagglutinin) subtypes and 9
+NA (neuraminidase) subtypes according to the antigenicity of the
+two surface glycoproteins HA and NA (7, 8). Among these, the
+H5N1 subtype combination of the Gs/GD lineage is of great con-
+cern, as it has caused disastrous damage to the poultry industry
+and has posed a serious threat to public health (7). In particular,
+the clade 2.3.4 Fujian-like H5N1 viruses have gradually became
+endemic in China since 2005 (3, 5) and continue to evolve actively
+in China, Vietnam, Laos, and neighboring regions (9). Further-
+more, they could even provide the backbones to generate a novel
+NA subtype of H5 highly pathogenic avian influenza (HPAI) vi-
+ruses, such as H5N5, via genetic reassortment (1).
+In this study, an H5N2 virus,                         
+(m234), was isolated from apparently healthy domestic mallard
+ducks in the Jiangsu Province of eastern China in January 2012. To
+characterize this strain in detail, we determined the whole genome
+sequence by reverse transcription-PCR performed with the uni-
+versal primer set (2) and by sequencing using the ABI 3730 DNA
+analyzer (Applied Biosystems).
+Eight negative-sense RNA segments, including PB2, PB1, PA,
+HA, NP, NA, M, and NS genes, constitute the viral genome, with
+full lengths of 2,341, 2,341, 2,233, 1,776, 1,565, 1,466, 1,027, and
+890 nucleotides, respectively. In contrast to the recently reported
+Chinese H5N2 isolates (4, 10), m234 carried the polybasic motif
+PLREKRRK-R/GL at the HA cleavage site, which was consistent
+with the molecular signature of HPAI virus. However, typical res-
+idues Q226 and G228 (H3 numbering) in the receptor binding
+pocket of HA protein indicated that m234 retained the avian-like
+SA 2,3Gal receptor preference. The 5-amino-acid deletion at po-
+sitions 80 to 84 of the NS1 protein, which has been proven to exist
+in more and more H5N1 viruses isolated from 2000 onwards (6),
+was not detected in m234.
+Phylogenetic analysis showed that all eight genes were of the
+Eurasian lineage. The PB2, PA, HA, NP, and M genes were highly
+homologous (97% to 98%) to the previously identified reassortant
+HPAI H5N5 viruses                               and
+                              (1) and their clade 2.3.4 H5N1
+progenitors                               and               
+              . The PB1 and NA genes shared the greatest DNA
+sequence identities (over 98%) with                      
+2009(H11N2), whereas the NS gene was most closely related (over
+95%) to                          (H7N1), which was iso-
+lated 2 decades ago. Therefore, we speculated that m234 may
+probably be reassorted from the above-mentioned duck origin
+avian influenza viruses. The isolation of this natural reassortant
+H5N2 virus further highlights that the genetic stability between
+the HA and NA subtype pairing of the clade 2.3.4 H5N1 HPAI
+viruses may have been disequilibrated to generate novel multisub-
+typic NA reassortants based on their genetic backbones.
+In conclusion, the genome information of                
+         (H5N2) will be helpful to study the evolution and seg-
+ment reassortment mechanism of H5 subtype avian influenza vi-
+rus in areas where the virus is endemic.
+Nucleotide sequence accession numbers. The genome se-
+quences of                         (H5N2) were deposited in
+GenBank under accession numbers     7352 to     7359.
+ACKNOWLEDGMENTS
+This work was supported by the Major State Basic Research Development
+Program of China (973 Program) (grant no. 2011    5003), the Na-
+tional Key Technologies R&D Program of China (no. 2010B    B01),
+the Priority Academic Program Development of Jiangsu Higher Educa-
+tion Institutions (PAPD), and the Program for Changjiang Scholars and
+Innovative Research Team in University (PCSIRT, I    78).
+          
+                                                                         
+                                                                          
+                                                                     
+                                                                              
+                     
+                                                                         
+                                                                    
+                                       
+                                                                        
+                                                                       
+     
+                                               
+                                                       
+                                                                         
+                        
+                   
+                                                                                      
+                                                                            
+                                                                         
+             
+                                                                   
+                                                                       
+                                           
+                                                                       
+                                                              
+                                                                
+                                                                         
+                                                                    
+                                                                    
+            
+                                                                        
+                                                                       
+                            
+                   
+                                     
+ 

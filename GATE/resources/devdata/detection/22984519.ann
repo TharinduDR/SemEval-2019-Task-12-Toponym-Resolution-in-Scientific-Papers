@@ -1,0 +1,245 @@
+T1	Location 70 77	Maracay
+#1	AnnotatorNotes T1	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T2	Location 79 88	Venezuela
+#2	AnnotatorNotes T2	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T48	Location 1249 1258	Venezuela
+#48	AnnotatorNotes T48	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T49	Location 1380 1387	Maracay
+#49	AnnotatorNotes T49	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T50	Location 1389 1398	Venezuela
+#50	AnnotatorNotes T50	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T52	Location 1543 1550	Maracay
+#52	AnnotatorNotes T52	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T53	Location 1552 1561	Venezuela
+#53	AnnotatorNotes T53	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T54	Location 2978 2985	Maracay
+#54	AnnotatorNotes T54	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T55	Location 2987 2996	Venezuela
+#55	AnnotatorNotes T55	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T70	Location 5059 5072	United States
+#70	AnnotatorNotes T70	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T71	Location 6177 6190	South America
+#71	AnnotatorNotes T71	<latlng>-14.60485,-57.65625</latlng><pop>357000000</pop><geoID>6255150</geoID>
+T72	Location 6463 6476	United States
+#72	AnnotatorNotes T72	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T76	Location 7650 7654	Peru
+#76	AnnotatorNotes T76	<latlng>-10,-76</latlng><geoID>3932488</geoID>
+T77	Location 7656 7662	Brazil
+#77	AnnotatorNotes T77	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T78	Location 7664 7671	Ecuador
+#78	AnnotatorNotes T78	<latlng>-2,-77.5</latlng><geoID>3658394</geoID>
+T79	Location 7673 7682	Nicaragua
+#79	AnnotatorNotes T79	<latlng>13,-85</latlng><geoID>3617476</geoID>
+T80	Location 7685 7693	Honduras
+#80	AnnotatorNotes T80	<latlng>15,-86.5</latlng><geoID>3608932</geoID>
+T81	Location 7699 7710	El Salvador
+#81	AnnotatorNotes T81	<latlng>13.8333,-88.9167</latlng><geoID>3585968</geoID>
+T82	Location 7783 7792	Sao Paulo
+#82	AnnotatorNotes T82	<latlng>-22,-49</latlng><pop>41252160</pop><geoID>3448433</geoID>
+T83	Location 7794 7800	Brazil
+#83	AnnotatorNotes T83	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T84	Location 8222 8229	Ecuador
+#84	AnnotatorNotes T84	<latlng>-2,-77.5</latlng><geoID>3658394</geoID>
+T85	Location 8348 8353	Quito
+#85	AnnotatorNotes T85	<latlng>-0.22985,-78.52495</latlng><pop>1399814</pop><geoID>3652462</geoID>
+T86	Location 8497 8506	Guayaquil
+#86	AnnotatorNotes T86	<latlng>-2.20584,-79.90795</latlng><pop>1952029</pop><geoID>3657509</geoID>
+T88	Location 8894 8907	South America
+#88	AnnotatorNotes T88	<latlng>-14.60485,-57.65625</latlng><pop>357000000</pop><geoID>6255150</geoID>
+T89	Location 9124 9133	Venezuela
+#89	AnnotatorNotes T89	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T94	Location 9597 9606	Venezuela
+#94	AnnotatorNotes T94	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T95	Location 9949 9956	Maracay
+#95	AnnotatorNotes T95	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T96	Location 9959 9968	Venezuela
+#96	AnnotatorNotes T96	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T104	Location 13745 13752	Maracay
+#104	AnnotatorNotes T104	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T105	Location 13754 13763	Venezuela
+#105	AnnotatorNotes T105	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T106	Location 14224 14233	Venezuela
+#106	AnnotatorNotes T106	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T108	Location 14308 14321	South America
+#108	AnnotatorNotes T108	<latlng>-14.60485,-57.65625</latlng><pop>357000000</pop><geoID>6255150</geoID>
+T8	Location 14516 14529	Latin America
+#8	AnnotatorNotes T8	<latlng>-8.05923,-72.59766</latlng><pop>0</pop><geoID>7730009</geoID>
+T116	Location 16662 16668	Mexico
+#116	AnnotatorNotes T116	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T117	Location 17134 17141	Maracay
+#117	AnnotatorNotes T117	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T118	Location 17143 17152	Venezuela
+#118	AnnotatorNotes T118	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T130	Location 18254 18261	Maracay
+#130	AnnotatorNotes T130	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T131	Location 18263 18272	Venezuela
+#131	AnnotatorNotes T131	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T132	Location 20114 20123	Venezuela
+#132	AnnotatorNotes T132	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T133	Location 20503 20512	Venezuela
+#133	AnnotatorNotes T133	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T134	Location 20692 20699	Maracay
+#134	AnnotatorNotes T134	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T137	Location 21989 21996	Maracay
+#137	AnnotatorNotes T137	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T138	Location 21999 22008	Venezuela
+#138	AnnotatorNotes T138	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T140	Location 23435 23442	Maracay
+#140	AnnotatorNotes T140	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T141	Location 23444 23453	Venezuela
+#141	AnnotatorNotes T141	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T142	Location 23557 23564	Maracay
+#142	AnnotatorNotes T142	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T143	Location 23566 23575	Venezuela
+#143	AnnotatorNotes T143	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T144	Location 24468 24475	Maracay
+#144	AnnotatorNotes T144	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T145	Location 24477 24486	Venezuela
+#145	AnnotatorNotes T145	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T149	Location 24864 24875	El Salvador
+#149	AnnotatorNotes T149	<latlng>13.8333,-88.9167</latlng><geoID>3585968</geoID>
+T150	Location 24877 24885	Honduras
+#150	AnnotatorNotes T150	<latlng>15,-86.5</latlng><geoID>3608932</geoID>
+T151	Location 24891 24900	Nicaragua
+#151	AnnotatorNotes T151	<latlng>13,-85</latlng><geoID>3617476</geoID>
+T152	Location 24958 24967	Indonesia
+#152	AnnotatorNotes T152	<latlng>-5,120</latlng><geoID>1643084</geoID>
+T153	Location 25180 25186	Taiwan
+#153	AnnotatorNotes T153	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T154	Location 25534 25547	South America
+#154	AnnotatorNotes T154	<latlng>-14.60485,-57.65625</latlng><pop>357000000</pop><geoID>6255150</geoID>
+T155	Location 25596 25600	Peru
+#155	AnnotatorNotes T155	<latlng>-10,-76</latlng><geoID>3932488</geoID>
+T156	Location 26601 26608	Maracay
+#156	AnnotatorNotes T156	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T157	Location 27121 27128	Maracay
+#157	AnnotatorNotes T157	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T158	Location 27130 27139	Venezuela
+#158	AnnotatorNotes T158	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T159	Location 27235 27242	Maracay
+#159	AnnotatorNotes T159	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T160	Location 27244 27253	Venezuela
+#160	AnnotatorNotes T160	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T161	Location 27391 27400	Venezuela
+#161	AnnotatorNotes T161	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T162	Location 27569 27574	Zulia
+#162	AnnotatorNotes T162	<latlng>10.0,-72.16667</latlng><pop>0</pop><geoID>3625035</geoID>
+T163	Location 27577 27586	Venezuela
+#163	AnnotatorNotes T163	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T165	Location 27987 28000	South America
+#165	AnnotatorNotes T165	<latlng>-14.60485,-57.65625</latlng><pop>357000000</pop><geoID>6255150</geoID>
+T170	Location 29868 29877	Guatemala
+#170	AnnotatorNotes T170	<latlng>15.5,-90.25</latlng><geoID>3595528</geoID>
+T171	Location 29884 29888	Peru
+#171	AnnotatorNotes T171	<latlng>-10,-76</latlng><geoID>3932488</geoID>
+T172	Location 29895 29904	Argentina
+#172	AnnotatorNotes T172	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T173	Location 29915 29921	Brazil
+#173	AnnotatorNotes T173	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T174	Location 29996 30005	Venezuela
+#174	AnnotatorNotes T174	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T175	Location 30790 30797	Maracay
+#175	AnnotatorNotes T175	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T176	Location 30865 30872	Maracay
+#176	AnnotatorNotes T176	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T177	Location 30874 30883	Venezuela
+#177	AnnotatorNotes T177	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T178	Location 31355 31362	Ecuador
+#178	AnnotatorNotes T178	<latlng>-2,-77.5</latlng><geoID>3658394</geoID>
+T7	Location 31527 31542	Central America
+#7	AnnotatorNotes T7	<latlng>25.32417,-99.66797</latlng><pop>43308660</pop><geoID>7729892</geoID>
+T180	Location 34416 34423	Maracay
+#180	AnnotatorNotes T180	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T181	Location 34426 34435	Venezuela
+#181	AnnotatorNotes T181	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T182	Location 34742 34749	Maracay
+#182	AnnotatorNotes T182	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T183	Location 34751 34760	Venezuela
+#183	AnnotatorNotes T183	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T186	Location 36907 36914	Maracay
+#186	AnnotatorNotes T186	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T187	Location 36916 36925	Venezuela
+#187	AnnotatorNotes T187	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T189	Location 37039 37046	Maracay
+#189	AnnotatorNotes T189	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T190	Location 37092 37101	Venezuela
+#190	AnnotatorNotes T190	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T192	Location 37516 37524	Girardot
+#192	AnnotatorNotes T192	<latlng>10.41667,-67.66667</latlng><pop>0</pop><geoID>3640595</geoID>
+T195	Location 37904 37911	Maracay
+#195	AnnotatorNotes T195	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T196	Location 37955 37961	Aragua
+#196	AnnotatorNotes T196	<latlng>10.0,-67.16667</latlng><pop>0</pop><geoID>3649110</geoID>
+T202	Location 39580 39593	Silver Spring
+#202	AnnotatorNotes T202	<latlng>39.00424,-77.01900</latlng><pop>71452</pop><geoID>4369596</geoID>
+T203	Location 39596 39604	Maryland
+#203	AnnotatorNotes T203	<latlng>39.00039,-76.74997</latlng><pop>5624246</pop><geoID>4361885</geoID>
+T206	Location 39865 39874	Venezuela
+#206	AnnotatorNotes T206	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T207	Location 39942 39949	Maracay
+#207	AnnotatorNotes T207	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T208	Location 39951 39960	Venezuela
+#208	AnnotatorNotes T208	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T211	Location 41290 41294	Lima
+#211	AnnotatorNotes T211	<latlng>-11.85,-76.45</latlng><pop>8481415</pop><geoID>3936452</geoID>
+T212	Location 41296 41300	Peru
+#212	AnnotatorNotes T212	<latlng>-10,-76</latlng><geoID>3932488</geoID>
+T217	Location 41573 41580	Maracay
+#217	AnnotatorNotes T217	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T222	Location 43143 43149	Athens
+#222	AnnotatorNotes T222	<latlng>39.32924,-82.10126</latlng><pop>23832</pop><geoID>4505542</geoID>
+T234	Location 46845 46854	Venezuela
+#234	AnnotatorNotes T234	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T238	Location 47601 47608	Maracay
+#238	AnnotatorNotes T238	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T239	Location 47610 47619	Venezuela
+#239	AnnotatorNotes T239	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T245	Location 48395 48402	Austria
+#245	AnnotatorNotes T245	<latlng>47.3333,13.3333</latlng><geoID>2782113</geoID>
+T246	Location 48546 48553	Maracay
+#246	AnnotatorNotes T246	<latlng>10.24694,-67.59583</latlng><pop>1754256</pop><geoID>3632998</geoID>
+T247	Location 48555 48564	Venezuela
+#247	AnnotatorNotes T247	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T9	Location 37530 37543;37544 37555	Mario Bricen ~o Iragorry
+#9	AnnotatorNotes T9	<latlng>10.30028,-67.63361</latlng><pop>103269</pop><geoID>8131393</geoID>
+T10	Location 41582 41591	Venezuela
+#10	AnnotatorNotes T10	<latlng>8,-66</latlng><geoID>3625428</geoID>
+T11	Location 43151 43153	OH
+#11	AnnotatorNotes T11	<latlng>40.25034,-83.00018</latlng><pop>11467123</pop><geoID>5165418</geoID>
+T13	Location 45720 45722	CA
+#13	AnnotatorNotes T13	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T14	Location 48387 48393	Vienna
+#14	AnnotatorNotes T14	<latlng>48.2082,16.37169</latlng><pop>1569316</pop><geoID>2761367</geoID>
+T15	Location 47162 47173	Englishtown
+#15	AnnotatorNotes T15	<latlng>40.29733,-74.3582</latlng><pop>1847</pop><geoID>5097686</geoID>
+T16	Location 47175 47177	NJ
+#16	AnnotatorNotes T16	<latlng>40.16706,-74.49987</latlng><pop>8751436</pop><geoID>5101760</geoID>
+T19	Location 28777 28784;28785 28788	Michi-gan
+#19	AnnotatorNotes T19	<latlng>44.25029,-85.50033</latlng><pop>9883360</pop><geoID>5001836</geoID>
+T20	Location 47272 47283	Foster City
+#20	AnnotatorNotes T20	<latlng>37.55855,-122.27108</latlng><pop>30567</pop><geoID>5350159</geoID>
+T21	Location 47285 47287	CA
+#21	AnnotatorNotes T21	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T22	Location 47425 47436	Foster City
+#22	AnnotatorNotes T22	<latlng>37.55855,-122.27108</latlng><pop>30567</pop><geoID>5350159</geoID>
+T23	Location 47438 47440	CA
+#23	AnnotatorNotes T23	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T24	Location 48327 48334	Chicago
+#24	AnnotatorNotes T24	<latlng>41.85003,-87.65005</latlng><pop>2695598</pop><geoID>4887398</geoID>
+T25	Location 48336 48338	IL
+#25	AnnotatorNotes T25	<latlng>40.00032,-89.25037</latlng><pop>12772888</pop><geoID>4896861</geoID>
+T3	Protein 101 110	Guillermo
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1084 1093	Venezuela
+#4	AnnotatorNotes T4	END
+T5	Protein 48603 48618	Acknowledgments
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 57347 57353	e44511
+#6	AnnotatorNotes T6	END
+T17	Protein 3228 3236	Citation
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 4373 4376	com
+#18	AnnotatorNotes T18	END
+T26	Location 45708 45712;45713 45718	San
+ Diego
+#26	AnnotatorNotes T26	<latlng>33.0282, -116.77021</latlng><geoID>5391832</geoID><pop>3095313</pop>

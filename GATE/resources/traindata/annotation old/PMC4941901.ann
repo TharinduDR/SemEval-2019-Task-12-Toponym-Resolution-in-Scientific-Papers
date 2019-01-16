@@ -1,0 +1,144 @@
+T1	Protein 96 104	Nobuhiro
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 865 866	.
+#2	AnnotatorNotes T2	END
+T3	Protein 2556 2564	Keywords
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 2816 2817	.
+#4	AnnotatorNotes T4	END
+T5	Protein 4674 4677	DOI
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4890 4893	181
+#6	AnnotatorNotes T6	END
+T7	Protein 10476 10483	Takemae
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10615 10618	189
+#8	AnnotatorNotes T8	END
+T9	Protein 16246 16252	ª 2008
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 16370 16373	183
+#10	AnnotatorNotes T10	END
+T11	Protein 18686 18693	Takemae
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 18825 18828	189
+#12	AnnotatorNotes T12	END
+T13	Protein 21213 21214	ª
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 21337 21340	185
+#14	AnnotatorNotes T14	END
+T15	Protein 24132 24139	Takemae
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 24271 24274	189
+#16	AnnotatorNotes T16	END
+T17	Protein 26140 26141	ª
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 26264 26267	187
+#18	AnnotatorNotes T18	END
+T19	Protein 32031 32038	Takemae
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 38714 38717	189
+#20	AnnotatorNotes T20	END
+T21	Location 87 95	Thailand
+#21	AnnotatorNotes T21	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T22	Location 993 1001	Thailand
+#22	AnnotatorNotes T22	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T23	Location 2874 2887	United States
+#23	AnnotatorNotes T23	<latlng>39.76, -98.5</latlng> <geoID>6252001 </geoID><pop>310232863</pop>
+T24	Location 3560 3566	Europe
+#24	AnnotatorNotes T24	<latlng>48.69096, 9.14062</latlng> <geoID>6255148 </geoID>
+T25	Location 3927 3930	USA
+#25	AnnotatorNotes T25	<latlng>39.76, -98.5</latlng> <geoID>6252001 </geoID><pop>310232863<pop>
+T26	Location 4043 4048;4049 4056	North America
+#26	AnnotatorNotes T26	<latlng>46.07323, -100.54688</latlng> <geoID>6255149 </geoID>
+T27	Location 4133 4139	Canada
+#27	AnnotatorNotes T27	<latlng>60.10867, -113.64258</latlng> <geoID>6251999 </geoID><pop>33679000</pop>
+T28	Location 4206 4211	China
+#28	AnnotatorNotes T28	<latlng>35, 105</latlng> <geoID>1814991 </geoID><pop>1330044000</pop>
+T29	Location 4914 4922	Thailand
+#29	AnnotatorNotes T29	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T30	Location 5017 5025	Thailand
+#30	AnnotatorNotes T30	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T31	Location 5467 5475	Thailand
+#31	AnnotatorNotes T31	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T32	Location 5530 5538	Thailand
+#32	AnnotatorNotes T32	<latlng>15.5, 101</latlng> <geoID> 1605651</geoID><pop>67089500</pop>
+T33	Location 5627 5635	Thailand
+#33	AnnotatorNotes T33	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T34	Location 5753 5761	Thailand
+#34	AnnotatorNotes T34	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T35	Location 5838 5846	Thailand
+#35	AnnotatorNotes T35	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T36	Location 6974 6982	Thailand
+#36	AnnotatorNotes T36	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T37	Location 7027 7035	Thailand
+#37	AnnotatorNotes T37	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T38	Location 7121 7129	Thailand
+#38	AnnotatorNotes T38	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T39	Location 7173 7181	Thailand
+#39	AnnotatorNotes T39	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T41	Location 8997 9003;9004 9008	Foster City
+#41	AnnotatorNotes T41	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T42	Location 9101 9104	USA
+#42	AnnotatorNotes T42	<latlng>39.76, -98.5</latlng> <geoID>6252001 </geoID><pop>310232863</pop>
+T43	Location 11259 11267	Thailand
+#43	AnnotatorNotes T43	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T44	Location 16237 16245	Thailand
+#44	AnnotatorNotes T44	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T45	Location 21204 21212	Thailand
+#45	AnnotatorNotes T45	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T46	Location 21481 21487	Europe
+#46	AnnotatorNotes T46	<latlng>48.69096, 9.14062</latlng> <geoID>6255148 </geoID>
+T47	Location 21527 21535	Thailand
+#47	AnnotatorNotes T47	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T48	Location 21568 21574	Europe
+#48	AnnotatorNotes T48	<latlng>48.69096, 9.14062</latlng> <geoID>6255148 </geoID>
+T49	Location 21587 21600	North America
+#49	AnnotatorNotes T49	<latlng>46.07323, -100.54688</latlng> <geoID>6255149 </geoID>
+T50	Location 22099 22105	Europe
+#50	AnnotatorNotes T50	<latlng>48.69096, 9.14062</latlng> <geoID>6255148 </geoID>
+T51	Location 22187 22193	Europe
+#51	AnnotatorNotes T51	<latlng>48.69096, 9.14062</latlng> <geoID>6255148 </geoID>
+T52	Location 24440 24453	North America
+#52	AnnotatorNotes T52	<latlng>46.07323, -100.54688</latlng> <geoID>6255149 </geoID>
+T53	Location 24870 24875	China
+#53	AnnotatorNotes T53	<latlng>35, 105</latlng> <geoID>1814991 </geoID><pop>1330044000</pop>
+T54	Location 25732 25737	U.S.A
+#54	AnnotatorNotes T54	<latlng>39.76, -98.5</latlng> <geoID>6252001 </geoID><pop>310232863</pop>
+T55	Location 25763 25768	Japan
+#55	AnnotatorNotes T55	<latlng>35.68536, 139.75309</latlng> <geoID>1861060</geoID><pop>127288000</pop>
+T56	Location 26131 26139	Thailand
+#56	AnnotatorNotes T56	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T57	Location 26495 26504	Hong Kong
+#57	AnnotatorNotes T57	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID><pop>7012738</pop>
+T58	Location 26614 26619	China
+#58	AnnotatorNotes T58	<latlng>35, 105</latlng> <geoID>1814991 </geoID><pop>1330044000</pop>
+T59	Location 26729 26734	China
+#59	AnnotatorNotes T59	<latlng>35, 105</latlng> <geoID>1814991 </geoID><pop>1330044000</pop>
+T60	Location 26875 26880	China
+#60	AnnotatorNotes T60	<latlng>35, 105</latlng> <geoID>1814991 </geoID><pop>1330044000</pop>
+T61	Location 26902 26910	Thailand
+#61	AnnotatorNotes T61	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T62	Location 28896 28902	Europe
+#62	AnnotatorNotes T62	<latlng>48.69096, 9.14062</latlng> <geoID>6255148 </geoID>
+T63	Location 29424 29432	Thailand
+#63	AnnotatorNotes T63	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T64	Location 30075 30080	China
+#64	AnnotatorNotes T64	<latlng>35, 105</latlng> <geoID>1814991 </geoID><pop>1330044000</pop>
+T65	Location 30087 30095	Thailand
+#65	AnnotatorNotes T65	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T66	Location 30912 30920	Thailand
+#66	AnnotatorNotes T66	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T67	Location 30939 30947	Thailand
+#67	AnnotatorNotes T67	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T68	Location 31752 31760	Thailand
+#68	AnnotatorNotes T68	<latlng>15.5, 101</latlng> <geoID>1605651 </geoID><pop>67089500</pop>
+T40	Location 8839 8845	Hilden
+#40	AnnotatorNotes T40	<latlng> 51.16818, 6.93093 </latlng> <geoID>6557500 </geoID> <pop> 56565 </pop>
+T69	Location 8847 8854	Germany
+#69	AnnotatorNotes T69	<latlng> 51.5, 10.5 </latlng> <geoID>2921044 </geoID> <pop> 81802257 </pop>
+T70	Location 8548 8553;8554 8561	Swit- zerland
+#70	AnnotatorNotes T70	<latlng> 47.00016, 8.01427 </latlng> <geoID>2658434 </geoID> <pop> 7510000 </pop> 
+T71	Location 9014 9017	USA
+#71	AnnotatorNotes T71	<latlng>39.76, -98.5 </latlng> <geoID>6252001 </geoID> <pop> 310232863 </pop>
+T72	Location 9010 9012	CA
+#72	AnnotatorNotes T72	<latlng> 37.25022, -119.75126 </latlng> <geoID>5332921 </geoID> <pop> 37691912 </pop>

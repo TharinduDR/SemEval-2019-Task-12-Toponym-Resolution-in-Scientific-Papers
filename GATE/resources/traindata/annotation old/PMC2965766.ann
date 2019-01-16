@@ -1,0 +1,312 @@
+T1	Protein 63 69	Chiraz
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 1666 1673	America
+#2	AnnotatorNotes T2	END
+T3	Protein 2780 2788	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 4231 4233	fr
+#4	AnnotatorNotes T4	END
+T5	Protein 6444 6448	PLoS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6522 6530	e1001166
+#6	AnnotatorNotes T6	END
+T7	Protein 14358 14362	PLoS
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 14436 14444	e1001166
+#8	AnnotatorNotes T8	END
+T9	Protein 16229 16233	PLoS
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 16307 16315	e1001166
+#10	AnnotatorNotes T10	END
+T11	Protein 16161 16164	doi
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 16223 16228	Virus
+#12	AnnotatorNotes T12	END
+T13	Protein 17710 17713	The
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 17928 17936	e1001166
+#14	AnnotatorNotes T14	END
+T15	Protein 24054 24057	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 24200 24208	e1001166
+#16	AnnotatorNotes T16	END
+T17	Protein 26263 26266	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 26409 26417	e1001166
+#18	AnnotatorNotes T18	END
+T19	Protein 27653 27656	doi
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 27799 27807	e1001166
+#20	AnnotatorNotes T20	END
+T21	Protein 35298 35307	Dispersal
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 35406 35414	e1001166
+#22	AnnotatorNotes T22	END
+T23	Protein 37027 37037	Supporting
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 45133 45141	e1001166
+#24	AnnotatorNotes T24	END
+T25	Location 1941 1953	North Africa
+#25	AnnotatorNotes T25	<latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID><pop>210800000</pop>
+T26	Location 4515 4519	Asia
+#26	AnnotatorNotes T26	<latlng>29.84064, 89.29688</latlng><geoID>6255147 </geoID><pop>3812366000</pop>
+T27	Location 4524 4530	Africa
+#27	AnnotatorNotes T27	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T28	Location 4636 4642	Africa
+#28	AnnotatorNotes T28	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T29	Location 5813 5825	North Africa
+#29	AnnotatorNotes T29	<latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID><pop>210800000</pop>
+T30	Location 6222 6229	Algeria
+#30	AnnotatorNotes T30	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T31	Location 6231 6238	Morocco
+#31	AnnotatorNotes T31	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T32	Location 6240 6247	Tunisia
+#32	AnnotatorNotes T32	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T33	Location 6281 6293	North Africa
+#33	AnnotatorNotes T33	<latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID><pop>210800000</pop>
+T34	Location 6295 6300	Ceuta
+#34	AnnotatorNotes T34	<latlng>35.89028, -5.3075</latlng><geoID>2519582 </geoID><pop>78674</pop>
+T35	Location 6305 6312	Melilla
+#35	AnnotatorNotes T35	<latlng>35.29215, -2.94434</latlng><geoID>6362988 </geoID><pop>73460</pop>
+T36	Location 7181 7193	North Africa
+#36	AnnotatorNotes T36	<latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID><pop>210800000</pop>
+T37	Location 7261 7268	Algeria
+#37	AnnotatorNotes T37	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T38	Location 7270 7277	Morocco
+#38	AnnotatorNotes T38	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T39	Location 7282 7289	Tunisia
+#39	AnnotatorNotes T39	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T40	Location 8128 8135	Algeria
+#40	AnnotatorNotes T40	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T41	Location 8145 8152	Morocco
+#41	AnnotatorNotes T41	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T42	Location 8449 8456	Morocco
+#42	AnnotatorNotes T42	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T43	Location 8437 8444	Algeria
+#43	AnnotatorNotes T43	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T44	Location 8750 8757	Algeria
+#44	AnnotatorNotes T44	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T45	Location 8762 8769	Morocco
+#45	AnnotatorNotes T45	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T46	Location 8911 8917	Africa
+#46	AnnotatorNotes T46	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T47	Location 9271 9278	Algeria
+#47	AnnotatorNotes T47	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T48	Location 9258 9265	Morocco
+#48	AnnotatorNotes T48	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T49	Location 9315 9322	Morocco
+#49	AnnotatorNotes T49	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T50	Location 11430 11437	Algeria
+#50	AnnotatorNotes T50	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T51	Location 11710 11717	Algeria
+#51	AnnotatorNotes T51	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T52	Location 11698 11705	Morocco
+#52	AnnotatorNotes T52	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T53	Location 12074 12081	Algeria
+#53	AnnotatorNotes T53	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T54	Location 12297 12304	Morocco
+#54	AnnotatorNotes T54	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T55	Location 13395 13399	Asia
+#55	AnnotatorNotes T55	<latlng>29.84064, 89.29688</latlng><geoID>6255147 </geoID><pop>3812366000</pop>
+T56	Location 13407 13413	Africa
+#56	AnnotatorNotes T56	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T57	Location 13739 13751	North Africa
+#57	AnnotatorNotes T57	<latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID><pop>210800000</pop>
+T58	Location 14249 14255	Africa
+#58	AnnotatorNotes T58	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T59	Location 16008 16013	Ceuta
+#59	AnnotatorNotes T59	<latlng>35.89028, -5.3075</latlng><geoID>2519582 </geoID><pop>78674</pop>
+T60	Location 15996 16003	Melilla
+#60	AnnotatorNotes T60	<latlng>35.29215, -2.94434</latlng><geoID>6362988 </geoID><pop>73460</pop>
+T61	Location 16389 16396	Algeria
+#61	AnnotatorNotes T61	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T62	Location 16401 16408	Morocco
+#62	AnnotatorNotes T62	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T63	Location 17021 17028	Morocco
+#63	AnnotatorNotes T63	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T64	Location 17009 17016	Algeria
+#64	AnnotatorNotes T64	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T65	Location 18582 18589	Algeria
+#65	AnnotatorNotes T65	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T66	Location 18594 18601	Morocco
+#66	AnnotatorNotes T66	<latlng>32, -6</latlng><geoID>2542007 </geoID> <pop>33848242</pop>
+T67	Location 18931 18938	Morocco
+#67	AnnotatorNotes T67	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T68	Location 18919 18926	Algeria
+#68	AnnotatorNotes T68	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T70	Location 19656 19665	Indonesia
+#70	AnnotatorNotes T70	<latlng>-5, 120</latlng><geoID>1643084 </geoID><pop>242968342</pop>
+T71	Location 19669 19682	Flores Island
+#71	AnnotatorNotes T71	<latlng>-8.62354, 121.12899</latlng><geoID>9062332 </geoID><pop>1500000</pop>
+T72	Location 19692 19696	Bali
+#72	AnnotatorNotes T72	<latlng>-8.5, 115</latlng><geoID>1650535 </geoID><pop>3890757</pop>
+T73	Location 19751 19757	Europe
+#73	AnnotatorNotes T73	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID>
+T74	Location 20114 20121	Algeria
+#74	AnnotatorNotes T74	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T75	Location 20126 20133	Morocco
+#75	AnnotatorNotes T75	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T76	Location 21199 21204;21205 21211	North Africa
+#76	AnnotatorNotes T76	North Africa <latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID><pop>210800000</pop>
+T77	Location 21564 21571	Algeria
+#77	AnnotatorNotes T77	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T78	Location 21576 21583	Morocco
+#78	AnnotatorNotes T78	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T79	Location 21669 21678	Ain Defla
+#79	AnnotatorNotes T79	<latlng>36.16667, 2.16667</latlng><geoID>2508226 </geoID><pop>76601</pop>
+T80	Location 21691 21697	Agadir
+#80	AnnotatorNotes T80	<latlng>30.42013, -9.59802</latlng><geoID>6545515 </geoID><pop>344422</pop>
+T81	Location 21710 21715	Alger
+#81	AnnotatorNotes T81	<latlng>36.74053, 3.00957</latlng><geoID>2507475 </geoID><pop>2988145</pop>
+T82	Location 21730 21740	Al Hoceima
+#82	AnnotatorNotes T82	<latlng>35, -4.25</latlng><geoID>2558543 </geoID><pop>399654</pop>
+T83	Location 21753 21758	Batna
+#83	AnnotatorNotes T83	<latlng>35.5, 5.91667</latlng><geoID>2505569 </geoID><pop>1119791</pop>
+T84	Location 21771 21777	Azilal
+#84	AnnotatorNotes T84	<latlng>31.91667, -6.5</latlng><geoID>2556569 </geoID><pop>554001</pop>
+T85	Location 21790 21796	Bejaia
+#85	AnnotatorNotes T85	<latlng>36.66667, 4.91667</latlng><geoID>2505325 </geoID><pop>912577</pop>
+T86	Location 21809 21820	Beni Mellal
+#86	AnnotatorNotes T86	<latlng>32.3264, -6.3089</latlng><geoID>11281878 </geoID><pop>2520776</pop>
+T87	Location 21833 21839	Biskra
+#87	AnnotatorNotes T87	<latlng>34.66667, 5.41667</latlng><geoID>2503822 </geoID><pop>721356</pop>
+T88	Location 21852 21862	Benslimane
+#88	AnnotatorNotes T88	<latlng>33.5, -7.16667</latlng><geoID>2555517 </geoID><pop>233123</pop>
+T89	Location 21875 21880	Blida
+#89	AnnotatorNotes T89	<latlng>36.58333, 3</latlng><geoID>2503765 </geoID><pop>1002937</pop>
+T90	Location 21896 21903	Berkane
+#90	AnnotatorNotes T90	<latlng>34.61, -2.57</latlng><geoID>6547287 </geoID><pop>289137</pop>
+T91	Location 21916 21933	Borj Bou Arreridj
+#91	AnnotatorNotes T91	<latlng>36.08333, 4.75</latlng><geoID>2503699 </geoID><pop>168346</pop>
+T92	Location 21946 21950	Casa
+#92	AnnotatorNotes T92	<latlng>33.58831, -7.61138</latlng><geoID>2553604 </geoID><pop>3144909</pop>
+T93	Location 21963 21969	Bouira
+#93	AnnotatorNotes T93	<latlng>36.25, 3.91667</latlng><geoID>2502951 </geoID><pop>695583</pop>
+T94	Location 21982 21991	Chichaoua
+#94	AnnotatorNotes T94	<latlng>31.26365, -8.84411</latlng><geoID>6547284 </geoID><pop>369955</pop>
+T95	Location 22004 22013	Boumerdes
+#95	AnnotatorNotes T95	<latlng>36.75, 3.66667</latlng><geoID>2502638 </geoID><pop>802083</pop>
+T96	Location 22028 22036	El Hajeb
+#96	AnnotatorNotes T96	<latlng>33.72883, -5.46119</latlng><geoID>6547296 </geoID><pop>247016</pop>
+T97	Location 22049 22054	Chlef
+#97	AnnotatorNotes T97	<latlng>36.25, 1.25</latlng><geoID>2501296 </geoID><pop>1002088</pop>
+T98	Location 22067 22077	Errachidia
+#98	AnnotatorNotes T98	<latlng>31.75, -4.5</latlng><geoID>2549340 </geoID><pop>418451</pop>
+T99	Location 22090 22101	Constantine
+#99	AnnotatorNotes T99	<latlng>36.33333, 6.66667</latlng><geoID>2501147 </geoID><pop>938475</pop>
+T100	Location 22114 22117	Fes
+#100	AnnotatorNotes T100	<latlng>34.02831, -5.00565</latlng><geoID>11281876 </geoID><pop>4236892</pop>
+T101	Location 22130 22136	Djelfa
+#101	AnnotatorNotes T101	<latlng>34.33333, 3.66667</latlng><geoID>2500013 </geoID><pop>1164000</pop>
+T102	Location 22149 22155	Figuig
+#102	AnnotatorNotes T102	<latlng>32.83333, -2.25</latlng><geoID>2548849 </geoID><pop>138325</pop>
+T103	Location 22168 22173	Medea
+#103	AnnotatorNotes T103	<latlng>36.08333, 3</latlng><geoID>2488831 </geoID><pop>819932</pop>
+T104	Location 22186 22192	Ifrane
+#104	AnnotatorNotes T104	<latlng>33.33333, -5.25</latlng><geoID>2546906 </geoID><pop>155221</pop>
+T105	Location 22205 22210	Msila
+#105	AnnotatorNotes T105	<latlng>35.33333, 4.33333</latlng><geoID>2486682 </geoID><pop>990591</pop>
+T106	Location 22223 22230	Jerrada
+#106	AnnotatorNotes T106	<latlng>34.23662, -2.04284</latlng><geoID>6547288 </geoID><pop>108727</pop>
+T107	Location 22243 22250	Ouargla
+#107	AnnotatorNotes T107	<latlng>30.5, 6.16667</latlng><geoID>2485794 </geoID><pop>558558</pop>
+T108	Location 22263 22270	Kenitra
+#108	AnnotatorNotes T108	<latlng>34.58333, -6.33333</latlng><geoID>2544568 </geoID><pop>1061435</pop>
+T109	Location 22283 22291	Relizane
+#109	AnnotatorNotes T109	<latlng>35.75, 0.91667</latlng><geoID>2483666 </geoID><pop>726180</pop>
+T110	Location 22304 22312	Khenifra
+#110	AnnotatorNotes T110	<latlng>32.93333, -5.66667</latlng><geoID>2544331 </geoID><pop>71145</pop>
+T111	Location 22325 22330	Setif
+#111	AnnotatorNotes T111	<latlng>36.16667, 5.5</latlng><geoID>2481696 </geoID><pop>1489979</pop>
+T112	Location 22343 22352	Khouribga
+#112	AnnotatorNotes T112	<latlng>32.93333, -6.6</latlng><geoID>2544246 </geoID><pop>542125</pop>
+T113	Location 22365 22371	Tipaza
+#113	AnnotatorNotes T113	<latlng>36.58333, 2.41667</latlng><geoID>2476027 </geoID><pop>591010</pop>
+T114	Location 22386 22395	Marrakech
+#114	AnnotatorNotes T114	<latlng>31.63623, -8.01041</latlng><geoID>6547285 </geoID><pop>1330468</pop>
+T115	Location 22409 22419	Tissemsilt
+#115	AnnotatorNotes T115	<latlng>35.75, 1.75</latlng><geoID>2475858 </geoID><pop>294476</pop>
+T116	Location 22432 22437	Nador
+#116	AnnotatorNotes T116	<latlng>35, -3</latlng><geoID>2541472 </geoID><pop>565426</pop>
+T117	Location 22450 22460	Tizi-Ouzou
+#117	AnnotatorNotes T117	<latlng>36.75, 4.25</latlng><geoID>2475741 </geoID><pop>1127608</pop>
+T118	Location 22473 22483	Ouarzazate
+#118	AnnotatorNotes T118	<latlng>30.9413, -6.90285</latlng><geoID>2540846 </geoID><pop>297502</pop>
+T119	Location 22496 22501	Oujda
+#119	AnnotatorNotes T119	<latlng>34.68288, -1.9108</latlng><geoID>6545974 </geoID><pop>398131</pop>
+T120	Location 22514 22519	Rabat
+#120	AnnotatorNotes T120	<latlng>33.99111, -6.84006</latlng><geoID>2538474 </geoID><pop>577827</pop>
+T121	Location 22532 22538	Settat
+#121	AnnotatorNotes T121	<latlng>33.08333, -7.41667</latlng><geoID>2537405 </geoID><pop>634184</pop>
+T122	Location 22551 22561	Sidi Kacem
+#122	AnnotatorNotes T122	<latlng>34.58333, -5.75</latlng><geoID>2534445 </geoID><pop>522270</pop>
+T123	Location 22574 22580	Tanger
+#123	AnnotatorNotes T123	<latlng>35.76727, -5.79975</latlng><geoID>2530335 </geoID><pop>1065601</pop>
+T124	Location 22594 22602	Taounate
+#124	AnnotatorNotes T124	<latlng>34.5, -4.83333</latlng><geoID>2530153 </geoID><pop>662246</pop>
+T125	Location 22615 22623	Taourirt
+#125	AnnotatorNotes T125	<latlng>34.24631, -2.81349</latlng><geoID>6547289 </geoID><pop>233188</pop>
+T126	Location 22636 22640	Taza
+#126	AnnotatorNotes T126	<latlng>34.25, -3.75</latlng><geoID>2529313 </geoID><pop>528419</pop>
+T127	Location 23176 23183	Algeria
+#127	AnnotatorNotes T127	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T128	Location 23188 23195	Morocco
+#128	AnnotatorNotes T128	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T129	Location 23890 23897	Algeria
+#129	AnnotatorNotes T129	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T130	Location 23902 23909	Morocco
+#130	AnnotatorNotes T130	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T131	Location 25118 25125	Morocco
+#131	AnnotatorNotes T131	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T132	Location 25127 25134	Algeria
+#132	AnnotatorNotes T132	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T133	Location 25136 25143	Tunisia
+#133	AnnotatorNotes T133	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T134	Location 25148 25153	Spain
+#134	AnnotatorNotes T134	<latlng>40, -4</latlng><geoID>2510769 </geoID><pop>46505963</pop>
+T135	Location 25155 25160	Ceuta
+#135	AnnotatorNotes T135	<latlng>35.89028, -5.3075</latlng><geoID>2519582 </geoID><pop>78674</pop>
+T136	Location 25165 25172	Melilla
+#136	AnnotatorNotes T136	<latlng>35.29215, -2.94434</latlng><geoID>6362988 </geoID><pop>73460</pop>
+T137	Location 25923 25930	Algeria
+#137	AnnotatorNotes T137	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T138	Location 25935 25942	Morocco
+#138	AnnotatorNotes T138	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T139	Location 26122 26129	Morocco
+#139	AnnotatorNotes T139	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T140	Location 26106 26113	Algeria
+#140	AnnotatorNotes T140	<latlng>28, 3</latlng><geoID> 2589581</geoID><pop>34586184</pop>
+T141	Location 26489 26501	North Africa
+#141	AnnotatorNotes T141	<latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID><pop>210800000</pop>
+T142	Location 27112 27119	Algeria
+#142	AnnotatorNotes T142	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T143	Location 27128 27135	Morocco
+#143	AnnotatorNotes T143	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T144	Location 28497 28502;28503 28509	north Africa
+#144	AnnotatorNotes T144	North Africa <latlng>32.95337, 9.97559</latlng><geoID>7729887 </geoID></pop>210800000<pop>
+T145	Location 29578 29585	Morocco
+#145	AnnotatorNotes T145	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T146	Location 29590 29597	Algeria
+#146	AnnotatorNotes T146	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T147	Location 34173 34180	Algeria
+#147	AnnotatorNotes T147	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T148	Location 34185 34192	Morocco
+#148	AnnotatorNotes T148	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T149	Location 36320 36327	Algeria
+#149	AnnotatorNotes T149	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T150	Location 36332 36339	Morocco
+#150	AnnotatorNotes T150	<latlng>32, -6</latlng><geoID>2542007 </geoID> <pop>33848242</pop>
+T151	Location 21585 21592	Algeria
+#151	AnnotatorNotes T151	<latlng>28, 3</latlng><geoID>2589581</geoID><pop>34586184</pop>
+T152	Location 21593 21600	Morocco
+#152	AnnotatorNotes T152	<latlng>32, -6</latlng><geoID>2542007 </geoID> <pop>33848242</pop>
+T153	Location 16140 16146;16147 16159	strait of Gibraltar
+#153	AnnotatorNotes T153	<latlng> 35.95, -5.6 </latlng><geoID>2363256 </geoID> 
+T154	Location 23205 23212	Morocco
+#154	AnnotatorNotes T154	<latlng> 32, -6 </latlng><geoID>2542007 </geoID> <pop> 33848242 </pop>
+T155	Location 23197 23204	Algeria
+#155	AnnotatorNotes T155	<latlng>28, 3</latlng><geoID>2589581 </geoID> <pop>34586184</pop>
+T69	Location 19622 19630	Virginia
+#69	AnnotatorNotes T69	<latlng>37.54812, -77.44675</latlng><geoID>6254928 </geoID><pop>7642884</pop>
+T156	Location 19632 19635	USA
+#156	AnnotatorNotes T156	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>

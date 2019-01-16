@@ -1,0 +1,32 @@
+T3	Location 87 92	China
+#3	AnnotatorNotes T3	<latlng>35,105</latlng><geoID>1814991</geoID>
+T25	Location 541 546	China
+#25	AnnotatorNotes T25	<latlng>35,105</latlng><geoID>1814991</geoID>
+T27	Location 801 806	China
+#27	AnnotatorNotes T27	<latlng>35,105</latlng><geoID>1814991</geoID>
+T29	Location 1219 1224	China
+#29	AnnotatorNotes T29	<latlng>35,105</latlng><geoID>1814991</geoID>
+T30	Location 1349 1354	China
+#30	AnnotatorNotes T30	<latlng>35,105</latlng><geoID>1814991</geoID>
+T31	Location 1524 1528	Asia
+#31	AnnotatorNotes T31	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T32	Location 1530 1536	Europe
+#32	AnnotatorNotes T32	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T33	Location 1542 1548	Africa
+#33	AnnotatorNotes T33	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T36	Location 1927 1932	China
+#36	AnnotatorNotes T36	<latlng>35,105</latlng><geoID>1814991</geoID>
+T41	Location 3652 3657	China
+#41	AnnotatorNotes T41	<latlng>35,105</latlng><geoID>1814991</geoID>
+T42	Location 3809 3814	China
+#42	AnnotatorNotes T42	<latlng>35,105</latlng><geoID>1814991</geoID>
+T4	Location 507 514;515 519	Guang- dong
+#4	AnnotatorNotes T4	<latlng>22.87,113.3</latlng><pop>104303132</pop><geoID>1809935</geoID>
+T1	Protein 94 101	Peirong
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 380 385	China
+#2	AnnotatorNotes T2	END
+T6	Protein 3998 4013	ACKNOWLEDGMENTS
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 6539 6543	7723
+#7	AnnotatorNotes T7	END

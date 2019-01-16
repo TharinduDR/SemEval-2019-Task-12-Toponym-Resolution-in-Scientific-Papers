@@ -1,0 +1,104 @@
+T1	Protein 0 8	American
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 544 556	Contribution
+#2	AnnotatorNotes T2	END
+T3	Protein 729 736	Suzanne
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1050 1051	.
+#4	AnnotatorNotes T4	END
+T5	Protein 4407 4409	Am
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4492 4495	403
+#6	AnnotatorNotes T6	END
+T7	Protein 7379 7383	Am J
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7411 7414	410
+#8	AnnotatorNotes T8	END
+T9	Protein 10462 10465	404
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 10476 10477	.
+#10	AnnotatorNotes T10	END
+T11	Protein 13950 13954	Am J
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 14035 14038	405
+#12	AnnotatorNotes T12	END
+T13	Protein 17307 17309	Am
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 17339 17342	410
+#14	AnnotatorNotes T14	END
+T15	Protein 20683 20686	406
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 20697 20698	.
+#16	AnnotatorNotes T16	END
+T17	Protein 22978 22989	Gestational
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 23026 23029	407
+#18	AnnotatorNotes T18	END
+T19	Protein 27209 27211	Am
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 27260 27261	.
+#20	AnnotatorNotes T20	END
+T21	Protein 28670 28672	Am
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 28702 28705	410
+#22	AnnotatorNotes T22	END
+T23	Protein 29534 29545	Gestational
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 29582 29585	409
+#24	AnnotatorNotes T24	END
+T25	Protein 33042 33044	Am
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 33074 33077	410
+#26	AnnotatorNotes T26	END
+T27	Protein 35078 35093	ACKNOWLEDGMENTS
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 39120 39123	410
+#28	AnnotatorNotes T28	END
+T29	Location 5617 5631	United Kingdom
+#29	AnnotatorNotes T29	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T30	Location 5611 5615	Avon
+#30	AnnotatorNotes T30	<latlng> 51.4333, -2.5</latlng><geoID>2656749</geoID>
+T31	Location 9054 9068	United Kingdom
+#31	AnnotatorNotes T31	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T32	Location 9769 9775;9776 9783	United Kingdom
+#32	AnnotatorNotes T32	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T33	Location 9857 9871	United Kingdom
+#33	AnnotatorNotes T33	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T34	Location 10579 10593	United Kingdom
+#34	AnnotatorNotes T34	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T35	Location 10570 10577	Bristol
+#35	AnnotatorNotes T35	<latlng> 51.45, -2.6</latlng><geoID>3333134</geoID><pop> 454213</pop>
+T36	Location 12771 12776	Texas
+#36	AnnotatorNotes T36	<latlng>31.25044, -99.25061</latlng><geoID>4736286</geoID><pop>22875689</pop>
+T37	Location 12754 12769	College Station
+#37	AnnotatorNotes T37	<latlng>30.58572, -96.29594</latlng><pop>93857</pop><geoID>7173209</geoID>
+T38	Location 20821 20828	Bristol
+#38	AnnotatorNotes T38	<latlng> 51.45, -2.6</latlng><geoID>3333134</geoID><pop> 454213</pop>
+T39	Location 20830 20844	United Kingdom
+#39	AnnotatorNotes T39	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T40	Protein 22258 22262	Am J
+#40	AnnotatorNotes T40	BEGIN
+T41	Protein 22290 22293	410
+#41	AnnotatorNotes T41	END
+T42	Location 22885 22891;22892 22899	United Kingdom
+#42	AnnotatorNotes T42	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T43	Location 23221 23235	United Kingdom
+#43	AnnotatorNotes T43	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T44	Location 23212 23219	Bristol
+#44	AnnotatorNotes T44	<latlng> 51.45, -2.6</latlng><geoID>3333134</geoID><pop> 454213</pop>
+T45	Location 23755 23769	United Kingdom
+#45	AnnotatorNotes T45	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T46	Location 25889 25903	United Kingdom
+#46	AnnotatorNotes T46	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T47	Location 25880 25887	Bristol
+#47	AnnotatorNotes T47	<latlng> 51.45, -2.6</latlng><geoID>3333134</geoID><pop> 454213</pop>
+T48	Location 27176 27190	United Kingdom
+#48	AnnotatorNotes T48	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T49	Location 27414 27428	United Kingdom
+#49	AnnotatorNotes T49	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T50	Location 27405 27412	Bristol
+#50	AnnotatorNotes T50	<latlng> 51.45, -2.6</latlng><geoID>3333134</geoID><pop> 454213</pop>
+T51	Location 29501 29507;29508 29515	United Kingdom
+#51	AnnotatorNotes T51	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T52	Location 5256 5270	United Kingdom
+#52	AnnotatorNotes T52	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>

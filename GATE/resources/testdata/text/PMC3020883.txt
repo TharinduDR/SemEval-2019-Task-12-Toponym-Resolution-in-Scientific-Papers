@@ -1,0 +1,774 @@
+JOURNAL OF CLINICAL MICROBIOLOGY, Nov. 2010, p. 4228–4234 Vol. 48, No. 11
+0095-1137/10/$12.00 doi:10.1128/JCM.01336-10
+Copyright © 2010, American Society for Microbiology. All Rights Reserved.
+Initial Identification and Characterization of an Emerging Zoonotic
+Influenza Virus Prior to Pandemic Spread䌤
+David Metzgar,*‡ Darcie Baynes,†‡ Christopher A. Myers, Peter Kammerer,
+Michelle Unabia, Dennis J. Faix, and Patrick J. Blair
+Department of Respiratory Disease Research, Naval Health Research Center, San Diego, California
+Received 30 June 2010/Returned for modification 10 August 2010/Accepted 10 September 2010
+Two cases of febrile respiratory illness associated with untypeable influenza A virus were identified in
+Southern California in March 2009. One was initially detected as influenza virus using an experimental
+diagnostic device in a clinical trial, while the other was detected at a local reference lab using a diagnostic PCR
+assay. In both cases, analyses yielded negative results for strain-specific tests targeting circulating strains of
+influenza A virus (seasonal H1 and H3). These two samples became the first reported cases of the pandemic
+2009/H1N1 influenza virus. The first reportable characterization was made from the second collected specimen
+on 15 April 2009 at the Centers for Disease Control and Prevention central lab using traditional culture and
+sequencing methods. The novel nature of the strain and its apparent zoonotic origins were initially charac-
+terized using the first collected specimen at the Naval Health Research Center in San Diego, CA, on 13 April
+using an experimental molecular analysis tool, PCR electro-spray ionization-mass spectrometry (PCR/ESI-
+MS), designed to amplify PCR products from any strain of influenza virus and to generate informative
+(phylogenetic) strain identifications through mass spectrometry of PCR amplicons. The ability of this high-
+throughput tool to correctly identify both well-characterized and novel influenza strains offers the possibility
+to integrate surveillance for emerging strains with on-site rapid diagnosis used for patient management,
+shortening the times between the emergence of new strains, their detection and identification, and appropriate
+public health response activities. Here we describe the initial characterization of the pandemic 2009/H1N1
+influenza strain and discuss the possible roles of diagnostic tools with discovery potential.
+On 28 March 2009, a throat swab specimen was collected
+from a 9-year-old female with febrile respiratory illness (FRI)
+in Imperial County, California. This sample was collected as
+part of a U.S.-Mexico border respiratory disease surveillance
+program collaboratively operated and supported by the Cen-
+ters for Disease Control and Prevention (CDC) Early Warning
+Infectious Disease Surveillance and Border Infectious Disease
+Surveillance programs and the Naval Health Research Center
+(NHRC). Two days later, a similar sample was collected from
+a 10-year-old male who reported with FRI in San Diego
+County, CA, during enrollment for a clinical trial being locally
+administered by NHRC for a private company. Both samples
+were initially identified as “untypeable” influenza A virus. In
+the case of the 28 March sample, this diagnosis was made using
+an in-house accredited (homebrew) universal influenza PCR
+assay at NHRC. In the case of the 30 March sample, the initial
+(unreportable) “untypeable influenza A” identification was
+made at the point of care using an experimental diagnostic
+device in the course of the trial (1, 13).
+Aliquots of both samples were shipped through the CDC’s
+Laboratory Response Network for reference lab testing and
+typing, as required for otherwise uncharacterizable influenza-
+positive samples (1, 13). Such samples could represent newly
+emerging zoonotic influenza viruses, reassorted (shifted)
+strains carrying novel antigens, or significantly divergent
+(drifted) descendants of currently recognized strains, all of
+which would be of critical importance to public health activi-
+ties. Novel strains are uncharacterizable (and often undetect-
+able) using currently common on-site testing methods (1, 5).
+Further testing of untypeable samples at reference labs allows
+discrimination between truly “novel” influenza viruses—strains
+that are recognizably different from previously characterized
+strains—and those that are simply “untypeable” due to low
+sample quality, low titer, or other technical issues.
+NHRC conducts research related to the application and
+validation of emerging technologies designed to increase the
+scope, informational content, or deployable nature of rapid
+diagnostics. Among these emerging technologies are high-
+throughput, rapid analysis methods capable of universal de-
+tection and characterization of pathogens, regardless of pre-
+vious strain characterization or novelty. These methods
+include the T5000 Universal Biosensor (Ibis Biosciences,
+Carlsbad, CA) (3, 4, 9, 13, 17, 18). NHRC has been involved
+in testing this platform for several years and has conducted
+published validations of its scope and discriminatory power
+(17, 4). NHRC has also conducted published and unpub-
+lished comparisons of its sensitivity and specificity in com-
+parison with diagnostically accredited methods for the de-
+tection of commonly circulating strains of influenza in throat
+swabs (reference 17 and this study). The T5000 is capable of
+detecting and characterizing very diverse influenza A sub-
+types, including avian, human, and nonhuman mammalian
+* Corresponding author. Present address: Ibis Biosciences, 2251
+Faraday Ave., Suite 150, Carlsbad, CA 92008. Phone: (760) 476-3368.
+Fax: (760) 476-3301. E-mail: dmetzgar@ibisbio.com.
+† Present address: Ibis Biosciences, 2251 Faraday Ave., Suite 150,
+Carlsbad, CA 92008.
+‡ These two authors contributed equally to the manuscript and the
+work described therein.
+䌤
+Published ahead of print on 22 September 2010.
+4228
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jcm.asm.org/
+Downloaded
+from
+strains (17). The strategy by which this is achieved is briefly
+described in Materials and Methods.
+The T5000 technology is used at NHRC to characterize
+otherwise untypeable or unidentifiable pathogens collected
+from a variety of local, national, and worldwide surveillance
+activities and to screen untypeable influenza A-positive clinical
+samples for hazardous high-pathogenicity avian strains prior to
+culture and further characterization. For the emergent 2009/
+H1N1 influenza virus, this technology offered the first charac-
+terization of a previously unrecognized influenza strain, dem-
+onstrating this capability in a real-world case of novel pathogen
+emergence. Existing Food and Drug Administration-cleared
+rapid antigen assays were very insensitive to the new strain (5).
+Other accredited and experimental point-of-care tests, includ-
+ing the universal influenza A PCR tests used for detection at
+NHRC and the real-time PCR assays used at the CDC’s ref-
+erence laboratories, produced positive (but untypeable) results
+(1). These results required further shipment and testing at
+reference labs to elucidate and report their novelty, their mo-
+lecular identity, and their apparent origin (1, 8).
+In this paper we describe the results obtained from the first
+molecular characterization of the 2009/H1N1 pandemic influ-
+enza, performed using the T5000 PCR electro-spray ioniza-
+tion-mass spectrometry (PCR/ESI-MS) platform. We also
+present a summary of prospective validation data from NHRC
+comparing this technology’s sensitivity and specificity for cir-
+culating influenza virus with those of accredited diagnostic
+PCR and culture-based methods. We present T5000 data from
+an analysis of a sample containing trivalent live-attenuated
+influenza vaccine to demonstrate the technology’s capability to
+discriminate between novel influenza viruses and coinfections
+of recognized strains, which can be difficult using existing se-
+rological or sequencing methods in the absence of plaque pu-
+rification and individual virus isolation. We describe the data
+analysis leading to the ultimate interpretation that the detected
+pathogen was a novel zoonotic reassortant, and we discuss the
+possibility that rapid diagnostic technologies capable of both
+detecting and characterizing novel agents may one day bring
+surveillance for emerging pathogens to point-of-care facilities.
+MATERIALS AND METHODS
+Sample collection, initial processing, and shipping. One current area of
+NHRC surveillance is the U.S.-Mexico border region between San Diego and
+Imperial counties, administered in collaboration with the CDC. Another sur-
+veyed population includes dependents of military servicemen and women in San
+Diego County, part of a collaboration between the Naval Medical Research
+Center and NHRC. In the course of these programs, throat swab samples are
+collected from patients reporting to clinics with FRI (defined here as fever of
+38°C or higher and cough or a sore throat). Swabs are placed in viral transport
+medium (VTM) and frozen in liquid nitrogen or in ⫺80°C freezers until they are
+delivered to NHRC.
+Portions of the collected samples are tested at NHRC for broad viral and
+bacterial detection and characterization using accredited diagnostic assays and
+gold standard characterization methods. In the case of influenza virus, this
+includes initial identification by in-house validated and College of American
+Pathologists (CAP)-accredited diagnostic PCR tests designed to universally de-
+tect all strains of influenza virus, human and otherwise, using highly conserved
+priming sites (and, in the case of generic influenza A virus detection, two
+independent tests). Research-use molecular and diagnostic hemagglutination
+inhibition (HAI) assays are then used to discriminate between seasonal H1 and
+H3 subtypes. Positive results are followed by sequence analysis of the hemag-
+glutinin (H), neuraminidase (N), and matrix (M) segments, which contain the
+primary antigenic and virulence determinants. The resulting isolates and data are
+shared as part of CDC influenza surveillance activities.
+Samples testing positive for influenza A virus but yielding negative results by
+subtype-specific tests (“untypeable influenza A”) are further split, and aliquots
+are forwarded to the CDC for analysis. These untypeable specimens are also
+further analyzed by culture and sequencing at NHRC, after undergoing a series
+of molecular assays chosen to prevent accidental culture of dangerous avian
+influenza strains. This screening involves using the T5000.
+Standard influenza A detection assays. Total nucleic acids were extracted
+from 200 ␮l of a clinical specimen using the QIAamp 96 DNA blood kit
+(Qiagen, Valencia, CA) according to the manufacturer’s instructions. In-
+house CAP-accredited diagnostic PCR assays for influenza virus were as
+previously described (7) except that primer set 2.5 was replaced with primer
+set 3 (Flu_A_317-337_N/D_F1_2006: GACCRATYCTGTCACCTCTGAC
+and Flu_A_94-118_N/D_R1_2006: CATYCAACTGGCAAGTGCAC). All
+other conditions remained the same.
+CAP-accredited culture-based methods were as described previously (10),
+using both A549 and rhesus monkey kidney cell lines (Diagnostic Hybrids,
+Athens, OH). Detection was by indirect fluorescent staining for influenza virus
+using a mouse anti-influenza monoclonal antibody and fluorescein isothiocya-
+nate (FITC) (catalog no. 5001 and 5008, respectively; Millipore, Billerica, MA).
+HAI assays were performed using the WHO influenza reagent kit for the
+identification of influenza isolates, supplied by the CDC (Atlanta, GA), following
+the provided instructions. Guinea pig red blood cells for HAI testing were
+purchased from Hardy Diagnostics (Santa Maria, CA). LightCycler real-time
+PCR system assays for subtyping influenza were performed on the Roche Light-
+Cycler 1.5 (Roche, Basel, Switzerland). Primers (“F” and “R” sequences) and
+probes (“P” sequences) used for subtyping influenza were as follows: for seasonal
+H1 virus, FLU_A_H1_F: GYAGTCTTCCTTTCCAGAATGT, FLU_A_H1_R:
+AGTCCTGTAACCATCCTTAATTTTG, and FLU_A_H1_P: (FAM)TAGGA
+GAGTGTCCAAAGTATGTCAGGA(TAMRA); for seasonal H3 virus,
+FLU_A_H3_F: TGTCTCCAGCAGAATAAGCATCT, FLU_A_H3_R: CCCA
+CTTCGTATTTTGAAGTAACC, and FLU_A_H3_P: (FAM)TGGACAATAG
+TAAAACCGGGAGACATACTTTTG(TAMRA). PCRs were performed using
+the SuperScript III kit (Invitrogen, Carlsbad, CA) per the manufacturer’s in-
+structions, using 500-nm primers and a 300-nm probe. Following 30 min of
+incubation at 45°C for reverse transcription and 2 min at 94°C denaturation and
+35 to 45 cycles of 94°C for 5 s, followed by 60°C for 20 s, results were analyzed
+by measuring fluorescent emission over the course of the amplification, per the
+manufacturer’s instructions.
+T5000 CAP validation procedure. From February 2007 to March 2007, throat
+swabs were collected at various military training sites and border collection sites
+as part of NHRC’s ongoing FRI surveillance programs. Throat swabs and/or
+combined nasal/throat swabs were shipped frozen from collection sites to NHRC
+in VTM (Remel, Lenexa, KS). Concurrent to NHRC’s routine FRI testing,
+samples and controls were extracted in duplicate for validating the T5000. The
+first extraction was done as part of our routine FRI testing and followed by PCR
+analysis for the presence of influenza A. Samples were blinded for a second
+extraction to be used for the T5000 validation. Samples were tested by all
+methods in parallel, with different technicians (and in the case of culture, a
+different lab in the same department) doing the independent analyses.
+PCR/ESI-MS (T5000). The T5000 platform uses conserved-site PCR to inde-
+pendently amplify six regions from five different segments of the influenza A
+genome using sequence conservation, permissive PCR conditions, and target
+multiplicity (3, 4, 9, 17, 18) to ensure that multiple amplicons will be obtained
+from any known or, in theory, any previously unknown influenza virus. The
+amplicons are then subjected to ESI-MS, generating a highly specific mass
+measurement for each amplified PCR product. This mass is then deconvoluted
+by software to generate a base composition signature (numbers of A’s, C’s, T’s,
+and G’s) for the product. The resulting signatures obtained from multiple loci are
+then compared with known signatures in a database (which includes both signa-
+tures obtained directly from control specimens and signatures calculated from
+published sequence data) to generate an internally verified identification, a
+process called triangulation (17, 4). The process is automated, and a single
+platform can analyze more than 180 samples in a 24-hour period.
+In cases where exact or near-exact matches occur for multiple loci to the same
+reference strain in the database, identity can be confidently established (17). In
+cases where a novel agent is detected, the software will yield closest-match data
+for the combined (triangulated) result, resulting in a phylogenetic identification
+similar to that obtained for bacteria by multilocus sequence typing. The software
+will also offer best-match data for each of the component amplicons, yielding
+phylogenetic data similar to that obtained by comparative analysis of single
+sequences. For influenza virus, this allows recognition of reassortment events
+VOL. 48, 2010 RAPID CHARACTERIZATION OF A NOVEL INFLUENZA VIRUS 4229
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jcm.asm.org/
+Downloaded
+from
+affecting the five assayed segments. It also enables inference of H and N types in
+the case of previously characterized strains for which the sequences are known
+for the five targeted segments (17).
+Automated PCR setup was performed by the Janus liquid handling station
+(PerkinElmer, Inc., Waltham, MA). Five microliters of nucleic acid extract (from
+NHRC’s standard influenza detection protocols, as described above), 2 U
+SuperScript III (Invitrogen), 2.42 U FastStart Taq DNA Polymerase (Roche
+Diagnostics, Indianapolis, IN), 333 ng T4 gene 32 protein (Roche), and 4.44 ␮l
+kit-supplied enzyme dilution buffer (Ibis) were added to each well of a 96-well
+T5000 influenza assay plate (Ibis). Primer sequences and other PCR components
+were as previously described (17). The PCRs were amplified using a DNA engine
+(Bio-Rad Laboratories, Hercules, CA) under cycling conditions previously de-
+scribed (17). Following PCR, the T5000 influenza assay plate (Ibis) was loaded
+onto the T5000 universal biosensor for automated post-PCR cleanup and sub-
+sequent ESI-MS. The PCR product desalting procedure, ESI-MS, and spectral
+view analysis of PCR product masses have been thoroughly described elsewhere
+(9, 2, 11, 16).
+RESULTS
+T5000 CAP validation. A total of 331 samples were tested
+during the 2006–2007 influenza season (excluding controls and
+those that did not pass initial or in-process quality assurance/
+quality control screening). The primary data and calculated
+sensitivities, specificities, positive predictive values, and nega-
+tive predictive values of the T5000 detection and characteriza-
+tion functions are shown in Table 1. These samples are de-
+scribed as “flu season samples” in Table 1, and they included
+13 prepandemic seasonal H1N1-positive samples, 45 seasonal
+H3N2-positive samples, and 11 influenza B-positive samples as
+detailed in the table. For universal influenza virus detection,
+the gold standard was composed of two CAP-accredited PCR
+assays (see Table 1 footnotes for discussion). For influenza A
+subtyping, the gold standards were an in-house validated real-
+time PCR assay and a CAP-accredited culture and HAI assay.
+For influenza B detection, the gold standard used was a CAP-
+accredited influenza B viral culture and HAI assay.
+Initial specificities (and hence positive predictive values)
+were low for some possible results. However, it was hypothe-
+sized that most of the apparent false positives might actually
+represent low-titer true positives missed by the gold standard
+PCR tests but detected by the more sensitive T5000. To assess
+the false-positive rate of the T5000 more accurately, 273 sam-
+ples from NHRC’s routine FRI surveillance collected during a
+time period when no influenza A virus was present (the off-
+season) were retrospectively tested on the T5000. These results
+supported the hypothesis that the T5000 was more sensitive
+than the gold standard PCR test and suggested that the true
+specificity was approximately 99.3% (Table 1). The two false-
+positive samples from this set were adjacent to spiked control
+wells, suggesting that the remaining false positives were due to
+technician error (cross-contamination).
+Initial identification of 2009/H1N1 by PCR/ESI-MS. Initial
+T5000 results confirmed that the sample collected in Imperial
+County on 28 March was positive for influenza A virus. The
+specimen generated reported amplicons for all six primer pairs
+targeting influenza A virus. These included a universal influ-
+enza primer pair targeting the polymerase basic protein 1 seg-
+ment (PB1) and five influenza A-specific primer pairs: one
+each targeting the M, NP, and PA segments and two primer
+pairs targeting the segment that includes the nonstructural
+proteins 1 and 2 (NS1 and NS2). All amplicons matched closely
+the known influenza A virus signatures (Table 2), and all six
+amplifying primer pairs generated a single amplicon (Fig. 1
+and Table 2). Triangulation (9) of multiple matches to known
+influenza virus signatures in the T5000 database yielded mul-
+tiple matches to different subsets of the amplicons, suggesting
+that different segments were more closely related to different
+previously characterized strains (Table 2). Due to a lack of
+identically matched signatures in the database and no triangu-
+lated set of signatures with which this signature clustered, one
+amplicon (NP) was not initially identified. Upon addition of
+the new signature to the database, this segment was identified
+as being closely related to recent H1N1 swine influenza iso-
+lates. Several matches were imperfect, suggesting divergence
+as well as reassortment.
+Table 3 shows that positive matches were made to strains
+other than those recognized as currently circulating human
+influenzas, thus suggesting the novel nature of the influenza
+strain. Furthermore, the results support a zoonotic (specifi-
+cally, swine) origin of the virus, and the mixed nature of the
+matches suggests a novel reassortant not previously reported
+from human, swine, avian, or other sources. The assay correctly
+inferred H type but not N type because the test does not
+TABLE 1. Results and analysis of NHRC in-house CAP validation of T5000 influenza virus detection and typing assaye
+Test set
+No. of samples with T5000/
+gold standard patterna Total no. of
+samples
+tested
+Sensitivity (%) Specificity (%) PPV (%) NPV (%)
+⫹/⫹ ⫹/⫺ ⫺/⫹ ⫺/⫺
+All influenza detection (flu season samples) 51 15 1 264 331 98.1 94.6 77.3 99.6
+Influenza A/H1N1 13 1 0 317 331 100 99.7 92.9 100
+Influenza A/H3N2 45 7 0 279 331 100 97.6 86.5 100
+Influenza B 11 2 0 318 331 100 99.4 84.6 100
+All influenza detection (off-season samples)b
+0 2 0 271 273 NAc
+99.3 98.0d
+100
+a
+⫹, positive; ⫺, negative. The gold standard was the College of American Pathologists (CAP)-accredited in-house diagnostic test consisting of two PCR tests. Only
+dual positives were considered true positives.
+b
+These samples were collected during a season with no detectable circulating influenza virus and were expected to be universally true negatives. These results suggest
+that the majority (though not all) of apparent false positives returned during the influenza season are likely derived from correct detection of low-titer positives, which
+were undetectable by the gold standard method.
+c
+The sensitivity could not be calculated for this test set because no true positives were included in this set.
+d
+The corrected positive predictive value (PPV) for this test set was determined under the assumption that the actual false-positive rate was the same for flu season
+samples and off-season samples. With this assumption, the number of true positives during the flu season was 64, and the number of false positives was 2. Similar
+corrections apply to the type- and subtype-specific tests.
+e
+PPV, positive predictive value. NPV, negative predictive value.
+4230 METZGAR ET AL. J. CLIN. MICROBIOL.
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jcm.asm.org/
+Downloaded
+from
+directly assay H and N segments, which are too diverse to
+support universal amplification using conserved-site priming.
+Inference of H and N by triangulation (9) is possible only for
+recognized strains that have not undergone reassortment. Ta-
+ble 4 shows the specific GenBank sequence records to which
+each amplicon match was made and describes the region of
+each record homologous to the region amplified by the T5000
+primer pairs.
+We first addressed the possibility that the unique base com-
+position signature produced by the 28 March sample was due
+to the detection of a trivalent, live attenuated vaccine, FluMist
+(MedImmune, Gaithersburg, MD), which, like other coinfec-
+tions of multiple strains, can generate difficult-to-interpret re-
+sults on influenza PCR and culture assays (7). A FluMist-
+positive clinical specimen and extracted FluMist vaccine were
+tested on the T5000 platform, and the signatures were com-
+pared with those of the 28 March sample.
+The FluMist vaccine generated amplicons for all eight
+primer pairs of the T5000 influenza assay (Fig. 1 and Table 2).
+Two amplicons with different base composition signatures
+were produced for the universal influenza primer pair PB1 as
+expected. Of the two amplicons produced by PB1 primers, one
+amplicon matched known signatures for influenza A virus and
+one matched signatures for influenza B virus. The influenza
+A-specific primers M, NP, PA, NS1, and NS2 all generated one
+amplicon each. The influenza B-specific primers targeting the
+polymerase basic protein 2 segment (PB2) and NP both gen-
+erated amplicons specific to influenza B. The three influenza B
+amplicons triangulated to B/Ann Arbor/1/66, while the six
+influenza A amplicons triangulated to A/Ann Arbor/6/60
+(H2N2) (Table 3). This was expected, since these two influenza
+strains were used as the backbones of the temperature-atten-
+uated FluMist vaccine strains (7, 12).
+When more than one influenza strain is present in a sample,
+more than one amplicon may be generated per primer pair if
+the strains differ at that locus. Multiple unique PCR products
+were generated from FluMist for primer pair 2798 (universal
+influenza targeting the PB1 segment), while only one was gen-
+erated for the 28 March sample (Fig. 1). The first amplicon
+generated by this primer pair is represented in blue (influenza
+A), while the second amplicon is represented in green (influ-
+enza B). Again, multiple products may be seen by deconvolu-
+tion of masses as represented by base composition signatures
+(Table 2).
+Analysis of FluMist-positive samples using the T5000 plat-
+form clearly demonstrates that the method can distinguish
+coinfections of multiple strains by correctly deconvoluting and
+triangulating the identities of multiple segments to generate
+two clearly different identifications. In the case of the single
+primer designed to amplify products from both influenza A
+and influenza B (targeting the PB1 segment), amplicons from
+both components are generated and identified. Moreover, the
+ultimate identifications are made accurately, showing that two
+strains are present and most closely matched the sequences of
+the FluMist parent strains.
+Affirming the assumption that the 28 March sample con-
+tained a novel strain, the software analysis program failed to
+definitively identify a specific influenza A strain or subtype
+that closely matched at all loci, as it would for a well-
+characterized strain for which there is a well-matched com-
+plete genome sequence in public databases or for which an
+annotated signature had previously been generated on the
+T5000. Instead, the triangulation software identified differ-
+ent best-matched strains for different sets of the amplified
+loci. Only one amplicon was seen for each locus, suggesting
+a single strain as opposed to a coinfection. This suggested a
+reassorted virus for which different segments ultimately
+arose from different sources.
+Amplicons generated for the PA segment and the two NS
+targets of the 2009/H1N1 strain matched equally closely strains
+of both H1N2 influenza A virus of swine origin and H3N2
+influenza A virus of avian origin. The expected matches for
+each of these two influenza A type strains are identical in the
+software’s database. The base composition for the PA ampli-
+con matched the expected base compositions for swine H1N2
+and avian H3N2 strains, with match values of ⫺1/⫹1/⫹1/⫺1
+(this translates to approximately two single nucleotide poly-
+morphisms [SNPs] between the amplicon and the closest
+match). The base compositions generated by the two NS
+primer pairs matched the expected base compositions for
+swine H1N2 and avian H3N2 strains perfectly (match values,
+0/0/0/0) (Table 2). The base composition generated by the NP
+TABLE 2. Primer pair detection for 2009 pandemic H1N1 influenza virus and FluMist trivalent influenza vaccine
+and base count proximity to nearest match in database
+Primer pair target
+(type/segment)
+Result for targeta
+H1N1 FluMist primary FluMist secondary
+A/C/G/T Proximity A/C/G/T Proximity A/C/G/T Proximity
+All influenza/PB1 39/32/24/33 0/0/0/0 41/29/26/32 0/0/0/0 37/31/21/33 0/0/0/0
+Influenza A/NP 35/21/20/25 ⫹1/⫺1/⫺1/⫹1 31/25/21/24 0/0/0/0 ND NA
+Influenza A/M 24/28/24/29 ⫺2/⫹2/⫹2/⫺2 22/31/24/28 0/0/0/0 ND NA
+Influenza A/PA 35/26/27/24 ⫺1/⫹1/⫹1/⫺1 36/26/29/21 0/0/0/0 ND NA
+Influenza A/NS1 35/36/21/27 0/0/0/0 38/31/22/28 0/0/0/0 ND NA
+Influenza A/NS2 33/30/17/25 0/0/0/0 35/26/18/26 0/0/0/0 ND NA
+Influenza B/PB2 ND NA 24/25/21/21 0/0/0/0 ND NA
+Influenza B/NP ND NA 35/19/36/10 0/0/0/0 ND NA
+a
+A/G/C/T, no. of adenines/no. of guanines/no. of cytosines/no. of thymines, as derived from the mass of the amplicon. Actual base compositions may differ by up
+to one base from actual base compositions under some circumstances (specifically, when pairs of substitutions result in single-dalton differences in mass). This ambiguity
+is accommodated by the software used to match base compositions with signatures in the associated database. Primary and secondary refer to the relative apparent titers
+of multiple detected viruses by use of the same primer pair. Base count proximities represent the differences in base composition relative to the nearest match in the
+database of known strains for each of the four nucleotides. ND, no detection; NA, not applicable.
+VOL. 48, 2010 RAPID CHARACTERIZATION OF A NOVEL INFLUENZA VIRUS 4231
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jcm.asm.org/
+Downloaded
+from
+primer pair matched recent H1N1 swine strains with values of
+⫺1/⫹1/⫺1/⫹1.
+Amplicons generated by the universal influenza virus PB1
+and influenza A virus M primer pairs best matched expected
+signatures from an avian H7N1 influenza A strain. The ampli-
+con generated by the PB1 primer pair matched perfectly, while
+the M detection differed from the expected signature by
+⫺2/⫹2/⫹2/⫺2 (approximately four SNPs). All detections
+clearly pointed to a single influenza A strain distinct from
+recognized circulating strains and consistent with a zoonotic
+origin.
+Following the initial detection of the 2009/H1N1 strain,
+the resulting signature was assigned a name on the basis of
+the original sample number. This signature was retained
+in the T5000 database for matching to further samples. This
+allowed immediate screening of other samples for identical
+(or similar) influenza viruses.
+DISCUSSION
+The T5000 PCR/ESI-MS platform can detect, characterize,
+and confidently discriminate between common circulating in-
+fluenza viruses, novel emerging influenza viruses, and even
+mixed infections of currently rare (and artificially reassorted)
+influenza viruses. The platform is automated and has high
+throughput, capable of processing 180 samples per 24-hour
+period with a time to result of approximately 6 h for any plate
+of 12 samples. It demonstrates sensitivity and specificity for
+common circulating influenza strains similar to those of the
+most sensitive current reference lab methods (including real-
+FIG. 1. Raw spectral data from the first characterized sample containing 2009 pandemic H1N1 influenza (H1N1) and FluMist trivalent vaccine.
+Individually colored peaks (series of vertical bars) represent multiple charge states of a single amplicon (allele). All peaks are normalized to their
+maxima. Red peaks represent internal positive controls (IPCs), blue peaks represent primary amplicons, and green peaks represent secondary
+detected amplicons of a different mass. Red peaks do not always show in tandem with positive amplifications, since the IPC signal may be obscured
+by the higher titer of the target amplification.
+4232 METZGAR ET AL. J. CLIN. MICROBIOL.
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jcm.asm.org/
+Downloaded
+from
+time PCR and culture) and far superior to those of rapid
+antigen assays (5), the most common method currently used
+for point-of-care influenza diagnostics.
+The T5000 generates amplicon mass data, not sequence
+data. While these data can be used to accurately identify well-
+characterized strains for which there are existing sequence
+records in GenBank, it can offer only approximate phyloge-
+netic similarities for individual segments of novel, unse-
+quenced strains. In the case of the novel 2009 H1N1 pandemic
+influenza virus, precise phylogenetic identity of the emerging
+virus was ultimately achieved by traditional sequence analysis
+at reference lab facilities (8).
+Integration of broadly targeted and phylogenetically infor-
+mative assays into hospital diagnostic systems would allow very
+rapid recognition of novel pathogen emergence events, greatly
+shortening the time between emergence and public health re-
+sponse. One recent modeling effort suggested that the delay
+between identification of an index case of a highly pathogenic
+emergent avian influenza virus and responses such as targeted
+antiviral prophylaxis of contacts is critical to the success of such
+countermeasures. The window for success of such strategies
+may be as little as 2 days (14). It can be assumed that this also
+applies to delays between occurrence and recognition of the
+index case. Another pandemic preparedness model suggested
+that the effectiveness of pandemic influenza containment pol-
+icies such as social distancing and mass prophylaxis with anti-
+virals also “depends critically on how quickly clinical cases are
+diagnosed” (6).
+The same study (6) notes that the first two predicates for
+successful containment are “[1] rapid identification of the orig-
+inal case cluster, [2] rapid, sensitive case detection and delivery
+of treatment to targeted groups, preferably within 48 h of a
+case arising.” This might be possible for the strain of H5 avian
+flu virus currently circulating in Southeast Asia, for which
+specific rapid diagnostics have been and are being developed,
+but would not currently be possible for the nearly infinite
+number of other possible influenza strains that might be trans-
+ferred to humans. As pandemics progress, the area requiring
+TABLE 3. Best triangulated matches for all amplified products from the first characterized sample containing 2009 pandemic
+H1N1 influenza virus (novel flu) and FluMist trivalent influenza vaccine
+Sample (apparent
+component strain)
+Best matched strain (type/host/identifying site/
+unique sample no./year of isolation (subtype))
+No. of amplified
+fragments
+matching/total
+no. tested for
+this type
+Contributing segments (no. of
+mismatches for indicated segment)a
+Novel flu (1) A/swine/Illinois/100085A/2001 (H1N2) 3/6 PA (2), NS1 (0), NS2 (0)
+Novel flu (1) A/turkey/Ohio/313053/2004 (H3N2) 3/6 PA (2), NS1 (0), NS2 (0)
+Novel flu (1) A/mallard/Alberta/34/2001 (H7N1) 2/6 PB1 (0), M (4)
+FluMist (1) A/human/Ann Arbor/6/1960 (H2N2) 6/6 PB1 (0), NP (0), M (0), PA (0), NS1 (0), NS2 (0)
+FluMist (2) B/human/Ann Arbor/1/1966 (influenza B) 3/3 PB1 (0), PB2 (0), NP (0)
+a
+M, matrix; NP, nucleoprotein; NS1, nonstructural protein 1; NS2, nonstructural protein 2; PA, polymerase; PB1, polymerase basic protein 1; PB2, polymerase basic
+protein 2. Includes only those segments that were recognized as having a common close match in the database of recognized signatures. Due to a lack of identically
+matched signatures in the database for the NP amplicon of novel flu and no triangulated set of signatures with which the NP signature clustered, the novel flu NP
+amplicon was not initially matched to a target. Upon addition of the new signature to the database, this segment was identified as being closely related to recent H1N1
+swine influenza isolates.
+TABLE 4. Sources of signature match data used to characterize segments of 2009 pandemic H1N1 influenza
+virus (novel flu) and FluMist trivalent influenza vaccine
+Target Primary match by triangulation Segment T5000 primer pair GenBank record Accession no. Match position (bp)
+Novel flu A/Swine/Illinois/100085A/2001 (H1N2) PA 1287 gi兩19422176 AF455721 562–673
+NS1 2775 gi兩19422158 AF455713 498–616
+NS2 2777 gi兩19422158 AF455713 519–623
+Novel flu A/Turkey/Ohio/313053/2004 (H3N2) PA 1287 gi兩84626345 DQ335776 562–673
+NS1 2775 gi兩84626343 DQ335775 498–616
+NS2 2777 gi兩84626343 DQ335775 519–623
+Novel flu A/Mallard/Alberta/34/2001 (H7N1) PB1 2798 gi兩82653717 CY005097 1210–1337
+M 1279 gi兩82653707 CY005093 369–473
+FluMist A/Human/Ann Arbor/6/1960 (H2N2) PB1 2798 gi兩37785017 AY210012 1210–1337
+NP 1266 gi兩324595 M23976 163–263
+M 1279 gi兩324264 M23978 369–473
+PA 1287 gi兩324925 M23974 586–697
+NS1 2775 gi兩324770 M12591 487–605
+NS2 2777 gi兩324770 M12591 508–612
+FluMist B/Human/Ann Arbor/1/1966 (influenza B) PB1 2798 gi兩325279 M20169 1213–1334
+PB2 1261 gi兩325283 M20168 603–693
+NP 1275 gi兩325246 M20174 148–247
+VOL. 48, 2010 RAPID CHARACTERIZATION OF A NOVEL INFLUENZA VIRUS 4233
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jcm.asm.org/
+Downloaded
+from
+containment increases exponentially, the affected population
+requiring intervention increases exponentially, and the associ-
+ated costs follow a similar path. Discussions of the costs and
+benefits of pandemic preparedness tend to focus on counter-
+measures such as prevaccination and antiviral stockpiling (15),
+despite the fact that those strategies are entirely dependent on
+very rapid detection and identification. The course of the 2009
+influenza pandemic and the history of its initial characteriza-
+tion demonstrate that we do not currently have this capability.
+The fact that the 2009 H1N1 pandemic strain came essen-
+tially “out of nowhere,” rather than from well-recognized pre-
+dicted sources (as was the case with avian H5 influenza virus
+from Southeast Asia [14]), suggests that attempting to generate
+specific diagnostics for strains that we predict will become the
+next pandemic agents is likely futile. We need universal influ-
+enza virus diagnostics that can detect and characterize all
+known strains of influenza and also detect and characterize
+previously unrecognized strains. In the course of the emer-
+gence of the 2009 pandemic H1N1 influenza virus, the T5000
+demonstrated that capability in a very compelling real-world
+situation.
+ACKNOWLEDGMENTS
+This work represents NHRC report number 10-22 supported by the
+Department of Defense (DoD) Global Emerging Infections Surveil-
+lance and Response System (GEIS), a Division of the Armed Forces
+Health Surveillance Center, under research work unit no. 60501. The
+T5000 Universal Biosensor was developed and provided to NHRC
+with support from the Defense Advanced Research Projects Agency
+(DARPA).
+The views expressed in this work are those of the authors and do not
+reflect the official policy or position of the Department of the Navy,
+Department of the Army, Department of Defense (DoD), or the U.S.
+Government. This research has been conducted in compliance with all
+applicable federal and international regulations governing the protec-
+tion of human subjects in research (protocol NHRC.2009.0004).
+We express our sincere appreciation to Steve Waterman and Sonia
+Montel (CDC-BIDS), Karen Ferran (EWIDS), Jill Giesick and Patri-
+cia McVay (San Diego County Public Health), Paula Kriner and Karla
+Lopez (Imperial County Public Health), the staff at Naval Medical
+Center San Diego (NMRC), and Tabitha Zimmerman (NHRC).
+REFERENCES
+1. Dawood, F. S., S. Jain, L. Finelli, M. W. Shaw, S. Lindstrom, R. J. Garten,
+L. V. Gubareva, X. Xu, C. B. Bridges, T. M. Uyeki, and the Novel Swine-
+Origin Influenza A (H1N1) Virus Investigation Team. 2009. Emergence of a
+novel swine-origin influenza A (H1N1) virus in humans. N. Engl. J. Med.
+360:2605–2615.
+2. Ecker, D. J., J. J. Drader, J. Gutierrez, A. Gutierrez, J. C. Hannis, A. Schink,
+R. Sampath, L. B. Blyn, M. W. Eshoo, T. A. Hall, M. Tobarmosquera, Y.
+Jiang, K. A. Sannes-Lowery, L. L. Cummins, B. Libby, D. J. Walcott, C.
+Massire, R. Ranken, S. Manalili, C. Ivy, R. Melton, H. Levene, V. Harpin, F.
+Li, N. White, M. Pear, J. A. Ecker, V. Samant, D. Knize, D. Robbins, K.
+Rudnick, F. Hajjar, and S. A. Hofstadler. 2006. The Ibis T5000 Universal
+Biosensor—an automated platform for pathogen identification and strain
+typing. J. Assoc. Lab. Autom. 11:341–351.
+3. Ecker, D. J., R. Sampath, C. Massire, L. B. Blyn, T. A. Hall, M. W. Eshoo,
+and S. A. Hofstadler. 2008. Ibis T5000: a universal biosensor approach for
+microbiology. Nat. Rev. Microbiol. 6:553–558.
+4. Ecker, D. J., R. Sampath, L. B. Blyn, M. W. Eshoo, C. Ivy, J. A. Ecker, B.
+Libby, V. Samant, K. A. Sannes-Lowery, R. E. Melton, K. Russell, N. Freed,
+C. Barrozo, J. Wu, K. Rudnick, A. Desai, E. Moradi, D. J. Knize, D. W.
+Robbins, J. C. Hannis, P. M. Harrell, C. Massire, T. A. Hall, Y. Jiang, R.
+Ranken, J. J. Drader, N. White, J. A. McNeil, S. T. Crooke, and S. A.
+Hofstadler. 2005. Rapid identification and strain-typing of respiratory patho-
+gens for epidemic surveillance. Proc. Natl. Acad. Sci. U. S. A. 102:8012–8017.
+5. Faix, D. J., S. S. Sherman, and S. H. Waterman. 2009. Rapid-test sensitivity
+for novel swine-origin influenza A (H1N1) virus in humans. N. Engl. J. Med.
+361:728–729.
+6. Ferguson, N. M., D. A. T. Cummings, S. Cauchemez, C. Fraser, S. Riley, A.
+Meeyai, S. Iamsirithaworn, and D. S. Burke. 2005. Strategies for containing
+an emerging influenza pandemic in Southeast Asia. Nature 437:209–214.
+7. Freed, N. E., C. A. Myers, K. L. Russell, E. A. Walter, M. Irvine, R. G. Coon,
+and D. Metzgar. 2007. Diagnostic discrimination of live attenuated influenza
+vaccine strains and community-acquired pathogenic strains in clinical sam-
+ples. Mol. Cell. Probes 21:103–110.
+8. Garten, R. J., C. T. Davis, C. A. Russell, B. Shu, S. Lindstrom, A. Balish,
+W. M. Sessions, X. Xu, E. Skepner, V. Deyde, M. Okomo-Adhiambo, L.
+Gubareva, J. Barnes, C. B. Smith, S. L. Emery, M. J. Hillman, P. Rivailler,
+J. Smagala, M. de Graaf, D. F. Burke, R. A. Fouchier, C. Pappas, C. M.
+Alpuche-Aranda, H. López-Gatell, I. Olivera, H., López, C. A. Myers, D.
+Faix, P. J. Blair, C. Yu, K. M. Keene, P. D. Dotson, Jr., D. Boxrud, A. R.
+Sambol, S. H. Abid, K. St. George, T. Bannerman, A. L. Moore, D. J.
+Stringer, P. Blevins, G. J. Demmler-Harrison, M. Ginsberg, P. Kriner, S.
+Waterman, S. Smole, H. F. Guevara, E. A. Belongia, P. A. Clark, S. T.
+Beatrice, R. Donis, J. Katz, L. Finelli, C. B. Bridges, M. Shaw, D. B. Jerni-
+gan, T. M. Uyeki, D. J. Smith, A. I. Klimov, and N. J. Cox. 2009. Antigenic
+and genetic characteristics of swine-origin 2009 A(H1N1) influenza viruses
+circulating in humans. Science 325:197–201.
+9. Hofstadler, S. A., R. Sampath, L. B. Blyn, M. W. Eshoo, T. A. Hall, Y. Jiang,
+J. J. Drader, J. C. Hannis, K. A. Sannes-Lowery, L. L. Cummins, B. Libby,
+D. J. Walcott, A. Schink, C. Massire, R. Ranken, J. Gutierrez, S. Manalili,
+C. Ivy, R. Melton, H. Levene, G. Barrett-Wilt, F. Lia, V. Zapp, N. White, V.
+Samant, J. A. McNeil, D. Knize, D. Robbins, K. Rudnick, A. Desai, E.
+Moradi, and D. J. Ecker. 2005. TIGER: the universal biosensor. Int. J. Mass
+Spectrom. 242:23–41.
+10. Isenberg, H. 1994. Clinical microbiology procedures handbook, vol. 2, sec-
+tion 8.5.1. ASM Press, Washington, DC.
+11. Jiang, Y., and S. A. Hofstadler. 2003. A highly efficient and automated
+method of purifying and desalting PCR products for analysis by electrospray
+ionization mass spectrometry. Anal. Biochem. 316:50–57.
+12. Jin, H., B. Lu, H. Zhou, C. Ma, J. Zhou, C. F. Yang, G. Kemble, and H.
+Greenberg. 2003. Multiple amino acid residues confer temperature sensitiv-
+ity to human influenza virus vaccine strains (FluMistTM
+) derived from cold-
+adapted A/Ann Arbor/6/60. Virology 306:18–24.
+13. Johns, M. C., L. R. Burke, K. G. Vest, M. Fukuda, J. A. Pavlin, S. K.
+Sherestha, D. C. Schnabel, S. Tobias, J. A. Tjaden, J. M. Montgomery, D. J.
+Faix, M. R. Duffy, M. E. Cooper, J. L. Sanchez, and D. L. Blazes. Review: a
+growing global network’s role in outbreak response, 2008–09. BMC Micro-
+biology, in press.
+14. Longini, I. M., Jr., A. Nizam, S. Xu, K. Ungchusak, W. Hanshaoworakul,
+D. A. T. Cummings, and M. E. Halloran. 2005. Containing pandemic influ-
+enza at the source. Science 309:1083–1087.
+15. Meltzer, M. I., N. J. Cox, and K. Fukuda. 1999. The economic impact of
+pandemic influenza in the United States: priorities for intervention. Emerg.
+Infect. Dis. 5:659–671.
+16. Muddiman, D. C., G. A. Anderson, S. A. Hofstadler, and R. D. Smith. 1997.
+Length and base composition of PCR-amplified nucleic acids using mass
+measurements from electrospray ionization mass spectrometry. Anal. Chem.
+69:1543–1549.
+17. Sampath, R., K. L. Russell, C. Massire, M. W. Eshoo, V. Harpin, L. B. Blyn,
+R. Melton, C. Ivy, T. Pennella, B. Libby, N. Fan, D. J. Walcott, R. Ranken,
+F. Li, H. Levene, T. A. Hall, M. Pear, A. Schink, J. Drader, D. Moore, D.
+Metzgar, L. Addington, R. Rothman, C. A. Gaydos, K. St. George, M.
+Fuschino, A. B. Dean, D. Stallknecht, G. Goekjian, W. Sessions, S. Yingst,
+M. Monteville, M. Darwish, C. Whitehouse, C. Baldwin, K. H. Rudnick, S. A.
+Hofstadler, S. M. Lemon, and D. J. Ecker. 2007. Global surveillance of
+emerging influenza virus genotypes by mass spectrometry. PLoS One 2:e489.
+18. Sampath, R., T. A. Hall, C. Massire, F. Li, L. B. Blyn, M. W. Eshoo, S. A.
+Hofstadler, and D. J. Ecker. 2007. Rapid identification of emerging infec-
+tious agents using PCR and electrospray ionization mass spectrometry. Ann.
+N. Y. Acad. Sci. 1102:109–120.
+4234 METZGAR ET AL. J. CLIN. MICROBIOL.
+on
+October
+10,
+2017
+by
+UNIVERSITY
+OF
+PENNSYLVANIA
+LIBRARY
+http://jcm.asm.org/
+Downloaded
+from

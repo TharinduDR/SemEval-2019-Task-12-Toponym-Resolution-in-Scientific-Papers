@@ -1,0 +1,668 @@
+JOURNAL OF VIROLOGY,
+0022-538X/99/$04.0010
+July 1999, p. 5586–5592 Vol. 73, No. 7
+Copyright © 1999, American Society for Microbiology. All Rights Reserved.
+Isolation and Characterization of a Hantavirus from Lemmus sibiricus:
+Evidence for Host Switch during Hantavirus Evolution
+OLLI VAPALAHTI,1* ÅKE LUNDKVIST,2 VADIM FEDOROV,3 CHRISTOPHER J. CONROY,4 SIRPA HIRVONEN,1
+ANGELINA PLYUSNINA,1 KIRILL NEMIROV,1 KARL FREDGA,3 JOSEPH A. COOK,4 JUKKA NIEMIMAA,5
+ASKO KAIKUSALO,5 HEIKKI HENTTONEN,5 ANTTI VAHERI,1 AND ALEXANDER PLYUSNIN1
+Department of Virology, Haartman Institute, FIN-00014 University of Helsinki,1 and Finnish Forest Research Institute,
+FIN-01301 Vantaa,5 Finland; Swedish Institute for Infectious Disease Control, SE-171 82 Stockholm,
+and Microbiology and Tumor Biology Center, Karolinska Institute, SE-171 77 Stockholm,2 and
+Department of Genetics, University of Uppsala, S-75007 Uppsala,3 Sweden; and Department
+of Mammalogy, University of Alaska Museum, Fairbanks, Alaska 99775-69604
+Received 30 September 1998/Accepted 19 March 1999
+A novel hantavirus, first detected in Siberian lemmings (Lemmus sibiricus) collected near the Topografov
+River in the Taymyr Peninsula, Siberia (A. Plyusnin et al., Lancet 347:1835–1836, 1996), was isolated in Vero
+E6 cells and in laboratory-bred Norwegian lemmings (Lemmus lemmus). The virus, named Topografov virus
+(TOP), was most closely related to Khabarovsk virus (KBR) and Puumala viruses (PUU). In a cross focus
+reduction neutralization test, anti-TOP Lemmus antisera showed titers at least fourfold higher with TOP than
+with other hantaviruses; however, a rabbit anti-KBR antiserum neutralized TOP and KBR at the same titer.
+The TOP M segment showed 77% nucleotide and 88% amino acid identity with KBR and 76% nucleotide and
+82% amino acid identity with PUU. However, the homology between TOP and the KBR S segment was dis-
+proportionately higher: 88% at the nucleotide level and 96% at the amino acid level. The 3* noncoding regions
+of KBR and the TOP S and M segments were alignable except for 113- and 58-nucleotide deletions in KBR. The
+phylogenetic relationships of TOP, KBR, and PUU and their respective rodent carriers suggest that an excep-
+tional host switch took place during the evolution of these viruses; while TOP and KBR are monophyletic, the
+respective rodent host species are only distantly related.
+The members of the genus Hantavirus, family Bunyaviridae,
+are each primarily carried by a different, specific rodent host
+species. The phylogeny of the hantaviruses has been shown to
+mirror the relatedness of their respective carrier species, sug-
+gesting coevolution of the viruses with their hosts (35). The
+permanent transmission of hantavirus to another rodent spe-
+cies has been documented only once (27); permanent trans-
+mission between different rodent genera has never been doc-
+umented. However, temporary spillover to secondary hosts,
+such as other rodent species or humans, where hantaviruses
+can cause hemorrhagic fever with renal syndrome and hanta-
+virus pulmonary syndrome, may occur (for a review, see ref-
+erences 16, 23, 35, and 40). In northern Europe, the predom-
+inant pathogenic hantavirus is Puumala virus (PUU), carried
+by the bank vole Clethrionomys glareolus. Other known hanta-
+virus carrier rodents on the Eurasian continent include species
+of Rattus, Apodemus, and Microtus.
+Lemmings are arvicoline rodents inhabiting the Arctic tun-
+dra. Lemmus lemmus of Fennoscandia (the area comprising
+Norway, Sweden, Finland, and adjacent areas of Russia) is
+closely related to the western type Lemmus sibiricus, whose
+distribution extends to the Taymyr Peninsula in Russia to the
+east (Fig. 1). Together, these two are genetically more distantly
+related to the central type of L. sibiricus (found from the Lena
+to the Kolyma Rivers) and to the eastern type (found east of
+the Kolyma River and in Alaska), also known as Lemmus
+trimucronatus) (8). L. lemmus is well known for its drastic
+population fluctuations and mass migrations (12). The spring
+migration of lemmings during one peak population year, 1942,
+coincided with an outbreak of more than 1,000 cases of a mild
+hemorrhagic fever-like illness among Finnish and German
+troops stationed in Salla, Finland (14, 44).
+The presence of hantaviral antigen in lemmings in Arctic
+Siberia has been previously reported (28). To screen for a
+hantavirus in lemmings, we obtained lemming liver samples
+that were collected in several locations along the Siberian coast
+during the Swedish-Russian Tundra Ecology Expedition of
+1994 (Fig. 1).
+Our aim was to isolate the hantavirus present in this evo-
+lutionarily distinct arvicoline rodent in cell culture and to
+characterize it genetically and antigenically. When this was
+achieved, the isolated virus was found to have striking sim-
+ilarities to another hantavirus, Khabarovsk virus (KBR), iso-
+lated from an evolutionarily distant arvicoline rodent species,
+Microtus fortis, in the Russian far east (7, 13). This led us to
+further compare the phylogenetic relationships between the
+hantavirus genomes from the carrier rodents and their mito-
+chondrial DNA sequences.
+MATERIALS AND METHODS
+Viruses. All hantavirus strains were propagated in a biosafety level 3 labora-
+tory in Vero E6 cells cultivated in Eagle’s minimal essential medium supple-
+mented with 2% fetal calf serum, 2 mM L-glutamine, penicillin, and streptomy-
+cin. The following hantavirus strains were used: Hantaan/76-118 (HTN) (17),
+Puumala/Sotkamo (PUU) (3, 41), Prospect Hill/PH-1 (PH) (18), KBR/MF-43
+(KBR) (7, 13), Tula/M02V (TUL) (48), and Sin Nombre/CC107 (SN) (39).
+Collection and screening of rodent samples. The lemming liver samples from
+Siberia were collected during the Swedish-Russian Tundra Ecology Expedition
+of 1994 (10). Altogether, 231 samples from 12 localities (Fig. 1) were screened by
+immunoblotting for hantavirus N antigen with a rabbit antiserum raised against
+recombinant PUU N antigen (anti-GST-PUU-N2/3) (47).
+Virus isolation and production of antisera. Isolation of hantavirus in Vero E6
+cells was performed by inoculating diluted, homogenized lemming liver tissue
+* Corresponding author. Mailing address: Haartman Institute, Dept.
+of Virology, P.O.B. 21, FIN-00014 University of Helsinki, Finland.
+Phone: 358-9-191 26486. Fax: 358-9-191 26491. E-mail: Olli.Vapalahti
+@helsinki.fi.
+5586
+(stored for 2 years at 270°C) into Vero E6 cells and passaging the cells by
+trypsinization and the addition of fresh cells (at a 1 to 3 ratio to the rest of the
+cells) every 3 weeks as described previously (48). The cells were checked by
+immunofluorescence assay (IFA) with monoclonal antibody (MAb) 1C12 (21)
+for hantavirus antigen. The isolated virus was purified by a sucrose gradient as
+described before (48).
+The same liver samples were inoculated subcutaneously and intranasally into
+laboratory-bred hantavirus antibody-negative L. lemmus lemmings from Finse,
+Norway. The inoculated lemmings were then sacrificed 30 days later and checked
+for anti-PUU antibodies by IFA and for N antigen by immunoblotting with a
+rabbit antiserum as described above. The generation of polyclonal antisera for a
+focus reduction neutralization test (FRNT) was achieved by the intranasal inoc-
+ulation of New Zealand White rabbits as described previously (30). In addition,
+the sera of experimentally infected L. lemmus lemmings were used.
+Reverse transcription-PCR, cloning, and sequencing of viral sequences. RNA
+extraction (5) was done similarly for infected Vero E6 cell cultures and rodent
+samples. The entire S segment was amplified by using one primer and was cloned
+as described before (32, 34). The M segment was amplified and cloned in three
+parts; for the L segment (nucleotides [nt] 181 to 514), a pair of nested primers
+was used (sequences are available upon request). For this study, the KBR (13)
+total M segment sequence was also completed, and a partial L segment sequence
+of KBR and PH was determined. The PCR amplicons were separated in agarose
+gels and purified with the QIAquick kit (Qiagen GmbH). Direct sequencing was
+performed with an ABI Prism dye terminator sequencing kit (Perkin-Elmer
+Applied Biosystems Division [PE/ABI], Foster City, Calif.) according to the man-
+ufacturer’s instructions, and reactions were run on an ABI 373 A sequencer
+(PE/ABI). Cloning of the PCR products was done with a PGEM-T cloning kit
+(Promega). Plasmids were purified with either the Wizard Mini-preps kit (Pro-
+mega) or the QIAprep kit (Qiagen GmbH) and sequenced either with Seque-
+nase, version 2.0 (United States Biochemicals), or automatically. In the latter
+case, sequencing was performed with either an ABI Prism dye terminator or ABI
+Prism M13F and M13R dye primer sequencing kit (PE/ABI).
+Rodent sequences. Mitochondrial cytochrome b gene (cyt b) DNA sequences
+were either downloaded from GenBank or generated in the laboratory. The
+rodent data are part of a larger study on the evolution of arvicoline genera and
+species of Microtus. They will be published in complete form elsewhere (6).
+Samples were derived from different rodent species from various collections as
+follows (sample number in parentheses). (i) Apodemus flavicollis (AF 3326),
+Clethrionomys glareolus (AF 3133), Clethrionomys rufocanus (AF 3783), L. sibiri-
+cus (AF 15478), L. trimucronatus (AF 4077), Microtus californicus (AF 15891),
+Microtus pennsylvanicus (AF 2511), and Peromyscus maniculatus (AF 17750)
+samples were from the Alaska Frozen Tissue Collection, University of Alaska
+Museum, Fairbanks; (ii) a Reithrodontomys megalotis sample (812 bases, UAM
+38139 [skin]) was from the University of Alaska Museum; and (iii) an M. fortis
+sample (MVZ 1524) was from the Museum of Vertebrate Zoology, University of
+California, Berkeley. DNA was extracted from samples of heart or skin via a
+modified salt method (25). Symmetric PCR (37) was used to amplify portions of
+the cyt b gene (Mus mitochondrial DNA, base pairs [bp] 14139 to 15282) (1) with
+standard cyt b primers (6, 42) and PCR protocols. Sequences for both strands
+were determined on an ABI 373a stretch DNA sequencer with a Prism dye
+terminator kit (Fst-RR, 402119; Perkin-Elmer).
+Phylogenetic analyses. The PHYLIP program package (9) was used to make
+200 bootstrap replicates of the sequence data (Seqboot). Distance matrices were
+calculated by using Kimura’s two-parameter model (Dnadist) and analyzed by
+the Fitch-Margoliash tree-fitting algorithm (Fitch). The bootstrap support per-
+centages of particular branching points were calculated from these trees (Con-
+sense). For comparison, existing sequence data were obtained from GenBank.
+The S segment sequences include KBR/MF-43 (GenBank accession no.
+U35255), PUU/Sotkamo (X61035), PUU/Vindeln/83-L20 (Z48586), PUU/Bash-
+kiria/CG1820 (M32750), PUU/France/90-13 (U22423), PUU/Tobetsu (B010731),
+PUU/Udmurtia/894Cg/91 (Z21497), TUL/Moravia/5286Ma/94 (Z48573), TUL/
+76Ma/87 (Z30941), PH/PH-1 (Z49098), Isla Vista (ILV)/MC-SB-1 (U31534),
+SN/HlO (L25784), New York (NY)/RI-1 (U09488), El Moro Canyon (ELMC)/
+RM-97 (U11427), Laguna Negra (LN)/510B (AF005727), Rio Segundo (RIOS)/
+RMx-Costa-I (U18100), Rio Mamore (RIOM) (U52136), Bayou (BAY)/Louisi-
+ana (L36929), Black Creek Canal (BCC) (L39949), Seoul (SEO)/SR-11
+(M34882), HTN/76-118 (M146271), and Dobrava (DOB)/Slovenia (L41916).
+The M segment sequences included PUU/Sotkamo (X61034), PUU/Vindeln/
+83-L20 (Z49214), PUU/Bashkiria/CG1820 (M29979), PUU/Kazan (Z84205),
+PUU/France90-13 (U22418), TUL/Moravia/5286Ma/94 (Z66538), PH/PH-1
+(Z55129), SN/Hl0 (L25783), NY/RI-1 (U36801), ELMC/RM-97 (U26828), LN/
+510B (AF005728), BAY/Louisiana (L36930), BCC (L39950), SEO/SR-11
+(M34881), HTN/76118 (M14627), Dobrava (DOB) (L33685), and Thailand
+(THAI)/749 (L08756). The L segment sequences included PUU/Sotkamo
+(Z66548), PUU/Bashkiria/CG1820 (M63194), SN/H10 (L37901), BCC (L39951),
+SEO/80-39 (X56492), and HTN/76-118 (X55901).
+The rodent cyt b sequences were aligned by eye. The following rodent cyt-b
+sequences were downloaded from GenBank (full cyt b sequence if not otherwise
+indicated): Calomys lepidus (801 bases, U03544), Microtus arvalis (U54488),
+Oligoryzomys microtis (801 bases, U58381), Oryzomys palustris (401 bases,
+L37388), Peromyscus leucopus (321 bases, X89790), and Rattus rattus (X14848).
+By using the PHYLIP program package (9), Kimura two-parameter distances
+(Dnadist) were analyzed by the Fitch-Margoliash tree-fitting algorithm (Fitch).
+Bootstrap percentages for 250 iterations were calculated (Seqboot), and Tree-
+Map software (31) was used to construct a “tanglegram” of murid rodents and
+associated hantaviruses.
+MAbs and IFA. A panel of MAbs (21, 24) and recombinant Fab fragments (38)
+was used in a standard IFA on acetone-fixed, hantavirus-infected Vero E6 cells
+(21).
+FRNT. Endpoint titers of neutralizing antibodies were determined by FRNT
+(30). Dilutions of sera were mixed with an equal volume containing 30 to 70
+focus-forming units of virus/100 ml. The mixture was incubated for 1 h and
+subsequently inoculated onto confluent Vero E6 cell monolayers in six-well
+plates. After adsorption for 1 h, the wells were overlaid with a mixture of agarose
+and basal Eagle’s medium. Plates were incubated for 9 (HTN), 10 (KBR), or 12
+(PUU, PH, Topografov virus [TOP], TUL, and DOB) days. Virus-infected cells
+were detected with hantavirus-specific polyclonal antisera, followed by peroxi-
+FIG. 1. Geographic origin of the infected wild rodents (localities indicated by arrows) and the geographical distribution of (i) L. lemmus and L. sibiricus western
+type (found west of the Lena River) (ii) L. sibiricus central type (found between the Lena and Kolyma Rivers), and (iii) L. sibiricus eastern type (or L. trimucronatus,
+found east of the Kolyma River) (8, 10). Localities from which lemming samples were analyzed are shown by dots. In addition, Finse, Norway, (origin of the lemming
+colony), and Salla, Finland (the site of a putative lemming-borne outbreak in 1942), are indicated.
+VOL. 73, 1999 CHARACTERIZATION OF A HANTAVIRUS CARRIED BY LEMMINGS 5587
+dase-labeled goat antibodies and a substrate. An 80% reduction in the number
+of foci was the criterion for virus neutralization titers.
+HI test. A goose erythrocyte hemagglutination inhibition (HI) test was per-
+formed essentially as described previously (4). PUU-, TOP-, and KBR-infected
+Vero E6 cell culture supernatants (for TUL, a sucrose gradient peak fraction)
+treated with Tween 20-ether (1:1 ratio) were used as hemagglutination antigens
+with 3 hemagglutination units of antigen per well.
+Nucleotide sequence accession numbers. The TOP S, M, and partial L se-
+quences are deposited in GenBank with accession no. AJ011646, AJ011647, and
+AJ011649, respectively; the KBR total M genome and partial L segment se-
+quences are deposited with accession no. AJ011648 and AJ011650, respectively;
+and the PH partial L sequence is deposited with accession no. AJ011651.
+RESULTS AND DISCUSSION
+Isolation of TOP. Altogether, 231 liver samples from Sibe-
+rian lemmings (L. sibiricus), collected in 12 localities during the
+Swedish-Russian Tundra Ecology Expedition of summer 1994,
+were screened for hantavirus antigen by immunoblotting; 6
+specimens were positive. These animals were among 61 col-
+lected from two localities (no. 8 and 10) on the Taymyr Pen-
+insula (Fig. 1) (33).
+Each positive sample was injected into Norwegian lemmings
+(L. lemmus) originating from Finse, Norway. The virus was
+successfully passaged in (four of six) laboratory lemmings,
+with the presence of antigen in the lungs demonstrated by
+immunoblotting (four of six) and/or with the development of
+anti-PUU antibodies demonstrated by IFA (three of six). The
+lung tissues of antigen-positive lemmings were used for RNA
+isolation, followed by reverse transcription and nested PCR.
+Initially, amplicons (354 bp in length) from the S genomic
+segment from two specimens were prepared. Subsequent se-
+quencing revealed a previously unknown hantavirus geno-
+type, named TOP according to its geographic origin, the area
+around the Topografov River (33) (locality 10) (Fig. 1). Iden-
+tical sequences were also derived from the original lemming
+samples.
+We also applied the same liver samples from wild lemmings
+onto Vero E6 cells without a prior passage in laboratory lem-
+mings. After 9 weeks and two cell passages, four of six isola-
+tions were clearly positive for hantavirus N antigen, including
+isolates from individual samples from the two different loca-
+tions. One of the isolates, designated TOP/Ls136V5/94 and
+originating from locality 10, was selected as the reference
+strain. The virus supernatant could be passaged several times
+in Vero E6 cells, and the virus was further purified by sucrose
+gradient ultracentrifugation; the viral peak was recovered at
+42% (wt/vol) sucrose, where hantavirus-like particles could be
+distinguished by electron microscopy. TOP G1 migrated more
+slowly in a sodium dodecyl sulfate-polyacrylamide gel than did
+PUU G1, whereas TOP G2 and N showed apparent molecular
+weights similar to those of PUU G2 and N (data not shown).
+Antigenic properties. When studied with a panel of nucleo-
+capsid protein-specific MAbs by IFA, TOP was found to be
+antigenically most closely related to KBR (Table 1). Two
+MAbs could be used to distinguish PUU from TOP and KBR.
+The nucleocapsid proteins of TOP and KBR differed only in
+reactivity to one anti-PUU MAb, 3H9, the epitope of which
+has been mapped to the most variable part of N, amino acids
+(aa) 251 to 260 (20, 22). The reactivity of 3H9 with TOP was
+very weak: aa 252 to 257 for TOP N were KPGAPA instead of
+KPGTPA in PUU and KBR, which most probably explains the
+different reactivity. We noted also that native SN was detected
+by two MAbs (1C8 and 3C11) that were not reactive with
+recombinant SN nucleocapsid protein (24) (Table 1).
+In a cross-FRNT, TOP was distinguishable from all other
+hantaviruses with at least a two-way fourfold titer difference
+(Table 2) except for a one-way titer difference for KBR, as the
+anti-KBR rabbit antiserum neutralized KBR and TOP with the
+same titer (1:1,280). A similar pattern was obtained in an HI
+test.
+Genetic properties. Sequencing of TOP S showed that the S
+segment consists of 1,953 nt and codes for a nucleocapsid
+protein of 433 aa and a putative nonstructural protein, NSs, of
+90 aa. The sequence was most closely related to that of KBR
+(82% nucleotide and 96% amino acid identity for the S seg-
+ment) and PUU (77% nucleotide and 87% amino acid iden-
+tity) (Table 3). The 39 noncoding region (according to the
+messenger sense) of TOP S was alignable with that of KBR,
+showing 77% nucleotide homology. However, the KBR S non-
+coding region had a deletion of 113 nt compared to the TOP S
+sequence.
+The M segment consisted of 3,735 nt and coded for a G1-G2
+precursor of 1,142 aa. The M segment showed considerably
+TABLE 1. Selected panel of nucleocapsid protein-specific MAbs
+and Fab fragments showing reactivities in an IFA
+Hantavirus
+strain
+Reactivity with MAb or Fab fragment:
+1C12 3F10 6A6 7A4 1C8 3C11 3H9 Fab 41
+TOP 1 2 2 1 1 1 (1/2)a 2
+KBR 1 2 2 1 1 1 1 2
+PUU 1 2 2 2 1 1 1 1
+TUL 1 1 1 1 1 1 2 2
+PH 1 2 1 1 1 1 2 2
+SN 1 2 2 1 1 1 2 2
+a (1/2), very weak reactivity.
+TABLE 2. Cross-FRNT and cross-HI comparison of
+TOP with other hantaviruses
+Test and
+hantavirusa
+Antibody titer with antiserum to:
+TOP/
+LS136
+KBR/
+MF43
+PUU/
+Vindeln/
+83-L20
+TUL/
+M02V
+PH/
+PH-1
+HTN/
+76-118
+FRNT
+TOP 2,560 1,280 80 160 40 40
+KBR/MF-43 640 1,280 160 80 80 ,20
+PUU/Vindeln/83-L20 160 ,20 1,280 20 80 ,20
+TUL/M02V 80 20 20 5,120 160 80
+PH/PH-1 80 ,20 ,20 160 1,280 ,20
+HTN/76-118 NDb ,20 ,20 ,20 ,20 320
+HI
+TOP/76-118 160 320 40 80 20 20
+KBR/MF-43 80 320 40 40 20 10
+PUU/PH-1 40 160 320 20 20 20
+TUL/M02V 160 40 80 320 80 80
+a Strains described in Materials and Methods.
+b ND, not determined.
+TABLE 3. S, M, and L segment nucleotide and amino acid
+identities of TOP with other hantaviruses
+Segment
+(corresponding
+protein)
+% nt (aa) TOP identity with:
+KBR PUU TUL SN HTN SEO
+S (N) 82 (96) 77 (87) 76 (82) 67 (72) 62 (64) 62 (63)
+M (G1 and G2) 77 (88) 76 (82) 73 (83) 66 (68) 60 (55) 60 (55)
+La (L) 81 (90) 78 (90) 74 (84) 69 (76) 59 (58) 64 (61)
+a Partial sequence (nt 181 to 514).
+5588 VAPALAHTI ET AL. J. VIROL.
+more variation than the S segment, but the pattern of related-
+ness to different hantaviruses was the same, showing 77% nu-
+cleotide and 88% amino acid identity between TOP and KBR
+and 76% nucleotide and 83% amino acid identity between
+TOP and PUU (Table 3). Similarly to the S segment, a deletion
+of 55 nt was found in the 39 noncoding region of KBR com-
+pared to TOP. The putative Asn-linked glycosylation sites in
+G1 and G2 were identical among TOP, PUU/Sotkamo, and
+KBR. The L segment sequence was analyzed from nt 181 to
+514. This region showed 81% nucleotide and 90% amino acid
+homology to the KBR L segment. Although the M segment
+tends to be the most variable of the hantavirus genome seg-
+ments, the difference between the M and S segment amino acid
+homologies for TOP and KBR (88 and 96%, respectively) is
+exceptionally high. While this could be explained by reassort-
+ment, no sequence data currently available on related viruses
+support this hypothesis. The discordant homologies for the two
+genome segments could mean that either (i) a recombinant
+virus would have had better capabilities for a permanent host
+switch or (ii) after the host switch, an evolutionary pressure in
+a new host has generated more amino acid changes in the
+glycoproteins than in the nucleocapsid protein.
+TOP strain variation. TOP strains derived from the two
+localities (no. 8 and 10 [Fig. 1]) were analyzed by reverse
+transcription-PCR of a 354-nt fragment (nt 4 to 357) of the S
+FIG. 2. Phylogenetic trees (PHYLIP) of hantavirus S (A), M (B), and partial
+L segments (C) (see Materials and Methods). Kimura two-parameter distances
+(Dnadist) were used to construct the Fitch-Margoliash tree (Fitch). Branching
+probabilities of .60% for different hantaviruses are indicated. PUU-Sotk, PUU-
+Sotkamo; TUL-02, Tula/M0ZV. Hantavirus strains are described in Materials
+and Methods.
+VOL. 73, 1999 CHARACTERIZATION OF A HANTAVIRUS CARRIED BY LEMMINGS 5589
+segment and subsequent sequencing. Interestingly, in locality
+8, two lineages showing 7.5% nucleotide divergence cocircu-
+lated. The other lineage (represented by strain 29) was sur-
+prisingly closely related (1% nucleotide divergence) to the
+TOP strains from locality 10 (no. 136 and 137). As localities 8
+and 10 are about 600 km apart, the lack of clear geographic
+clustering of genetic variants might reflect the dispersal capac-
+ity of lemmings (8).
+Phylogenetic relationships of hantaviruses and respective
+rodent carriers. In the phylogenetic trees created for all three
+genome segments (Fig. 2), TOP was monophyletic with KBR.
+Furthermore, the TOP-KBR clade had a common origin with
+the PUU viruses with a high branching probability. A compar-
+ison of the phylogenetic trees of hantaviruses and their known
+carriers shows (Fig. 3) that coevolution is a general rule (re-
+sulting in similar branching order for the rodents and their
+respective hantaviruses). Also, a heuristic search for the best
+match between trees (31) suggested nine cospeciations. How-
+ever, an evident host switch has occurred for the ancestor of
+KBR from a PUU lineage, as KBR does not group with other
+Microtus-borne viruses but instead has a common node of
+origin, firstly with TOP and secondly with PUU, which are
+carried by Lemmus and Clethrionomys, respectively. Another
+clear discrepancy in the arvicoline rodent phylogeny is that the
+branching of TOP from the PUU lineage is distal to the main
+Microtus-derived virus cluster (PH, TUL, and ILV), although
+the Clethrionomys and Microtus species are more closely re-
+lated to each other and have a common evolutionary origin
+(83% bootstrap support) compared to the more ancestral Lem-
+mus (Fig. 3) (26). In fact, the branching position of the com-
+FIG. 3. Tanglegram constructed with TreeMap software (31), showing murid rodents and associated hantaviruses. The host tree on the left was generated from cyt
+b sequences, and the hantavirus S segment tree on the right was generated from S segment nucleotide sequences. Kimura two-parameter distances (Dnadist) were used
+to construct the Fitch-Margoliash tree (Fitch). Values indicate bootstrap percentages of .50% for 250 iterations (Seqboot). Trees were rerooted with Rattus rattus and
+SEO as outgroups. Hantavirus strains are described in Materials and Methods.
+5590 VAPALAHTI ET AL. J. VIROL.
+mon ancestor of KBR and TOP is not in line with the phylog-
+eny with either of the host rodents.
+A hypothetical scenario for the host switch events might be
+that the ancestor of Clethrionomys, clearly after the divergence
+of the rapidly radiating Microtus species approximately 1.5
+million years ago (26), was the donor of an ancestral virus
+which became the common ancestor of both TOP and KBR.
+This ancestral virus branch is separate from all PUU viruses
+from Japan to Belgium, which have a distinct, common node of
+origin. It is not certain if the ancestral virus was first transmit-
+ted to Lemmus; the long deletions in the S and M segment 39
+noncoding regions of KBR compared to TOP suggest that
+TOP could represent a more ancestral virus than KBR. How-
+ever, the knowledge of the genetic diversity and geographical
+distribution of TOP is limited. We screened more than 400 L.
+lemmus samples from Fennoscandia and a total of 177 lem-
+mings from other locations in the Russian Arctic (Fig. 1) with-
+out finding evidence of hantavirus antigen.
+The geographic distributions of M. fortis and L. sibiricus do
+not overlap today (43), meaning that both species should per-
+manently carry their respective viruses; i.e., TOP and KBR do
+not represent spillover viruses. During the more than 3 million
+years that the Clethrionomys-Microtus branch evolved from the
+common ancestor to Lemmus (36), the geographic ranges of
+the host rodent species have probably varied considerably, and
+the host switch(es) may have taken place, for example, in the
+southern ranges frequented by the central L. sibiricus group.
+Recent data on SN-like viruses of P. leucopus and P. mani-
+culatus have shown that horizontal transmission between close-
+ly related species can occur (27). Another likely hantavirus
+host transfer (or possibly duplication) is suggested by the ex-
+istence of Dobrava virus in both A. flavicollis and Apodemus
+agrarius in Europe (28a), while the latter carries the distinct
+Hantaan virus in far eastern Asia. Data on South American
+hantaviruses and their host species, both of which have radi-
+ated rapidly (15, 19), are not in full agreement with the coevo-
+lution in rodent host species (see, e.g., the Laguna Negra virus,
+[Fig. 3]) (29). In the cases of TOP and KBR, while the se-
+quence of events remains unclear, these are the first clear
+indications that a hantavirus host switch event can indeed
+occur among more distantly related rodent species and even
+between different rodent genera. Yet a host switch seems to be
+a rare event, and cospeciation remains the rule. An analogy to
+the phylogeny of rodent carriers can be drawn, for example,
+with Arenaviridae (2) and even with some ectoparasites such as
+lice (11), which show cospeciation with rodents and occasional
+host switches, resulting in new adaptive peaks.
+The taxonomic relationships of TOP and KBR are of special
+interest. If our hypothesis about a horizontal transmission, or
+host switch, during evolution of these viruses is correct, it
+seems logical to assume that TOP and KBR are still radiating
+from each other. Ongoing radiation by the two viruses could be
+reflected by different degrees of diversity for the M and S
+segments of TOP and KBR. Nevertheless, based on an analysis
+of the combination of properties of TOP and KBR, we believe
+that TOP and KBR fulfill the criteria for demarcation (45) and
+should thus be considered distinct virus species. The strongest
+argument for such a conclusion is that TOP and KBR have
+clearly distinct host species in which they are constantly main-
+tained. The identification of additional sequences from related
+hantaviruses might shed light on the origin and relatedness of
+these viruses. For example, another hantavirus identified from
+M. fortis in the Russian far east, Vladivostok, seems at least as
+divergent from KBR as TOP is (15a).
+Is TOP a pathogen? We screened serum samples of World
+War II veterans who had been stationed in Salla, Finland,
+during the putative lemming-borne hantavirus outbreak of
+1942 for hantavirus antibodies. While hantavirus antibodies
+were found in one-third of the samples, no difference in reac-
+tivity or antibody titers could be demonstrated between TOP,
+PUU, and KBR antigens by FRNT or with truncated recom-
+binant antigens in an enzyme immunoassay (data not shown).
+However, similar results were also found in samples from peo-
+ple with decades-old PUU immunity who had no association
+with lemmings. It remains to be determined whether a hanta-
+virus actually circulates in lemmings in Fennoscandia and if
+TOP can be transmitted to humans. However, it is possible that
+the outbreak of 1942 was caused by a hantavirus carried by
+lemmings, since (i) the clinical symptoms mimicked those later
+described for nephropathia epidemica, including high fever,
+acute renal failure, and, occasionally, myopia (14, 44); (ii) the
+year 1942 coincided with a mass migration of lemmings in the
+region; and (iii) the incidence of the disease peaked in May
+and June 1942, which coincides with the lemming spring mi-
+gration and contrasts with the epidemiology of the Clethriono-
+mys-borne disease, which normally peaks in November or De-
+cember in Fennoscandia (46). As the population density of
+lemmings fluctuates strongly, it may be that only during occa-
+sional peak years do rodent densities reach the threshold nec-
+essary for the virus to spread efficiently.
+ACKNOWLEDGMENTS
+We thank Carl-Henrik von Bonsdorff and Anssi Mörttinen for elec-
+tron micrographs and Tytti Manni, Leena Kostamovaara, and Mari
+Gilljam for expert technical assistance. We thank Brian Hjelle for
+sharing primer sequences that were used for the initial detection of the
+TOP S segment in lemming samples. Hiroaki Kariwa is acknowledged
+for sharing his data on Vladivostok virus and Stuart Nichol for helpful
+discussions and for sharing the complete sequence of the KBR S
+segment and a manuscript before publication.
+This work was supported by grants from the Wilhelm Stockmann
+Foundation, the Sigrid Jusélius Foundation, the European Commis-
+sion (BMH4-CT97-2499), and the Swedish Medical Research Council
+(12177 and 12642).
+REFERENCES
+1. Bibb, M. J., R. A. Van Etten, C. T. Wright, M. W. Walberg, and D. Clayton.
+1981. Sequence and gene organization of mouse mitochondrial DNA. Cell
+26:167–180.
+2. Bowen, M., C. J. Peters, J. M. Mills, and S. T. Nichols. 1996. Oliveros virus:
+a novel arenavirus from Argentina. Virology 217:362–366.
+3. Brummer-Korvenkontio, M., H. Henttonen, and A. Vaheri. 1982. Hemor-
+rhagic fever with renal syndrome in Finland: ecology and virology of nephro-
+pathia epidemica. Scand. J. Infect. Dis. Suppl. 36:S88–S91.
+4. Brummer-Korvenkontio, M., T. Manni, S. Ukkonen, and A. Vaheri. 1986.
+Detection of hemagglutination-inhibiting antibodies in patients with nephro-
+pathia epidemica and Korean hemorrhagic fever by using Puumala virus cell
+culture antigen. J. Infect. Dis. 153:997–998. (Letter.)
+5. Chomczynski, P., and N. Sacchi. 1987. Single-step method of RNA isolation
+by acid guanidinium-phenol-chloroform extraction. Anal. Biochem. 162:156–
+159.
+6. Conroy, C. J., and J. A. Cook. MtDNA evidence for repeated pulses of
+speciation within arvicoline and murid rodents. J. Mamm. Evol., in press.
+7. Dzagurova, T., E. Tkachenko, R. Slonova, L. Ivanov, E. Ivanidze, S. Marke-
+shin, A. Dekonenko, B. Niklasson, and A. Lundkvist. 1995. Antigenic rela-
+tionships of hantavirus strains analysed by monoclonal antibodies. Arch.
+Virol. 140:1763–1773.
+8. Fedorov, V., A. Goropashnaya, G. H. Jarrell, and K. Fredga. 1999. Phylo-
+geographic structure and mitochondrial DNA variation in true lemmings
+(Lemmus) from the Eurasian Arctic. Biol. J. Linn. Soc. 66:357–371.
+9. Felsenstein, J. 1993. PHYLIP (Phylogeny Inference Package), version 3.5c.
+University of Washington, Seattle.
+10. Fredga, K., V. Fedorov, H. Gelter, G. Jarrell, and C.-G. Thulin. 1994. Ge-
+netic studies in lemmings, p. 235–242. In E. Grönlund and O. Melander
+(ed.), Swedish-Russian tundra ecology expedition ’94. Swedish Polar Re-
+search Secretariat, Stockholm, Sweden.
+11. Hafner, M. S., P. D. Sudman, F. X. Villablanca, T. A. Spradling, J. W.
+Demastes, and S. A. Nadler. 1994. Disparate rates of molecular evolution in
+cospeciating hosts and parasites. Science 265:1087–1090.
+VOL. 73, 1999 CHARACTERIZATION OF A HANTAVIRUS CARRIED BY LEMMINGS 5591
+12. Henttonen, H., and A. Kaikusalo. 1993. Lemming movements, p. 157–186. In
+N. C. Stenseth and R. A. Inns (ed.), The biology of lemmings. Academic
+Press, Inc., New York, N.Y.
+13. Hörling, J., V. Chizhikov, Å. Lundkvist, M. Jonsson, L. Ivanov, A. Deko-
+nenko, B. Niklasson, T. Dzagurova, C. J. Peters, E. Tkachenko, and S. T.
+Nichol. 1996. Khabarovsk virus: a phylogenetically and serologically distinct
+hantavirus isolated from Microtus fortis trapped in far-east Russia. J. Gen.
+Virol. 77:687–694.
+14. Hortling, H. 1946. En epidemi av fältfäber (?) i finska Lappland. Nord. Med.
+30:1001–1004.
+15. Johnson, A. M., M. D. Bowen, T. G. Ksiazek, R. J. Williams, R. Bryan, J.
+Mills, C. J. Peters, and S. T. Nichol. 1997. Laguna Negra virus associated
+with HPS in western Paraguay and Bolivia. Virology 238:115–127.
+15a.Kariwa, H. Personal communication.
+16. Khan, A. S., T. G. Ksiazek, and C. J. Peters. 1996. Hantavirus pulmonary
+syndrome. Lancet 347:739–741.
+17. Lee, H. W., P. W. Lee, and K. M. Johnson. 1978. Isolation of the etiologic
+agent of Korean hemorrhagic fever. J. Infect. Dis. 137:289–308.
+18. Lee, P. W., H. L. Amyx, D. C. Gajdusek, R. T. Yanagihara, D. Goldgaber, and
+C. J. Gibbs, Jr. 1982. New hemorrhagic fever with renal syndrome-related
+virus in rodents in the United States. Lancet ii:1405. (Letter.)
+19. Levis, S., S. Morzunov, J. Rowe, D. Enria, N. Pini, G. Calderon, M. Sabat-
+tini, and S. C. St. Jeor. 1998. Genetic diversity and epidemiology of hanta-
+viruses in Argentina. J. Infect. Dis. 177:529–538.
+20. Lundkvist, Å., S. Björsten, B. Niklasson, and N. Ahlborg. 1995. Mapping of
+B-cell determinants in the nucleocapsid protein of Puumala virus: definition
+of epitopes specific for acute immunoglobulin G recognition in humans. Clin.
+Diagn. Lab. Immunol. 2:82–86.
+21. Lundkvist, Å., A. Fatouros, and B. Niklasson. 1991. Antigenic variation of
+European haemorrhagic fever with renal syndrome virus strains character-
+ized using bank vole monoclonal antibodies. J. Gen. Virol. 72:2097–2103.
+22. Lundkvist, Å., H. Kallio-Kokko, K. Brus Sjölander, H. Lankinen, B. Niklas-
+son, A. Vaheri, and O. Vapalahti. 1996. Characterization of Puumala virus
+nucleocapsid protein: identification of B-cell epitopes and domains involved
+in protective immunity. Virology 216:397–406.
+23. Lundkvist, Å., and B. Niklasson. 1994. Haemorrhagic fever with renal syn-
+drome and other hantavirus infections. Rev. Med. Virol. 4:177–184.
+24. Lundkvist, Å., O. Vapalahti, A. Plyusnin, K. Brus Sjölander, B. Niklasson,
+and A. Vaheri. 1996. Characterization of Tula virus antigenic determinants
+defined by monoclonal antibodies raised against baculovirus-expressed nu-
+cleocapsid protein. Virus Res. 45:29–44.
+25. Medrano, J., E. Aasen, and L. Sharrow. 1990. DNA extraction from nucle-
+ated red blood cells. BioTechniques 8:43.
+26. Modi, W. S. 1996. Phylogenetic history of LINE-1 among arvicolid rodents.
+Mol. Biol. Evol. 13:633–641.
+27. Morzunov, S. P., J. E. Rowe, T. G. Ksiazek, C. J. Peters, S. C. St. Jeor, and
+S. T. Nichol. 1998. Genetic analysis of the diversity and origin of hantaviruses
+in Peromyscus leucopus mice in North America. J. Virol. 72:57–64.
+28. Myasnikov, Y. A., N. S. Apekina, A. P. Zuevskii, A. V. Khitrin, and A. D.
+Bernshtein. 1992. The disposition of natural foci of hemorrhagic fever with
+renal syndrome in different landscape areas of Tyumen Province. Vopr.
+Virusol. 37:161–165. (In Russian.)
+28a.Nemirov, K., O. Vapalahti, Å. Lundkvist, V. Vasilenko, I. Golovljova, A.
+Plyusnina, J. Niemimaa, J. Laakkonen, H. henttonen, A. Vaheri, A. Ply-
+usnin. 1999. Isolation and characterisation of Dobrava hantavirus carried by
+the striped field mouse (Apodemus agrarius) in Estonia. J. Gen. Virol. 80:
+371–379.
+29. Nichol, S. T. Genetic analysis of hantaviruses and their host relationships. In
+J. F. Saluzz and B. Dodet (ed.), Factors in the emergence and control of
+rodent-borne viral diseases (hantaviruses and arenaviruses), in press.
+Elsevier, Paris, France.
+30. Niklasson, B., M. Jonsson, Å. Lundkvist, J. Horling, and E. Tkachenko.
+1991. Comparison of European isolates of viruses causing hemorrhagic fever
+with renal syndrome by a neutralization test. Am. J. Trop. Med. Hyg. 45:660–
+665.
+31. Page, R. D. M. 1997. Tree map, version 1.0c. University of Glasgow, Glas-
+gow, Scotland.
+32. Plyusnin, A., O. Vapalahti, H. Lankinen, H. Lehväslaiho, N. Apekina, Y.
+Myasnikov, H. Kallio-Kokko, H. Henttonen, Å. Lundkvist, M. Brummer-
+Korvenkontio, I. Gavrilovskaya, and A. Vaheri. 1994. Tula virus: a newly de-
+tected hantavirus carried by European common voles. J. Virol. 68:7833–
+7839.
+33. Plyusnin, A., O. Vapalahti, Å. Lundkvist, H. Henttonen, and A. Vaheri. 1996.
+Newly recognized hantavirus in Siberian lemmings. Lancet 347:1835–1836.
+34. Plyusnin, A., O. Vapalahti, K. Ulfves, H. Lehvaslaiho, N. Apekina, I. Gav-
+rilovskaya, V. Blinov, and A. Vaheri. 1994. Sequences of wild Puumala virus
+genes show a correlation of genetic variation with geographic origin of the
+strains. J. Gen. Virol. 75:405–409.
+35. Plyusnin, A., O. Vapalahti, and A. Vaheri. 1996. Hantaviruses: genome
+structure, expression and evolution. J. Gen. Virol. 77:2677–2687.
+36. Repenning, C., O. Fejfar, and W.-D. Heinrich. 1990. Arvicolid rodent bio-
+chronology of the northern hemisphere, p. 385–418. In International Sym-
+posium on Evolution, Phylogeny, and Biostratigraphy of Arvicolids (Roden-
+tia, Mammalia). Pfeil-Verlag, Prague, Czechoslovakia.
+37. Saiki, R., D. Gelfand, S. Stoffel, S. Scharf, R. Higuchi, G. Horn, K. Mullis,
+and H. Erlich. 1981. Primer-directed enzymatic amplification of DNA with a
+thermostable DNA polymerase. Science 239:487–491.
+38. Salonen, E.-M., P. Parren, Y. Graus, Å. Lundkvist, P. Fisicaro, O. Vapalahti,
+H. Kallio-Kokko, A. Vaheri, and D. Burton. 1998. Human recombinant
+Puumala virus antibodies: cross reaction with other hantaviruses and use in
+diagnostics. J. Gen. Virol. 79:667–671.
+39. Schmaljohn, A. L., D. Li, D. L. Negley, D. S. Bressler, M. J. Turell, G. W.
+Korch, M. S. Ascher, and C. S. Schmaljohn. 1995. Isolation and initial char-
+acterization of a newfound hantavirus from California. Virology 206:963–
+972.
+40. Schmaljohn, C., and B. Hjelle. 1997. Hantaviruses: a global disease problem.
+Emerg. Infect. Dis. 3:95–104.
+41. Schmaljohn, C. S., S. E. Hasty, J. M. Dalrymple, J. W. LeDuc, H. W. Lee,
+C.-H. von Bonsdorff, M. Brummer-Korvenkontio, A. Vaheri, T. F. Tsai, H. L.
+Regnery, D. Goldgaber, and P. W. Lee. 1985. Antigenic and genetic proper-
+ties of viruses linked to hemorrhagic fever with renal syndrome. Science
+227:1041–1044.
+42. Smith, M. F., and J. L. Patton. 1993. The diversification of South American
+murid rodents: evidence from mitochondrial DNA sequence data for the
+akodontine tribe. Biol. J. Linn. Soc. 50:149–177.
+43. Stenseth, N. C., and R. A. Ims (ed.). 1993. The biology of lemmings. Aca-
+demic Press, Inc., New York, N.Y.
+44. Stuhlfault, K. 1943. Bericht über ein neues schlammfieberähnliches Kran-
+kenheitsbild bei Deutschen Truppen in Lappland. Dtsch. Med. Wochenschr.
+69:439–443, 474–477.
+45. Van Regenmortel, M. H. V., D. H. L. Bishop, C. M. Fauquet, M. A. Mayo,
+J. Maniloff, and C. H. Calisher. 1997. Guidelines to the demarcation of virus
+species. Arch. Virol. 142:1505–1528.
+46. Vapalahti, K., M. Paunio, A. Vaheri, and O. Vapalahti. Epidemiology of
+Puumala virus infections in Finland: increased risk for farmers. Am. J. Epi-
+demiol., in press.
+47. Vapalahti, O., H. Kallio-Kokko, A. Närvänen, I. Julkunen, Å. Lundkvist, A.
+Plyusnin, H. Lehväslaiho, M. Brummer-Korvenkontio, A. Vaheri, and H.
+Lankinen. 1995. Human B-cell epitopes of Puumala virus nucleocapsid pro-
+tein, the major antigen in early serological response. J. Med. Virol. 46:293–
+303.
+48. Vapalahti, O., Å. Lundkvist, S. K. J. Kukkonen, Y. Cheng, M. Gilljam, M.
+Kanerva, T. Manni, M. Pejcoch, J. Niemimaa, A. Kaikusalo, A. Henttonen,
+A. Vaheri, and A. Plyusnin. 1996. Isolation and characterization of Tula
+virus, a distinct serotype in the genus Hantavirus, family Bunyaviridae. J. Gen.
+Virol. 77:3063–3067.
+5592 VAPALAHTI ET AL. J. VIROL.

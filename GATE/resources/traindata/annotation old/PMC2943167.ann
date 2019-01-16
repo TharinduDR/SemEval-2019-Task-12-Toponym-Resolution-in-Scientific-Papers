@@ -1,0 +1,72 @@
+T1	Protein 0 1	©
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 423 424	h
+#2	AnnotatorNotes T2	END
+T3	Protein 559 564	Niels
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1087 1089	dk
+#4	AnnotatorNotes T4	END
+T5	Protein 3721 3727	Number
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3974 3983	Dovepress
+#6	AnnotatorNotes T6	END
+T7	Protein 9133 9141	Clinical
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 9162 9165	121
+#8	AnnotatorNotes T8	END
+T9	Protein 9217 9226	Dovepress
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9270 9279	Dovepress
+#10	AnnotatorNotes T10	END
+T11	Protein 13733 13741	Clinical
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 13837 13846	Dovepress
+#12	AnnotatorNotes T12	END
+T13	Protein 18082 18091	Dovepress
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 18135 18144	Dovepress
+#14	AnnotatorNotes T14	END
+T15	Protein 23337 23352	Acknowledgments
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 29222 29223	.
+#16	AnnotatorNotes T16	END
+T17	Protein 18003 18004	c
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 18070 18081	outpatients
+#18	AnnotatorNotes T18	END
+T19	Location 1263 1270	Denmark
+#19	AnnotatorNotes T19	<latlng>56, 10</latlng><pop>5484000</pop><geoID>2623032</geoID>
+T20	Location 2978 2985	Denmark
+#20	AnnotatorNotes T20	<latlng>56, 10</latlng><pop>5484000</pop><geoID>2623032</geoID>
+T21	Location 3222 3229	Denmark
+#21	AnnotatorNotes T21	<latlng>56, 10</latlng><pop>5484000</pop><geoID>2623032</geoID>
+T22	Location 3305 3312	Krefeld
+#22	AnnotatorNotes T22	<latlng>51.34472, 6.58611</latlng><pop>226812</pop><geoID>3231906</geoID>
+T23	Location 3314 3321	Germany
+#23	AnnotatorNotes T23	<latlng>51.5, 10.5</latlng><pop>81802257</pop><geoID>2921044</geoID>
+T25	Location 5275 5282	Denmark
+#25	AnnotatorNotes T25	<latlng>56, 10</latlng><pop>5484000</pop><geoID>2623032</geoID>
+T26	Location 5633 5640	Denmark
+#26	AnnotatorNotes T26	<latlng>56, 10</latlng><pop>5484000</pop><geoID>2623032</geoID>
+T28	Location 10545 10551	Viborg
+#28	AnnotatorNotes T28	<latlng>56.45, 9.36667</latlng><pop>93703</pop><geoID>2610315</geoID>
+T29	Location 10556 10569	North Jutland
+#29	AnnotatorNotes T29	<latlng>57, 9.66667</latlng><pop>580273</pop><geoID>6418540</geoID>
+T30	Location 10944 10951	Denmark
+#30	AnnotatorNotes T30	<latlng>56, 10</latlng><pop>5484000</pop><geoID>2623032</geoID>
+T31	Location 12102 12117	College Station
+#31	AnnotatorNotes T31	<latlng>30.58572, -96.29594</latlng><pop>93857</pop><geoID>7173209</geoID>
+T32	Location 12119 12121	TX
+#32	AnnotatorNotes T32	<latlng>31.25044, -99.25061</latlng><pop>22875689</pop><geoID>4736286</geoID>
+T33	Location 12123 12126	USA
+#33	AnnotatorNotes T33	<latlng>39.76, -98.5</latlng><pop>310232863</pop><geoID>6252001</geoID>
+T34	Location 16700 16707	Denmark
+#34	AnnotatorNotes T34	<latlng>56, 10</latlng><pop>5484000</pop><geoID>2623032</geoID>
+T24	Location 5260 5266	Aarhus
+#24	AnnotatorNotes T24	<latlng>56.16317, 10.16897</latlng><geoID>2624647</geoID><pop>310653</pop>
+T27	Location 10503 10509	Aarhus
+#27	AnnotatorNotes T27	<latlng>56.16317, 10.16897</latlng><geoID>2624647</geoID><pop>310653</pop>
+T35	Protein 2561 2569	Keywords
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 2638 2649	specificity
+#36	AnnotatorNotes T36	END

@@ -1,0 +1,663 @@
+﻿Volume 1 1 Number 5 1983 Nucleic Acids Research
+The sequence of RNA segment 1 of influenza virus A/NT/60/68 and its comparson with the
+corresponding segmet of strain A/PR/8/34 and A/WSN/33
+K.L.Jones, J.A.Huddleston and G.G.Brownlee
+Sir William Dunn School of Pathology, University of Oxford, South Parks Road, Oxford OXI
+3RE, UK
+Received 7 January 1983; Revised and Accepted 2 February 1983
+ABSTRACT
+The complete nucleotide sequence of RNA segment 1 of influenza virus
+A/NT/60/68, corresponding to the PB2 protein, has been determined. It is
+2341 nucleotides long, encoding a predicted product of 759 amino acids with
+a net charge of +271 at neutral pH. The predicted amino acid sequence has
+been compared to the equivalent sequences in influenza viruses A/PR/8/34 and
+A/WSN/33. Evolutionary divergence, assuming a direct lineage from A/PR/8/34
+and allowing for "laboratory drift", is 0.08% per year. The alignment of RNA
+segment 10 of A/NT/60/68 with segments 1 and 3 is completed, confirming that
+it is a mosaic of regions from these two segments.
+INTRODUCTION
+Influenza A viruses have negative stranded, segmented RNA genomes
+consisting of 8 essential segments (1), which code for at least 10 proteins
+(2). The largest of these segments are over 2,200 nucleotides long and code
+for the 3 polymerase proteins (PB2, PBl, PA)(3,4). Together with the viral
+RNA and nucleocapsid protein (NP), they make up the active transcribing
+structures (5,6). RNA segment 1 of influenza virus A/NT/60/68 encodes the
+PB2 protein (the smaller of the 2 basic P proteins), found in other influenza
+strains, to recognise host cell cap 1 structures (7-11). The capped RNA is
+cleaved 10-14 nucleotides from its 5' end (12-14), preferentially after a
+purine residue (15), by a cap 1-dependent virion endonuclease (15), thus pro-
+ducing an RNA primer. The larger basic P protein (PBl) appears to catalyse
+the addition of the first ribonucleotide (7,10), which is complementary to
+the 2nd or 3rd residue of the viral RNA (14,16) to the free 3' OH group of
+this primer. Additional processes such as elongation and termination of the
+nascent RNA chain remain to be assigned to specific proteins, although the
+acidic P protein (PA) may be involved in at least one of these functions (10).
+The proposed function of the 3 polymerase proteins and cross reference to the
+older nomenclature is summarized in Table 1.
+© IRL Press Limited, Oxford, England. 1 555
+Nucleic Acids Research
+TABLE 1 Function and nomenclature of polymerase proteins
+RNA Previous New Proposed
+segment nomenclature nomenclature function
+1 P3t or P2* PB2 Cap recognition
+2 P1 PB1 Initiation of
+transcription
+3 P2t or P3* PA ?Elongation
+t in A/PR/8/34 (38) * in A/FPV/Rostock (37)
+Influenza is still a cause of mortality among the elderly. Specific
+vaccines directed against the surface glycoproteins, the haemagglutinin (HA)
+and neuraminidase (NA) are in use and have a protective value but the high
+rate of evolution of these proteins reduces the potential lifetime of such
+agents (17). The P proteins represent an alternative target for anti-viral
+agents, and it is of great interest to elucidate their mode of action in an
+attempt to give both a deeper understanding of the virus and to design physio-
+logically safe drugs.
+In the present study, we present the nucleotide sequence of RNA segment
+1 of influenza virus A/NT/60/68, which codes for the PB2 protein. Its predic-
+ted amino acid sequence is compared with the corresponding segments of influ-
+enza viruses A/PR/8/34 (18) and A/WSN/33 (19) in order to estimate its rate
+of evolution and to look for conserved regions of possible functional signifi-
+cance. This sequence also completes the comparison of RNA segment 10 (20), a
+small RNA isolated from a preparation of A/NT/60/68, with segments 1 and 3 of
+A/NT/60/68 (21). We confirm that segment 10 is indeed a mosaic of these 2
+segments, formed by some form of intragenic recombination.
+MATERIALS AND METHODS
+Cloning of full length segment 1 RNA of A/NT/60/68 Double stranded DNA was
+synthesized from a mixture of full length cDNA of segments 1, 2 and 3 of A/NT/
+60/68 virion RNA (kindly provided by Dr B M Moss) and cloned in the PvuII site
+of pBR322 as previously described (22,23). This entailed the use of 2 oligo-
+nucleotide primers such that the first 12 and last 13 nucleotide residues of
+the cloned RNA segments were derived from these primers and could differ
+slightly from the RNA sequence. 240 potential recombinants were first
+screened (24) with [32P] labelled short-copy cDNA obtained from A/NT/60/68
+1556
+Nucleic Acids Research
+virion RNA allowing us to isolate full length segment 2 and segment 3 clones
+as previously described (22). Surprisingly, segment 1 clones were absent in
+the initial screening but were subsequently detected by screening (24) with
+[32p] labelled short-copy cDNA derived from the heterologous virion RNA, A/
+USSR/90/77, also provided by Dr B M Moss. Two independent segment 1 clones,
+referred to as A/NT/60/68/1 and 2, gave a distinctive HinfI restriction enzyme
+profile when analysed by 5% polyacrylamide gel electrophoresis versus marker
+segment 2 and segment 3 clones (results not shown). A/NT/60/68/1 and 2 dif-
+fered from one another in a total of 7 of their HinfI bands (results not
+shown), suggesting they were cloned in opposite orientations in the PvuII site
+of pBR322 and that, in addition, clone 2 lacked an internal HinfI site. Sequ-
+encing of residues 1174 to 1428 confirmed this hypothesis (36). Subsequent
+cloning of material from the same full length double-stranded DNA preparation
+into a modified pBR322 vector gave 2 clones with an internal HinfI restriction
+pattern identical to that of clone 1. Thus 3 out of 4 RNA segment 1 clones
+are taken to be identical to that sequenced.
+Subcloning of sonicated fragments in M13mp9 and sequencing 15 Fgs of plasmid
+DNA (25) derived from clone A/NT/60/68/1 was sonicated (26) to an average size
+of 400 base pairs and the ends repaired by incubation with the Klenow subfrag-
+ment of E.coli DNA polymerase I in the presence of all 4 deoxynucleoside tri-
+phosphates. After heating the reaction mixture at 70 for 10 mins, a one-
+tenth aliquot was blunt-end ligated (27,9) using T4 DNA ligase (from N. Gas-
+coyne) to approximately 5 jg of SmaI cut and calf intestinal phosphatase
+treated (23) M13mp9 (28). The ligation mixture (10l1) was used to transform
+competent E.coli JM103 (29) and recombinants selected as clear plaques by
+insertional inactivation of 6-galactosidase (29). 200 recombinants were
+transferred as an ordered array onto a lawn of E.coli JM103 on a fresh plate
+and phage was transferred by blotting in duplicate onto nitrocellulose filters
+for screening (30) for specific influenza segment 1 containing sequences. Two
+probes were used: firstly a [32p] labelled cDNA prepared against an A/NT/60/
+68 vRNA template (23) in the presence of all 4 deoxynucleoside triphosphates,
+and secondly llkg of A/NT/60/68 vRNA was partially degraded by boiling for 15
+mins in 2 Ll of deionised formamide in lmM MgCl2 and labelled with [ _32p]
+ATP using T4 phosphokinase (31). Free deoxynucleoside triphosphates were
+separated on a lml Sephadex G100 column. Single stranded DNA from the 60
+specific influenzal clones was prepared by standard procedures (32). The
+phage inserts were sequenced using the Sanger dideoxy sequencing technique
+(33) in conjunction with a 'universal' 17 nucleotide long primer (34). 95%
+1557
+Nucleic Acids Research
+of the sequence was obtained in this manner. A consensus of the sequence data
+was prepared using the Staden programs (35). Two contigs were constructed,
+with an intervening unknown region, estimated to be 10-20 nucleotides (corres-
+ponding to nucleotides 689-703) in length by comparison with the known sequ-
+ence of segment 1 of A/PR/8/34 (18). To complete this unknown region, a Bst
+Ni restriction fragment was labelled and sequenced by standard Maxam and
+Gilbert sequencing procedures (36). Further ambiguous regions were sequenced
+in this manner. Nucleotides 2165-2314, 490-658 and 863-921 were obtained by
+a common DdeI digestion followed by digestion of the specific bands with AccI,
+RsaI and RsaI respectively. The sequence shown in figure 1 represents a con-
+sensus of 75% of viral (negative) strand and 93% of the positive strand with
+3% of this sequence, (nucleotides 1323-1333, 1371-1378 and 1851-1878 inclu-
+sive), present in a single copy. A consensus of the above information is
+available upon request.
+RESULTS
+Figure 1 shows the sequence of RNA segment 1 of influenza virus A/NT/60/
+68 as deduced from clone A/NT/60/68/1, written in the mRNA (positive) sense.
+It is 2341 nucleotides in length with a viral RNA base composition of 23% A,
+24.6% C, 17.9% G and 34.5% U. There is one long open reading frame from
+nucleotide numbers 28-2304 coding for a predicted product of 759 amino acids.
+No other open reading frames longer than 250 nucleotides exist in the mRNA
+sense. Since the longest two other open reading frames contain neither a
+methionine residue nor a splicing acceptor site close to the 5' ends, and
+alternative forms of segment 1 mRNAs have not been demonstrated, it is unlike-
+ly they are utilized. The second clone, A/NT/60/68/2, with the altered HinfI
+profile (see Methods) has a G residue at nucleotide 1312, causing a change in
+the predicted amino acid sequence from Asn -O Asp at residue 429.
+The predicted protein of 759 amino acids (Fig. 1) is basic, with a net
+charge of +271 at pH 7.0, assuming glutamic and aspartic acid take the value
+-1, arginine and lysine the value +1, and histidine the value +j and that no
+post-translational modification has occurred. The calculated molecular weight
+of 85,947 daltons, is consistent with the predicted weight of 80-100 daltons
+for the protein from SDS gels.
+1558
+Nucleic Acids Research
+E1 R I K E L R M L H 13359 TSR ZIPT K T T V ONH N A I I
+ROM UAUMMUAAAOAAOAUCOUUCCWUCCCCOCOACAAUCMACCOUOCSACSA
+10 20 30 40 50 s0 70 30 so 100 110 120
+130 140 150 1g0 170 ISO 150 200 210 220 220 240
+ED8 0 I T L M So? N lO0AD 3
+S0 R V H V S P L A V T N NM105 N 0 P H T I T V H Y
+250 230 270 230
+P1R V YK T Y F 1 K V ESPL
+ccAAAUUCAAUAUUAAAUOAOUA
+370 330 330 400
+AO0L S AK E Al10D V I M E
+OCAGACCUCAOUO3CCAAOOAOOCACAAOAUAOA
+490 500 510 520
+E LI D CIKI 95200L M V AY
+OAACUCCAAOAUUDCAAAAUUUCUCCUUOUOUCUC
+310 320 630 340
+240
+L M L TUO
+GT C ME 3 VYT
+mAAcououumAoAm
+730 740 750 750
+V S AD0 P L A SYTL E N C H
+850 3o0 370 330
+I A A MD0L R I
+1 F S F
+370 3o0 330 1000
+LIRI R V M D 0 390 E P T N
+-----
+OGNCUAUmOUC0OAOAALRCACAAUD
+1060 1100 1110 1120
+IS6V A E AZ I¶40 A M V F
+c
+1210 1220 1230 1240
+440
+NMIL L RMHPSIK OAK V L
+CPAI
+1330 1340 1350 1330
+EM M
+9NR DI 51048 K M 0 V
+36in36C- AOCAA-AAAWOOGCGUa
+1450 1460 1470 1430
+L LU8 P1E E V Bar7 I 0 T E
+1570 1530 1530 1500
+M III M-NM E T 90K I 3 U I
+1630 1700 1710 1720
+V SO VSY T L 5105 S M 5 0
+1310 1320 1330 1S40
+1330 1340 1350 1330
+AD 7 LII E3 P
+ao
+0 T 3 I
+20530 2030 2070 2060
+ELI M
+NL AK 7
+K A N V L
+2170 2130 2130 2200
+ISPISP M A I 1
+230
+AWACAOOM
+410
+530
+650
+CADDUODA
+770
+173
+OCACACAG
+390
+1010
+1130
+1220
+1370
+0 EY
+GAGAAC
+1430
+K L T
+WACUOACA
+1730
+VLOZU
+WIAAUACUL
+20300
+2210
+300
+420
+=CAAUGAAOUUX
+540
+MAOMGACUUOUJC
+VMO
+730
+300
+1020
+1140
+1230
+13300
+1UCAGCACAOSO
+I T YS
+1740
+T FD0T
+IwUUoAU~
+133
+0
+2100
+aODV V
+2220
+310 320
+430 440
+D A RI L T
+550 560
+670 630
+MUGOM35LAUMEAMM
+730 300
+RSMV D I L
+MW8AVU003ACALMiCtU
+310 3208
+1030 1040
+I LRIK A T
+1150 IISO
+3CAOLUUMOOLIGUALCUM
+1270 12300
+HNI DMNVMN
+CAUAUCOACAAVUAAUOMJ
+1330 1400
+1510 1520
+1330 1640
+1750 1760
+ACCCMBALNUMUMMCUA
+1370 1330
+1330 2000
+OPFL I LO0
+2110 2120
+2230 2240
+330
+V I2oI S
+WCrIomAAUA-OO
+450
+.106A a
+M£ODMUCACA
+L 2YOI A
+310A-N
+SY3rN P
+WOAGAA=~A
+330
+1050
+R 310L V
+1170
+N¶O V N
+340 350 3300
+460 470 430
+L T I TICKl-R-R-E
+O TSI8V Y IE V
+700 710 720
+320 330 540
+340 3M0 330
+1030 1070 1030
+I L I VIO
+0RD0E
+1130 1130 1200
+A N 3R L NPM
+1230 1300 1310 1320
+O
+I0V L P N T PI8T
+1410 1420 1430 1440
+0510F L S V 5 0
+1530 1540
+1 5P P E 5 V L
+1770 17300
+LYOPF A A A P P
+%=CCWUVOCAOCCACCCCACC
+1330 1300
+NOrT T I S L T
+2010 2020
+S7 S V 0 P
+2130 2140
+RYS0 3 I *L T D
+2250, 2230
+1550 1530
+A IRaDaI
+1730 1500
+WOMWAOAUAGOASA
+1310 1320
+MAWUPMCOOAMAAOAV
+203 2040
+2150 2130
+2270 2230
+Figure 1. Nucleotide sequence of segment 1 of A/NT/60/68 and the predicted
+amino acid sequence of the PB2 protein.
+1559
+c
+h
+u
+m
+a
+A
+9
+c
+4
+a
+K
+0
+c
+a
+c
+a
+w
+c
+c
+x
+a
+c
+9
+if
+j
+m
+a
+10
+m
+Nucleic Acids Research
+DISCUSSION
+1. Comparison of the predicted amino acid sequence of the PB2 protein among
+differing influenza A virus strains
+Figure 2 shows the differences in the amino acid sequence between that
+reported here and the corresponding segments of A/PR/8/34 (18) and A/WSN/33
+(38). Of the 30 amino acid differences (Fig. 2) between A/NT/60/68 and A/PR/
+8/34, 22 are due to single nucleotide mutations. The remainder show 2 sub-
+stitutions within the codon, but, in each case, one of these could be a silent
+change. A similar comparison between the amino acid sequences of A/NT/60/68
+and A/WSN/33 indicates 35 differences, 32 of which are single site mutations.
+2 changes are due to 2 substitutions within a single codon and one nucleotide
+change is probably silent. In the single case of amino acid residue 453, all
+3 nucleotides differ. Most amino acid changes between the three strains are
+conservative in nature (e.g. R -L) or semi-conservative (S -* A, N *S).
+But 2 of the differences between A/PR/8/34 and A/NT/60/68 are non-conserved,
+at residues 309 (G --I-D) and 453 (P -* H). Between A/WSN/33 and A/NT/60/68,
+5 non-conserved changes occur at residues 195 (G -D), 296 (N -D), 630
+(G R), 740 (N -* D), and 453 (S -, H). These alterations give a slightly
+increased overall charge of +28 for the PB2 protein of A/PR/8/34 and +29 for
+A/WSN/33. We consider it unlikely that these non-conserved residues play an
+important functional role in Cap recognition because of their charge varia-
+bility between different strains of influenza. The marked change in second-
+Influenza
+43 67 82 103 105 107 114 121 185 195 250 251 271 292 298
+strain rr
+A/NT/60/68 S V 8 G K S V / I D V R A T D
+A/PR/8/34 A I N A/ N/ I R - - -
+Influenza
+299 309 338 344 358 368 382 394 444 451 453 463 471 478 480
+A/WSN/33 V\ V\ K\ R I I\ A
+A/NS/60/68 |I
+LX
+D K
+V
+V |IE H V V
+A/PR/8/34 R jG . I
+R I I V I
+Influenza
+491 493 494 588 613 630 636 638 655 661 667 674 676 684 740
+strain AI i11IV I T
+A/WSN/33 A AK
+I G I I V p T N\
+A/NT60/_8 TI R V I T R L IV A T i T S D
+A/PR/8/34 IA F' V A/ /
+T A
+Figure 2. Amino acid differences between the PB2 proteins of A/NT/60/68,
+A/WSN/33 and A/PR/8/34.
+1560
+Nucleic Acids Research
+ary structure which can occur upon substitution of a proline residue by any
+other amino acid suggests that residue 453 has limited structural significance.
+If a similar comparison is carried out between the influenza viruses
+A/PR/8/34 and A/WSN/33, 27 differences are seen (Fig. 2). Since the initial
+isolates were obtained just a year apart, few changes might be expected bet-
+ween them. However, both viruses have been passaged within the laboratory,
+and in particular, A/WSN/33 has undergone repeated passage to select a neuro-
+tropic variant. We know from a comparison of the nucleotide sequences
+encoding the mature HAl polypeptide (39,40), and the MS2 (41,32) and NS (42,
+27) proteins, that the predicted amino acid sequences can differ between
+different laboratory isolates of A/PR/8/34. The variation is 7 out of 325,
+2 out of 96, 1 out of 230, and 2 out of 121 residues in the polypeptides HAl,
+KS2, NS1 and NS2, respectively, or a mean average of 1.5% per protein. Hence,
+we might expect that "laboratory drift" accounts for some of the observed
+differences between the three strains, particularly in relation to A/WSN/33.
+A/NT/60/68 has been passaged infrequently in the laboratory; hence we think
+it reasonable to assume that little laboratory drift has occurred since its
+isolation in 1968.
+In order to attempt to correct for the laboratory drift factor when
+estimating the rate of evolution of segment 1 from A/PR/8/34 or A/WSN/33 to
+A/NT/60/68, we have set up the hypothesis that the two earlier strains were
+identical when isolated. Alterations which occurred in the field are taken
+to be those where there is a common amino acid for the earlier strains, which
+differs from that found in A/NT/60/68, e.g. residues 43, 67, 82, etc. (a total
+of 20). All other alterations, e.g. 103, 105, 107, bar residues 453 and 655,
+are accredited to laboratory drift alone of either A/PR/8/34 or A/WSN/33.
+Positions 453 and 655, at which all 3 strains differ, are classed as field
+mutations for A/NT/60/68 and laboratory drift for A/WSN/33, since, if the
+A/PR/8/34 amino acid is taken as the ancestral residue, just a single amino
+acid change gives both the A/WSN/33 and A/NT/60/68 residues. There are 30
+amino acid changes between A/PR/8/34 and A/NT/60/68 giving a value of 30/759
+or 3.9% observed evolutionary drift. Assuming that 20 residues are actual
+field changes and the remainder laboratory drift we calculate a corrected
+evolutionary drift of 20/30 x 3.9% = 2.6%, or 0.08% per year. Furthermore,
+we calculate the laboratory drift of A/PR/8/34 to be 1.4% and that for A/WSN/
+33 to be 2.1%. These values are similar to the known laboratory drift of
+various proteins of A/PR/8/34 (see above).
+Selection for the PB2 protein occurs regardless of whether drift
+1561
+Nucleic Acids Research
+happens in the laboratory or the field. Thus comparisons of the amino acid
+sequence may still give an insight into functionally important regions.
+Amino acid alterations (Fig. 2) are randomly spaced throughout the molecule
+but tend to conserve its basic nature. This is compatible with its proposed
+function of recognising the negatively charged host cell cap 1 structures
+(7-11). The specific residues which bind the "cap" have not been identified
+to date. There are no obvious regions of high basicity in the primary sequ-
+ence (Fig. 1) which may carry out this function, but this does not exclude
+their possible existence in the 3 dimensional structure. It would be of
+interest to determine the residues involved and to see if they are conserved
+between strains.
+2. "Evolution" of influenza proteins
+Possible amino acid sequence divergence from initial isolates during
+laboratory passage may prevent us determining the absolute rates of evolution
+of A/NT/60/68 proteins. Nevertheless, if the rate estimations are restricted
+to those between genes of two strains, the comparative rates of evolution of
+the genes can be studied. It is assumed that there is equivalent drift of
+the genes, that direct lineage exists and that no major reassortment occurred
+between the strains. Figure 3 shows the evolution of the proteins encoded
+by segments 1 (the sequence determined in this study), 2, 3, 4, 5 and 6 of
+A/NT/60/68 (21-23, 52, 53) and segments 7 (2) and 8 (54) of A/Udorn/72 with
+respect to the prototype virus A/PR/8/34 (18,27,32,39,55,56,51). Segments
+7 and 8 of A/NT/60/68 have not yet been sequenced. Thus those of A/Udorn/72
+were chosen to complete the comparison. The resulting percentages fall into
+two main groups, those less than 0.3% amino acid changes per year and those
+greater than 0.9%. All internal proteins are found in the first class of
+highly conserved molecules. The surface glycoproteins, the haemagglutinin
+(HAl subunit) and neuraminidase (NA) show a marked percentage increase,
+indicating a larger variability. It should be noted that the figure of 1%
+for the HAl domain and NA represents point alterations and does not include
+spaces or deletions included to allow a colinear comparison of the two sequ-
+ences. It is therefore an artificially low value. Thus internal proteins
+are conserved because of selection to perform specific functions within the
+virion and the external proteins are variable because of antigenic selection
+by the host immune systems.
+3. The Origin of RNA segment 10
+One of the aims of this study was to confirm previous work defining the
+origin of a small RNA (segment 10) found in a preparation of A/NT/60/68 virus
+1562
+Nucleic Acids Research
+1.0
+a
+0
+0
+C
+0
+a
+c
+0
+0
+C
+a
+0
+*
+A/NT/60/68 A/UDORN/72
+Figure 3. Histogram shoving the different rates of evolution of viral
+proteins. Rates are calculated as 5 amino acid change of A/NT/60/68 for PB2,
+PBl, PA, NP, HA1, NA and for A/Udorn/72 for the NS and NS proteins with
+reference to A/PR/8/34. Data are calculated from references 22, 21, 23, 52,
+53, 2, 54, 18, 55, 56, 39, 51, 32, and 27.
+10 20 30 40 A 0 so 70 s* 90 *00 * io
+MSCAMMCA inACLM CmAROM OmAwmLC hCAMJOOWX CAAUCCWM WWXUCOAAC A50wuwo X
+130 140 C 120 o o 170 10 zoo D 210 22 0 230 E 240
+5050504ina UsouinmUmi UCOCMUCUC OCAUCmCOA MIUCMd&hCACWOCUAOCJ,,510
+AUJ~A11UII1 OAOOMJCII
+250 u 2 27 230 290 F 300 310 320 330 340 5 250
+__eUCON UUOfANMM A w - OCUAU mC UUCA sOLwasCUCC maN
+CacM
+370 300 300 400 410 420
+ALu_ CARUMOM MAUNMs CAMU.UMC AAAAAAICUAIUOUUUCUA CU
+Figure 4. The nucleotide sequence of segment 10 of A/NT/60/68 and its
+alignment with segments 1 and 3 from A/NT/60/68. Arrows indicate alternative
+Junctions between the sections.
+Region A nucleotides 1 to (75 -- 76) of segment 3
+Region B " (1971 -*1972) to 2014 of segment 3
+Region C " 30 to (89 9
+91) of segment 1
+Region D " (2015 -S 2017) to (2051 -- 2055) of segment 3
+Region 1 " (86 - 89) to (126 -4 130) of segment 3
+Region F " (2065 -+ 2069) to 2233 of segment 3
+1563
+Nucleic Acids Research
+F
+D3
+E r
+<
+N~~~~~~~v......
+I ~~~~~A
+segment I segment 3
+_____ Recombinatlon
+AAAv Track of polymerase
+Figure 5. A hypothetical arrangement for intragenic recombination between
+RNA segments 1 and 3.
+(20). Sequence analysis of this RNA and its comparison to segments 1 and 3 of
+A/PR/8/34 indicated a mosaic structure for segment 10 (18). Intragenic
+recombination had not previously been seen in influenza viruses. Figure 4
+shows the alignment of segment 10 to specified regions of 1 and 3, found
+using a computer program to scan for homology (43). No mismatches within the
+regions were found, although ambiguities in the positioning of Junctions
+remain. Figure 5 illustrates a hypothetical arrangement of segments 1 and 3
+allowing such a recombination event by "polymerase jumping". The two ends of
+segment 3 are exactly reproduced in band 10.
+4. General discussion
+Control of influenza infection by the conventional methods of vaccina-
+tion has achieved little success. A cap-recognising protein, such as PB2,
+presents a potential target for specific anti-influenza virus drugs. A 24K
+cap binding protein (CBP), found within the host cell, has also been described
+(44,45). It would be of interest to compare the amino acid sequence and
+active residues of this protein to those of PB2 to study any functional simi-
+larities and to determine whether agents against PB2 might not also affect
+CBP. It has been shown that the RNA segment coding for the PB2 protein of
+A/PR/8/34 is involved in the recognition of target cells by an anti-influenza
+cytotoxic T cell line (46). This may be due to the presence of a small amount
+of PB2 on the surface of an infected cell or an antigen-presenting cell or
+may be an indirect effect of PB2 on some other viral product.
+Studies on functional P proteins have been limited by their scarcity
+within the virion (approximately 8% of total protein in the viral core (38)).
+1564
+Nucleic Acids Research
+The development of both eukaryotic (47,48) and prokaryotic expression systems
+of cloned genes (49,50) should allow increased quantities of these proteins
+to be made available for research.
+ACKNOWLEDGEMENTS
+We thank the Medical Research Council for financial support to K.L.J.
+for a research training grant and to G.G.B. for an MRC programme grant.
+REFERENCES
+1. Palese, P. (1977) Cell 10, 1-10.
+2. Lamb, R.A., Lai, C.-J. and Choppin, P.A. (1981) Proc.Natl.Acad.Sci.USA 78,
+4170-4174.
+3. Inglis, S.C., Carroll, A.R., Lamb, R.A. and Mahy, B.W.J. (1976) Virology
+74, 489-503.
+4. Horisberger, M.A. (1980) Virology 107, 302-305.
+5. Rochovansky, 0.M. (1976) Virology 73, 327-338.
+6. Duesberg, P.H. (1969) J.Mol.Biol. 42, 485-499.
+7. Ulmanen, I., Broni, B.A., Krug, R.M. (1981) Proc.Natl.Acad.Sci.USA 78,
+7355-7359.
+8. Blaas, D.B., Patzelt, E., Kuechler, E. (1982) Virology 116, 339-348.
+9. Penn, C.R., Blaas, D., Kuechler, E. and Mahy, B.W.J. (1982) J.Gen.Virol.
+62, 177-180.
+10. Ulmanen, I., Broni, B. and Krug, R.M., J.Virol. (in press).
+11. Nichol, S.T., Penn, C.R. and Mahy, B.W.J. (1981) J.Gen.Virol. 57,
+407-413.
+12. Krug, R.M., Broni, B.A. and Bouloy, M. (1979) Cell 18, 329-334.
+13. Dhar, R., Chanock, R.M. and Lai, C.-J. (1980) Cell 21, 495-500.
+14. Caton, A.J. and Robertson, J.S. (1980) Nucl.Acids Res. 8, 2591-2603.
+15. Plotch, S.J., Bouloy, M., Ulmanen, I. and Krug, R.M. (1981) Cell 23,
+847-858.
+16. Krug, R.M. (1981) Curr.Top.Microbiol.Immunol. 93, 125-149.
+17. Tyrrell, D.A. and Smith, J.W.G. (1979) Brit.Med.Bull. 35, 77-86.
+18. Fields, S. and Winter, G. (1982) Cell 28, 303-313.
+19. Kaptein, J.S. and Nayak, D.P. (1982) J.Virol. 42, 55-63.
+20. Moss, B.A. and Brownlee, G.G. (1981) Nucl.Acids Res. 9, 1941-1947.
+21. Bishop, D.H.L., Jones, K.L., Huddleston, J.A. and Brownlee, G.G. (1982)
+Virology 120, 481-489.
+22. Bishop, D.H.L., Huddleston, J.A. and Brownlee, G.G. (1982) Nucl.Acids
+Res. 10, 1335-1343.
+23. Huddleston, J.A. and Brownlee, G.G. (1982) Nucl.Acids Res. 10, 1029-1038.
+24. Grunstein, M. and Hogness, D.S. (1975) Proc.Natl.Acad.Sci.USA 72, 3961-
+3965.
+25. Radloff, R., Bauer, W. and Vinogrod, J. (1967) Biochemistry 57, 1514-
+1521.
+26. Fuhrman, S.A., Deininger, P.L., LaPorte, P., Friedmann, T. and
+Geiduschek, E.P. (1981), Nucl.Acids Res. 9, 6439-645
+27. Winter, G., Fields, S. and Gait, M.J. (1981) Nucl.Acids Res. 9, 1237-
+1245.
+28. Messing, J., personal communication.
+29. Messing, J., Crea, R. and Seeburg, P.H. (1981) Nucl.Acids Res. 9, 309-
+321.
+30. Benton, W.D. and Davis, R.W. (1977) Science 196, 180-182.
+31. Efstratiadis, A., Maniatis, A.M., Kafatos, F.C., Jeffrey, A. and
+1565
+Nucleic Acids Research
+Vournakis, J.N. (1975) Cell 4, 367-378.
+32. Winter, G. and Fields, S. (1980) Nucl.Acids Res. 8, 1965-1974.
+33. Sanger, F., Nicklen, S. and Coulson, A.R. (1977) Proc.Natl.Acad.Sci.USA
+74, 5463-5467.
+34. Duckworth, M.L., Gait, M.J., Goelet, P., Hong, G.F., Singh, M. and
+Titmas, R.C. (1981) Nucl.Acids Res. 9, 1691-1706.
+35. Staden, R. (1982) Nucl.Acids Res. 10, 4731-4751.
+36. Maxam, A.M. and Gilbert, W. in Methods in Enzymology, 65, 499-560 (1980).
+37. Almond, J.W. and Barry, R.D. (1979) Virology 92, 407-415.
+38. Inglis, S.C., Carroll, A.R., Lamb, R.A. and Mahy, B.W.J. (1976) Virology
+74, 489-503.
+39. Winter, G., Fields, S. and Brownlee, G.G. (1981) Nature 292, 72-75.
+40. Caton, A., Brownlee, G.G., Yewdell, J.W. and Gerhard, W.,Cell (in press).
+41. Allen, H., McCauley, J., Waterfield, M. and Gething, M.-J. (1980)
+Virology 107, 548-551.
+42. Baez, M., Taussig, R., Zazra, J.J., Young, J.F. and Palese, P. (1980)
+Nucl.Acids Res. 8, 5845-5858.
+43. Staden, R., personal communication.
+44. Sonenberg, N., Morgan, M.A., Merrick, W.C. and Shatkin, A.J. (1978)
+Proc.Natl.Acad.Sci.USA 75, 4843-4847.
+45. Sonenberg, N., Rupprecht, K.M., Hecht, S.M. and Shatkin, A.J. (1979)
+Proc.Natl.Acad.Sci.USA 76, 4345-4349.
+46. Bennink, J.R., Yewdell, J.W. and Gerhard, W. (1982) Nature 296, 75-76.
+47. Hartma, J.R., Nayak, D.P. and Fareed, G.C. (1981) Proc.Natl.Acad.Sci
+USA 79, 233-237.
+48. Gething, M.-J. and Sambrook, J. (1981) Nature 293, 620-625.
+49. Davis, A.R., Nayak, D.P., Ueda, M., Hiti, A.L., Dowbenko, D. and Kleid,
+D.G. (1981) Proc.Natl.Acad.Sci.USA 78, 5376-5380.
+50. Heiland, I. and Gething, M.-J. (1981) Nature 292, 851-852.
+51. Fields, S., Winter, G. and Brownlee, G.G. (1981) Nature 290, 213-217.
+52. Both, G.W. and Sleigh, M.J. (1980) Nucl.Acids Res. 8, 2561-2575.
+53. Bentley, D. and Brownlee, G.G. (1982) Nucl.Acids Res. 10, 5033-5042.
+54. Lamb, R.A. and Lai, C.-J. (1980) Cell 21, 475-485.
+55. Winter, G. and Fields, S. (1982) Nucl.Acids Res. 10, 2135-2143.
+56. Winter, G. and Fields, S. (1981) Virology 114, 423-428.
+1566
+

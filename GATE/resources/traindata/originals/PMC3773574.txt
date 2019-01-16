@@ -1,0 +1,997 @@
+Characterization of Recombinant H9N2 Influenza Viruses
+Isolated from Wild Ducks in China
+Guangjian Zhu1,4,2, Renjie Wang1, Fujun Xuan1, Peter Daszak2, Simon J. Anthony2,3, Shuyi
+Zhang1, Libiao Zhang4, and Guimei He1,5
+1Institutes for Advanced Studies in Multidisciplinary Science and Technology, East China Normal
+University, Shanghai, People’s Republic of China
+2EcoHealth Alliance, 460 West 34th Street, New York, USA
+3Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New
+York, USA
+4Guangdong Entomological Institute, Guangzhou, People’s Republic of China
+5Shanghai Key Laboratory for Urban Ecological Processes and Eco-Restoration (SHUES), East
+China Normal University, Shanghai, People’s Republic of China
+Abstract
+Wild birds are considered to be the natural reservoirs for avian influenza A viruses (AIV). During
+active influenza surveillance in Poyang Lake of southeast China, we isolated and characterized
+eleven H9N2 viruses from two species of wild ducks. Phylogenetic analysis showed that the
+eleven isolates were almost identical with 99.3% to 100% nucleotide homology in their entire
+genome, and they all closely related in whole eight genes (95.6-99.4% homology) to human H9N2
+isolates (HK/33982/2009) and clustered in the same sublineage. The isolates belonged to triple
+reassortant H9N2 genotype viruses containing Ck/Bei-like NA genes, Y439-like PA genes and six
+other G1-like genes. We also found that the subtype of virus replicated efficiently in the lungs and
+tracheas of BALB/c mice and caused mortality in 20-40% of infected groups after 3-6 days, which
+indicates that the subtype of virus is capable of establishing lethal mammalian infections.
+However, whether or not the virus has features transmittable from wild ducks to humans is not
+known. This study showed that the subtype of virus was detected for the first time in wild birds,
+and also suggested that wild birds may carry the virus for a long time and spread it over long
+distances along migratory routes, so more attention should be paid to the continued surveillance of
+wild birds.
+Keywords
+H9N2; human infection; triple reassortant; wild ducks
+© 2013 Elsevier B.V. All rights reserved.
+Correspondence should be addressed to Dr Guimei He, Institute of Molecular Ecology and Evolution, Institutes for Advanced Studies
+in Multidisciplinary Science and Technology, East China Normal University, Shanghai, People’s Republic of China, 200062,
+gmhe@bio.ecnu.edu.cn, phone number: +86-21-62235786 .
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH Public Access
+Author Manuscript
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+Published in final edited form as:
+Vet Microbiol. 2013 October 25; 166(0): 327–336. doi:10.1016/j.vetmic.2013.05.013.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Introduction
+The H9N2 avian influenza viruses have been endemic in poultry in the Eurasian continent
+since the mid-1990s (Guo et al., 2000). Some avian-origin H9N2 viruses can be well
+replicated in mice and ferrets without prior adaptation (Choi et al., 2004; Li et al., 2005; Bi
+et al., 2010), and occasionally are able to expand their host range to mammals, including
+pigs and humans (Lin et al., 2000; Cong et al., 2007). Several human cases of H9N2
+infection have been reported since 1999 (Peiris et al., 1999; Butt et al., 2005). In addition,
+H9N2 viruses show a high genetic compatibility with other subtypes, providing their
+“internal” genes to other viruses. Genetic analysis shows that the H9N2 viruses might be the
+donors of the “internal” genes of the lethal H5N1 viruses that prevailed in Hong Kong in
+1997 (Guan et al., 1999), and the human H7N9 viruses that emerged in China in March 2013
+(Gao, 2013). It is also noteworthy that once H9N2 influenza virus acquired a polybasic HA
+cleavage site through reassortment with other subtypes of influenza viruses, the potential for
+pandemic spread was probably enhanced (Gohrbandt et al., 2011; Veits et al., 2012). These
+findings show that the H9N2 viruses pose potential hazards to human populations. Thus,
+longitudinal surveillance on the prevalence of H9N2 might be key factors in limiting or
+preventing the source of the transmission of AIV in humans.
+In China, H9N2 subtype viruses have become the principal reported strains in poultry
+following their first report in 1992 (Liu et al., 2003). Until now, at least 74 different
+genotypes have been identified (Dong et al., 2011). New lineages and genotypes are being
+discovered throughout China. Three main lineages of H9N2 influenza viruses, Chicken/
+Beijing/1/94 (Ck/Bei-like), Quail/Hong Kong/G1/97 (G1-like) and Duck/Hong Kong/
+Y439/97 (Y439-like or Korean-like), were responsible for influenza outbreak events in
+China since the mid-1990s (Li et al., 2005; Xu et al., 2007a; Xu et al., 2007b; Sun et al.,
+2010). The G1-like viruses are primarily detected in quails and humans, and were rarely
+detected in domestic poultry and wild birds (Guan et al., 1999; Xu et al., 2007a). While Ck/
+Bei-like H9N2 viruses were mainly prevalent in chickens, and the lineage was gradually
+replaced by the F98-like or G9-like viruses (represented by A/Ck/Shanghai/F/98 or CK/HK/
+G9/97, respectively) in eastern and southeastern China (Chen et al., 2003a; Zhang et al.,
+2009). Y439-like (Korean-like) H9N2 viruses were isolated from domestic duck in Hong
+Kong and chicken in South Korea (Choi et al., 2005).
+For the surveillance of H9N2 viruses in China, some researchers focused mainly on
+domestic poultry, such as chickens, ducks, geese and other minor poultry species ( Li et al.,
+2003; Xu et al., 2007a; Bi et al., 2010). Although the fact that H9N2 viruses isolated from
+humans are likely of avian origin, they are unable to persist for a long period in avian
+species due to the birds’ relatively short life span and public health control efforts (Suarez,
+2000). Wild aquatic birds are considered the natural hosts for avian influenza A virus and
+they are the reservoirs of all known subtypes H1–H16 and N1–N9 (Webster et al., 1992).
+Avian influenza infections in wild aquatic birds are usually asymptomatic and control of
+AIV outbreaks in wild birds is both difficult and costly (Webster et al., 1992).Wild birds
+especially wild duck are very common in southern China and their populations have
+increased markedly. Some wild ducks (such as mallard) have been domesticated and farmed,
+which may alter the interspecies transmission cycle of influenza viruses in southern China.
+The surveillance of H9N2 influenza virus in wild aquatic birds and viral genomic
+information are having been limited. In order to explore the role of wild birds and the
+disease ecology of H9N2 virus, we characterized eleven strains of virus isolated from wild
+ducks in Jiangxi, China in 2011.
+Zhu et al. Page 2
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Material and Methods
+Sampling and virus isolation
+During January and February 2011, AIV surveillance was conducted in Poyang Lake
+(28°90′–29°25′ N, 116°06′–116°69′ E) located in Jiangxi Province. Poyang Lake is one of
+the most important habitat and overwintering sites for migratory water birds in Asia. The
+fertile surrounding land and rich bio-resources provided a shared habitat for wild birds and
+domestic fowl. 67 samples were collected from apparently healthy wild spot-billed ducks
+(Anas poecilorhyncha) and mallard ducks (Anas platyrhynchos). Tracheal and cloacal swabs
+were eluted with PBS containing 2000U/ml penicillin and 1000ug/ml streptomycin. The
+supernatants were inoculated into the allantoic cavity of 9- to 10-day-old embryonated
+specific-pathogen free (SPF) chicken eggs and were incubated at 37°C for 48–72 h as
+described by Li et al. (2003). The allantoic fluid from hemagglutination-positive infected
+eggs was harvested and tested for influenza A viruses by standard hemagglutination
+inhibition (HI) and neuraminidase inhibition (NI) tests with a panel of the World Health
+Organization reference antisera as previously described by Van Deusen et al. (1983). Virus
+stocks were stored at −80°C for further experiments. All manipulations of live viruses were
+conducted in biosafety level 2 agriculture (BSL-2AG) containment facilities.
+Genetic and phylogenic analysis
+Viral RNAs were extracted from the virus-infected allantoic fluid using a QIAamp Viral
+RNA Mini kit (Qiagen, Valencia, CA) according to manufacturer’s instructions, and reverse
+transcribed using the uni12 primer (5′-AGCA AAAGCAGG-3′). PCR was performed with
+specific primers for segment-specific primers (the primer sequences and amplification
+conditions used are available upon request). PCR products were purified with the Wizard®
+SV Gel and PCR Clean-Up System (Promega), and directly sequenced at Sangon Biotech
+Ltd (Shanghai, China). Nucleotide sequences were assembled, edited, and compared using
+the DNAMAN program (version 6.0). The appropriate nucleotide substitution models of all
+the eight gene segments from these viruses were estimated by using the software jModelTest
+1.0.1, and the maximum likelihood trees were constructed for using the Bayesian analysis
+with MrBayes 3.1, two replicates of 1 million generations with six chains were run,
+sampling every 100 generations, and Bayesian posterior probabilities were calculated from
+the consensus of 15000 trees after excluding the first 5000 trees as burn-in. The maximum
+likelihood trees were further confirmed by using PHYLIP 3.0 with the General Time
+Reversible (GTR) model and 100 bootstraps.
+Pathogenicity testing in mice
+To assess the pathogenicity of isolates in mice, 6- to 8-week-old male SPF BALB/c mice
+(Xiper-Bikai Experimental Animal Co., LTD, Shanghai) were lightly anesthetized with
+ethylether and inoculated intranasally (i.n.) with 50 μl of the virus positive allantoic fluid
+diluted in phosphate-buffered saline (PBS) to yield a 106egg infectious dose (EID50). The
+control mice were inoculated i.n. with 50 μl of an equivalent dilution of noninfectious
+allantoic fluid.
+Each group was divided into two subgroups of five mice post inoculation to assess clinical
+features including activity, behavior, body weight and mortality over a 14-day observation
+period. Fifteen mice were used to evaluate the viral replication in different organs. For this,
+lungs, kidneys, brains, livers, spleens, hearts and tracheas of three mice from each group
+were collected 3 and 6 post inoculations. Portions of the left lung lobes were fixed in
+buffered 10% formalin, embedded in paraffin, and five micrometers-thick sections stained
+with hematoxylin-eosin for histopathological evaluation. Tissues from left lung lobes and
+other organs were also stored at −80°C and the amount of viral RNA determined by real-
+Zhu et al. Page 3
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+time PCR using the ABI 7300 Sequence Detection system (Applied Biosystems) for
+influenza virus matrix (M) gene fragments according to previously described methods
+(Mosleh et al., 2009) with a small change: the housekeeping gene Beta-Actin (ACTB) was
+used as an endogenous control. The concentration of virus in mice was analyzed by using
+the comparative Ct (△Ct) method (Chen et al., 2003b).
+All animal procedures followed the ethics guidelines of the Guide for the Care and use of
+Laboratory Animals (Council., 1985).
+Nucleotide sequence accession numbers
+The nucleotide sequences analyzed in this study are available in the GenBank database
+under accession numbers JQ901619-JQ901706. All of the other representative H9N2
+sequences used in this study for phylogenetic comparison were obtained from GenBank
+(http://www.ncbi.nlm.nih.gov).
+Results
+Virus isolation and genetic analysis
+A total of 67 paired tracheal and cloacal swabs were collected from spot-billed ducks and
+mallard ducks in Poyang Lake of Jiangxi province in China during January and February of
+2011. After proliferating in SPF embryonated chicken eggs, 15 H9N2 subtype influenza
+viruses were isolated: 7 from the spot-billed duck and 8 from the mallard duck, with an
+isolation rate of 22.4 %. To better understand the evolution and ecology of H9N2 viruses in
+wild ducks, 11 representative viruses (abbreviated as JX/11-like viruses) were selected for
+further genetic characterization, and the eight gene segments were completed sequenced.
+Subsequently, one of the 11 isolates was used to test for lethality in mice.
+The nucleotide sequences for each gene segment of the H9N2 JX/11-like viruses were
+aligned with other representative H9N2 viruses from GenBank. The results showed that all
+eight gene segments of the JX/11-like isolates shared the highest 95.6%–99.4% homology
+with 2009 human H9N2 isolates (HK/33982/2009 - Table 1), and furthermore shared 96.2%
+to 98.2% nucleotide homology with quail H9N2 isolates (representative QA/Shantou/
+11195/05) except for NA genes (Table 1). JX/11-like isolates were also more closely related
+to G1-like virus (QA/HK/G1/1997) except for the NA and PA genes, which had a higher
+homology with Ck/Bei-like viruses, such as CK/HK/G9/1997 virus and Y439-like viruses
+(DK/HK/Y439/1997) respectively (Table 1).
+Phylogenetic analysis of the surface genes
+To better understand the evolutionary characterization of JX/11-like viruses, 11 H9N2
+viruses from wild waterfowls were phylogenetically analyzed. Phylogenetic analysis of the
+HA gene revealed that all 11 JX/11-like viruses belonged to the G1-like lineage and showed
+a very close relationship with 2009 human H9N2 isolates (HK/35820/2009 and HK/
+33982/2009) and 2005 H9N2 viruses isolated from quails in southern China (such as QA/
+Shantou/11195/05), but they were different from the 2011 isolates in southern China (Figure
+1A).
+Phylogenetic analysis of the neuraminidase (NA) gene revealed that JX/11-like viruses
+clustered into Ck/Bei sublineage. The Ck/Bei sublineage could be divided into two major
+subgroups: including subgroup 1 (Y280-like), represented by Dk/HK/Y280/97; and
+subgroup 2 (G9-like), represented by CK/HK/G9/97 as described in a previous study (Bi et
+al., 2011). It is noteworthy that the JX/11-like H9N2 isolates all fell into the subgroup 2
+(Figure 1B), and were most closely related to the 2009 human isolates (Figure 1).
+Zhu et al. Page 4
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Furthermore, the NA genes of all G9-like isolates had no deletion, suggesting that they were
+of the same origin. In all, these results indicated that the HA and NA genes of JX/11-like
+isolates belong to two different sublineages of H9N2 viruses, G1-like and Ck/Bei-like
+sublineage respectively, revealing reassortment between the two viral sublineages.
+Phylogenetic analysis of the internal genes
+In the phylogenetic tree of ribonucleoprotein (RNP) complex genes (PB2, PB1, PA, and NP
+genes), four different evolution lineages were recognized: Ck/Bei-like, Y439-like, F98-like
+and G1-like (Figure 2A, 2B, 2C, and 2D). For PB2, PB1 and NP genes, JX/11-like viruses
+all clustered into the G1-like lineage, but the PA gene fell into the Y439-like lineage.
+Phylogenetic analyses of the RNP genes also indicated that the JX/11-like viruses had a
+close relationship with 2009 human isolates, and representative H9N2 isolates QA/Shantou/
+11195/05 (Figure 2). We also noted that the PB2 and NP genes of JX/11-like viruses were
+also closely related to the H6N1 isolates, such as QA/HK/YU421/02 and QA/HK/NT342/01,
+which implied that JX/11-like viruses shared a common origin with these viruses.
+Phylogenetic analysis of the other two internal genes (M and NS) revealed that the
+topologies of these gene segments were similar to the HA, with three different lineages: Ck/
+Bei-like, Y439-like and G1-like (Figure 2E, 2F). JX/11-like viruses fell into the G1-like
+lineage. The M and NS genes of the 2009 human isolates and 2005 quail H9N2 isolates QA/
+Shantou/11195/05 clustered into the same sublineage with JX/11-like isolates.
+Molecular Characterization
+All JX/11-like isolates possessed a new motif “R-S-N-R” in spite of a typical “R-S-S-R” at
+the HA1-HA2 connecting peptide (Table. 2), which is associated with low pathogenicity in
+chickens (Steinhauer, 1999). Position Q226 and G228 of HA (H3 numbering used
+throughout) suggest that the JX/11-like viruses all preferentially bind to 2,3-NeuAcGal
+linkages of avian cell-surface receptors (Ha et al., 2001). The other amino acids in the
+receptor binding site (RBS) were identical to those of 2009 human isolates (Table 2). Seven
+N-linked potential glycosylation sites (PGS) with the N-X-T/S motif (in which X may be
+any amino acid except Proline) of JX/11-like viruses were present in HA protein, which
+were similar to QA/HK/G1/1997 virus and 2009 human isolates.
+All JX/11-like viruses contained no amino acid deletion at the stalk of neuraminidase, which
+also were consistent with 2009 human isolates. In addition, themutations that confer
+adaption to mammals at PB2 E627K and D701N were not found in the JX/11-like isolates,
+but one human virus (A/Hong Kong/33982/2009) contained D701N mutation (Gao et al.,
+2009). The JX/11-like viruses had H at position 274 of the neuraminidase protein and are
+predicted to be sensitive to oseltamivir (Treanor et al., 2000), and none contained point
+mutations at position 27, 30 and 31 in the matrix protein 2, associated with resistance to
+amantadine (Scholtissek et al., 1998).
+Pathogenicity of the H9N2 isolates in mice
+We used BALB/c mice as a model to evaluate JX/11-like viruses’ ability to replicate in
+mammalian hosts. In our initial experiment, three representative viruses were used and the
+results showed that all three viruses could replicate in mouse lungs without prior adaptation
+after exposure to 106 EID50 of each virus and that they exhibited the similar clinical
+features, such as inappetence, emaciation, weight loss, and visible labored respirations (data
+not shown). Subsequently, only one representative virus A/Mallard duck/Jiangxi/
+39/2011(H9N2) (abbreviated as MD/JX/39/11) was used to further analyze the
+pathogenicity of the H9N2 isolates in mice, because all three viruses gave similar clinical
+features and shared >99% high homology with each other.
+Zhu et al. Page 5
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Virus-infected mice showed severe clinical signs of infection on day 3 postinoculation,
+including inappetence, inactivity, ruffled fur and visual signs of respiratory distress. The
+body mass of the JX/39/11 virus infected mice significantly decreased on days 3 to 9 post
+inoculation (P<0.01) compared with the non-infected control groups (Figure 3A). The mice
+in the virus infected group began to die on day 3 post inoculation, and reached a plateau at
+day 6. The survival rates were significantly lower in the infected group than the control mice
+on days 6 to 13 post inoculation (p<0.01, Figure 3B), and the virus could be isolated directly
+from lung and tracheal tissues of infected mice on days 3 and 6 postinfection (Figure 3C).
+We also found that the virus titer was significantly higher in the tracheas than in lungs
+(P<0.01). No virus was recovered from other organs, such as heart, liver, kidney, spleen and
+brain. No deaths were observed, nor virus recovered in control mice during the experiment
+period.
+Lungs were markedly edematous in infected mice, with areas of profuse hemorrhaging. On
+day 3 postinoculation, lungs of infected mice were characterized by extensive
+peribronchiolar lesions and bronchiolitis (Figure 4B), interstitial and alveolar edema,
+inflammatory cell infiltration around small blood vessels and thickening of alveolar walls
+(Figure 4B, black arrows). On day 6 postinoculation, lung lesions were characterized by
+diffuse pneumonia, with thickening of alveolar wall, shedding of bronchial epithelium,
+severe infiltration of neutrophils in the bronchioles (Figure 4C, black arrows), and
+peribronchiolar and vascular edema and hemorrhaging (grey arrows in 4C). On day 8
+postinoculation, lung lesions were significantly alleviated and thickening of alveolar walls
+were observed in Figure 4D (black arrow). In comparison, lungs from control mice had no
+apparent histological changes (Figure 4A) and also not observed in infected mice on days 11
+and 14 postinoculation (Figure 4E and 4F).
+Discussion
+As the natural reservoirs of all influenza A viruses, wild aquatic birds might be of
+paramount importance for the ecology of influenza virus infection, since they provide most
+of the gene pool for all influenza viruses of human and animal populations (Webster et al.,
+1992). The importance of conducting AIV surveillance in wild birds is evident. During
+January and February of 2011, we characterized eleven H9N2 viruses isolated from common
+wild ducks (mallard and spot-billed ducks, Anseriformes) in southeast China. The amino
+acid sequence of the connecting peptide of HA is considered an indicator of pathogenic
+potential (Steinhauer, 1999). Analysis of the HA gene showed that the cleavage site patterns
+of JX/11-like viruses are similar to those of two human H9N2 isolates in 2009, that are
+different from the other wild bird isolates. The significance of this mutation is not fully
+understood. All JX/11-like isolates contained Q226 and G228 at RBS (H3 numbering) of
+HA, suggesting that these viruses all preferentially bound to 2, 3-NeuAcGal linkages of
+avian cell-surface receptors. The amino acid change at RBS, cleavage sites, and PGS of HA
+of all our isolates are consistent with the two human H9N2 isolates in 2009, but different
+from representative G1-like viruses.
+Previous research has indicated that mutations of E627K and D701N in PB2 protein are
+critical for enhanced pathogenicity in mammals (Gao et al., 2009), but molecular analysis
+demonstrated that all of the viruses in our study had no mutations at the two sites in PB2
+proteins. However, results of pathogenicity studies in mice indicated that the JX/11-like
+viruses could replicate efficiently in BALB/c mice lungs and tracheas without prior
+adaption, resulting in 40% mortality to mice after exposure to 106 EID50 of virus. Severe
+pneumonia and alveolar damage were also observed in those affected mice. Therefore, the
+mechanism of JX/11-like virus to replicate in mammals is likely related to other amino-acid
+mutations or other gene segments..
+Zhu et al. Page 6
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Although the eleven viruses were obtained from two different species of duck, all eight gene
+segments of these isolates shared high homology (99.3%–100%) with each other, and
+clustered into the same sublineage, suggesting that they were of the same origin.
+Phylogenetic results indicated that JX/11-like viruses belong to a novel triple-reassortant
+genotype containing the PA gene from an Y439-like sublineage, the NA gene from Ck/Bei-
+like sublineage, and the other six genes from G1-like sublineage. Of key significance was
+the observation that JX/11-like viruses shared the highest identity with 2009 human H9N2
+isolates (HK/33982/2009 and HK/35820/2009) in all eight genes (95.6-99.4% homology),
+and they were closely clustered into the same subgroup. These findings suggest that JX/11-
+like isolates and the 2009 human H9N2 isolates should also originate from a common
+ancestor, but whether or not these viruses have a propensity to transmit to the human
+population is not known. The genotype virus was detected for the first time in wild birds and
+was different from those of other reported H9N2 viruses that have been established
+worldwide in terrestrial poultry and wild birds since the 1960s (Dong et al., 2011), implying
+that these genetic reassortments apparently occurred independently. Given the potential of
+this subtype influenza virus to harm people, it is vital to continue influenza virus
+surveillance in wild birds in order to have more information on the prevalence, variance, and
+whereabouts of this subtype virus as well as to make preparations against future pandemic
+influenza.
+As a possible intermediate host, quails possess both 2,3-NeuAcGal linkages and 2,6-
+NeuAcGal linkages receptors (Wan et al., 2006) and harbor both G1-like and Ck/Bei-like
+viruses (Xu et al., 2007b) and may play an important role in the introduction of influenza
+viruses from aquatic birds to domestic poultry species coexisting in the same ecosystems
+(Perez et al., 2003). In this study, we also noted that the full genomes of JX/11-like viruses
+shared 96.2% to 98.2% nucleotide homology with quail H9N2 isolates in 2005 QA/Shantou/
+11195/05 and formed a single sublineage together except for NA genes (the homology is
+about 87.9% to 88.0%, and which were closely clustered with other Ck/Bei-like viruses
+isolated from other poultry in 2005), which suggests these viruses of quail origin might have
+further reassorted with Ck/Bei-like viruses endemic in quails or other animal species in this
+region at the same time period, and then the reassortant virus could have gradually acquired
+the ability to replicate in mammals and wild ducks.
+Poyang Lake is one of the largest freshwater lakes in China and about 108 species of
+waterfowl can be found there (Zhu et al., 2012). The highly developed poultry industry for
+both domestic fowl and waterfowl, and the loose backyard poultry around Poyang Lake
+increases the contact among domestic poultry and wild birds. When these wild bird-origin
+viruses are transmitted to new hosts such as domestic poultry, swine, and humans they
+evolve rapidly and may increase in pathogenicity (Webster et al., 1997; Alexander, 2000). If
+the JX/11-like viruses acquired any mammalian associated mutations with further
+reassortment, they may have significant pandemic potential. This pandemic potential may be
+increased through migration of these wild birds to new localities, and because of the current
+lack of strategies to control avian influenza in wild birds. Due to the limited number of
+samples in this study, we may not know whether the JX/11-like viruses have established
+stable infection in wild ducks. Therefore, conducting long-term molecular epidemiological
+investigations of H9N2 and other influenza viruses in wild aquatic birds is critical to better
+define the ecology and evolution of influenza viruses on a global scale.
+Acknowledgments
+This study was supported with an NSF/NIH “Ecology and Evolution of Infectious Diseases” award from the
+Fogarty International Center (2R01-TW005869) and in the context of Zoonotic Influenza Collaborative Network,
+led by the Fogarty International Center, National Institutes of Health. The Collaborative Network is supported by
+International Influenza Funds from the Office of the Secretary of the Department of Health and Human Services,
+Zhu et al. Page 7
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+USA. Additionally, this study was also supported by grants under the Key Construction Program for Changjiang
+Scholars and Innovative Research Team in University (PCSIRT) to S.Z., and a grant from Shanghai Institute of
+Urban Ecology and Sustainability to G.H.
+Reference
+Alexander DJ. A review of avian influenza in different bird species. Vet. Microbiol. 2000; 74:3–13.
+[PubMed: 10799774]
+Bi J, Deng G, Dong J, Kong F, Li X, Xu Q, Zhang M, Zhao L, Qiao J. Phylogenetic and molecular
+characterization of H9N2 influenza isolates from chickens in Northern China from 2007-2009. PloS
+one. 2010; 5:e13063. [PubMed: 20927364]
+Bi Y, Lu L, Li J, Yin Y, Zhang Y, Gao H, Qin Z, Zeshan B, Liu J, Sun L, Liu W. Novel genetic
+reassortants in H9N2 influenza A viruses and their diverse pathogenicity to mice. Virol. J. 2011;
+8:505. [PubMed: 22050764]
+Butt KM, Smith GJ, Chen H, Zhang LJ, Leung YH, Xu KM, Lim W, Webster RG, Yuen KY, Peiris
+JS, Guan Y. Human infection with an avian H9N2 influenza A virus in Hong Kong in 2003. J. Clin.
+Microbiol. 2005; 43:5760–5767. [PubMed: 16272514]
+Chen H, Subbarao K, Swayne D, Chen Q, Lu X, Katz J, Cox N, Matsuoka Y. Generation and
+evaluation of a high-growth reassortant H9N2 influenza A virus as a pandemic vaccine candidate.
+Vaccine. 2003a; 21:1974–1979. [PubMed: 12706686]
+Chen YP, Higgins JA, Gundersen-Rindal DE. Quantitation of a Glyptapanteles indiensis polydnavirus
+gene expressed in parasitized host, Lymantria dispar, by real-time quantitative RT-PCR. J. Virol.
+methods. 2003b; 114:125–133. [PubMed: 14625047]
+Choi YK, Ozaki H, Webby RJ, Webster RG, Peiris JS, Poon L, Butt C, Leung YH, Guan Y.
+Continuing evolution of H9N2 influenza viruses in Southeastern China. J. Virol. 2004; 78:8609–
+8614. [PubMed: 15280470]
+Choi YK, Seo SH, Kim JA, Webby RJ, Webster RG. Avian influenza viruses in Korean live poultry
+markets and their pathogenic potential. Virology. 2005; 332:529–537. [PubMed: 15680418]
+Cong YL, Pu J, Liu QF, Wang S, Zhang GZ, Zhang XL, Fan WX, Brown EG, Liu JH. Antigenic and
+genetic characterization of H9N2 swine influenza viruses in China. J. Gen. Virol. 2007; 88:2035–
+2041. [PubMed: 17554038]
+Council., N.R.. Guide for the Care and use of Laboratory Animals. National Academy Press;
+Washington: 1985.
+Dong G, Luo J, Zhang H, Wang C, Duan M, Deliberto TJ, Nolte DL, Ji G, He H. Phylogenetic
+diversity and genotypical complexity of H9N2 influenza A viruses revealed by genomic sequence
+analysis. PloS one. 2011; 6:e17212. [PubMed: 21386964]
+Gao R, Cao B, Hu Y, et al. Human infection with a novel avian-origin influenza A (H7N9) virus. N
+Engl J Med. 2013 DOI:10.1056/NEJMoal1304459.
+Gao Y, Zhang Y, Shinya K, Deng G, Jiang Y, Li Z, Guan Y, Tian G, Li Y, Shi J, Liu L, Zeng X, Bu Z,
+Xia X, Kawaoka Y, Chen H. Identification of amino acids in HA and PB2 critical for the
+transmission of H5N1 avian influenza viruses in a mammalian host. PLoS Pathog. 2009;
+5:e1000709. [PubMed: 20041223]
+Gohrbandt S, Veits J, Breithaupt A, Hundt J, Teifke JP, Stech O, Mettenleiter TC, Stech J. H9 avian
+influenza reassortant with engineered polybasic cleavage site displays a highly pathogenic
+phenotype in chicken. J. Gen. Virol. 2011; 92:1843–1853. [PubMed: 21525207]
+Guan Y, Shortridge KF, Krauss S, Webster RG. Molecular characterization of H9N2 influenza viruses:
+were they the donors of the “internal” genes of H5N1 viruses in Hong Kong? Proc. Natl. Acad.
+Sci. U.S.A. 1999; 96:9363–9367. [PubMed: 10430948]
+Guo YJ, Krauss S, Senne DA, Mo IP, Lo KS, Xiong XP, Norwood M, Shortridge KF, Webster RG,
+Guan Y. Characterization of the pathogenicity of members of the newly established H9N2
+influenza virus lineages in Asia. Virology. 2000; 267:279–288. [PubMed: 10662623]
+Ha Y, Stevens D, Skehel J, Wiley D. Structures of H5 avian and H9 swine influenza virus
+hemagglutinins bound to avian and human receptor analogs. Proc. Natl. Acad. Sci. U.S.A. 2001;
+8:11181–11186. [PubMed: 11562490]
+Zhu et al. Page 8
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Li C, Yu K, Tian G, Yu D, Liu L, Jing B, Ping J, Chen H. Evolution of H9N2 influenza viruses from
+domestic poultry in Mainland China. Virology. 2005; 340:70–83. [PubMed: 16026813]
+Li KS, Xu KM, Peiris JS, Poon LL, Yu KZ, Yuen KY, Shortridge KF, Webster RG, Guan Y.
+Characterization of H9 subtype influenza viruses from the ducks of southern China: a candidate
+for the next influenza pandemic in humans? J. Virol. 2003; 77:6988–6994. [PubMed: 12768017]
+Lin YP, Shaw M, Gregory V, Cameron K, Lim W, Klimov A, Subbarao K, Guan Y, Krauss S,
+Shortridge K, Webster R, Cox N, Hay A. Avian-to-human transmission of H9N2 subtype
+influenza A viruses: relationship between H9N2 and H5N1 human isolates. Proc. Natl. Acad. Sci.
+U.S.A. 2000; 97:9654–9658. [PubMed: 10920197]
+Liu J, Okazaki K, Ozaki H, Sakoda Y, Wu Q, Chen F, Kida H. H9N2 influenza viruses prevalent in
+poultry in China are phylogenetically distinct from A/quail/Hong Kong/G1/97 presumed to be the
+donor of the internal protein genes of the H5N1 Hong Kong/97 virus. Avian Pathol. 2003; 32:551–
+560. [PubMed: 14522712]
+Mosleh N, Dadras H, Mohammadi A. Molecular quantitation of H9N2 avian influenza virus in various
+organs of broiler chickens using TaqMan real time PCR. J Mol Genet Med. 2009; 3:152–157.
+[PubMed: 19565023]
+Peiris M, Yuen KY, Leung CW, Chan KH, Ip PL, Lai RW, Orr WK, Shortridge KF. Human infection
+with influenza H9N2. Lancet. 1999; 354:916–917. [PubMed: 10489954]
+Perez DR, Lim W, Seiler JP, Yi G, Peiris M, Shortridge KF, Webster RG. Role of quail in the
+interspecies transmission of H9 influenza A viruses: molecular changes on HA that correspond to
+adaptation from ducks to chickens. J. Virol. 2003; 77:3148–3156. [PubMed: 12584339]
+Scholtissek C, Quack G, Klenk H, Webster R. How to overcome resistance of influenza A viruses
+against adamantane derivatives. Antivir. Res. 1998; 37:83–95. [PubMed: 9588841]
+Steinhauer D. Role of hemagglutinin cleavage for the pathogenicity of influenza virus. Virology. 1999;
+258:1–20. [PubMed: 10329563]
+Suarez DL. Evolution of avian influenza viruses. Vet. Microbiol. 2000; 74:15–27. [PubMed:
+10799775]
+Sun Y, Pu J, Jiang Z, Guan T, Xia Y, Xu Q, Liu L, Ma B, Tian F, Brown EG, Liu J. Genotypic
+evolution and antigenic drift of H9N2 influenza viruses in China from 1994 to 2008. Vet.
+Microbiol. 2010; 146:215–225. [PubMed: 20685047]
+Treanor J, Hayden F, Vrooman P, Barbarash R, Bettis R, Riff D, Singh S, Kinnersley N, Ward P, Mills
+R. Efficacy and safety of the oral neuraminidase inhibitor oseltamivir in treating acute influenza. J
+Am Med Assoc. 2000; 283:1016–1024.
+Van Deusen R, Hinshaw V, Senne D, Pellacani D. Microneuraminidase inhibition assay for
+classification of avian influenza A virus neuraminidases. Avian Dis. 1983; 27:745–750. [PubMed:
+6639551]
+Veits J, Weber S, Stech O, Breithaupt A, Graber M, Gohrbandt S, Bogs J, Hundt J, Teifke JP,
+Mettenleiter TC, Stech J. Avian influenza virus hemagglutinins H2, H4, H8, and H14 support a
+highly pathogenic phenotype. Proc. Natl. Acad. Sci. U.S.A. 2012; 109:2579–2584. [PubMed:
+22308331]
+Wan HQ, Perez DR. Quail carry sialic acid receptors compatible with binding of avian and human
+influenza viruses. Virology. 2006; 346:278–286. [PubMed: 16325879]
+Webster RG, Bean WJ, Gorman OT, Chambers TM, Kawaoka Y. Evolution and ecology of influenza
+A viruses. Microbio. Reviews. 1992; 56:152–179.
+Webster RG, Shortridge KF, Kawaoka Y. Influenza: interspecies transmission and emergence of new
+pandemics. FEMS Immunol Med Microbiol. 1997; 18:275–279. [PubMed: 9348163]
+Xu KM, Li KS, Smith GJ, Li JW, Tai H, Zhang JX, Webster RG, Peiris JS, Chen H, Guan Y.
+Evolution and molecular epidemiology of H9N2 influenza A viruses from quail in southern China,
+2000 to 2005. J. Virol. 2007a; 81:2635–2645. [PubMed: 17192315]
+Xu KM, Smith GJ, Bahl J, Duan L, Tai H, Vijaykrishna D, Wang J, Zhang JX, Li KS, Fan XH,
+Webster RG, Chen H, Peiris JS, Guan Y. The genesis and evolution of H9N2 influenza viruses in
+poultry from southern China, 2000 to 2005. J. Virol. 2007b; 81:10389–10401. [PubMed:
+17652402]
+Zhu et al. Page 9
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Zhang P, Tang Y, Liu X, Liu W, Zhang X, Liu H, Peng D, Gao S, Wu Y, Zhang L, Lu S, Liu X. A
+novel genotype H9N2 influenza virus possessing human H5N1 internal genomes has been
+circulating in poultry in eastern China since 1998. J. Virol. 2009; 83:8428–8438. [PubMed:
+19553328]
+Zhu N, Zhao JR, Li Y,D, Ding CQ, Xia H, Tang S, Zhang Z, Yu JF, Chen J, Fan Z,J, Kou Z, Li TX.
+Molecular characterization of H3N2 and H4N6 subtypes avian influenza viruses isolated from
+mallards in Poyang Lake, China in 2010. Chin Sci Bull. 2012; 57:3586–3594.
+Zhu et al. Page 10
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Figure. 1.
+Phylogenetic relationships of HA (A) and NA (B) genes of the H9N2 influenza viruses
+analyzed. Phylogenetic analysis was based on the following nucleotides: HA, 10-1650 and
+NA 58-1358. The trees were constructed with MrBayes 3.1 using the maximum likelihood
+method. Numbers above or below branches indicate Bayesian posterior probabilities and
+bootstrap values, respectively. Not all supports are shown because of space constraints.
+Viruses characterized in this study are highlighted in blue colors, while representative
+viruses from each lineage are in red colors, and the H6N1 isolates are marked with green
+colors. Gene sequences used in this study can be found in GenBank. Abbreviations: CK,
+chicken; DK, duck; GS, goose; SbD, spot-billed duck; MD, mallard duck; BbM, black-billed
+magpie; CHU, chukkar; GF, guinea fowl; PG, pigeon; PH, pheasant; QA, quail; FR, ferret;
+PT, partridge; SW, swine; WD, wild duck; HK, Hong Kong.
+Zhu et al. Page 11
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Figure. 2.
+Phylogenetic relationships of PB2 (A), PB1 (B), PA (C), NP (D), M (E) and NS (F) genes of
+the H9N2 influenza viruses analyzed. Phylogenetic analysis was based on the following
+nucleotides: PB2, 25-2262; PB1, 31-2202; PA, 58-2118; NP, 19-1446; M, 1-759 and NS,
+13-693. Viruses were labeled in the same way as in Figure 1. Virus abbreviations are listed
+in the legend of Figure 1.
+Zhu et al. Page 12
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Figure.3.
+Change in body weight (A), mortality (B) and virus replication (C) in BALB/c mice
+inoculated with one representive H9N2 influenza viruses (MD/JX/39/11). Body weight and
+survival rate of mice were observed over 14 days after infection. (A) Data are expressed as
+means ±SD. White bars are the uninfected control group and black bars are the infected
+group. *p<0.05; **: p<0.01 compared with the uninfected control group. (B) Data are
+expressed as a percentage of total survival (survival rate), uninfected control group (□) and
+virus infected group (◆). **: p<0.01 compared with uninfected control group. (C) Lungs
+and tracheas were collected on 3 and 6 days p.i., the virus replication levels were measured
+Zhu et al. Page 13
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+by real-time PCR, and normalized with ACTB. Data were expressed by 2−△△Ct. Open bars,
+trachea; solid bars, lung. **: p<0.01 compared with tracheas
+Zhu et al. Page 14
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Figure.4.
+Representative histopathological changes of lungs are shown by Hematoxylin and Eosin
+(H&E) staining after H9N2 virus infection. The noninfected control is labeled (A). At day 3
+post-inoculation there were evident interstitial edema around small blood vessels, thickening
+of the alveolar walls, and inflammatory cell infiltration around small blood vessels (B, black
+arrows). On day 6 postinoculation, there was evidence of dropout of bronchial epithelium
+and a great number of neutrophils infiltrating the bronchioles as well as both thickening of
+alveolar walls (C, black arrows) and hemorrhaging (grey arrows in C). On day 8
+postinoculation, there were visible slight interstitial edema around small blood vessels and
+thickening of alveolar walls (D, black arrows). No apparent lung lesions were observed on
+day 11 (E) and 14 (F) postinoculation. Objective magnifications, ×10 (A–F).
+Zhu et al. Page 15
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Zhu et al. Page 16
+Table
+1
+Homology
+of
+the
+gene
+segments
+of
+JX/11-like
+H9N2
+influenza
+viruses
+with
+other
+H9N2
+representative
+viruses
+from
+different
+lineages
+Gene
+nucleotide
+sequences
+%
+Homology
+with
+CK/HK/G1/97
+DK/HK/Y439/97
+DK/HK/Y280/97
+CK/BJ/1/94
+QA/HK/G9/97
+CH/SH/F/98
+QA/ST/11195/05
+HK/33982/09
+PB2
+153-2231
+94.2%-94.3%
+85.3%-85.4%
+83.9%-84.0%
+84.4%
+93.7%-93.8%
+84.3%-84.4%
+a
+97.0%-97.1%
+(1037-2231)
+99.1%-99.2%
+PB1
+48-2202
+94.1%-94.3%
+89.1%-89.3%
+88.2%-88.4%
+89.0%-89.1%
+92.8%-92.9%
+89.3%-89.5%
+a
+96.2%-96.5%(48-1460)
+95.6%-95.8%
+PA
+62-2104
+87.9%-88.0%
+94.2%-94.3%
+86.1%
+86.6%-86.7%
+85.3%-85.4%
+89.0%-89.1%
+a
+98.3%
+(772-2104)
+99.0%-99.1%
+HA
+24-1540
+93.1%-93.7%
+82.7%-83.2%
+86.7%-87.4%
+88.7%-89.3%
+87.2%-87.9%
+87.1%-87.6%
+96.4%-97.0%
+98.6%-99.2%
+NP
+19-1286
+95.4%-95.5%
+92.0%-92.1%
+88.9%-89.0%
+89.6%-89.7%
+89.4%-89.5%
+89.6%-89.7%
+a
+97.4%-97.5%
+(19-969)
+97.7%-97.8%
+NA
+61-1358
+89.1%-89.2%
+85.9%-86.0%
+90.9%-91.0%
+92.2%-92.3%
+92.9%-93.0%
+90.3%-90.4%
+87.9%-88.0%
+98.7%-98.8%
+M
+26-708
+94.8%-95.0%
+88.6%-88.7%
+91.9%-92.1%
+92.0%-92.1%
+92.1%-92.3%
+92.7%-92.9%
+97.8%-97.9%
+99.3%-99.4%
+NS
+15-693
+93.9%-94.0%
+88.5%-88.7%
+92.9%-93.1%
+92.0%-92.2%
+91.7%-91.9%
+91.3%-91.4%
+98.0%-98.2%
+98.8%-98.9%
+Abbreviations:
+CK,
+chicken;
+DK,
+duck;
+BJ,
+Beijing;
+HK,
+Hong
+Kong;
+SH,
+Shanghai;
+ST,
+Shantou.
+The
+highest
+homologies
+are
+in
+bold
+face.
+a
+no
+completely
+compared,
+the
+nucleotide
+sequences
+are
+given
+in
+parenthesis.
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Zhu et al. Page 17
+Table
+2
+Comparison
+of
+amino
+acid
+residues
+in
+several
+key
+sites
+of
+HA,
+NA,
+M
+and
+PB2
+proteins
+of
+H9N2
+viruses
+tested
+in
+this
+study
+and
+other
+H9N2
+representative
+viruses
+from
+different
+lineages
+Virus
+Amino
+acid
+sequence
+at
+the
+cleavage
+sit
+Receptor
+binding
+site
+of
+HA
+(H3
+numbering)
+NA
+deletion
+M2
+residue
+at
+amantadine
+resistance
+mutation
+position
+Residue
+at
+PB2
+183
+190
+226
+228
+27
+30
+31
+627
+701
+QAl/HK/G1/97
+RSSR
+H
+E
+L
+G
+Yes
+V
+A
+S
+E
+D
+DK/HK/Y280/97
+----
+a
+N
+T
+-
+-
+-
+-
+-
+-
+-
+-
+CK/BJ/1/94
+----
+N
+V
+Q
+-
+No
+-
+-
+-
+-
+-
+DK/HK/Y439/97
+A-N-
+-
+-
+Q
+-
+No
+-
+-
+-
+-
+-
+HK/33982/09
+--N-
+-
+D
+Q
+-
+No
+-
+-
+-
+-
+N
+HK/35820/09
+--N-
+-
+D
+Q
+-
+No
+-
+-
+-
+/
+b
+/b
+JX/2011
+--N-
+-
+D
+Q
+-
+No
+-
+-
+-
+-
+-
+Abbreviations:
+CK,
+chicken;
+DK,
+duck;
+BJ,
+Beijing;
+HK,
+Hong
+Kong;
+a
+Dashes
+indicate
+residues
+identical
+to
+those
+of
+QA/HK/G1/97
+virus.
+b
+no
+compared
+Vet Microbiol. Author manuscript; available in PMC 2014 October 25.

@@ -1,0 +1,48 @@
+T62	Location 2363 2368	Egypt
+#62	AnnotatorNotes T62	<latlng>27,30</latlng><geoID>357994</geoID>
+T64	Location 2710 2719;2720 2737	People's Republic of China
+#64	AnnotatorNotes T64	<latlng>35,105</latlng><geoID>1814991</geoID>
+T66	Location 2757 2768	Middle East
+#66	AnnotatorNotes T66	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T67	Location 2770 2776	Africa
+#67	AnnotatorNotes T67	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T68	Location 2782 2788	Europe
+#68	AnnotatorNotes T68	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T71	Location 3183 3193	Azerbaijan
+#71	AnnotatorNotes T71	<latlng>40.5,47.5</latlng><geoID>587116</geoID>
+T74	Location 3280 3285	Egypt
+#74	AnnotatorNotes T74	<latlng>27,30</latlng><geoID>357994</geoID>
+T75	Location 3553 3562	Port Said
+#75	AnnotatorNotes T75	<latlng>31.25654,32.28412</latlng><pop>538378</pop><geoID>358619</geoID>
+T76	Location 3564 3572	Damietta
+#76	AnnotatorNotes T76	<latlng>31.35,31.75</latlng><pop>1076132</pop><geoID>358044</geoID>
+T77	Location 3575 3581	Fayoum
+#77	AnnotatorNotes T77	<latlng>29.30995,30.8418</latlng><pop>306393</pop><geoID>361320</geoID>
+T78	Location 3583 3588	Arish
+#78	AnnotatorNotes T78	<latlng>31.13159,33.79844</latlng><pop>128855</pop><geoID>361546</geoID>
+T79	Location 3594 3609	Sharm el Sheikh
+#79	AnnotatorNotes T79	<latlng>27.85183,34.30499</latlng><pop>12000</pop><geoID>349340</geoID>
+T81	Location 4034 4044	Nile Delta
+#81	AnnotatorNotes T81	<latlng>31.0,31.0</latlng><pop>0</pop><geoID>351037</geoID>
+T82	Location 4056 4064	Damietta
+#82	AnnotatorNotes T82	<latlng>31.35,31.75</latlng><pop>1076132</pop><geoID>358044</geoID>
+T84	Location 4444 4452	Damietta
+#84	AnnotatorNotes T84	<latlng>31.35,31.75</latlng><pop>1076132</pop><geoID>358044</geoID>
+T85	Location 4775 4780	Egypt
+#85	AnnotatorNotes T85	<latlng>27,30</latlng><geoID>357994</geoID>
+T86	Location 5228 5233	Egypt
+#86	AnnotatorNotes T86	<latlng>27,30</latlng><geoID>357994</geoID>
+T88	Location 5892 5897	Egypt
+#88	AnnotatorNotes T88	<latlng>27,30</latlng><geoID>357994</geoID>
+T92	Location 6380 6385	Egypt
+#92	AnnotatorNotes T92	<latlng>27,30</latlng><geoID>357994</geoID>
+T93	Location 7391 7396	Egypt
+#93	AnnotatorNotes T93	<latlng>27,30</latlng><geoID>357994</geoID>
+T1	Protein 1 8	LETTERS
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 2303 2305	cn
+#2	AnnotatorNotes T2	END
+T4	Protein 7856 7871	Acknowledgments
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 11497 11498	.
+#5	AnnotatorNotes T5	END

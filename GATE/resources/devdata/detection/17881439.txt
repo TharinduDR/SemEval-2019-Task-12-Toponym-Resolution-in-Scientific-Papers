@@ -1,0 +1,702 @@
+﻿JOURNAL OF VIROLOGY, Dec. 2007, p. 12911­12917 Vol. 81, No. 23
+0022-538X/07/$08.000 doi:10.1128/JVI.01522-07
+Copyright © 2007, American Society for Microbiology. All Rights Reserved.
+Epitope Mapping of the Hemagglutinin Molecule of a Highly
+Pathogenic H5N1 Influenza Virus by Using
+Monoclonal Antibodies
+Nikolai V. Kaverin,1
+Irina A. Rudneva,1
+Elena A. Govorkova,1,2
+Tatyana A. Timofeeva,1
+Aleksandr A. Shilov,1
+Konstantin S. Kochergin-Nikitsky,1
+Piotr S. Krylov,1
+and Robert G. Webster2,3
+*
+D. I. Ivanovsky Institute of Virology, 123098 Moscow, Russia,1
+and Department of Infectious Diseases,
+St. Jude Children's Research Hospital,2
+and Department of Pathology, University of Tennessee,3
+Memphis, Tennessee 38105
+Received 11 July 2007/Accepted 9 September 2007
+We mapped the hemagglutinin (HA) antigenic epitopes of a highly pathogenic H5N1 influenza virus on the
+three-dimensional HA structure by characterizing escape mutants of a recombinant virus containing A/Viet-
+nam/1203/04 (H5N1) HA and neuraminidase genes in the genetic background of A/Puerto Rico/8/34 (H1N1)
+virus. The mutants were selected with a panel of eight anti-HA monoclonal antibodies (MAbs), seven to
+A/Vietnam/1203/04 (H5N1) virus and one to A/Chicken/Pennsylvania/8125/83 (H5N2) virus, and the mutants'
+HA genes were sequenced. The amino acid changes suggested three MAb groups: four MAbs reacted with the
+complex epitope comprising parts of the antigenic site B of H3 HA and site Sa of H1 HA, two MAbs reacted
+with the epitope corresponding to the antigenic site A in H3 HA, and two MAbs displayed unusual behavior:
+each recognized amino acid changes at two widely separate antigenic sites. Five changes were detected in amino
+acid residues not previously reported as changed in H5 escape mutants, and four others had substitutions not
+previously described. The HA antigenic structure differs substantially between A/Vietnam/1203/04 (H5N1)
+virus and the low-pathogenic A/Mallard/Pennsylvania/10218/84 (H5N2) virus we previously characterized
+(N. V. Kaverin et al., J. Gen. Virol. 83:2497­2505, 2002). The hemagglutination inhibition reactions of the
+MAbs with recent highly pathogenic H5N1 viruses were consistent with the antigenic-site amino acid changes
+but not with clades and subclades based on H5 phylogenetic analysis. These results provide information on the
+recognition sites of the MAbs widely used to study H5N1 viruses and demonstrate the involvement of the HA
+antigenic sites in the evolution of highly pathogenic H5N1 viruses, findings that can be critical for character-
+izing pathogenesis and vaccine design.
+Since 1997, highly pathogenic avian H5N1 influenza viruses
+have caused serious outbreaks in poultry farms and markets
+and have caused infection in humans with 50% mortality rate
+(30). Between 2003 and 2007 H5N1 influenza viruses spread
+rapidly through Southeast Asia and emerged in Western China
+(3), Africa (9), Turkey (15), and Siberia (18). The rapid dis-
+semination and ongoing evolution of avian H5N1 viruses, the
+possibility of future interhuman transmissibility, and the ab-
+sence of anti-H5 herd immunity in humans raise concern about
+the pandemic potential of these viruses (13, 28) and lend new
+urgency to elucidation of the structure and evolution of their
+proteins.
+The viral hemagglutinin (HA) surface glycoprotein is the
+primary target of neutralizing antibodies. However, few of
+the 16 HA subtypes have been characterized with respect to
+the localization and structure of their antigenic sites on the
+three-dimensional structure of the HA molecule. For many
+years the three-dimensional structure of HA was available only
+for the H3 subtype (29). The H3 structure was used to map
+antigenic sites on the H1 (1) and H2 (27) HA molecules and to
+begin characterizing the antigenic structure of the H5 HA
+molecule (17). After the X-ray crystallographic structures of
+H5 and H9 HA were reported (6, 7), the H5 HA molecule was
+antigenically mapped in greater detail (10), and mapping of H9
+HA was initiated (11). The localization and fine structure of
+two H5 antigenic sites have been described (10). Site 1 is an
+exposed loop comprising HA1 residues 140 to 145 (H3 num-
+bering here and throughout the text) that corresponds to an-
+tigenic sites A of H3 (29) and Ca2 of H1 (1), and site 2
+comprises two subsites, one (HA1 residues 156 and 157) that
+corresponds to site B in the H3 subtype (29) and one (HA1
+residues 129 to 133) that corresponds to site Sa in the H1
+subtype (1).
+The recently defined three-dimensional HA structure of the
+highly pathogenic H5N1 strain A/Vietnam/1203/04 (24) differs
+from that of A/Duck/Singapore/3/97 (H5N3) virus (6, 7) and
+bears some similarity to the HA of the H1N1 human 1918
+pandemic virus. Because of the continuous evolution of H5N1
+viruses (4, 13, 20, 23, 28) and the emergence of new antigenic
+variants (8, 24), high-yield reassortant strains must be con-
+stantly redefined for vaccine production (5, 14, 25, 26), and
+immunologic diagnostic tests must be frequently updated (2).
+We therefore antigenically mapped the HA molecule of the
+A/Vietnam/1203/04 virus. We also characterized some mono-
+* Corresponding author. Mailing address: Department of Infectious
+Diseases, St. Jude Children's Research Hospital, 332 North Lauder-
+dale St., Memphis, TN 38105-2794. Phone: (901) 495-3400. Fax: (901)
+523-2622. E-mail: robert.webster@stjude.org.
+
+Published ahead of print on 19 September 2007.
+12911
+clonal antibodies (MAbs) of the panel used to study the cur-
+rently circulating highly pathogenic H5N1 influenza virus
+strains (5, 8, 23). This information about the epitopes recog-
+nized by these MAbs will expand their usefulness in studies of
+new H5N1 isolates.
+The HA amino acid sequence of the emerging H5N1 influ-
+enza viruses is being monitored, but the antigenic HA epitopes
+of these viruses have never been mapped on their three-di-
+mensional HA structures by generating and characterizing es-
+cape mutants. Our mapping revealed that the HA antigenic
+structure of recent H5N1 isolates differs substantially from that
+of a low-pathogenicity H5 strain described earlier (10) and is
+rapidly evolving.
+MATERIALS AND METHODS
+Viruses. A reverse genetics-derived influenza virus containing the HA and
+neuraminidase (NA) genes of A/Vietnam/1203/04 (H5N1) virus in the genetic
+background of the high-growth master strain A/Puerto Rico/8/34 (H1N1)
+(VNH5N1-PR8/CDC-RG) was kindly provided by R. Donis (Centers for Disease
+Control and Prevention, Atlanta, GA). The HA gene of this virus had been
+modified by site-specific mutagenesis to delete the multibasic amino acids at the
+HA cleavage site (H5-PR8). This virus is not pathogenic to chickens or ferrets
+and can be used in minimal-biosafety level laboratories. All other H5N1 viruses
+were obtained from the collaborating laboratories. The mouse-adapted variant
+of A/Mallard/Pennsylvania/10218/84 (H5N2) virus and its escape mutants have
+been described (10, 22). Viruses were propagated by growth for 48 h in the
+allantoic cavities of 10-day-old embryonated chicken eggs at 37°C and were
+stored at 80°C until used.
+MAbs. To select and characterize escape mutants, we used a panel of seven MAbs
+to the HA of A/Vietnam/1203/04 (H5N1) influenza virus (VN04-2, VN04-8,
+VN04-9, VN04-10, VN04-13, VN04-15, and VN04-16) and MAb 777/1 to the HA of
+A/Chicken/Pennsylvania/8125/83 (H5N2) virus. The MAbs were prepared by a mod-
+ification of the method described by Kohler and Milstein (12) as previously de-
+scribed (8). Briefly, female 8-week-old BALB/c mice (Jackson Laboratories, Bar
+Harbor, ME) were anesthetized with isoflurane and intranasally inoculated with 50
+l of 104
+50% egg infective dose/mouse of recombinant virus generated at St. Jude
+Children's Research Hospital and carrying HA (modified multibasic amino acid at
+the cleavage site) and NA genes from A/Vietnam/1203/04 (H5N1) virus and internal
+genes from A/Puerto Rico/8/34 (H1N1) virus in phosphate-buffered saline. Six weeks
+later mice were intraperitoneally boosted with 15 g of HA of concentrated, and
+purified virus mixed 1:1 with incomplete Freund adjuvant (Sigma-Aldrich, Inc., St.
+Louis, MO). Three weeks later mice were intraperitoneally boosted with the same
+immunogen composition, followed by intravenous injection of 10 g of HA of
+concentrated and purified virus 3 weeks later.
+Selection of escape mutants. As described previously (10), virus was incubated
+with an excess of MAb for 1 h at 20°C, and the mixture was inoculated into
+10-day-old embryonated chicken eggs and incubated for 48 h at 37°C. Virus was
+harvested and used for limiting-dilution cloning in embryonated chicken eggs.
+HI test. Hemagglutination inhibition (HI) testing was performed with 0.5%
+chicken red blood cells by a standard method (16).
+PCR amplification and sequencing. Viral RNA was isolated from allantoic
+fluid by using the RNeasy minikit (QIAGEN) as specified by the manufacturer.
+Reverse transcription and subsequent PCR was performed with primers specific
+for the HA gene segment (primer sequences are available upon request). PCR
+products were purified with a QIAquick PCR purification kit (QIAGEN). The
+DNA template was sequenced by using a DNA ABI Prism 3130 sequencer
+(Applied Biosystems) and BigDye Terminator v3.1 kit; DNA sequences
+were completed and edited by using DNASTAR sequence analysis software
+(DNASTAR, Inc.).
+Nucleotide sequence accession numbers. The nucleotide sequences obtained
+in the present study have been deposited in the GenBank database (accession
+numbers EU122394 to EU122406).
+RESULTS
+Selection and antigenic characterization of escape mutants.
+The recombinant virus containing the HA and NA genes of
+A/Vietnam/1203/04 (H5N1) virus (VNH5N1-PR8/CDC-RG) was
+used as the wild-type virus for the selection of escape mutants.
+The MAbs used for selection were generated against the HA
+glycoprotein of A/Vietnam/1203/04 virus (seven MAbs) or
+A/Chicken/Pennsylvania/8125/83 virus (one MAb 777/1). Thir-
+teen mutants were selected: two mutants with each of the MAbs
+VN04-2, VN04-9, VN04-13, VN04-15, and 777/1 and one mutant
+with each of the MAbs VN04-8, VN04-10, and VN04-16. The
+mutants were selected in three separate experiments: in the first
+experiment three MAbs were used and six mutants were selected,
+in the second experiment four MAbs were used and six mutants
+were selected, and one mutant was selected in the third experi-
+ment. The mutants are designated by the MAb number and (in
+parentheses) the clone number: for example, the mutants m2(1)
+and m2(4) were selected by MAb VN04-2.
+All selected escape mutants were tested by HI assay with the
+panel of MAbs (Table 1). The results allowed us to operation-
+ally define two epitopes: one reacting with MAbs VN04-9,
+VN04-10, and VN04-16 (group 1) and one reacting with MAbs
+TABLE 1. Effect of amino acid changes in the HA of A/Vietnam/1203/04 (H5N1) virus on the antigenic specificity of escape mutants
+Escape mutant
+HA amino acid changea
+Reactivity with MAbb
+:
+H3 numbering H5 numbering VN04-2 VN04-8 VN04-9 VN04-10 VN04-13 VN04-15 VN04-16 777/1
+m2(1) S126Y, I155T S121Y, I151T  0 0 0 0 0 0 0
+m2(4) R166G R162G  0 0 0 0 0 0 0
+m8(9) K144E K140E 0  0 0 0  0 2
+m9(5) K156E K152E 0 0   0 0  
+m9(6) T160A, K193E T156A, K189E 0 0  0  0 0 
+m10 K156E K152E 0 0   0 0  
+m13(13) S145F S141F 0  0 0   0 
+m13(16) D187N, K193E D183N, K189E 0 0  0  1 0 
+m15(17) S145P S141P 0  0 0 2  0 
+m15(20) G143E G139E 0  0 0 0  0 0
+m16 K156N K152N 0 0   0 0  
+m777/1(2) S145P S141P 0  0 0 2  0 
+m777/1(4) S145T S141T 0  0 0 0 2 0 
+a
+Amino acid numbering is based on H3 HA and H5 HA (6).
+b
+Values are the differences in log2 units between the HI titers of MAbs in reactions with the wild-type VNH5N1-PR8/CDC-RG (H5N1) virus and with its escape
+mutants. 0, The HI titer of the MAb does not differ from the titer with the wild-type virus. , The HI titer at least 32-fold (5 log2) less than the titer with the wild-type
+virus.
+12912 KAVERIN ET AL. J. VIROL.
+VN04-8 and VN04-15 (group 2). In contrast, the mutants se-
+lected with VN04-2 were resistant solely to VN04-02, which,
+therefore, could not be assigned to any epitope on the basis of
+the HI test. The mutants selected with MAbs VN04-13 and
+777/1 (group 3) exhibited a complex pattern of specificity that
+overlapped both epitopes defined by group 1 and group 2
+MAbs. Two mutants selected with VN04-13 differed in their
+reactions. Whereas mutant m13(13) failed to react with
+VN04-8 and VN04-15, mutant m13(16) reacted with both, but
+not with MAb VN04-9. Of the mutants selected by MAbs to
+A/Vietnam/1203/04 virus, only m2(1), m2(4), and m15(20) re-
+acted with MAb 777/1 (Table 1).
+The data demonstrated that the reactions of MAbs VN04-9,
+VN04-10, and VN04-16 overlapped, suggesting that these
+MAbs reacted with the same antigenic site, whereas MAbs
+VN04-8 and VN04-15 reacted with a different antigenic deter-
+minant. MAb VN04-2 had an extremely narrow specificity and
+therefore could not be assigned to either epitope group on the
+basis of HI data alone. MAbs VN04-13 and 777/1 could not be
+assigned to either group for the opposite reason: they failed to
+react with mutants selected by the MAbs belonging to either
+group. This result suggested that they had unusually broad
+epitope specificity.
+Sequence analysis of the escape mutants. To identify the
+specific amino acids that reacted with the MAbs, we sequenced
+the HA gene. We found that the escape mutants carried either
+one or two amino acid changes in the HA1 subunit but none in
+the HA2 subunit.
+The mutations selected by group 1 MAbs (VN04-9, VN04-
+10, and VN04-16) were located between positions 155 and 166,
+corresponding to a part of antigenic site B in H3 HA and to the
+site Sa in H1 HA. MAb VN04-2 also recognized this site,
+because it selected mutants carrying amino acid changes at
+positions 126, 155, and 166. The amino acid substitutions se-
+lected by group 2 MAbs (VN04-8 and VN04-15) were located
+in the 140-145 loop, that is, in the site corresponding to anti-
+genic site A in H3 HA (Table 1).
+Two MAbs selected escape mutants with unusual patterns of
+amino acid changes. MAb VN04-13 selected two mutants with
+amino acid changes in two widely separated areas. The mutant
+m13(13) carried the substitution S145F in the loop, which
+explained its inability to react with MAbs VN04-8 and VN04-
+15. The other mutant, m13(16), had no substitutions in this site
+but carried two mutations (D187N and K193E) in a region
+corresponding to a part of site B in H3 HA. The substitution
+K193E was clearly antigenically significant, because MAb
+VN04-13 failed to react with the mutant m9(6), which also
+carried this substitution. Further, Philpott et al. (17) have re-
+ported an amino acid change at position 193 in an H5 escape
+mutant.
+MAb 777/1 also recognized amino acid substitutions in two
+distantly located antigenic sites: the region corresponding to
+site B in H3 HA (positions 156 and 193) and position 145 in the
+loop. However, both mutants selected with MAb 777/1 had a
+substitution at position 145: S145P in mutant m777/1(2) and
+S145T in mutant m777/1(4).
+Clearly, epitopes reacting with MAbs VN04-13 and 777/1
+overlap two antigenic sites, one corresponding to site A and
+one corresponding to site B in H3 HA. The other MAbs ex-
+hibited narrower specificity, selecting escape mutants with
+amino acid changes in sites corresponding to either antigenic
+site A in H3 (MAbs VN04-8 and VN04-15) or site B in H3
+and site Sa in H1 (MAbs VN04-2, VN04-9, VN04-10, and
+VN04-16).
+Each of three escape mutants--m2(1), m9(6), and m13(16)--
+that were selected with three different MAbs were double mu-
+tants carrying two HA amino acid changes. The HI data did not
+allow us to ascribe any antigenic effect to the substitutions T160A
+and D187N or to discern whether the antigenic change of mutant
+m2(1) was caused by substitution S126Y or I155T. However, all of
+these substitutions are located in antigenic areas, and their effect
+on antigenic specificity cannot be excluded.
+HI testing of the anti-A/Vietnam/1203/04 MAbs with escape
+mutants of A/Mallard/Pennsylvania/10218/84 virus. All of the
+MAbs except VN04-8 reacted with the A/Mallard/Pennsylva-
+nia/10218/84 (H5N2) virus, allowing us to use single, double,
+and triple escape mutants of this virus generated and charac-
+terized in our previous study (10) to further examine the spec-
+ificity of the MAbs. In HI testing MAb VN04-2 failed to react
+with mutants having the amino acid substitution N129D (Table
+2). The reactions of MAbs VN04-9, VN04-10, and VN04-16
+were affected by amino acid changes at position 156, which was
+expected on the basis of the data of the sequencing of the
+escape mutants selected with these MAbs (Table 1). However,
+MAb VN04-10 lost the ability to react with mutants carrying
+the K156N substitution and yet retained reactivity with those
+TABLE 2. Reactions of MAbs with escape mutants of A/Mallard/Pennsylvania/10218/84 (H5N2) virus in HI assay
+Escape mutant
+HA amino acid changea
+Reactivity with MAbb
+:
+H3 numbering H5 numbering VN04-2 VN04-9 VN04-10 VN04-13 VN04-15 VN04-16 777/1
+m46(7) N129D N124D  0 0 0 0 0 0
+m46(8) K157M K153M 0 0 0 0 2 0 0
+m55(2) K156N K152M 0   0 0  4
+m58(1) D131N D126N 0 2  0   1
+m24B9 R144G R140G 0 0 0 0  0 0
+m46(7)-55 N129D, K156T N124D, K152T   0 0 2  0
+m46(7)-55-24B9 N129M, K156T, P140L N124D, K152T, P136L   2    2
+m55(2)-24B9 K156N, N142K K152T, N138K 0   0   
+m58(1)-24B9 D131N, S145P D126N, S141P 0 2     
+a
+See Table 1, footnote a.
+b
+Designations are the same as in Table 1. Values are the differences in log2 units between the HI titers of MAbs in the reactions with the wild-type A/Mallard/
+Pennsylvania/10218/84 (H5N2) virus and with its escape mutants.
+VOL. 81, 2007 ANTIGENIC EPITOPES OF INFLUENZA H5N1 VIRUS HA 12913
+carrying K156T. Reactions of VN04-15 were affected not only
+by changes in the loop corresponding to site A in H3 HA
+(P140L, N142K, and R144G) but also by the change D131N,
+located in the site corresponding to site B in the H3 HA, which
+generates a new glycosylation site (10). Reaction of the escape
+mutants with MAb 777/1 was abolished by the amino acid
+substitution S145P and reduced by the substitution K156N,
+confirming the ability of this MAb to react with epitopes in two
+different antigenic sites.
+The results obtained with escape mutants of both A/Viet-
+nam/1203/04 (H5N1) and A/Mallard/Pennsylvania/10218/84
+(H5N2) viruses allowed us to divide the MAbs into three
+groups on the basis of their epitope recognition. Group 1
+MAbs (VN04-2, VN04-9, VN04-10, and VN04-16) react with
+the complex epitope comprising parts of antigenic site B of the
+H3 HA and site Sa of H1 HA. Group 2 MAbs (VN04-8 and
+VN04-15) react with the epitope corresponding to antigenic
+site A in H3. However, MAb VN04-15 is also sensitive to the
+acquisition of the glycosylation site at position 131. Group 3
+MAbs (VN04-13 and 777/1) recognize amino acid changes in
+two distantly located antigenic sites. Figure 1 shows a sche-
+matic representation of the epitopes of the MAbs overlapping
+two antigenic sites.
+Cross-reactions of the anti-A/Vietnam/1203/04 MAbs with
+highly pathogenic H5N1 viruses. In HI testing, both the H5N1
+viruses preceding A/Vietnam/1203/04 virus and those isolated
+later were resistant to some MAbs in the panel (Table 3).
+These strains exhibited differences from one another and from
+A/Vietnam/1203/04 (H5N1) virus in their reactions with the
+MAbs. The reaction was either slightly enhanced compared to
+the reaction with A/Vietnam/1203/04 (H5N1) virus, or de-
+creased, or completely abolished. The differences did not co-
+incide with clade and subclade division based on phylogenetic
+analysis of the H5 HA gene. We compared the amino acid
+sequences in the HA1 polypeptide chain region that showed
+amino acid changes in the escape mutants (positions 125 to
+193) (Table 4). In several cases the amino acid changes were
+positioned identically in the nonreactive strains and in the
+escape mutants of A/Vietnam/1203/04 and A/Mallard/Pennsyl-
+vania/10218/84 viruses. The nonreactivity or reduced reactivity
+of the strains A/Chicken/Jogiakarta/BBVet-IX/04 and A/Duck/
+Laos/3295/06 with MAbs VN04-8 and VN04-15 (Table 3) may
+be explained by nonconservative amino acid differences be-
+tween A/Vietnam/1203/04 virus and these strains in the region
+of the loop (Table 4). The failure of A/Duck/Laos/3295/06 to
+react with the MAb VN04-13 can be ascribed to the substitu-
+tion S145F, which was observed in the mutants m15(17) and
+m58(1)-24B9 that did not react with this MAb. The strains that
+were nonreactive with MAb VN04-2 (Table 3) had an aspartic
+acid residue at position 129 (Table 4), as did the mutants
+FIG. 1. Schematic representation of the antigenic sites and the
+epitopes that react with MAbs VN04-13 (A) and 777/1 (B) on the
+globular head of the HA H5 HA molecule. Images were created with
+RasMol 2.6, and the HA structure was obtained from the Protein Data
+Bank (PDB accession number 1JSM). Amino acid positions are des-
+ignated in H3 numbering.
+TABLE 3. Cross-reactivity of anti-A/Vietnam/1203/04 (H5N1) HA MAbs with H5N1 viruses
+HA phylogeny Virus
+Reactivity with MAba
+:
+VN04-2 VN04-8 VN04-9 VN04-10 VN04-13 VN04-15 VN04-16
+Clade 1 A/Vietnam/1194/04 1 0 0 0 0 1 0
+A/Hong Kong/213/03 0 1  0 2 1 1
+Clade 2A, subclade 1 A/Chicken/Indonesia/PA/03 3 1  0 2 0 0
+A/Chicken/Malang/BBVet-IV/04 1 1  0 2 0 0
+A/Chicken/Jogjakarta/BBVet-IX/04    0 1  2
+Clade 2E, subclade 2 A/Whooper swan/Mongolia/244/05  0  0 2 0 2
+Clade 2F, subclade 3 A/Duck/Laos/3295/06   3 0   3
+a
+Designations are the same as in Table 1. Values are the differences in log2 units between the HI titers of MAbs in the reactions with the A/Vietnam/1203/04 virus
+and with the other H5N1 viruses.
+12914 KAVERIN ET AL. J. VIROL.
+m46(7) and m46(7)-55, which were nonreactive with this MAb
+(Table 2). The strains with amino acid changes at both position
+160 and position 193 failed to react with MAb VN04-9, as had
+the escape mutants with amino acid substitutions at these po-
+sitions. Although we could not identify any specific antigenic
+alteration caused by amino acid substitution T160A in mutant
+m9(6), it is noteworthy that this amino acid change is a reverse
+mutation: the change A160T occurred in several H5N1 strains
+after 2003 (4, 24). Obviously, amino acid changes in the anti-
+genic sites revealed by the analysis of escape mutants are
+involved in the evolution of the H5 HA. It is worth noting that
+the distribution of antigenically significant amino acid changes
+in the HA of the H5N1 strains was not related to HA-based
+clades and subclades (Tables 3 and 4).
+DISCUSSION
+We have described the first characterization of the antigenic
+structure of the HA of a highly pathogenic H5N1 virus through
+the selection and study of escape mutants. The evolution of
+highly pathogenic H5N1 strains has to date been monitored by
+sequencing the genomes of isolates and using polyclonal sera
+and MAbs to detect antigenic changes. Our results will refine
+the detection of antigenically important changes in the evolv-
+ing H5 HA.
+The location and structure of influenza virus HA antigenic
+epitopes was first characterized in 1981 in the three-dimen-
+sional model of the H3 subtype (29). Four antigenic sites were
+described (A, B, C, and D), and a fifth (E) was later demon-
+strated (21). The antigenic sites of H1 and H2 subtype HAs
+were then characterized and mapped on the H3 HA three-
+dimensional structure (1, 27), and a preliminary map of the H5
+HA antigenic sites was also based on the X-ray model of H3
+HA (17). The locations of five H5 HA antigenic epitopes were
+identified, but their size and fine structure was not described,
+because only six amino acid changes were observed. After the
+X-ray crystallographic structures of H5 and H9 molecules were
+reported (6, 7), we mapped the antigenic sites on their surfaces
+by generating and analyzing escape mutants (10, 11). Amino
+acid changes in the escape mutants of the low-pathogenicity
+avian A/Mallard/Pennsylvania/10218/84 (H5N2) virus were
+grouped in two areas in the HA molecule: one corresponding
+to antigenic site A in H3 HA (a loop at the side of HA
+molecule) and another corresponding to a part of antigenic site
+B in the H3 HA molecule and partially overlapping the anti-
+genic site Sa in H1 HA. The recent extensive spread of highly
+pathogenic influenza H5N1 viruses since 2003 prompted us to
+characterize the antigenic structure of the H5 HA using the
+human isolate A/Vietnam/1203/04 (H5N1), which represents
+clade 1 on the H5 HA phylogenetic tree.
+We identified several important differences between a recent
+H5N1 strain and the previously described H5 HA molecules
+(10, 17). First, the positions of amino acid changes in the
+escape mutants of the A/Vietnam/1203/04 (H5N1) virus dif-
+fered from those we previously described in A/Mallard/Penn-
+sylvania/10218/84 (H5N2) mutants (10), with the exception of
+positions 144, 145, and 156, although they are located within
+the same areas on the surface of the HA molecule. Second,
+when the positions coincide, the amino acid changes are dif-
+ferent (e.g., K156E and K156N). All of these observations are
+likely to reflect a difference in HA conformation between the
+more recent H5N1 strain and A/Mallard/Pennsylvania/
+10218/84 (H5N2) virus. The amino acid changes in positions
+previously unreported in escape mutants (126, 143, 155, 160,
+166) that altered the reactivity with the MAbs were located
+both in the loop and in the part corresponding to antigenic site
+B of H3 HA. Interestingly, in the present study and in our
+previous study (10), all antigenically significant amino acid
+substitutions were located exclusively in areas corresponding to
+antigenic sites A and B of H3 HA and the antigenic site Sa of
+H1 HA. Not a single MAb against A/Vietnam/1203/04 (H5N1),
+A/Chicken/Pennsylvania/10218/83 (H5N2), or A/Chicken/
+Pennsylvania/8125/83 (H5N2) viruses in our studies selected an
+escape mutant with amino acid changes in the areas at the side
+of the HA molecule designated as sites 2, 3, and 4 by Philpott
+et al. (17). It seems plausible that the repertoire of immuno-
+competent antibody-producing cells (at least in mice) is di-
+rected largely against the upper surface of the H5 HA mole-
+cule.
+An unexpected finding was the ability of at least two MAbs
+to overlap widely separate antigenic sites. Of the two mutants
+selected by MAb VN04-13, one had an amino acid change
+(S145F) in the loop corresponding to site A in H3, while the
+TABLE 4. Amino acid changes in HA of the H5N1 viruses
+HA phylogeny Virus
+Amino acid at positiona
+:
+125 129 133 142 144 145 158 159 160 163 166 178 185 193
+120 124 129 138 140 141 154 155 156 159 162 174 181 189
+Clade 1 A/Vietnam/1203/04 S S L Q K S N S T T R V P K
+A/Vietnam/1194/04 S S L Q K S N S T T R V P K
+A/Hong Kong/213/03 N S L Q K S N N A T R V P R
+Clade 2A, subclade 1 A/Chicken/Indonesia/PA/03 S D S Q K S N S A T R V P R
+A/Chicken/Malang/BBVet-IV/04 S N S Q K S N S A T R V P R
+A/Chicken/Jogjakarta/BBVet-IX/04 S D S L R S N S T I R V P K
+Clade 2E, subclade 2 A/Whooper swan/Mongolia/244/05 S D S Q R S D N A T R V P R
+Clade 2F, subclade 3 A/Duck/Laos/3295/06 S D S Q T P N N T T R I S K
+a
+Amino acid numbering in the top row is based on H3 HA. Amino acid numbering in the bottom row is based on H5 HA. Amino acid substitutions with respect
+to the HA of A/Vietnam/1203/04 (H5N1) are indicated in boldface. Amino acid positions changed in the HA of escape mutants are indicated in italics.
+VOL. 81, 2007 ANTIGENIC EPITOPES OF INFLUENZA H5N1 VIRUS HA 12915
+other carried 2 mutations in a region corresponding to a part
+of site B in H3. MAb 777/1 also reacted with two antigenic
+sites, as demonstrated by its reactions with escape mutants of
+A/Vietnam/1203/04 (H5N1) and A/Mallard/Pennsylvania/
+10218/84 (H5N2) viruses. With some reservations, MAb
+VN04-15 may also be regarded as sensitive to amino acid
+substitutions in two antigenic sites. However, in this case the
+amino acid change at position 131 was associated with the
+acquisition of a new glycosylation site (10). The oligosaccha-
+ride chain in this position might create steric hindrance at the
+epitope recognized by the MAb VN04-15 in the region of the
+loop.
+Importantly, the MAbs overlapping two antigenic sites
+(VN04-13 and 777/1) were not mixed preparations. Amino acid
+changes that abolished recognition by these MAbs were de-
+tected in several single mutants carrying a mutation in one
+antigenic site, while the other site was unchanged and free to
+bind MAbs: the mutants, therefore, would have been neutral-
+ized by a mixture containing a MAb reactive with the un-
+changed site. Further, escape mutants are unlikely to be se-
+lected by a mixture of two MAbs reacting with different
+antigenic sites, considering the mean frequency of the muta-
+tions selected by MAbs (31).
+The ability of some anti-H5 MAbs to overlap 2 distinct
+antigenic sites may be hypothetically explained by the archi-
+tecture of the H5 HA molecule. Sites A and B are situated far
+apart in the three-dimensional structure of H3 HA molecule
+(29) but are much closer in H5 HA (10, 11). It would be
+premature to speculate whether this proximity may influence
+the selection of antigenic variants under natural conditions.
+However, a neutralizing antibody that reacts with two antigenic
+sites rather than one might offer the evolving virus broader
+possibilities of escape, if a mutation in either site could confer
+resistance to neutralization. The ability of some anti-H5 MAbs
+to overlap two different antigenic sites suggests that if H5
+viruses were to become disseminated in the human population,
+the generation of drift variants of H5 HA might differ from
+that observed in the human H1 and H3 viruses.
+The panel of MAbs we characterized is widely used to study
+currently circulating highly pathogenic H5N1 influenza viruses
+(5, 8, 23). These MAbs are available from the Biodefense and
+Emerging Infections Research Resources Repository (http:
+//www.beiresources.org), and in 2007 were included into the
+CDC influenza reagent kit. By identifying the epitopes recog-
+nized by these antibodies, our findings allow the use of the
+MAbs to monitor the evolution of the antigenic sites in the
+currently circulating H5N1 viruses. Previous data obtained by
+using this panel of MAbs can be reinterpreted on the basis of
+our results, and the characterization of future isolates will
+acquire a new dimension, in which the antigenic changes that
+are detected can be connected with amino acid substitutions at
+specific antigenic sites.
+The antigenic sites described here and in our earlier study
+(10) are significantly involved in the evolution of H5N1 influ-
+enza viruses. The sites can now be analyzed in detail. Clearly,
+antigenic specificity can be modulated by a greater variety of
+amino acid changes than previously suggested (10). The amino
+acid substitutions in the highly pathogenic H5N1 isolates (4,
+24) occur within the antigenic sites described here and in our
+previous study (10), and some occur in precisely the same
+positions as those in the escape mutants described here and in
+our previous study (10). These coincidences suggest a certain
+similarity between the evolution of the avian H5N1 viruses and
+the antigenic drift of human H1 and H3 influenza virus strains.
+The data presented here may be regarded as a basis for
+future studies in several directions. First, it will be important to
+explore whether the antigenic epitopes recognized by murine
+MAbs coincide with those recognized by human antibodies.
+The production of human MAbs against the H5 HA was re-
+cently reported (19). Second, since the distribution of the an-
+tigenically significant amino acid changes in the HA of H5N1
+strains did not coincide with the clade and subclade grouping
+based on phylogenetic analysis of the H5 HA genes, the choice
+of a strain for vaccine preparation should take into consider-
+ation not only the selection of the proper clade and subclade
+but also the structure of antigenic sites of individual strains. It
+will be important to establish to what extent the amino acid
+substitutions in the antigenic sites affect immune protection.
+Finally, last but not least, it will be of interest to find out
+whether the amino acid changes in the escape mutants of the
+H5N1 virus have any pleiotropic effects. In our previous studies
+we revealed that escape mutations in the HA of a low-patho-
+genicity mouse-adapted H5N2 and H9N2 strains may be asso-
+ciated with decrease of virulence and/or the affinity to sialic
+receptors (10, 11). Experiments aimed at the characterization
+of these phenotypic features of the escape mutants generated
+in the present study are now in progress.
+ACKNOWLEDGMENTS
+We thank Sharon Naron for editorial assistance. We gratefully ac-
+knowledge Tien D. Nguyen from National Institute of Veterinary
+Research, Hanoi, Vietnam; Malik Peiris and Yi Guan from the Joint
+Influenza Research Center, Shantou University Medical College and
+Hong Kong University, People's Republic of China; Bounlom
+Douangngeun from National Animal Health Centre, Laos PDR; Tri
+Satya Putri Naipospos from Indonesia National Committee on Avian
+Flu Control and Pandemic Influenza Preparedness, Indonesia; William
+B. Karesh from Wildlife Conservation Society and the Global Avian
+Influenza Network for Surveillance of Wild Birds; and David Swayne
+from USDA ARS for providing H5N1 influenza viruses. We thank
+Ruben Donis from the Centers for Disease Control and Prevention,
+Atlanta, GA, for providing genetics-derived VNH5N1-PR8/CDC-RG
+influenza virus.
+This study was supported by grant 07-04-00005-a from the Russian
+Foundation for Basic Research; by the National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Department of
+Health and Human Services, grants A195357 and A157570 and con-
+tract no. HHSN266200700005C; and by the American Lebanese Syrian
+Associated Charities.
+REFERENCES
+1. Caton, A. J., G. G. Brownlee, J. M. Yewdell, and W. Gerhard. 1982. The
+antigenic structure of the influenza virus A/PR/8/34 hemagglutinin (H3 sub-
+type). Cell 31:417­427.
+2. Chan, K. H., S. Y. Lam, P. Puthavathana, T. D. Nguyen, H. T. Long, C. M.
+Pang, K. M. Chan, C. Y. Cheung, W. H. Seto, and J. S. Peiris. 2007.
+Comparative analytical sensitivities of six rapid influenza A antigen detection
+test kits for detection of influenza A subtypes H1N1, H3N2, and H5N1.
+J. Clin. Virol. 38:169­171.
+3. Chen, H., Y. Li, Z. Li, J. Shi, K. Shinya, G. Deng, Q. Qi, G. Tian, S. Fan, H.
+Zhao, Y. Sun, and Y. Kawaoka. 2006. Properties and dissemination of H5N1
+viruses isolated during an influenza outbreak in migratory waterfowl in
+Western China. J. Virol. 80:5976­5983.
+4. Chen, H., G. J. Smith, K. S. Li, J. Wang, X. H. Fan, J. M. Rayner, D.
+Vijaikrishna, J. X. Zhang, C. T. Guo, C. L. Cheung, K. M. Xu, L. Duan, K.
+Huang, K. Qin, Y. H. Leung, W. L. Wu, H. R. Lu, Y. Chen, N. S. Xia, T. S.
+Naipospos, K. Y. Yuen, S. S. Hassan, S. Bahri, and T. D. Nguyen. 2006.
+Establishment of multiple sublineages of H5N1 influenza virus in Asia:
+12916 KAVERIN ET AL. J. VIROL.
+implications for pandemic control. Proc. Natl. Acad. Sci. USA 103:2845­
+2850.
+5. Govorkova, E. A., R. J. Webby, J. Humberd, J. P. Seiler, and R. G. Webster.
+2006. Immunization with reverse-genetics-produced H5N1 influenza vaccine
+protects ferrets against homologous and heterologous challenge. J. Infect.
+Dis. 194:159­167.
+6. Ha, Y., D. J. Stevens, J. J. Skehel, and D. C. Wiley. 2001. X-ray structures of
+H5 avian and H9 swine influenza virus hemagglutinins bound to avian and
+human receptor analogs. Proc. Natl. Acad. Sci. USA 98:11181­11186.
+7. Ha, Y., D. J. Stevens, J. J. Skehel, and D. C. Wiley. 2002. H5 avian and H9
+swine influenza virus hemagglutinin structures: possible origin of influenza
+subtypes. EMBO J. 21:865­875.
+8. Hoffmann, E., A. S. Lipatov, R. J. Webby, E. A. Govorkova, and R. G.
+Webster. 2005. Role of specific hemagglutinin amino acids in the immuno-
+genicity and protection of H5N1 influenza virus vaccines. Proc. Natl. Acad.
+Sci. USA 102:12915­12920.
+9. Joannis, T., L. H. Lombin, P. De Benedictis, G. Cattoli, and I. Capua. 2006.
+Confirmation of H5N1 avian influenza in Africa. Vet. Rec. 158:309­310.
+10. Kaverin, N. V., I. A. Rudneva, N. A. Ilyushina, N. L. Varich, A. S. Lipatov,
+Y. A. Smirnov, E. A. Govorkova, A. S. Gitelman, D. K. Lvov, and R. G.
+Webster. 2002. Structure of antigenic sites on the haemagglutinin molecule
+of H5 influenza virus and phenotypic variation of escape mutants. J. Gen.
+Virol. 83:2497­2505.
+11. Kaverin, N. V., I. A. Rudneva, N. A. Ilyushina, A. S. Lipatov, S. Krauss, and
+R. G. Webster. 2004. Structural differences among hemagglutinins of influ-
+enza A virus subtypes are reflected in their antigenic architecture: analysis of
+H9 escape mutants. J. Virol. 78:240­249.
+12. Kohler, G., and C. Milstein. 1976. Derivation of specific antibody-producing
+tissue culture and tumor lines by cell fusion. Eur. J. Immunol. 6:511­519.
+13. Lipatov, A. S., E. A. Govorkova, R. J. Webby, H. Ozaki, M. Peiris, Y. Guan,
+L. Poon, and R. G. Webster. 2004. Influenza: emergence and control. J. Vi-
+rol. 78:8951­8959.
+14. Nicolson, C., D. Major, J. M. Wood, and J. S. Robertson. 2005. Generation
+of influenza vaccine viruses on Vero cells by reverse genetics: an H5N1
+candidate vaccine strain produced under a quality system. Vaccine 23:2943­
+2952.
+15. Oncul, O., V. Turhan, and S. Cavuslu. 2006. H5N1 avian influenza: the
+Turkish dimension. Lancet Infect. Dis. 6:186­187.
+16. Palmer, D. F., W. R. Dowdle, M. T. Coleman, and G. C. Schild. 1975.
+Advanced laboratory techniques for influenza diagnosis. U.S. Department of
+Health, Education, and Welfare, immunology series no. 6. Centers for Dis-
+ease Control, Atlanta, GA.
+17. Philpott, M., C. Hioe, M. Sheerar, and V. Hinshaw. 1990. Hemagglutinin
+mutations related to attenuation altered cell tropism of a virulent avian
+influenza A virus. J. Virol. 64:2941­2947.
+18. Shestopalov, A. M., A. G. Durimanov, V. A. Evseenko, V. A. Ternovoi, Y. N.
+Rassadkin, Y. V. Razumova, A. V. Zaykovskaya, S. I. Zolotykh, and S. V.
+Netesov. 2006. H5N1 influenza virus, domestic birds, Western Siberia, Rus-
+sia. Emerg. Infect. Dis. 12:1167­1168.
+19. Simmons, C. P., N. L. Bernasconi, A. M. Suguitan, Jr., K. Mills, J. M. Ward,
+N. V. V. Chau, T. T. Hien, F. Sallusto, D. Q. Ha, J. Farrar, M. D. de Jong,
+A. Lanzavecchia, and K. Subbarao. 2007. Prophylactic and therapeutic effi-
+cacy of human monoclonal antibodies against H5N1 viruses. PLoS Med.
+4:928­936.
+20. Sims, L. D., J. Domenech, C. Benigno, S. Kahn, A. Kamata, J. Lubroth, V.
+Martin, and P. Roeder. 2005. Origin and evolution of highly pathogenic
+H5N1 avian influenza in Asia. Vet. Rec. 157:159­164.
+21. Skehel, J. J., D. J. Stevens, R. S. Daniels, A. R. Douglas, M. Knossow, I. A.
+Wilson, and D. C. Wiley. 1984. A carbohydrate side chain on hemagglutinins
+of Hong Kong influenza viruses inhibits recognition by a monoclonal anti-
+body. Proc. Natl. Acad. Sci. USA 81:1779­1783.
+22. Smirnov, Y. A., A. S. Lipatov, R. A. van Beek, A. K. Gitelman, A. D. M. E.
+Osterhaus, and E. C. J. Claas. 2000. Characterization of adaptation of an
+avian influenza A (H5N2) virus to a mammalian host. Acta Virol. 44:1­8.
+23. Smith, G. J., T. S. Naipospos, T. D. Nguyen, M. D. de Jong, D. Vijaykrishna,
+T. B. Usman, S. S. Hassan, T. V. Nguyen, T. V. Dao, N. A. Bui, Y. H. Leung,
+C. L. Cheung, J. M. Rayner, J. X. Zhang, L. J. Zhang, L. L. Poon, K. S. Li,
+V. C. Nguyen, T. T. Hien, J. Farrar, R. G. Webster, H. Chen, J. S. Peiris, and
+Y. Guan. 2006. Evolution and adaptation of H5N1 influenza virus in avian
+and human hosts in Indonesia and Vietnam. Virology 350:258­268.
+24. Stevens, J., O. Blixt, T. M. Tumpey, J. K. Taubenberger, J. C. Paulson, and
+I. A. Wilson. 2006. Structure and receptor specificity of the hemagglutinin
+from an H5N1 influenza virus. Science 312:404­410.
+25. Subarrao, K., H. Chen, D. Swayne, L. Mingay, E. Fodor, G. Brownlee, X. Xu,
+X. Lu, J. Katz, N. Cox, and Y. Matsuoka. 2003. Evaluation of a genetically
+modified reassortant H5N1 influenza virus vaccine candidate generated by
+plasmid-based reverse genetics. Virology 305:192­200.
+26. Tian, G., S. Zhang, Y. Li, Z. Bu, P. Liu, J. Zhou, C. Li, J. Shi, K. Yu, and H.
+Chen. 2005. Protective efficacy in chickens, geese and ducks of an H5N1-
+inactivated vaccine developed by reverse genetics. Virology 341:153­162.
+27. Tsuchiya, E., K. Sugawara, S. Hongo, Y. Matsuzaki, Y. Muraki, Z.-N. Li, and
+K. Nakamura. 2001. Antigenic structure of the haemagglutinin of human
+influenza A/H2N2 virus. J. Gen. Virol. 82:2475­2484.
+28. Webster, R. G., and E. A. Govorkova. 2006. H5N1 influenza­continuing
+evolution and spread. N. Engl. J. Med. 355:2174­2177.
+29. Wiley, D. C., I. A. Wilson, and J. J. Skehel. 1981. Structural identification of
+the antibody-binding sites of Hong Kong influenza hemagglutinin and their
+involvement in antigenic variation. Nature 289:373­378.
+30. World Health Organization Epidemic and Pandemic Alert and Response.
+2007. Cumulative number of confirmed human cases of avian influenza
+A(H5N1) reported to WHO on 11 April 2007. [Online.] http://www.who.int
+/csr/disease/avian_influenza/country/cases_table_2007_04_11/en/index.html.
+31. Yewdell, J. W., R. G. Webster, and W. Gerhard. 1979. Antigenic variation in
+three distinct determinants of an influenza type A hemagglutinin molecule.
+Nature 279:246­248.
+VOL. 81, 2007 ANTIGENIC EPITOPES OF INFLUENZA H5N1 VIRUS HA 12917
+

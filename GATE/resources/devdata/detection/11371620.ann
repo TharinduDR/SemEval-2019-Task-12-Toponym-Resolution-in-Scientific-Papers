@@ -1,0 +1,14 @@
+T27	Location 3125 3134	Hong Kong
+#27	AnnotatorNotes T27	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID>
+T28	Location 7004 7013	Hong Kong
+#28	AnnotatorNotes T28	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID>
+T33	Location 8845 8851	Ottawa
+#33	AnnotatorNotes T33	<latlng>45.41858, -75.69717</latlng><geoID>8581623</geoID>
+T183	Protein 151 152	E
+#183	AnnotatorNotes T183	BEGIN
+T184	Protein 792 793	)
+#184	AnnotatorNotes T184	END
+T32	Protein 36771 36779	Sequence
+#32	AnnotatorNotes T32	BEGIN
+T34	Protein 40114 40115	.
+#34	AnnotatorNotes T34	END

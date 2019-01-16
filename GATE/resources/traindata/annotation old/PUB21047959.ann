@@ -1,0 +1,84 @@
+T5	Location 1230 1242	Buenos Aires
+#5	AnnotatorNotes T5	<latlng>-36.0,-60.0</latlng><pop>13827203</pop><geoID>3435907</geoID>
+T6	Location 1244 1253	Argentina
+#6	AnnotatorNotes T6	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T18	Location 1816 1825	Argentina
+#18	AnnotatorNotes T18	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T20	Location 3599 3610	Mexico City 
+#20	AnnotatorNotes T20	<latlng>19.42847, -99.12766</latlng><pop>12294193</pop><geoID>3530597</geoID>
+T21	Location 3613 3619	Mexico
+#21	AnnotatorNotes T21	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T22	Location 3808 3817	Argentina
+#22	AnnotatorNotes T22	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T23	Location 3944 3956	Buenos Aires
+#23	AnnotatorNotes T23	<latlng>-36.0,-60.0</latlng><pop>13827203</pop><geoID>3435907</geoID>
+T24	Location 3958 3967	Argentina
+#24	AnnotatorNotes T24	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T27	Location 6056 6068	Buenos Aires
+#27	AnnotatorNotes T27	<latlng>-36.0,-60.0</latlng><pop>13827203</pop><geoID>3435907</geoID>
+T36	Location 6962 6974	Buenos Aires
+#36	AnnotatorNotes T36	<latlng>-36.0,-60.0</latlng><pop>13827203</pop><geoID>3435907</geoID>
+T37	Location 6976 6985	Argentina
+#37	AnnotatorNotes T37	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T39	Location 7500 7510	Entre Ríos
+#39	AnnotatorNotes T39	<latlng>-32.0,-59.0</latlng><pop>1158147</pop><geoID>3434137</geoID>
+T40	Location 7512 7521	Argentina
+#40	AnnotatorNotes T40	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T42	Location 7742 7750	Carlsbad
+#42	AnnotatorNotes T42	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T43	Location 8035 8046	Foster City
+#43	AnnotatorNotes T43	<latlng>37.55855,-122.27108</latlng><pop>30567</pop><geoID>5350159</geoID>
+T51	Location 10744 10754	Piscataway
+#51	AnnotatorNotes T51	<latlng>40.49927,-74.39904</latlng><pop>56044</pop><geoID>5102713</geoID>
+T52	Location 10907 10914	Uppsala
+#52	AnnotatorNotes T52	<latlng>60,17.75</latlng><pop>341977</pop><geoID>2666218</geoID>
+T53	Location 10916 10922	Sweden
+#53	AnnotatorNotes T53	<latlng>62,15</latlng><geoID>2661886</geoID>
+T54	Location 11406 11418	Buenos Aires
+#54	AnnotatorNotes T54	<latlng>-36.0,-60.0</latlng><pop>13827203</pop><geoID>3435907</geoID>
+T55	Location 11420 11429	Argentina
+#55	AnnotatorNotes T55	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T56	Location 11864 11876	Buenos Aires
+#56	AnnotatorNotes T56	<latlng>-36.0,-60.0</latlng><pop>13827203</pop><geoID>3435907</geoID>
+T78	Location 26351 26360	Argentina
+#78	AnnotatorNotes T78	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T79	Location 27637 27646	Argentina
+#79	AnnotatorNotes T79	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T80	Location 27676 27688	Buenos Aires
+#80	AnnotatorNotes T80	<latlng>-36.0,-60.0</latlng><pop>13827203</pop><geoID>3435907</geoID>
+T81	Location 27874 27883	Argentina
+#81	AnnotatorNotes T81	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T82	Location 35018 35024	Europe
+#82	AnnotatorNotes T82	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T83	Location 35029 35033	Asia
+#83	AnnotatorNotes T83	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T84	Location 35916 35925	Argentina
+#84	AnnotatorNotes T84	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T129	Location 7752 7754	CA
+#129	AnnotatorNotes T129	<latlng>37.25022, -119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T130	Location 8048 8050	CA
+#130	AnnotatorNotes T130	<latlng>37.25022, -119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T131	Location 10756 10758	NJ
+#131	AnnotatorNotes T131	<latlng>40.16706, -74.49987</latlng><pop>8751436</pop><geoID>5101760</geoID>
+T132	Location 11878 11882;11883 11890	Ar-gentina
+#132	AnnotatorNotes T132	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T133	Location 12208 12213;12214 12219	Her-cules
+#133	AnnotatorNotes T133	<latlng>38.01714, -122.28858</latlng><pop>24060</pop><geoID>5356451</geoID>
+T134	Location 12221 12223	CA
+#134	AnnotatorNotes T134	<latlng>37.25022, -119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T1	Protein 1 10	Published
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 1160 1161	.
+#2	AnnotatorNotes T2	END
+T3	Protein 1257 1258	P
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1649 1653	2010
+#4	AnnotatorNotes T4	END
+T7	Protein 6348 6349	*
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 6775 6779	from
+#8	AnnotatorNotes T8	END
+T9	Protein 36110 36125	ACKNOWLEDGMENTS
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 46823 46827	from
+#10	AnnotatorNotes T10	END

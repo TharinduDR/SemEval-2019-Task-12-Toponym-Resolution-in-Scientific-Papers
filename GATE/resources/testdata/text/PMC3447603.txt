@@ -1,0 +1,978 @@
+American Journal of Epidemiology
+© The Author 2012. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://
+creativecommons.org/licenses/by-nc/3.0), which permits unrestricted non-commercial use, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+
+Vol. 176, No. 6
+DOI: 10.1093/aje/kws313
+Advance Access publication:
+August 31, 2012
+
+Original Contribution
+Effectiveness of Adjuvanted Influenza Vaccination in Elderly Subjects in
+Northern Italy
+
+Salvatore Mannino*, Marco Villa, Giovanni Apolone, Noel S. Weiss, Nicola Groth, Ivana Aquino,
+Liana Boldori, Fausta Caramaschi, Antonio Gattinoni, Giancarlo Malchiodi, and
+Kenneth J. Rothman
+* Correspondence to Dr. Salvatore Mannino, O.R. Villa Sofia—Cervello, Viale Strasburgo, 233, 90146 Palermo, Italia (e-mail: salvatore.
+mannino@villasofia.it).
+
+Initially submitted March 22, 2012; accepted for publication July 6, 2012.
+
+Although vaccination against influenza is recommended for elderly and high-risk patients in many countries,
+efficacy in the elderly has been suboptimal. The MF59 adjuvanted trivalent inactivated vaccine (ATIV) was developed to increase the immune response of elderly subjects to influenza vaccination, but its effectiveness has
+not yet been well documented. This prospective, observational study evaluated the relative effectiveness of ATIV
+versus nonadjuvanted trivalent inactivated vaccine (TIV) in individuals at least 65 years of age in Lombardy,
+northern Italy. Hospitalizations for influenza or pneumonia (International Classification of Diseases, Ninth Revision, Clinical Modification, codes 480–487) during the 2006–2007, 2007–2008, and 2008–2009 influenza
+seasons were identified from administrative databases. Stratified and regression analyses, including the propensity score to adjust for confounding, as well as generalized estimating equations to account for repeated vaccination, were used. Overall, 107,661 records were evaluated, contributing 170,988 person-seasons of observation.
+Since ATIV is preferentially recommended for more frail individuals, subjects vaccinated with ATIV were older
+and had more functional impairment and comorbidities. In the primary analysis, risk of hospitalization for influenza or pneumonia was 25% lower for ATIV relative to TIV (relative risk = 0.75, 95% confidence interval: 0.57,
+0.98). To the extent that there is residual bias, ATIV is likely to be even more protective than this result suggests.
+adjuvanted influenza vaccine; elderly; influenza; pneumonia
+
+Abbreviations: ATIV, adjuvanted trivalent inactivated vaccine; CI, confidence interval; COPD, chronic obstructive pulmonary
+disease; TIV, trivalent inactivated vaccine.
+
+Globally, inﬂuenza infection is a major cause of morbidity and mortality. In many countries, vaccination to prevent
+inﬂuenza and its complications is recommended for “highrisk” groups, such as the elderly, patients with chronic conditions, and institutionalized populations. Nevertheless,
+vaccination of the elderly remains controversial. Since there
+is a gradual decline in immune competence with age (1–3),
+immunogenicity and hence vaccine effectiveness in the
+elderly are suboptimal. Assessment of effectiveness is complicated by the degree of match between vaccine and virus,
+which varies from year to year with mismatches leading to
+lower vaccine efﬁcacy (4, 5). Observational studies comparing vaccinated with unvaccinated cohorts have generally
+
+found that conventional inﬂuenza vaccines are modestly effective in preventing hospitalization and mortality during
+the inﬂuenza season (6). Controversies stem from the scarcity of data from randomized studies and the potential for
+bias in observational studies due to differences in the baseline health status between those who are vaccinated and
+those who are not (7, 8). It was therefore recognized that
+the added value of a ﬁeld study would include only vaccinated persons in a head-to-head comparison, thus substantially reducing the potential for confounding.
+MF59 adjuvanted trivalent inactivated vaccine (ATIV)
+(Fluad; Novartis Vaccines and Diagnostics, Siena, Italy)
+has been registered in Europe since 1997 for vaccination of
+527
+
+Am J Epidemiol. 2012;176(6):527–533
+
+528 Mannino et al.
+
+persons 65 years of age or older. Clinical trials have shown
+that MF59 adjuvanted vaccines are more immunogenic
+than conventional nonadjuvanted vaccines and provide
+better immunogenicity against drifted strains that are different from the virus strains included in the vaccine (9). Nevertheless, improved effectiveness in preventing inﬂuenza
+and related complications has not been well evaluated in
+the elderly (10).
+The Italian National Health Care System provided an opportunity to evaluate comparative inﬂuenza vaccine effectiveness in a ﬁeld setting where medical data are accessible
+and have been used for pharmacoepidemiologic studies
+(11, 12). Italian guidelines on the prevention and control of
+inﬂuenza provide free access to vaccines for high-risk
+persons, with adjuvanted vaccines generally preferentially
+recommended for more frail high-risk individuals (13). We
+conducted a prospective, population-based cohort study,
+known as the “Lombardy Inﬂuenza Vaccine Effectiveness”
+(LIVE) Study, in northern Italy, of ATIV versus trivalent
+inactivated vaccine (TIV) effectiveness during 3 consecutive inﬂuenza seasons starting in 2006–2007. Here, we
+report the primary objective, which was to assess the relative risk of hospitalizations for inﬂuenza or pneumonia
+during the inﬂuenza season in ATIV versus TIV vaccinees.
+The secondary objectives, including an assessment of
+safety and other secondary outcomes, will be reported
+separately.
+MATERIALS AND METHODS
+
+Residents in the provinces of Cremona, Bergamo,
+Mantova, Lecco, and Pavia in the northern Italian region of
+Lombardy, who were at least 65 years of age and sought
+inﬂuenza vaccination at local health authorities’ district
+ofﬁces or participating general practitioners were eligible
+for enrollment into this prospective cohort study during
+each of the 3 vaccination seasons, 2006–2007, 2007–2008,
+and 2008–2009. We excluded residents who were in the
+hospital, nursing homes, or rehabilitation centers in the 30
+days preceding immunization, as well as those receiving
+home care or who were allergic to inﬂuenza vaccines.
+Eligible subjects were informed by the vaccinators about
+the study and asked for their consent to participate; all
+those who accepted were administered a brief questionnaire
+to record basic demographic data and information on potential confounders, including smoking status, conditions potentially affecting immune response, functional status (as
+assessed through self-reported answers to questions about
+physical capabilities), presence of children in the household, and receipt of an inﬂuenza vaccine the previous year.
+Then they were administered either ATIV or the conventional nonadjuvanted trivalent subunit vaccine (Agrippal;
+Novartis Vaccines and Diagnostics), according to local,
+regional, and national inﬂuenza vaccination policy recommendations. There was no attempt at random assignment of
+vaccines. Information on the type of administered vaccine
+was recorded for each participant by the vaccinators, along
+with the previously collected information.
+Both vaccines contained the recommended virus strains
+for the respective inﬂuenza season in the Northern
+
+Hemisphere. Vaccine doses were donated by the manufacturer and delivered to the local health authorities, who then
+distributed them to their district ofﬁces or participating
+general practitioners.
+For each participant, residence status was conﬁrmed
+through record linkage with administrative databases; all
+linkage failures were excluded from the study. Additionally, the presence of chronic disease or other relevant routinely collected medical history information was ascertained
+through record linkage with databases containing data on
+hospitalizations (discharge diagnoses), outpatient drug prescriptions (active ingredient and estimated duration of treatment), receipt of ambulatory care with specialist, and
+certiﬁed exemption from copayment of health-care costs.
+The primary outcome was deﬁned as a hospitalization
+for inﬂuenza or pneumonia occurring during a deﬁned
+period in the inﬂuenza season (and in any case at least 3
+weeks after vaccination), recorded in the hospital administrative database (discharge diagnosis with International
+Classiﬁcation of Diseases, Ninth Revision, Clinical Modiﬁcation, codes 480–487). Inﬂuenza season was deﬁned on
+the basis of a nationwide surveillance network (“Inﬂunet”)
+that monitors virologically conﬁrmed inﬂuenza occurrence
+in Italy annually. The network includes 1,000 general practitioners and family physicians, and it provides weekly incidence data, stratiﬁed by age and region (14). We pooled
+data over the 3 inﬂuenza seasons, such that our elementary
+data record was a “person-season” at risk. As many people
+were included for more than one of the 3 years of observation, we used generalized estimating equations (15, 16) to
+take account of the correlation induced by measuring the
+experience of the same people for more than one inﬂuenza
+season.
+Our case deﬁnition did not include positive laboratory
+conﬁrmation of inﬂuenza virus. Therefore, in order to increase the speciﬁcity of the identiﬁcation of cases hospitalized for inﬂuenza-related conditions, we deﬁned 3 different
+time windows during the inﬂuenza season in which hospitalizations were counted. The broadest time window corresponded to the entire inﬂuenza season, as determined from
+Inﬂunet. The narrowest time window corresponded to the
+period of adjacent weeks, around the peak inﬂuenza occurrence, having an inﬂuenza rate that exceeded 1 case per
+1,000 person-weeks (17). An intermediate time window
+was deﬁned in the same way but with a threshold of 0.5
+case per 1,000 person-weeks. Although the broader
+windows capture more cases, they are less speciﬁc for inﬂuenza-related cases. Accordingly, we deﬁned a priori our
+primary analysis to be based upon the narrowest window as
+it provided the greatest speciﬁcity and hence the least bias.
+Also, in order to estimate the amount of potential misclassiﬁcation of the discharge diagnosis, a sample of hospital discharge records was validated, and the diagnosis was
+compared with the actual hospital discharge diagnoses.
+Since adjuvanted vaccine was preferentially recommended for high-risk frail individuals at many sites, it was
+known a priori that analysis of study outcomes would have
+to take this source of potential bias into account. To assess
+and control for confounding, we used stratiﬁcation coupled
+with Mantel-Haenszel summary estimates of a pooled
+Am J Epidemiol. 2012;176(6):527–533
+
+Adjuvanted Flu Vaccine Effectiveness in the Elderly 529
+
+effect measure. Variables assessed as potential confounders
+included age, gender, inﬂuenza season, local health authorities and vaccine provider, functional status, smoking,
+recent infectious disease, transfusion, intestinal disorder,
+self-reported ﬂu symptoms, cumulative length of stay in the
+hospital and cumulative number of drug prescriptions (both
+in the 5 years preceding the vaccination), infectious
+disease, and chronic conditions, such as chronic obstructive
+pulmonary disease (COPD), kidney disease, diabetes, cardiovascular disease, peripheral vascular disease, cancer,
+and history of hospitalization for pneumonia, inﬂuenza, or
+emphysema. Because of the number of potential confounders, we were not able to control for all confounders simultaneously in a single stratiﬁed analysis; we therefore also
+conducted a multivariate analysis that used a propensity
+score as a summary confounding score. For the propensity
+score model, we used a logistic regression to estimate the
+probability of receiving ATIV versus TIV. Variables that
+were included in this model included age, sex, inﬂuenza
+season, community and provider, cumulative length of stay
+in the hospital, and cumulative number of drug prescriptions in the 5 years preceding the vaccination, physical impairment, smoking, presence of children in the home,
+recent transfusion, recent intestinal disorder, recent selfreported ﬂu symptoms, recent infectious disease, history of
+hospitalization for pneumonia, inﬂuenza or emphysema,
+COPD, diabetes, cardiovascular disease, chronic kidney
+disease, peripheral vascular disease, and cancer.
+To avoid including in the propensity score model nonconfounding predictors of exposure, which would not
+reduce confounding but would decrease precision, we ﬁt a
+preliminary logistic model predicting hospitalization with
+inﬂuenza-like illness that included all these covariates,
+along with study vaccine, to determine the strength of relation of each variable with the study outcome. As a second
+stage, we then created the propensity score model using
+those predictors from the preliminary outcome model that
+had a relative risk of at least 1.4: age, sex, inﬂuenza season,
+community and provider, physical impairment, cumulative
+length of stay in the hospital and cumulative number of
+drug prescriptions in the 5 years preceding the vaccination,
+history of hospitalization for pneumonia, inﬂuenza or emphysema, COPD, chronic kidney disease, diabetes, recent
+infectious disease, and recent transfusion (18). From this
+model, we computed the propensity to receive ATIV for
+each person-season of observation and added that to the
+data as an additional, derived variable. To improve comparability of the 2 vaccine groups, we controlled for the propensity score in multivariate models, but ﬁrst we excluded
+all outlier observations (“trimming”), deﬁned as those
+below the lower 2.5% of the tail of the TIV observations
+(3,355 observations) and above the upper 2.5% tail of the
+ATIV observations (2,894 observations). These tails are
+outside the primary area of overlap of the propensity
+scores, and they increase residual confounding in any type
+of analysis (19).
+In the multivariate analyses, we used generalized estimating equations to account for the inclusion of people in
+more than one season. Our ﬁnal multivariate analysis was
+based on doubly robust estimation, in which the strongest
+Am J Epidemiol. 2012;176(6):527–533
+
+confounders and the propensity score based on all confounders were included in the logistic model; this model in
+principle should provide the best control of confounding
+achievable with these data (20).
+We conducted an additional analysis to compare the risk
+of hospitalization before each inﬂuenza season in the 2
+vaccine groups. We therefore identiﬁed the events that
+occurred in the period May–September in people subsequently vaccinated and enrolled in the study. This was
+done under the assumption that, if our model in the
+primary analysis had completely adjusted for confounding,
+with the application of the same doubly robust technique
+outside the inﬂuenza season (i.e., without inﬂuenza activity
+and independently of the vaccine effect), we would estimate
+
+Table 1. Distribution of Selected Characteristics of Interest by
+Vaccine Type in the Study Population, Lombardy, Italy, 2006–2009a
+Characteristic of Interest at Enrollment
+
+ATIV (%)
+
+TIV (%)
+
+Female
+
+56.8
+
+56.8
+
+Influenza vaccine last year
+
+94.9
+
+94.1
+
+Current
+
+6.8
+
+7.5
+
+Former
+
+25.9
+
+25.5
+
+Never
+
+67.3
+
+67.0
+
+Severe
+
+16.9
+
+12.3
+
+Mild
+
+30.5
+
+27.1
+
+No
+
+52.6
+
+60.6
+
+Severe
+
+17.3
+
+12.8
+
+Mild
+
+32.8
+
+29.6
+
+No
+
+49.9
+
+57.6
+
+14.4
+
+15.3
+
+Smoking
+
+Functional limitation of daily activities
+
+Functional limitation in climbing stairs
+
+Sharing house environment with children
+Always
+Sometimes
+
+21.6
+
+22.2
+
+No
+
+64.0
+
+62.5
+
+Recent flu symptoms
+
+0.6
+
+0.7
+
+Recent infectious disease
+
+0.2
+
+0.2
+
+Recent transfusion
+
+0.3
+
+0.3
+
+Recent intestinal disorder
+
+0.9
+
+1.0
+
+11.9
+
+10.4
+
+3.0
+
+2.3
+
+Chronic obstructive pulmonary disease
+History of pneumonia, influenza, or
+emphysema
+Chronic kidney disease
+Cancer
+
+0.9
+
+0.7
+
+15.1
+
+14.2
+
+Diabetes
+
+15.9
+
+15.0
+
+Heart disease
+
+75.1
+
+72.1
+
+7.2
+
+6.1
+
+Vascular disease
+
+Abbreviations: ATIV, adjuvanted trivalent inactivated vaccine; TIV,
+trivalent inactivated vaccine.
+a
+The mean ages of subjects receiving ATIV and TIV were 76.5
+and 74.9 years, respectively.
+
+530 Mannino et al.
+
+Figure 1. Time windows defined by the influenza incidence/1,000 person-weeks in Lombardy, Italy, 2006–2009. The intermediate time
+window includes adjacent weeks above the threshold of 0.5 case/1,000 person-weeks each year. Bars represent narrow time windows with a
+cumulative incidence of influenza rate of 1 case/1,000 person-weeks.
+
+no risk difference between the 2 cohorts; any increased risk
+would represent the magnitude of the residual bias.
+Statistical analysis was performed by using SAS, version
+9.1, software (SAS Institute, Inc., Cary, North Carolina).
+We used multiple (i.e., 5) imputations (Proc MI and Proc
+MIANALYZE) to handle missing values (21, 22).
+The study protocol was submitted to and approved by
+the ethics committees of the participating local health
+authorities.
+RESULTS
+
+A total of 107,661 people fulﬁlled the study eligibility
+criteria. The unit of our analysis was person-season, or
+equivalently, the number of vaccinations provided. One
+person could contribute up to 3 separate inﬂuenza seasons
+of risk for inﬂuenza-related outcomes, each of the 3 having
+either vaccine assignment. Of the total of 107,661 participants, 43,667 were included for more than 1 year; of these,
+23,484 received at least one vaccination of either type.
+Overall, 88,449 ATIV and 82,539 TIV were administered
+for a total of 170,988 person-seasons; after the data trimming based on the person-season distribution, we included
+a total of 164,254 person-seasons in the primary analysis.
+As expected, given the observational nature of the study
+and the regional recommendations on the preferential use
+of adjuvanted inﬂuenza vaccines in high-risk patients, the 2
+vaccine groups showed some imbalance at baseline with
+respect to age, functional limitations, and prevalence of
+chronic conditions, with the recipients of ATIV showing
+more functional impairment and comorbidities compared
+with the recipients of TIV (Table 1).
+Figure 1 shows the inﬂuenza incidence in Lombardy by
+week during the 3 study years. Seasons 2006–2007 and
+2008–2009 were mainly A/H3N2 epidemics, whereas
+
+season 2007–2008 showed mainly circulation of A/H1N1
+and B viruses. There were a total mismatch for the A/
+H1N1-like strain and a partial mismatch for the A/H3N2like strain in the 2007–2008 season, as well as a partial
+mismatch for B strains for all 3 years. Given the strains circulating, the mismatches which occurred in 2007–2008
+were the only ones that could have affected the vaccine
+effectiveness appreciably.
+The primary analysis used the narrowest deﬁnition of the
+time window for inﬂuenza-related events, which should
+have the greatest speciﬁcity for the outcomes of interest,
+corresponding to calendar weeks 4–7 inclusive in
+2006–2007 and weeks 52–54 and 1–7 for the subsequent 2
+inﬂuenza seasons. During these periods, there were 114
+hospitalizations for inﬂuenza and pneumonia among the
+84,665 person-seasons at risk for the ATIV group
+(0.135%), compared with 111 among 79,589 for the TIV
+Table 2. Hospitalizations for Influenza and Pneumonia (Cases)
+and Person-Seasons at Risk by Age and Vaccine Type, Within the
+Narrowest Time Window in the Study Population, Lombardy, Italy,
+2006–2009
+ATIV
+
+TIV
+
+Age, years
+
+PersonSeasons
+
+65–69
+
+14,903
+
+10
+
+18,230
+
+9
+
+70–74
+
+21,071
+
+18
+
+23,414
+
+27
+
+75–79
+
+21,945
+
+20
+
+18,535
+
+22
+
+80–84
+
+16,758
+
+35
+
+12,319
+
+25
+
+9,988
+
+31
+
+7,091
+
+28
+
+84,665
+
+114
+
+79,589
+
+111
+
+≥85
+Total
+
+Cases,
+no.
+
+PersonSeasons
+
+Cases,
+no.
+
+Abbreviations: ATIV, adjuvanted trivalent inactivated vaccine; TIV,
+trivalent inactivated vaccine.
+
+Am J Epidemiol. 2012;176(6):527–533
+
+Adjuvanted Flu Vaccine Effectiveness in the Elderly 531
+
+group (0.139%). The crude risk ratio was 0.97 (95% conﬁdence interval (CI): 0.74, 1.25).
+These crude comparisons are confounded by the various
+factors that are unbalanced between the 2 vaccine groups
+(refer to Table 2 for the distribution of cases and personseasons by age). We controlled for confounding by local
+health authorities-provider and age using simultaneous
+stratiﬁcation by these 2 variables, resulting in a MantelHaenszel risk ratio estimate of 0.87 (95% CI: 0.67, 1.13).
+We then extended this stratiﬁcation to include sex, history
+of lung-related hospitalization, level of functional impairment, and season; the corresponding Mantel-Haenszel
+summary risk ratio was 0.80 (95% CI: 0.61, 1.06). These
+analyses indicated that there was substantial confounding in
+the crude data, but with control of the main confounders,
+the adjuvanted vaccine group seemed to have about a 20%
+lower risk of hospitalizations for inﬂuenza and pneumonia.
+We then used the propensity score as a summary confounder in a multivariate logistic model based on the
+trimmed data, which included the strongest confounders
+along with the propensity score. From this model, we estimated a risk ratio of 0.75 (95% CI: 0.57, 0.98) for ATIV
+relative to TIV, an association slightly stronger but very
+close to the results of the stratiﬁed analyses (Table 3).
+We repeated the above analyses using the intermediate
+and broader time windows. These analyses have a less speciﬁc outcome than the analysis using the narrow time
+window for inﬂuenza-related hospitalizations, as they
+include a relatively greater proportion of background hospitalizations as the inﬂuenza epidemic began or waned. Thus,
+one would expect that there would be more cases, but that
+the associations found would be biased. As expected, the
+number of cases increased from 225 for the analysis using
+the narrow time window to 374 for the intermediate and
+735 for the broadest time window; the risk ratio estimates
+were 0.75 for the narrow time window, 0.83 for the intermediate window, and 0.88 for the broadest window
+(Table 4), thus suggesting that misclassiﬁcation of outcome
+in our study leads to a reduction of the estimated effect. In
+the validation of hospital records in a subset of cases, we
+conﬁrmed in 99.4% of the sample the concordance
+between diagnoses recorded in the medical charts and the
+diagnosis code in the database.
+Moreover, the risk of hospitalization in the ATIV group
+before each inﬂuenza season (May–September)—after propensity score estimation, trimming, and adjustment for confounding in a doubly robust multivariate model—was 17%
+higher than that in the TIV control group (risk ratio = 1.17,
+95% CI: 0.96, 1.43).
+DISCUSSION
+
+This is the ﬁrst large-scale study of the comparative
+effectiveness of ATIV versus TIV. The study population of
+107,661, contributing 170,988 person-seasons of observation, is considerably larger than could have been readily
+enrolled into a randomized clinical trial.
+We were able to link study participants to available administrative data, combining both self-reported information
+through questionnaire and vaccine status at the time of
+Am J Epidemiol. 2012;176(6):527–533
+
+Table 3. Primary Analysis Results of the Multivariate Model
+(Narrowest Influenza Time Window) in the Study Population,
+Lombardy, Italy, 2006–2009
+
+ATIV vs. TIV vaccine
+
+OR
+
+95% CI
+
+0.75
+
+0.57, 0.98
+
+Propensity score quintile
+1
+
+1.00
+
+2
+
+2.16
+
+0.96, 4.88
+
+3
+
+2.62
+
+1.09, 6.30
+
+4
+
+1.94
+
+0.72, 5.20
+
+5
+
+1.77
+
+0.50, 6.26
+
+Age, 1 year
+
+1.08
+
+1.04, 1.12
+
+Male vs. female
+
+2.43
+
+1.81, 3.26
+
+Season
+1 (2006–2007)
+
+1.00
+
+2 (2007–2008)
+
+1.13
+
+0.75, 1.72
+
+3 (2008–2009)
+
+1.87
+
+1.24, 2.82
+
+LHA provider
+Cremona district
+
+1.00
+
+Bergamo GP
+
+1.06
+
+0.53, 2.13
+
+Cremona GP
+
+1.01
+
+0.64, 1.59
+
+Lecco district
+
+1.47
+
+0.73, 2.96
+
+Lecco GP
+
+1.96
+
+1.12, 3.44
+
+Mantova district
+
+1.33
+
+0.77, 2.32
+
+Pavia district
+
+0.73
+
+0.40, 1.33
+
+Functional status score, +1 unit scorea
+
+0.82
+
+0.73, 0.92
+
+Cumulative length of stay in the
+hospital, 1 dayb
+
+1.01
+
+1.00, 1.01
+
+Cumulative no. of drug prescriptions, 1
+prescriptionb
+
+1.01
+
+1.00, 1.01
+
+History of hospitalization for a pulmonary
+diagnosis of any type
+
+2.71
+
+1.81, 4.07
+
+Chronic obstructive pulmonary disease
+
+2.18
+
+1.59, 2.99
+
+Abbreviations: ATIV, adjuvanted trivalent inactivated vaccine; CI,
+confidence interval; GP, general practitioner; LHA, local health
+authority; OR, odds ratio; TIV, trivalent inactivated vaccine.
+a
+Cumulative score, ranging from 2 (severe functional impairment)
+to 6 (no functional impairment), including light physical activities
+(e.g., moving a table, vacuuming, cycling) and climbing stairs.
+b
+In the 5 years preceding vaccination.
+
+vaccination with retrospective data on hospitalizations, drug
+prescriptions, and other outcomes from administrative databases (extended to several years prior to enrollment). By
+conducting the study over 3 years, we reduced the effect of
+year-to-year variation in the antigenic “match” between the
+vaccine and circulating inﬂuenza strains, a problem that
+hampers the interpretation of ﬁndings in any study based
+on only one inﬂuenza season.
+The estimated 25% reduction in the risk of an inﬂuenzaor pneumonia-related hospitalization is an underestimate.
+Given the lack of laboratory conﬁrmation for the presence
+of inﬂuenza infection among our cases, even the most stringent time window that we used, and from which this
+
+532 Mannino et al.
+
+Table 4. Risk Ratio Estimate of ATIV Versus TIV by Time Window
+During the Influenza Season in the Study Population, Lombardy,
+Italy, 2006–2009
+Time Windowa
+
+Adjusted Odds Ratio
+
+95% CI
+
+Broad
+
+0.88
+
+0.76, 1.02
+
+Intermediate
+
+0.83
+
+0.68, 1.03
+
+Narrow
+
+0.75
+
+0.57, 0.98
+
+Abbreviations: ATIV, adjuvanted trivalent inactivated vaccine; CI,
+confidence interval; TIV, trivalent inactivated vaccine.
+a
+Time windows were defined on the basis of the intensity of the
+influenza activity combined for 3 years: broad (the sum of the 3
+influenza seasons); intermediate (the period of adjacent weeks
+having an influenza rate of >0.5 case per 1,000 person-weeks); and
+narrow (the period of adjacent weeks having an influenza rate of >1
+case per 1,000 person-weeks).
+
+estimate comes, is susceptible to imperfect identiﬁcation of
+relevant cases. We are not able to determine whether the
+resulting misclassiﬁcation of outcome is differential or nondifferential, since in our study subjects receiving ATIV
+were more frail and therefore may have had more baseline
+hospitalizations. Our risk ratio estimate is in any case
+closer to the null that it would be if the identiﬁcation of
+inﬂuenza-related hospitalizations were perfect.
+Methodological research has shown that, although controlling confounding by propensity scores performs only
+about as well as more traditional methods (23), calculating
+propensity scores does provide the ability to identify and
+exclude outliers from the 2 study groups who have propensity scores outside the range, or the central distribution, of
+the other group. This “trimming” improves the validity of
+any analysis by restricting the study to comparable observations. In this study, we used trimming by propensity score
+as an initial step, followed by 2 methods to control confounding, stratiﬁcation on the individual covariates and
+doubly robust multivariate modeling.
+We found that more stringent control of confounding
+resulted in a stronger association in the direction of lower
+risk of hospitalization among ATIV recipients, which was
+expected given the observed imbalance in relevant covariates between the 2 vaccine cohorts.
+Such imbalance also explains the 17% higher risk of
+hospitalization in the ATIV group before each inﬂuenza
+season, in a time when we would have expected the adjusted risk of hospitalization to be the same in the 2 groups.
+The combined evidence that more frail people have been
+enrolled in the ATIV cohort compared with the TIV cohort
+and that our analysis has not removed all the confounding
+leads to the conclusion that we have likely underestimated
+the effectiveness of ATIV.
+Some observational studies of inﬂuenza vaccine efﬁcacy
+in preventing deaths have been encumbered by selection
+bias, raising controversies about the validity of the observational approach in assessing inﬂuenza vaccine effectiveness
+(24–31). In these studies, bias most likely reﬂects a
+“healthy-vaccinee” effect, in which those who are at high
+risk of a near-term death are less likely to be vaccinated.
+
+Such confounding bias should not be a problem in this
+study, which considered hospitalization for inﬂuenza or
+pneumonia instead of all-cause mortality and involved a
+head-to-head comparison of 2 inﬂuenza vaccines.
+In conclusion, we found that vaccination with ATIV
+reduced the risk of hospitalization for inﬂuenza or pneumonia in the elderly during the peak of the inﬂuenza season
+by 25% relative to vaccination with TIV. Residual bias indicates that this value is likely to be an underestimate. The
+routine use of ATIV in the elderly would provide important
+clinical beneﬁt over the traditional nonadjuvanted vaccines.
+
+ACKNOWLEDGMENTS
+
+Author afﬁliations: Azienda Sanitaria Locale della provincia di Cremona, Cremona, Italy (Salvatore Mannino,
+Marco Villa, Liana Boldori); Azienda Ospedaliera “Ospedali Riuniti Villa Soﬁa-Cervello,” Palermo, Italy (Salvatore
+Mannino); Istituto di Ricerche Farmacologiche “Mario
+Negri,” Milano, Italy (Giovanni Apolone); Azienda Ospedaliera “Arcispedale Santa Maria Nuova,” Reggio Emilia, Italy
+(Giovanni Apolone); Department of Epidemiology, School
+of Public Health, University of Washington, Seattle, Washington (Noel Weiss); Novartis Vaccines and Diagnostics,
+Siena, Italy (Nicola Groth); Azienda Sanitaria Locale della
+provincia di Pavia, Parvia, Italy (Ivana Aquino); Azienda
+Sanitaria Locale della provincia di Mantova, Mantova, Italy
+(Fausta Caramaschi); Azienda Sanitaria Locale della provincia di Lecco, Lecco, Italy (Antonio Gattinoni); Azienda Sanitaria Locale della provincia di Bergamo, Bergamo, Italy
+(Giancarlo Malchiodi); RTI-Health Solutions, Research Triangle Park, North Carolina (Kenneth Rothman); Department
+of Epidemiology, School of Public Health, Boston University, Boston, Massachusetts (Kenneth Rothman); and Section
+of Preventive Medicine, Department of Medicine, Boston
+University, Boston, Massachusetts (Kenneth Rothman).
+The study was partially funded by Novartis Vaccines
+and Diagnostics, who supplied both study vaccines and assisted with some administrative and organizational aspects
+of the study. Dr. Groth, a full-time employee of Novartis,
+contributed to study design, the literature search, data interpretation, and writing of the manuscript and, thus, is a
+coauthor of this work.
+The authors are grateful to local health authorities personnel and general practitioners who—with their work—
+made it possible to conduct this study.
+S. M. has received reimbursement for travel expenses
+related to study meetings or presentations. He was also a
+consultant to Chiron Vaccines (now part of Novartis Vaccines and Diagnostics). M. V., a local health authority employee of Cremona, received no payment from Novartis but
+has received reimbursement for travel expenses related to
+study meetings or presentations. G. A. has received consulting fees by Novartis Vaccines and Diagnostics for this
+study and reimbursement for travel expenses related to
+study meetings or presentations. He has been a consultant
+to GlaxoSmithKline and Sanoﬁ-Aventis. N. W. has received consulting fees by Novartis Vaccines and
+Am J Epidemiol. 2012;176(6):527–533
+
+Adjuvanted Flu Vaccine Effectiveness in the Elderly 533
+
+Diagnostics for this study and reimbursement for travel expenses related to study meetings or presentations. N. G. is
+an employee of Novartis Vaccines and Diagnostics, with
+stock options beneﬁts. K. R. has received no consulting fees
+from Novartis Vaccines and Diagnostics; his institution has
+received fees from Novartis Vaccines and Diagnostics for
+his participation in this study, as well as reimbursement for
+travel expenses related to study meetings or presentations.
+The other authors have no conﬂicting interests to report.
+
+REFERENCES
+1. Armstrong BG, Mangtani P, Fletcher A, et al. Effect of
+inﬂuenza vaccination on excess deaths occurring during
+periods of high circulation of inﬂuenza: cohort study in
+elderly people. BMJ. 2004;329(7467):660. (doi:10.1136/
+bmj.38198.594109.AE).
+2. Goodwin K, Viboud C, Simonsen L. Antibody response to
+inﬂuenza vaccination in the elderly: a quantitative review.
+Vaccine. 2006;24(8):1159–1169.
+3. McElhaney JE. The unmet need in the elderly: designing
+new inﬂuenza vaccines for older adults. Vaccine. 2005;
+23(suppl 1):S10–S25.
+4. Ansaldi F, Canepa P, Parodi V, et al. Adjuvanted seasonal
+inﬂuenza vaccines and perpetual viral metamorphosis: the
+importance of cross-protection. Vaccine. 2009;27(25-26):
+3345–3348.
+5. Carrat F, Flahault A. Inﬂuenza vaccine: the challenge of
+antigenic drift. Vaccine. 2007;25(39-40):6852–6862.
+6. Jefferson T, Di Pietrantonj C, Al-Ansary LA, et al. Vaccines
+for preventing inﬂuenza in the elderly. Cochrane Database
+Syst Rev. 2010;(2):CD004876.
+7. Nelson JC, Jackson ML, Weiss NS, et al. New strategies are
+needed to improve the accuracy of inﬂuenza vaccine
+effectiveness estimates among seniors. J Clin Epidemiol.
+2009;62(7):687–694.
+8. Simonsen L, Viboud C, Taylor RJ, et al. Inﬂuenza
+vaccination and mortality beneﬁts: new insights, new
+opportunities. Vaccine. 2009;27(45):6300–6304.
+9. Durando P, Icardi G, Ansaldi F. MF59-adjuvanted vaccine: a
+safe and useful tool to enhance and broaden protection
+against seasonal inﬂuenza viruses in subjects at risk. Expert
+Opin Biol Ther. 2010;10(4):639–651.
+10. Hannoun C, Megas F, Piercy J. Immunogenicity and
+protective efﬁcacy of inﬂuenza vaccination. Virus Res.
+2004;103(1-2):133–138.
+11. Corrao G, Zambon A, Nicotra F, et al. Issues concerning the
+use of hormone replacement therapy and risk of fracture: a
+population-based, nested case-control study. Br J Clin
+Pharmacol. 2008;65(1):123–129.
+12. Sturkenboom MC, Romano F, Simon G, et al. The iatrogenic
+costs of NSAID therapy: a population study. Arthritis Rheum.
+2002;47(2):132–140.
+13. CIRCOLARE del Ministero della Salute, Rome, Italy—02
+August 2007. Prevenzione e controllo dell’inﬂuenza:
+raccomandazioni per la stagione 2007–2008. (In Italian).
+(http://www.normativasanitaria.it/normsan-pdf/0000/23785_1.
+pdf ). (Accessed March 21, 2012).
+
+Am J Epidemiol. 2012;176(6):527–533
+
+14. Instituto Superiore Di Sanita, Rome, Italy. Inﬂunet:
+Sorveglianza Epidemiologica. (In Italian). (http://www.iss.it/
+ﬂue/). (Accessed March 14, 2012).
+15. Liang K-Y, Zeger SL. Longitudinal data analysis using
+generalized linear models. Biometrika. 1986;73(1):13–22.
+16. Zeger SL, Liang K-Y, Albert PS. Models for longitudinal
+data: a generalized estimating equation approach. Biometrics.
+1988;44(4):1049–1060.
+17. Nordin J, Mullooly J, Poblete S, et al. Inﬂuenza vaccine
+effectiveness in preventing hospitalizations and deaths in
+persons 65 years or older in Minnesota, New York, and
+Oregon: data from 3 health plans. J Infect Dis. 2001;184(6):
+665–670.
+18. Brookhart MA, Schneeweiss S, Rothman KJ, et al. Variable
+selection for propensity score models. Am J Epidemiol.
+2006;163(12):1149–1156.
+19. Stürmer T, Rothman KJ, Avorn J, et al. Treatment effects in
+the presence of unmeasured confounding: dealing with
+observations in the tails of the propensity score distribution—
+a simulation study. Am J Epidemiol. 2010;172(7):843–854.
+20. Bang H, Robins JM. Doubly robust estimation in missing
+data and causal inference models. Biometrics. 2005;61(4):
+962–973.
+21. Rubin DB. Multiple imputation after 18+ years. J Am Stat
+Assoc. 1996;91(434):473–489.
+22. Schafer JL. Analysis of Incomplete Multivariate Data.
+New York, NY: Chapman and Hall; 1997.
+23. Stürmer T, Joshi M, Glynn RJ, et al. A review of the
+application of propensity score methods yielded increasing
+use, advantages in speciﬁc settings, but not substantially
+different estimates compared with conventional multivariable
+methods. J Clin Epidemiol. 2006;59(5):437–447.
+24. Groenwold RH, Hoes AW, Nichol KL, et al. Quantifying the
+potential role of unmeasured confounders: the example of
+inﬂuenza vaccination. Int J Epidemiol. 2008;37(6):
+1422–1429.
+25. Hak E, Verheij TJ, Grobbee DE, et al. Confounding by
+indication in non-experimental evaluation of vaccine
+effectiveness: the example of prevention of inﬂuenza
+complications. J Epidemiol Community Health. 2002;56(12):
+951–955.
+26. Jackson LA, Jackson ML, Nelson JC, et al. Evidence of bias
+in estimates of inﬂuenza vaccine effectiveness in seniors. Int
+J Epidemiol. 2006;35(2):337–344.
+27. Jackson LA, Nelson JC, Benson P, et al. Functional status is a
+confounder of the association of inﬂuenza vaccine and risk of
+all cause mortality in seniors. Int J Epidemiol. 2006;35(2):
+345–352.
+28. Nichol KL. Challenges in evaluating inﬂuenza vaccine
+effectiveness and the mortality beneﬁts controversy. Vaccine.
+2009;27(45):6305–6311.
+29. Nichol KL, Nordin JD, Nelson DB, et al. Effectiveness of
+inﬂuenza vaccine in the community-dwelling elderly. N Engl
+J Med. 2007;357(14):1373–1381.
+30. Simonsen L, Reichert TA, Viboud C, et al. Impact of
+inﬂuenza vaccination on seasonal mortality in the US elderly
+population. Arch Intern Med. 2005;165(3):265–272.
+31. Simonsen L, Taylor RJ, Viboud C, et al. Mortality
+beneﬁts of inﬂuenza vaccination in elderly people:
+an ongoing controversy. Lancet Infect Dis. 2007;
+7(10):658–666.
+

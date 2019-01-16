@@ -1,0 +1,469 @@
+In July 2004, an outbreak of influenza A (H3N2) was
+detected at 3 Bhutanese refugee camps in southeastern
+Nepal. Hemagglutination inhibition showed that ≈40% of
+the viruses from this outbreak were antigenically distinct
+from the A/Wyoming/3/03 vaccine strain. Four amino acid
+differences were observed in most of the 26 isolates com-
+pared with the A/Wyoming/3/2003 vaccine strain. All 4 sub-
+stitutions are located within or adjacent to known
+antibody-binding sites. Several isolates showed a lysine-to-
+asparagine substitution at position 145 (K145N) in the
+hemagglutinin molecule, which may be noteworthy since
+position 145 is located within a glycosylation site and adja-
+cent to an antibody-binding site. H3N2 viruses continue to
+drift from the vaccine strain and may remain as the domi-
+nant strains during the 2005–2006 influenza season. Thus,
+the 2005–2006 Northern Hemisphere vaccine strain was
+changed to A/California/7/2004, a virus with all 4 amino
+acid substitutions observed in these Nepalese isolates.
+The 2003–2004 influenza season was severe in terms of
+its impact on illness because of widespread circulation
+of antigenically distinct influenza A (H3N2) Fujian-like
+viruses. These viruses first appeared late during the
+2002–2003 influenza season and continued to persist as the
+dominant circulating strain throughout the subsequent
+2003–2004 influenza season, replacing the
+A/Panama/2007/99-like H3N2 viruses (1). Of the 172
+H3N2 viruses genetically characterized by the Department
+of Defense in 2003–2004, only 1 isolate (from Thailand)
+belonged to the A/Panama-like lineage. In February 2003,
+the World Health Organization (WHO) changed the H3N2
+component for the 2004–2005 influenza vaccine to afford
+protection against the widespread emergence of Fujian-
+like viruses (2). The annually updated trivalent vaccine
+consists of hemagglutinin (HA) surface glycoprotein com-
+ponents from influenza H3N2, H1N1, and B viruses.
+The HA1 segment of the influenza HA protein is the
+most rapidly evolving gene product (3) and plays a major
+role in viral attachment and evasion from the adaptive
+immune response. Previous studies have demonstrated 5
+antigenic sites on the HA1 polypeptide where antibody
+binding can occur (4,5). Additionally, several studies have
+documented specific immunodominant codons correspon-
+ding to specific amino acids of the HA protein that are
+directly involved in the divergence of antigenically distinct
+influenza viruses (6–8).
+In July 2004, an outbreak of influenza A (H3N2) was
+detected in patients at 3 Bhutanese refugee camps in south-
+eastern Nepal. To elucidate the molecular mechanism
+underlying the emergence of this H3N2 outbreak, we con-
+ducted a molecular analysis of the HA1 region of the HA
+protein. In this report, we describe the epidemiologic and
+molecular aspects of isolates obtained from this off-season
+influenza A (H3N2) outbreak.
+Materials and Methods
+Sample Collection and Antigenic Analysis
+Sixty-four patients in Nepal that met US Department of
+Defense enrollment criteria (9) for influenzalike illness
+were evaluated by using onsite rapid influenza tests
+(Optical Immunoassay Rapid Diagnostic Tests, Thermo
+Electron Corp., San Jose, CA, USA) according to the man-
+ufacturer’s instructions. Throat swab specimens were col-
+lected within the first 72 hours of onset of symptoms,
+routed through the Armed Forces Research Institute for
+Medical Sciences in Bangkok, Thailand, and shipped on
+dry ice to Brooks City Base in San Antonio, Texas, for
+clinical characterization and diagnosis using traditional
+culturing techniques and monoclonal antibody staining
+(10). Antigenic analysis of select isolates was performed at
+Influenza A (H3N2) Outbreak, Nepal
+Luke T. Daum,*† Michael W. Shaw,‡ Alexander I. Klimov,‡ Linda C. Canas,* Elizabeth A. Macias,*
+Debra Niemeyer,* James P. Chambers,† Robert Renthal,† Sanjaya K. Shrestha,§
+Ramesh P. Acharya,¶ Shankar P. Huzdar,¶ Nirmal Rimal,¶ Khin S. Myint,# and Philip Gould*
+RESEARCH
+1186 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 11, No. 8, August 2005
+*Air Force Institute for Operational Health, Brooks City Base, San
+Antonio, Texas; †University of Texas, San Antonio, Texas;
+‡Centers for Disease Control and Prevention, Atlanta, Georgia;
+§Walter Reed/Armed Forces Research Institute of Medical
+Sciences Research Unit-Nepal, Kathmandu, Nepal; ¶Association
+of Medical Doctors of Asia-Nepal, Kathmandu, Nepal; and #US
+Army Medical Component of the Armed Forces Research Institute
+of Medical Sciences, Bangkok, Thailand
+the Centers for Disease Control and Prevention (CDC) in
+Atlanta, Georgia, by using the hemagglutination inhibition
+(HI) assay and postinfection ferret antisera (11).
+Molecular Analysis
+RNA was extracted from 48-hour shell vial cultures
+(10) by using the MagnaPure LX (Roche Molecular,
+Mannheim, Germany) and RNA Isolation Kit II (Roche
+Molecular) according to the manufacturer’s protocols. For
+reverse transcription-polymerase chain reaction (RT-PCR)
+amplification, 5 µL RNA was added to a 50-µL master
+mixture containing 1× reaction buffer, 1.6 mmol/L MgSO4,
+1× enzyme mixture, and 400 nmol/L primers (H3-F7, 5′-
+ACT-ATC-ATT-GCT-TTG-AGC-3′ and H3R-1184, 5′-
+ATG-GCT-GCT-TGA-GTG-CTT-3′) by using the
+SuperScript III One-Step RT-PCR System (Invitrogen,
+Carlsbad, CA, USA). PCR thermocycling consisted of an
+RT step at 50°C for 30 min, hot start activation at 95°C for
+3 min, followed by 40 amplification cycles of 95°C for 30
+s, 52°C for 15 s, and 68°C for 1 min, with a final extension
+cycle at 68°C for 7 min. All PCR products were visualized
+after electrophoresis in 2% precast gels stained with ethid-
+ium bromide (Invitrogen) under UV illumination. PCR
+products were purified by using the PCR Purification Kit
+(Qiagen Inc., Valencia, CA, USA). The HA1 amplicon
+(1177 bp) was sequenced by using the H3-F7 and H3R-
+1184 PCR primers (described above) and 2 additional
+internal oligonucleotides, H3R-466 (5′-GGT-GCA-ACC-
+AAT-TCA-ATC-3′) and H3F-282 (5′-CAG-CAA-CTG-
+TTA-CCC-3′). Unincorporated fluorescent nucleotides
+were removed by using a Dye Ex 96-well plate kit
+(Qiagen) according to the manufacturer’s recommenda-
+tions. Nucleotide sequencing was performed by using the
+Big Dye Terminator v3.1 Kit and analyzed by using an
+ABI 3100 Genetic Analyzer (both from Applied
+Biosystems, Foster City, CA, USA) according to the man-
+ufacturer’s specifications. Multiple sequence alignments,
+protein translation, and phylogenetic analysis were per-
+formed with the DNAStar (DNAStar Inc., Madison, WI,
+USA) software package. Three-dimensional HA protein
+structures were generated by using MOLMOL (12) and the
+Swiss-PDB Viewer programs (13). HA nucleotide
+sequences for all 26 Nepal isolates depicted in the phylo-
+genetic analysis are available from GenBank under acces-
+sion nos. AY945263–AY945288.
+Results
+Epidemiologic and Laboratory Assessment
+Clinical evaluations and throat specimens were
+obtained from 64 patients from 3 refugee camps in south-
+eastern Nepal (Figure 1). Of the 64 patients, 61 were
+refugees from Bhutan, 1 was a foreign aid worker from
+Japan, and 2 were Nepalese nationals. Most of the patients
+were <10 years of age; 36 were male and 28 were female.
+None had previously been vaccinated against influenza
+and of the 64 specimens collected, 42 (66%) tested posi-
+tive for influenza A by culture.
+Antigenic Analysis
+HI was performed by using postinfection ferret antisera
+with reference antigens that included the 2004–2005
+H3N2 vaccine seed strain (A/Wyoming/03/2003) and the
+2005–2006 Southern Hemisphere H3N2 vaccine strain
+(A/Wellington/1/2004). When compared with A/
+Wyoming/03/2003, 4 of 9 Nepal isolates showed 4-fold
+lower titers (1:320 versus 1:1,280 HI units) than that
+allowed for homologous titer of the reference antisera.
+This indicated that these 4 isolates were antigenically dis-
+tinct. Six of 9 Nepal isolates were antigenically distinct
+Influenza A (H3N2) Outbreak, Nepal
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 11, No. 8, August 2005 1187
+Figure 1. Early outbreak of
+influenza A (H3N2) in south-
+eastern Nepal. The green cir-
+cle shows the location of 3
+Bhutan refugee camps where
+the outbreak occurred in early
+July 2004. (Map courtesy of
+www.maps.com)
+when compared with the A/Wellington/1/2004 strain and
+showed a 4-fold (1:160 versus 1:640) reduction in titer to
+ferret antisera (Table 1).
+Molecular Analysis
+RT-PCR-based molecular subtyping showed that all 42
+specimens were the H3N2 influenza subtype. Twenty-six
+of the 42 influenza A–positive samples were randomly
+selected for molecular characterization using direct
+nucleotide sequencing of the HA gene. The 26 Nepal iso-
+lates exhibited 99.8% nucleotide sequence identity and
+contained the Fujian-like amino acid substitutions at posi-
+tions 155 (H155T) and 156 (Q156H) in the HA protein
+(Table 2). Alignment of the 329–amino acid HA protein
+from 26 isolates obtained from this outbreak with the
+2004/05 A/Wyoming/3/03 vaccine strain and previous
+H3N2 vaccine strains indicated 4 evident amino acid
+changes present in most of the isolates (Table 2). All 4
+amino acid changes observed within most of these out-
+break isolates are present within A/California/7/04, a vari-
+ant strain selected as the H3N2 vaccine strain for the
+2005–2006 influenza season.
+Of the 26 Nepal strains examined, 24 exhibited a novel
+lysine-to-asparagine substitution at position 145 in the HA
+protein (K145N). This substitution is noteworthy because
+most strains characterized in 2003–2004, including the
+Fujian/411/2002 vaccine strain, contained a lysine (K) at
+this position. Prior to this outbreak, the US Department of
+Defense had only observed K145N substitutions in 6
+strains obtained from Ramstein, Germany, (data not
+shown) in June 2004. Additionally, all 26 Nepal sequences
+exhibited a serine-to-asparagine substitution at position
+189 (S189N) that had also been observed in the 6 isolates
+from Germany, as well as in a few isolates from Asia char-
+acterized at the end of the 2003–2004 influenza season.
+Two other substitution mutations in the HA1 hemagglu-
+tinin, i.e., valine to isoleucine at position 226 (V226I) and
+serine to proline at position 227 (S227P), were also
+observed in 24 (92%) and 26 of 26 of the Nepal isolates,
+respectively. Both substitutions differ from most influenza
+A H3N2 field isolates collected in 2003–2004, including
+the Fujian and Wyoming vaccine strain for 2004–2005
+(Table 2).
+The phylogeny of H3N2 HA proteins indicates a drift-
+ing of the Nepal isolates from the A/Fujian/411/03 and
+A/Wyoming/03/03 vaccine strains and shows that these
+outbreak isolates have a higher genetic homology to
+A/Wellington/1/04, a prototype strain selected as the
+2005–2006 Southern Hemisphere H3 vaccine strain
+(Figure 2). The A/Wellington/1/04 strain contains 2 of the
+4 amino acid changes (S227P and S189N) observed in the
+Nepal isolates, but does not contain the K145N and V226I
+substitutions.
+Three-dimensional views of influenza HA proteins
+highlighting amino acid changes in a representative Nepal
+isolate and the A/Wyoming/3/03 vaccine strains are shown
+in Figure 3A and B, respectively. The mutation at position
+145 (shown in yellow), which is located adjacent to anti-
+body-binding site A and within a known glycosylation site,
+introduces an asparagine-for-lysine substitution. This sub-
+stitution results in a more accessible receptor-binding cleft
+located directly above residue 145 (comparing panels A
+and B). Located above the receptor-binding pocket is a ser-
+ine-to-asparagine change (shown in green) that possibly
+alters the regional surface topography at position 189 with-
+in antibody-binding site B. A serine-to-proline mutation at
+RESEARCH
+1188 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 11, No. 8, August 2005
+position 227 (shown in magenta) appears to marginally
+affect the HA surface features. This substitution resides
+within antibody-binding site D, which corresponds to
+residues 225–228, which make up the left side of the
+receptor-binding pocket (14). Interestingly, this proline
+residue is located within a β barrel (a protein motif consist-
+ing of an antiparallel β sheet domain) and does not appre-
+ciably alter the predicted protein structure, as shown by the
+absence of any substantial changes in the computer-mod-
+eled, 3-dimensional structure compared with the HA1 of
+A/Wyoming/3/2003.
+Discussion
+The 4 substitutions described represent a growing line-
+age of influenza A (H3N2) viruses characterized since July
+2004. Three amino acid changes are confined within
+known antibody-binding sites, i.e., the S189N change
+within antibody-binding site B (4,5) and the V226I and
+S227P changes residing in antibody-binding site D (4,5).
+Because of rotational restrictions, a proline substitution at
+position 227 (S227P) would typically give rise to consid-
+erable conformation change; however, this particular sub-
+stitution is located within a β barrel motif and therefore has
+little effect on regional protein conformation.
+Cumulatively, field isolates characterized subsequent to
+this outbreak continue to exhibit these 4 changes, and they
+appear to constitute a distinct branch in the phylogeny of
+HA sequences when compared with H3N2 isolates from
+the 2003–2004 season.
+The K145N mutation represents a change from a
+charged to uncharged amino acid R group. This change
+may affect protein-protein interactions since it is immedi-
+ately adjacent to antibody-binding site A, where neutraliz-
+ing antibodies have been shown to bind (4,5).
+Furthermore, since the K145N substitution is located with-
+in a glycosylation site, the charge alteration may affect gly-
+cosyl transferase activity, which results in altered
+glycosylation. Differences in glycosylation have been
+shown to contribute to antigenic variation by preventing
+antibody binding to antigenic sites (15). Additionally, 3-
+Influenza A (H3N2) Outbreak, Nepal
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 11, No. 8, August 2005 1189
+Figure 2. Unrooted phylogenetic analysis
+of HA1 hemagglutinin nucleotide
+sequences from 26 Nepal isolates and
+H3N2 vaccine and reference strains. The
+Nepal isolates have drifted from the
+2004–2005 A/Fujian/411/03 vaccine strain
+(and A/Wyoming/03/03 vaccine seed
+strain) and are genetically equivalent to
+A/California/7/04, the 2005–2006
+Northern Hemisphere vaccine strain. A
+K145N substitution (branch point indicated
+by the arrow) was observed in 24 of 26
+Nepal isolates and represents a genetic
+marker for the dominant lineage of H3N2
+viruses during the 2004–2005 season.
+Nucleotide and amino acid sequences for
+all Nepal isolates are available from
+GenBank under accession no. AY945263–
+AY945288. The asterisk indicates isolates
+from Table 2 that were antigenically dis-
+tinct from A/Wyoming/303.
+dimensional analysis suggests this amino acid substitution
+may also promote enhanced receptor binding since the
+asparagine R group is shorter, which may make binding
+requirements less stringent and the receptor cleft more
+accessible. The 3-dimensional depiction provides a unique
+regional residue perspective, demonstrating how the rapid-
+ly evolving HA surface antigens in the vaccine strain dif-
+fer at the molecular level. These changes are consistent
+with both antigenic and genetic data.
+Collectively, the clinical isolates obtained from this
+outbreak in Nepal cannot be considered antigenically dis-
+tinct from the A/Wyoming/3/03 vaccine strain because
+only 4 of 9 isolates evaluated exhibited 4-fold lower titers
+by HI (Table 1). Furthermore, the varying reactivity noted
+in several isolates from this outbreak having identical HA1
+sequences is suggestive that other viral antigens aside from
+the HA1 protein may have contributed to the antigenic
+variability observed in the HI panel.
+With the exception of A/Nepal/1670/2004 and
+A/Nepal/1672/2004, all isolates evaluated by HI (Table 1)
+exhibited identical HA1 amino acid sequences and varying
+antigenicity profiles to A/Wyoming/03/2003 reference
+antisera. One explanation for this observation is that genet-
+ic differences in other influenza surface proteins contribute
+to the observed immunoreactivity. Alternative viral surface
+protein candidates include the neuraminidase, HA2, and
+M2 glycoproteins, which have been shown to exhibit anti-
+genic properties (16–19).
+In this report, we describe the genetic analysis of the
+HA proteins from viruses obtained from an early season
+outbreak and compare them to current vaccine strains.
+Three amino acids changes (S189N, I226V, and S227P)
+were noted in known (4,5) antibody-binding sites (Table
+2). The fourth change (K145N), which was located within
+a glycosylation site, may enhance viral binding since the
+smaller asparagine R group is located close to the HA
+receptor-binding cleft (Figure 3). Phylogenetic analyses
+show that the Nepal isolates make up a distinct branch in
+the evolution of H3N2 viruses when they are compared
+with vaccine and reference strains (Figure 2). However,
+antigenic data appear more ambiguous, suggesting a multi-
+genic effect that cannot solely be attributed to properties of
+the influenza HA (Table 1). Studies are in progress to char-
+acterize the neuraminidase, M2, and HA2 proteins to
+determine the molecular basis responsible for antigenicity
+differences observed within isolates from this outbreak.
+The K145N substitution change has become a marker
+for an increasingly large subset of the Fujian-like viruses.
+CDC and the US Department of Defense have recently
+characterized viruses with the K145N change in
+Singapore, Taiwan, China, Australia, Canada, and the
+United States. In February 2005, WHO reported the emer-
+gence of a new influenza H3N2 strain in the United States.
+The A/California/7/2004 strain, which was first identified
+in the United States in September 2004, contains all 4
+changes observed in isolates from this Nepalese outbreak.
+The A/California/7/2004 strain differs by only 1 amino
+acid in HA1 (which is of no immunologic importance)
+from most isolates from the outbreak in Nepal. All viruses
+characterized (≈150 globally isolated strains) subsequent
+to the preparation of this report (March 2005) by the US
+Department of Defense are genetically similar in amino
+acid sequence to these Nepalese strains (and the
+A/California strain). Most of the isolates (80%) analyzed
+by CDC since October 2004 are antigenically related to
+A/California (20), which indicates that this strain has
+emerged as the dominant influenza A H3N2 strain. These
+data indicate that these viruses may persist as the dominant
+strain at the onset of the 2005–2006 influenza season. In
+February 2005, WHO recommended inclusion of an
+A/California/7/2004-like strain in the 2005–2006 trivalent
+influenza vaccine to afford immunologic protection from
+RESEARCH
+1190 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 11, No. 8, August 2005
+Figure 3. Three-dimensional top view of
+the HA1 hemagglutinin structures for A) a
+representative A/Nepal/1648/04 virus and
+B) vaccine strain A/Wyoming/3/03. Most
+(24/26) of the Nepal isolates contain a
+lysine to asparagine substitution (shown
+in yellow) at position 145 (K145N).
+Magenta, residues 226 and 227; orange,
+residue 189; green, residues 155 and
+156; yellow, residue 145. Hemagglutinin
+molecules were generated by using the
+respective amino acid sequences with
+MOLMOL (12). A/Nepal/1648/04 is avail-
+able from GenBank under accession no.
+AY945264.
+this variant H3N2 virus. Our findings emphasize the
+importance of continued molecular surveillance for char-
+acterizing emerging influenza drift variants.
+Acknowledgments
+We thank Bishnu K. Shrestha, Subash Malla Thakuri, and
+Atma K. Ranjit for help in collecting throat swab specimens and
+performing preliminary optical immunoassay rapid diagnostic
+tests.
+We acknowledge Joel Gaydos and the Global Emerging
+Infections System for funding the Department of Defense
+influenza strain surveillance program at the Center for Excellence
+in Biotechnology and Bioprocessing Education and Research,
+Brooks City Base, San Antonio, Texas.
+Dr. Daum is a molecular biologist at the Air Force Institute
+for Operational Health, Brooks City Base, Texas, and a PhD can-
+didate at the University of Texas at San Antonio. His research
+interests include viral evolution, influenza strain surveillance,
+and the development of field-deployable real-time PCR assays
+for pathogen detection.
+References
+1. CDC influenza weekly report: influenza summary update, questions
+and answers, the 2003–2004 influenza season. [cited 19 May 2005].
+Available from http: www.cdc.gov/flu/about/qa/fluseason.htm
+2. Harper SA, Fukuda K, Uyeki TM, Cox NJ, Bridges CB. Centers for
+Disease Control and Prevention Advisory Committee on
+Immunization Practices. Prevention and control of influenza: recom-
+mendations of the advisory committee on immunization practices
+(ACIP). MMWR Morb Mortal Wkly Rep. 2004;53:1–40.
+3. Webster RG, Kendal, AP, Gerhard W. Analysis of antigenic drift in
+recently isolated influenza A (H1N1) viruses using monoclonal anti-
+body preparations. Virology. 1979;96:258–64.
+4. Wiley DC, Wilson IA, Skehel JJ. Structural identification of the anti-
+body-binding sites of Hong Kong influenza haemagglutinin and their
+involvement in antigenic variation. Nature. 1981;289:373–8.
+5. Wilson AI, Cox NJ. Structural basis of immune recognition of
+influenza virus hemagglutinin. Annu Rev Immunol. 1990;8:737–71.
+6. Lee MS, Chen JS. Predicting antigenic variants of influenza A/H3N2
+viruses. Emerg Infect Dis. 2004;10:1385–90.
+7. Bush RM, Bender CA, Subbarao K, Cox NJ, Fitch WM. Predicting
+the evolution of human influenza A. Science. 1999;286:1921–5.
+8. Plotkin JB, Dushoff J. Codon bias and frequency-dependent selection
+on the hemagglutinin epitopes of influenza A virus. Proc Natl Acad
+Sci U S A. 2003;100:7152–7.
+9. Canas LC, Lohman K, Pavlin JA, Endy T, Singh DL, Pandey P, et al.
+The Department of Defense laboratory-based global influenza sur-
+veillance system. Mil Med. 2000;165(Suppl 2):52–6.
+10. Daum LT, Canas LC, Smith CB, Klimov A, Huff WB, Barnes WJ, et
+al. Genetic and antigenic analysis of the first A/New
+Caledonia/20/99-like H1N1 influenza isolates reported in the
+Americas. Emerg Infect Dis. 2002;8:408–12.
+11. Kendal AP, Pereura MS, Skehel J. Concepts and procedures for labo-
+ratory based influenza surveillance. Geneva: World Health
+Organization; 1982.
+12. Koradi R, Billeter M, Wuthrich K. MOLMOL: a program for display
+and analysis of macromolecular structures. J Mol Graph.
+1996;14:29–32, 51–55.
+13. Guex N, Peitsch MC. SWISS-MODEL and the Swiss-PdbViewer: an
+environment for comparative protein modeling. Electrophoresis.
+18;2714–23.
+14. Cross KJ, Burleigh LM, Steinhauer DA. Mechanisms of cell entry by
+influenza virus. Expert Rev Mol Med. 2001;6:1–18.
+15. Wilson IA, Ladner, RC, Skehel, Wiley DC. The structure and role of
+the carbohydrate moieties of influenza virus hemagglutinin. Biochem
+Soc Trans. 1983;11:145–7.
+16. Hughey PG, Roberts PC, Holsinger LJ, Zebedee SL, Lamb RA,
+Compans RW. Effects of antibody to the influenza A virus M2 protein
+on M2 surface expression and virus assembly. Virology.
+1995;212:411–21.
+17. Zebedee SL, Lamb RA. Influenza A virus M2 protein: monoclonal
+antibody restriction of virus growth and detection of M2 in virions. J
+Virol. 1988:62:2762–72.
+18. Webster RG, Brown LE, Laver WG. Antigenic and biological charac-
+terization of influenza virus neuraminidase (N2) with monoclonal
+antibodies. Virology. 1984;135:30–42.
+19. Okuno Y, Isegawa Y, Sasao F, Ueda S. A common neutralizing epi-
+tope conserved between the hemagglutinins of influenza A virus H1
+and H2 strains. J Virol. 1993;67:2552–8.
+20. CDC weekly report: influenza summary update (week ending April
+16, 2005). [cited 19 May 2005]. Available from http://www.
+cdc.gov/flu/weekly/
+Address for correspondence: Luke T. Daum, Air Force Institute for
+Operational Health, Building 175 West, Brooks City Base, San Antonio,
+TX, 78235, USA; fax: 210-536-2638, email: Luke.Daum@brooks.af.mil.
+Influenza A (H3N2) Outbreak, Nepal
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 11, No. 8, August 2005 1191
+cephalosporin
+Any of a class of broad-spectrum, relatively penicillinase-resistant, β-lactam antimicrobial drugs
+originally derived from species of the fungus Acremonium (formerly called Cephalosporium). Italian
+scientist Giuseppe Brotzu first isolated the parent compound cephalosporin C from a sewer in
+Sardinia in 1948. Cephalosporins available for medical use today are semisynthetic derivatives of
+this natural antimicrobial compound.
+Sources: Dorland's illustrated medical dictionary. 30th ed. Philadelphia: Saunders; 2003. and Merriam-Webster's collegiate
+dictionary. 11th ed. Springfield (MA): Merriam-Webster's, Inc; 2003.

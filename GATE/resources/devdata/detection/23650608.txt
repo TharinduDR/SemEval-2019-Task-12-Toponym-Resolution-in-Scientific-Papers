@@ -1,0 +1,370 @@
+﻿FEBS Open Bio 2 (2012) 261­266
+journal homepage: www.elsevier.com/locate/febsopenbio
+Amino acid determinants conferring stable sialidase activity at low pH for H5N1
+influenza A virus neuraminidase
+Tadanobu Takahashia,b
+, Chairul A. Nidomc
+, Mai thi Quynh Led
+, Takashi Suzukib,*
+, Yoshihiro Kawaokaa,e,f,*
+a
+Influenza Research Institute, Department of Pathobiological Sciences, School of Veterinary Medicine, University of Wisconsin-Madison, Madison, WI, USA
+b
+Department of Biochemistry, School of Pharmaceutical Sciences, University of Shizuoka, and Global COE Program for Innovation in Human Health Sciences, Japan
+c
+Faculty of Veterinary Medicine, Tropical Disease Centre, Airlangga University, Surabaya, Indonesia
+d
+National Institute of Hygiene and Epidemiology, Hanoi, Viet Nam
+e
+Division of Virology, Department of Microbiology and Immunology and International Research Center for Infectious Diseases, Institute of Medical Science, University of Tokyo,
+Shirokanedai, Minato-ku, Tokyo, Japan
+f
+ERATO Infection-Induced Host Responses Project, Japan Science and Technology Agency, Saitama, Japan
+a r t i c l e i n f o
+Article history:
+Received 25 June 2012
+Received in revised form 29 August 2012
+Accepted 29 August 2012
+Keywords:
+Avian influenza A virus
+H5N1
+Highly pathogenic
+Low-pH stability
+Neuraminidase
+Sialidase
+a b s t r a c t
+Avian influenza A viruses (IAVs) and human 1918, 1957, and 1968 pandemic IAVs all have neuraminidases
+(NAs) that are stable at low pH sialidase activity, yet most human epidemic IAVs do not. We examined
+the pH stability of H5N1 highly pathogenic avian IAV (HPAI) NAs and identified amino acids responsible
+for conferring stability at low pH. We found that, unlike other avian viruses, most H5N1 IAVs isolated
+since 2003 had NAs that were unstable at low pH, similar to human epidemic IAVs. These H5N1 viruses
+are thus already human virus-like and, therefore, have the frequent infections of humans.
+c 2012 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.
+1. Introduction
+Since the first isolation of H5N1 highly pathogenic avian influenza
+A virus (HPAI) from a 3-year-old boy in Hong Kong in 1997, more
+than 600 confirmed cases of human H5N1 HPAI infection have been
+reported, mainly from Indonesia, Viet Nam, and Egypt (as of June,
+2012). Since 2004, frequent human infections have raised worldwide
+concerns regarding the pandemic potential of H5N1 HPAI and its high
+fatality rate (approximately 60% as of 2012 June) [1]. The viral enve-
+lope glycoprotein hemagglutinin (HA) has been investigated exten-
+sively and is essential to the high virulence and transmission of HPAI
+to humans, because it possesses receptor binding ability (recogniz-
+ing both avian- and human-type sialoglycoconjugates). It also has a
+multi-basic cleavage site that facilitates systemic infection in chicken
+Abbreviations: FBS, fetal bovine serum; HA, hemagglutinin; HPAI, highly pathogenic
+avian influenza A virus; IAV, influenza A virus; NA, neuraminidase; PBS, phosphate-
+buffered saline; TGF-, transforming growth factor-beta
+* Takashi Suzuki; Department of Biochemistry, School of Pharmaceutical Sciences,
+University of Shizuoka, Shizuoka 422-8526, Japan (T. Suzuki),Yoshihiro Kawaoka; In-
+fluenza Research Institute, Department of Pathobiological Sciences, School of Veteri-
+nary Medicine, University of Wisconsin, Madison, Wisconsin 53711, USA (Y. Kawaoka).
+Tel.: +81 54 264 5725; fax: +81 54 264 5723 (T. Suzuki), Tel.: +1 608 265 4925; fax: +1
+608 262 9641 (Y. Kawaoka).
+E-mail address: suzukit@u-shizuoka-ken.ac.jp (T. Suzuki)
+kawaokay@svm.vetmed.wisc.edu (Y. Kawaoka).
+and mice [2,3]. Another viral envelope glycoprotein, neuraminidase
+(NA), has sialidase activity that enhances virus release from the cell
+surface by removing sialic acid from cellular glycoconjugates and viral
+glycoproteins. Deletions in the NA stalk and a reduction in the level of
+NA-induced transforming growth factor-beta (TGF-) influence the
+high virulence of HPAI viruses [4,5]. However, the sialidase activity
+of H5N1 HPAI NA per se has not been compared with that of human
+influenza A virus (IAV) NA or other avian IAV NA [6].
+We previously showed that influenza viruses differ in their sta-
+bility at low pH. All avian IAV NAs tested to date are highly stable at
+low pH; their sialidase activities are retained at pH 5.0 or less [7]. This
+property may be associated with avian virus replication in intestines,
+because for a virus to reach the intestine, it must pass through the
+acidic environment of the gizzard. The NAs of pandemic human IAVs,
+such as 1918 H1N1, 1957 H2N2, and 1968 H3N2 IAV, are also stable at
+low pH. Viruses possessing a low-pH-stable NA from a pandemic IAV
+in the background of A/WSN/33 (WSN; H1N1) replicated more effi-
+ciently in cell culture and mouse lungs compared with a WSN virus
+possessing a NA unstable at low pH [8]. This enhanced replicative
+ability was associated with retention of the sialidase activity under
+the acidic conditions of the endocytic pathway during virus entry [8].
+On the other hand, the NAs of most seasonal human IAVs are unstable
+at low pH [7,9,10].
+Here, we examined the sialidase activity of 42 H5N1 HPAI viruses
+2211-5463/$36.00 c 2012 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.fob.2012.08.007
+262 Tadanobu Takahashi et al. / FEBS Open Bio 2 (2012) 261­266
+isolated from humans, chickens, ducks, and other waterfowl and
+found that most of the NAs, with the exception of three H5N1 viruses,
+were not stable at low pH. We also identified amino acid determinants
+that could confer low-pH stability to H5N1 HPAI NAs.
+2. Materials and methods
+2.1. Cells
+Human embryonic kidney 293T cells were maintained in high
+glucose Dulbecco's modified medium supplemented with 10% fetal
+bovine serum (FBS).
+2.2. NA genes and plasmids
+All NA genes inserted into the pCAGGS expression vector and virus
+abbreviations are listed in Supplementary Table 1. Chimeric NAs be-
+tween A/duck/Guangdong/1/01 (H5N1) (DKG/1) and A/Hong Kong/
+213/03 (H5N1) (HK/213) were generated by ligating the Mfe I and
+BamH I sites (at positions 595 and 1145 in the NA gene, respectively)
+or by ligating two PCR fragments derived from primers with the Bsa
+I site (at position 842 in the NA gene). The Y155H, I289T, and Q313R
+mutations of DKG/1 NA and the H155Y, T289I, and R313Q mutations
+of HK/213 NA were introduced by means of PCR.
+2.3. Sialidase activity of cell-expressed NA
+293T cells (1.5 × 105 cells/well) in a 24-well tissue culture plate
+were cultured overnight. The 70% confluent cells were transfected
+with a plasmid (1 g/well) for NA expression by using TransIT-293
+(Mirus, Madison, WI). After a 24-h incubation at 37 C, the trans-
+fected cells were suspended in phosphate-buffered saline (PBS; 1.2
+ml/well), and 50 l of each cell suspension was transferred into mi-
+crotubes and centrifuged at 100 × g for 10 min. The cell pellets were
+incubated with 57 l of 10 mM acetate buffer (pH 4.0, 5.0, or 6.0)
+at 37 C for 10 min. Fifty microliters of each suspension was then
+transferred to a 96-well black plate on ice and reacted with 2.5 l
+of 2 mM 2 -(4-methylumbelliferyl)-N-acetylneuraminic acid (4MU-
+Neu5Ac; Sigma-Aldrich Corp., St. Louis, MI) at 37 C for 30 min. The
+reaction was stopped by the addition of 200 l of 100 mM sodium
+carbonate buffer (pH 10.7). The fluorescent intensity (Ex, 355 nm;
+Em, 460 nm) was measured with an Infinite M1000 microplate reader
+(Tecan Group Ltd., M¨
+annedorf, Switzerland). The sialidase activities of
+the cell-expressed NAs were expressed as a percentage of the activity
+at pH 6.0.
+3. Results
+3. 1. Low-pH stabilities of the sialidase activities of H5N1 HPAI NAs
+We tested the low-pH stabilities of the sialidase activity of cells ex-
+pressing each of the NA genes of 42 H5N1 HPAI viruses isolated from
+human and avian hosts, as well as 10 other non-H5N1 avian IAVs
+and eight human H1N1 IAVs. The NAs of all avian IAVs tested were
+highly stable at low-pH, as described in our previous reports [7,9,10].
+Three H5N1 HPAI NAs of A/Hong Kong/483/97 (HK/483), DKG/1, and
+CKK/3, were also stable at low pH; at pH 4.0, their NAs had more than
+30% of the sialidase activity at pH 6.0. Thirteen H5N1 HPAI NAs were
+also moderately stable at low pH, retaining more than 30% of their
+sialidase activity at pH 5.0 compared with that at pH 6.0. However,
+the NAs of the remaining 26 H5N1 HPAIVs, which were isolated since
+1997, were not low-pH-stable, like seasonal human IAVs. No distinct
+host species-specific differences in their low-pH stabilities were ap-
+parent among the H5N1 viruses isolated from different hosts such as
+humans (Fig. 1A), aquatic birds (Fig. 1B), or chickens (Fig. 1C). There
+were also no differences in the low-pH stabilities of H5N1 HPAI NAs
+between aquatic and terrestrial birds (e.g., chickens). We also mea-
+sured the sialidase activities of avian IAV NAs (Fig. 1D) and human
+H1N1 IAV NAs (Fig. 1E) as controls of avian-like and human-like low-
+pH stability. All avian IAV NAs tested were highly stable at low pH,
+whereas most human H1N1 IAV NAs, except Spanish IAV A/Brevig
+Mission/1/18 (H1N1) NA (BM/1), were not low-pH-stable, consistent
+with our previous work [7,9,10].
+When we measured the sialidase activity after pre-incubating the
+NAs under acidic conditions, BM/1 NA lost its activity in a time-
+dependent manner [10], whereas avian IAV NAs retained their siali-
+dase activity even after 60 min of pre-incubation at pH 4.0 [10] (Sup-
+plementary Fig. 1G and H). The low-pH-stable NAs of H5N1 HPAI
+DKG/1 and A/chicken/Kyoto/3/04 (CKK/3) lost their sialidase activi-
+ties, similarly to BM/1, as a function of increasing pre-incubation time
+under acidic conditions (Supplementary Fig. 1A and C). The low-pH-
+unstable H5N1 HK/213, A/whooper swan/Mongolia/6/05 (WSM/6),
+and A/Viet Nam/1203/04 (VN/1203) NAs also lost their sialidase ac-
+tivity, as did human H1N1 IAV NAs, in this assay (Supplementary
+Fig. 1B, D, I, and J). These results indicate that most H5N1 HPAIs
+have low-pH-unstable NAs, like seasonal human IAVs, and that H5N1
+HPAIs with low-pH-stable NAs are the exception, like human pan-
+demic Spanish IAVs, and their low-pH stability profiles differ from
+the highly stable NAs at low pH in more common avian IAVs (Supple-
+mentary Fig. 1).
+3. 2. Identification of amino acid residues responsible for the low-pH
+stability of an H5N1 HPAI NA
+The amino acid sequence of the low-pH-stable DKG/1 NA was most
+closely related to that of the low-pH-unstable HK/213 NA among the
+viruses tested here (Supplementary Fig. 2). Therefore, to determine
+the amino acid residues responsible for the low-pH stability of H5N1
+HPAI NAs, we used the DKG/1 NA and the HK/213 NA to generate
+chimeric NAs. There are eight amino acid differences between the
+DKG/1 NA and the HK/213 NA in their ectodomains (amino acids 83­
+468), at positions 155, 224, 257, 267, 289, 313, 341, and 415 (DKG/
+1 NA numbering) (Table 1). First, we generated eight chimeric NAs
+(Chimeras 1­8) by using the Mfe I and BamH sites and PCR primers
+with the Bsa I site (Fig. 2A) and tested their low-pH stability. Based on
+the properties of chimeras 3 and 4, residues at positions 155, 224, 257,
+267, 289, 313 and 341 were identified as candidate determinants of
+the low-pH stability of DKG/1 NA, whereas the results with chimeras
+7 and 8 suggested a role for the amino acids at positions at 155, 289,
+313, 341, and 415 in the low-pH stability of DKG/1 NA. Taken to-
+gether, the residues at positions 155, 289, 313, and 341 appeared to
+be determinants for the DKG/1 NA's low-pH stability (Fig. 2A, Table
+1). We therefore generated an additional eight chimeric NAs in which
+Tyr or His was substituted at position 155 in the different genetic
+backbones (chimeras 9­16) (Fig. 2B). A striking difference in low-pH
+stability between chimeras 13 and 14 suggested that the residues at
+positions 289, 313, and 341 were likely determinants of low-pH sta-
+bility. Finally, we generated three NAs with substitutions at positions
+289, 313, and 341, respectively, in addition to the substitution at po-
+sition 155 in the DKG/1 NA (Fig. 2C) or the HK/213 NA (Fig. 2D). The
+dual substitutions at positions 155 and 341 substantially changed the
+enzymatic stabilities at pH 4.0 and 5.0 (Table 1). We also examined
+the low-pH stability of the HK/213 NA mutant with substitutions at
+positions 155 and 341 after it was incubated under acidic conditions
+in a time-dependent manner. The HK/213 NA with both the H155Y
+and K341N mutations lost its sialidase activity in a time-dependent
+manner, like the DKG/1 NA (Supplementary Fig. 1A and F), but it was
+not as stable as the highly stable NAs at low pH in the more common
+avian IAVs (Supplementary Fig. 1G and H). The DKG/1 NA with both
+the Y155H and N341K mutations lost its sialidase activity within five
+minutes of exposure to pH 4.0 and 5.0, like the HK/213 NA (Supple-
+mentary Fig. 1B and E). Therefore, these results show that histidine at
+Tadanobu Takahashi et al. / FEBS Open Bio 2 (2012) 261­266 263
+Fig. 1. The low-pH stabilities of the sialidase activities of H5N1 HPAI NAs, human H1N1 IAV NAs, and non-H5N1 avian IAV NAs. Sialidase activities of NA-expressing cells transfected
+with each NA gene were measured at pH 4.0 (filled columns), 5.0 (gray columns) and 6.0 (open columns). Sialidase activities are expressed as a percentage of each activity at pH
+6.0. The NA genes used were derived from H5N1 HPAIs isolated from humans (A), aquatic birds (B), chickens (C), other avian IAVs (D) and from human H1N1 IAVs (E).
+264 Tadanobu Takahashi et al. / FEBS Open Bio 2 (2012) 261­266
+Fig. 2. Identification of amino acid residues responsible for the low-pH stability of DKG/1 NA and HK/213 NA. Sialidase activities were measured as described in the legend to Fig.
+1. A, Low-pH stabilities of chimeric NAs. B, Low-pH stabilities of chimeric NAs with the Y155H or H155Y mutation at position 155. C, Low-pH stabilities of mutated DKG/1 NAs. D,
+Low-pH stabilities of mutated HK/213 NAs.
+Tadanobu Takahashi et al. / FEBS Open Bio 2 (2012) 261­266 265
+Table 1
+Amino acid comparison of the NA globular domains between DKG/1 and HK/213.
+a
+Amino acid position is based on DKG/1 NA numbering.b
+Positions in the NA amino acid
+sequence involved in creating the chimeric NAs.c
+Boxed amino acids are responsible for
+the low-pH stability of DKG/1 NA and HK/213 NA.
+Fig. 3. Locations of the amino acid residues responsible for the low-pH stabilities of
+H5N1 HPAI NAs. One subunit of the NA homotetramer structure (2HTY. pdb, VN/1203)
+is shown in gray. In the surface model of NA, red and purple indicate the active site
+and the calcium ion-binding site, respectively. The residues at positions 155 and 341
+are colored in green and blue, respectively (DKG/1 NA numbering). Pictures were
+generated by using the Pymol Molecular Graphics System Ver. 1.1r1 (DeLano Scientific
+LLC).
+position 155 and lysine at position 341 are responsible for the low-pH
+instability of H5N1 HPAI NAs.
+4. Discussion
+Here, we showed that most H5N1 HPAI NAs are unstable at low
+pH, like seasonal human IAV NAs. Thus, the low-pH stability of H5N1
+HPAI NAs more closely resembles that of human IAV NAs than that
+of avian IAV NAs, regardless of the host (i.e., humans and birds) from
+which the virus is isolated. Although human infections with avian
+H5N1, H7N3, H7N7, and H9N2 IAVs have occurred, by far the large
+number of human infections has been reported for H5N1 HPAI [11].
+Our previous research suggested that NA that are unstable at low pH
+may be more suitable for the adaptation of IAV to humans [9]. The
+low-pH instability of H5N1 HPAI NAs among avian IAV NAs might
+contribute to the frequent transmission of H5N1 HPAI to humans.
+For the DKG/1 NA and the HK/213 NA, both tyrosine at position
+155 and asparagine at position 341 were responsible for the stability
+at low pH; histidine at position 155 together with lysine at posi-
+tion 341 destabilized NA activity at low pH. In the three-dimensional
+structure of VN/1203 NA (Fig. 3) [12], the residue at position 155
+was near the monomer interface, suggesting that it may be involved
+in stabilization of the homotetrameric structure. The residue at po-
+sition 341 was located near the calcium ion-binding site, which is
+thought to be involved in the conformation of the enzymatic active
+site [13,14]. We previously identified residues at positions 430, 435,
+and 454 (BM/1 N1 numbering) as important for the low-pH stabil-
+ity of N1 NAs (Supplementary Fig. 3A) [10] and residues at positions
+344 and 466 (N2 numbering) as important for the low-pH stability of
+N2 NAs (Supplementary Fig. 3B) [15]; these residues are also located
+near the enzymatic active site, the calcium ion-binding site, and the
+subunit interfaces.
+Of the 42 H5N1 NAs tested, we found that the tyrosine at position
+155 that is responsible for the low-pH stability of DKG/1 NA was
+present in only three NAs [those of viruses HK/483, A/Hong Kong/
+486/97 (HK/486), and DKG/1], whereas the remaining 39 H5N1 HPAI
+NAs, including the low-pH-stable CKK/3 NA, had histidine at this
+position, indicating that the low-pH stability of CKK/3 NA does not
+require tyrosine at this position. The lysine at position 341 that was
+responsible for the low-pH instability of HK/213 NA was present
+only in this NA; the remaining 41 NAs tested here had asparagine
+at this position. Therefore, these substitutions are not necessarily
+responsible for the low-pH stabilities of all H5N1 HPAI NAs.
+Several moderately stable NAs at low pH were found among the
+42 H5N1 HPAI NAs (Supplementary Fig. 2). The amino acid sequences
+of the low-pH-unstable A/Viet Nam/UT3028II/03 (VN/UT3028II) NA
+and the moderately stable A/Viet Nam/UT3028/03 (VN/UT3028)
+NA at low pH differ by only a single substitution at position 344
+(DKG/1 NA numbering; cysteine for VN/UT3028II and glycine for
+VN/UT3028). Also, only two amino acid differences were found be-
+tween the unstable A/duck/Viet Nam/5001/04 (DKVN/5001) NA and
+the moderately stable A/Viet Nam/UT30259/04 (VN/UT30259) NA at
+low pH; the former having lysine and serine and the latter having
+asparagine and glycine at positions 150 and 249 (DKG/1 NA number-
+ing), respectively. These results indicate that amino acids at positions
+other than 155 and 341 affect the low-pH stability of H5N1 HPAI NAs.
+Among the residues responsible for the low-pH stability of the
+NAs of H5N1 HPAI viruses, the residues at positions 249 and 344 are
+located at or near the calcium ion-binding site, whereas the residues
+at positions 150 and 249 are located near the enzymatic active site.
+These results are consistent with our previous findings with BM/1 N1
+and human N2 [10,15].
+Unlike avian IAV NAs, most human IAV NAs are not stable at low
+pH. Therefore, most H5N1 HPAI NAs isolated since 2003 are more
+like the NAs of human IAVs in this regard, which might explain their
+frequent infection of humans. Further studies of the low-pH stability
+of IAV NAs may enable us to predict low-pH stability on the basis
+of the amino acid residues located near the active site, the calcium
+ion-binding site, and the subunit interfaces, which may, in turn, help
+us to assess the adaptability of avian IAVs to humans.
+Acknowledgments
+We thank Susan Watson for scientific editing. This work was sup-
+ported, in part, by MEXT/JSPS KAKENHI Grant Number (C; 23590549),
+by a Sasakawa Scientific Research Grant from The Japan Science So-
+ciety, by a SRI (Shizuoka Research Institute) academic research grant,
+by the Global COE Program from the Japan Society for the Promotion
+of Science, by ERATO (Japan Science and Technology Agency), by a
+grant-in-aid for Specially Promoted Research from the Ministries of
+Education, Culture, Sports, Science, and Technology, by grants-in-aid
+from Health, Labor, and Welfare of Japan, by the Japan Initiative for
+Global Research Network on Infectious Diseases, and by National In-
+stitute of Allergy and Infectious Disease Public Health Service research
+grants.
+Supplementary Material
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.fob.2012.08.007.
+References
+266 Tadanobu Takahashi et al. / FEBS Open Bio 2 (2012) 261­266
+[1] WHO (2012) Cumulative Number of Confirmed Human Cases of Avian
+Influenza A/ (H5N1) Reported to WHO as of 7 June 2012. Avail-
+able from: http://www.who.int/entity/influenza/human animal interface/
+EN GIP 20120607CumulativeNumberH5N1cases.pdf.
+[2] Basler C.F., Aguilar P.V. (2008) Progress in identifying virulence determinants of
+the 1918 H1N1 and the Southeast Asian H5N1 influenza A viruses. Antiviral Res.
+79, 166­178.
+[3] Uchida Y., Chaichoune K., Wiriyarat W., Watanabe C., Hayashi T., Patchimasiri
+T. et al. (2008) Molecular epidemiological analysis of highly pathogenic avian
+influenza H5N1 subtype isolated from poultry and wild bird in Thailand. Virus
+Res. 138, 70­80.
+[4] Zhou H., Yu Z., Hu Y., Tu J., Zou W., Peng Y. et al. (2009) The special neu-
+raminidase stalk-motif responsible for increased virulence and pathogenesis of
+H5N1 influenza A virus. PLoS One. 4, e6277.
+[5] Carlson C.M., Turpin E.A., Moser L.A., O'Brien K.B., Cline T.D., Jones J.C. et al.
+(2010) Transforming growth factor-: activation by neuraminidase and role in
+highly pathogenic H5N1 influenza pathogenesis. PLoS Pathog. 6, e1001136.
+[6] Zhou J.J., Fu J., Fang D.Y., Yan H.J., Tian J., Zhou J.M. et al. (2007) Molecular
+characterization of the surface glycoprotein genes of an H5N1 influenza virus
+isolated from a human in Guangdong, China. Arch. Virol. 152, 1515­1521.
+[7] Takahashi T., Suzuki Y., Nishinaka D., Kawase N., Kobayashi Y., Hidari K.I. et al.
+(2001) Duck and human pandemic influenza A viruses retain sialidase activity
+under low pH conditions. J. Biochem. 130, 279­283.
+[8] Suzuki T., Takahashi T., Guo C.T., Hidari K.I., Miyamoto D., Goto H. et al. (2005)
+Sialidase activity of influenza A virus in an endocytic pathway enhances viral
+replication. J. Virol. 79, 11705­11715.
+[9] Suzuki T., Takahashi T., Saito T., Guo C.T., Hidari K.I., Miyamoto D. et al. (2004)
+Evolutional analysis of human influenza A virus N2 neuraminidase genes based
+on the transition of the low-pH stability of sialidase activity. FEBS Lett. 557,
+228­232.
+[10] Takahashi T., Kurebayashi Y., Ikeya K., Mizuno T., Fukushima K., Kawamoto H.
+et al. (2010) The low-pH stability discovered in neuraminidase of 1918 pandemic
+influenza A virus enhances virus replication. PLoS One. 5, e15556.
+[11] Wong S.S., Yuen K.Y. (2006) Avian influenza virus infections in humans. Chest.
+129, 156­168.
+[12] Russell R.J., Haire L.F., Stevens D.J., Collins P.J., Lin Y.P., Blackburn G.M. et al.
+(2006) The structure of H5N1 avian influenza neuraminidase suggests new op-
+portunities for drug design. Nature. 443, 45­49.
+[13] Johansson B.E., Brett I.C. (2003) Variation in the divalent cation requirements of
+influenza a virus N2 neuraminidases. J. Biochem. 134, 345­352.
+[14] Brett I.C., Johansson B.E. (2006) Variation in the divalent cation requirements of
+influenza A virus N1 neuraminidases. J. Biochem. 139, 439­447.
+[15] Takahashi T., Suzuki T., Hidari K.I., Miyamoto D., Suzuki Y. (2003) A molecular
+mechanism for the low-pH stability of sialidase activity of influenza A virus N2
+neuraminidases. FEBS Lett. 543, 71­75.
+

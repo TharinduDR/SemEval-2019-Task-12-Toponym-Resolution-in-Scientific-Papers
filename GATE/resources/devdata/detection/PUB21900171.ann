@@ -1,0 +1,58 @@
+T36	Location 4153 4166	United States
+#36	AnnotatorNotes T36	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T45	Location 6201 6206	Logan
+#45	AnnotatorNotes T45	<latlng>41.73549,-111.83439</latlng><pop>48174</pop><geoID>5777544</geoID>
+T46	Location 6244 6252	Carlsbad
+#46	AnnotatorNotes T46	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T47	Location 6489 6497	Carlsbad
+#47	AnnotatorNotes T47	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T48	Location 6530 6538	Carlsbad
+#48	AnnotatorNotes T48	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T57	Location 7359 7368	St. Louis
+#57	AnnotatorNotes T57	<latlong>38.62727, -90.19789</latlong><geoID>4407084</geoID><pop>319294</pop>
+T20	Location 8191 8205	BSL-3 facility
+#20	AnnotatorNotes T20	<latlng>NA</latlng><geoID>NA</geoID>
+T66	Location 8207 8214	Oakland
+#66	AnnotatorNotes T66	<latlng>41.83583,-96.46697</latlng><pop>1244</pop><geoID>5074329</geoID>
+T19	Location 8216 8218	NE
+#19	AnnotatorNotes T19	<latlng>41.50028,-99.75067</latlng><pop>1757399</pop><geoID>5073708</geoID>
+T72	Location 10462 10474	Carol Stream
+#72	AnnotatorNotes T72	<latlng>41.91253,-88.13479</latlng><pop>39711</pop><geoID>4886662</geoID>
+T74	Location 10572 10584	Carol Stream
+#74	AnnotatorNotes T74	<latlng>41.91253,-88.13479</latlng><pop>39711</pop><geoID>4886662</geoID>
+T81	Location 14027 14035	La Jolla
+#81	AnnotatorNotes T81	<latlng>32.84727,-117.2742</latlng><pop>42808</pop><geoID>5363943</geoID>
+T1	Location 6208 6210	UT
+#1	AnnotatorNotes T1	<latlng>39.25024,-111.75103</latlng><pop>2427340</pop><geoID>5549030</geoID>
+T2	Location 6254 6256	CA
+#2	AnnotatorNotes T2	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T3	Location 6499 6501	CA
+#3	AnnotatorNotes T3	<latlng>37.25022, -119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T4	Location 6540 6542	CA
+#4	AnnotatorNotes T4	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T5	Location 7370 7372	MO
+#5	AnnotatorNotes T5	<latlng>38.25031,-92.50046</latlng><pop>5768151</pop><geoID>4398678</geoID>
+T6	Location 7940 8000	Kansas State University's biosafety level 2 (BSL-2) facility
+#6	AnnotatorNotes T6	<latlng>NA</latlng><geoID>NA</geoID>
+T8	Location 10476 10478	IL
+#8	AnnotatorNotes T8	<latlng>40.00032,-89.25037</latlng><pop>12772888</pop><geoID>4896861</geoID>
+T9	Location 10587 10589	IL
+#9	AnnotatorNotes T9	<latlng>40.00032,-89.25037</latlng><pop>12772888</pop><geoID>4896861</geoID>
+T10	Location 14037 14039	CA
+#10	AnnotatorNotes T10	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T11	Protein 1 10	Published
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 1306 1307	.
+#12	AnnotatorNotes T12	END
+T13	Protein 1475 1481	Wenjun
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 1983 1987	2011
+#14	AnnotatorNotes T14	END
+T15	Protein 6808 6809	*
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 7326 7330	from
+#16	AnnotatorNotes T16	END
+T17	Protein 49146 49161	ACKNOWLEDGMENTS
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 61121 61125	from
+#18	AnnotatorNotes T18	END

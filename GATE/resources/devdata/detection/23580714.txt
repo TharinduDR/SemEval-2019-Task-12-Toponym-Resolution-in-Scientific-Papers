@@ -1,0 +1,116 @@
+﻿Genome Sequence of a Novel Reassortant H3N6 Avian Influenza
+Virus from Domestic Mallard Ducks in Eastern China
+Qunhui Li,a Lei Zhong,a Qingqing Zhao,a Liang He,a Zhiqiang Duan,a Chaoyang Chen,a Yuxin Chen,a Min Gu,a,b Xiaoquan Wang,a,b
+Xiaowen Liu,a,b Xiufan Liua,b
+Animal Infectious Disease Laboratory, College of Veterinary Medicine, Yangzhou University, Yangzhou, Jiangsu, Chinaa; Ministry of Education Key Lab for Avian Preventive
+Medicine, Yangzhou University, Yangzhou, Jiangsu, Chinab
+Here, we report the complete genome sequence of an H3N6 avian influenza virus (AIV) isolated from domestic ducks in Jiangsu
+province of eastern China in 2010. Phylogenetic analysis showed that the H3N6 virus is a natural recombinant virus whose genes
+were derived from H3N8, H4N6, H6N6, H7N7, and H11N2 AIVs. This analysis will help to understand the molecular character-
+istics and evolution of the H3N6 influenza virus in eastern China.
+Received 18 December 2012 Accepted 14 February 2013 Published 11 April 2013
+Citation Li Q, Zhong L, Zhao Q, He L, Duan Z, Chen C, Chen Y, Gu M, Wang X, Liu X, Liu X. 2013. Genome sequence of a novel reassortant H3N6 avian influenza virus from
+domestic mallard ducks in eastern China. Genome Announc. 1(2):e00223-12. doi:10.1128/genomeA.00223-12.
+Copyright © 2013 Li et al. This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 Unported license.
+Address correspondence to Xiufan Liu, xfliu@yzu.edu.cn.
+Avian influenza viruses (AIV) are members of the family Or-
+thomyxoviridae and have been shown to have 17 hemaggluti-
+nin (HA) and 10 neuraminidase (NA) subtypes (1, 2). Some of
+these subtypes have been transmitted to domestic poultry, causing
+severe or mild diseases, and domestic ducks play an important role
+in the transmission of influenza virus from wild aquatic birds
+to terrestrial poultry (3). However, H3 avian influenza viruses
+are one of the most frequently isolated subtypes from feral
+ducks and also the major subtype that causes human disease (4,
+5). In addition, previous studies demonstrated that some novel
+H3N6 subtype viruses were reassortants between highly patho-
+genic H7 and H5 viruses isolated in Eurasia (6). Therefore, it is
+important to enhance the surveillance of H3 AIVs for under-
+standing the genesis and emergence of novel reassortants with
+pandemic potential.
+In this study, strain A/duck/Jiangsu/4/2010 (H3N6) was iso-
+lated from apparently healthy domestic mallard ducks in the
+Jiangsu province of eastern China. The complete genomic se-
+quence was determined by reverse transcription-PCR (RT-
+PCR) using a universal primer set (7). The amplification prod-
+ucts were purified and sequenced on an ABI 3730 capillary
+DNA-sequencing instrument. MEGA5.0 software was used to
+analyze the genomic sequences.
+The complete genomic segments include polymerase basic 2
+(PB2), PB1, polymerase acidic (PA), HA, nucleoprotein (NP),
+NA, matrix (M), and nonstructural (NS) genes, with full lengths of
+2,341, 2,341, 2,233, 1,765, 1,565, 1,464, 1,027, and 890 nucleo-
+tides, respectively. The amino acid sequence at the cleavage site in
+the HA molecule is PEKQTR2G, which is characteristic of low-
+pathogenic AIV. Analysis of potential glycosylation sites of the
+isolate revealed that there were 6 potential N-linked glycosylation
+sites in HA (positions 8, 22, 38, 165, 285, and 483), while there
+were 9 in NA (positions 51, 54, 62, 67, 70, 86, 146, 201, and 402).
+Furthermore, there were no changes in the length of the NA stalk
+region and the NS1 protein.
+Phylogenetic analysis showed that the nucleotide sequence
+identity of the HA gene with that of the H3N8 isolate A/duck/
+Beijing/40/04 was 99%. The nucleotide sequence identities of the
+PB2, PB1, PA, and M genes with those of the H6N6 isolate A/duck/
+Jiangsu/022/2009 (H6N6) were all 99%. The nucleotide sequence
+identity of the NS gene with that of the isolate A/mallard/Korea/
+GH171/2007 (H7N7) was 98%. The nucleotide sequence identity of
+the NA gene with that of the isolate A/chicken/India/WB-
+NIV101006/2009 (H4N6) was 99%. In addition, the NP gene was
+mostcloselyrelatedtothatoftheisolateA/spotbillduck/Xuyi/6/2005
+(H11N2), with which it shares 99% nucleotide homology. Thus, the
+H3N6 virus proved to be a novel multiple-gene reassortant AIV
+whose genes were derived from H3N8, H4N6, H6N6, H7N7, and
+H11N2.
+Therefore, the genome information of A/duck/Jiangsu/4/2010
+(H3N6) will help in analyses of the epidemiology and evolution-
+ary characteristics of AIV in domestic ducks in China.
+Nucleotide sequence accession numbers. The complete
+genomic sequence of A/duck/Jiangsu/4/2010 (H3N6) was depos-
+ited in GenBank under the accession no. KC261674 to KC261681.
+ACKNOWLEDGMENTS
+This work was supported by the Major State Basic Research Development
+Program of China (973 Program) (grant no. 2011CB505003), the ear-
+marked fund for Modern Agro-Industry Technology Research System
+(grant no. nycytx-41-G07), the National Key Technologies R&D Program
+of China (grant no. 2010BAD04B01), the Priority Academic Program
+Development of Jiangsu Higher Education Institutions (PAPD), and the
+Program for Changjiang Scholars and Innovative Research Team in Uni-
+versity (PCSIRT) (grant no. IRT0978).
+REFERENCES
+1. Webster RG, Bean WJ, Gorman OT, Chambers TM, Kawaoka Y. 1992.
+Evolution and ecology of influenza A viruses. Microbiol. Rev. 56:
+152­179.
+2. Tong S, Li Y, Rivailler P, Conrardy C, Castillo DA, Chen LM,
+Recuenco S, Ellison JA, Davis CT, York IA, Turmelle AS, Moran D,
+Rogers S, Shi M, Tao Y, Weil MR, Tang K, Rowe LA, Sammons S, Xu
+Genome Announcements
+March/April 2013 Volume 1 Issue 2 e00223-12 genomea.asm.org 1
+X, Frace M, Lindblade KA, Cox NJ, Anderson LJ, Rupprecht CE,
+Donis RO. 2012. A distinct lineage of influenza A virus from bats. Proc.
+Natl. Acad. Sci. U. S. A. 109:4269­4274.
+3. Hulse-Post DJ, Sturm-Ramirez KM, Humberd J, Seiler P, Govorkova
+EA, Krauss S, Scholtissek C, Puthavathana P, Buranathai C, Nguyen TD,
+Long HT, Naipospos TS, Chen H, Ellis TM, Guan Y, Peiris JS, Webster
+RG. 2005. Role of domestic ducks in the propagation and biological evolu-
+tion of highly pathogenic H5N1 influenza viruses in Asia. Proc. Natl. Acad.
+Sci. U. S. A. 102:10682­10687.
+4. Kaleta EF, Hergarten G, Yilmaz A. 2005. Avian influenza A viruses in
+birds--an ecological, ornithological and virological view. Dtsch. Tierarztl.
+Wochenschr. 112:448­456.
+5. Pasick J, Weingartl H, Clavijo A, Riva J, Kehler H, Handel K, Watkins E,
+Hills K. 2003. Characterization of avian influenza virus isolates submitted
+to the National Centre for Foreign Animal Disease between 1997 and 2001.
+Avian Dis. 47:1208­1213.
+6. Simulundu E, Mweene AS, Tomabechi D, Hang'ombe BM, Ishii A,
+Suzuki Y, Nakamura I, Sawa H, Sugimoto C, Ito K, Kida H, Saiwana L,
+Takada A. 2009. Characterization of H3N6 avian influenza virus isolated
+from a wild white pelican in Zambia. Arch. Virol. 154:1517­1522. doi:
+10.1007/s00705-009-0467-9.
+7. Hoffmann E, Stech J, Guan Y, Webster RG, Perez DR. 2001. Universal
+primer set for the full-length amplification of all influenza A viruses. Arch.
+Virol. 146:2275­2289.
+Li et al.
+Genome Announcements
+2 genomea.asm.org March/April 2013 Volume 1 Issue 2 e00223-12
+

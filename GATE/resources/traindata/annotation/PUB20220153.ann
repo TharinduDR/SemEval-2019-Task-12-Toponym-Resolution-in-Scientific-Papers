@@ -1,0 +1,36 @@
+T71	Protein 1 10	Published
+#71	AnnotatorNotes T71	BEGIN
+T73	Protein 1289 1290	.
+#73	AnnotatorNotes T73	END
+T74	Protein 1432 1436	Musa
+#74	AnnotatorNotes T74	BEGIN
+T75	Protein 2065 2069	2010
+#75	AnnotatorNotes T75	END
+T47	Location 3680 3694	North Carolina
+#47	AnnotatorNotes T47	<latlng>35.50069,-80.00032</latlng><pop>8611367</pop><geoID>4482348</geoID>
+T48	Location 3713 3718	Wales
+#48	AnnotatorNotes T48	<latlng>52.5,-3.5</latlng><pop>3000000</pop><geoID>2634895</geoID>
+T49	Location 3720 3734	United Kingdom
+#49	AnnotatorNotes T49	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T4	Protein 6682 6683	*
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 7004 7008	from
+#5	AnnotatorNotes T5	END
+T3	Location 8085 8087	CA
+#3	AnnotatorNotes T3	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T59	Location 9255 9261	Boxtel
+#59	AnnotatorNotes T59	<latlng>51.58472, 5.32654</latlng><pop>30320</pop><geoID>2758459</geoID>
+T60	Location 9263 9274	Netherlands
+#60	AnnotatorNotes T60	<latlng>52.5,5.75</latlng><geoID>2750405</geoID>
+T1	Protein 12563 12566	VOL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 12654 12658	from
+#2	AnnotatorNotes T2	END
+T62	Location 15225 15239	United Kingdom
+#62	AnnotatorNotes T62	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T63	Location 15249 15262	United States
+#63	AnnotatorNotes T63	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T76	Protein 15784 15794	REFERENCES
+#76	AnnotatorNotes T76	BEGIN
+T77	Protein 21888 21892	from
+#77	AnnotatorNotes T77	END

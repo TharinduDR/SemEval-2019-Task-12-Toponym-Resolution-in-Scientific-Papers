@@ -1,0 +1,68 @@
+T2	Protein 149 158	Catherine
+#2	AnnotatorNotes T2	BEGIN
+T3	Protein 1071 1078	Kingdom
+#3	AnnotatorNotes T3	END
+T4	Protein 4528 4536	Received
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 5208 5209	.
+#5	AnnotatorNotes T5	END
+T6	Protein 10934 10946	Transmission
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 11015 11017	19
+#7	AnnotatorNotes T7	END
+T8	Protein 13239 13242	JID
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 13277 13278	.
+#9	AnnotatorNotes T9	END
+T10	Protein 17232 17244	Transmission
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 17313 17315	21
+#11	AnnotatorNotes T11	END
+T13	Location 1248 1262	United Kingdom
+#13	AnnotatorNotes T13	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T14	Location 1874 1880	Mexico
+#14	AnnotatorNotes T14	<latlng>23, -102</latlng> <geoID>3996063 </geoID><pop>112468855</pop>
+T15	Location 2853 2867	United Kingdom
+#15	AnnotatorNotes T15	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T16	Location 3056 3069	United States
+#16	AnnotatorNotes T16	<latlng>39.76, -98.5</latlng> <geoID>6252001 </geoID><pop>310232863</pop>
+T17	Location 3494 3501	Cardiff
+#17	AnnotatorNotes T17	<latlng>51.5, -3.16667</latlng> <geoID>3333241 </geoID><pop>361468</pop>
+T18	Location 3503 3517	United Kingdom
+#18	AnnotatorNotes T18	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T19	Location 3660 3665	Wales
+#19	AnnotatorNotes T19	<latlng>52.5, -3.5</latlng> <geoID>2634895 </geoID><pop>3113150</pop>
+T20	Location 6233 6238	Wales
+#20	AnnotatorNotes T20	<latlng>52.5, -3.5</latlng> <geoID>2634895 </geoID><pop>3113150</pop>
+T21	Location 6511 6516	Wales
+#21	AnnotatorNotes T21	<latlng>52.5, -3.5</latlng> <geoID>2634895 </geoID><pop>3113150</pop>
+T22	Location 8219 8225	London
+#22	AnnotatorNotes T22	<latlng>51.5, -0.16667</latlng> <geoID>2648110 </geoID><pop>7504800</pop>
+T23	Location 8227 8241	United Kingdom
+#23	AnnotatorNotes T23	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T24	Location 11184 11198	United Kingdom
+#24	AnnotatorNotes T24	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T25	Location 11175 11182	Cardiff
+#25	AnnotatorNotes T25	<latlng>51.5, -3.16667</latlng> <geoID>3333241 </geoID><pop>361468</pop>
+T26	Location 16318 16323	Wales
+#26	AnnotatorNotes T26	<latlng>52.5, -3.5</latlng> <geoID>2634895 </geoID><pop>3113150</pop>
+T27	Location 18438 18452	United Kingdom
+#27	AnnotatorNotes T27	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T28	Location 18835 18849	United Kingdom
+#28	AnnotatorNotes T28	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T29	Location 18821 18826	Wales
+#29	AnnotatorNotes T29	<latlng>52.5, -3.5</latlng> <geoID>2634895 </geoID><pop>3113150</pop>
+T30	Location 19450 19455	Wales
+#30	AnnotatorNotes T30	<latlng>52.5, -3.5</latlng> <geoID>2634895 </geoID><pop>3113150</pop>
+T31	Location 20082 20087	Wales
+#31	AnnotatorNotes T31	<latlng>52.5, -3.5</latlng> <geoID>2634895 </geoID><pop>3113150</pop>
+T32	Location 23152 23158;23159 23166	United Kingdom
+#32	AnnotatorNotes T32	<latlng>54.75844, -2.69531</latlng> <geoID>2635167 </geoID><pop>62348447</pop>
+T33	Location 8208 8217	Colindale
+#33	AnnotatorNotes T33	<latlng> 51.59605, -0.2485 </latlng> <geoID> 8394367</geoID>
+T34	Location 17316 17330	United Kingdom
+#34	AnnotatorNotes T34	<latlng> 54.75844, -2.69531 </latlng> <geoID>2635167 </geoID> <pop> 62348477 </pop>
+T35	Protein 23816 23823	Funding
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 27260 27261	.
+#36	AnnotatorNotes T36	END

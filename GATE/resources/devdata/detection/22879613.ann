@@ -1,0 +1,22 @@
+T2	Location 94 99	China
+#2	AnnotatorNotes T2	<latlng>35,105</latlng><geoID>1814991</geoID>
+T16	Location 471 476	China
+#16	AnnotatorNotes T16	<latlng>35,105</latlng><geoID>1814991</geoID>
+T18	Location 1587 1596	Guangdong
+#18	AnnotatorNotes T18	<latlng>23.0,113.0</latlng><pop>104303132</pop><geoID>1809935</geoID>
+T20	Location 1617 1622	China
+#20	AnnotatorNotes T20	<latlng>35,105</latlng><geoID>1814991</geoID>
+T27	Location 3090 3095	China
+#27	AnnotatorNotes T27	<latlng>35,105</latlng><geoID>1814991</geoID>
+T29	Location 3736 3741	China
+#29	AnnotatorNotes T29	<latlng>35,105</latlng><geoID>1814991</geoID>
+T31	Location 3872 3877	China
+#31	AnnotatorNotes T31	<latlng>35,105</latlng><geoID>1814991</geoID>
+T1	Protein 101 105	Shuo
+#1	AnnotatorNotes T1	BEGIN
+T3	Protein 302 307	China
+#3	AnnotatorNotes T3	END
+T4	Protein 4124 4139	ACKNOWLEDGMENTS
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 5287 5289	17
+#5	AnnotatorNotes T5	END

@@ -1,0 +1,86 @@
+﻿Complete Genome Sequence of an Avian-Like H4N8 Swine Influenza
+Virus Discovered in Southern China
+Shuo Su, Wen-bao Qi, Ji-dang Chen, Nan Cao, Wan-jun Zhu, Li-guo Yuan, Heng Wang, and Gui-hong Zhang
+College of Veterinary Medicine, South China Agricultural University, Guangzhou, Guangdong Province, China
+We report here the complete genomic sequence of an avian-like H4N8 swine influenza virus containing an H5N1 avian influenza
+virus segment from swine in southern China. Phylogenetic analyses of the sequences of all eight viral RNA segments demon-
+strated that these are wholly avian influenza viruses of the Asia lineage. To our knowledge, this is the first report of interspecies
+transmission of an avian H4N8 influenza virus to domestic pigs under natural conditions.
+Influenza A virus can infect various hosts, including migratory
+waterfowl, resident birds, horses, swine, dogs, sea mammals,
+and humans. Among these species, swine serve as an important
+component of the human-animal interface and play an important
+role in influenza evolution and ecology (2). Although pigs can be
+simultaneously infected with avian influenza viruses and human
+influenza viruses, the viruses can exchange genes and produce new
+variants, which suggests that pigs have become mixing vessels for
+influenza viruses (3). However, in nature, interspecies transmis-
+sion of avian viruses to pigs is not often documented (1).
+In October 2011, an avian-like H4N8 swine influenza virus was
+isolated from a commercial pig farm during an outbreak of severe
+respiratory diseases in pigs in Guangdong Province, Southern
+China. The strain had hemagglutination (HA) activity, and the
+HA titers ranged from 128 to 256. Subsequently, nucleotide se-
+quences of the eight viral genes were amplified through reverse
+transcriptase PCR (RT-PCR). The amplified products were puri-
+fied and cloned into the pMD18-T vector (TaKaRa) and se-
+quenced with an ABI 3730 XL genome sequencer. Sequences were
+assembled and manually edited to produce the final genome se-
+quence. The strain was identified as subtype H4N8.
+The results showed that the virus was avian-like H4N8 swine
+influenza virus, whose HA gene had the highest homology with
+that of A/avian/Japan/8K10185/2008(H4N6) (99%) and whose
+NA gene had the highest homology with that of A/chicken/
+Guangxi/2117/2010(H3N8) (98%). The NP gene was phyloge-
+netically close to those in H5N1 avian influenza viruses. Accord-
+ingly, the nomenclature for this isolate was A/swine/Guangdong/
+K4/2011(H4N8). Phylogenetic analyses of the sequences of all
+eight viral RNA segments demonstrated that these are wholly
+avian influenza viruses of the Asia lineage. The nucleotide se-
+quence identity between each segment of A/swine/Guangdong/
+K4/2011(H4N8) and its potential progenitor identified in the
+public database varied from 97% to 99%. Finding an NP gene
+fragment ostensibly of avian influenza (H5N1) virus in this strain
+implies that subtype H5N1 viruses may be able to contribute genes
+to virus pathogenic processes in pigs in Southern China.
+The amino acid sequence at the cleavage site in the HA mole-
+cule is PEKASR/GLF, indicating that it is a low-pathogenicity
+avian influenza virus. Analysis of potential N-glycosylation sites of
+HA protein showed that this virus has four potential N-glycosyla-
+tion sites at positions 18, 34, 178, and 310. This virus has Q226 and
+G228 (H3 numbering) in the receptor-binding site in the HA pro-
+tein, which preferentially bind to an avian-origin receptor. The
+analysis of PB2 protein showed that it has 627E and 701D, with no
+substitutions.
+In the past decades, many influenza pandemic strains were
+reported to emerge in Southern China. This is the first report of
+avian-like H4N8 swine influenza virus containing an H5N1 avian
+influenza virus segment in Southern China. This finding further
+confirms that this area is critical for the emergence of novel influ-
+enza A viruses.
+Nucleotide sequence accession numbers. The GenBank ac-
+cession numbers of A/Swine/Guangdong/K4/2011(H4N8) are
+JX151007 to JX151014.
+ACKNOWLEDGMENTS
+This work was supported by the International Sci &Tech Cooperation
+Program (2010DFB33920) and the Modern Agricultural Industry Tech-
+nology System (CARS-36).
+The funding organizations had no role in the study design, data col-
+lection and analysis, ownership of the materials, or preparation of the
+manuscript.
+REFERENCES
+1. Peiris JSM, et al. 2001. Cocirculation of avian H9N2 and contemporary
+"human" H3N2 influenza A viruses in pigs in southeastern China: potential
+for genetic reassortment? J. Virol. 75:9679­9686.
+2. Scholtissek C. 1990/1991. Pigs as "mixing vessels" for the creation of new
+pandemic influenza A viruses. Med. Princ. Pract. 2:65­71.
+3. Vijaykrishna D, et al. 2010. Reassortment of pandemic H1N1/2009 influ-
+enza A virus in swine. Science 328:1529.
+Received 12 June 2012 Accepted 13 June 2012
+Address correspondence to Guihong Zhang, guihongzh@scau.edu.cn.
+S.S. and W.-B.Q. contributed equally to this study.
+Copyright © 2012, American Society for Microbiology. All Rights Reserved.
+doi:10.1128/JVI.01475-12
+GENOME ANNOUNCEMENT
+9542 jvi.asm.org Journal of Virology p. 9542 September 2012 Volume 86 Number 17
+

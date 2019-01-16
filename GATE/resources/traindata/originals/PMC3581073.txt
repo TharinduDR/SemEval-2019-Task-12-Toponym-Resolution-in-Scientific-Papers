@@ -1,0 +1,1286 @@
+American Journal of Epidemiology
+© The Author 2013. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial
+License (http://creativecommons.org/licenses/by-nc/3.0), which permits unrestricted reuse, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+
+Vol. 177, No. 5
+DOI: 10.1093/aje/kws239
+Advance Access publication:
+February 6, 2013
+
+Original Contribution
+Associations of Maternal Weight Gain in Pregnancy With Offspring Cognition
+in Childhood and Adolescence: Findings From the Avon Longitudinal Study
+of Parents and Children
+
+Suzanne H. Gage*, Debbie A. Lawlor, Kate Tilling, and Abigail Fraser
+* Correspondence to Suzanne Gage, School of Social and Community Medicine, Oakfield House, Oakfield Grove, Bristol BS8 2BN,
+United Kingdom (e-mail: suzi.gage@bristol.ac.uk).
+
+Initially submitted February 3, 2012; accepted for publication April 27, 2012.
+
+An association of gestational weight gain (GWG) with offspring cognition has been postulated. We used data
+from the Avon Longitudinal Study of Parents and Children, a United Kingdom prospective cohort (1990 through
+the present) with a median of 10 maternal weight measurements in pregnancy. These were used to allocate
+participants to 2009 Institute of Medicine weight-gain categories and in random effect linear spline models. Outcomes were School Entry Assessment score (age, 4 years; n = 5,832), standardized intelligence quotient
+assessed by Wechsler Intelligence Scale for Children (age, 8 years; n = 5,191), and school final-examination
+results (age, 16 years; n = 7,339). Offspring of women who gained less weight than recommended had a 0.075
+standard deviation lower mean School Entry Assessment score (95% confidence interval: −0.127, −0.023) and
+were less likely to achieve adequate final-examination results (odds ratio = 0.88, 95% confidence interval: 0.78,
+0.99) compared with offspring of women who gained as recommended. GWG in early pregnancy (defined as
+0–18 weeks on the basis of a knot point at 18 weeks) and midpregnancy (defined as 18–28 weeks on the basis
+of knot points at 18 and 28 weeks) was positively associated with School Entry Assessment score and intelligence quotient. GWG in late pregnancy (defined as 28 weeks onward on the basis of a knot point at 28 weeks)
+was positively associated with offspring intelligence quotient and with increased odds of offspring achieving adequate final-examination results in mothers who were overweight prepregnancy. Findings support small positive
+associations between GWG and offspring cognitive development, which may have lasting effects on educational
+attainment up to age 16 years.
+ALSPAC; cognition; gestational weight gain
+
+Abbreviations: ALSPAC, Avon Longitudinal Study of Parents and Children; BMI, body mass index; GCSE, General Certificate of
+Secondary Education; GWG, gestational weight gain; IOM, Institute of Medicine; IQ, intelligence quotient; SEA, School Entry
+Assessment.
+
+In humans, brain development occurs primarily in utero
+and during early infancy, and nutrition during these periods
+may be important for normal development and later cognition. For example, greater dysregulation of second- and
+third-trimester maternal lipid metabolism (indicated by
+higher levels of serum free fatty acids and β-hydroxybutyrate
+in the blood) is inversely correlated with childhood intelligence quotient (IQ) at age 4 years in offspring of diabetic
+mothers (1, 2). In diabetic mothers, acetonuria (a signiﬁer of
+fasting or starvation) during pregnancy is inversely associated
+with offspring intelligence at age 5 years (3). In contrast,
+
+evidence from the Dutch Famine suggests that extreme malnutrition during pregnancy does not affect cognition in offspring at age 19 years (4), though cognitive decline in older
+age in the same population began earlier in those exposed to
+famine in utero than in those who were not exposed (5).
+These scenarios are extreme and it is unclear whether
+less drastic undernutrition that affects gestational weight
+gain (GWG) but does not necessarily cause weight loss is
+related to offspring cognition (6). To the best of our knowledge, only 1 previous study has assessed the relationship
+between GWG and offspring cognition. That study found
+402
+
+Am J Epidemiol. 2013;177(5):402–410
+
+Gestational Weight Gain and Offspring Cognition 403
+
+that offspring of women who gained between 2 and 13 kg
+during pregnancy scored higher on the Raven Colored Progressive Matrices test at age 5 years than did those whose
+mothers gained less than 2 kg or more than 13 kg, even
+when adjusting for the mothers’ prepregnancy weight/height
+ratio (7).
+Our aim was to use repeated measures of gestational
+weight to examine the association of GWG with offspring’s
+School Entry Assessment (SEA) scores at age 4 years, IQ
+at age 8 years, and school ﬁnal-examination results at age
+16 years. We hypothesized that GWG would be positively
+associated with outcomes assessed in early life, and that
+this association may have a long-term impact on school
+attainment at age 16 years (the legal minimum school
+leaving age in the United Kingdom when critical examinations are taken to determine whether a student can continue
+on to higher education) and on future occupation outcomes.
+MATERIALS AND METHODS
+Participants
+
+The Avon Longitudinal Study of Parents and Children
+(ALSPAC) is a prospective, population-based birth cohort
+study that recruited 14,541 pregnant women resident in
+Avon, United Kingdom, with expected delivery dates
+between April 1, 1991, and December 31, 1992 (http://
+www.bristol.ac.uk/alspac/). The study included 13,617
+mother-offspring pairs from singleton livebirths who survived to at least 1 year; only these are considered here. We
+further restricted analyses to women with complete GWG
+data (n = 12,484) and with term deliveries (between 37 and
+44 weeks of gestation, n = 12,449). Figure 1 shows the
+study participant ﬂow. Ethical approval for the study was
+obtained from the ALSPAC Ethics and Law Committee
+and the local research ethics committee.
+Gestational weight gain
+
+Maternal GWG was examined in 2 ways. A categorical
+measure of “less than recommended,” “as recommended,”
+and “more than recommended” was created, reﬂecting the
+2009 Institute of Medicine (IOM) recommendations (6).
+The recommended weight gain varies on the basis of prepregnancy body mass index (BMI), which is measured and
+deﬁned as weight (kg)/height (m)2. The recommended
+absolute gain (weight in late pregnancy before delivery
+minus weight prepregnancy or at the start of pregnancy) is
+12.5–18 kg for women with a BMI of <18.5; 11.5–16 kg
+for women with a BMI of 18.5–24.9; 7–11.5 kg for women
+with a BMI of 25–29.9 and 5–9 kg for women with a BMI
+of ≥30 (6).We classiﬁed women according to these prepregnancy BMI categories to determine whether each subject’s GWG was less than, as, or more than recommended.
+Prepregnancy BMI was based on self-reports of prepregnancy height and weight obtained when women enrolled in
+the study. Additionally, all pregnancy weight measurements
+(median, 10 measurements; interquartile range, 8–11 measurements) were used to develop a linear spline multilevel
+model (with 2 levels, woman and measurement occasion)
+Am J Epidemiol. 2013;177(5):402–410
+
+relating weight to gestational age, with knots at 18 and
+28 weeks. This multilevel model was then used to predict
+each woman’s weight at 0 weeks’ gestation (referred to as
+“prepregnancy weight”) and GWG ( per week) from 0 to
+18 weeks (early pregnancy, based on a knot point at
+18 weeks); from 18 to 28 weeks (midpregnancy, based on
+knot points at 18 and 28 weeks); and from 28 weeks to
+delivery (late pregnancy, based on a knot point at 28
+weeks). Further details of the multilevel model used to
+derive these variables are described by Fraser et al. (8) and
+can be found in the Web Appendix, Web Table 1, and Web
+Figures 1 and 2 available at http://aje.oxfordjournals.org/.
+In particular, there is no evidence that the model predicted
+any better or worse depending on the subject’s weight, and
+thus measurement error in our measures of prepregnancy
+weight and GWG is likely to be nondifferential across
+these exposures. Maternal prepregnancy weight and GWG
+were scaled to be meaningful by examining the variation in
+offspring outcomes per additional 1 kg of maternal prepregnancy weight and per 400 g of gain per week of gestation
+(6). Prepregnancy weight predicted from the spline multilevel model was highly correlated with self-reported prepregnancy weight (Pearson’s r = 0.94).
+
+Outcomes
+
+SEA scores (based on examinations taken at 4 years of
+age) were extracted from Local Educational Authority
+recording. The scores from 0 (low) to 20 (high) are derived
+from the summation of 4 required skills (language, reading,
+writing, and mathematics) and assessed by teachers for
+every child enrolled in the compulsory education system in
+the United Kingdom.
+At 8 years of age, children’s cognitive function was measured in the ALSPAC research clinics using the Wechsler
+Intelligence Scale for Children (9). IQs (mean, 100 (standard deviation, 15) points) are derived from these data. The
+tests comprise 10 subtests (5 verbal and 5 performance
+subtests) that sum to the verbal IQ and performance IQ. All
+tests were administered by clinicians who had earned a
+bachelor’s degree in psychology.
+General Certiﬁcate of Secondary Education (GCSE)
+results were extracted from the National Pupil Database.
+GCSEs are examinations taken by secondary school children aged 16 years (the minimum age at which children are
+legally allowed to ﬁnish formal education in the United
+Kingdom; they are thus the ﬁnal school examinations taken
+by all children in the United Kingdom). Results were coded
+as 3 separate binary measures. The category indicating
+“high achievement” represents a grade of A* (highest possible grade) or A on 9 or more GCSEs. The category indicating “adequate ﬁnal-examination results” represents a
+grade ranging between A* and C (lowest passing grade) on
+5 or more GCSEs, including those in English and mathematics. (This measurement is relevant because it is the
+requirement to continue to higher education and also a
+requirement for many semiskilled jobs.) The category indicating “low achievement” represents no passing grades on
+any GCSEs.
+
+404 Gage et al.
+
+Figure 1. Study participant flow diagram, Avon Longitudinal Study of Parents and Children, Bristol, United Kingdom, 1990–Present. GCSE,
+General Certificate of Secondary Education; GWG, gestational weight gain; IQ, intelligence quotient; SEA, School Entry Assessment.
+
+Other variables
+
+Information on maternal age, mode of delivery (cesarean
+or vaginal delivery), and the child’s sex was obtained from
+obstetrical records. On the basis of questionnaire responses,
+maternal education level was assessed and divided into 5
+categories: 1) Certiﬁed Secondary Education, a lower level
+of attainment than ordinary (O-level) examinations taken at
+age 16 years; 2) vocational training; 3) ordinary (O-level)
+examinations; 4) advanced (A-level) examinations; and
+5) university degree.
+Information on the highest occupation of parental
+ﬁgures in the household was recorded from questionnaire
+responses collected in late pregnancy (≥32 weeks’ gestation) and was used to allocate the children to family social
+class groups using categories deﬁned in the 1991 British
+Standard Occupational Classiﬁcation system as follows: I,
+professional occupations; II, managerial and technical
+occupations; IIIN, skilled nonmanual occupations; IIIM,
+skilled manual occupations; IV, partly skilled occupations;
+V, unskilled occupations (10).
+Information on parity and on maternal smoking in pregnancy was also obtained from questionnaire responses.
+Information on maternal smoking was grouped as follows:
+1) never smoked; 2) smoked before pregnancy or in the
+ﬁrst trimester and then stopped; 3) smoked throughout
+pregnancy.
+Statistical analysis
+
+Both the SEA scores and IQs were standardized (each
+value was divided by its standard deviation) to allow direct
+comparison. Multivariable logistic and linear regression
+models were used to assess the associations of GWG (using
+
+IOM categories and estimates from the multilevel model
+described above and in the Web Appendix) with offspring
+outcomes. Because of the nonrarity of the outcome we
+have not assumed that the resulting odds ratios are indicative of risk ratios but describe them throughout as odds
+ratios. Furthermore, we repeated these analyses by using
+Poisson regression. Analyses were conducted in STATA,
+version 11.0, software (StataCorp LP, College Station,
+Texas).
+The IOM analysis included the following models. Model
+1 was adjusted for gestational age, maternal age, age at
+outcome assessment, and sex. Model 2 was adjusted for the
+confounders listed for model 1 as well as prepregnancy
+BMI, maternal smoking during pregnancy, parity, mode of
+delivery, and maternal education. We consider model 2 to
+be the main model. We also explored potential mediation
+by birth weight to explore whether fetal growth is driving
+any association and by SEA scores (for IQ and ﬁnalexamination results), both of which are reported in Web
+Tables 2 and 3.
+Models in which GWG was expressed using estimates
+from the multilevel model were the same, except that we
+also adjusted for prepregnancy weight and weight gain
+occurring earlier in pregnancy. Moreover, in these models
+we did not adjust for gestational age as this is accounted
+for in the estimates from the multilevel models. We tested
+for possible interactions between being overweight/obese
+before pregnancy (indicated by a BMI of ≥25) and GWG
+in their association with outcomes.
+RESULTS
+
+Characteristics of women included or excluded from
+analyses because of missing confounder or outcome data
+Am J Epidemiol. 2013;177(5):402–410
+
+Gestational Weight Gain and Offspring Cognition 405
+
+are presented in Web Table 4. Although some statistical
+evidence of differences was found, the magnitude of these
+differences was generally small. Table 1 shows the characteristics of mothers and offspring according to whether the
+mothers gained less than, more than, or as recommended
+weight in pregnancy. Women who gained less than recommended were slightly older and were more likely to smoke
+in pregnancy, to be from a manual social class, and to be
+multiparous than women who gained as recommended.
+Women who gained less than recommended also had
+babies with a lower mean birth weight. Women who gained
+more than recommended were slightly younger, were less
+likely to smoke in pregnancy, and were less educated compared with women who gained as recommended. They
+were also more likely to be nulliparous, to have had a
+cesarean delivery, and to have had heavier offspring.
+Table 2 shows SEA scores at age 4 years and IQs at age 8
+years by ﬁnal-examination results at age 16 years. Children
+who achieved adequate ﬁnal-examination results had higher
+mean SEA scores compared with children who did not.
+Table 3 shows the multivariable associations of IOM categories of GWG with offspring cognitive outcomes. Offspring of women who gained less than recommended had
+lower mean SEA scores, even when adjusting for potential
+confounders (model 2). These children were also less likely
+to achieve adequate ﬁnal-examination results at age 16
+years in the basic and confounder-adjusted models (models
+1 and 2). No association was found between less than recommended GWG and offspring IQ. Adjustment for birth
+weight did not attenuate the association with SEA scores
+but did slightly attenuate the relationship between GWG
+and ﬁnal-examination results. Adjustment for SEA scores
+did not result in further attenuation (see Web Table 2).
+There was no strong evidence for associations of more
+than recommended GWG with SEA scores or IQs. More
+than recommended GWG was associated with decreased
+odds of obtaining adequate ﬁnal-examination results in the
+unadjusted model (model 1), but this attenuated to the null
+when adjusting for confounders. Results of the equivalent
+analyses for “high achievement” (9 or more GCSE grades
+of A* or A) and “low achievement” (0 passing GCSE
+grades) are presented in Web Table 5. There was no strong
+evidence of associations between IOM categories of GWG
+and high achievement, but both less than recommended
+GWG and more than recommended GWG were associated
+with greater odds of low GCSE achievement.
+Table 4 shows the associations of prepregnancy weight
+and GWG with offspring cognitive outcomes by using
+the estimates from the multilevel model. There was no
+evidence of an interaction between prepregnancy overweight/obesity and GWG in relation to SEA scores and IQs
+(all P values for interaction > 0.14). There was evidence of
+an interaction between prepregnancy overweight/obesity
+and GWG in relation to ﬁnal-examination results at age 16
+years (all P values for interaction < 0.004), and we have
+presented results stratiﬁed by prepregnancy overweight/
+obesity for this outcome.
+Prepregnancy weight was inversely associated with SEA
+scores, IQs, and the odds of achieving adequate ﬁnalexamination results at age 16 years in model 1. These
+Am J Epidemiol. 2013;177(5):402–410
+
+associations remained largely unchanged with adjustment
+for potential confounders (model 2). Because thinner
+women gain more during pregnancy (6), we also repeated
+the analysis for prepregnancy weight while adjusting for all
+GWG variables. Results (available upon request) were
+unchanged from those presented. Adjustment for birth
+weight did not importantly change the associations, but
+adjustment for SEA scores attenuated the association of
+prepregnancy weight with IQs and ﬁnal-examination results
+(see Web Table 3 for all mediation analyses).
+GWG in all 3 periods of pregnancy was positively associated with IQs in both confounder-adjusted models
+(models 1 and 2). GWG in all 3 periods was positively
+associated with SEA scores in model 1. The associations of
+early pregnancy and midpregnancy GWG with SEA scores
+persisted in the fully adjusted model (model 2) and were of
+similar magnitude to associations with IQs. The association
+of later pregnancy GWG with SEA scores was attenuated
+toward the null in the fully adjusted confounder model
+(model 2). Adjustment for birth weight slightly attenuated
+models for SEA scores and IQs (Web Table 3).
+In all models, GWG in early pregnancy was negatively
+associated with obtaining adequate ﬁnal-examination
+results at age 16 years for offspring of women who were
+not overweight/obese prepregnancy, though conﬁdence
+intervals included the null value. In contrast, in overweight
+women, GWG in early pregnancy was positively associated
+with the odds of achieving adequate ﬁnal-examination results
+in all models. In midpregnancy, there was no evidence of
+an association between GWG and ﬁnal-examination results
+in offspring of women with a normal BMI (18.5–24.9), but
+in overweight/obese women there was a strong positive association in model 1, which attenuated when adjusted for
+confounders (model 2). In late pregnancy, in women who
+were not overweight/obese, there was a positive association
+in model 1, which attenuated to the null when confounders
+(model 2) were included in the models. A strong positive
+association between GWG and ﬁnal-examination results
+was found in overweight/obese women and remained when
+adjusting for confounders (model 2). Mediator adjustment
+did not attenuate the relationship in early or late pregnancy.
+In midpregnancy, birth weight further attenuated the relationship, but SEA scores did not.
+When analyses were restricted to mother-offspring pairs
+who had all outcomes measured (n = 3,340), similar results
+to those presented here were obtained, although conﬁdence
+intervals increased in width as expected (see Web Tables 6
+and 7). When analyses were restricted to women without
+diabetes in pregnancy (existing or gestational diabetes,
+n = 36 excluded), point estimates for SEA scores and ﬁnalexamination results were comparable to those presented.
+However, for IQs, point estimates became more pronounced. For example, in IOM model 3 (adjusting for confounders plus birth weight), the point estimate increased
+from 0.066 to 0.205 for those who gained more than recommended. Replacing maternal education with household
+social class in the analyses did not change results. Finally,
+when analyses for ﬁnal-examination results were repeated
+by using Poisson regression (Web Tables 8 and 9), results
+were in the same direction as those presented here but point
+
+406 Gage et al.
+
+Table 1. Participant Characteristics by Institute of Medicine Category, Avon Longitudinal Study of Parents and Children, Bristol, United Kingdom, 1990–Present
+Less Than Recommended
+GWG (n = 2,946)
+Mean (SD)
+
+Maternal age at birth, years
+
+%
+
+P Valuea
+No.
+
+29.0 (4.9)
+
+As Recommended
+GWG (n = 3,323)
+Mean (SD)
+
+0.05
+
+%
+
+More Than Recommended
+GWG (n = 2,384)
+No.
+
+28.7 (4.7)
+
+Mean (SD)
+
+%
+
+P Valuea
+
+No.
+
+27.9 (4.6)
+
+<0.001
+
+Did not smoke at all during pregnancy
+
+76
+
+2,241
+
+<0.001
+
+81
+
+2,678
+
+77
+
+1,841
+
+0.001
+
+Maternal education—no higher education
+
+83
+
+2,452
+
+0.81
+
+84
+
+2,807
+
+89
+
+2,124
+
+<0.001
+
+Manual social class
+
+19
+
+559
+
+0.35
+
+16
+
+527
+
+18
+
+437
+
+No previous pregnancies
+
+40
+
+1,177
+
+47
+
+1,573
+
+54
+
+1,297
+
+9
+
+267
+
+Cesarean delivery
+
+<0.001
+
+0.35
+<0.001
+
+0.20
+
+10 (333)
+
+13 (309)
+
+0.001
+
+58.5 (11.8)
+
+<0.001
+
+59.6 (11.1)
+
+65.5 (13.1)
+
+<0.001
+
+0–18 weeksb
+
+0.23 (0.15)
+
+<0.001
+
+0.32 (0.15)
+
+0.40 (0.19)
+
+<0.001
+
+18–28 weeksb
+
+0.42 (0.13)
+
+<0.001
+
+0.55 (0.13)
+
+0.68 (0.16)
+
+<0.001
+
+After 28 weeksb
+
+0.32 (0.14)
+
+<0.001
+
+0.48 (0.14)
+
+0.65 (0.18)
+
+Prepregnancy weight, kg
+GWG, kg
+
+Offspring sex, males
+
+51
+
+Gestational age, weeks
+Birth weight, g
+SEA score
+IQ at age 8 years
+Adequate final-examination results
+
+c
+
+1,492
+
+0.69
+
+51
+
+1,700
+
+<0.001
+51
+
+1,211
+
+0.79
+
+39.6 (1.3)
+
+<0.001
+
+39.8 (1.3)
+
+39.9 (1.3)
+
+0.003
+
+3,333.4 (445.4)
+
+<0.001
+
+3,511.4 (445.2)
+
+3,639.6 (481.1)
+
+<0.001
+
+13.0 (3.2)
+
+0.004
+
+13.3 (3.0)
+
+13.1 (3.2)
+
+0.098
+
+104.8 (17.1)
+
+0.22
+
+105.4 (16.0)
+
+105.0 (16.2)
+
+0.47
+
+55
+
+1,366
+
+59
+
+1,652
+
+54
+
+1,109
+
+0.001
+< 0.001
+
+Prepregnancy BMId categories
+
+Am J Epidemiol. 2013;177(5):402–410
+
+<18.5
+
+47.9
+
+488
+
+41.5
+
+422
+
+10.6
+
+108
+
+18.5–24.9
+
+36.9
+
+2,133
+
+<0.001
+
+40.9
+
+2,364
+
+22.2
+
+1281
+
+25–29.9
+
+15.7
+
+185
+
+31.4
+
+370
+
+52.9
+
+622
+
+≥30
+
+20.6
+
+140
+
+24.6
+
+167
+
+54.8
+
+680
+
+Abbreviations: BMI, body mass index; GWG, gestational weight gain; IQ, intelligence quotient; SD, standard deviation; SEA, School Entry Assessment.
+Compared with the category of “as recommended” GWG.
+b
+GWG categories are based on knot points.
+c
+“Adequate final-examination results” indicates a passing grade on 5 or more General Certificate of Secondary Education examinations, typically taken by students in the United
+Kingdom at age 16 years.
+d
+BMI is measured and defined as weight (kg)/height (m)2.
+a
+
+Gestational Weight Gain and Offspring Cognition 407
+
+Table 2. Mean Values (Standard Deviation) of SEA Scores and IQ by Achievement of Adequate FinalExamination Results at Age 16 Years, Avon Longitudinal Study of Parents and Children, Bristol, United Kingdom,
+1990–Present
+Adequate Final-Examination Resultsa
+Yes (n = 3,212) (44%)
+
+SEA scores
+IQ
+
+P Valueb
+
+No (n = 4,127) (56%)
+
+Mean (SD)
+
+No.
+
+14.24 (2.75)
+
+2,926
+
+11.76 (3.01)
+
+Mean (SD)
+
+2,431
+
+No.
+
+<0.001
+
+109.65 (14.03)
+
+3,566
+
+94.28 (15.31)
+
+2,172
+
+<0.001
+
+Abbreviations: IQ, intelligence quotient; SD, standard deviation; SEA, School Entry Assessment.
+“Adequate final-examination results” indicates a passing grade on 5 or more General Certificate of Secondary
+Education examinations, typically taken by students in the United Kingdom at age 16 years.
+b
+P value based on 2-tailed Student’s t test.
+a
+
+estimates were closer to the null value. This is as expected
+because odds ratios will overestimate risk when an outcome
+is not rare.
+DISCUSSION
+
+In this contemporary birth cohort, we found that women
+who gained less weight during pregnancy than recommended
+by the 2009 IOM guidelines had offspring who achieved
+lower SEA scores at age 4 years and who were less likely
+to achieve adequate ﬁnal-examination results at age 16
+years, even when adjusting for potential confounders
+including maternal education. Offspring of women who
+gained more than recommended also had poorer ﬁnalexamination results at age 16 years. Examining the associations in more detail revealed that higher prepregnancy
+weight was associated with poorer outcomes for SEA scores
+at age 4 years, IQ at age 8 years, and ﬁnal-examination
+results at age 16 years, and that greater GWG throughout
+
+pregnancy was generally associated with better cognitive
+outcomes in offspring. Birth weight seemed to partially
+mediate associations between GWG and outcomes, as did
+the association of GWG with SEA scores in relation to
+later outcomes (IQs and ﬁnal-examination results). Associations in most cases were weakened but not completely
+attenuated. The magnitudes of the associations that we have
+observed are generally modest in size and are unlikely to
+have major importance for individuals. However, at a population level modest shifts in the distribution of educational
+attainment could be important. Any potential beneﬁt to IQ
+and educational attainment that might be achieved from
+increasing GWG would need to be considered alongside
+possible adverse effects on offspring adiposity and cardiovascular risk.
+Results of our analysis using IOM categories of GWG
+are broadly consistent with those from a previous study
+(n = 2,590) that found cognitive scores to be higher in offspring of mothers who gained between 2 and 13 kg during
+
+Table 3. Associations of Institute of Medicine Categories of Maternal GWG With Offspring Cognition, Avon Longitudinal Study of Parents and
+Children, Bristol, United Kingdom, 1990–Present
+Less Than Recommended GWG
+Outcome
+
+Model
+
+Mean SD
+Difference
+
+Odds
+Ratio
+
+More Than Recommended GWG
+
+95% CI
+
+As Recommended
+GWG (Referent)
+
+Mean SD
+Difference
+
+Odds
+Ratio
+
+95% CI
+
+SEA scores
+(n = 5,832)
+
+1b
+c
+2
+
+−0.100
+−0.075
+
+−0.155, −0.046
+−0.127, −0.023
+
+0
+0
+
+−0.230
+0.011
+
+−0.080, 0.033
+−0.045, 0.067
+
+IQ at age 8 yearsa
+(n = 5,191)
+
+1b
+2c
+
+−0.045
+−0.030
+
+−0.108, 0.017
+−0.089, 0.029
+
+0
+0
+
+0.017
+0.066
+
+−0.05, 0.083
+−0.002, 0.131
+
+Adequate finalexamination resultsd
+(n = 7,339)
+
+1b
+2c
+
+a
+
+0.84
+0.88
+
+0.75, 0.94
+0.78, 0.99
+
+1
+1
+
+0.89
+1.00
+
+0.79, 1.00
+0.88, 1.14
+
+Abbreviations: BMI, body mass index; CI, confidence interval; GWG, gestational weight gain; IQ, intelligence quotient; SD, standard
+deviation; SEA, School Entry Assessment.
+a
+Standardized. SEA, SD = 3.26; IQ, SD = 16.47.
+b
+Model 1—adjusted for gestational age, maternal age, age at outcome assessment, and sex.
+c
+Model 2—as model 1, plus additional adjustment for prepregnancy BMI (measured and defined as weight (kg)/height (m)2), parity, maternal
+smoking, maternal education, and mode of delivery (vaginal or cesarean).
+d
+“Adequate final-examination results” indicates a passing grade on 5 or more General Certificate of Secondary Education examinations,
+typically taken by students in the United Kingdom at age 16 years.
+
+Am J Epidemiol. 2013;177(5):402–410
+
+408 Gage et al.
+
+Table 4. Multivariable Associations of Prepregnancy Weight and GWG With Offspring Cognition, Avon Longitudinal Study of Parents and Children, Bristol, United Kingdom, 1990–Present
+
+Outcome
+
+Mean SD
+Difference
+per1 kg
+
+Odds
+Ratio
+
+GWG During
+Midpregnancy
+(18–28 Weeksa)
+
+GWG During
+Early Pregnancy
+(0–18 Weeksa)
+
+Prepregnancy
+Weight
+
+GWG During
+Late Pregnancy
+(28 Weeks and Latera)
+
+95% CI
+
+Mean SD
+Difference
+per 400 g/week
+
+95% CI
+
+Mean SD
+Difference
+per 400 g/week
+
+95% CI
+
+Mean SD
+Difference
+per 400 g/week
+
+95%CI
+
+SEA scoresb (n = 5,832)
+Model 1c
+
+−0.006
+
+−0.008, −0.004
+
+0.128
+
+0.760, 0.180
+
+0.167
+
+0.114, 0.220
+
+0.122
+
+0.075, 0.170
+
+Model 2d
+
+−0.004
+
+−0.005, −0.002
+
+0.072
+
+0.019, 0.124
+
+0.077
+
+0.017, 0.136
+
+0.020
+
+−0.041, 0.081
+
+Model 1c
+
+−0.006
+
+−0.009, −0.004
+
+0.126
+
+0.064, 0.188
+
+0.15
+
+0.084, 0.211
+
+0.143
+
+0.087, 0.199
+
+Model 2d
+
+−0.004
+
+−0.006, −0.002
+
+0.078
+
+0.017, 0.139
+
+0.072
+
+0.004, 0.139
+
+0.070
+
+0.000, 0.139
+
+BMIe<25
+
+BMIe≥25
+
+BMIe<25
+
+BMIe≥25
+
+BMIe<25
+
+BMIe≥25
+
+IQ at age 8 yearsb
+(n = 5,191)
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Adequate finalexamination
+resultsf (n = 7,339)
+Model 1c
+
+0.98
+
+0.98, 0.99
+
+0.89
+
+0.78, 1.02
+
+1.55
+
+1.27, 1.88
+
+1.02
+
+0.89, 1.16
+
+1.60
+
+1.32, 1.96
+
+1.13
+
+1.01, 1.27
+
+1.59
+
+1.33, 1.90
+
+Model 2d
+
+0.99
+
+0.98, 0.99
+
+0.89
+
+0.77, 1.03
+
+1.37
+
+1.11, 1.70
+
+1.03
+
+0.87, 1.20
+
+1.14
+
+0.89, 1.47
+
+1.00
+
+0.85, 1.17
+
+1.48
+
+1.15, 1.92
+
+Am J Epidemiol. 2013;177(5):402–410
+
+Abbreviations: BMI, body mass index; CI, confidence interval; GWG, gestational weight gain; IQ, intelligence quotient; OR, odds ratio; SD, standard deviation; SEA, School Entry
+Assessment.
+a
+Gestational age categories based on knot points.
+b
+Standardized. SEA, SD = 3.26; IQ, SD = 16.47.
+c
+Model 1—adjusted for gestational age, maternal age, age at outcome assessment, and sex.
+d
+Model 2—as model 2, plus additional adjustment for prepregnancy weight, GWG in previous period, parity, maternal smoking, maternal education, and mode of delivery (vaginal or
+cesarean).
+e
+BMI is measured and defined as weight (kg)/height (m)2.
+f
+“Adequate final-examination results” indicates a passing grade on 5 or more General Certificate of Secondary Education examinations, typically taken by students in the United
+Kingdom at age 16 years.
+
+Gestational Weight Gain and Offspring Cognition 409
+
+gestation than in those whose mothers gained less than
+2 kg or more than 13 kg (7). Our study is considerably larger,
+and we were able to examine associations in greater detail
+with repeated measurements of weight during pregnancy.
+GWG is a complex measure that includes maternal fat
+deposition, volume expansion, placenta, amniotic ﬂuid, and
+fetus. In terms of plausible mechanisms by which GWG
+might inﬂuence the cognitive and educational outcomes of
+offspring, several of these components might be involved.
+Greater maternal fat deposition might result in greater delivery of glucose and fatty acids to the developing fetus,
+which in turn might inﬂuence fetal brain development.
+Fetal size may reﬂect particular environmental exposures
+affecting growth in general and brain development in particular. We were able to examine some of these in our more
+detailed analysis. We did not ﬁnd clear evidence that GWG
+in the ﬁrst 18 weeks of pregnancy, when the contribution
+of maternal fat deposition to overall GWG is greatest, is
+speciﬁcally associated with cognitive outcomes, suggesting
+that maternal fat deposition may not be the main driver of
+associations. In our study, birth weight partially mediated
+associations of GWG with offspring cognitive outcomes,
+suggesting that fetal growth is not the main driver of associations. However, adjusting for birth weight is not simple,
+because unless all confounders of the relationship are included,
+conditioning on a mediator can result in collider bias (11, 12).
+The analysis adjusting for birth weight (Web Tables 2 and 3)
+should be interpreted bearing this in mind (13).
+Our ﬁndings may reﬂect the association of fetal growth
+with childhood cognition. Alternatively, the observed association of birth weight with IQ and, here of GWG with cognitive outcomes could be attributable to residual confounding
+and not reﬂections of a direct intrauterine effect (14). In particular, it may be that problems during pregnancy such as
+preeclampsia could result in changes in GWG, rendering it
+not a completely modiﬁable risk factor, as placental problems during pregnancy would cause changes in both GWG
+and offspring cognition. However, even if this is the case
+and the association is a product of such residual confounding
+and not causal, monitoring of GWG may still be important.
+Our ﬁnding that prepregnancy weight is inversely associated with offspring cognition is hard to explain given the
+postulated mechanism suggesting that adequate supply of
+nourishment is necessary for healthy fetal brain development. According to this mechanism we would expect both
+prepregnancy weight and GWG, particularly in early pregnancy, to be positively associated with offspring cognition
+across their distribution in a general, healthy population.
+One possibility is that smoking and/or socioeconomic position confounds the association of prepregnancy weight with
+offspring cognition; however, we adjusted for both of these
+factors in our analysis. Another possibility is that weight
+acquisition in pregnancy is somehow different from prepregnancy weight in relation to offspring IQ (though not to
+other outcomes) (8, 15). Finally, because thinner women
+gain more in pregnancy (6) our estimate for prepregnancy
+weight could be biased. To test this possibility, we repeated
+the analysis for prepregnancy weight while adjusting for
+GWG in all periods. Results were unchanged from those
+presented (results available on request).
+Am J Epidemiol. 2013;177(5):402–410
+
+Study strengths and limitations
+
+To our knowledge, this is the ﬁrst general population
+study with repeat measurements of weight in pregnancy to
+examine the association of GWG with offspring cognition,
+an area of research that was highlighted as important in the
+IOM report (6). We were able to examine cognitive outcomes across childhood from age 4–16 years, including
+educational attainment, which has an important impact on
+future health and wellbeing. Our sample size is relatively
+large and we were able to adjust for a wide range of potential
+confounding factors, including maternal education, though
+because our study is observational, residual confounding
+cannot be ruled out. Replicating these ﬁndings in additional
+studies with similar detailed measurements of gestational
+weight would be valuable. Sibling studies, which inherently
+control for shared genetic and environmental factors and
+have been used previously to examine GWG in relation to
+offspring BMI in later life (16), may be useful to explore
+GWG’s association with offspring cognition.
+Not all mother-offspring pairs were included in analyses
+because of missing data, mostly outcome data. However, this
+should bias the results only if missingness depends on the
+outcome, conditional on all the variables in the model. The
+general similarity of ﬁndings across the 3 outcomes (which
+were available on slightly different groups) suggests that our
+associations are not markedly biased by missing data.
+Conclusion
+
+Prepregnancy weight is inversely associated with childhood
+IQ and school achievement; however, GWG is positively
+associated with outcomes, even when controlling for available
+potential confounders. Although previous ﬁndings based on
+the same cohort suggest that less than recommended GWG
+(by 2009 IOM guidelines) is associated with a healthier cardiovascular proﬁle in both mothers (15) and offspring (8),
+this study emphasizes the need to recognize that deﬁning
+optimal GWG is complex with competing risks at play.
+
+ACKNOWLEDGMENTS
+
+Author afﬁliations: Centre for Causal Analyses in Translational Epidemiology, School of Social and Community
+Medicine, Bristol, United Kingdom (Suzanne H. Gage,
+Debbie A. Lawlor, Abigail Fraser); and School of Social
+and Community Medicine, University of Bristol, Bristol,
+United Kingdom (Kate Tilling).
+The work presented in this paper was funded by grants
+from the Wellcome Trust (grant 087997) and the National
+Institute of Diabetes and Digestive and Kidney Diseases,
+National Institutes of Health (grant R01 DK077659). A.F.
+is funded by a United Kingdom Medical Research Council
+research fellowship (grant 0701594). The United Kingdom
+Medical Research Council (grant 74882), the Wellcome
+Trust (grant 076467), and the University of Bristol provide
+core funding support for ALSPAC. The United Kingdom
+Medical Research Council and the University of Bristol
+provide core funding for the Medical Research Council
+
+410 Gage et al.
+
+Centre for Causal Analyses in Translational Epidemiology.
+The latter funds S.G.’s studentship (grant SD1708).
+The views expressed in this paper are those of the
+authors and not necessarily those of any funding body or
+others whose support is acknowledged. The funders had no
+role in study design, data collection and analysis, decision
+to publish, or preparation of the manuscript.
+Conﬂict of interest: none declared.
+
+REFERENCES
+1. Rizzo T, Metzger BE, Burns WJ, et al. Correlations between
+antepartum maternal metabolism and child intelligence.
+N Engl J Med. 1991;325(13):911–916.
+2. Silverman BL, Rizzo T, Green OC, et al. Long-term
+prospective evaluation of offspring of diabetic mothers.
+Diabetes. 1991;40(2):121–125.
+3. Stehbens JA, Baker GL, Kitchell M. Outcome at ages 1, 3,
+and 5 years of children born to diabetic women. Am J Obstet
+Gynecol. 1977;127(4):408–413.
+4. Stein Z, Susser M, Saenger G, et al. Nutrition and mental
+performance. Science. 1972;178(62):708–713.
+5. de Rooij SR, Wouters H, Yonker JE, et al. Prenatal
+undernutrition and cognitive function in late adulthood. Proc
+Natl Acad Sci U S A. 2010;107(39):16881–16886.
+6. Rasmussen KM, Yaktine AL. Weight Gain During
+Pregnancy: Reexamining the Guidelines. Washington, DC:
+Institute of Medicine; 2009.
+7. Tavris DR, Read JA. Effect of maternal weight gain on fetal,
+infant, and childhood death and on cognitive development.
+Obstet Gynecol. 1982;60(6):689–694.
+
+8. Fraser A, Tilling K, Macdonald-Wallis C, et al. Association
+of maternal weight gain in pregnancy with offspring obesity
+and metabolic and vascular traits in childhood. Circulation.
+2010;121(23):2557–2564.
+9. Wechsler D, Golombok J, Rust J. Wechsler Intelligence Scale
+for Children. Sidcup, United Kingdom: The Psychological
+Corporation; 1992.
+10. Ofﬁce of Population Censuses and Surveys. Standard
+Occupational Classiﬁcation. London, England: Her Majesty’s
+Stationery Ofﬁce; 1991.
+11. Hernandez-Diaz S, Schisterman EF, Hernan MA. The birth
+weight "paradox" uncovered? Am J Epidemiol. 2006;
+164(11):1115–1120.
+12. Hernan MA, Hernandez-Diaz S, Werler MM, et al. Causal
+knowledge as a prerequisite for confounding evaluation: an
+application to birth defects epidemiology. Am J Epidemiol.
+2002;155(2):176–184.
+13. Adams M, Andersen AM, Andersen PK, et al. Sostrup
+statement on low birthweight. Int J Epidemiol. 2003;
+32(5):884–885.
+14. Yang S, Lynch J, Susser ES, et al. Birth weight and cognitive
+ability in childhood among siblings and nonsiblings.
+Pediatrics. 2008;122(2):e350–e358.
+15. Fraser A, Tilling K, Macdonald-Wallis C, et al.
+Associations of gestational weight gain with maternal body
+mass index, waist circumference, and blood pressure
+measured 16 y after pregnancy: the Avon Longitudinal Study
+of Parents and Children (ALSPAC). Am J Clin Nutr. 2011;
+93(6):1285–1292.
+16. Lawlor DA, Lichtenstein P, Fraser A, et al. Does maternal
+weight gain in pregnancy have long-term effects on offspring
+adiposity? A sibling study in a prospective cohort of 146,894
+men from 136,050 families. Am J Clin Nutr. 2011;94(1):
+142–148.
+
+Am J Epidemiol. 2013;177(5):402–410
+

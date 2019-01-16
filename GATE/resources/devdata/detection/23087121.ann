@@ -1,0 +1,22 @@
+T3	Location 109 114	China
+#3	AnnotatorNotes T3	<latlng>35,105</latlng><geoID>1814991</geoID>
+T75	Protein 116 119	Min
+#75	AnnotatorNotes T75	BEGIN
+T76	Protein 452 458	Chinab
+#76	AnnotatorNotes T76	END
+T27	Location 1653 1658	China
+#27	AnnotatorNotes T27	<latlng>35,105</latlng><geoID>1814991</geoID>
+T28	Location 1713 1718	China
+#28	AnnotatorNotes T28	<latlng>35,105</latlng><geoID>1814991</geoID>
+T29	Location 1720 1727	Vietnam
+#29	AnnotatorNotes T29	<latlng>16,106</latlng><geoID>1562822</geoID>
+T30	Location 1729 1733	Laos
+#30	AnnotatorNotes T30	<latlng>18,105</latlng><geoID>1655842</geoID>
+T32	Location 2086 2093	Jiangsu
+#32	AnnotatorNotes T32	<latlng>33.0,120.0</latlng><pop>76770000</pop><geoID>1806260</geoID>
+T33	Location 2114 2119	China
+#33	AnnotatorNotes T33	<latlng>35,105</latlng><geoID>1814991</geoID>
+T6	Protein 4626 4641	ACKNOWLEDGMENTS
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 7051 7059	Virology
+#7	AnnotatorNotes T7	END

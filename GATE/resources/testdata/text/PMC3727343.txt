@@ -1,0 +1,1296 @@
+American Journal of Epidemiology
+© The Author 2013. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial
+License (http://creativecommons.org/licenses/by-nc/3.0), which permits unrestricted reuse, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+
+Vol. 178, No. 3
+DOI: 10.1093/aje/kwt003
+Advance Access publication:
+June 20, 2013
+
+Original Contribution
+Area Deprivation Across the Life Course and Physical Capability in Midlife:
+Findings From the 1946 British Birth Cohort
+
+Emily T. Murray*, Yoav Ben-Shlomo, Kate Tilling, Humphrey Southall, Paula Aucott, Diana Kuh,
+and Rebecca Hardy
+* Correspondence to Dr. Emily T. Murray, MRC Unit for Lifelong Health and Ageing, University College and Royal Free Medical School,
+33 Bedford Place, London WC1B 5JU, United Kingdom (e-mail: Emily.taylor.murray@gmail.com).
+
+Initially submitted June 1, 2012; accepted for publication January 8, 2013.
+
+Physical capability in later life is influenced by factors occurring across the life course, yet exposures to area
+conditions have only been examined cross-sectionally. Data from the National Survey of Health and Development,
+a longitudinal study of a 1946 British birth cohort, were used to estimate associations of area deprivation (defined
+as percentage of employed people working in partly skilled or unskilled occupations) at ages 4, 26, and 53 years
+(residential addresses linked to census data in 1950, 1972, and 1999) with 3 measures of physical capability at
+age 53 years: grip strength, standing balance, and chair-rise time. Cross-classified multilevel models with individuals nested within areas at the 3 ages showed that models assessing a single time point underestimate total area
+contributions to physical capability. For balance and chair-rise performance, associations with area deprivation in
+midlife were robust to adjustment for individual socioeconomic position and prior area deprivation (mean change
+for a 1-standard-deviation increase: balance, −7.4% (95% confidence interval (CI): −12.8, −2.8); chair rise, 2.1%
+(95% CI: −0.1, 4.3)). In addition, area deprivation in childhood was related to balance after adjustment for childhood socioeconomic position (−5.1%, 95% CI: −8.7, −1.6). Interventions aimed at reducing midlife disparities in
+physical capability should target the socioeconomic environment of individuals—for standing balance, as early as
+childhood.
+geography; Great Britain; health status disparities; longitudinal studies; multilevel analysis; physical endurance;
+residence characteristics; socioeconomic factors
+
+Abbreviations: CI, confidence interval; GIS, geographic information system; SAHSU, Small Area Health Statistics Unit; SD, standard
+deviation; SEP, socioeconomic position.
+
+It has consistently been shown that major disability
+affects older people’s ability to live independently (1). The
+treatment and management of disability is expensive (2); for
+example, the United Kingdom Treasury has estimated that
+approximately £33.3 billion (approximately $54.4 billion)
+was spent on sickness and disability pensions in 2012 (3).
+Thus, identifying factors that could delay or prevent the
+onset of disability could have a large impact on the social and
+economic costs of caring for an aging population.
+There is growing evidence that people who live in more
+deprived areas in later life also have worse physical health,
+when measured by self-reported functional limitations (4),
+
+mobility disability (5), and general disability (6, 7). Objective
+measures of physical capability, such as grip strength, chairrise performance, and balance (8), have been shown to be
+predictors of disability (9) but have not been considered in
+relation to area characteristics. Physical capability in midlife
+has been shown to be a consequence of factors that exert an
+inﬂuence across the life course, such as growth in childhood
+and adult body size (10, 11). Hence, the socioeconomic environment in which people live earlier in life may be associated with physical capability in later life. In addition, the
+residential mobility of individuals and socioeconomic changes in areas over time means that analyses based on place of
+441
+
+Am J Epidemiol. 2013;178(3):441–450
+
+442 Murray et al.
+
+residence at a single time point could produce mis-estimation of the effect of area. Establishing the portion of the life
+course in which residence area makes the most difference to
+physical capability could also help focus interventions on
+those area characteristics that affect speciﬁc age groups.
+Therefore, in this study, we linked prospectively collected
+residential addresses of participants in the Medical Research
+Council’s National Survey of Health and Development at
+ages 4, 26, and 53 years to census area socioeconomic data to
+investigate when during the life course area deprivation was
+associated with objective measures of physical capability in
+midlife. We further examined whether these relationships were
+independent of individual life-course socioeconomic position
+(SEP).
+MATERIALS AND METHODS
+Study population
+
+The National Survey of Health and Development is an
+ongoing study of a socioeconomically stratiﬁed sample of
+5,362 singleton births that took place in England, Scotland,
+and Wales during 1 week in March 1946. Cohort members
+have been followed up 22 times from birth to age 53 years,
+and a wealth of data has been collected throughout their
+lives on their social circumstances and health. At age 53
+years, the sample providing information consisted of 3,035
+men and women, representing 70.4% of the 4,311 cohort
+members who were still alive and residing in England, Scotland, or Wales (12).
+Physical capability
+
+In 1999, when the study participants were aged 53 years,
+trained nurses visited their homes to measure performance
+on the chair-rise test (number of seconds needed to rise from
+a sitting position to a standing position and then sit down
+again 10 times), standing balance (the longest amount of time
+the person can maintain a 1-legged stand with eyes closed—
+maximum of 30 seconds), and grip strength (highest value
+(kg) from 4 measurements, 2 from each hand, taken using an
+electronic handgrip dynamometer). A total of 2,566 participants (84.5%) provided data on all 3 physical capability measures. The remaining 469 participants had missing data and
+were excluded from the analyses; 73 were missing data on
+all 3 tests, 182 were missing data on 1 or 2 tests, and 214 were
+unable to perform 1 test (133 for chair rise, 42 for standing
+balance, and 39 for grip strength).
+Life-course area deprivation
+
+At every data collection, current place of residence was
+recorded on survey forms for each study member. Place of
+residence at 3 different ages was chosen to represent area
+in childhood (age 4 years—1950), early adulthood (age 26
+years—1972), and midlife (age 53 years—1999) and to be
+close to census years. The overall process of linking residential addresses to area deprivation measures was a 2-step one
+(13). First, automated matching was carried out on addresses
+in order to allocate to each place of residence a grid coor-
+
+dinate. Second, these generated coordinates were used to
+link area data from the closest census: 1951 data for local
+government districts for 1950 (14, 15), 1971 data for districts for 1972 (16, 17), and 2001 data for districts or unitary
+authorities for 1999 (18, 19). For 1951 and 1971, Scottish
+addresses had to be linked to data for counties and the 4
+main cities, since district data were not available (15, 17).
+All 2,566 cohort members who completed all 3 physical
+capability tests had an address collected at age 53 years
+(1999). The United Kingdom’s Ofﬁce of National Statistics
+All Fields Postal Directory (20) was used to implement both
+linkage steps, and 2,554 postcodes (99.5%) were assigned to
+2001 local government districts. For the other years, Imperial College London’s Small Area Health Statistics Unit
+(SAHSU) used the Ordnance Survey’s ADDRESS-POINT
+database (21) to generate grid coordinates for 2,390 postcodes
+from 1972 (9.8%) and 1,347 addresses from 1950 (55.0%),
+since 1950 predated the introduction of postcodes. The generated coordinates were then linked by the University of
+Portsmouth’s Great Britain Historical Geographic Information System (GIS) Project to the relevant historical area boundary using county administrative diagrams (22, 23). For the
+40 postcodes from 1972 (1.6%) and the 1,101 addresses from
+1950 (45.0%) that could not be matched by the SAHSU team,
+the Great Britain Historical GIS team employed manual
+methods of assignment (13).
+Overall, when an address or postcode was available, more
+than 99.0% were linked to the appropriate census area from
+1951, 1971, or 2001. A further 13 were excluded because area
+deprivation data were missing for the area in which the participant resided for 1 of the study years. This resulted in a
+sample size of 2,300 persons for analysis. The percentage of
+employed persons in each area with occupations that were
+partly skilled or unskilled was selected as the primary area
+socioeconomic variable, since we have previously (13) shown
+it to be the most consistent and appropriate available census
+variable for approximating area deprivation across all study
+years.
+Individual SEP
+
+Individual SEP information from the same data collections as the address information was used in these analyses.
+Childhood SEP was based on father’s occupation when the
+cohort member was aged 4 years (1950), while both young
+adult SEP and adult SEP were based on the cohort member’s
+own occupation at ages 26 and 53 years, respectively. Occupational class was assigned using the Registrar General’s 6group classiﬁcation (24). If SEP information was missing,
+then SEP at the closest available age was taken (n = 36 at age
+4 from age 7 years, n = 139 at age 26 from age 36 years, and
+n = 78 at age 53 years from age 43 years).
+Statistical analysis
+
+For each study year, differences in mean area deprivation
+by gender, country of residence, education, and individual
+SEP were compared using analysis of variance (Table 1). Grip
+strength was divided by height in centimeters to account for
+body size (25) and then multiplied by 10 for presentation
+Am J Epidemiol. 2013;178(3):441–450
+
+Am J Epidemiol. 2013;178(3):441–450
+
+Table 1. Mean Number of Persons Per Area and Mean Area Deprivationa of Areas in Which Cohort Members Lived at Ages 4, 26, and 53 Years, According to Selected Characteristics
+(n = 2,300), United Kingdom, 1946–1999
+1950
+No. of Areas
+or Persons
+
+%b
+
+1972
+
+Mean (SD)
+
+P for
+Difference
+Between
+Means
+
+No. of Areas
+or Persons
+
+%b
+
+Mean (SD)
+
+1999
+P for
+Difference
+Between
+Means
+
+No. of Areas
+or Persons
+
+%b
+
+Mean (SD)
+
+337
+
+100.0
+
+5.8 (3.9)
+
+P for
+Difference
+Between
+Means
+
+Areas
+c
+
+All areas
+
+Englandd
+
+810
+
+2.8 (3.9)
+
+709
+
+52.5
+
+2.7 (3.4)
+
+Walesd
+
+67
+
+55.4
+
+Scotlande
+
+34
+
+100.0
+
+All personsf
+
+845
+<0.01
+
+2.7 (2.9)
+
+389
+<0.01
+
+5.9 (3.9)
+
+761
+
+61.1
+
+2.6 (2.5)
+
+1.9 (2.1)
+
+53
+
+43.8
+
+1.9 (1.5)
+
+22
+
+59.5
+
+5.4 (3.3)
+
+7.6 (8.7)
+
+31
+
+91.2
+
+7.6 (7.2)
+
+30
+
+88.2
+
+7.7 (4.8)
+
+2,300
+
+29.3 (7.6)
+
+2,300
+
+25.0 (6.1)
+
+2,300
+
+19.7 (2.9)
+
+Male
+
+1,139
+
+29.3 (7.6)
+
+1,139
+
+25.1 (6.1)
+
+1,139
+
+19.8 (2.8)
+
+Female
+
+1,161
+
+29.2 (7.7)
+
+1,161
+
+24.8 (6.0)
+
+1,160
+
+19.7 (2.9)
+
+Scotland
+
+257
+
+32.9 (4.1)
+
+235
+
+29.5 (4.0)
+
+231
+
+21.3 (2.2)
+
+England
+
+1,917
+
+28.5 (7.8)
+
+1,962
+
+24.3 (6.0)
+
+1,951
+
+19.4 (2.8)
+
+126
+
+33.1 (6.7)
+
+103
+
+27.7 (5.0)
+
+118
+
+21.6 (2.5)
+
+0.02
+
+Individuals
+Genderf
+0.56
+
+0.24
+
+0.33
+
+Country of residencef
+<0.01
+
+<0.01
+
+Individual
+socioeconomic
+positionf
+Nonmanual
+Manual
+Missing data
+
+956
+
+27.6 (7.6)
+
+1,419
+
+24.0 (5.9)
+
+1,520
+
+19.4 (2.7)
+
+1,285
+
+30.6 (7.4)
+
+<0.01
+
+850
+
+26.5 (6.0)
+
+<0.01
+
+726
+
+20.3 (2.9)
+
+59
+
+27.1 (7.4)
+
+31
+
+26.1 (5.4)
+
+54
+
+21.0 (3.0)
+
+Physical capabilityg
+Balance time,
+seconds
+
+2,300
+
+7.1 (6.6)
+
+Chair-rise time,
+seconds
+
+2,300
+
+22.2 (16.4)
+
+Grip strength,
+kg/cm × 10
+
+2,300
+
+2.2 (0.8)
+
+Abbreviation: SD, standard deviation.
+a
+Area deprivation was measured as the percentage of employed persons in the area working in partly skilled or unskilled occupations.
+b
+Percentage of the total number of areas for that country.
+c
+Mean values refer to the mean number of persons per area.
+d
+Areas for England and Wales were based on local government districts.
+e
+Areas for Scotland were based on counties.
+f
+Mean values refer to the mean level of area deprivation for individuals.
+g
+Mean values refer to the mean physical capability outcome for individuals.
+
+<0.01
+
+Life-Course Area Deprivation and Physical Capability 443
+
+Wales
+
+<0.01
+
+444 Murray et al.
+
+Figure 1. Structure of 2-level nested (A) and cross-classified (B)
+area effects models used in a study of area deprivation across the life
+course and midlife physical capability, United Kingdom, 1946–1999.
+Circles are the years in which residential address data were collected; squares are residential areas (local government districts for
+England and Wales; counties for Scotland). Numbers depict participants 1 and 2. Dashed lines indicate that for 2-level nested models,
+each year was fitted separately, while for cross-classified models, the
+absence of dashed lines indicates that all 3 years were fitted in the
+same model.
+
+purposes. Because of a skewed distribution, logarithmic transformation was applied to standing-balance and chair-rise data
+to achieve normality.
+First, all models were ﬁtted as 2-level models of individuals
+nested within areas for each of the 3 study years, with each
+year being analyzed separately without incorporation of information about residence area for the other 2 years (Figure 1A).
+Then, cross-classiﬁed models were ﬁtted that extended the
+initial 2-level models to include random level 2 components
+for area, where individuals were nested within up to 3 different areas from 1950, 1972, and 1999 (Figure 1B). The percentage of the variance explained by area in each year was
+then compared between the 2 models. In addition, the overall
+percentage of variance explained by life-course area was calculated from the cross-classiﬁed models by summing area
+variance for all 3 study years and dividing by the total variance.
+
+Area-level variance was assessed before and after the inclusion of area deprivation and individual SEP measures. Statistical models and formulas are presented in the Appendix.
+Using both types of models, we then examined the relationship between area deprivation for each time period
+(1950, 1972, or 1999) and each physical capability outcome
+at the age of 53 years. Initially, area deprivation was modeled
+separately for each year. Results for the standing-balance and
+chair-rise tests are presented as the mean percentage change
+in seconds (26) for a 1-standard-deviation (SD) difference in
+area deprivation, with its associated 95% conﬁdence interval.
+For grip strength, estimates are shown as the mean difference
+in kg/cm. Then, each model was ﬁtted to include individual
+SEP from the same age (i.e., 1950 area deprivation adjusted
+for childhood SEP). Third, models were ﬁtted to assess whether
+area deprivation was independent of area deprivation at prior
+time points (i.e., 1972 adjusted for 1950). Final models contained all prior area deprivation measures and current and
+prior individual SEP (i.e., 1972 area deprivation adjusted for
+area deprivation in 1950, young adult SEP, and childhood
+SEP).
+Finally, to determine whether earlier area deprivation modiﬁed the effects of subsequent area deprivation measures, interaction terms were added to the models (i.e., 1950 × 1972,
+1972 × 1999, and 1950 × 1999). All analyses were performed
+using SAS statistical software, version 9 (SAS Institute Inc.,
+Cary, North Carolina). Since the average number of individuals
+within areas was low, we repeated all analyses using Markov
+chain Monte Carlo estimation in MLwiN (Centre for Multilevel
+Modelling, University of Bristol, Bristol, United Kingdom).
+Results remained unchanged, and hence only those from the
+original method using maximum likelihood analyses are
+presented here.
+RESULTS
+
+In 1951 and 1971, cohort members lived in over half of
+all local government districts in England and Wales and
+almost all counties in Scotland. On average, there were 2.8
+and 2.7 persons per area in 1951 and 1971, respectively.
+Averages were higher in Scotland compared with England
+and Wales and in 1999 compared with earlier years, because
+of larger geographical areas. The average area deprivation
+( percentage of persons employed in semiskilled or unskilled
+occupations) of the areas in which cohort members lived
+was highest in 1951, at 29.3% (SD, 7.6), and declined steadily to 25.0% (SD, 6.1) in 1971 and 19.8% (SD, 2.9) in 2001.
+For cohort members, the strongest correlation in standardized area deprivation measures occurred between the years
+1972 and 1999, at 0.49, while correlations were lower
+between 1950 and both 1972 (0.30) and 1999 (0.33).
+There were no gender differences in area deprivation for
+any of the years. For all time periods, average area deprivation was higher for areas in Scotland and Wales compared
+with England and for persons who had fathers who worked
+in a manual occupation compared with a nonmanual occupation (Table 1). However, cohort members who changed their
+individual SEP from childhood to young adulthood lived in
+areas with lower deprivation in midlife than persons who
+remained in a manual social class at both ages (mean area
+Am J Epidemiol. 2013;178(3):441–450
+
+Life-Course Area Deprivation and Physical Capability 445
+
+Table 2. Variance in Measures of Physical Capability at Age 53 Years (1999) Explained by Area of Residence in 1950, 1972, and 1999 in
+2-Level Nested Modelsa Compared With Cross-Classified Modelsb (n = 2,300), United Kingdom, 1946–1999
+1950
+Variance
+Between
+Areas
+
+1972
+% of
+Total
+Variance
+
+Variance
+Between
+Areas
+
+Total Life Coursec
+
+1999
+% of
+Total
+Variance
+
+Variance
+Between
+Areas
+
+% of
+Total
+Variance
+
+Variance
+Between
+Areas
+
+% of
+Total
+Variance
+
+Standing-balance
+test, seconds
+2-level models
+
+0.0287**
+
+4.6
+
+0.0518**
+
+8.4
+
+0.0532**
+
+8.6
+
+—d
+
+Cross-classified
+models
+
+0.0130
+
+2.1
+
+0.0278*
+
+4.5
+
+0.0392**
+
+6.3
+
+0.0800
+
+2-level models
+
+0.0046*
+
+3.7
+
+0.0128**
+
+10.4
+
+0.0145**
+
+11.7
+
+—
+
+Cross-classified
+models
+
+0.0013
+
+1.0
+
+0.0063*
+
+5.1
+
+0.0124**
+
+10.0
+
+0.0199
+
+2-level models
+
+0.00024**
+
+4.1
+
+0.00023*
+
+3.9
+
+0.00027**
+
+4.6
+
+—
+
+Cross-classified
+models
+
+0.00019*
+
+3.3
+
+0.00005
+
+0.8
+
+0.00023**
+
+3.8
+
+0.00047
+
+12.9
+
+Chair-rise test,
+seconds
+16.1
+
+Grip strength,
+kg/cm × 10
+7.9
+
+* P < 0.05; **P < 0.01 (2-sided P value).
+a
+Results were derived from 2-level models with persons nested within areas, fitted separately for each year.
+b
+Results were derived from cross-classified models (includes random level 2 components for area in each of 1950, 1972, and 1999, where
+individuals were nested within up to 3 different areas).
+c
+Sum of area-level variance for all study years (1950 + 1972 + 1999).
+d
+It was not possible to calculate “total life course” variance between areas, because the 2-level models were fitted separately for each year.
+
+deprivation for change from a manual occupation to a nonmanual occupation = 19.6%; mean area deprivation for a
+manual occupation at both time points = 20.6%; P for difference < 0.002). The reverse pattern occurred for persons who
+were downwardly socially mobile (data not shown).
+For all 3 outcomes, when nested models were used, signiﬁcant variation existed across areas for all study periods,
+with larger variation for balance than for chair rise and quite
+small variation for grip strength (Table 2). For balance and
+chair rise, the total amount of variation explained by area
+was larger for 1972 and 1999 than for 1950. For example,
+approximately 8.4% and 8.6% of the total variance for
+balance was explained by area in 1972 and 1999, respectively,
+with almost half the amount of variance (4.6%) explained
+by area in 1950. Area in each of the 3 years accounted for
+3%–4% of the variation in grip strength. For all outcomes,
+use of cross-classiﬁed models reduced the percentage of variance attributable to area at each year. Summation of the area
+variance from all 3 years to obtain the percentage of variance
+explained by lifetime area gave ﬁgures of 12.9% for balance,
+16.1% for chair rise, and 7.9% for grip strength. For all further
+analyses, we display results ﬁtted with cross-classiﬁed models
+only.
+For standing balance, adjustment for area deprivation at all
+3 ages reduced but did not entirely explain area variation (percentage reductions: 1950, 30.0%; 1972, 3.2%; 1999, 32.4%
+(see Web Table 1, available at http://aje.oxfordjournals.org/)).
+For ﬁxed effects (Figure 2), there were associations between
+area deprivation at all 3 time points and standing balance at
+age 53 years (1999). For example, cohort members who
+Am J Epidemiol. 2013;178(3):441–450
+
+resided in areas with a 1-SD higher area deprivation level in
+1999 had, on average, 10.6% (95% conﬁdence interval (CI):
+6.7, 14.4) lower balance times (worse physical capability)
+(model 1). Associations were weaker for area deprivation in
+1950 (6.3%, 95% CI: 2.9, 9.7) and 1972 (4.9%, 95% CI: 1.2,
+8.5). Area deprivation in 1950 remained associated with
+balance, albeit reduced, after adjustment for childhood SEP
+(model 2). In fully adjusted models (model 4), whereas area
+deprivation in 1999 was robust to adjustment for all prior area
+deprivation and all prior and current individual SEP measures,
+area deprivation in 1972 was largely explained. There were no
+interactions between area deprivation in 1999 and area deprivation in either prior study year (for 1999 × 1950, P = 0.55;
+for 1999 × 1972, P = 0.27). Associations of area deprivation
+and physical capability measures obtained using nested models
+are available in Web Table 2.
+For the chair-rise test, in comparison with the unadjusted
+models, area variances in 1972 and 1999 were only marginally reduced after adjustment for area deprivation at all 3 ages
+(1.6% and 2.4%, respectively) (Web Table 1). However, patterns of association were similar; the strongest association
+was in 1999, with an increased mean chair-rise time at age
+53 years (worse physical capability) of 2.2% (95% CI: 0.3,
+4.1) per 1-SD increase in area deprivation, which was only
+slightly attenuated by adjustment for adult SEP (Figure 2,
+model 2), prior area deprivation (model 3), and all prior individual SEP measures (model 4). In addition, only for the
+year 1999 was any of the original area variance in chair rise
+explained by area deprivation (2.8%) (data not shown). There
+was no interaction between area deprivation in 1999 and
+
+446 Murray et al.
+
+Figure 2. Mean percent change in physical capability measures at age 53 years for a 1-standard-deviation increase in area deprivation in 1950,
+1972 and 1999 (from cross-classified models), United Kingdom, 1946–1999. Left column, age 4 years (1950); middle column, age 26 years
+(1972); right column, age 53 years (1999). In model 1, results were unadjusted (n = 2,300); in model 2, results were adjusted for cross-sectional
+individual socioeconomic position (SEP) (i.e., area deprivation in 1950 adjusted for childhood SEP only); in model 3, results were adjusted for prior
+area deprivation (i.e., area deprivation in 1972 adjusted for 1950); and model 4 was the full model fitted for all previous area deprivation and
+current and prior individual SEP (i.e., area deprivation in 1999 adjusted for area deprivation in 1950 and 1972 and individual SEP in 1950, 1972,
+and 1999 (ages 4, 26, and 53 years)). Area deprivation was measured as the percentage of employed persons in the area working in partly skilled
+or unskilled occupations. Because of missing data, models adjusting for individual SEP (models 2 and 4) contained fewer than 2,300 participants.
+Bars, 95% confidence interval.
+
+area deprivation in 1972 (P = 0.90). The unadjusted mean differences in grip strength by area deprivation were so small as
+to not be clinically relevant (for all years, < 0.006 kg/cm per
+1-SD increase in area deprivation), and thus no further analyses are presented.
+DISCUSSION
+
+Findings from this study show that for members of this
+postwar British cohort, those who resided in more deprived
+areas at age 53 years also had worse standing-balance and
+chair-rise times. Importantly, we showed that the variation in
+these 2 physical capability measures at midlife that could be
+attributed to area of residence was underestimated when residence at earlier points in the life course was not taken into
+consideration. In particular, the ability of cohort members to
+stand on 1 leg at midlife was related to both childhood and midlife exposure to area deprivation.
+
+The ﬁnding that poorer standing-balance and chair-rise
+times were associated with current deprivation is consistent
+with previous cross-sectional studies showing that living in
+a socioeconomically deprived area in adulthood is associated
+with worse physical health (4, 5, 7, 27, 28). We have built
+on these previous studies by showing, for the ﬁrst time, that
+area deprivation in childhood is related to standing balance in
+midlife. Further, comparisons of the cross-classiﬁed models
+with the simpler 2-level hierarchical models showed that by
+failing to account for area of residence in childhood, the
+overall contribution of residence area to variation in balance
+performance in midlife was underestimated.
+To our knowledge, this is the ﬁrst study to utilize geographical data linked to prospectively collected address information
+during childhood, early adulthood, and midlife and link these
+exposures to health disparities in midlife. The relationship
+between life-course area effects and health has been investigated previously (29–33), but not for physical capability. In
+Am J Epidemiol. 2013;178(3):441–450
+
+Life-Course Area Deprivation and Physical Capability 447
+
+the Atherosclerosis Risk in Communities Study, a summary
+measure of life-course area deprivation was not associated with
+subclinical atherosclerosis after adjustment for life-course
+individual SEP, although recall of childhood residence may
+have resulted in bias and underestimation of effects (29).
+The ONS Longitudinal Study for England and Wales (30)
+used prospectively collected address data to show that longterm illness was a consequence of area deprivation during
+both childhood (1939) and later life (1981). Finally, 2 Scandinavian studies (31–33) used cross-classiﬁed models to
+show that area of residence at the most recent time point
+(1999) explained more variance in mortality than residence
+in earlier years (1969, 1979, and 1989). For the latter study
+(33), the overall variance explained by area was much less
+than that in our study. Discrepancies may be explained by a
+particular effect of area on the physical disablement process
+or country-speciﬁc geographical inequalities. Neither study
+analyzed ﬁxed effects of areas.
+The mechanism(s) by which area deprivation could be
+affecting physical capability in midlife is unclear. Numerous
+studies have shown that higher area deprivation is related to
+poorer dietary habits (34–37), less physical activity (34, 38–
+41), and higher rates of smoking (34, 39, 41–45), all of
+which are risk factors for declines in functional status (46,
+47). Inequitable geographical distribution of these factors,
+such as availability of health food (48), could inﬂuence
+growth, thereby permanently altering or establishing vulnerability in the functional capacity of an individual (10, 11). In
+addition, area characteristics in childhood may inﬂuence the
+development of health behaviors such as physical activity
+(49, 50) and diet (51), which are related to physical capability and tend to track into adulthood. Future work is required
+to examine speciﬁc features of the area socioeconomic environment during different life periods that could lead to poor
+physical capability at all ages.
+The ﬁnding that area deprivation in midlife was related to
+standing balance and chair rise but not to grip strength may
+suggest that these factors are inﬂuenced by different pathophysiology. All 3 measures depend on the central nervous
+system for sensory and motor control, but while grip strength
+is a test of upper-body strength, balance and chair-rise time
+reﬂect differing combinations of mainly lower-body neuromuscular speed and control (52–54). Stronger ﬁndings of
+area effects across the life course for balance than for chairrise performance may also suggest that area deprivation is
+affecting adult physical capability through central nervous
+system pathways rather than through muscle atrophy. This is
+supported by previous ﬁndings from this cohort, where Kuh
+et al. (52) observed that balance and chair-rise performance
+were both linked to changes in adult cognition but only balance was independently related to childhood cognition. Such
+pathways remain speculative, as there are no current studies
+linking area deprivation to central nervous system outcomes
+in childhood or midlife.
+We found associations with area deprivation to be only
+slightly explained by individual SEP. However, we have not
+investigated the complex ways in which individual SEP and
+area SEP interact over the life course. Family social position
+in childhood can inﬂuence not only the future SEP of that
+child (55, 56) but also potentially his or her future adulthood
+Am J Epidemiol. 2013;178(3):441–450
+
+residence, because of close links between individual SEP
+and residential SEP (57). Thus, adjustment of current area
+characteristics for prior individual and area deprivation may
+represent overadjustment. The stronger association seen with
+current area characteristics, as compared with childhood and
+young adulthood, provides some support for the role of
+adult environmental factors in maintaining and facilitating
+greater physical activity and healthy diet. However, it may
+also reﬂect a “selection effect” such that less healthy persons
+with poorer physical performance move to more deprived
+areas, thereby creating an association through reverse causation. Our data did show that downward social mobility was
+related to higher deprivation at midlife, making it plausible
+that some or all of the area effects may be due to selection
+(58). More work is needed to disentangle the relationships
+between individuals, their residence areas, and their health
+over the life course to create appropriate methods and to test
+whether observed associations are true effects of residential
+area or artifacts of residential selection.
+A strength of this study was the repeated prospective collection of area residential addresses and individual socioeconomic characteristics across the life course. The almost
+100% linkage of address data for all 3 years made it less likely
+that estimates were affected by selection bias. As in any longitudinal study, attrition of the sample occurred, despite high
+response rates (12). However, area deprivation did not predict loss to follow-up. A total of 469 persons were excluded
+because of the inability to perform a physical capability test
+or were missing data for a physical capability test. While
+there were no average differences in area deprivation for cohort
+members missing test results, those unable to perform tests
+(n = 214) resided in areas with higher levels of deprivation
+(data not shown), suggesting that associations between area
+deprivation and physical capability were underestimated by
+virtue of the exclusion of persons with the lowest physical
+capabilities from the analysis.
+Major challenges in this study were that we were restricted
+in the size of the geographical units we could analyze and the
+area socioeconomic measures we could assess because of
+the limitations of historical census data (13). It is unknown
+whether local government district is the relevant area that
+might inﬂuence physical capability. When analyses of area
+deprivation at age 53 years and physical capability were rerun
+at the ward level, the estimates of association were stronger
+(13), suggesting that the relevant context may be at a smaller
+geographical level and that our ﬁndings underestimate the
+effect of area. District boundaries for 2001 were larger than
+those in 1951 and 1971 (59), with approximately 3 times the
+population (13), potentially introducing a larger degree of
+underestimation for area effects in 2001 compared with earlier
+years. Household-level factors may also be relevant to health
+outcomes (60), but information at this level was not available in our data. Extensive social change over the past 50
+years (61) also makes it unclear whether the percentage of
+individuals in partly skilled or unskilled occupations in an
+area represented the same concept of area deprivation during
+all study periods. Future work is needed to investigate whether
+the mechanism(s) linking area occupational classes to physical
+capability are consistent across different periods of the life
+course.
+
+448 Murray et al.
+
+In conclusion, ﬁndings from this study suggest that strategies for the prevention of disability need to consider not only
+individual characteristics but also the residential environments
+in which people live. Some aspects of disability, such as
+the ability to balance, may require interventions aimed at
+improving the areas in which people grow up and in which
+they reside in midlife in order to maximize impact. However,
+before interventions can be planned, further work is needed to
+identify the speciﬁc pathways and appropriate geographical
+levels by which disparities in residential socioeconomic environment could affect midlife physical performance.
+
+ACKNOWLEDGMENTS
+
+Author afﬁliations: Laboratory of Epidemiology, Demography, and Biometry, National Institute on Aging, Bethesda,
+Maryland (Emily T. Murray); School of Social and Community Medicine, University of Bristol, Bristol, United Kingdom
+(Yoav Ben-Shlomo, Kate Tilling); Great Britain Historical
+GIS Project, Department of Geography, University of Portsmouth, Portsmouth, United Kingdom (Humphrey Southall,
+Paula Aucott); and Medical Research Council Unit for Lifelong Health and Ageing, University College and Royal Free
+Medical School, London, United Kingdom (Rebecca Hardy,
+Diana Kuh).
+This research was supported in part by the Intramural
+Research Program of the US National Institute on Aging,
+National Institutes of Health, and the New Dynamics of
+Ageing Programme (grant RES-353-25-0001).
+We thank the other members of the Healthy Aging Across
+the Life Course (HALCyon) study team for their valuable
+contributions: Dr. Jane Elliott, Dr. Catharine Gale, Prof.
+James Goodwin, Dr. Alison Lennox, Dr. Marcus Richards,
+Prof. Thomas von Zglinicki, Dr. John Gallacher, Prof. Gita
+Mishra, Prof. Chris Power, Dr. Paul Shiels, Prof. Andrew
+Steptoe, Dr. Panos Demakakos, Prof. Lawrence Whalley,
+Dr. Geraldine McNeill, Dr. Leone Craig, Dr. Carmen MartinRuiz, Dr. Zeinab Mulla, Dr. Mike Gardner, and Sam Parsons.
+Conﬂict of interest: none declared.
+
+REFERENCES
+1. World Health Organization. Active Ageing: A Policy
+Framework. (Publication no. WHO/NMH/NPH/02.8).
+Geneva, Switzerland: World Health Organization; 2002.
+2. Science and Technology Committee, United Kingdom House
+of Lords. Ageing: Scientiﬁc Aspects. London, United
+Kingdom: The Stationery Ofﬁce Ltd; 2005.
+3. Her Majesty’s Treasury. Public Expenditure Statistical
+Analysis 2012. London, United Kingdom: Her Majesty’s
+Treasury; 2012. (http://www.hm-treasury.gov.uk/
+pespub_pesa12.htm). (Accessed December 31, 2012).
+4. Basta NE, Matthews FE, Chatﬁeld MD, et al. MRC-CFAS.
+Community-level socio-economic status and cognitive and
+functional impairment in the older population. Eur J Public
+Health. 2007;18(1):48–54.
+
+5. Lang IA, Llewellyn DJ, Langa KM, et al. Neighbourhood
+deprivation and incident mobility disability in older adults.
+Age Ageing. 2008;37(4):403–410.
+6. Beard JR, Blaney S, Cerda M, et al. Neighborhood
+characteristics and disability in older adults. J Gerontol B
+Psychol Sci Soc Sci. 2009;64(2):252–257.
+7. Freedman VA, Grafova IB, Schoeni RF, et al. Neighborhoods
+and disability in later life. Soc Sci Med. 2008;66(11):
+2253–2267.
+8. Jette AM. Toward a common language for function, disability,
+and health. Phys Ther. 2006;86(5):726–734.
+9. Kuh D; New Dynamics of Ageing (NDA) Preparatory
+Network. A life course approach to healthy aging, frailty,
+and capability. J Gerontol A Biol Sci Med Sci. 2007;62(7):
+717–721.
+10. Kuh D, Hardy R, Butterworth S, et al. Developmental origins
+of midlife physical performance: evidence from a British birth
+cohort. Am J Epidemiol. 2006;164(2):110–121.
+11. Kuh D, Hardy R, Butterworth S, et al. Developmental origins
+of midlife grip strength: ﬁndings from a birth cohort study.
+J Gerontol A Biol Sci Med Sci. 2006;61(7):702–706.
+12. Wadsworth ME, Butterworth RJ, Hardy RJ, et al. Life course
+prospective design: an example of beneﬁts and problems
+associated with study longevity. Soc Sci Med. 2003;57(11):
+2193–2205.
+13. Murray ET, Southall H, Aucott P, et al. Challenges in
+examining area effects across the life course on physical
+performance in mid-life: ﬁndings from the 1946 British Birth
+Cohort. Health Place. 2012;18(2):366–374.
+14. Registrar General. Census 1951 England and Wales. London,
+United Kingdom: HMSO; 1956.
+15. Registrar General. Census 1951 Scotland, County Reports.
+London, United Kingdom: HMSO; 1956.
+16. Registrar General for England and Wales. Census: small area
+statistics (Great Britain). District information, 1971. In:
+Linking Censuses Through Time [electronic data interface].
+Manchester, United Kingdom: Census Dissemination Unit;
+2006. (http://cdu.mimas.ac.uk/lct/). (Accessed May 25, 2010).
+17. Registrar General for Scotland. Census: small area statistics
+(Great Britain). County information, 1971. In: Linking
+Censuses Through Time [electronic data interface].
+Manchester, United Kingdom: Census Dissemination
+Unit; 2006. (http://cdu.mimas.ac.uk/lct/). (Accessed May
+25, 2010).
+18. United Kingdom Ofﬁce for National Statistics. 2001 Standard
+Area Statistics (England and Wales): Census Area Statistic
+(CAS) Output Areas [electronic data ﬁle]. Manchester, United
+Kingdom: ESRC/JISC Census Programme, Census
+Dissemination Unit, Manchester Information and Associated
+Services, University of Manchester/Centre for Interaction Data
+Estimation and Research (University of Leeds); 2001.
+19. General Register Ofﬁce for Scotland. Scotland’s Census 2001
+[Census Area Statistics (CAS) Wards] [electronic data ﬁle].
+Manchester, United Kingdom: ESRC/JISC Census
+Programme, Census Dissemination Unit, Manchester
+Information and Associated Services, University of
+Manchester/Centre for Interaction Data Estimation and
+Research (University of Leeds); 2001.
+20. United Kingdom Ofﬁce for National Statistics. Postcode
+Directories: February 2010 National Statistics Postcode
+Directory (NSPD) [electronic database]. (Updated February
+2010). Manchester, United Kingdom: ESRC Census
+Programme, Census Dissemination Unit, Manchester
+Information and Associated Services, University of
+Manchester/Census Geography Data Unit (UKBORDERS),
+Am J Epidemiol. 2013;178(3):441–450
+
+Life-Course Area Deprivation and Physical Capability 449
+
+21.
+22.
+
+23.
+24.
+25.
+
+26.
+27.
+
+28.
+
+29.
+30.
+
+31.
+32.
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+EDINA (University of Edinburgh); 2001. (http://borders.edina.
+ac.uk/html/pcluts_download/pcluts_2010feb.html). (Accessed
+July 23, 2009).
+Ordnance Survey. ADDRESS-POINT: User Guide and
+Technical Speciﬁcation. Southampton, United Kingdom:
+Ordnance Survey; 2010.
+Gregory IN, Southall HR. Putting the past in its place: the
+Great Britain Historical GIS. In: Carver S, ed. Innovations in
+GIS 5. London, United Kingdom: Taylor & Francis;
+1998:198–208.
+Gregory IN, Bennett C, Gilham VL, et al. The Great Britain
+Historical GIS Project: from maps to changing human
+geography. Cartogr J. 2002;39(1):37–49.
+Galobardes B, Shaw M, Lawlor DA, et al. Indicators of
+socioeconomic position ( part 2). J Epidemiol Community
+Health. 2006;60(2):95–101.
+Guralnik JM, Butterworth S, Wadsworth MEJ, et al.
+Childhood socioeconomic status predicts physical functioning
+a half century later. J Gerontol A Biol Sci Med Sci. 2006;
+61A(7):694–701.
+Cole TJ. Sympercents: symmetric percentage differences on
+the 100 loge scale simplify the presentations of log
+transformed data. Stat Med. 2000;19(22):3109–3125.
+Bowling A, Stafford M. How do objective and subjective
+assessments of neighbourhood inﬂuence social and physical
+functioning in older age? Findings from a British survey of
+ageing. Soc Sci Med. 2007;64(12):2533–2549.
+Schootman M, Andresen EM, Wolinsky FD. Neighborhood
+conditions and risk of incident lower-body functional
+limitations among middle-aged African Americans. Am J
+Epidemiol. 2006;163(5):450–458.
+Carson AP, Rose KM, Catellier DJ, et al. Cumulative
+socioeconomic status across the life course and subclinical
+atherosclerosis. Ann Epidemiol. 2007;17(4):296–303.
+Curtis S, Southall H, Congdon P, et al. Area effects on health
+variation over the life-course: analyses of the longitudinal
+study sample in England using new data on area of residence
+in childhood. Soc Sci Med. 2004;58(1):57–74.
+Leyland AH, Narss O. The effect of area of residence over the
+life course on subsequent mortality. J R Stat Soc Ser A.
+2009;172(3):555–578.
+Naess O, Leyland AH. Analysing the effect of area of
+residence over the life course in multilevel epidemiology.
+Scand J Public Health. 2010;38(suppl 5):119–126.
+Ohlsson H, Merlo J. Place effects for areas deﬁned by
+administrative boundaries: a life course analysis of mortality
+and cause speciﬁc morbidity in Scania, Sweden. Soc Sci Med.
+2011;73(8):1145–1151.
+Amuzu A, Carson C, Watt HC, et al. Inﬂuence of area
+and individual lifecourse deprivation on health behaviours:
+ﬁndings from the British Women’s Heart and Health
+Study. Eur J Cardiovasc Prev Rehabil. 2009;16(2):
+169–173.
+Lakshman R, McConville A, How S, et al. Association
+between area-level socioeconomic deprivation and a cluster of
+behavioural risk factors: cross-sectional, population-based
+study. J Public Health (Oxf ). 2011;33(2):234–245.
+Major JM, Cross AJ, Doubeni CA, et al. Socioeconomic
+deprivation impact on meat intake and mortality: NIH-AARP
+Diet and Health Study. Cancer Causes Control. 2011;
+22(12):1699–1707.
+Shohaimi S, Welch A, Bingham S, et al. Residential area
+deprivation predicts fruit and vegetable consumption
+independently of individual educational level and occupational
+social class: a cross sectional population study in the Norfolk
+
+Am J Epidemiol. 2013;178(3):441–450
+
+38.
+
+39.
+
+40.
+41.
+42.
+43.
+44.
+
+45.
+46.
+
+47.
+
+48.
+49.
+50.
+51.
+
+52.
+
+53.
+54.
+55.
+
+cohort of the European Prospective Investigation into Cancer
+(EPIC-Norfolk). J Epidemiol Community Health. 2004;
+58(8):686–691.
+Boone-Heinonen J, Diez Roux AV, Kiefe CI, et al.
+Neighborhood socioeconomic status predictors of physical
+activity through young to middle adulthood: the CARDIA
+study. Soc Sci Med. 2011;72(5):641–649.
+Cubbin C, Sundquist K, Ahlén H, et al. Neighborhood
+deprivation and cardiovascular disease risk factors: protective
+and harmful effects. Scand J Public Health. 2006;34(3):
+228–237.
+Fox KR, Hillsdon M, Sharp D, et al. Neighbourhood
+deprivation and physical activity in UK older adults. Health
+Place. 2011;17(2):633–640.
+Sundquist J, Malmström M, Johansson SE. Cardiovascular
+risk factors and the neighbourhood environment: a multilevel
+analysis. Int J Epidemiol. 1999;28(5):841–845.
+Duncan C, Jones K, Moon G. Smoking and deprivation:
+are there neighbourhood effects? Soc Sci Med. 1999;48(4):
+497–505.
+Kleinschmidt I, Hills M, Elliot P. Smoking behaviour can be
+predicted by neighborhood deprivation measures. J Epidemiol
+Community Health. 1995;49(suppl 2):S72–S77.
+Matheson FI, Lafreniere MC, White HL, et al. Inﬂuence of
+neighborhood deprivation, gender and ethno-racial origin on
+smoking behavior of Canadian youth. Prev Med. 2011;
+52(5):376–380.
+Reijneveld SA. The impact of individual and area
+characteristics on urban socioeconomic differences in health
+and smoking. Int J Epidemiol. 1998;27(1):33–40.
+LaCroix AZ, Guralnik JM, Berkman LF, et al. Maintaining
+mobility in late life: II. Smoking, alcohol consumption,
+physical activity, and body mass index. Am J Epidemiol.
+1993;137(6):858–869.
+Stuck AE, Walthert JM, Nikolaus T, et al. Risk factors for
+functional status decline in community-living elderly people:
+a systematic literature review. Soc Sci Med. 1999;48(4):
+445–469.
+Sallis JF, Glanz K. The role of built environments in physical
+activity, eating, and obesity in childhood. Future Child.
+2006;16(1):89–108.
+Due P, Krølner R, Rasmussen M, et al. Pathways and
+mechanisms in adolescence contribute to adult health
+inequalities. Scand J Public Health. 2011;39(6 suppl):62–78.
+Biddle SJ, Pearson N, Ross GM, et al. Tracking of sedentary
+behaviours of young people: a systematic review. Prev Med.
+2010;51(5):345–351.
+Mikkilä V, Räsänen L, Raitakari OT, et al. Consistent dietary
+patterns identiﬁed from childhood to adulthood: the
+Cardiovascular Risk in Young Finns Study. Br J Nutr.
+2005;93(6):923–931.
+Kuh D, Cooper R, Hardy R, et al. Lifetime cognitive
+performance is associated with midlife physical performance
+in a prospective national birth cohort study. Psychosom Med.
+2009;71(1):38–48.
+Orr R. Contribution of muscle weakness to postural instability
+in the elderly. A systematic review. Eur J Phys Rehabil Med.
+2010;46(2):183–220.
+Loram ID, Maganaris CN, Lakie M. Human postural sway
+results from frequent, ballistic bias impulses by soleus and
+gastrocnemius. J Physiol. 2005;564(1):295–311.
+Deary IJ, Taylor MD, Hart CL, et al. Intergenerational social
+mobility and mid-life status attainment: inﬂuences of
+childhood intelligence, childhood social factors, and
+education. Intelligence. 2005;33(5):455–472.
+
+450 Murray et al.
+
+56. Schoon I. A transgenerational model of status attainment: the
+potential mediating role of school motivation and education.
+Natl Inst Econ Rev. 2008;205(1):72–82.
+57. Allen C. Housing Market Renewal and Social Class.
+New York, NY: Routledge Publishing; 2008.
+58. Oakes JM. The (mis)estimation of neighborhood effects:
+causal inference for a practicable social epidemiology. Soc Sci
+Med. 2004;58(10):1929–1952.
+59. Norman P, Riva M. Population health across space time: the
+geographic harmonisation of the Ofﬁce for National Statistics
+Longitudinal Study for England and Wales. Popul Space
+Place. 2012;18(5):483–502.
+60. Merlo J, Viciana-Fernández FJ, Ramiro-Fariñas D. Bringing
+the individual back to small-area variation studies: a multilevel
+analysis of all-cause mortality in Andalusia, Spain. Soc Sci
+Med. 2012;75(8):1477–1487.
+61. Wadsworth M, Bynner J. A Companion to Life Course
+Studies: The Social and Historical Context of the British Birth
+Cohort Studies. New York, NY: Routledge Publishing; 2011.
+
+of person ij’s score from the cell mean. These deviations are
+assumed to be normally distributed with mean 0 and a
+within-cell variance of δxx 2. U0j is the random area effect for
+each area j, which is also assumed to be normally distributed
+with a mean of 0, but variance is τxxη. Therefore, the percentage of variance attributed to areas is τxxη/(τxxη + δxx 2).
+
+Cross-classified model
+
+Yi( jkl) is the physical capability of person i, who resided in
+the areas at 3 different time periods of j (1950), k (1972),
+and l (1999); γ00 is the grand mean physical capability score
+for all persons; and γ01 is the ﬁxed effect of area deprivation
+in 1950, γ02 the ﬁxed effect of area deprivation in 1972, and
+γ03 the ﬁxed effect of area deprivation in 1999.
+Yið jklÞ ¼ γ00 þ γ01 AREA1950ð jklÞ þ γ02 AREA1972ð jklÞ
+
+APPENDIX
+Structure of Area Effects Models
+Two-level nested model
+
+Yij is the physical capability of person i in area j, γ00 is the
+grand mean physical capability score for all persons, and γ01
+is the ﬁxed effect of area deprivation for that particular year
+(xx = 1950, 1972, or 1999).
+Yij ¼ γ00 þ γ01 AREA19xxJ þ U0J þ εIJ :
+ɛIJ denotes the random “person effect,” that is, the deviation
+
+þ γ03 AREA1999ð jklÞ þ U0J þ U0K þ U0L þ εið jklÞ :
+ɛi( jkl) denotes the random “person effect,” that is, the deviation of person i’s score from the cell mean. These deviations
+are assumed to be normally distributed with mean 0 and a
+within-cell variance of δ2( j/k/l). U0j is the random area effect
+for area j (1950), which is also assumed to be normally distributed with a mean of 0, but the variance is τηj. The same
+distribution is assumed for areas k (1972) and l (1999).
+Therefore, the percentage of variance attributed to areas
+for each year is {τ( j/k/l)}/all variation. The percentage of variation attributed to areas across the 3 years is {τηj + τηj + τηj}/
+all variation.
+
+Am J Epidemiol. 2013;178(3):441–450
+

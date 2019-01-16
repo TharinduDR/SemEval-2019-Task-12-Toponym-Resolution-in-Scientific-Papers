@@ -1,0 +1,649 @@
+﻿Minimal molecular constraints for respiratory
+droplet transmission of an avian­human
+H9N2 influenza A virus
+Erin M. Sorrell1
+, Hongquan Wan1,2
+, Yonas Araya, Haichen Song3
+, and Daniel R. Perez4
+Department of Veterinary Medicine, University of Maryland, College Park, and Virginia­Maryland Regional College of Veterinary Medicine, 8075
+Greenmead Drive, College Park, MD 20742
+Edited by Peter Palese, Mount Sinai School of Medicine, New York, NY, and approved March 17, 2009 (received for review January 27, 2009)
+Pandemic influenza requires interspecies transmission of an influ-
+enza virus with a novel hemagglutinin (HA) subtytpe that can
+adapt to its new host through either reassortment or point muta-
+tions and transmit by aerosolized respiratory droplets. Two pre-
+vious pandemics of 1957 and 1968 resulted from the reassortment
+of low pathogenic avian viruses and human subtypes of that
+period; however, conditions leading to a pandemic virus are still
+poorly understood. Given the endemic situation of avian H9N2
+influenza with human-like receptor specificity in Eurasia and its
+occasional transmission to humans and pigs, we wanted to deter-
+mine whether an avian­human H9N2 reassortant could gain re-
+spiratory transmission in a mammalian animal model, the ferret.
+Here we show that following adaptation in the ferret, a reassor-
+tant virus carrying the surface proteins of an avian H9N2 in a
+human H3N2 backbone can transmit efficiently via respiratory
+droplets, creating a clinical infection similar to human influenza
+infections. Minimal changes at the protein level were found in this
+virus capable of respiratory droplet transmission. A reassortant
+virus expressing only the HA and neuraminidase (NA) of the
+ferret-adapted virus was able to account for the transmissibility,
+suggesting that currently circulating avian H9N2 viruses require
+little adaptation in mammals following acquisition of all human
+virus internal genes through reassortment. Hemagglutinin inhibi-
+tion (HI) analysis showed changes in the antigenic profile of the
+virus, which carries profound implications for vaccine seed stock
+preparation against avian H9N2 influenza. This report illustrates
+that aerosolized respiratory transmission is not exclusive to current
+human H1, H2, and H3 influenza subtypes.
+aerosol  ferrets  contact  pandemic  preparedness
+H5, H7, and H9 avian influenza subtypes top the World Health
+Organization's (WHO) list with the greatest pandemic poten-
+tial. A transition from avian-like 2,3-linked sialic acid (SA2,3)
+receptors to human-like 2,6-linked sialic acid (SA2,6) receptors
+appears to be a crucial step for avian influenza viruses to replicate
+efficiently and transmit in humans (1). An increasing number of
+contemporary avian H9N2 viruses contain leucine (L) at position
+226 in the hemagglutinin (HA) receptor-binding site (RBS), sup-
+porting the preferential binding to SA2,6 receptors and the ability
+to replicate efficiently in human respiratory epithelial cells and in
+the ferret model, an in vivo model which closely resembles human
+airway epithelium and clinical infection (2­5). Since the mid-1990's,
+H9N2 influenza viruses have become endemic in poultry through-
+out Eurasia and have occasionally transmitted to humans and pigs
+(6­8). In addition to possessing human virus-like receptor speci-
+ficity, avian H9N2 viruses induce typical human flu-like illness,
+which can easily go unreported, and therefore have the opportunity
+to circulate, reassort, and improve transmissibility. Seroepidemio-
+logical studies in Asia suggest that the incidence of human H9N2
+infections could be more prevalent than what has been reported and
+possible human-to-human transmission cannot be completely ex-
+cluded (9­11). These direct infections with avian H9N2 confirm
+that interspecies transmission of H9N2 from avian species to
+mammalian hosts occurs and it is not uncommon. Reassortment
+between the current human epidemic strain and an avian virus of
+a different subtype is postulated to generate the next pandemic
+strain. Given the receptor specificity of avian H9N2 viruses and
+their repeated introduction into humans, as recent as December
+2008 (Vietnam Partnership on Avian and Human Influenza
+(PAHI) http://www.avianinfluenza.org.vn/), the opportunity for
+their reassortment and/or adaptation for human-to-human trans-
+mission is ever present. However the question remains what is
+missing for the H9N2 virus to transmit from human-to-human and
+possibly lead to the next pandemic.
+In our previous study (4), we showed that human virus-like
+receptor specificity, specifically leucine (L) at position 226 in the
+HA RBS, is critical for direct transmission of avian H9N2 viruses
+in ferrets. Creation of an H9N2 avian­human reassortant virus led
+to increased replication, direct transmission, and expanded tissue
+tropism in ferrets compared to the parental avian H9N2 virus. The
+reassortant, 2WF10:6M98, contained the surface genes [HA and
+neuraminidase (NA)] of A/guinea fowl/Hong Kong/WF10/99
+(H9N2) [WF10] and the internal genes (PB2, PB1, PA, NP, M, NS)
+of A/Memphis/14/98 (H3N2) [M98](4). This reassortant however,
+lacked the ability to transmit via respiratory droplets despite clinical
+signs including high titers in nasal washes and sneezing, indicating
+that additional traits are needed. The transmission modes postu-
+lated for natural influenza A infections include large droplets, direct
+contact, and aerosols with aerosol transmission having obvious
+implications for pandemic influenza (12). The ferret is an ideal
+model for this study as aerosolization is the main mode of influenza
+A transmission in this species (13­16). As a result, we began
+adapting this avian­human reassortant, 2WF10:6M98 in ferrets
+and after 10 passages achieved respiratory droplet transmission.
+Here we show for the first time an avian­human H9N2 reassortant
+that can transmit efficiently in respiratory droplets. We have
+identified key changes in the surface proteins that are critical for
+respiratory droplet transmission and also play important roles in
+antigenic variation. Our studies provide valuable information for
+pandemic preparedness against H9N2 strains.
+Author contributions: D.R.P. designed research; E.M.S., H.W., Y.A., and H.S. performed
+research; E.M.S., H.W., H.S., and D.R.P. analyzed data; and E.M.S., H.W., and D.R.P. wrote
+the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+Data deposition: The nucleotide sequences of the RCP10 virus, A/ferret/Maryland/P10-
+UMD/08 (H9N2), have been deposited at NCBI's GenBank (accession nos. CY036274­
+CY036281).
+1E.M.S. and H.W. contributed equally to this work.
+2Present address: Molecular, Virology, and Vaccines Branch, Influenza Division, Centers for
+Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA 30333.
+3Present address: Synbiotics Corporation, 8075 Greenmead Drive, College Park, MD 20742.
+4To whom correspondence should be addressed. E-mail: dperez1@umd.edu.
+This article contains supporting information online at www.pnas.org/cgi/content/full/
+0900877106/DCSupplemental.
+www.pnas.orgcgidoi10.1073pnas.0900877106 PNAS  May 5, 2009  vol. 106  no. 18  7565­7570
+MICROBIOLOGY
+Results
+Respiratory Droplet Transmission of a H9N2 Avian­Human Reassor-
+tant. The generation of a H9N2 avian­human reassortant,
+2WF10:6M98, containing the surface genes of A/guinea fowl/Hong
+Kong/WF10/99 (H9N2) [WF10] and the internal genes of A/Mem-
+phis/14/98 (H3N2) [M98] led to increased replication, direct trans-
+mission, and tissue tropism when compared to the parental WF10
+virus. Clinical signs displayed were similar to those observed during
+infection with the full human M98 H3N2 virus and included high
+viral titers in nasal washes and sneezing, yet no transmission to
+respiratory droplet contacts occurred (4). To determine the key
+components necessary for efficient respiratory droplet transmission
+we began adapting the 2WF10:6M98 H9N2 virus in ferrets. Ferrets
+were infected intranasally (i.n.) with 106
+tissue culture infectious
+dose 50 (TCID50) of 2WF10:6M98 (passage 1); nasal washes were
+collected 3 days postinfection (p.i.), pooled, and used as the dose for
+the following passage of ferrets. Respiratory droplet contact ferrets
+were introduced at passages 1 and 2; however, no transmission was
+observed. After 9 passages of nasal wash, we arbitrarily tested the
+transmissibility of this virus during the 10th passage, herein referred
+to as P10. Within 3 days postcontact (p.c.), direct contact ferrets
+were shedding virus and were able to transmit to respiratory droplet
+contact ferrets by days 4 and 6 p.c. (Fig. 1 A and B). All ferrets,
+including respiratory droplet contacts, shed virus up to 6­7 days and
+displayed clinical signs, including sneezing and fever, similar to that
+of a human virus infection (4) and showed high antibody titers to
+the homologous virus (Tables 1 and 2). The transmission phenotype
+of the P10 virus was confirmed in additional groups of ferrets (Fig.
+1 C and D), consistently resulting in efficient respiratory droplet
+transmission and clinical signs. It is necessary to note that in the
+second round of experiments, 1 of the 2 direct contact ferrets died
+on day 6 p.c. (Fig. 1C); however, postmortem examination was
+inconclusive. Our adaptation study shows that our H9N2 avian­
+human virus is able to sustain efficient, reproducible respiratory
+droplet transmission in ferrets causing an infection similar in
+duration and clinical signs to typical human H3N2 strains. These
+results suggest that current H9N2 viruses circulating in poultry
+require little adaptation in mammals, following reassortment and
+acquisition of human internal genes, to cause respiratory droplet
+transmission.
+Consistent Isolation of Ferret-Adapted P10 H9N2 Virus in Lung Tissue.
+The consistency of obtaining respiratory droplet transmission in
+multiple rounds of transmission led us to compare tissue tropism of
+the P10 virus to the parental 2WF10:6M98 and WF10 viruses (4).
+Ferrets were also mock infected with PBS as a negative control.
+Tissues were collected on day 5 p.i., homogenized, and virus
+titrations performed as previously described (4). While
+2WF10:6M98 was able to replicate and expand tissue tropism
+compared to WF10, the P10 virus shows over 1.5 log10 higher viral
+Fig. 1. Respiratory droplet transmission of H9N2 avi-
+an­human reassortant viruses. Ferrets were inocu-
+lated with 106 TCID50 of P10 ferret-adapted H9N2 virus
+(A and C) or 2RCP10:6M98 reassortant virus (E). Direct
+contact ferrets (A, C, and E) and respiratory droplet
+contact ferrets for P10 (B and D) and 2RCP10:6M98 (F)
+were introduced at 24 h p.i. and nasal washes were
+collected daily. Black and white bars represent individ-
+ual ferrets. In C, day 6 p.c., the direct contact from the
+group represented by the black bars died, as noted by
+an asterisk in the bar graph. Titers are expressed as
+log10 values of TCID50/mL with the limit of detection at
+0.699 log10TCID50/mL.
+Table 1. Clinical signs, virus replication, and seroconversion
+associated with H9N2 reassortant viruses in infected ferrets
+Infected ferrets
+Virus
+Weight Loss
+(%)*
+Sneezing
+(day of onset)
+Serum
+(HI titer)
+2WF10:6M98 5.1  0.85 2/2 (2, 2) 2560, 2560
+P10 4.01  1.2 4/4 (3, 5, 7) 2560, 2560, 2560, 2560
+2RCP10:6M98 4.67  1.7 3/4 (5, 6) 2560, 2560, 2560, 2560
+RCP10 (A189, G192) 5.0  2.48 4/4 (5, 6) 2560, 2560, 2560, 1280
+RCP10 (T189, R192)  3.69  1.43 4/4 (5, 6) 2560, 2560, 1280, 1280
+2WF10:6RCP10 1.9  1.0 4/4 (5, 6) 1280, 1280, 2560, 1280
+*Average body weight loss is shown as average  standard deviation.
+At 2 weeks p.i. convalescent sera was collected and used with the homolo-
+gous virus in HI assays to detect anti-H9 antibodies.
+Two independent experiments with 2 infected, 2 direct, and 2 respiratory
+droplet ferrets each.
+7566  www.pnas.orgcgidoi10.1073pnas.0900877106 Sorrell et al.
+titers than 2WF10:6M98 (Fig. 2). We also isolated virus from the
+brain of the P10 ferrets, suggesting that in addition to improving its
+transmissibility phenotype, this virus has the potential to become
+more virulent. However, we must note that this study focuses largely
+on the molecular features that alter the transmission phenotype of
+an H9N2 virus in ferrets. The molecular markers that modulate
+virulence of this virus in ferrets are beyond the scope of the present
+report and are currently being evaluated.
+Minor Sequence Changes Observed During Ferret Respiratory Droplet
+Adaptation. Viruses collected from the nasal washes of respiratory
+droplet contacts, A/ferret/Maryland/P10-UMD/08 (H9N2)
+[RCP10], were directly sequenced to determine the molecular
+changes supporting respiratory droplet transmission. Sequence
+analysis of nasal washes collected on days 5 and 8 p.c., from 4
+independent respiratory droplet contacts, revealed the same 5
+amino acid changes from 2WF10:6M98 to the RCP10 virus, indi-
+cating their selection during respiratory droplet transmission. Three
+amino acid changes were found on the surface proteins while 2 were
+found on the internal proteins. Two changes occurred on the HA,
+one on the HA1 portion of the molecule at position 189 (H3
+numbering) within antigenic site B and in close proximity to the
+RBS (Fig. 3). This amino acid change from threonine (T) to alanine
+(A) has been documented before (17) and is also found in naturally
+occurring isolates (18). However, the combination of key amino
+acid residues at the RBS found in the RCP10 ferret-adapted virus;
+i.e., histidine (H) 183, A189, glutamic (E) 190, and L226 has yet to
+be identified in nature (Fig. 3D). The available human H9N2
+sequences from the NCBI database that have yet to show sustained
+human-to-human transmission, contain H183 or asparagine (N)
+183, T189, E190, and L226. The only major difference in these
+viruses and the RCP10 viruses is at position 189. The second change
+is located on the HA2 at position 192 (H3 numbering), a change
+from glycine (G) to arginine (R), 3 amino acids away from the
+transmembrane region of the HA2. Unfortunately, this amino acid
+change lies within a region that has not been resolved by crystal-
+lography and therefore cannot be mapped structurally. The change
+in the NA at position 28, isoleucine (I) to valine (V), is located in
+the transmembrane domain. This domain has been reported to
+participate in virus assembly and/or shedding (19). The 2 remaining
+changes, L to I and H to tyrosine (Y), at positions 374 and 110 of
+PB2 and M1, respectively, map to regions of unassigned functions
+within these 2 proteins.
+To establish whether the amino acid changes observed in RCP10
+occurred before passage 10, we sequenced the P10 inoculum virus
+[P10] (nasal wash from passage 9 ferrets used to infect passage 10),
+P9, and P8 inoculum viruses (nasal wash from passages 8 and 7
+ferrets used to infect passages 9 and 8, respectively) and nasal wash
+from respiratory droplet contacts from the second transmission
+study of P10 [RCP102] (Fig. 1 C and D). Sequence analysis of
+passages 8­10 revealed that changes observed in the PB2 and NA
+occurred either before or at passage 8 with the M1 having a mixed
+population at P8 selecting for Y at P9. Interestingly the 2 changes
+observed on the HA were not present until RCP10 and nasal
+washes collected from RCP102 respiratory droplet contacts re-
+vealed the same 2 changes in the HA gene, implying these changes
+were selected during adaptation and are perhaps necessary for
+respiratory droplet transmission (Table 3). The sequence analysis
+shows minor changes are necessary to support respiratory droplet
+transmission, one of which alters the RBS of the HA and most likely
+results in the observed transmission phenotype.
+Adaptive Mutations on RCP10 Surface Proteins Support Respiratory
+Droplet Transmission. A majority of the adaptive amino acid changes
+occurred before passage 10, with the exception of changes found on
+the HA. Therefore we wanted to determine whether the amino acid
+changes on the surface proteins alone are sufficient for respiratory
+droplet transmission in the background of the M98 backbone. Using
+reverse genetics, we created a reassortant virus, 2RCP10:6M98,
+which contains the HA and NA genes from the ferret-adapted
+RCP10 virus and the internal genes from the human M98 virus. We
+found that the changes in the surface proteins alone are indeed
+sufficient for respiratory droplet transmission (Fig. 1 E and F) with
+direct contacts shedding virus days 4 and 5 p.c. and transmission to
+respiratory droplet contacts on the same day with similar titers to
+P10. Clinical signs were also similar to those observed during the
+P10 infection, highlighting the role of the surface protein changes
+on transmissibility (Tables 1 and 2). Respiratory droplet transmis-
+sion of 2RCP10:6M98 was confirmed in a second, independent
+study in which 1 out of 2 respiratory droplet contacts became
+positive for virus shedding (Table 4). Although the M98 back-
+Table 2. Clinical signs, virus replication, and seroconversion associated with H9N2 reassortant viruses in direct contact and
+respiratory-droplet contact ferrets
+Direct contacts Respiratory-droplet contacts
+Virus
+Weight loss
+(%)*
+Sneezing
+(day of onset)
+Serum
+(HI titer)
+Weight loss
+(%)*
+Sneezing
+(day of onset)
+Serum
+(HI titer)
+2WF10:6M98 1.65  0.50 2/2 (4, 5) 1280, 2560 ND 0/2 10, 10
+P10 5.36  0.1 4/4 (5, 7) 2560, 2560, 2560, 2560 7.91  1.98 4/4 (7, 8, 9) 2560, 2560 1280, 2560
+2RCP10:6M98 2.79  1.43 4/4 (7, 9) 1280, 1280, 1280, 1280 2.07  0.59 4/4 (6, 7, 8) 1280, 1280, 640, 640
+RCP10 (A189, G192) 1.67  0.82 4/4 (5, 7) 1280, 1280, 2560, 2560 ND 0/4 10, 10, 10, 10
+RCP10 (T189, R192) 8.65  5.16 4/4 (6, 7) 1280, 2560, 2560, 2560 ND 0/4 10, 10, 10, 10
+2WF10: 6RCP10 2.3  1.4 4/4 (6, 7) 1280, 2560, 1280, 1280 1.2  0.4 0/4 10, 40, 640, 40
+*Average body weight loss is shown as average  standard deviation.
+Homologous virus was used in HI assays to detect anti-H9 antibodies (sera collected at 2 weeks p.c.).
+Two independent experiments with 2 infected, 2 direct, and 2 respiratory droplet ferrets each. ND, not determined, because no viral replication occurred in ferrets.
+Fig. 2. Consistent isolation of P10 H9N2 virus in lung tissue. Two ferrets were
+infected with the ferret-adapted P10 virus or mock infected with PBS. Data are
+compared to the 2WF10:6M98 and WF10 viruses published in ref. 4. Tissues
+were collected at 5 dpi. *Note only 1 of 2 ferret lungs were positive for virus
+in the 2WF10:6M98 group. Titers are expressed as log10 values of TCID50/mL
+with the limit of detection at 0.699 log10TCID50/mL. OB, olfactory bulb; NT,
+nasal turbinate.
+Sorrell et al. PNAS  May 5, 2009  vol. 106  no. 18  7567
+MICROBIOLOGY
+bone is likely to play a role in transmission, our study indicates
+that the adaptive changes in PB2 and M1 in the RCP10 virus are
+not essential for the respiratory droplet transmission phenotype.
+At most, 3 amino acid changes on the surface proteins of the
+avian H9N2 support respiratory droplet transmission in the M98
+backbone.
+Because HA is the major determinant in the transmission of
+pandemic influenza, and is key for respiratory droplet transmission
+of RCP10, we wanted to determine whether both changes in the
+RCP10 HA are required for respiratory transmission. We used
+site-directed mutagenesis to create RCP10 HA-mutant viruses that
+carry 1 of the 2 adaptive HA changes. RCP10 (A189, G192)
+contains the adaptive change of alanine at HA1 189 and the avian
+glycine at HA2 192 while RCP10 (T189, R192) contains the avian
+threonine at HA1 189 and adaptive arginine at HA2 192. Our
+transmission studies suggest that both mutations in HA are neces-
+sary for respiratory droplet transmission of the avian­human H9N2
+reassortant viruses (Fig. 4 A­D). Both mutant viruses replicate
+efficiently and transmit to direct contacts within 5 to 6 days p.c.
+inducing weight loss and sneezing (Tables 1 and 2); however,
+transmission to respiratory droplet contacts in neither nasal wash
+nor serum was detected. Interestingly, we could predict that a
+change in HA1, in close proximity to the RBS (Fig. 3), would be
+necessary for respiratory droplet transmission; however, we could
+not anticipate that a change in the HA2 portion of the molecule
+would have an impact on transmission. Furthermore, because
+infection with neither RCP10 (A189, G192) nor RCP10 (T189,
+R192) resulted in quick selection of strains with respiratory droplet
+transmission, we must conclude that both the T189A and G192R
+mutations arose as aleatory mutations during adaptation in the
+absence of selective immune pressure. Perhaps multiple rounds of
+infection would be required before a dominant population con-
+taining A189 and R192 can emerge from either the RCP10 (A189,
+G192) or RCP10 (T189, R192) viruses. These studies highlight the
+complexities associated with transmissibility of influenza viruses
+and emphasize the need for in vivo studies, like those shown here,
+to better understand mechanisms of influenza transmission.
+To determine the role the adaptive mutations in the internal
+proteins of RCP10 play in respiratory droplet transmission, we
+rescued the reassortant H9N2 virus encoding the internal genes of
+RCP10 and the unadaptive HA and NA of WF10, 2WF10:6RCP10.
+We found that the virus was able to replicate and transmit effi-
+ciently to direct contact ferrets; however, respiratory droplet trans-
+mission was observed in only 1 of 4 respiratory droplet contacts,
+which shed titers roughly 2 logs lower than RCP10 and
+Fig. 3. Adaptive mutations in the H9 HA surface protein necessary for
+respiratory droplet transmission. (A) Cartoon representation of the H9 HA
+monomer as described by Ha et al., (18) binding the Ltsc 2,6 sialic acid analog
+(orange and red lines) in the RBS. (B) Magnification of the globular head of the
+HA showing stick representations (in green) of key amino acids in the RBS:
+N183, G228, L226, T189, and V190, binding to 2,6 sialic acid (SIA, red lines).
+Numbers correspond to amino acid positions based on the H3 HA numbering
+system. (C) H9 HA RBS with amino acids corresponding to the WF10 HA
+wild-type sequence, which differs from the published crystal structure at 2
+positions: H183 (dark blue stick) and E190 (red stick). T at position 189 is
+represented as a bright green stick. (D) H9 HA RBS with amino acids corre-
+sponding to the RCP10 HA sequence, which differs from the WF10 HA se-
+quence at A189, represented as an olive green stick. Structures generated
+using MacPymol (DeLano Scientific).
+Table 3. Sequence analysis of avian­human H9N2 viruses
+obtained through adaptation in ferrets
+Gene Origin
+Amino acid
+position Parent P8 P9 P10 RCP10 RCP102
+PB2 Human 374 L I I I I I
+PB1 Human No changes* ND ND
+PA Human No changes ND ND
+HA Avian HA1 189 T T T T A A
+HA2 192 G G G/R G/R R R
+NP Human No changes ND ND
+NA Avian 28 I V V V V V
+M1 Human 110 H H/Y Y Y Y Y
+M2 Human No changes ND ND
+NS1 Human No changes ND ND
+NEP Human No changes ND ND
+*No amino acid changes detected between the parent and either the RCP10
+or the RCP102 viruses.
+ND, sequencing not done.
+Bold and italicized letters denotes more prominent residue at particular
+amino acid position based on electropherograms of sequencing profiles.
+Table 4. Summary of reassortant viruses tested for replication
+and transmission in ferrets
+Virus Replication
+Transmission
+Direct Respiratory droplet
+P10* 4/4 4/4 4/4
+2RCP10:6M98 4/4 4/4 3/4
+RCP10 (A189, G192) 4/4 4/4 0/4
+RCP10 (T189, R192) 4/4 4/4 0/4
+2WF10:6RCP10 4/4 3/4 1/4
+*Two separate studies of 2 infected, 2 direct, and 2 respiratory droplet
+contacts each.
+Minimal shedding for 1 of the 3 positive direct contacts.
+7568  www.pnas.orgcgidoi10.1073pnas.0900877106 Sorrell et al.
+2RCP10:6M98 respiratory droplet contacts (Fig. 4 E and F, Table
+2). Sequence analysis directly from the respiratory droplet contact's
+nasal wash indicated no adaptive changes on the HA. This result is
+consistent with the notion that adaptive mutations on the surface
+proteins are essential for efficient respiratory droplet transmission
+of the avian­human H9N2 reassortant virus. However we should
+note that the adaptive changes in PB2 and M1 do play a role in the
+transmission phenotype noted by the 1 positive respiratory droplet
+contact in Fig. 4F and when comparing the viral titers and length
+of shedding in respiratory droplet contacts from RCP10 and
+2RCP10:6M98. The internal genes have been implicated in trans-
+mission not only within avian species (20­22) but also from avian
+to mammalian species (23, 24). A complete set of viruses tested and
+their transmission phenotype are listed (Table 4 and supporting
+information (SI) Fig. S1 and Table S1).
+Adaptation and Respiratory Droplet Transmission Leads to Changes in
+Hemagglutinin Inhibition (HI) Profile, Implications for Pandemic Pre-
+paredness. Our results suggest that one of the important determi-
+nants for respiratory droplet transmission is located in close prox-
+imity to the RBS overlapping a major antigenic site of the HA
+molecule (site B, Fig. 3); this led us to resolve the HI profiles for the
+reassortant viruses tested. Interestingly we found that the RCP10
+virus displays a different antigenic profile from the parental WF10
+virus. The HI titers to the WF10 virus are greatly reduced if serum
+antibodies raised in response to the RCP10 are used instead of those
+against the parental WF10 virus (Table 5). The RCP10 serum also
+reacted inefficiently against other H9N2 viruses in HI assays. The
+opposite is also true: the HI titers to the RCP10 virus are greatly
+reduced if serum antibodies raised in response to the WF10 virus
+are used. More importantly, HI titers using anti-RCP10 antiserum
+were similar for the RCP10 and the RCP10 (A189, G192) viruses,
+implicating amino acid 189 in antigenicity and in agreement with its
+position in the tip of the globular head of HA1 (Fig. 3). It has been
+speculated that given natural conditions, immune pressure can
+select for variants with altered host specificity and an ability to
+escape host immunity, which are key factors in the evolution of
+avian H9N2 viruses. This RCP10 virus, in the absence of immune
+pressure, created an antigenically variant HA in the ferret. The
+findings above carry huge implications for vaccine stocks for
+pandemic preparedness; highlighting the potential discrepancy in
+antibody protection from the avian field isolate (chosen to prepare
+the vaccine stock) versus the antigenic makeup of the virus that
+gains respiratory droplet (or human-to-human) transmissibility.
+This study also highlights the inherent limitations in the selection of
+vaccine seed stocks from current avian H9N2 strains, which resem-
+bles the WF10 virus in HA sequence. It will be important to
+determine whether the changes seen in the HA of RCP10, namely
+amino acid 189 in the HA1, can confer transmissibility in additional
+H9 HAs and other avian subtypes and whether this should be
+Fig. 4. Transmission phenotype supported through
+both T189A and G192R changes on the HA. Ferrets
+were inoculated intranasally (i.n.) with 106 TCID50 of
+either RCP10 (A189, G192) (A), RCP10 (T189, R192) (C),
+or 2WF10:6RCP10 virus (E). Twenty-four hours later,
+direct contact (A, C, and E) and respiratory droplet
+contact ferrets (B, D, and F) were introduced and nasal
+washes collected daily. Black and white bars represent
+individual ferrets. Titers are expressed as log10 values
+of TCID50/mL with the limit of detection at 0.699
+log10TCID50/mL.
+Table 5. HI profiles show antigenic differences among H9N2
+wild-type and ferret-adapted strains
+Ferret
+sera*/virus WF10 RCP10
+RCP10
+(A189, G192)
+RCP10
+(T189, R192)
+WF10 5120, 5120 320, 640 640, 640 1280, 2560
+RCP10 1280, 640 5120, 5120 5120, 2560 1280, 640
+RCP10 (A189, G192) 1280, 640 5120, 2560 5120, 5120 1280, 640
+RCP10 (T189, R192) 2560, 2560 1280, 640 640, 1280 5120, 2560
+M98 10, 10 10, 10 10, 10 10, 10
+Dk/Y280 80, 80 80, 80 ND§ ND
+Ch/SF3 160, 160 320, 640 ND ND
+*Sera collected at 2 weeks p.i. was used in HI assays against homologous and
+heterologous viruses.
+Dk/Y280 corresponds to influenza A/duck/Hong Kong/Y280/97 (H9N2).
+Ch/SF3 corresponds to influenza A/chicken/Hong Kong/SF3/99 (H9N2).
+§ND, not done.
+Sorrell et al. PNAS  May 5, 2009  vol. 106  no. 18  7569
+MICROBIOLOGY
+considered a critical antigenic site for vaccine candidates. It is
+interesting to note that residue 189 has been implicated not only in
+H9 escape mutants but also in escape mutants of the highly
+pathogenic H5 and pandemic H2 viruses (17, 25­27). However, it
+must be noted that selection of alanine at position 189 in this study
+occurred in the absence of preexisting immune pressure in the
+ferrets.
+Discussion
+The threat of avian H9N2 strains, and for that matter any avian
+influenza subtype, becoming a pandemic virus is ever-present.
+However the key mechanism, human-to-human transmission, is an
+obstacle yet to be achieved and a process we cannot predict. Insight
+into the mechanism behind efficient human-to-human transmission
+can aid in surveillance, countermeasures, vaccine production, and
+quick reaction/response to outbreaks. Previous studies have com-
+pared avian influenza viruses with early pandemic strains, partic-
+ularly H1 and H3 strains and studied the particular ``adaptive
+mutations'' that lead to respiratory droplet transmission using
+different mammalian and avian animal models (28­31). These and
+other studies have confirmed the importance of SA2,6 receptor
+specificity for sustained transmission in humans (and ferrets) and
+defined position 226 in the RBS of HA as a key component in
+influenza host range (32, 33). We have recently shown that L226 in
+the RBS of the HA of H9 viruses also plays a crucial role in
+replication in ferrets; however, these viruses have yet to gain the
+ability to transmit by respiratory droplets regardless of high viral
+titers and sneezing (4).
+Our unique study describes respiratory droplet transmission of an
+avian­human H9N2 influenza virus in ferrets and pinpoints the
+minimal changes necessary for respiratory droplet transmission in
+this model. It is important to note that this particular strain has yet
+to establish itself in a mammalian host; however, after only 10
+passages of nasal washes we were able to establish infection and
+sustain respiratory droplet transmission that was reproducible in
+multiple studies. This adaptation resulted in only 5 amino acid
+changes in the entire genome implying that little is needed for
+currently circulating avian H9N2 viruses to transmit human-to-
+human following reassortment with a human strain. Studies to
+identify the minimal changes necessary indicated the 3 changes in
+the surface HA and NA as key point mutations essential for
+respiratory droplet transmission. More importantly, we identified
+and located a change that dramatically alters the antigenicity of the
+virus, bringing to light the inherent limitations in the selection of
+vaccine seed stocks for avian H9N2 viruses and the possible
+inefficiency regarding the seed stock selection of other avian
+influenza strains. Whether these changes can affect transmission
+phenotypes of additional avian H9N2 strains and possibly other
+influenza subtypes, most notably H5 and H7, is to be determined.
+However as we have mentioned, changes at position 189 (T189A)
+have been highlighted in H5 and H2 escape mutants. Our studies
+show that respiratory droplet transmission in mammals is not an
+exclusive property of the few virus subtypes that have caused human
+pandemics (namely H1, H2, and H3 influenza viruses). Other virus
+subtypes, like H9N2, can also overcome the natural barriers that
+prevent them from transmitting in a similar manner, provided the
+ideal host and environmental conditions. It is critical to determine
+these conditions to develop countermeasures for the impending
+pandemic whether it is H9, H5, or any other subtype.
+Materials and Methods
+Viruses and Cells. VirusesweregrownandtitratedinMadin-DarbyCaninekidney
+(MDCK) cells, as described previously (4). Live viruses were handled under a
+biosafety level-3 containment. The viruses collected from P8, P9, P10, and
+respiratory droplet contacts, RCP10 and RCP102, were sequenced directly from
+the nasal washes without any passages in embryonated chicken eggs or cell
+culture. Please see online supporting information for a complete description on
+Materials and Methods.
+ACKNOWLEDGMENTS. We are indebted to Ivan Gomez-Osorio for his excel-
+lent laboratory techniques and animal handling assistance. We thank Andrea
+Ferrero for her laboratory managerial skills, Danielle Hickman for editing the
+manuscript, and Dr. Robert Webster for supplying the wild-type viruses used
+in this study. We are also indebted to Drs. Bin Lu, Rosemary Broome, and the
+team at MedImmune Inc. for their training in ferret work. This research was
+possible through funding by the Centers for Disease Control and Prevention­
+Health and Human Services Grant (1U01CI000355), National Institute of Al-
+lergy and Infectious Diseases­National Institutes of Health (NIAID-NIH) Grant
+(R01AI052155), Cooperative State Research, Education, and Extension Servic-
+es­U.S. Department of Agriculture Grant (2005­05523), and NIAID-NIH Con-
+tract (HHSN266200700010C).
+1. Horimoto T, Kawaoka Y (2001) Pandemic threat posed by avian influenza A viruses. Clin
+Microbiol Rev 14(1):129­149.
+2. Matrosovich MN, Krauss S, Webster RG (2001) H9N2 influenza A viruses from poultry
+in Asia have human virus-like receptor specificity. Virology 281(2):156­162.
+3. Wan H, Perez DR (2007) Amino acid 226 in the hemagglutinin of H9N2 influenza viruses
+determines cell tropism and replication in human airway epithelial cells. J Virol
+81(10):5181­5191.
+4. Wan H, et al. (2008) Replication and transmission of H9N2 influenza viruses in ferrets:
+Evaluation of pandemic potential. PLoS ONE 3(8):e2923.
+5. van Riel D, et al. (2006) H5N1 virus attachment to lower respiratory tract. Science
+312(5772):399.
+6. Maines TR, et al. (2008) Pathogenesis of emerging avian influenza viruses in mammals
+and the host innate immune response. Immunol Rev 225:68­84.
+7. Peiris JS, et al. (2001) Cocirculation of avian H9N2 and contemporary ``human'' H3N2
+influenza A viruses in pigs in southeastern China: Potential for genetic reassortment?
+J Virol 75(20):9679­9686.
+8. Peiris M, et al. (1999) Human infection with influenza H9N2. Lancet 354(9182):916­917.
+9. Jia N, et al. (2008) Increased sensitivity for detecting avian influenza-specific antibodies
+by a modified hemagglutination inhibition assay using horse erythrocytes. J Virol
+Methods 153(1):43­48.
+10. Guo Y, Li J, Cheng X (1999) Discovery of men infected by avian influenza A (H9N2) virus.
+Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi 13(2):105­108.
+11. Butt KM, et al. (2005) Human infection with an avian H9N2 influenza A virus in Hong
+Kong in 2003. J Clin Microbiol 43(11):5760­5767.
+12. Tellier R (2006) Review of aerosol transmission of influenza A virus. Emerg Infect Dis
+12(11):1657­1662.
+13. Haff RF, Schriver PW, Stewart RC (1966) Pathogenesis of influenza in ferrets: Nasal
+manifestations of disease. Br J Exp Pathol 47(5):435­444.
+14. Herlocher ML, et al. (2001) Ferrets as a transmission model for influenza: Sequence
+changes in HA1 of type A (H3N2) virus. J Infect Dis 184(5):542­546.
+15. Renegar KB (1992) Influenza virus infections and immunity: A review of human and
+animal models. Lab Anim Sci 42(3):222­232.
+16. Smith H, Sweet C (1988) Lessons for human influenza from pathogenicity studies with
+ferrets. Rev Infect Dis 10(1):56­75.
+17. Kaverin NV, et al. (2004) Structural differences among hemagglutinins of influenza A
+virus subtypes are reflected in their antigenic architecture: Analysis of H9 escape
+mutants. J Virol 78(1):240­249.
+18. Ha Y, Stevens DJ, Skehel JJ, Wiley DC (2002) H5 avian and H9 swine influenza virus
+haemagglutinin structures: Possible origin of influenza subtypes. EMBO J 21(5):865­875.
+19. Barman S, et al. (2004) Role of transmembrane domain and cytoplasmic tail amino acid
+sequences of influenza a virus neuraminidase in raft association and virus budding.
+J Virol 78(10):5258­5269.
+20. Sorrell EM, Perez DR (2007) Adaptation of influenza A/Mallard/Potsdam/178­4/83
+H2N2 virus in Japanese quail leads to infection and transmission in chickens. Avian Dis
+51(Suppl 1):264­268.
+21. Makarova NV, Ozaki H, Kida H, Webster RG, Perez DR (2003) Replication and trans-
+mission of influenza viruses in Japanese quail. Virology 310(1):8­15.
+22. Hossain MJ, Hickman D, Perez DR (2008) Evidence of expanded host range and
+mammalian-associated genetic changes in a duck H9N2 influenza virus following
+adaptation in quail and chickens. PLoS ONE 3(9):e3170.
+23. Steel J, Lowen AC, Mubareka S, Palese P (2009) Transmission of influenza virus in a
+mammalian host is increased by PB2 amino acids 627K or 627E/701N. PLoS Pathog
+5(1):e1000252.
+24. Van Hoeven N, et al. (2009) Human HA and polymerase subunit PB2 proteins confer
+transmission of an avian influenza virus through the air. Proc Natl Acad Sci USA
+106(9):3366­3371.
+25. Tsuchiya E, et al. (2001) Antigenic structure of the haemagglutinin of human influenza
+A/H2N2 virus. J Gen Virol 82(Pt 10):2475­2484.
+26. Kaverin NV, et al. (2002) Structure of antigenic sites on the haemagglutinin molecule
+of H5 avian influenza virus and phenotypic variation of escape mutants. J Gen Virol
+83(Pt 10):2497­2505.
+27. Ilyushina N, Rudneva I, Gambaryan A, Bovin N, Kaverin N (2004) Monoclonal antibodies
+differentially affect the interaction between the hemagglutinin of H9 influenza virus
+escape mutants and sialic receptors. Virology 329(1):33­39.
+28. Tumpey TM, et al. (2007) A two-amino acid change in the hemagglutinin of the 1918
+influenza virus abolishes transmission. Science 315(5812):655­659.
+29. Taubenberger JK, Morens DM, Fauci AS (2007) The next influenza pandemic: Can it be
+predicted? J Am Med Assoc 297(18):2025­2027.
+30. Garcia-Sastre A, Whitley RJ (2006) Lessons learned from reconstructing the 1918
+influenza pandemic. J Infect Dis 194(Suppl 2):S127­S132.
+31. Naeve CW, Webster RG, Hinshaw VS (1983) Phenotypic variation in influenza virus
+reassortants with identical gene constellations. Virology 128(2):331­340.
+32. Matrosovich M, et al. (2000) Early alterations of the receptor-binding properties of H1,
+H2, and H3 avian influenza virus hemagglutinins after their introduction into mam-
+mals. J Virol 74(18):8502­8512.
+33. Stevens J, et al. (2006) Glycan microarray analysis of the hemagglutinins from modern
+and pandemic influenza viruses reveals different receptor specificities. J Mol Biol
+355(5):1143­1155.
+7570  www.pnas.orgcgidoi10.1073pnas.0900877106 Sorrell et al.
+

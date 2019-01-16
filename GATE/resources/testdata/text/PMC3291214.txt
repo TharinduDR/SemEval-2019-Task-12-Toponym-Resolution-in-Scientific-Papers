@@ -1,0 +1,273 @@
+Bat-associated
+Rabies Virus in
+Skunks
+Mira J. Leslie,* Sharon Messenger,†
+Rodney E. Rohde,‡ Jean Smith,§
+Ronald Cheshier,¶ Cathleen Hanlon,§
+and Charles E. Rupprecht§
+Rabies was undetected in terrestrial wildlife of north-
+ern Arizona until 2001, when rabies was diagnosed in 19
+rabid skunks in Flagstaff. Laboratory analyses showed
+causative rabies viruses associated with bats, which indi-
+cated cross-species transmission of unprecedented magni-
+tude. Public health infrastructure must be maintained to
+address emerging zoonotic diseases.
+In North America, >90% of cases of rabies in animals
+occur in wildlife (1); several mammalian taxa harbor
+characteristic rabies virus variants (RABVV). In Arizona,
+skunks (Mephitis mephitis) and gray foxes (Urocyon
+cinereoargenteus) maintain independent rabies enzootic
+cycles, and in indigenous bats, rabies has been diagnosed
+in 14 of 28 species (Arizona Department of Health
+Services, unpub. data). Although skunks live throughout
+Arizona, until 2001, rabid skunks had been found only in
+the southeastern quadrant of the state.
+In the United States, bat RABVV are a source of infec-
+tion for humans and other mammals (2–8). Typically,
+interspecies infection produces a single fatal spillover
+event; secondary transmission has rarely been observed.
+Antigenic typing of rabid carnivores in Arizona from 1996
+through 2000 identified bat RABVV in 1 domestic dog and
+2 gray foxes. This report describes the largest documented
+rabies epizootic among terrestrial mammals infected with
+bat RABVV, with perpetuated animal-to-animal transmis-
+sion. Coincident with the zoonotic disease significance,
+this report provides contemporary insight into pathogen
+evolution (9).
+The Study
+In January 2001, a homeowner contacted Flagstaff
+Animal Control about a dead skunk. Although no human
+had been exposed to the skunk, tissues were submitted to
+the Arizona State Health Laboratory, where rabies was
+diagnosed. This skunk was the first rabid terrestrial wild
+carnivore reported from the area. The Texas Department of
+State Health Services subsequently identified an RABVV
+associated with bats in tissues sent for antigenic character-
+ization. From January through April, 14 more skunks, dead
+or exhibiting abnormal behavior, were found throughout a
+large residential subdivision within 4 km of the initial case.
+All were infected with the same bat RABVV. From April
+through July, 4 more skunks infected with bat RABVV
+were identified ≈9 km west of the initial focus (Figure 1).
+Control measures included prohibiting relocation of nui-
+sance skunks, comprehensive public education, pet rabies
+vaccine clinics, and a 90-day emergency quarantine requir-
+ing pets to be leashed or confined and vaccinated (Figure
+1). Additionally, 217 urban skunks were vaccinated and
+marked with ear tags during a 6-month phased program of
+trap, vaccinate, and release.
+In Flagstaff and the surrounding county, during the
+decade before this epizootic, 2 rabid bats, on average,
+were reported each year. During the epizootic, 218 ani-
+mals were submitted for rabies testing (Table). Rabies was
+confirmed in 19 (13%) of 145 tested skunks and 2 (9%) of
+DISPATCHES
+1274 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 8, August 2006
+*Washington State Department of Health, Shoreline, Washington,
+USA; †California Department of Health Services, Richmond,
+California, USA; ‡Texas State University–San Marcos, San
+Marcos, Texas, USA; §Centers for Disease Control and
+Prevention, Atlanta, Georgia, USA; and ¶Arizona Department of
+Health Services, Phoenix, Arizona, USA
+Figure 1. Temporal and geographic distribution of rabies outbreak
+in Flagstaff, Arizona. A) Timeline and control measures. TVR: trap,
+vaccinate, release program. B) Geographic location of rabid
+skunks (dark gray dots = subclade 1, light gray dots = subclade 2).
+22 tested bats. Although most (18 [95%]) of the rabid
+skunks were identified and reported by lay citizens, no
+contact between these skunks and humans or domestic
+animals was reported.
+Local baseline population estimates were not available
+to indicate whether skunk demography affected disease
+attributes. Synchronous with this outbreak, independent
+epizootic activity caused by well-established skunk
+RABVV was documented in southern Arizona, which sug-
+gests that regional skunk epizootiologic dynamics were
+similarly affected. Skunks’ seasonal behavior may have
+contributed to transmission events. This epizootic was ini-
+tially recognized when a dead skunk appeared in a snow-
+covered backyard, during a season when skunks are in
+communal dens. Given an incubation period of 2 months,
+most transmission would have occurred between late
+autumn (when skunks are in their dens) and late winter
+(when they are mating).The Flagstaff epizootic peak coin-
+cided with nationwide seasonal trends of rabid skunks (1).
+Enhanced postepizootic surveillance in Flagstaff did not
+detect additional rabid terrestrial mammals for the next 3
+years. However, in 2004, a total of 5 skunks found in the
+initially affected east Flagstaff neighborhood and 1 fox 28
+km south of Flagstaff were infected with the same bat
+RABVV (10).
+Viruses isolated from the rabid skunks exhibited mono-
+clonal antibody patterns similar to RABVV associated
+with big brown (Eptesicus fuscus) and Myotis bats in the
+western United States (11). These are among the most
+abundant bat species in Arizona and often roost in houses
+and outbuildings; however, no bat colonies were found in
+association with any of the rabid skunks. Restriction
+digests of PCR amplicons from the rabid skunks did not
+match patterns known for RABVV from North American
+terrestrial reservoirs (12). Phylogenetic analysis of a 300-
+bp region of the N gene showed that the Flagstaff skunk
+RABVV was identical (100%) to Arizona bat RABVV
+(online Appendix Table, available from http://www.cdc.
+gov/ncidod/EID/vol12no08/05-1526-appT.htm,and
+Figure 2A), and differed by 22% from skunk and gray fox
+RABVV. A monophyletic clade (clade A) of 8/8 big brown,
+5/14 Myotis, and 1/6 southern yellow (Lasiurus ega) bats
+shared >95% identity with Flagstaff skunk RABVV. An
+additional 44 samples, representing 11 bat species, differed
+by >8% from Flagstaff skunk RABVV.
+An analysis of clade A, which incorporates N and G
+genes, indicated that the Flagstaff skunk RABVV were
+more closely related to 2 bat RABVV (E. fuscus from
+Coconino County, M. velifer from Maricopa County) col-
+lected in 1999 and 1997 than to the 2 bat RABVV collect-
+ed locally during the outbreak. In clade B, subclade 1
+RABVV were collected from January through early April
+Bat-associated Rabies Virus, Skunks
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 8, August 2006 1275
+Figure 2. A) Phylogenetic tree of the 19 rabid skunk isolates and
+representative samples of known rabies virus variants (RABVV)
+from Arizona based on 300 bp of the nucleoprotein (N) gene
+(GenBank accession no. AY170226-304). B) Detailed analyses of
+clade including all 19 skunk isolates (clade B) based on 2221 bp
+of the N and glycoprotein (G) genes (GenBank accession no.
+AY170397-438). Phylogenetic analyses used PAUP* software
+(version 4.0b2, Sinauer Associates, Sunderland, MA, USA; 2000]
+using the neighbor-joining search algorithm (minimum evolution)
+with maximum likelihood to estimate Ti:Tv ratio and nucleotide
+base frequencies (HKY85 model). Numbers at tree nodes indicate
+nonparametric bootstrap proportions based on 1,000 replicates.
+from the northeastern region of the outbreak, whereas sub-
+clade 2 RABVV were collected from early March through
+July from the southeastern and western regions of the out-
+break (Figure 1). However, phylogenetic data do not sup-
+port a wavelike spread from northeast to west because this
+would require nesting of subclade 1 within subclade 2. In
+contrast, both subclades exhibit independently derived
+mutations. East-to-west epizootic movement of RABVV
+within subclade 2 (sk16–19 form a monophyletic clade
+nested within subclade 2) during April is supported by the
+data and may be related to dispersal of infected skunks
+along river corridors or translocation by humans. One per-
+son reported trapping, moving, and releasing a skunk
+before the outbreak was known in the community.
+Alternatively, apparent shifts may be an artifact of intensi-
+fied public awareness and reporting. Lack of sampling in
+the uninhabited forest between the eastern and western foci
+limits our ability to discriminate among these hypotheses.
+Conclusions
+This is the largest recorded cluster of bat RABVV
+infection in terrestrial mammals. Investigation of this
+novel outbreak showed evolution in action with the emer-
+gence of an RABVV that successfully adapted from
+Chiroptera to Carnivora. Previously documented clusters
+involving 3–4 to terrestrial mammals infected with a single
+insectivorous bat rabies virus variant did not corroborate
+sustained transmission (12). Although >1 skunk may have
+been exposed to a single rabid bat, it is highly unlikely that
+each skunk was exposed to the same bat or that multiple
+bat-skunk exposures occurred. We could not ascertain the
+complete scope of this outbreak or whether it was the
+index event. Phylogenetic analyses support the evolution
+of 2 independent lineages, suggesting establishment for
+months or years. Additionally, virus isolation from salivary
+glands of 5 affected skunks and the reappearance of rabid
+skunks with the same RABVV in 2004 support the proba-
+bility of independent transmission.
+The recognition of this epizootic can be credited to a
+coordinated laboratory-based disease surveillance program
+to monitor sick and dead wildlife for potential zoonoses
+(plague, tularemia, rabies) even in situations lacking
+human or pet exposures. Comprehensive animal disease
+surveillance provides direct benefits to public health and
+animal health by promoting early recognition of risk and
+opportunities for disease control and prevention interven-
+tions.
+Unpredictable health threats related to emerging
+zoonoses, especially those involving wildlife reservoirs,
+pose notable surveillance and control challenges (13–15).
+Recent bioterrorism initiatives emphasize integration of
+human and animal disease surveillance, and enhanced lab-
+oratory capacity, as essential functions in zoonosis detec-
+tion (13). Rabies surveillance and control programs serve
+as historic prototypes for effective, long-term, public
+health programs. Quintessential zoonotic disease programs
+require innovative and expanded capacities, commitments
+to public health and veterinary laboratory infrastructure,
+and appropriate interagency and interdisciplinary coordi-
+nation and communication.
+Acknowledgments
+We thank the citizens of Flagstaff and a large multiagency
+task force, who contributed to managing this outbreak, including
+Flagstaff City Police Department Animal Control Program, B.
+Worgess, P. Barbeau, C. Levy, J. Henderson, M. VanDeGriend,
+D. Bergman, Northern Arizona University, R. Rosatte, Texas
+Department of State Health Services Rabies Laboratory, M.
+Niezgoda, L. Orciari, J. Dragoo, Arizona Department of Game
+and Fish, Coconino County Humane Society, and the Coconino
+County Board of Supervisors. We also thank Doug Beckner for
+the timeline graphic.
+Dr Leslie was Arizona’s state public health veterinarian dur-
+ing 1995–2002 and currently holds the same position in
+Washington State. Her work is focused on surveillance, investi-
+gation, and control of zoonotic and vectorborne diseases. She
+chairs the National Association of State Public Health
+Veterinarian’s Compendium of Animal Rabies Prevention and
+Control Committee.
+References
+1. Krebs JW, Mandel EJ, Swerdlow D, Rupprecht CE. Rabies surveil-
+lance in the United States during 2003. J Am Vet Med Assoc.
+2004;225:1837–49.
+2. Brass DA. Rabies in bats: natural history and public health implica-
+tions. Ridgefield (CT): Livia Press; 1994.
+3. Messenger SL, Smith JS, Orciari LA, Yager PA, Rupprecht CE.
+Emerging patterns of rabies deaths and increased viral infectivity.
+Emerg Infect Dis. 2003;9:151–4.
+4. Mondul AM, Krebs JW, Childs JE. Trends in national surveillance for
+rabies among bats in the United States (1993–2000). J Am Vet Med
+Assoc. 2003;222:633–9.
+5. Anderson LJ, Nicholson MB, Tauxe RV, Winkler WG. Human rabies
+in the United States, 1960 to 1979: epidemiology, diagnosis, and pre-
+vention. Ann Intern Med. 1984;100:728–35.
+6. Noah DL, Drenzek CL, Smith JS, Krebs JW, Orciari L, Shaddock J,
+et al. Epidemiology of human rabies in the United States, 1980–1996.
+Ann Intern Med. 1998;128:922–30.
+7. Rohde RE, Mayes BC, Smith JS, Neill SU. Bat rabies, Texas,
+1996–2000. Emerg Infect Dis. 2004;10:948–52.
+8. McQuiston JH, Yager PA, Smith JS, Rupprecht CE. Epidemiologic
+characteristics of rabies virus variants in dogs and cats in the United
+States, 1999. J Am Vet Med Assoc. 2001;218:1939–42.
+9. Badrane H, Tordo N. Host switching in Lyssavirus history from the
+Chiroptera to the Carnivora orders. J Virol. 2001;75:8096–104.
+10. Arizona Department of Health Services. Rabies in Arizona, 2004.
+[cited 2006 Mar 26]. Available from http://www.azdhs.gov/phs/oids/
+vector/rabies/rab04.htm
+DISPATCHES
+1276 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 8, August 2006
+11. Smith JS, Reid-Sanden FL, Roumillat LF, Trimarchi C, Clark K, Baer
+GM, et al. Demonstration of antigenic variation among rabies virus
+isolates by using monoclonal antibodies to nucleocapsid proteins. J
+Clin Microbiol. 1986;24:573–80.
+12. Rohde RE, Neill SU, Clark KA, Smith JS. Molecular epidemiology
+of rabies epizootics in Texas. Clin Diagn Virol. 1997;8:209–17.
+13. Messenger SL, Rupprecht CE, Smith JS. Bats, emerging virus infec-
+tions, and the rabies paradigm. In: Kunz TH, Fenton MB, editors. Bat
+ecology. Chicago: The University of Chicago Press; 2003. p. 622–79.
+14. Centers for Disease Control and Prevention. Core functions and capa-
+bilities of state public health laboratories: a report of the Association
+of Public Health Laboratories. MMWR Recomm Rep. 2002;51
+(RR14):1–8.
+15. Hanlon CA, Childs JE, Nettles VF. Recommendations of a national
+working group on prevention and control of rabies in the United
+States. Article III: rabies in wildlife. J Am Vet Med Assoc.
+1999;215:1612–8.
+Address for correspondence: Mira J. Leslie, Washington Department of
+Health, Communicable Disease Epidemiology, 1610 NE 150th St, MS
+K17-9, Shoreline, WA 98155-9701 email: Mira.Leslie@doh.wa.gov
+Bat-associated Rabies Virus, Skunks
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 8, August 2006 1277
+Use of trade names is for identification only and does not imply
+endorsement by the Public Health Service or by the U.S.
+Department of Health and Human Services.

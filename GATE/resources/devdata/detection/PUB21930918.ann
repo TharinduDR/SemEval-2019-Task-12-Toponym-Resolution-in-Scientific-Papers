@@ -1,0 +1,72 @@
+T28	Location 2417 2430	United States
+#28	AnnotatorNotes T28	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T32	Location 4486 4499	United States
+#32	AnnotatorNotes T32	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T36	Location 9965 9975	Camp Dodge
+#36	AnnotatorNotes T36	<latlng>41.70298,-93.71847</latlng><pop>0</pop><geoID>7267333</geoID>
+T37	Location 9978 9986	Johnston
+#37	AnnotatorNotes T37	<latlng>41.67304,-93.69772</latlng><pop>17278</pop><geoID>4862760</geoID>
+T38	Location 10006 10015	Manhattan
+#38	AnnotatorNotes T38	<latlng>39.18361,-96.57167</latlng><pop>52281</pop><geoID>4274994</geoID>
+T39	Location 10033 10042	Charlotte
+#39	AnnotatorNotes T39	<latlng>35.22709,-80.84313</latlng><pop>731424</pop><geoID>4460243</geoID>
+T40	Location 10063 10071	Columbia
+#40	AnnotatorNotes T40	<latlng>34.00071,-81.03481</latlng><pop>129272</pop><geoID>4575352</geoID>
+T41	Location 10087 10097	Petersburg
+#41	AnnotatorNotes T41	<latlng>37.22793,-77.40193</latlng><pop>32420</pop><geoID>4778626</geoID>
+T42	Location 10116 10128	San Antonio
+#42	AnnotatorNotes T42	<latlng>29.42412,-98.49363</latlng><pop>1327407</pop><geoID>4726206</geoID>
+T46	Location 10150 10157	Yaphank
+#46	AnnotatorNotes T46	<latlng>40.83677,-72.91705</latlng><pop>5945</pop><geoID>5145197</geoID>
+T58	Location 16555 16568	United States
+#58	AnnotatorNotes T58	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T62	Location 19215 19234	Northern Hemisphere
+#62	AnnotatorNotes T62	<latlng>45.0,0.0</latlng><geoID>NA</geoID>
+T64	Location 19688 19694	Europe
+#64	AnnotatorNotes T64	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T65	Location 21103 21118	Northern Europe
+#65	AnnotatorNotes T65	<latlng>61.68987,2.90039</latlng><pop>0</pop><geoID>7729883</geoID>
+T73	Location 30701 30714	United States
+#73	AnnotatorNotes T73	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T1	Location 4167 4169	US
+#1	AnnotatorNotes T1	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T2	Location 9988 9990	IA
+#2	AnnotatorNotes T2	<latlng>42.00027, -93.50049</latlng><pop>2955010</pop><geoID>4862182</geoID>
+T3	Location 10017 10019	KS
+#3	AnnotatorNotes T3	<latlng>38.50029,-98.50063</latlng><pop>2740759</pop><geoID>4273857</geoID>
+T4	Location 9992 10004	Camp Funston
+#4	AnnotatorNotes T4	<latlng>39.0953965,-96.730578</latlng><pop>0</pop><geoID>7533622</geoID>
+T5	Location 10021 10031	Camp Green
+#5	AnnotatorNotes T5	<latlng>NA</latlng><geoID>NA</geoID>
+T6	Location 10044 10046	NC
+#6	AnnotatorNotes T6	<latlng>35.50069,-80.00032</latlng><pop>8611367</pop><geoID>4482348</geoID>
+T7	Location 10049 10061	Camp Jackson
+#7	AnnotatorNotes T7	<latlng>34.04757, -80.83335</latlng><pop>0</pop><geoID>7267476</geoID>
+T8	Location 10073 10075	SC
+#8	AnnotatorNotes T8	<latlng>34.00043,-81.00009</latlng><pop>4229842</pop><geoID>4597040</geoID>
+T9	Location 10077 10085	Camp Lee
+#9	AnnotatorNotes T9	<latlng>37.54681,-77.45054</latlng><pop>0</pop><geoID>4750658</geoID>
+T10	Location 10099 10101	VA
+#10	AnnotatorNotes T10	<latlng>37.54812,-77.44675</latlng><pop>7642884</pop><geoID>6254928</geoID>
+T11	Location 10103 10114	Camp Travis
+#11	AnnotatorNotes T11	<latlng>NA</latlng><pop>0</pop><geoID>NA</geoID>
+T12	Location 10130 10132	TX
+#12	AnnotatorNotes T12	<latlng>31.25044,-99.25061</latlng><pop>22875689</pop><geoID>4736286</geoID>
+T13	Location 10159 10161	NY
+#13	AnnotatorNotes T13	<latlng>43.00035,-75.4999</latlng><pop>19274244</pop><geoID>5128638</geoID>
+T14	Location 10198 10212	Washington, DC
+#14	AnnotatorNotes T14	<latlng>38.91706,-77.00025</latlng><pop>552433</pop><geoID>4138106</geoID>
+T15	Location 10138 10148	Camp Upton
+#15	AnnotatorNotes T15	<latlng>40.86889,-72.87917</latlng><pop>0</pop><geoID>6353871</geoID>
+T16	Protein 87 91	Zong
+#16	AnnotatorNotes T16	BEGIN
+T17	Protein 1054 1055	)
+#17	AnnotatorNotes T17	END
+T18	Protein 6625 6631	Author
+#18	AnnotatorNotes T18	BEGIN
+T19	Protein 7471 7481	1111179108
+#19	AnnotatorNotes T19	END
+T20	Protein 34182 34197	ACKNOWLEDGMENTS
+#20	AnnotatorNotes T20	BEGIN
+T21	Protein 43525 43537	MICROBIOLOGY
+#21	AnnotatorNotes T21	END

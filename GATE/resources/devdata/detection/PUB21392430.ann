@@ -1,0 +1,100 @@
+T1	Location 152 158	Europe
+#1	AnnotatorNotes T1	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T2	Location 402 412	Luxembourg
+#2	AnnotatorNotes T2	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T3	Location 1389 1403	North America
+#3	AnnotatorNotes T3	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T17	Location 1856 1870	western Europe
+#17	AnnotatorNotes T17	<latlng>50.21909, 7.42676</latlng><pop>189970000</pop><geoID>9408659</geoID>
+T6	Location 1960 1966	Norway
+#6	AnnotatorNotes T6	<latlng>62,10</latlng><geoID>3144096</geoID>
+T7	Location 2049 2056	Germany
+#7	AnnotatorNotes T7	<latlng>51,9</latlng><geoID>2921044</geoID>
+T8	Location 2058 2063	Italy
+#8	AnnotatorNotes T8	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T9	Location 2065 2072	Denmark
+#9	AnnotatorNotes T9	<latlng>56,10</latlng><geoID>2623032</geoID>
+T10	Location 2857 2863	Europe
+#10	AnnotatorNotes T10	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T11	Location 3076 3089	North America
+#11	AnnotatorNotes T11	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T12	Location 3378 3384	Europe
+#12	AnnotatorNotes T12	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T13	Location 3437 3451	Western Europe
+#13	AnnotatorNotes T13	<latlng>50.21909, 7.42676</latlng><pop>189970000</pop><geoID>9408659</geoID>
+T37	Location 4140 4153	United States
+#37	AnnotatorNotes T37	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T38	Location 4155 4169	United Kingdom
+#38	AnnotatorNotes T38	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T39	Location 4176 4183	Finland
+#39	AnnotatorNotes T39	<latlng>64,26</latlng><geoID>660013</geoID>
+T40	Location 5623 5634	Junglinster
+#40	AnnotatorNotes T40	<latlng>49.70722,6.25306</latlng><pop>2358</pop><geoID>2960400</geoID>
+T41	Location 5637 5647	Luxembourg
+#41	AnnotatorNotes T41	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T42	Location 5694 5704	Luxembourg
+#42	AnnotatorNotes T42	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T47	Location 6166 6176	Luxembourg
+#47	AnnotatorNotes T47	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T53	Location 6627 6641	western Europe
+#53	AnnotatorNotes T53	<latlng>50.21909, 7.42676</latlng><pop>189970000</pop><geoID>9408659</geoID>
+T57	Location 8525 8533	San Jose
+#57	AnnotatorNotes T57	<latlng>37.33939,-121.89496</latlng><pop>945942</pop><geoID>5392171</geoID>
+T58	Location 8539 8542	USA
+#58	AnnotatorNotes T58	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T59	Location 8566 8573	Chicago
+#59	AnnotatorNotes T59	<latlng>41.85003,-87.65005</latlng><pop>2695598</pop><geoID>4887398</geoID>
+T60	Location 8579 8582	USA
+#60	AnnotatorNotes T60	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T61	Location 12811 12821	Luxembourg
+#61	AnnotatorNotes T61	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T69	Location 15013 15023	Luxembourg
+#69	AnnotatorNotes T69	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T74	Location 16327 16337	Luxembourg
+#74	AnnotatorNotes T74	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T79	Location 21579 21589	Luxembourg
+#79	AnnotatorNotes T79	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T83	Location 24301 24307	Europe
+#83	AnnotatorNotes T83	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T84	Location 24324 24334	Luxembourg
+#84	AnnotatorNotes T84	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T85	Location 24447 24454	Ireland
+#85	AnnotatorNotes T85	<latlng>53,-8</latlng><geoID>2963597</geoID>
+T86	Location 24460 24465	Spain
+#86	AnnotatorNotes T86	<latlng>40,-4</latlng><geoID>2510769</geoID>
+T87	Location 24518 24528	Luxembourg
+#87	AnnotatorNotes T87	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T88	Location 25500 25510	Luxembourg
+#88	AnnotatorNotes T88	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T90	Location 27136 27142	Europe
+#90	AnnotatorNotes T90	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T91	Location 28742 28756	United Kingdom
+#91	AnnotatorNotes T91	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T92	Location 28761 28768	Finland
+#92	AnnotatorNotes T92	<latlng>64,26</latlng><geoID>660013</geoID>
+T93	Location 28818 28823	China
+#93	AnnotatorNotes T93	<latlng>35,105</latlng><geoID>1814991</geoID>
+T94	Location 29166 29179	United States
+#94	AnnotatorNotes T94	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T96	Location 30447 30457	Luxembourg
+#96	AnnotatorNotes T96	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T97	Location 30537 30547	Luxembourg
+#97	AnnotatorNotes T97	<latlng>49.75,6.1667</latlng><geoID>2960313</geoID>
+T98	Location 30685 30691	Europe
+#98	AnnotatorNotes T98	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T222	Location 24430 24437;24438 24445	United Kingdom
+#222	AnnotatorNotes T222	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T223	Location 126 138	the Americas
+#223	AnnotatorNotes T223	<latlng>11.863562,-107.4353043</latlng><geoID>NA</geoID>
+T224	Location 8535 8537	CA
+#224	AnnotatorNotes T224	<latlng>37.25022, -119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T225	Location 8575 8577	IL
+#225	AnnotatorNotes T225	<latlng>40.00032, -89.25037</latlng><pop>12772888</pop><geoID>4896861</geoID>
+T4	Protein 3459 3464	Nancy
+#4	AnnotatorNotes T4	BEGIN
+T14	Protein 4099 4112	eid1703100581
+#14	AnnotatorNotes T14	END
+T15	Protein 32100 32115	Acknowledgments
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 39820 39823	411
+#16	AnnotatorNotes T16	END

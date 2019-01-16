@@ -1,0 +1,2225 @@
+American Journal of Epidemiology
+
+ª The Author 2009. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial
+License (http://creativecommons.org/licenses/by-nc/2.5), which permits unrestricted non-commercial use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Vol. 171, No. 4
+DOI: 10.1093/aje/kwp394
+Advance Access publication:
+December 10, 2009
+
+Original Contribution
+Estimates of the Transmissibility of the 1968 (Hong Kong) Inﬂuenza Pandemic:
+Evidence of Increased Transmissibility Between Successive Waves
+
+Charlotte Jackson*, Emilia Vynnycky, and Punam Mangtani
+* Correspondence to Charlotte Jackson, Department of Epidemiology and Population Health, London School of Hygiene and
+Tropical Medicine, Keppel Street, London WC1E 7HT, United Kingdom (e-mail: charlotte.jackson@lshtm.ac.uk).
+
+Initially submitted May 8, 2009; accepted for publication November 5, 2009.
+
+The transmissibility of the strain of inﬂuenza virus which caused the 1968 inﬂuenza pandemic is poorly understood. Increases in outbreak size between the ﬁrst and second waves suggest that it may even have increased
+between successive waves. The authors estimated basic and effective reproduction numbers for both waves of the
+1968 inﬂuenza pandemic. Epidemic curves and overall attack rates for the 1968 pandemic, based on clinical and
+serologic data, were retrieved from published literature. The basic and effective reproduction numbers were
+estimated from 46 and 17 data sets for the ﬁrst and second waves, respectively, based on the growth rate and/
+or ﬁnal size of the epidemic. Estimates of the basic reproduction number (R0) were in the range of 1.06–2.06 for the
+ﬁrst wave and, assuming cross-protection, 1.21–3.58 in the second. Within each wave, there was little geographic
+variation in transmissibility. In the 10 settings for which data were available for both waves, R0 was estimated to be
+higher during the second wave than during the ﬁrst. This might partly explain the larger outbreaks in the second
+wave as compared with the ﬁrst. This potential for change in viral behavior may have consequences for future
+pandemic mitigation strategies.
+basic reproduction number; disease outbreaks; inﬂuenza, human; models, theoretical; Orthomyxoviridae
+
+The current pandemic of novel H1N1 influenza illustrates
+the ability of novel influenza viruses to spread rapidly
+through populations. H1N1 first emerged in spring 2009,
+and a second wave is expected in the Northern Hemisphere
+in the autumn. The 1968 (Hong Kong) H3N2 influenza pandemic also occurred in 2 waves, the second being more
+severe than the first in many settings (1–9). Like H1N1
+(and H5N1, another influenza virus with pandemic potential), the H3N2 virus was not completely antigenically novel
+but shared its neuraminidase with the H2N2 virus, which
+had circulated for the preceding 10 years.
+The impact of any pandemic depends to a great extent on
+the transmissibility of the causal pathogen, which is usually described using the basic reproduction number, R0 (the
+average number of secondary infectious cases resulting
+from an infectious person’s introduction into a totally susceptible population). The equivalent statistic in a partially
+susceptible population is the effective (net) reproduction
+number, Rn. According to several studies, the R0 of the
+
+1918 H1N1 (10–16) and 1957 H2N2 (12, 13, 17) pandemic
+influenza viruses was between 1.2 and 3. The characteristics of the H3N2 pandemic influenza virus are poorly understood. Estimates of its reproduction numbers have
+primarily been based upon data from the second wave
+(11–13, 18); in a study based on national general practice
+consultation data from England and Wales, Hall et al. (19)
+estimated that Rn increased slightly between successive
+waves, from 1.28 to 1.56. Several estimates have been
+based upon mortality data (11, 13, 18), and all but 2
+(20, 21) were based on national (11, 13, 18, 19) or citylevel (12, 18) data from England and Wales. Few studies
+have explored temporal or geographic variation in the R0 of
+the 1968 pandemic virus.
+In this study, we reviewed morbidity and serologic data
+from diverse settings for the first and second waves of the
+1968 influenza pandemic to determine the extent to which
+R0 and Rn differed temporally, geographically, and between
+successive waves.
+
+465
+
+Am J Epidemiol 2010;171:465–478
+
+Setting
+
+Wave
+
+Observation
+Perioda
+
+Case Deﬁnition/
+Source of Data
+
+% of Population
+Meeting Case
+Deﬁnitionb
+
+No. of
+Persons
+Meeting
+Case
+Deﬁnition
+
+Size of Eligible
+Population
+
+% of
+Population
+Susceptible to
+Infection at
+Beginning of
+Wave
+
+Method
+Used to
+Estimate R0
+
+Length of
+Period Used
+to Estimate
+Growth Rate,
+weeks
+
+Hong Kong (36)
+
+1
+
+May 27, 1968–
+September 28,
+1968
+
+Cases of ILI reported
+weekly to the
+Epidemiological Ofﬁce
+from 6 outpatient
+departments and
+hospitals
+
+N/A
+
+100c
+
+Growth rate
+
+4
+
+Bangkok/
+Dhonburi,
+Thailand (37)
+
+1
+
+July 29, 1968–
+December 1,
+1968
+
+Attendance at an
+outpatient clinic of
+Siriraj Hospital with
+clinical diagnosis of
+inﬂuenza
+
+N/A
+
+100c
+
+Growth rate
+
+6
+
+July 29, 1968–
+November 17,
+1968
+
+Physician’s diagnosis of
+inﬂuenza reported in
+a questionnaire survey
+of school students and
+their families and
+medical students
+
+N/A
+
+100c
+
+Growth rate
+
+9
+
+August 5, 1968–
+November 10,
+1968
+
+Clinic visits for acute
+respiratory infection in
+Paraı́so and Pedro
+Miguel, Panama, for
+patients aged 3 years
+
+N/A
+
+94d
+
+Growth rate
+
+4
+
+November 1968
+
+4-fold increase in HI
+antibody titer since
+June/July 1968 in
+serologic survey of
+laboratory workers
+
+26
+
+15
+
+57
+
+93e
+
+Final size
+
+September 1,
+1968–October
+31, 1968
+
+Clinical ILI reported in
+a retrospective survey
+of families in Paraiso
+and Pedro Miguel
+
+46
+
+235
+
+516
+
+94d
+
+Final size
+
+November 4,
+1968–January
+18, 1969
+
+Self-reported ILI (deﬁned
+as ‘‘an illness with the
+symptoms of fever,
+cough, muscle aches
+and pains, headache,
+and sore throat’’) in
+a retrospective
+questionnaire survey of
+high school students
+and their families
+
+39
+
+2,711
+
+6,994
+
+100c
+
+Growth rate, ﬁnal
+size
+
+November 4,
+1968–January
+18, 1969
+
+HI antibody titer 1:10 in
+a serologic survey of
+a subgroup of students
+
+49
+
+139
+
+285
+
+100c
+
+Final size
+
+November 4,
+1968–January
+18, 1969
+
+HI antibody titer 1:10
+and self-reported ILI
+(deﬁned as above) in
+the same subgroup of
+students
+
+28
+
+81
+
+285
+
+100c
+
+Growth rate
+
+Panama Canal
+Zone (22)
+
+Am J Epidemiol 2010;171:465–478
+
+Kansas City,
+Missouri, United
+States (23)
+
+1
+
+1
+
+7
+
+5
+
+466 Jackson et al.
+
+Table 1. Data Sets From Open Settings Used in Analyses of the H3N2 Inﬂuenza Pandemic of 1968
+
+Am J Epidemiol 2010;171:465–478
+
+Philadelphia,
+Pennsylvania,
+United States
+(35)
+
+1
+
+October 29,
+1968–
+December 22,
+1968
+
+Weekly laboratoryconﬁrmed Hong Kong
+inﬂuenza isolates
+
+N/A
+
+100c
+
+Growth rate
+
+4
+
+United Kingdom (2)
+
+1
+
+December 23,
+1968–June 22,
+1969
+
+Inﬂuenza and ILI reported
+to the General Practice
+Research Unit of the
+RCGP, for patients
+consulting 40 general
+practices
+
+N/A
+
+90 (based on
+ref. 24)
+
+Growth rate
+
+8
+
+Summer 1969
+
+HI antibody titer 1:10 in
+serologic survey of
+serum samples from
+adults sent to the PHLS
+for other tests
+
+57
+
+58d
+
+Final size
+
+November 4,
+1968–April 6,
+1969
+
+Weekly laboratoryconﬁrmed inﬂuenza
+cases (inﬂuenza A virus
+isolations and cases
+with 4-fold increase in
+antibody titer) reported
+to the PHLS by hospital
+and public health
+laboratories
+
+N/A
+
+90 (based on
+ref. 24)
+
+Growth rate
+
+6
+
+631
+
+1,104
+
+1
+
+December 9,
+1968–April 20,
+1969
+
+Clinical inﬂuenza cases
+reported by the RCGP
+
+N/A
+
+90 (based on
+ref. 24)
+
+Growth rate
+
+9
+
+United Kingdom (2)
+
+2
+
+November 3,
+1969–April 5,
+1970
+
+Inﬂuenza and ILI reported
+to the General Practice
+Research Unit of the
+RCGP, for patients
+consulting 40 general
+practices
+
+N/A
+
+65 (based on
+ref. 24)
+
+Growth rate
+
+8
+
+Summer 1970
+
+HI antibody titer 1:10 in
+serologic survey of
+serum samples from
+adults sent to the PHLS
+for other tests
+
+70
+
+43d
+
+Final size
+
+Weekly laboratoryNovember 10,
+conﬁrmed inﬂuenza
+1969–February
+cases (inﬂuenza A virus
+22, 1970
+isolations and cases
+with 4-fold increase in
+antibody titer) reported
+to the PHLS by hospital
+and public health
+laboratories
+
+N/A
+
+65 (based on
+ref. 24)
+
+Growth rate
+
+5
+
+Reports to the PHLS of
+inﬂuenza A virus
+isolations and cases
+with a 4-fold increase
+in antibody titer from
+public health and
+hospital laboratories
+
+N/A
+
+65 (based on
+ref. 24)
+
+Growth rate
+
+6
+
+United Kingdom (7)
+
+2
+
+December 8,
+1969–April 5,
+1970
+
+1,502
+
+2,139
+
+Table continues
+
+Transmissibility of Hong Kong Inﬂuenza
+
+United Kingdom (7)
+
+467
+
+% of Population
+Meeting Case
+Deﬁnitionb
+
+No. of
+Persons
+Meeting
+Case
+Deﬁnition
+
+Observation
+Perioda
+
+Case Deﬁnition/
+Source of Data
+
+1
+
+December 30,
+1968–June 15,
+1969
+
+Returns from laboratories
+of viral isolations, 4fold increase in
+antibody titer, or high
+single antibody titer
+
+2
+
+December 1,
+1969–April 26,
+1970
+
+Returns from laboratories
+of viral isolations, 4fold increase in
+antibody titer, or high
+single antibody titer
+
+Cirencester, United
+Kingdom (38)
+
+1
+
+November 27,
+1968–April 15,
+1969
+
+Weekly GP consultations
+for febrile respiratory
+disease
+
+N/A
+
+Shefﬁeld, United
+Kingdom (24)
+
+1
+
+May–July 1969
+
+HI antibody titer 1:6 in
+serologic survey of
+blood donors, antenatal
+clinic attendees, and
+samples submitted for
+other tests
+
+35
+
+160
+
+Lambeth, London,
+United Kingdom
+(2)
+
+1
+
+Summer 1969
+
+4-fold increase in HI
+antibody titer in
+serologic survey of men
+living in the London
+borough of Lambeth
+
+31
+
+2
+
+Summer 1970
+
+4-fold increase in HI
+antibody titer in
+serologic survey of men
+living in the London
+borough of Lambeth
+
+West Nile District,
+Uganda (25)
+
+1
+
+November 1969
+
+Kabale,
+Uganda (25)
+
+1
+
+January 1970
+
+Czechoslovakia
+(39)
+
+1
+
+Setting
+
+Scotland (8)
+
+Wave
+
+Size of Eligible
+Population
+
+N/A
+
+% of
+Population
+Susceptible to
+Infection at
+Beginning of
+Wave
+
+Method
+Used to
+Estimate R0
+
+Length of
+Period Used
+to Estimate
+Growth Rate,
+weeks
+
+Am J Epidemiol 2010;171:465–478
+
+90 (based on
+ref. 24)
+
+Growth rate
+
+7
+
+65 (based on
+ref. 24)
+
+Growth rate
+
+8
+
+90 (based on
+ref. 24)
+
+Growth rate
+
+10
+
+454
+
+90d
+
+Final size
+
+112
+
+367
+
+81d
+
+Final size
+
+28
+
+85
+
+302
+
+52d
+
+Final size
+
+HI antibody titer 1:20 in
+serologic survey of
+samples collected
+during an unrelated
+survey
+
+17
+
+19
+
+115
+
+100c
+
+Final size
+
+HI antibody titer 1:20 in
+serologic survey of
+randomly selected
+outpatients and staff at
+Kabale Hospital
+
+22
+
+16
+
+73
+
+100c
+
+Final size
+
+January 6, 1969– Weekly reported clinical
+June 1, 1969
+inﬂuenza cases in
+Czechoslovakia, Czech
+Socialist Republic, and
+5 districts individually
+
+N/A
+
+100c
+
+Growth rate
+
+4–8,
+depending
+on district
+
+468 Jackson et al.
+
+Table 1. Continued
+
+Am J Epidemiol 2010;171:465–478
+
+Moscow, Union of
+Soviet Socialist
+Republics (32)
+
+1
+
+January–
+February 1969
+
+‘‘Morbidity’’ in adult
+placebo group in trial of
+prophylactic interferon
+
+18
+
+551
+
+3,129
+
+100c
+
+Final size
+
+‘‘Morbidity’’ in older
+children’s (ages 7–12
+years) placebo group in
+trial of prophylactic
+interferon
+
+20
+
+413
+
+2,055
+
+100c
+
+Final size
+
+1
+
+Not stated
+
+‘‘Morbidity’’ in young
+children’s (ages 2–6
+years) placebo group in
+trial of prophylactic
+interferon
+
+12
+
+53
+
+454
+
+100c
+
+Final size
+
+São Paulo, Brazil
+(4)
+
+1
+
+February 1969
+
+HI antibody titer 1:10 in
+serologic survey
+
+70
+
+684
+
+980
+
+73d
+
+Final size
+
+2
+
+1970
+
+HI antibody titer 1:10 in
+serologic survey
+
+74
+
+588
+
+790
+
+30d
+
+Final size
+
+2
+
+After May 1970
+
+Complement-ﬁxing
+antibody titer 1:10 in
+serologic survey of
+outpatients and serum
+samples submitted for
+other tests in Khartoum,
+Omdurman, and
+Khartoum North
+
+64
+
+123
+
+192
+
+50c
+
+Final size
+
+November 3,
+1969–May 30,
+1970
+
+Cases of ILI reported
+weekly to outpatient
+departments in
+hospitals and health
+centers in Khartoum
+
+N/A
+
+50c
+
+Growth rate
+
+1
+
+May 1970
+
+‘‘Demonstrable
+antibodies’’ in serologic
+survey of blood donors
+
+40
+
+213
+
+538
+
+94d
+
+Final size
+
+2
+
+September 1970
+
+4-fold increase in HI
+antibody titer since May
+1970 in serologic
+survey of blood donors
+
+21
+
+159
+
+760
+
+60d
+
+Final size
+
+1
+
+Approximately
+July–August
+1969
+
+Cases of ILI reported
+during retrospective
+surveys of GP patients
+and their families who
+consulted a GP for any
+reason after the
+epidemic (excluding
+vaccinees)
+
+16
+
+176
+
+1,099
+
+94 (based on
+ref. 5)
+
+Final size
+
+2
+
+Approximately
+June–August
+1970
+
+Cases of ILI reported
+during retrospective
+surveys of GP patients
+and their families who
+consulted a GP for any
+reason after the
+epidemic (excluding
+vaccinees)
+
+24
+
+305
+
+1,275
+
+60 (based on
+ref. 5)
+
+Final size
+
+Khartoum, Sudan
+(9, 27)
+
+Sydney, New South
+Wales, Australia
+(5)
+
+Epping, New South
+Wales, Australia
+(6)
+
+5
+
+Table continues
+
+Transmissibility of Hong Kong Inﬂuenza
+
+Donetsk, Ukraine
+(32)
+
+469
+
+Observation
+Perioda
+
+Case Deﬁnition/
+Source of Data
+
+% of Population
+Meeting Case
+Deﬁnitionb
+
+No. of
+Persons
+Meeting
+Case
+Deﬁnition
+
+Size of Eligible
+Population
+
+150
+
+808
+
+Setting
+
+Wave
+
+Epping, New South
+Wales, Australia
+(33)
+
+1
+
+Approximately
+July–August
+1969
+
+Cases of ILI reported
+during retrospective
+surveys of GP patients
+and their families who
+consulted a GP for any
+reason after the
+epidemic (excluding
+vaccinees)
+
+19
+
+New South Wales,
+Australia (6)
+
+1
+
+June 21, 1969–
+September 12,
+1969
+
+Weekly Hong Kong
+inﬂuenza virus isolates
+at Institute of Clinical
+Pathology and Medical
+Research
+
+Guatemala (40)
+
+2
+
+Doncaster, United
+Kingdom (1)
+
+2
+
+% of
+Population
+Susceptible to
+Infection at
+Beginning of
+Wave
+
+Method
+Used to
+Estimate R0
+
+Length of
+Period Used
+to Estimate
+Growth Rate,
+weeks
+
+94 (based on
+ref. 5)
+
+Final size
+
+N/A
+
+94 (based on
+ref. 5)
+
+Growth rate
+
+4
+
+August 10, 1969– Weekly reported cases of
+ILI
+December 27,
+1969
+
+N/A
+
+50c
+
+Growth rate
+
+7
+
+November 26,
+1969–January
+20, 1970
+
+Weekly GP consultations
+for clinical inﬂuenza
+
+N/A
+
+65 (based on
+ref. 24)
+
+Growth rate
+
+4
+
+November 26,
+1969–January
+20, 1970
+
+‘‘Probable inﬂuenza’’ as
+judged by response to
+questionnaire survey of
+random sample of
+patients registered with
+a general practice
+
+20
+
+108
+
+530
+
+65 (based on
+ref. 24)
+
+Final size
+
+Am J Epidemiol 2010;171:465–478
+
+Mombasa, Kenya
+(26)
+
+2
+
+February 1970
+
+HI antibody titer 1:20f in
+serologic survey of
+randomly selected
+patients receiving
+treatment at a hospital
+
+37
+
+21
+
+57
+
+100c,g
+
+Final size
+
+Arusha, Tanzania
+(26)
+
+2
+
+February 1970
+
+HI antibody titer 1:20f in
+serologic survey of
+randomly selected
+patients receiving
+treatment at a hospital
+
+72
+
+65
+
+90
+
+100c
+
+Final size
+
+Abbreviations: GP, general practitioner; HI, hemagglutination-inhibiting; ILI, inﬂuenza-like illness; N/A, not applicable; PHLS, Public Health Laboratory Service; RCGP, Royal College of General Practitioners.
+a
+Period covered by incidence data or time at which serum samples were taken.
+b
+For data sets with good ascertainment only. For serologic data, the proportion of the population meeting the case deﬁnition is not necessarily equivalent to the proportion experiencing infection during the given wave
+(as seropositivity may reﬂect infection either during that wave or previously). ‘‘N/A’’ means that ascertainment was incomplete. Numerators may include persons who did not report the date of onset of illness and
+therefore were not included in estimation of R0 using the epidemic growth rate.
+c
+Assumed proportion susceptible.
+d
+Proportion susceptible based on the original data set or on data cited in the original paper.
+e
+Data cited in the paper implied that 94% of persons in the wider population were likely to be susceptible; however, because of the small size of this sample, it was necessary to round to 93%.
+f
+Case deﬁnition not given, but comparison with reference 25 suggests this deﬁnition.
+g
+Although these data refer to the second wave, the data were inconsistent with 50% of individuals being susceptible at the start of the wave. Therefore, it was assumed that all persons were initially susceptible.
+
+470 Jackson et al.
+
+Table 1. Continued
+
+Transmissibility of Hong Kong Inﬂuenza
+
+MATERIALS AND METHODS
+Data sources
+
+We searched PubMed and CAB Direct from 1966 to 2006
+for English-language studies that presented data on 1) the
+proportions of persons who experienced infection (as implied by serologic analysis) or clinical disease and 2) weekly
+numbers of cases during the first and/or second waves of the
+1968 influenza pandemic. Reference lists in the articles retrieved were also searched, and key journals (including Bulletin of the World Health Organization, British Medical
+Journal, and Weekly Epidemiological Record) from 1968–
+1970 were hand-searched. Age-stratified data were also obtained where possible. The data sets (Tables 1 and 2) were
+classified as referring to either confined (e.g., military bases,
+ships, homes, schools) or open (cities or national populations) settings. Data sets which clearly included vaccinated
+persons were excluded. The first and second waves were
+defined from the identified reports, based on the timing of
+the global circulation of the virus: approximately July 1968
+to August 1969 for the first wave and September 1969 to
+September 1970 for the second.
+Serologic data. We identified 25 suitable serologic data sets
+(17 for the first wave, 8 for the second (2–5, 22–31)). The definition of infection varied (Tables 1 and 2) but was frequently
+either a hemagglutination-inhibiting antibody titer of 1:10 or
+a 4-fold increase in hemagglutination-inhibiting antibody
+titer. For consistency, when hemagglutination-inhibiting antibody titers were presented without a definition of infection,
+a titer of 1:10 was taken as positive.
+Clinical attack rates. We identified 11 data sets (9 for the
+first wave, 2 for the second (1, 6, 22, 23, 32–35)) with suitable data on the proportion of persons who experienced
+clinical disease (i.e., clinical attack rates). These were data
+sets in which ascertainment appeared to be good—for example, from retrospective surveys or intervention studies. Case
+definitions were taken from the original data sets. We calculated 95% exact binomial confidence intervals for both the
+clinical attack rates and the proportions seropositive.
+Epidemic curves. We identified 27 suitable data sets
+(20 for the first wave, 7 for the second (1, 2, 6–9, 22, 23,
+35–40)) on the weekly number of clinical cases (see Web
+Figure 1, which is posted on the Journal’s Web site (http://
+aje.oxfordjournals.org/)). Data sets involving small numbers
+of cases (e.g., <25) or irregular increases in case numbers
+were excluded.
+Analyses of attack rates and reproduction numbers
+Calculation of susceptible attack rates. For settings in
+which the proportion of persons seropositive before and
+after one or both waves was available, the susceptible attack
+rate (ARsus) was calculated as
+
+ARsus ¼
+
+Ppost  Ppre
+;
+1  Ppre
+
+where Ppre and Ppost are the proportions seropositive before
+and after the given wave, respectively. We estimated 95%
+Am J Epidemiol 2010;171:465–478
+
+471
+
+credible intervals for the susceptible attack rate by Monte
+Carlo sampling of posterior distributions of the proportion
+seropositive in each wave, using conjugate properties of the
+beta distribution with binomial priors (41). Here, Ppre and
+Ppost were treated as though they were independent.
+Estimation of R0. R0 was estimated for each data set
+using either the final size of the epidemic (for serologic data
+and clinical data with good ascertainment) or its growth rate
+(for epidemic curves) (42, 43) (Tables 1 and 2). These
+methods do not account for contact patterns in the population. Although recent studies have suggested that contact
+patterns are age-dependent (44), the attack rates in the
+age-stratified data we retrieved did not vary with age
+(Web Figures 2 and 3 (http://aje.oxfordjournals.org/)). This
+is paradoxical and may reflect age-related differences in
+susceptibility or case ascertainment. Such effects are difficult to study using the limited age-stratified data available;
+therefore, we restricted our analyses to data which were not
+age-stratified.
+Estimates of R0 using the ﬁnal size of the epidemic. R0
+was estimated for the corresponding data sets (1–6, 22–35)
+using the equation (42)
+R0 ¼
+
+S0
+N1 X
+1
+;
+C i¼S i
+
+ð1Þ
+
+f þ1
+
+where N is the population size, C is the number of infected
+persons or clinical cases (depending on the data set) recorded during the wave, and S0 and Sf are the numbers of
+persons considered to be susceptible in the population at the
+beginning and end of the wave, respectively.
+The standard error (SE) of R0 was calculated as (42)
+vﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+u S0
+X
+N  1u
+CR0 2
+t
+:
+ð2Þ
+SEðR0 Þ ¼
+1/i2 þ
+C
+ðN  1Þ2
+i¼S þ1
+f
+
+Rn was estimated as Rn ¼ R0s, where s is the proportion of
+the population that is susceptible to infection at the beginning of the wave. We calculated 95% confidence intervals
+for Rn by multiplying the respective limits on R0 by the
+proportion susceptible.
+Estimates of R0 using the growth rate of the
+epidemic. For each epidemic curve (1, 2, 6–9, 22, 23,
+
+35–40; Web Figure 1), Rn was estimated using the equation
+(43)
+
+
+ð3Þ
+Rn ¼ K2 LD þ K L þ D þ 1;
+where L and D are the durations of the latent and infectious
+periods, respectively, and K is the growth rate in the cumulative number of cases reported during the exponential
+growth phase of the epidemic (calculated as the gradient
+of the straight line fitted to the natural logarithm of the
+cumulative number of cases during this phase). We estimated the length of this phase for each data set (Tables 1
+and 2) by visually inspecting the plot of the natural logarithm of the cumulative number of cases against time. The
+latent and infectious periods were each assumed to last 2 days,
+
+Setting
+
+Wave
+
+Observation
+Perioda
+
+Case Deﬁnition/
+Source of Data
+
+% of Population
+Meeting Case
+Deﬁnitionb
+
+No. of
+Persons
+Meeting
+Case
+Deﬁnition
+
+Size of Eligible
+Population
+
+% of
+Population
+Susceptible to
+Infection at
+Beginning of
+Wave
+
+Method
+Used to
+Estimate R0
+
+Am J Epidemiol 2010;171:465–478
+
+USS Finch, Hong
+Kong (28)
+
+1
+
+August 2, 1968–
+August 26, 1968
+
+4-fold increase in HI and/or
+complement-ﬁxing antibody
+titer among men providing
+3 serum samples during an
+outbreak aboard a US naval
+vessel after arrival in Hong Kong
+
+48
+
+47
+
+97
+
+100c
+
+Final size
+
+Medical conference,
+Teheran, Iran (34)
+
+1
+
+September 7, 1968–
+September 15, 1968
+
+Reported general and local
+symptoms with or without
+fever reported through a
+questionnaire survey of
+attendees following an
+outbreak at a medical
+conference
+
+35
+
+296
+
+844
+
+99d
+
+Final size
+
+Japanese Self-Defense
+Forces camps (29)
+
+1
+
+April 1969
+
+4-fold increase in HI antibody
+titer since October 1968 in a
+serologic survey of randomly
+selected persons in Japanese
+Self-Defense Forces camps
+
+37
+
+495
+
+1,325
+
+100c
+
+Final size
+
+Japanese primary
+school (29)
+
+1
+
+November 1968
+
+Hong Kong antibody titer 1:128
+in a serologic survey of children
+in an ‘‘epidemic’’ primary school
+class
+
+69
+
+33
+
+48
+
+100c
+
+Final size
+
+Fuchu sanatorium,
+Japan (29)
+
+1
+
+April 1969
+
+4-fold increase in antibody titer
+since February 1969 or single
+titer 1:128 in a serologic survey
+of patients
+
+19
+
+22
+
+114
+
+100c
+
+Final size
+
+Nakano sanatorium,
+Japan (29)
+
+1
+
+May 1969
+
+4-fold increase in antibody titer
+since February 1969 or single
+titer 1:128 in a serologic survey
+of patients and staff
+
+34
+
+202
+
+593
+
+100c
+
+Final size
+
+Japanese Ground SelfDefense Forces (30)
+
+1
+
+May 1969
+
+4-fold increase in HI antibody titer
+since October 1968 in a control
+group living in different barracks
+than the vaccinated group in a
+clinical trial of Hong Kong inﬂuenza
+vaccine among soldiers
+
+63
+
+57
+
+90
+
+100c
+
+Final size
+
+Elderly care home,
+Philadelphia,
+Pennsylvania,
+United States (35)
+
+1
+
+November 1968
+
+ILI in residents during an outbreak
+of Hong Kong inﬂuenza
+
+31
+
+255
+
+824
+
+100c
+
+Final size
+
+Children’s home,
+North Carolina,
+United States (31)
+
+1
+
+December 1968
+
+Admission to inﬁrmary with 4-fold
+increase in complement-ﬁxing or
+HI antibody titer, or other serologic
+evidence of infection
+
+15d
+
+41
+
+277
+
+100c,d
+
+Final size
+
+472 Jackson et al.
+
+Table 2. Data Sets From Conﬁned Settings Used in Analyses of the H3N2 Inﬂuenza Pandemic of 1968
+
+Abbreviations: HI, hemagglutination-inhibiting; ILI, inﬂuenza-like illness.
+Period covered by incidence data or time at which serum samples were taken.
+b
+For data sets with good ascertainment only. For serologic data, the proportion of the population meeting the case deﬁnition is not necessarily equivalent to the proportion experiencing
+infection during the given wave (as seropositivity may reﬂect infection either during that wave or previously).
+c
+Assumed proportion susceptible.
+d
+Excludes 3 symptomatic children from whom serum specimens were not collected.
+e
+Proportion susceptible based on the original data set.
+a
+
+77e
+479
+199
+42
+4-fold increase in HI antibody titer
+since spring 1969
+Summer 1970
+2
+
+23
+Spring 1969
+Royal Air Force bases,
+England (3)
+
+1
+
+4-fold increase in HI antibody titer
+since autumn 1968
+
+176
+
+775
+
+100c
+
+Final size
+
+Transmissibility of Hong Kong Inﬂuenza
+
+Am J Epidemiol 2010;171:465–478
+
+473
+
+consistent with experimental data (see references in the article
+by Vynnycky et al. (15)). R0 was estimated using the equation R0 ¼ Rn/s. We calculated 95% confidence intervals for
+Rn (and hence R0) from the 95% confidence limits on K.
+Equation 3 assumes that the latent and infectious periods
+follow the exponential distribution; however, in previous
+analyses of several H1N1 pandemic influenza data sets, investigators found that R0’s in most cases were very similar,
+irrespective of whether an exponential or tight distribution
+of the latent and infectious periods was assumed (15). We
+also used the expression eKT g (where Tg is the generation
+time), which provides an upper bound for Rn (45), to assess
+whether we had underestimated Rn.
+All persons in a given setting were assumed to be susceptible to infection before the first pandemic wave, unless there
+was evidence to the contrary (e.g., data on pre-epidemic
+seropositivity) from the same setting or a similar setting
+(Tables 1 and 2). The proportion susceptible at the start
+of the second wave was also based on serologic data (see
+Tables 1 and 2). For Guatemala and Khartoum, Sudan, serologic data were unavailable, and 50% of persons were
+assumed to be susceptible at the start of the second wave,
+which is plausible given the proportion of persons who were
+seropositive after the first wave elsewhere (Web Figure 4
+(http://aje.oxfordjournals.org/)).
+To explore the sensitivity of our estimates of R0 and Rn to
+assumptions about the proportion initially susceptible, all
+analyses were repeated assuming that 100% and 50% of
+each population was susceptible at the start of the first and
+second waves, respectively.
+RESULTS
+Proportions infected and clinical attack rates
+
+The proportion of persons with serologic evidence of infection after the first wave of the 1968 pandemic varied from
+15% in a North Carolina children’s home to 76% in Japanese
+Self-Defense Forces camps (Web Figure 4). After the second
+wave, this proportion ranged from 37% in Mombasa, Kenya,
+to 74% in São Paulo, Brazil. The corresponding susceptible
+attack rates varied from 19% to 58% during the first wave and
+from 15% to 50% during the second. Neither the clinical
+attack rates nor the susceptible attack rate varied markedly
+with age in the settings for which age-stratified data were
+available (Web Figures 2 and 3).
+Clinical attack rates were generally low (typically 10%–
+20%) in open settings, except for Kansas City, Missouri, and
+the Panama Canal Zone, where the attack rates were 39%
+and 46%, respectively (Web Figure 4). Clinical attack rates
+were available for only 2 confined settings; these were
+higher (31% and 36%) than the clinical attack rates in most
+open settings. Clinical attack rates varied little with age,
+except in Doncaster, United Kingdom, where they were
+highest in young to middle-aged adults (Web Figure 3).
+Basic and effective reproduction numbers
+
+R0 and Rn could be estimated from both the final size and
+the growth rate of the respective epidemics in Kansas City
+
+474 Jackson et al.
+
+Figure 1. Estimated basic reproduction numbers (R0) for the 1968 H3N2 inﬂuenza pandemic based on the ﬁnal size or growth rate of the epidemic
+in open settings. Estimates are arranged in order of occurrence of the ﬁrst pandemic wave (indicated by the dates at the bottom of the ﬁgure), unless
+only second-wave data are shown. The 2 data sets for Epping, New South Wales, Australia, refer to 2 different retrospective surveys. Data from 5
+other districts in Czechoslovakia (Tachov, Most, Pilsen, Ústı́ nad Labem, and Sokolov), described in the article by Fedová et al. (39), produced
+results similar to the Czech data shown here (range, 1.10–1.19). ILI, inﬂuenza-like illness; PHLS, Public Health Laboratory Service; RCGP, Royal
+College of General Practitioners; USSR, Union of Soviet Socialist Republics. Bars, 95% conﬁdence interval.
+
+during the first wave and in Khartoum and Doncaster during
+the second (Tables 1 and 2). In all cases, the 2 methods
+produced similar estimates. The rest of the estimates of R0
+and Rn are considered irrespective of the method used.
+For the first wave, Rn was estimated as 1.06–2.01 and
+1.08–1.62 in open and confined settings, respectively
+(Web Figure 5 (http://aje.oxfordjournals.org/)). The corresponding R0 estimates, allowing for pre-epidemic immunity
+as indicated by seropositivity, were 1.06–2.06 and 1.08–1.62
+(Figures 1 and 2). The estimates generally appeared similar
+irrespective of the time of year or location. There were no
+consistent differences between the estimates of R0 in open
+and confined settings.
+For the second wave, Rn was estimated as 1.08–2.02 in
+open settings and as 1.43 (95% confidence interval: 1.23,
+1.63) in a single confined setting. The corresponding R0
+estimates for the second wave were 1.21–3.58 (open settings) and 1.86 (95% confidence interval: 1.60, 2.12) (confined setting). In all 10 settings for which R0 was estimated
+for both waves, the point estimate for the second wave was
+higher than that for the first (Table 3). Differences in Rn
+between waves were variable (e.g., the point estimate for
+the second wave was higher than that for the first in 7 of 10
+
+data sets), since Rn also depends on the proportion of persons who were susceptible at the beginning of the wave.
+Our estimates of Rn based on the growth rate were
+generally only slightly smaller than the upper bound obtained using the expression eKT g (see Web Table (http://
+aje.oxfordjournals.org/)).
+Repetition of the analyses using the alternative assumptions that 100% and 50% of each population were susceptible at the beginning of the first and second waves,
+respectively, produced R0 estimates of 1.06–2.01 during
+the first wave and 1.21–4.22 during the second. The corresponding Rn estimates were 1.06–2.01 and 1.05–2.11 (data
+not shown). Again, each second-wave R0 estimate was
+higher than the corresponding first-wave estimate, while
+changes in Rn between waves were less consistent.
+DISCUSSION
+
+Our results extend knowledge of the H3N2 influenza
+pandemic, firstly by including data from a much wider geographic range of settings than has been previously analyzed
+and secondly by estimating transmissibility during both
+pandemic waves for multiple settings. We found that R0
+Am J Epidemiol 2010;171:465–478
+
+Transmissibility of Hong Kong Inﬂuenza
+
+475
+
+Figure 2. Estimated basic reproduction numbers (R0) for the 1968 H3N2 inﬂuenza pandemic based on the ﬁnal size or growth rate of the epidemic
+in conﬁned settings. Estimates are arranged in order of occurrence of the ﬁrst pandemic wave (indicated by the dates at the bottom of the ﬁgure).
+The 2 data sets for Japanese Self-Defense Forces camps refer to 2 different serologic surveys. Bars, 95% conﬁdence interval.
+
+increased between the 2 waves of the pandemic, being in the
+ranges 1.06–2.06 and 1.21–3.58 during the first and second
+waves, respectively. We found little geographic or temporal
+variation in R0 or Rn within each wave. In contrast with
+those found for the 1918 pandemic, our estimates for open
+and confined settings differed little, perhaps because we defined ‘‘confined’’ rather broadly; for example, primary
+schools and care homes in 1968/1969 would have been less
+crowded than the prisons and ships considered for the 1918
+pandemic (15).
+One of our assumptions was that infection during the first
+wave conferred immunity during the second. This was based
+on the facts that 1) the proportion of persons who were
+seropositive to the prototype Hong Kong virus isolated during the first wave increased between the 2 waves (2–5, 46);
+2) hemagglutinin did not evolve significantly between the 2
+waves (47, 48); and 3) in 1 study, no person with a 4-fold
+rise in hemagglutination-inhibiting antibody titer during the
+first wave showed evidence of infection during the second
+(3).
+Our conclusions also depended in part upon the quality of
+the data assembled. Data quality was difficult to assess for
+some of the data sets. Many of them appeared to be of high
+quality, but a few had limitations, such as small sample
+sizes, unclear clinical case definitions, or low antibody titers
+in serologic case definitions (Tables 1 and 2). We restricted
+our estimates of R0 based on the final epidemic size to data
+sets with good ascertainment, since these estimates depend
+on the completeness of case reporting (estimates based on
+Am J Epidemiol 2010;171:465–478
+
+the growth rate are sensitive to the completeness of reporting only if this changes over time). Clinical data, however,
+are subject to misclassification and also will exclude asymptomatic infections. This could have caused us to underestimate R0 based on the final epidemic size from clinical data,
+if asymptomatically infected persons were infectious.
+For a few of the studies, data on the epidemic curve
+during the early stages of the wave were absent (Web Figure
+1). These missing notifications were attributed to background influenza infections or influenza-like illness. The
+extent to which this assumption was appropriate was difficult to determine for Guatemala, since the outbreak of
+influenza-like illness was preceded by an epidemic of
+Venezuelan equine encephalomyelitis (40). Missing data
+late in the epidemic would not affect estimates based on
+the growth rate, which use only data from the early stages.
+Serologic data, while more specific than clinical data, also
+have caveats. Firstly, for 6 of the serologic data sets, infection was defined using a relatively low hemagglutinationinhibiting antibody titer (1:10 or lower). Secondly, preepidemic seropositivity may indicate preexisting crossreacting antibody rather than infection with H3N2 influenza
+(3, 24). Either of these factors could have caused us to overestimate the proportion of persons who were immune at
+either the start or the end of the epidemic wave; the net
+effect on our estimates of R0 is difficult to predict.
+For example, overestimating the proportion immune at
+the end of the wave would have caused us to overestimate
+the final epidemic size and R0. Overestimating the
+
+476 Jackson et al.
+
+Table 3. Changes in the Basic Reproduction Number (R0) Between
+Waves of the H3N2 Inﬂuenza Pandemic of 1968
+First Wave
+
+Second Wave
+
+Setting
+R0
+
+95% CI
+
+R0
+
+95% CI
+
+United Kingdom
+(RCGP data)
+
+1.26
+
+1.24, 1.28
+
+2.08
+
+2.04, 2.12
+
+United Kingdom
+(survey of PHLS
+samples)
+
+2.00
+
+1.57, 2.43
+
+2.78
+
+2.33, 3.23
+
+United Kingdom
+(laboratory reports
+to PHLS)
+
+1.44
+
+1.42, 1.46
+
+2.66
+
+2.43, 2.90
+
+England and Walesa
+
+1.26
+
+1.24, 1.28
+
+2.42
+
+2.05, 2.82
+
+Scotland
+
+1.37
+
+1.32, 1.42
+
+2.16
+
+2.04, 2.28
+
+Lambeth, London,
+United Kingdom
+
+1.54
+
+1.13, 1.95
+
+2.77
+
+1.93, 3.61
+
+São Paulo, Brazil
+
+2.06
+
+1.77, 2.35
+
+3.58
+
+1.95, 5.21
+
+Sydney, New South
+Wales, Australia
+
+1.31
+
+1.04, 1.58
+
+2.04
+
+1.59, 2.49
+
+Epping, New South
+Wales, Australia
+
+1.16
+
+0.92, 1.41
+
+2.12
+
+1.78, 2.46
+
+Royal Air Force
+bases, England
+
+1.13
+
+0.89, 1.37
+
+1.86
+
+1.60, 2.12
+
+Abbreviations: CI, conﬁdence interval; PHLS, Public Health Laboratory Service; RCGP, Royal College of General Practitioners.
+a
+First-wave estimate was based on clinical data; second-wave
+estimate was based on laboratory reports.
+
+proportion immune at the start could have led to underestimation of the epidemic size and R0. It could also have
+caused us to underestimate the proportion of persons in
+the population who were responsible for generating the
+cases during the epidemic, leading to an overestimate in R0.
+We excluded data sets involving vaccinated persons
+wherever possible. However, the limited quantities of vaccine available during the first wave are not believed to have
+significantly affected the outbreaks in the United Kingdom
+or the United States (2, 49). No other large-scale interventions or behavior changes were mentioned in the source
+papers (where data referred to intervention trials, we included only the control groups), but people may have reactively reduced their social mixing, as apparently happened
+during the 1918 pandemic (50). Successful interventions, if
+implemented, would have reduced the epidemic size, leading us to underestimate R0 on this basis. However, they
+probably would have been introduced too late to affect our
+estimates based on the growth rate, which used only data
+from the epidemic’s early stages.
+To our knowledge, only 1 previous study has assessed the
+transmissibility of H3N2 influenza during both pandemic
+waves (19). Using general practice consultation data from
+England and Wales, Hall et al. (19) found that Rn increased
+slightly from 1.28 during the first wave to 1.56 during the
+second. This is broadly consistent with our estimates of Rn
+for this setting (nationally and subnationally), which ranged
+from 1.10 to 1.30 during the first wave and from 1.19 to 2.02
+during the second. While we estimated that R0 increased
+between waves in all settings for which data on both waves
+
+were available, it is unclear whether this conclusion is generalizable to other settings: It is possible that in some settings, only 1 wave occurred or a second wave occurred but
+was not reported.
+Changes in transmissibility have been examined for successive waves of the 1918 H1N1 pandemic. In Geneva,
+Switzerland, R0 was estimated to increase from 1.49 during
+the first wave to an Rn of 3.75 during the second wave (14).
+In Scandinavia, transmissibility decreased between waves
+(e.g., from 2.2–3.0 for R0 during the first wave to 1.2–1.3
+for Rn during the second in Copenhagen, Denmark (16)),
+which could be attributable to reductions in both the susceptible population and R0. Other studies of this pandemic found
+that R0 decreased (e.g., from 2.1 to 1.8 to 1.5 in successive
+waves in England and Wales (13)), showed no clear pattern
+(12, 13), or remained relatively unchanged (15).
+The increases in R0 between successive waves of the
+H3N2 pandemic suggested here might be attributable to at
+least 2 factors. First, they could be related to molecular
+changes in the virus; for example, drift in the neuraminidase
+between the 2 waves has been reported (47, 48) and could
+perhaps be associated with increased transmissibility. Second, they could be related to the timing of the respective outbreaks. For example, the first wave in the United
+Kingdom began just before Christmas, whereas the larger
+outbreaks of the second wave in the United Kingdom and
+the first wave in the United States began earlier in the year,
+before holidays would have interrupted contact between
+people at schools and workplaces. Immunity generated during the unusually large first wave in the United States probably helped to limit the attack rates there during the second
+wave. It is interesting that, in Europe and Asia, the majority
+of influenza-related deaths occurred during the second
+wave, while in North America the first wave had the greater
+mortality impact (48). We could not assess whether these
+differences were reflected in changes in R0 between the 2
+waves, since no suitable second-wave data were identified
+for any American setting.
+It is unlikely that the apparent increase in R0 between
+waves was due to increased ascertainment during the second
+wave (e.g., due to greater awareness of the virus), since
+increases were observed even using serologic data from
+samples submitted for other tests (2–4), for which ascertainment is unlikely to vary between waves.
+Our estimates of R0 are lower than many previous estimates for the 1918 (10–16) and 1957 (12, 13, 17) pandemics, which is consistent with the correspondingly
+smaller size of the 1968 pandemic. Our estimates of R0
+for the first wave of the H3N2 pandemic are also lower than
+the 2 previous estimates for this wave (20, 21), which were
+derived from models describing the global spread of influenza; Rvachev and Longini (20) and Longini et al. (51)
+estimated R0 as 3.10, and Cooper et al. (21) estimated it
+as between 0.5–1.5 and 2.5–3.5. Both sets of investigators
+assumed that approximately 60% of the global population
+was initially susceptible. We generally assumed that the
+proportion susceptible was higher than this, based on the
+available serologic data for each setting. Using the figure
+of 60% for the data sets for which this was possible would
+produce estimates of R0 for the first wave of 1.76–3.35,
+Am J Epidemiol 2010;171:465–478
+
+Transmissibility of Hong Kong Inﬂuenza
+
+consistent with these previous estimates. Our estimates of
+Rn were close to the upper bounds (45); consequently, if our
+assumptions about the proportion susceptible are correct,
+our estimates of R0 are probably not underestimates. In fact,
+if the generation time of H3N2 pandemic influenza was
+shorter than the 4 days we assumed (shorter generation
+times have been assumed for other influenza viruses (52)
+and estimated for H1N1 influenza (53)), the R0 would be
+even lower than estimated here.
+R0 for the second pandemic wave has been estimated as 2.2
+(12) and Rn as 1.85 (12), 1.8 (13), or 1.56 (19). Other analyses
+of the second wave implied an R0 of 3.5 in England and Wales
+and an R0 of 3.5 or 4.9 in Greater London (11, 18; Ben
+Cooper, Health Protection Agency, United Kingdom, unpublished observations). Most of our R0 estimates for the second
+wave lie within the range of these previous estimates.
+It is possible that H1N1 influenza will cause a second
+wave of infection, and it is difficult to predict whether the
+virus will continue to behave as it has done thus far. Our
+results indicate that pandemic influenza viruses may become more transmissible between successive waves, and
+this possibility should be considered in mitigation strategies.
+Editor’s note: Reference 54 is cited in the legend of Web
+Figure 3 (http://aje.oxfordjournals.org/).
+
+ACKNOWLEDGMENTS
+
+Author affiliations: Department of Epidemiology and
+Population Health, London School of Hygiene and Tropical
+Medicine, London, United Kingdom (Charlotte Jackson,
+Punam Mangtani); and Modelling and Economics Unit,
+Centre for Infections, Health Protection Agency, London,
+United Kingdom (Emilia Vynnycky).
+This work was first carried out while Charlotte Jackson
+was a Master of Science epidemiology student at the London
+School of Hygiene and Tropical Medicine, supported by
+a studentship from the Medical Research Council; Charlotte
+Jackson is currently supported by a Research Training Fellowship from the National Institute for Health Research.
+The authors thank Dr. Ben Cooper (Centre for Infections,
+Health Protection Agency, United Kingdom) for advice on
+statistical methods.
+Some of this work was presented in poster form (abstract
+1326903) at the conference of the European Scientific
+Working Group on Influenza, Vilamoura, Portugal, September 14–17, 2008.
+Conflict of interest: none declared.
+
+REFERENCES
+1. Taylor MP. Influenza 1969–70. Incidence in general practice
+based on a population survey. J R Coll Gen Pract. 1971;
+21(102):17–22.
+2. Miller DL, Pereira MS, Clarke M. Epidemiology of the Hong
+Kong-68 variant of influenza A2 in Britain. Br Med J. 1971;
+1(5747):475–479.
+Am J Epidemiol 2010;171:465–478
+
+477
+
+3. Miller DL, Reid D, Daimond JR, et al. Hong Kong influenza in
+the Royal Air Force 1968–70. J Hyg (Lond). 1973;71(3):
+535–547.
+4. Candeias JA, Pereira MS. The measurement by serological
+means of the impact of the Hong Kong/68 influenza virus on
+a population. Rev Saude Publica. 1972;6(1):85–88.
+5. Gill PW, Murphy AM. The incidence of A2-Hong Kong infections in blood donors during the winter of 1970. Med J Aust.
+1972;2(5):242–246.
+6. Gill PW, Babbage NF, Gunton PE, et al. Did the Asian virus
+protect us from Hong Kong influenza? Med J Aust.
+1971;2(1):53–54.
+7. Weekly update. BMJ. 1969(1):130, 194, 262, 325, 452, 521,
+585, 652, 724, 790, 852; 1969(2):196, 257, 321, 391, 456;
+1970(1): 373, 440, 699; 1970(2):120.
+8. Weekly update. Commun Dis Scotl. 1969:1–24, 1969:49–53;
+1970:1–16.
+9. Salim AR. Hong Kong influenza in the Sudan. Bull World
+Health Organ. 1971;44(5):713–716.
+10. Mills CE, Robins JM, Lipsitch M. Transmissibility of 1918
+pandemic influenza. Nature. 2004;432(7019):904–906.
+11. Spicer CC, Lawrence CJ. Epidemic influenza in Greater
+London. J Hyg (Lond). 1984;93(1):105–112.
+12. Gani R, Hughes H, Fleming D, et al. Potential impact of
+antiviral drug use during influenza pandemic. Emerg Infect Dis.
+2005;11(9):1355–1362.
+13. Viboud C, Tam T, Fleming D, et al. Transmissibility and
+mortality impact of epidemic and pandemic influenza, with
+emphasis on the unusually deadly 1951 epidemic. Vaccine.
+2006;24(44–46):6701–6707.
+14. Chowell G, Ammon CE, Hengartner NW, et al. Transmission
+dynamics of the great influenza pandemic of 1918 in Geneva,
+Switzerland: assessing the effects of hypothetical interventions. J Theor Biol. 2006;241(2):193–204.
+15. Vynnycky E, Trindall A, Mangtani P. Estimates of the reproduction numbers of Spanish influenza using morbidity data. Int
+J Epidemiol. 2007;36(4):881–889.
+16. Andreasen V, Viboud C, Simonsen L. Epidemiologic characterization of the 1918 influenza pandemic summer wave in
+Copenhagen: implications for pandemic control strategies.
+J Infect Dis. 2008;197(2):270–278.
+17. Longini IM Jr, Halloran ME, Nizam A, et al. Containing
+pandemic influenza with antiviral agents. Am J Epidemiol. 2004;
+159(7):623–633.
+18. Spicer CC. The mathematical modelling of influenza epidemics. Br Med Bull. 1979;35(1):23–28.
+19. Hall IM, Gani R, Hughes HE, et al. Real-time epidemic forecasting for pandemic influenza. Epidemiol Infect. 2007;135(3):
+372–385.
+20. Rvachev LA, Longini IM Jr. A mathematical model for the
+global spread of influenza. Math Biosci. 1985;75(1):3–22.
+21. Cooper BS, Pitman RJ, Edmunds WJ, et al. Delaying the international spread of pandemic influenza [electronic article].
+PLoS Med. 2006;3(6):e212.
+22. Zachary IG, Johnson KM. Hong Kong influenza in the Panama
+Canal Zone. First epidemic by a new variant in the Western
+Hemisphere. Am J Trop Med Hyg. 1969;18(6):1048–1056.
+23. Davis LE, Caldwell GG, Lynch RE, et al. Hong Kong influenza:
+the epidemiologic features of a high school family study analyzed and compared with a similar study during the 1957 Asian
+influenza epidemic. Am J Epidemiol. 1970;92(4):240–247.
+24. Machin SJ, Potter CW, Oxford JS. Changes in the antibody
+status of a population following epidemic infection by influenza virus A2-Hong Kong-1-68. J Hyg (Lond). 1970;68(3):
+497–504.
+
+478 Jackson et al.
+
+25. Montefiore D, Drozdov SG, Kafuko GW, et al. Influenza A2Hong Kong-68 virus in Uganda. Trop Geogr Med. 1970;22(4):
+452–458.
+26. Montefiore D, Drozdov SG, Kafuko GW, et al. Influenza in
+East Africa, 1969–70. Bull World Health Organ. 1970;43(2):
+269–273.
+27. Salim AR. Serological evidence of A2 Hong Kong influenza in
+Sudan. Trop Geogr Med. 1974;26(2):210–213.
+28. Wiebenga NH, Kundin WD, French GR, et al. Epidemic influenza on a naval vessel in Hong Kong, 1968. Am J Epidemiol. 1970;91(1):59–67.
+29. Fukumi H. Summary report on Hong Kong influenza in Japan.
+Bull World Health Organ. 1969;41(3):353–359.
+30. Sonoguchi T. Haemagglutination-inhibiting antibody response
+to and efficacy of inactivated Hong Kong influenza vaccine.
+Bull World Health Organ. 1969;41(3):517–523.
+31. Sanders DY, Carroll NB, Jeffreys LU, et al. Outbreak of influenza A2 (Hong Kong strain) in a children’s home. South
+Med J. 1970;63(4):414–416.
+32. Solov’ev VD. The results of controlled observations on the
+prophylaxis of influenza with interferon. Bull World Health
+Organ. 1969;41(3):683–688.
+33. Gill PW, Babbage NF, Gunton PE, et al. Hong Kong influenza:
+the coming winter. Med J Aust. 1970;1(8):393–394.
+34. Saenz AC, Assaad FA, Cockburn WC. Outbreak of A2-Hong
+Kong-68 influenza at an international medical conference.
+Lancet. 1969;1(7585):91–93.
+35. Satz J, Prier JE, Riley R, et al. Epidemiological and biological
+characteristics of the Hong Kong influenza epidemic in
+Pennsylvania during 1968–1969. Am J Public Health. 1970;
+60(11):2197–2207.
+36. Wiebenga NH, Chang WK, French GR, et al. Epidemic disease in Hong Kong, 1968, associated with an antigenic variant
+of Asian influenza virus. Am J Public Health Nations Health.
+1970;60(9):1806–1812.
+37. Thongcharoen P, Thepitaksa M, Prakobpol C, et al.
+1968—outbreak of influenza in Thailand: epidemiological and
+laboratory investigations. J Med Assoc Thai. 1969;52(9):
+724–736.
+38. Hope-Simpson RE. First outbreak of Hong Kong influenza in
+a general practice population in Great Britain. A field and
+laboratory study. Br Med J. 1970;3(5714):74–77.
+39. Fedová D, Drasnar M, Strnad P, et al. Hong Kong influenza in
+Czechoslovakia, 1969: a preliminary surveillance report. Bull
+World Health Organ. 1969;41(3):367–373.
+
+40. Influenza—Guatemala 1969. MMWR Morb Mortal Wkly Rep.
+1970;19:107.
+41. Hilborn R, Mangel M. The Ecological Detective Confronting
+Models With Data (Paper): Confronting Models With Data.
+Princeton, NJ: Princeton University Press; 1997.
+42. Becker N. Analysis of Infectious Disease Data. London,
+United Kingdom: Chapman and Hall Ltd; 1989.
+43. Wearing HJ, Rohani P, Keeling MJ. Appropriate models for
+the management of infectious diseases [electronic article].
+PLoS Med. 2005;2(7):e174.
+44. Mossong J, Hens N, Jit M, et al. Social contacts and mixing
+patterns relevant to the spread of infectious diseases [electronic article]. PLoS Med. 2008;5(3):e74.
+45. Wallinga J, Lipsitch M. How generation intervals shape the
+relationship between growth rates and reproductive numbers.
+Proc Biol Sci. 2007;274(1609):599–604.
+46. Stuart-Harris C. Epidemiology of influenza in man. Br Med
+Bull. 1979;35(1):3–8.
+47. Lindstrom SE, Cox NJ, Klimov A. Genetic analysis of human
+H2N2 and early H3N2 influenza viruses, 1957–1972: evidence
+for genetic divergence and multiple reassortment events.
+Virology. 2004;328(1):101–119.
+48. Viboud C, Grais RF, Lafont BA, et al. Multinational impact
+of the 1968 Hong Kong influenza pandemic: evidence for
+a smoldering pandemic. J Infect Dis. 2005;192(2):233–248.
+49. Murray R. Production and testing in the USA of influenza
+virus vaccine made from the Hong Kong variant in 1968–69.
+Bull World Health Organ. 1969;41(3):495–496.
+50. Bootsma MC, Ferguson NM. The effect of public health
+measures on the 1918 influenza pandemic in U.S. cities. Proc
+Natl Acad Sci U S A. 2007;104(18):7588–7593.
+51. Longini IM Jr, Fine PE, Thacker SB. Predicting the global
+spread of new infectious agents. Am J Epidemiol. 1986;
+123(3):383–391.
+52. Halloran ME, Ferguson NM, Eubank S, et al. Modeling
+targeted layered containment of an influenza pandemic in the
+United States. Proc Natl Acad Sci U S A. 2008;105(12):
+4639–4644.
+53. Fraser C, Donnelly CA, Cauchemez S, et al. Pandemic potential of a strain of influenza A (H1N1): early findings. Science. 2009;324(5934):1557–1561.
+54. Hope-Simpson RE. Age and secular distributions of virusproven influenza patients in successive epidemics 1961–1976
+in Cirencester: epidemiological significance discussed. J Hyg
+(Lond). 1984;92(3):303–336.
+
+Am J Epidemiol 2010;171:465–478
+

@@ -1,0 +1,792 @@
+﻿JOURNAL OF VIROLOGY, Aug. 2003, p. 8418­8425 Vol. 77, No. 15
+0022-538X/03/$08.000 DOI: 10.1128/JVI.77.15.8418­8425.2003
+Copyright © 2003, American Society for Microbiology. All Rights Reserved.
+Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases
+Influenza Virus Sensitivity to Neuraminidase Inhibitors
+Mikhail Matrosovich,1,2
+* Tatyana Matrosovich,1
+Jackie Carr,3
+Noel A. Roberts,3
+and
+Hans-Dieter Klenk1
+Institute of Virology, Philipps University, 35037 Marburg, Germany1
+; M.P. Chumakov Institute of Poliomyelitis and Viral
+Encephalitides, Moscow 142782, Russia2
+; and Roche Products Ltd., Welwyn Garden City,
+Herts AL7 3AY, United Kingdom3
+Received 24 February 2003/Accepted 15 May 2003
+No reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to
+neuraminidase inhibitors (NAI). This can be explained by the observation that because of a low concentration
+of sialyl-2,6-galactose (Sia[2,6]Gal)-containing virus receptors in conventional cell lines, replication of
+human virus isolates shows little dependency on viral neuraminidase. To test whether overexpression of
+Sia(2,6)Gal moieties in cultured cells could make them suitable for testing human influenza virus sensitivity
+to NAI, we stably transfected MDCK cells with cDNA of human 2,6-sialyltransferase (SIAT1). Transfected cells
+expressed twofold-higher amounts of 6-linked sialic acids and twofold-lower amounts of 3-linked sialic acids
+than parent MDCK cells as judged by staining with Sambucus nigra agglutinin and Maackia amurensis
+agglutinin, respectively. After transfection, binding of a clinical human influenza virus isolate was increased,
+whereas binding of its egg-adapted variant which preferentially bound 3-linked receptors was decreased. The
+sensitivity of human influenza A and B viruses to the neuraminidase inhibitor oseltamivir carboxylate was
+substantially improved in the SIAT1-transfected cell line and was consistent with their sensitivity in neur-
+aminidase enzyme assay and with the hemagglutinin (HA) receptor-binding phenotype. MDCK cells stably
+transfected with SIAT1 may therefore be a suitable system for testing influenza virus sensitivity to NAI.
+The neuraminidase (NA) of influenza A and B viruses
+cleaves the -glycosidic linkages between sialic acid and the
+adjacent sugar and thus destroys virus receptors on the cell
+surface, extracellular inhibitors, and viral glycoproteins (re-
+viewed in references 2 and 8). The NA activity is believed to be
+particularly important at the late stages of infection by pre-
+venting hemagglutinin (HA)-mediated self-aggregation and fa-
+cilitating release of progeny virions from cells. Interaction of
+virions with cell-associated and soluble sialylglycoconjugates of
+the host is mediated by HA and NA in an antagonistic manner,
+which has to be carefully balanced to allow efficient virus rep-
+lication (reviewed in reference 36).
+With increasing use of neuraminidase inhibitors (NAI) for
+influenza treatment, there is a need for a suitable methodology
+to monitor for emergence of virus resistance (32, 34, 38). In
+cell culture experiments, resistance to NAI results from muta-
+tion of either HA, NA, or both glycoproteins. Mutations in HA
+usually precede NA mutations and reduce virus affinity for
+sialic acid-containing receptors, thereby decreasing the depen-
+dency of the virus on NA function, whereas mutations in NA
+decrease the binding affinity of the inhibitor to the catalytic site
+(reviewed in references 19, 29, and 30). In a clinical setting,
+NA-mediated resistance seems to be the primary mechanism
+of resistance to NAI and can be easily and reliably monitored
+using an in vitro enzyme inhibition assay (32, 34, 38). Since the
+possibility cannot be excluded that the loss of sensitivity to NAI
+in humans occurs also as a result of HA mutations (18, 20), it
+is necessary to develop techniques to study this type of resis-
+tance in low-passage-number clinical isolates.
+The method of choice for testing virus sensitivity to NAI
+would be a virus neutralization assay in cell culture that ac-
+counts for both HA- and NA-mediated resistance. However,
+there is no good correlation between virus sensitivity to NAI in
+vivo and in laboratory cell cultures. The sensitivity of clinical
+virus isolates to NA inhibitors can vary in cell culture assays
+dramatically (up to complete insensitivity) despite a uniform
+high sensitivity of the enzyme in NA-inhibition tests (1, 3,37).
+This problem is likely due to a mismatch between virus recep-
+tors in humans and in available cell culture systems. The target
+cells for virus replication in human airway epithelium express
+high concentrations of Sia(2,6)Gal-containing receptors and
+small amounts of Sia(2,3)Gal-containing receptors (below ab-
+breviated to 6-linked and 3-linked sialic acid receptors, respec-
+tively) (4, 9). Clinical isolates of human influenza viruses bind
+strongly to 6-linked sialic acids but do not bind to 3-linked
+sialic acids (references 13 and 21 and references therein). It is
+therefore believed that in order to adequately assay human
+influenza virus sensitivity to NAI, a cell line is required which
+supports efficient growth of clinical influenza virus isolates and
+expresses large amounts of 6-linked sialic acids and small
+amounts of 3-linked sialic acids (38). Unfortunately, the con-
+centration of 6-linked sialic acids in continuous cell lines used
+for propagation of influenza viruses in the laboratory (such as
+MDCK and VERO cells) is relatively low and is comparable to
+the concentration of 3-linked sialic acids (16, 21, 33).
+In this study, we wished to test whether performance of
+standard laboratory cells in the NAI sensitivity assay can be
+* Corresponding author. Mailing address: Institute of Virology,
+Philipps University, Robert Koch str. 17, 35037 Marburg, Germany.
+Phone: 49-(6421)-286-5166. Fax: 49-(6421)-286-8962. E-mail: mikhail
+.matrosovich@med.uni-marburg.de.
+8418
+improved by purposefully changing the concentration of virus
+receptors on the cell surface. To this end, we permanently
+transfected MDCK cells with the gene of the human CMP-N-
+acetylneuraminate beta-galactoside -2,6-sialyltransferase
+(SIAT1) [EC 2.4.99.1; other acronyms used in the literature
+are ST6Gal I and ST6(N)], an enzyme that catalyzes the -2,6-
+sialylation of N-acetyllactosamine moieties of glycoproteins
+and glycolipids (see references 11 and 35 for a review). Based
+on previous reports on successful overexpression of SIAT1 in
+mammalian cells (6, 10, 12, 24, 25), we expected that transfec-
+tion with SIAT1 would increase -2,6-sialylation of the cellular
+and viral glycoconjugates and, thus, would increase a virus
+dependency on a neuraminidase activity and, hence, sensitivity
+to NA inhibitors. Furthermore, we hoped that transfection
+would decrease -2,3-sialylation in the cells due to a competi-
+tion between SIAT1 and 2,3-specific sialyltransferases for the
+same precursor substrate [Gal(1,4)GlcNAc-R] (6, 24).
+MATERIALS AND METHODS
+Viruses. Clinical isolates in MDCK cells of A/Memphis/14/96 (H1N1) and
+B/Memphis/25/99 at passage level 2 were kindly provided by Robert Webster (St.
+Jude Children's Hospital). The Memphis/14/96 virus was plaqued in MDCK
+cells; two plaques of different size were picked, amplified in MDCK cells, and
+designated variants M and M1. In parallel, the original passage 2 virus was
+passaged twice in embryonated chicken eggs. The virus progeny from two dif-
+ferent eggs were plaque purified in MDCK cells, amplified in MDCK cells, and
+designated variants E and E1. The complete HA genes of the variants were
+sequenced by the dideoxy method, using an automatic sequencer (Perkin-
+Elmer). The GenBank accession numbers for the sequences are from AY282756
+to AY282759.
+A clinical isolate of A/Sydney/5/97-like virus (H3N2) isolated and propagated
+in MDCK cells and its oseltamivir-resistant variant with an R292K mutation in
+NA obtained from a patient on the treatment arm of a phase III efficacy study for
+oseltamivir phosphate were described previously (7). A clinical isolate of A/Wu-
+han/359/95-like virus (H3N2) and its oseltamivir-resistant variant with mutation
+E119V in NA were described previously (22).
+MDCK cells. The MDCK cells used were originally obtained from Alan Hay
+at the National Institute of Medical Research, London, United Kingdom, and
+passaged in Frederick Hayden's Laboratory at the University of Virginia Health
+Sciences Center, using standard laboratory procedures prior to distribution to
+Roche Discovery Welwyn. In this study, the original and SIAT1-transfected cells
+were passaged in Dulbecco's modified Eagle medium (Gibco BRL) supple-
+mented with 10% fetal calf serum.
+Expression vector pIRESneo-SIAT1 and stable transfection of MDCK cells.
+The cDNA clone of human SIAT1 in the pcDNA3.1GS expression vector was
+obtained from the GeneStorm human clone collection (GeneStorm clone H-
+X17247 M; Invitrogen). The full-length open reading frame of SIAT1 was PCR
+amplified with primers 5GGCGCAATAGCGGCCGCGCCACCATGATTCA
+CACCAACCTGAAG-3 and 5GGCCGATATGGATCCTTAGCAGTGAAT
+GGTCCGGAAGCCAG-3, containing restriction sites for NotI and BamHI,
+respectively. The PCR product was cloned into the pIRESneo bicistronic expres-
+sion vector (Clontech) at 5 NotI and 3 BamHI. Sequencing of the initially
+prepared construct revealed a single-nucleotide deletion in the coding region of
+SIAT1, leading to a frame shift (plasmid pIRESneo-SIAT1-del). The deletion
+was located in the region complementary to the 5-end PCR primer used and was
+most likely caused by an error during primer synthesis. We corrected the deletion
+by using a QuikChange site-directed mutagenesis kit (Stratagene).
+MDCK cells were transfected with pIRESneo-SIAT1 and pIRESneo-SIAT1-
+del plasmids using Lipofectamine 2000 (Life Technologies) according to the
+manufacturer's instructions. Transfected cultures were cultivated in the presence
+of 1.5 mg of antibiotic G418 sulfate (Promega)/ml. After 2 weeks, cells surviving
+the selection were pooled, passaged three times in 1.5 mg of G418/ml, and frozen
+in aliquots. Serial passages of stably transfected cells were done in the presence
+of 1 mg of G418/ml. Terminal plating of the cells for the infection experiments,
+isolation of plasma membranes, and lectin staining were performed without
+G418. The cells in these experiments were used at passage levels from 5 to 30
+starting from the frozen cell stock.
+Detection of 6-linked and 3-linked sialic acids. Cell surface expression of sialic
+acids in two different types of linkages was quantified by using digoxigenin
+(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked
+sialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic
+acids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-
+DIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,
+Mannheim, Germany). Fluorescence-activated cell sorter (FACS) analysis of the
+cells stained with lectins was performed as described previously (17) using a
+FACScan fluorospectrometer (Becton Dickinson). For the solid-phase assay of
+lectin binding, plasma membranes were isolated from MDCK and MDCK-
+SIAT1 cells as described previously (14). Membrane preparations were sus-
+pended in phosphate-buffered saline (PBS) to a final protein concentration of 2
+g/ml, and 0.05-ml aliquots were incubated in the wells of a polystyrene 96-well
+microplate overnight at 4°C. Wells incubated with PBS served as a control of the
+background binding. The plate was washed with PBS and blocked with 0.1 ml of
+a 0.04% solution of bovine serum albumin (BSA) in PBS for 1 h at 37°C.
+Solutions (0.05 ml each) of DIG-labeled lectins (either SNA [2 g/ml] or MAA
+[5 g/ml]) in lectin-binding buffer (LBB) (0.2% BSA, 1 mM Mg2
+, Ca2
+, and
+Mn2
+in Tris-buffered saline [pH 7.2]) were incubated in the wells for 2 h at 4°C.
+After washing with PBS, the plate was incubated with 0.05 ml of peroxidase-
+labeled anti-DIG antibodies/well in LBB for 1 h at 4°C. O-phenylenediamine was
+used as a chromogenic substrate.
+Binding of virus to cell membranes. Virus attachment to cell membranes was
+assayed by using the microplate adsorption method (14). In brief, viruses were
+clarified by low-speed centrifugation, pelleted by high-speed centrifugation
+through a 25% sucrose cushion, and resuspended in 0.1 M Tris-HCl buffer (pH
+7.3). Ninety-six-well plates coated with the cell membranes and blocked as
+described above were incubated with 0.05 ml of serially diluted viruses in 0.5%
+BSA-PBS for 30 min at 37°C. The plates were washed with ice-cold washing
+solution (PBS-T) (0.02% Tween 80 in PBS) and incubated with sheep antiserum
+against influenza virus A/Taiwan/1/86 (H1N1) (Centers for Disease Control and
+Prevention, Atlanta, Ga.) for 1 h at 4°C, followed by washing (PBS-T) and
+incubation with peroxidase-labeled anti-sheep antibodies (DAKO) for an addi-
+tional hour at 4°C. PBS containing 1% BSA and 0.05% Tween 80 was used for
+the preparation of working dilutions of immunoreagents. The amount of bound
+conjugate, which reflected the amount of the virus present in the wells, was
+quantified using o-phenylenediamine as a substrate. The absorbency at 490 nm
+was measured, and the data were converted to Scatchard plots (A490 versus
+A490/C), where the concentration of the viruses (C) was expressed in hemagglu-
+tination units. The background virus binding to the noncoated blocked wells did
+not exceed 0.02 optical units and was disregarded.
+Peroxidase-labeled resialylated fetuin. To prepare monospecific fetuin-horse-
+radish peroxidase (HRP) conjugates containing either 6-linked- or 3-linked sialic
+acid moieties, bovine asialofetuin (Sigma, St. Louis, Mo.) was first conjugated
+with HRP by using the periodate method (5). Solutions in phosphate buffer (0.1
+M, pH 7.0) containing 8 mg of asialofetuin-HRP conjugate/ml, 1.5 mM CMP-
+Neu5Ac (Boehringer), 2 mM MgCl2, and either 80 mU of -2,6-sialyltransferase
+from rat liver (WAKO Chemicals)/ml or 8.5 mU of rat recombinant -2,3-(N)-
+sialyltransferase (Calbiochem)/ml were incubated at 37°C for 20 h. Resialylated
+conjugates were dialyzed against 0.1 M Tris-HCl buffer (pH 7.3), diluted with an
+equal volume of glycerol, and stored at 20°C.
+Binding affinity assay. The binding of the HRP-labeled fetuins to the viruses
+was studied using a solid-phase assay, as described previously (27). In brief,
+viruses adsorbed in the wells of 96-well EIA microplates (Greiner) were incu-
+bated with serial dilutions of HRP-labeled resialylated fetuins in PBS supple-
+mented with 0.02% BSA, 0.02% Tween 80, and a 2 M concentration of the
+neuraminidase inhibitor oseltamivir carboxylate. After incubation for 1 h at 4°C,
+the plates were washed with ice-cold PBS-T, and the amount of bound labeled
+fetuin-HRP was quantified by the peroxidase activity present in the wells. The
+binding data were converted to A490/C versus A490 Scatchard plots, arbitrarily
+taking the concentration of fetuin-HRP stocks for 1,000 U/ml. The association
+constants of the virus-fetuin complexes were determined from the slopes of these
+plots.
+Focus reduction assay. Cell cultures in 96-well plates (Greiner) were inocu-
+lated with 0.05 ml of either infection medium (IM) (0.1% BSA in Dulbecco's
+modified Eagle medium) or serial 10-fold dilutions of oseltamivir carboxylate in
+IM (concentration range from 2 nM to 200 M)/well. After that, 50 l/well of
+serial twofold virus dilutions in IM were added to cover a range of multiplicities
+of infection (MOIs) from about 5 to 100 focus-forming units per well. TPCK-
+trypsin (final concentration, 1 g/ml) was added simultaneously with the virus to
+provide for multicycle replication. After 24 to 48 h of incubation at 35°C, the cells
+were fixed with 4% paraformaldehyde for 1 h and permeabilized with 0.2%
+solution of Triton X-100 in PBS for 20 min. These and all subsequent treatments
+VOL. 77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8419
+of the cells were performed at room temperature. Fixed cultures were immuno-
+stained for the expression of viral nucleoprotein by incubating for 1 h with
+monoclonal antibodies specific for the nucleoprotein of either influenza A virus
+(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-
+enza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled
+anti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-
+ing peroxidase substrate (True Blue; KPL). Ten-percent horse serum plus 0.05%
+Tween 80 in PBS was used for the preparation of working dilutions of immu-
+noreagents. Stained plates were scanned on a flatbed scanner with the data
+acquired by Adobe Photoshop 7.0 software. To compensate for some occasional
+variation in the size and number of foci in individual wells, we used two to four
+replicate wells per experimental point. Ninety percent inhibitory concentrations
+presented in Table 1 were estimated by visual observation of cultures infected at
+a MOI of 20 to 40 focus-forming units per well. These values correspond to the
+lowest of the drug concentrations used, which reduced the stained area in the
+wells at least 10-fold.
+RESULTS
+Transfection of MDCK cells with SIAT1 alters surface ex-
+pression of 6-linked and 3-linked sialic acids and enhances
+binding of a human influenza virus. For the permanent ex-
+pression of 2,6-sialyltransferase, we cloned human SIAT1
+cDNA into the bicistronic mammalian expression vector
+pIRESneo. Because this vector expresses the gene of interest
+and an antibiotic resistance marker from the same mRNA,
+nearly all colonies surviving the selective pressure must stably
+express the gene of interest (31). Therefore, after transfection
+of MDCK cells with the pIRESneo-SIAT1 plasmid, we did not
+isolate individual resistant clones but pooled several clones
+which survived the selection with G418 sulfate.
+To compare the expression of 3-linked and 6-linked sialic
+acids on the surface of transfected and parent cells, we used
+the linkage-specific lectins SNA and MAA. FACS analysis
+indicated that transfection with the pIRESneo-SIAT1 plasmid
+enhanced expression of 6-linked sialic acids and simulta-
+neously lowered expression of 3-linked sialic acids (Fig. 1, top
+panel). In a solid-phase lectin binding assay, the binding of
+SNA to the plasma membrane of transfected cells increased
+about twofold, and the binding of MAA decreased by about
+50% (Fig. 1, bottom panel). This pattern of reactivity with
+lectins remained unchanged after 25 passages of MDCK-
+SIAT1 cells in the presence of G418 (data not shown), indi-
+cating that the sialylation phenotype of the cells was stable. As
+a control, we used MDCK cells permanently transfected with a
+pIRESneo-SIAT1-del plasmid which contained a frame shift
+deletion in the SIAT1 gene (see Materials and Methods). In
+this case, as expected, the lectin binding assay revealed no
+differences between parent and transfected cells (data not
+shown).
+To test whether changes in sialylation of SIAT1-transfected
+cells affected the strength of virus binding to these cells, we
+used two influenza viruses with distinct receptor-binding phe-
+FIG. 1. Binding of the linkage-specific lectins SNA and MAA to
+cell surface receptors of SIAT1-transfected and parent MDCK cells.
+Top panel, MDCK-SIAT1 cells (shaded profiles) and MDCK cells
+(open profiles) were incubated with DIG-labeled lectins followed by
+incubation with fluorescein isothiocyanate-labeled anti-DIG antibod-
+ies and subjected to FACS analysis. Bottom panel, preparations of cell
+plasma membranes adsorbed in the wells of a 96-well plate were
+incubated with DIG-labeled lectins followed by incubation with per-
+oxidase-labeled anti-DIG-antibodies. The data represent ratios of ab-
+sorbencies in the wells coated with membranes of MDCK-SIAT1 cells
+to those in wells coated with membranes of MDCK cells.
+TABLE 1. Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)
+Variant
+Amino acid
+substitution
+in the HAa
+Binding affinityc
+, Kass (ml/U)
+Sensitivity to oseltamivir
+carboxylate, IC90 (M)d
+2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h
+M 3.3  0.10 0.046  0.021 0.1 1.0
+M1 E156K 4.9  0.58 0.70  0.30 NDe
+0.01
+E N129Kb
+4.8  0.60 0.48  0.20 0.01 NTf
+E1 Q226R 0.09  0.02 0.85  0.31 100 100
+a
+With respect to HA sequence of variant M. H3 numbering system.
+b
+The mutation destroys a glycosylation sequon in the HA.
+c
+Affinity of virus binding to HRP-labeled resialylated fetuins containing either 6-linked or 3-linked sialic acid moieties. The higher values of association constants
+(Kass) reflect higher affinities.
+d
+Focus reduction assay in MDCK-SIATI cells was performed on two different occasions, with infection times of 24 and 48 h, respectively (see the text). IC90, 90%
+inhibitory concentration.
+e
+ND, not determined. IC90 of MI variant could not be determined due to a poor virus spread 24 h postinfection.
+f
+NT, not tested.
+8420 MATROSOVICH ET AL. J. VIROL.
+notypes. The clinical A/Memphis/14/96-M (H1N1) isolate dis-
+played a preference for 6-linked sialic acids and did not bind to
+3-linked sialic acids as is typical for human viruses. The egg-
+adapted variant E1 of this virus had the opposite receptor
+specificity due to a point mutation Q226R in the HA (see
+Table 1). The M virus bound to membranes isolated from
+MDCK-SIAT1 cells significantly better than it bound to mem-
+branes of parent MDCK cells (Fig. 2, top panel). On the
+contrary, the egg-adapted mutant bound to transfected cells
+more weakly than to MDCK cells (Fig. 2, bottom panel), al-
+though the difference in binding was less pronounced than in
+the case of M virus.
+Transfection of MDCK cells with SIAT1 increases sensitiv-
+ity of influenza viruses to oseltamivir carboxylate in a cell
+culture neutralization assay. Because influenza viruses did not
+produce clearly visible plaques in MDCK-SIAT1 cells, we used
+a focus reduction assay to compare virus sensitivity to NA
+inhibitors in the parent MDCK cells and in the SIAT1-trans-
+fected cells. Parallel cultures of two cell lines in 96-well plates
+were infected with serial virus dilutions in the presence or
+absence of oseltamivir carboxylate and immunostained for the
+expression of virus nucleoprotein. The effect of the drug on
+virus spread in parent and transfected cells was compared at
+MOIs which resulted in growth of about 15 to 50 foci of
+infected cells per well. In the first series of experiments, three
+clinical virus isolates, A/Sydney/5/97 (H3N2), A/Memphis/14/
+96-M (H1N1), and B/Memphis/25/99, were tested. All three
+viruses displayed a higher sensitivity to oseltamivir carboxylate
+in MDCK-SIAT1 cells than in nontransfected cells. This pat-
+tern of sensitivity was reproducible in replicate assays per-
+formed on different days. Results of one representative exper-
+iment are shown in Fig. 3. In MDCK-SIAT1 cells, 0.001, 0.01,
+and 0.1 M concentrations of the drug markedly decreased the
+size of infectious foci formed by H3N2, H1N1, and type B
+viruses, respectively. A further 10-fold increase in the respec-
+tive drug concentrations completely abolished virus spread in
+transfected cells, as judged by the disappearance of the comet-
+like foci of infection. By contrast, even the highest drug con-
+centrations did not completely inhibit formation of foci in
+MDCK cells. Thus, MDCK-SIAT1 cells provide a more sensi-
+tive system than MDCK cells for testing the susceptibility of
+human influenza A and B viruses to NAI.
+To check whether a focus reduction assay with MDCK-
+SIAT1 cells could clearly identify viruses with drug-resistant
+mutations in NA, we compared two drug-sensitive clinical virus
+isolates with their oseltamivir treatment-selected drug-resis-
+tant mutants (Fig. 4). A 0.1 M concentration of oseltamivir
+carboxylate substantially inhibited spread of a wild-type A/Syd-
+FIG. 2. Scatchard plots for the binding of A/Memphis/14/96-M
+(H1N1) (top panel) and its egg-adapted mutant E1 (bottom panel) to
+plasma membranes from MDCK cells (closed boxes, solid line) and
+from MDCK-SIAT1 cells (open circles, dotted line). Data points rep-
+resent results of two replicate experiments performed on the same
+plate as described in Materials and Methods.
+FIG. 3. Effect of oseltamivir carboxylate on the formation of virus
+foci in parallel cultures of MDCK (M) and MDCK-SIAT1 cells (ST)
+infected with the same virus multiplicity. Experiments were performed
+in 96-well plates as described in Materials and Methods using clinical
+virus isolates A/Sydney/5/97 (H3N2) (top panel), A/Memphis/14/96-M
+(H1N1) (middle panel), and B/Memphis/25/99 (bottom panel). The
+infection time was 24 h for the type A viruses and 48 h for the type B
+virus.
+VOL. 77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421
+ney/97-like virus (Fig. 4a). By contrast, a 100-fold-higher con-
+centration of the drug (10 M) was required for a detectable
+inhibition of the drug-resistant variant with an R292K muta-
+tion in NA. Interestingly, the infectious foci of the mutant in
+the absence of the drug were smaller that those of the wild-type
+virus, suggesting that the NA mutation impaired spread of the
+virus in MDCK-SIAT1 cells. This effect is consistent with the
+reported compromised infectivity of the R292K NA mutant in
+vivo (7). Because of a slower spread of the NA mutant, this
+virus produced very small foci 24 h postinfection, making it
+impossible to assess a reduction in focus size in the presence of
+NA inhibitor (data not shown). To solve this problem, we used
+longer infection times for comparison of wild-type viruses and
+NA mutants. It has to be mentioned that an increase in the
+incubation time resulted in an apparent decrease in the virus
+sensitivity to the inhibitor. For example, 0.001 and 0.1 M
+concentrations of the drug were required, respectively, for a
+substantial inhibition of wild-type virus spread during 24 h
+(Fig. 3) and 40 h of infection (Fig. 4a). Thus, standardization of
+the assay time will be important for routine drug sensitivity
+monitoring using a focus reduction assay.
+Figure 4b shows the results obtained with another pair of
+pre- and posttreatment H3N2 viruses which were tested in
+parallel in two cell lines. In MDCK cells, neither virus is drug
+sensitive, making it impossible to discriminate between resis-
+tant mutant and the original virus. However, in MDCK-SIAT1
+cells, the wild-type virus can be clearly differentiated from its
+drug-resistant mutant with an E119V mutation in the NA.
+Thus, experiments with two pre- and posttreatment virus
+pairs tested suggested that NA-mediated drug resistance can
+be reliably detected in SIAT1-transfected cells.
+Sensitivity to NA inhibitor in MDCK-SIAT1 cells correlates
+with virus affinity for 6-linked sialic acids. To address the
+question of whether HA-mediated drug resistance could be
+adequately assayed in MDCK-SIAT1 cells, we needed a panel
+of virus variants which differ by the receptor-binding charac-
+teristics of their HAs. To generate such variants, we selected
+two receptor-binding mutants (E and E1) of the clinical H1N1
+virus isolate A/Memphis/14/96 by adaptation of the virus to
+embryonated hen's eggs. Furthermore, during the plaque pu-
+rification of the original human virus in MDCK cells, two
+MDCK-derived variants were obtained, M and M1. The com-
+plete HA genes of four virus variants were sequenced, and
+their receptor-binding characteristics were determined using
+resialylated fetuin, which carried either 3- or 6-linked sialic
+acids (Table 1).
+Among both MDCK-derived viruses, only variant M dis-
+played a typical receptor-binding phenotype of clinical human
+isolates, namely, a high affinity for 6-linked sialic acids and a
+lack of binding to 3-linked sialic acids (13, 15). Variant M1
+differed from variant M by the amino acid substitution E156K,
+which increased a positive charge of the globular head of HA
+by two units of charge and enhanced the virus binding affinity
+for both 3-linked and 6-linked sialic acids. Analysis of the HA
+sequences in the Influenza Sequence Database (26) indicated
+that the A/Memphis/14/96 strain used in this study was phylo-
+genetically closely related to H1N1 viruses isolated in 1995 to
+1996. Among about 30 H1 HA sequences from this time pe-
+riod, three sequences carry 156G and the rest carry 156E.
+Furthermore, none of more than a hundred human H1N1
+viruses isolated between 1995 and 2001 contains 156K. Based
+on the results of sequence comparison and on receptor-binding
+characteristics, we conclude that variant M represents the orig-
+inal clinical human virus, whereas M1 is a receptor-binding
+mutant selected in MDCK cells.
+Egg adaptation of human viruses is based on selection of HA
+mutants with enhanced affinity for 3-linked sialic acids and, as
+a rule, leads to accompanying changes in the affinity for
+6-linked sialic acids (13, 15, 21). Accordingly, the egg-adapted
+variants E and E1 demonstrated significantly enhanced binding
+to fetuin carrying 3-linked sialic acids compared to the binding
+of the original M variant (Table 1). In the case of variant E, the
+HA mutation N129K, responsible for the adaptation, increased
+the positive charge of HA, destroyed a glycosylation sequon
+near the receptor binding site, and enhanced the virus affinity
+for both 3-linked and 6-linked sialic acids. By contrast, substi-
+tution Q226R in E1 almost completely destroyed the ability of
+the virus to bind to 6-linked receptors. Interestingly, the amino
+acid in position 226 is crucial for the recognition of the Sia-Gal
+linkage by H2 and H3 subtype HAs (reference 28 and refer-
+ences therein). The E1 variant described here provides the first
+example of a similar role of the 226 position in an H1N1
+human virus.
+We next compared four receptor-binding variants for their
+sensitivity to oseltamivir carboxylate in MDCK-SIAT1 cells
+(Table 1). In the first experiment, the cells were fixed 24 h after
+FIG. 4. Comparison of clinical isolates (wt) and their drug-resistant
+variants with NA mutations (mut) by focus reduction assay. (a) A/Syd-
+ney/5/97-like virus (H3N2) and its variant with NA-substitution R292K
+assayed in MDCK-SIAT1 cells. Infection time was 40 h. (b) A/Wuhan/
+359/95-like virus (H3N2) and its variant with NA mutation E119V
+assayed in parallel in MDCK cells (two upper rows) and in MDCK-
+SIAT1 cells (two lower rows). Infection time was 48 h.
+8422 MATROSOVICH ET AL. J. VIROL.
+infection. Under these conditions, 0.1 and 0.01 M concentra-
+tions of the drug were required to inhibit the spread of M and
+E variants by 90%, respectively, whereas E1 virus was not
+inhibited to any significant extent at the highest concentration
+of oseltamivir carboxylate tested (100 M). Because the M1
+variant produced very tiny foci 24 h postinfection, precluding
+unambiguous detection of inhibition, the assay was repeated
+for M, M1, and E1 viruses using a 48-h incubation time. In this
+case, the M1 variant was 100-fold more sensitive to the NA
+inhibitor than the original M virus. Together these results
+indicated that the sensitivity of the viruses to the drug in
+MDCK-SIAT1 cells was mainly dependent on virus affinity for
+6-linked rather than for 3-linked sialic acid receptors. Namely,
+E and M1 mutants with enhanced binding affinity for 6-linked
+receptors were more sensitive to oseltamivir carboxylate than
+the wild-type virus, whereas the E1 variant was completely
+resistant, in correlation with its inability to bind to 6-linked
+sialic acids and despite its highest affinity for 3-linked sialic
+acids. It seems, however, that the virus affinity for 3-linked
+receptors could somewhat modify its susceptibility to the drug.
+Thus, a high sensitivity to oseltamivir of the M1 variant com-
+pared to that of the E variant correlated with a higher affinity
+of the former virus for 2,3-fetuin.
+DISCUSSION
+Low-passage-number clinical influenza virus isolates often
+appear insensitive to NAI when tested in MDCK or other
+laboratory cell lines. This precludes the detection of changes in
+viral drug sensitivity (resistance) between pre- and posttreat-
+ment isolates and can give rise to false-positive identification of
+resistance in population screening. This study was undertaken
+to test whether a genetically engineered increase in the density
+of human influenza virus receptors on the surface of MDCK
+cells can make the virus more sensitive to NAI in these cells.
+To address this question, we permanently transfected MDCK
+cells with the gene of human 2,6-sialyltransferase.
+Stable transfection with the SIAT1 gene increased the con-
+centration of 6-linked sialic acids on the surface of MDCK cells
+about twofold. This effect is consistent with enhanced -2,6-
+sialylation in several other mammalian cell lines after their
+transfection with SIAT1 (6, 10, 12, 24, 25). We found that a
+typical non-egg-adapted human H1N1 influenza virus bound
+more strongly to transfected cells than to parent MDCK cells.
+This result confirmed that expression of SIAT1 enhanced the
+concentration of 6-linked sialic acid receptors accessible to the
+virus on a cell surface. SIAT1 catalyses synthesis of 6-sialyl
+(N-acetyllactosamine) [Neu5Ac(2,6)Gal(1,4)GlcNAc], the
+common high-affinity receptor determinant of human influ-
+enza A and B viruses (13). We speculate, therefore, that all
+human influenza viruses irrespective of their type and subtype
+will likely display enhanced binding to MDCK-SIAT1.
+Representative clinical isolates of H1N1 and H3N2 influ-
+enza A viruses and type B viruses were substantially more
+sensitive to the NA inhibitor oseltamivir carboxylate in SIAT1-
+transfected cells than in parent cells. These data support the
+hypothesis that the well-known low sensitivity of clinical iso-
+lates of human viruses to NAI in MDCK cells is due to a low
+expression of 6-linked virus receptors in these cells (19, 30, 38).
+There are at least two possible mechanisms by which increased
+-2,6-sialylation in the cells enhances virus sensitivity to NAI.
+First, due to an increased density of 6-linked cell-surface sialic
+acids, progeny virions attach more strongly to the surface of
+MDCK-SIAT1 cells and hence require a higher neuraminidase
+activity for receptor cleavage and virus release. Second, en-
+hanced activity of SIAT1 in the cells can lead to an increased
+-2,6-sialylation of the viral glycoproteins. As a consequence, a
+higher level of NA activity would be needed to desialylate viral
+HA and NA to a degree that prevents self-aggregation of the
+progeny virions. Thus, our results suggest that transfection
+with SIAT1 may solve or at least reduce the major problem
+which hampers utilization of MDCK cells for a neutralization
+assay of virus sensitivity to NAI (38).
+In addition to the low sensitivity of clinical human viruses to
+NAI in standard laboratory cells potentially giving false-posi-
+tive resistance results (3, 37), false-negative resistance results
+in MDCK cells were also reported (18, 20). For example, an
+influenza B virus isolate recovered from an immunocompro-
+mised child after 12 days of treatment with zanamivir was
+highly sensitive to the drug in MDCK cells despite a drug-
+resistant phenotype in the NA enzyme inhibition assay (18).
+Compared to the pretreatment isolate, this virus had a drug-
+resistant mutation in the NA catalytic site (R152K) and a
+mutation in the region of the HA receptor-binding site
+(T198I). The HA mutation increased the virus binding to
+3-linked receptors and, as a result, to MDCK cells which ex-
+press high quantities of 3-linked sialic acids (21, 33). Enhanced
+binding to cells increased the virus dependence on the NA
+activity, thereby masking the drug-resistant effect of the NA
+mutation. These data suggested that laboratory cells do not
+adequately mimic virus infection of airway epithelium in vivo,
+not only because of a lower level of expression of 6-linked sialic
+acids but also because of a higher concentration of 3-linked
+receptors. If this hypothesis is correct, a reduced expression of
+3-linked sialic acids in laboratory cells would be desirable for
+adequate testing of virus sensitivity to NAI. In view of this
+hypothesis, we hoped that permanent expression of the SIAT1
+gene in MDCK cells could decrease -2,3-sialylation in these
+cells due to competition between SIAT1 and -2,3-sialyltrans-
+ferases which utilize the same substrate [Gal(1,4)GlcNAc]
+(for example, ST3Gal III and ST3Gal IV [35]). The MAA
+which we used to determine changes in expression of 3-linked
+sialic acids selectively binds to Neu5Ac/Gc(2,3)Gal(1,4)Gl-
+cNAc moieties synthesized by ST3Gal III and ST3Gal IV (23).
+As we expected, the concentration of these moieties in the
+SIAT1-transfected cells decreased by about 50%. However,
+because one cannot expect a competition between SIAT1 and
+-2,3-sialyltransferases with different substrate specificities
+[such as ST3Gal I and ST3Gal II, which sialylate Gal(1,3)
+GalNAc], the total decrease in expression of 3-linked sialic
+acids in all possible contexts was certainly less than that deter-
+mined with MAA. This notion may explain why we observed a
+relatively marginal decrease in binding of an egg-adapted hu-
+man virus to MDCK-SIAT1 cells.
+Although NA mutations appear to be the major mechanism
+of influenza virus resistance to NAI in a clinical setting (32, 34,
+38), the possibility that resistance emerges due to mutations in
+HA cannot be completely excluded. Thus, in a study cited
+above, the HA mutation T198I in influenza B virus was first
+observed after 8 days of treatment with zanamivir, at least 4
+VOL. 77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423
+days before the emergence of a drug resistance mutation in NA
+(18). The substitution T198I was found to lower substantially
+the HA affinity for 6-linked sialic acid receptors. The authors
+suggested that this mutation resulted in a decreased virus bind-
+ing to human airway epithelial cells (where 6-linked receptors
+predominate) and thus reduced dependence of virus replica-
+tion on the NA function in humans (HA-mediated resistance
+to NAI). Support to this concept came from the study in which
+volunteers who were experimentally infected with egg-adapted
+human H1N1 virus and treated with oseltamivir were moni-
+tored for the emergence of drug-resistant viruses by pheno-
+typic assays and sequencing of HA and NA (20). Due to its
+passaging in eggs, the original virus inoculum represented a
+heterogeneous mixture of receptor-binding variants differing
+by amino acid substitutions in HA. In the last-day isolates from
+volunteers, the ratio of the variants changed from that in the
+inoculum. In the placebo group, variants with a higher affinity
+for 6-linked receptors predominated over the egg-derived low-
+affinity variants with typical egg adaptation mutations in HA.
+By contrast, in drug-treated groups reversion of the egg-de-
+rived variants to the non-egg-adapted genotype was inhibited.
+These data suggested that viruses with a lower affinity for
+6-linked sialic acid receptors, such as egg-adapted variants of
+clinical human isolates, can be less sensitive to NAI in vivo
+than original non-egg-adapted viruses. Based on these results,
+it is currently believed that HA mutations decreasing virus
+affinity for 6-linked sialic acids may be a primary mechanism of
+the HA-mediated resistance to NA inhibitors in humans.
+To study HA-mediated virus resistance to NAI in MDCK-
+SIAT1 cells, we compared a clinical human virus with its three
+laboratory-derived receptor binding variants, which differed
+from the parent virus by single amino acid substitutions in HA.
+The sensitivity of the viruses to oseltamivir carboxylate corre-
+lated with their affinity for 6-linked sialic acids rather than for
+3-linked sialic acids. This result suggests that neutralization
+assays in MDCK-SIAT1 have the potential to adequately ac-
+count for the HA-mediated resistance in humans. However,
+viruses with known HA-mediated resistance in vivo have to be
+tested in this assay to check whether this assumption is correct.
+In summary, by stable transfection of the SIAT1 gene we
+were able to make the spectrum of the sialic acid receptors in
+MDCK cells more similar to that of human airway epithelium.
+The sensitivity of human influenza A and B viruses to neur-
+aminidase inhibitor in MDCK-SIAT1 cells was increased and
+was consistent with their sensitivity in the NA enzyme assay
+and with the HA receptor-binding phenotype. These features
+make MDCK-SIAT1 cells a promising system for testing sen-
+sitivity of influenza virus to NAI.
+ACKNOWLEDGMENTS
+M.M., T.M., and H.-D.K. were supported by Roche Products Ltd.,
+Welwyn Garden City, United Kingdom.
+We thank Robert Webster for providing clinical virus isolates, Mat-
+thias Dobbelstein for his advice on cloning, and Andreas Kaufmann
+for assistance with FACS analysis.
+REFERENCES
+1. Abed, Y., A. M. Bourgault, R. J. Fenton, P. J. Morley, D. Gower, I. J. Owens,
+M. Tisdale, and G. Boivin. 2002. Characterization of 2 influenza A(H3N2)
+clinical isolates with reduced susceptibility to neuraminidase inhibitors due
+to mutations in the hemagglutinin gene. J. Infect. Dis. 186:1074­1080.
+2. Air, G. M., and W. G. Laver. 1989. The neuraminidase of influenza virus.
+Proteins 6:341­356.
+3. Barnett, J. M., A. Cadman, D. Gor, M. Dempsey, M. Walters, A. Candlin, M.
+Tisdale, P. J. Morley, I. J. Owens, R. J. Fenton, A. P. Lewis, E. C. Claas, G. F.
+Rimmelzwaan, R. De Groot, and A. D. Osterhaus. 2000. Zanamivir suscep-
+tibility monitoring and characterization of influenza virus clinical isolates
+obtained during phase II clinical efficacy studies. Antimicrob. Agents Che-
+mother. 44:78­87.
+4. Baum, L. G., and J. C. Paulson. 1990. Sialyloligosaccharides of the respira-
+tory epithelium in the selection of human influenza virus receptor specificity.
+Acta Histochem. Suppl. 40:35­38.
+5. Boorsma, D. M., and J. G. Streefkerk. 1979. Periodate or glutaraldehyde for
+preparing peroxidase conjugates? J. Immunol. Methods 30:245­255.
+6. Breen, K. C., A. Potratz, N. Georgopoulou, and K. Sandhoff. 1998. The
+generation and characterization of a rat neural cell line overexpressing the
+alpha2,6(N) sialyltransferase. Glycoconj. J. 15:199­202.
+7. Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.
+Roberts. 2002. Influenza virus carrying neuraminidase with reduced sensi-
+tivity to oseltamivir carboxylate has altered properties in vitro and is com-
+promised for infectivity and replicative ability in vivo. Antivir. Res. 54:79­88.
+8. Colman, P. M. 1998. Structure and function of the neuraminidase, p. 65­73.
+In K. G. Nicholson, R. G. Webster, and A. J. Hay (ed.), Textbook of
+influenza. Blackwell Science, London, United Kingdom.
+9. Couceiro, J. N., J. C. Paulson, and L. G. Baum. 1993. Influenza virus strains
+selectively recognize sialyloligosaccharides on human respiratory epithelium;
+the role of the host cell in selection of hemagglutinin receptor specificity.
+Virus Res. 29:155­165.
+10. Dall'Olio, F., M. Chiricolo, P. Lollini, and J. T. Lau. 1995. Human colon
+cancer cell lines permanently expressing alpha 2,6-sialylated sugar chains by
+transfection with rat beta-galactoside alpha 2,6 sialyltransferase cDNA. Bio-
+chem. Biophys. Res. Commun. 211:554­561.
+11. Dall'Olio, F. 2000. The sialyl-2,6-lactosaminyl structure: biosynthesis and
+functional role. Glycoconj. J. 17:669­676.
+12. Fukuta, K., T. Yokomatsu, R. Abe, M. Asanagi, and T. Makino. 2000. Ge-
+netic engineering of CHO cells producing human interferon-gamma by
+transfection of sialyltransferases. Glycoconj. J. 17:895­904.
+13. Gambaryan, A. S., A. B. Tuzikov, V. E. Piskarev, S. S. Yamnikova, D. K.
+Lvov, J. S. Robertson, N. V. Bovin, and M. N. Matrosovich. 1997. Specifi-
+cation of receptor-binding phenotypes of influenza virus isolates from dif-
+ferent hosts using synthetic sialylglycopolymers: non-egg-adapted human H1
+and H3 influenza A and influenza B viruses share a common high binding
+affinity for 6-sialyl(N-acetyllactosamine). Virology 232:345­350.
+14. Gambaryan, A. S., V. P. Marinina, A. B. Tuzikov, N. V. Bovin, I. A. Rudneva,
+B. V. Sinitsyn, A. A. Shilov, and M. N. Matrosovich. 1998. Effects of host-
+dependent glycosylation of hemagglutinin on receptor-binding properties of
+H1N1 human influenza A virus grown in MDCK cells and in embryonated
+eggs. Virology 247:170­177.
+15. Gambaryan, A. S., J. S. Robertson, and M. N. Matrosovich. 1999. Effects of
+egg-adaptation on the receptor-binding properties of human influenza A and
+B viruses. Virology 258:232­239.
+16. Govorkova, E. A., G. Murti, B. Meignier, C. de Taisne, and R. G. Webster.
+1996. African green monkey kidney (Vero) cells provide an alternative host
+cell system for influenza A and B viruses. J. Virol. 70:5519­5524.
+17. Govorkova, E. A., M. N. Matrosovich, A. B. Tuzikov, N. V. Bovin, C. Gerdil,
+B. Fanget, and R. G. Webster. 1999. Selection of receptor-binding variants of
+human influenza A and B viruses in baby hamster kidney cells. Virology
+262:31­38.
+18. Gubareva, L. V., M. N. Matrosovich, M. K. Brenner, R. C. Bethell, and R. G.
+Webster. 1998. Evidence for zanamivir resistance in an immunocompro-
+mised child infected with influenza B virus. J. Infect. Dis. 178:1257­1262.
+19. Gubareva, L. V., L. Kaiser, and F. G. Hayden. 2000. Influenza virus neur-
+aminidase inhibitors. Lancet 355:827­835.
+20. Gubareva, L. V., L. Kaiser, M. N. Matrosovich, Y. Soo-Hoo, and F. G.
+Hayden. 2001. Selection of influenza virus mutants in experimentally in-
+fected volunteers treated with oseltamivir. J. Infect. Dis. 183:523­531.
+21. Ito, T., Y. Suzuki, A. Takada, A. Kawamoto, K. Otsuki, H. Masuda, M.
+Yamada, T. Suzuki, H. Kida, and Y. Kawaoka. 1997. Differences in sialic
+acid-galactose linkages in the chicken egg amnion and allantois influence
+human influenza virus receptor specificity and variant selection. J. Virol.
+71:3357­3362.
+22. Ives, J., J. Carr, N. A. Roberts, C. Y. Tai, D. B. Mendel, L. Kelly, R. Lambkin,
+and J. Oxford. 2000. An oseltamivir treatment-selected influenza A/Wuhan/
+359/95 virus with E119V mutation in the neuraminidase gene has reduced
+infectivity in vivo. J. Clin. Virol. 18:255­256.
+23. Knibbs, R. N., I. J. Goldstein, R. M. Ratcliffe, and N. Shibuya. 1991. Char-
+acterization of the carbohydrate binding specificity of the leukoagglutinating
+lectin from Maackia amurensis. Comparison with other sialic acid-specific
+lectins. J. Biol. Chem. 266:83­88.
+24. Lee, E. U., J. Roth, and J. C. Paulson. 1989. Alteration of terminal glyco-
+sylation sequences on N-linked oligosaccharides of Chinese hamster ovary
+cells by expression of beta-galactoside alpha 2,6-sialyltransferase. J. Biol.
+Chem. 264:13848­13855.
+25. Lin, S., W. Kemmner, S. Grigull, and P. M. Schlag. 2002. Cell surface alpha
+8424 MATROSOVICH ET AL. J. VIROL.
+2,6 sialylation affects adhesion of breast carcinoma cells. Exp. Cell Res.
+276:101­110.
+26. Macken, C., H. Lu, J. Goodman, and L. Boykin. 2001. The value of a
+database in surveillance and vaccine selection, p. 103­106. In A. D. Oster-
+haus, N. Cox, and A. W. Hampson (ed.), Options for the control of influenza
+IV. Elsevier Science, Amsterdam, The Netherlands.
+27. Matrosovich, M., N. Zhou, Y. Kawaoka, and R. Webster. 1999. The surface
+glycoproteins of H5 influenza viruses isolated from humans, chickens, and
+wild aquatic birds have distinguishable properties. J. Virol. 73:1146­1155.
+28. Matrosovich, M., A. Tuzikov, N. Bovin, A. Gambaryan, A. Klimov, M. R.
+Castrucci, I. Donatelli, and Y. Kawaoka. 2000. Early alterations of the
+receptor-binding properties of H1, H2, and H3 avian influenza virus hem-
+agglutinins after their introduction into mammals. J. Virol. 74:8502­8512.
+29. McKimm-Breschkin, J. L. 2000. Resistance of influenza viruses to neuramin-
+idase inhibitors--a review. Antivir. Res. 47:1­17.
+30. Mendel, D. B., and R. W. Sidwell. 1998. Influenza virus resistance to neur-
+aminidase inhibitors. Drug Resist. Updates 1:184­189.
+31. Rees, S., J. Coote, J. Stables, S. Goodson, S. Harris, and M. G. Lee. 1996.
+Bicistronic vector for the creation of stable mammalian cell lines that pre-
+disposes all antibiotic-resistant cells to express recombinant protein. Bio-
+Techniques 20:102­110.
+32. Roberts, N. A. 2001. Treatment of influenza with neuraminidase inhibitors:
+virological implications. Philos. Trans. R. Soc. Lond. B Biol. Sci. 356:1895­
+1897.
+33. Seo, S. H., O. Goloubeva, R. Webby, and R. G. Webster. 2001. Character-
+ization of a porcine lung epithelial cell line suitable for influenza virus
+studies. J. Virol. 75:9517­9525.
+34. Tisdale, M. 2000. Monitoring of viral susceptibility: new challenges with the
+development of influenza NA inhibitors. Rev. Med. Virol. 10:45­55.
+35. Tsuji, S. 1996. Molecular cloning and functional analysis of sialyltrans-
+ferases. J. Biochem. 120:1­13.
+36. Wagner, R., M. Matrosovich, and H.-D. Klenk. 2002. Functional balance
+between haemagglutinin and neuraminidase in influenza virus infections.
+Rev. Med. Virol. 12:159­166.
+37. Woods, J. M., R. C. Bethell, J. A. V. Coates, N. Healy, S. A. Hiscox, B. A.
+Pearson, D. M. Ryan, J. Ticehurst, J. Tilling, S. M. Walcott, and C. R. Penn.
+1993. 4-Guanidino-2,4-dideoxy-2,3-dehydro-N-acetylneuraminic acid is a
+highly effective inhibitor both of the sialidase (neuraminidase) and of growth
+of a wide range of influenza A and B viruses in vitro. Antimicrob. Agents
+Chemother. 37:1473­1479.
+38. Zambon, M., and F. G. Hayden. 2001. Position statement: global neuramin-
+idase inhibitor susceptibility network. Antivir. Res. 49:147­156.
+VOL. 77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8425
+

@@ -1,0 +1,16 @@
+T1	Protein 1 7	Volume
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 40 48	Research
+#2	AnnotatorNotes T2	END
+T3	Protein 193 194	K
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 393 397	1983
+#4	AnnotatorNotes T4	END
+T5	Protein 2422 2423	©
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2482 2490	Research
+#6	AnnotatorNotes T6	END
+T7	Protein 24094 24110	ACKNOWLEDGEMENTS
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 28654 28658	1566
+#8	AnnotatorNotes T8	END

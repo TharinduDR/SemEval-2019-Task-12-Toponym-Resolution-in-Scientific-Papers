@@ -1,0 +1,30 @@
+T102	Protein 112 116	Erin
+#102	AnnotatorNotes T102	BEGIN
+T103	Protein 521 522	)
+#103	AnnotatorNotes T103	END
+T15	Location 3602 3606	Asia
+#15	AnnotatorNotes T15	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T1	Protein 6272 6278	Author
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 7373 7385	MICROBIOLOGY
+#2	AnnotatorNotes T2	END
+T3	Protein 12087 12091	7566
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 12145 12148	al.
+#4	AnnotatorNotes T4	END
+T5	Protein 18961 18968	Sorrell
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 19019 19031	MICROBIOLOGY
+#6	AnnotatorNotes T6	END
+T7	Protein 24066 24070	7568
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 24124 24127	al.
+#8	AnnotatorNotes T8	END
+T9	Protein 28677 28684	Sorrell
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 28735 28747	MICROBIOLOGY
+#10	AnnotatorNotes T10	END
+T104	Protein 32910 32925	ACKNOWLEDGMENTS
+#104	AnnotatorNotes T104	BEGIN
+T105	Protein 39284 39285	.
+#105	AnnotatorNotes T105	END

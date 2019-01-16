@@ -1,0 +1,74 @@
+T2	Location 265 269	Asia
+#2	AnnotatorNotes T2	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T3	Location 275 281	Europe
+#3	AnnotatorNotes T3	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T12	Location 691 695	Asia
+#12	AnnotatorNotes T12	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T13	Location 700 706	Europe
+#13	AnnotatorNotes T13	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T24	Location 2956 2966	Bangladesh
+#24	AnnotatorNotes T24	<latlng>24,90</latlng><geoID>1210997</geoID>
+T25	Location 2968 2977	Singapore
+#25	AnnotatorNotes T25	<latlng>1.3667,103.8</latlng><geoID>1880251</geoID>
+T26	Location 2980 2988	Malaysia
+#26	AnnotatorNotes T26	<latlng>2.5,112.5</latlng><geoID>1733045</geoID>
+T27	Location 2994 3005	South Korea
+#27	AnnotatorNotes T27	<latlng>37,127.5</latlng><geoID>1835841</geoID>
+T28	Location 3071 3085	United Kingdom
+#28	AnnotatorNotes T28	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T29	Location 3087 3095	Scotland
+#29	AnnotatorNotes T29	<latlng>56,-4</latlng><pop>5000000</pop><geoID>2638360</geoID>
+T30	Location 3098 3105	Finland
+#30	AnnotatorNotes T30	<latlng>64,26</latlng><geoID>660013</geoID>
+T31	Location 3111 3122	Netherlands
+#31	AnnotatorNotes T31	<latlng>52.5,5.75</latlng><geoID>2750405</geoID>
+T32	Location 3124 3130	Poland
+#32	AnnotatorNotes T32	<latlng>52,20</latlng><geoID>798544</geoID>
+T33	Location 3136 3141	Italy
+#33	AnnotatorNotes T33	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T34	Location 3577 3588	Foster City
+#34	AnnotatorNotes T34	<latlng>37.55855,-122.27108</latlng><pop>30567</pop><geoID>5350159</geoID>
+T37	Location 5071 5075	Asia
+#37	AnnotatorNotes T37	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T38	Location 5079 5085	Europe
+#38	AnnotatorNotes T38	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T49	Location 7039 7043	Asia
+#49	AnnotatorNotes T49	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T50	Location 7048 7054	Europe
+#50	AnnotatorNotes T50	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T51	Location 7100 7104	Asia
+#51	AnnotatorNotes T51	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T59	Location 9302 9306	Asia
+#59	AnnotatorNotes T59	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T60	Location 9393 9399	Europe
+#60	AnnotatorNotes T60	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T62	Location 9461 9465	Asia
+#62	AnnotatorNotes T62	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T64	Location 9537 9543	Europe
+#64	AnnotatorNotes T64	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T66	Location 9622 9626	Asia
+#66	AnnotatorNotes T66	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T71	Location 10247 10251	Asia
+#71	AnnotatorNotes T71	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T72	Location 10256 10262	Europe
+#72	AnnotatorNotes T72	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T73	Location 10311 10323	South Africa
+#73	AnnotatorNotes T73	<latlng>-29,24</latlng><geoID>953987</geoID>
+T9	Location 3590 3592	CA
+#9	AnnotatorNotes T9	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T1	Protein 1 8	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T4	Protein 199 207	Reserved
+#4	AnnotatorNotes T4	END
+T5	Protein 302 303	.
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 581 585	2005
+#6	AnnotatorNotes T6	END
+T7	Protein 11643 11645	We
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 14534 14543	MICROBIOL
+#8	AnnotatorNotes T8	END
+T10	Protein 5647 5648	*
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 5894 5898	6130
+#11	AnnotatorNotes T11	END

@@ -1,0 +1,476 @@
+T1	Protein 0 8	RESEARCH
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 66 70	2002
+#2	AnnotatorNotes T2	END
+T3	Protein 143 151	Felicity
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 271 272	*
+#4	AnnotatorNotes T4	END
+T5	Protein 5168 5169	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5321 5329	RESEARCH
+#6	AnnotatorNotes T6	END
+T7	Protein 11123 11131	RESEARCH
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 11189 11193	2002
+#8	AnnotatorNotes T8	END
+T9	Protein 14821 14829	Emerging
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 14883 14891	RESEARCH
+#10	AnnotatorNotes T10	END
+T11	Protein 18348 18356	RESEARCH
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 18414 18418	2002
+#12	AnnotatorNotes T12	END
+T13	Protein 22303 22311	Emerging
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 22365 22373	RESEARCH
+#14	AnnotatorNotes T14	END
+T15	Protein 27398 27400	Dr
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 35054 35056	za
+#16	AnnotatorNotes T16	END
+T17	Location 687 693	Israel
+#17	AnnotatorNotes T17	<latlng>31.5, 34.75</latlng><geoID> 294640</geoID><pop>7353985</pop>
+T18	Location 1289 1295	Uganda
+#18	AnnotatorNotes T18	<latlng>1.25, 32.5</latlng><geoID>226074 </geoID><pop>33398682</pop>
+T19	Location 1474 1487	United States
+#19	AnnotatorNotes T19	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T20	Location 1723 1735	South Africa
+#20	AnnotatorNotes T20	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T21	Location 1813 1819	Israel
+#21	AnnotatorNotes T21	<latlng>31.5, 34.75</latlng><geoID>294640 </geoID><pop>7353985</pop>
+T22	Location 1895 1900	India
+#22	AnnotatorNotes T22	<latlng>22, 79</latlng><geoID> 1269750</geoID><pop>1173108018</pop>
+T23	Location 2110 2116	France
+#23	AnnotatorNotes T23	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T24	Location 1987 1992	Egypt
+#24	AnnotatorNotes T24	<latlng>46, 2</latlng><geoID> 357994</geoID><pop>64768389</pop>
+T25	Location 2209 2224;2225 2233	Central African Republic
+#25	AnnotatorNotes T25	<latlng>7, 21</latlng><geoID>239880 </geoID><pop>4844927</pop>
+T26	Location 2235 2238	CAR
+#26	AnnotatorNotes T26	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T27	Location 2442 2449	Algeria
+#27	AnnotatorNotes T27	<latlng>28, 3</latlng><geoID>2589581 </geoID><pop>34586184</pop>
+T28	Location 2451 2458	Romania
+#28	AnnotatorNotes T28	<latlng>46, 25</latlng><geoID> 798549</geoID><pop>21959278</pop>
+T29	Location 2460 2467	Morocco
+#29	AnnotatorNotes T29	<latlng>32, -6</latlng><geoID>2542007 </geoID><pop>33848242</pop>
+T30	Location 2469 2476	Tunisia
+#30	AnnotatorNotes T30	<latlng>34, 9</latlng><geoID>2464461 </geoID><pop>10589025</pop>
+T31	Location 2478 2483	Italy
+#31	AnnotatorNotes T31	<latlng>42.83333, 12.83333</latlng><geoID>6951102 </geoID><pop>60340328</pop>
+T32	Location 2485 2491	Russia
+#32	AnnotatorNotes T32	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T33	Location 2493 2499	France
+#33	AnnotatorNotes T33	<latlng>46, 2</latlng><geoID> 3017382</geoID><pop>64768389</pop>
+T34	Location 2501 2507	Israel
+#34	AnnotatorNotes T34	<latlng>31.5, 34.75</latlng><geoID> 294640</geoID><pop>7353985</pop>
+T35	Location 2517 2523;2524 2530	United States
+#35	AnnotatorNotes T35	<latlng>39.76, -98.5</latlng><geoID> 6252001</geoID><pop>310232863</pop>
+T36	Location 2574 2581	Romania
+#36	AnnotatorNotes T36	<latlng>46, 25</latlng><geoID>798549 </geoID><pop>21959278</pop>
+T37	Location 2599 2612	United States
+#37	AnnotatorNotes T37	<latlng>39.76, -98.5</latlng><geoID> 6252001</geoID><pop>310232863</pop>
+T38	Location 2700 2706;2707 2713	United States
+#38	AnnotatorNotes T38	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T39	Location 2812 2818	Israel
+#39	AnnotatorNotes T39	<latlng>31.5, 34.75</latlng><geoID>294640 </geoID><pop>7353985</pop>
+T40	Location 3692 3697	Karoo
+#40	AnnotatorNotes T40	<latlng>-33, 23</latlng><geoID>991851 </geoID>
+T41	Location 3702 3715	Northern Cape
+#41	AnnotatorNotes T41	<latlng>29.5, 22</latlng><geoID>1085596 </geoID><pop>819380</pop>
+T42	Location 4389 4411	Witwatersrand-Pretoria
+#42	AnnotatorNotes T42	<latlng>NA</latlng><geoID>NA</geoID>
+T43	Location 4422 4427;4428 4434	South Africa
+#43	AnnotatorNotes T43	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T44	Location 6160 6164;6165 6171	Aus- tralia
+#44	AnnotatorNotes T44	<latlng>-25, 135</latlng><geoID>2077456 </geoID><pop>21515754</pop>
+T45	Location 6264 6274	Madagascar
+#45	AnnotatorNotes T45	<latlng>-20, 47</latlng><geoID>1062947 </geoID><pop>21281844</pop>
+T46	Location 6711 6723	South Africa
+#46	AnnotatorNotes T46	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T47	Location 7854 7862	Pretoria
+#47	AnnotatorNotes T47	<latlng>-25.74486, 28.18783</latlng><geoID>964137 </geoID><pop>1619438</pop>
+T48	Location 7963 7975	Stellenbosch
+#48	AnnotatorNotes T48	<latlng>-33.92604, 18.94477</latlng><geoID>8347475 </geoID><pop>200524</pop>
+T49	Location 7977 7989	Western Cape
+#49	AnnotatorNotes T49	<latlng>-34, 20</latlng><geoID> 1085599</geoID><pop>4988154</pop>
+T50	Location 8097 8105	Gaborone
+#50	AnnotatorNotes T50	<latlng>-24.76234, 25.7995</latlng><geoID>7670702 </geoID><pop>231626</pop>
+T51	Location 8107 8115	Botswana
+#51	AnnotatorNotes T51	<latlng>-22, 24</latlng><geoID>933860 </geoID><pop>2029307</pop>
+T52	Location 9442 9450	Valencia
+#52	AnnotatorNotes T52	<latlng>34.44361, -118.60953</latlng><geoID>5405288 </geoID><pop>148456</pop>
+T53	Location 9452 9454	CA
+#53	AnnotatorNotes T53	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T54	Location 9757 9764	Germany
+#54	AnnotatorNotes T54	<latlng>51.5, 10.5</latlng><geoID> 2921044</geoID><pop>81802257</pop>
+T55	Location 9983 9993	Warrington
+#55	AnnotatorNotes T55	<latlng>53.41667, -2.58333</latlng><geoID>3333216 </geoID><pop>208809</pop>
+T56	Location 9995 10008	Great Britain
+#56	AnnotatorNotes T56	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T57	Location 10289 10297	Adelphia
+#57	AnnotatorNotes T57	<latlng>40.21817, -74.25626</latlng><geoID>5095047 </geoID>
+T58	Location 10299 10309	New Jersey
+#58	AnnotatorNotes T58	<latlng>40.16706, -74.49987</latlng><geoID>5101760 </geoID><pop>8751436</pop>
+T59	Location 10556 10564	Brisbane
+#59	AnnotatorNotes T59	<latlng>37.68972, -122.34002</latlng><geoID>7173069 </geoID>
+T60	Location 10566 10568	CA
+#60	AnnotatorNotes T60	<latlng>37.25022, -119.75126</latlng><geoID> 5332921</geoID><pop>37691912</pop>
+T61	Location 11890 11900	Free State
+#61	AnnotatorNotes T61	<latlng>-29, 26</latlng><geoID>967573 </geoID><pop>2740946</pop>
+T62	Location 11913 11925	South Africa
+#62	AnnotatorNotes T62	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T63	Location 12269 12277	Pretoria
+#63	AnnotatorNotes T63	<latlng>-25.74486, 28.18783</latlng><geoID>964137 </geoID><pop>1619438</pop>
+T64	Location 12946 12951	Ndumo
+#64	AnnotatorNotes T64	<latlng>-26.9264, 32.25175</latlng><geoID>971697 </geoID>
+T65	Location 12953 12967	Kwa-Zulu Natal
+#65	AnnotatorNotes T65	<latlng>-29, 30</latlng><geoID>972062 </geoID><pop>10154469</pop>
+T66	Location 12969 12972	RSA
+#66	AnnotatorNotes T66	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T67	Location 13027 13030	RSA
+#67	AnnotatorNotes T67	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T68	Location 13084 13087	RSA
+#68	AnnotatorNotes T68	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T69	Location 13148 13151	RSA
+#69	AnnotatorNotes T69	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T70	Location 13205 13208	RSA
+#70	AnnotatorNotes T70	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T71	Location 13325 13328	RSA
+#71	AnnotatorNotes T71	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T72	Location 13384 13387	RSA
+#72	AnnotatorNotes T72	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T73	Location 13456 13459	RSA
+#73	AnnotatorNotes T73	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T74	Location 13702 13705	RSA
+#74	AnnotatorNotes T74	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T75	Location 13766 13769	RSA
+#75	AnnotatorNotes T75	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T76	Location 13833 13836	RSA
+#76	AnnotatorNotes T76	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T77	Location 13901 13904	RSA
+#77	AnnotatorNotes T77	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T78	Location 13966 13969	RSA
+#78	AnnotatorNotes T78	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T79	Location 14034 14037	RSA
+#79	AnnotatorNotes T79	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T80	Location 14102 14105	RSA
+#80	AnnotatorNotes T80	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T81	Location 14170 14173	RSA
+#81	AnnotatorNotes T81	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T82	Location 14238 14241	RSA
+#82	AnnotatorNotes T82	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T83	Location 14306 14309	RSA
+#83	AnnotatorNotes T83	<latlng>-29, 24</latlng><geoID>953987</geoID><pop>49000000</pop>
+T84	Location 14374 14377	RSA
+#84	AnnotatorNotes T84	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T85	Location 14439 14442	RSA
+#85	AnnotatorNotes T85	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T86	Location 14507 14510	RSA
+#86	AnnotatorNotes T86	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T87	Location 14575 14578	RSA
+#87	AnnotatorNotes T87	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T88	Location 14643 14646	RSA
+#88	AnnotatorNotes T88	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T89	Location 14710 14713	RSA
+#89	AnnotatorNotes T89	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T90	Location 14776 14779	RSA
+#90	AnnotatorNotes T90	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T91	Location 14791 14794	RSA
+#91	AnnotatorNotes T91	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T92	Location 14796 14820	Republic of South Africa
+#92	AnnotatorNotes T92	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T93	Location 13440 13454	Kwa-Zulu Natal
+#93	AnnotatorNotes T93	<latlng>-29, 30</latlng><geoID>972062 </geoID><pop>10154469</pop>
+T94	Location 13433 13438	Ndumo
+#94	AnnotatorNotes T94	<latlng>-26.9264, 32.25175</latlng><geoID>971697 </geoID>
+T95	Location 13136 13146	Free State
+#95	AnnotatorNotes T95	<latlng>-29, 26</latlng><geoID>967573 </geoID><pop>2740946</pop>
+T96	Location 13954 13964	Free State
+#96	AnnotatorNotes T96	<latlng>-29, 26</latlng><geoID>967573 </geoID><pop>2740946</pop>
+T97	Location 14563 14573	Free State
+#97	AnnotatorNotes T97	<latlng>-29, 26</latlng><geoID>967573 </geoID><pop>2740946</pop>
+T98	Location 14631 14641	Free State
+#98	AnnotatorNotes T98	<latlng>-29, 26</latlng><geoID>967573 </geoID><pop>2740946</pop>
+T99	Location 14698 14708	Free State
+#99	AnnotatorNotes T99	<latlng>-29, 26</latlng><geoID>967573 </geoID><pop>2740946</pop>
+T100	Location 13688 13700	Western Cape
+#100	AnnotatorNotes T100	<latlng>-34, 20</latlng><geoID> 1085599</geoID><pop>4988154</pop>
+T101	Location 13752 13764	Western Cape
+#101	AnnotatorNotes T101	<latlng>-34, 20</latlng><geoID> 1085599</geoID><pop>4988154</pop>
+T102	Location 13015 13025	Mpumulanga
+#102	AnnotatorNotes T102	<latlng>-26, 30</latlng><geoID>1085595 </geoID><pop>3409743</pop>
+T103	Location 13824 13831	Gauteng
+#103	AnnotatorNotes T103	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T104	Location 13892 13899	Gauteng
+#104	AnnotatorNotes T104	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T105	Location 14025 14032	Gauteng
+#105	AnnotatorNotes T105	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T106	Location 14093 14100	Gauteng
+#106	AnnotatorNotes T106	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T107	Location 14161 14168	Gauteng
+#107	AnnotatorNotes T107	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T108	Location 14229 14236	Gauteng
+#108	AnnotatorNotes T108	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T109	Location 14297 14304	Gauteng
+#109	AnnotatorNotes T109	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T110	Location 14365 14372	Gauteng
+#110	AnnotatorNotes T110	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T111	Location 14430 14437	Gauteng
+#111	AnnotatorNotes T111	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T112	Location 14498 14505	Gauteng
+#112	AnnotatorNotes T112	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T113	Location 14767 14774	Gauteng
+#113	AnnotatorNotes T113	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T114	Location 13003 13013	Middelburg
+#114	AnnotatorNotes T114	<latlng>-25.77507, 29.46482</latlng><geoID>976361 </geoID><pop>154706</pop>
+T115	Location 13075 13082	Gauteng
+#115	AnnotatorNotes T115	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T116	Location 13196 13203	Gauteng
+#116	AnnotatorNotes T116	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T117	Location 13375 13382	Gauteng
+#117	AnnotatorNotes T117	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T118	Location 13515 13522	Gauteng
+#118	AnnotatorNotes T118	<latlng>-26.08333, 28.25</latlng><geoID>1085594 </geoID><pop>10058121</pop>
+T119	Location 13061 13073	Johannesburg
+#119	AnnotatorNotes T119	<latlng>-26.17673, 27.96353</latlng><geoID>8347354 </geoID><pop>3888180</pop>
+T120	Location 13122 13134	Bloemfontein
+#120	AnnotatorNotes T120	<latlng>-29.12107, 26.214</latlng><geoID>1018725 </geoID><pop>463064</pop>
+T121	Location 13186 13194	Pretoria
+#121	AnnotatorNotes T121	<latlng>-25.74486, 28.18783</latlng><geoID>964137 </geoID><pop>1619438</pop>
+T122	Location 13251 13258	Namibia
+#122	AnnotatorNotes T122	<latlng>-22, 17</latlng><geoID>3355338 </geoID><pop>2128471</pop>
+T123	Location 13243 13249	Ovambo
+#123	AnnotatorNotes T123	<latlng>NA</latlng><geoID>NA</geoID>
+T124	Location 13292 13304	Naboomspruit
+#124	AnnotatorNotes T124	<latlng>-24.51667, 28.71667</latlng><geoID>972207 </geoID>
+T125	Location 13306 13323	Northern Province
+#125	AnnotatorNotes T125	<latlng>-24, 29.5</latlng><geoID>1085597</geoID> note: now called Limpopo
+T126	Location 13361 13373	Johannesburg
+#126	AnnotatorNotes T126	<latlng>-26.17673, 27.96353</latlng><geoID>8347354 </geoID><pop>3888180</pop>
+T127	Location 13501 13513	Olifantsvlei
+#127	AnnotatorNotes T127	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T128	Location 13524 13527	RSA
+#128	AnnotatorNotes T128	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T129	Location 13579 13589	Mozambique
+#129	AnnotatorNotes T129	<latlng>-18.25, 35</latlng><geoID>1036973 </geoID><pop>22061451</pop>
+T130	Location 13571 13577	Mopeia
+#130	AnnotatorNotes T130	<latlng>-17.98, 35.715</latlng><geoID>11189153 </geoID>
+T131	Location 13630 13638	Botswana
+#131	AnnotatorNotes T131	<latlng>-22, 24</latlng><geoID>933860 </geoID><pop>2029307</pop>
+T132	Location 13620 13628	Gabarone
+#132	AnnotatorNotes T132	(Correct spelling Gaborone) <latlng>-24.76234, 25.7995</latlng><geoID>7670702 </geoID><pop>231626</pop>
+T133	Location 13673 13686	Prince Albert
+#133	AnnotatorNotes T133	<latlng>-33.22648, 22.03626</latlng><geoID>8347501 </geoID><pop>8374</pop>
+T134	Location 13737 13750	Somerset West
+#134	AnnotatorNotes T134	<latlng>-34.08401, 18.82113</latlng><geoID>6951112 </geoID>
+T135	Location 13810 13822	Olifantsvlei
+#135	AnnotatorNotes T135	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T136	Location 13878 13890	Olifantsvlei
+#136	AnnotatorNotes T136	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T137	Location 14011 14023	Olifantsvlei
+#137	AnnotatorNotes T137	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T138	Location 14079 14091	Olifantsvlei
+#138	AnnotatorNotes T138	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T139	Location 14147 14159	Olifantsvlei
+#139	AnnotatorNotes T139	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T140	Location 14215 14227	Olifantsvlei
+#140	AnnotatorNotes T140	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T141	Location 14283 14295	Olifantsvlei
+#141	AnnotatorNotes T141	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T142	Location 14351 14363	Olifantsvlei
+#142	AnnotatorNotes T142	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T143	Location 14416 14428	Olifantsvlei
+#143	AnnotatorNotes T143	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T144	Location 14484 14496	Olifantsvlei
+#144	AnnotatorNotes T144	<latlng>-27.0833, 26.9</latlng><geoID>NA</geoID>
+T145	Location 14553 14561	Bethulie
+#145	AnnotatorNotes T145	<latlng>-30.49864, 25.97458</latlng><geoID>1019700 </geoID>
+T146	Location 14621 14629	Bethulie
+#146	AnnotatorNotes T146	<latlng>-30.49864, 25.97458</latlng><geoID>1019700 </geoID>
+T147	Location 14688 14696	Bethulie
+#147	AnnotatorNotes T147	<latlng>-30.49864, 25.97458</latlng><geoID>1019700 </geoID>
+T148	Location 14756 14765	Rondebult
+#148	AnnotatorNotes T148	<latlng>NA</latlng><geoID>NA</geoID>
+T149	Location 15651 15659	Botswana
+#149	AnnotatorNotes T149	<latlng>-22, 24</latlng><geoID>933860 </geoID><pop>2029307</pop>
+T150	Location 16101 16114	Somerset West
+#150	AnnotatorNotes T150	<latlng>-34.08401, 18.82113</latlng><geoID>6951112 </geoID>
+T151	Location 16211 16224	Prince Albert
+#151	AnnotatorNotes T151	<latlng>-33.22648, 22.03626</latlng><geoID>8347501 </geoID><pop>8374</pop>
+T152	Location 16241 16253	Western Cape
+#152	AnnotatorNotes T152	<latlng>-34, 20</latlng><geoID> 1085599</geoID><pop>4988154</pop>
+T153	Location 16774 16779	India
+#153	AnnotatorNotes T153	<latlng>22, 79</latlng><geoID>1269750 </geoID><pop>1173108018</pop>
+T154	Location 16789 16802	United States
+#154	AnnotatorNotes T154	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T155	Location 16818 16827	Australia
+#155	AnnotatorNotes T155	<latlng>-25, 135</latlng><geoID> 2077456</geoID><pop>21515754</pop>
+T156	Location 17190 17195	Egypt
+#156	AnnotatorNotes T156	<latlng>27, 30</latlng><geoID> 357994</geoID><pop>80471869</pop>
+T157	Location 17220 17226	Israel
+#157	AnnotatorNotes T157	<latlng>31.5, 34.75</latlng><geoID> 294640</geoID><pop>7353985</pop>
+T158	Location 17252 17257	India
+#158	AnnotatorNotes T158	<latlng>22, 79</latlng><geoID>1269750 </geoID><pop>1173108018</pop>
+T159	Location 17302 17308	Uganda
+#159	AnnotatorNotes T159	<latlng>1.25, 32.5</latlng><geoID> 226074</geoID><pop>33398682</pop>
+T160	Location 17337 17343	France
+#160	AnnotatorNotes T160	<latlng>46, 2</latlng><geoID> 3017382</geoID><pop>64768389</pop>
+T161	Location 17375 17378	CAR
+#161	AnnotatorNotes T161	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T162	Location 17415 17422	Algeria
+#162	AnnotatorNotes T162	<latlng>28, 3</latlng><geoID> 2589581</geoID><pop>34586184</pop>
+T163	Location 17462 17472	Madagascar
+#163	AnnotatorNotes T163	<latlng>-20, 47</latlng><geoID>1062947 </geoID><pop>21281844</pop>
+T164	Location 17517 17524	Senegal
+#164	AnnotatorNotes T164	<latlng>14.5, -14.25</latlng><geoID>2245662 </geoID><pop>12323252</pop>
+T165	Location 17560 17571	Ivory Coast
+#165	AnnotatorNotes T165	<latlng>8, -5.5</latlng><geoID>2287781 </geoID><pop>21058798</pop>
+T166	Location 17601 17604	CAR
+#166	AnnotatorNotes T166	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T167	Location 17649 17659	Madagascar
+#167	AnnotatorNotes T167	<latlng>-20, 47</latlng><geoID>1062947 </geoID><pop>21281844</pop>
+T168	Location 17699 17709	Madagascar
+#168	AnnotatorNotes T168	<latlng>-20, 47</latlng><geoID>1062947 </geoID><pop>21281844</pop>
+T169	Location 17738 17741	CAR
+#169	AnnotatorNotes T169	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T170	Location 17779 17786	Senegal
+#170	AnnotatorNotes T170	<latlng>14.5, -14.25</latlng><geoID>2245662 </geoID><pop>12323252</pop>
+T171	Location 17822 17829	Senegal
+#171	AnnotatorNotes T171	<latlng>14.5, -14.25</latlng><geoID>2245662 </geoID><pop>12323252</pop>
+T172	Location 17863 17870	Romania
+#172	AnnotatorNotes T172	<latlng>46, 25</latlng><geoID>798549 </geoID><pop>21959278</pop>
+T173	Location 17895 17902	Morocco
+#173	AnnotatorNotes T173	<latlng>32, -6</latlng><geoID> 2542007</geoID><pop>33848242</pop>
+T174	Location 17935 17941	Israel
+#174	AnnotatorNotes T174	<latlng>31.5, 34.75</latlng><geoID> 294640</geoID><pop>7353985</pop>
+T175	Location 17967 17972	Italy
+#175	AnnotatorNotes T175	<latlng>42.83333, 12.83333</latlng><geoID>6951102 </geoID><pop>60340328</pop>
+T176	Location 18011 18016	Kenya
+#176	AnnotatorNotes T176	<latlng>1, 38</latlng><geoID>192950 </geoID><pop>40046566</pop>
+T177	Location 18107 18112	Kenya
+#177	AnnotatorNotes T177	<latlng>1, 38</latlng><geoID>192950 </geoID><pop>40046566</pop>
+T178	Location 18062 18065	USA
+#178	AnnotatorNotes T178	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T179	Location 18135 18144	Australia
+#179	AnnotatorNotes T179	<latlng>-25, 135</latlng><geoID> 2077456</geoID><pop>21515754</pop>
+T180	Location 18179 18184	China
+#180	AnnotatorNotes T180	<latlng>35,105</latlng><geoID> 1814991</geoID><pop>1330044000</pop>
+T181	Location 18317 18320	CAR
+#181	AnnotatorNotes T181	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T182	Location 18322 18346	Central African Republic
+#182	AnnotatorNotes T182	<latlng>7, 21</latlng><geoID>239880 </geoID><pop>4844927</pop>
+T186	Location 18793 18803	Madagascar
+#186	AnnotatorNotes T186	<latlng>-20, 47</latlng><geoID>1062947 </geoID><pop>21281844</pop>
+T187	Location 18905 18915	Madagascar
+#187	AnnotatorNotes T187	<latlng>-20, 47</latlng><geoID>1062947 </geoID><pop>21281844</pop>
+T188	Location 19450 19453	CAR
+#188	AnnotatorNotes T188	<latlng>7, 21</latlng><geoID>239880 </geoID><pop>4844927</pop>
+T189	Location 19455 19462	Senegal
+#189	AnnotatorNotes T189	<latlng>14.5, -14.25</latlng><geoID>2245662 </geoID><pop>12323252</pop>
+T190	Location 19468 19473	Kenya
+#190	AnnotatorNotes T190	<latlng>1, 38</latlng><geoID>192950 </geoID><pop>40046566</pop>
+T192	Location 22111 22114	AUS
+#192	AnnotatorNotes T192	<latlng>-25, 135</latlng><geoID>2077456 </geoID><pop>21515754</pop>
+T193	Location 22116 22125	Australia
+#193	AnnotatorNotes T193	<latlng>-25, 135</latlng><geoID> 2077456</geoID><pop>21515754</pop>
+T194	Location 22129 22132	CAR
+#194	AnnotatorNotes T194	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T195	Location 22134 22149;22150 22158	Central African Republic
+#195	AnnotatorNotes T195	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T196	Location 22163 22165	SA
+#196	AnnotatorNotes T196	<latlng>-29, 24</latlng><geoID> 953987</geoID><pop>49000000</pop>
+T197	Location 22167 22179	South Africa
+#197	AnnotatorNotes T197	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T198	Location 22401 22404	CAR
+#198	AnnotatorNotes T198	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T199	Location 22406 22413	Senegal
+#199	AnnotatorNotes T199	<latlng>14.5, -14.25</latlng><geoID>2245662 </geoID><pop>12323252</pop>
+T200	Location 22419 22424	Kenya
+#200	AnnotatorNotes T200	<latlng>1, 38</latlng><geoID>192950 </geoID><pop>40046566</pop>
+T201	Location 23888 23894	Israel
+#201	AnnotatorNotes T201	<latlng>31.5, 34.75</latlng><geoID> 294640</geoID><pop>7353985</pop>
+T202	Location 24440 24443	CAR
+#202	AnnotatorNotes T202	<latlng>7, 21</latlng><geoID> 239880</geoID><pop>4844927</pop>
+T203	Location 24751 24763	South Africa
+#203	AnnotatorNotes T203	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T204	Location 25024 25036	South Africa
+#204	AnnotatorNotes T204	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T205	Location 26054 26059;26060 26066	South Africa
+#205	AnnotatorNotes T205	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T206	Location 25988 25996	Botswana
+#206	AnnotatorNotes T206	<latlng>-22, 24</latlng><geoID> 933860</geoID><pop>2029307</pop>
+T208	Location 26731 26743	South Africa
+#208	AnnotatorNotes T208	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T209	Location 26855 26867	South Africa
+#209	AnnotatorNotes T209	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T210	Location 27068 27080	Western Cape
+#210	AnnotatorNotes T210	<latlng>-34, 20</latlng><geoID>1085599 </geoID><pop>4988154</pop>
+T211	Location 699 712	North America
+#211	AnnotatorNotes T211	<latlng> 46.07323, -100.54588 </latlng><geoID>6255149 </geoID>
+T213	Location 679 685	Europe
+#213	AnnotatorNotes T213	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID>
+T214	Location 764 770	Africa
+#214	AnnotatorNotes T214	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T215	Location 3052 3058	Africa
+#215	AnnotatorNotes T215	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T216	Location 775 785	Madagascar
+#216	AnnotatorNotes T216	<latlng> -20, 47 </latlng><geoID> 1062947</geoID><pop>21281844</pop>
+T217	Location 4536 4548	South Africa
+#217	AnnotatorNotes T217	<latlng> -29, 24 </latlng><geoID>953987 </geoID> <pop> 49000000 </pop>
+T218	Location 6045 6051	Africa
+#218	AnnotatorNotes T218	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T219	Location 6074 6080	Europe
+#219	AnnotatorNotes T219	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID>
+T220	Location 6082 6086	Asia
+#220	AnnotatorNotes T220	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>
+T221	Location 6092 6105	North America
+#221	AnnotatorNotes T221	<latlng> 46.07323, -100.54588 </latlng><geoID>6255149 </geoID> 
+T222	Location 6443 6449	Africa
+#222	AnnotatorNotes T222	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T223	Location 7012 7018	Africa
+#223	AnnotatorNotes T223	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T224	Location 16743 16749	Europe
+#224	AnnotatorNotes T224	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID>
+T225	Location 16751 16757	Africa
+#225	AnnotatorNotes T225	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T183	Location 18780 18786	Africa
+#183	AnnotatorNotes T183	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T184	Location 6253 6259	Africa
+#184	AnnotatorNotes T184	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T185	Location 1362 1368	Europe
+#185	AnnotatorNotes T185	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T226	Location 1344 1350	Africa
+#226	AnnotatorNotes T226	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T227	Location 1352 1356	Asia
+#227	AnnotatorNotes T227	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>
+T228	Location 1620 1626	Africa
+#228	AnnotatorNotes T228	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T229	Location 1647 1651	Asia
+#229	AnnotatorNotes T229	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>
+T230	Location 1687 1693	Israel
+#230	AnnotatorNotes T230	<latlng>31.5, 34.75</latlng><geoID>294640</geoID><pop>7353985<pop>
+T231	Location 26256 26262	Africa
+#231	AnnotatorNotes T231	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T232	Location 22664 22670	Africa
+#232	AnnotatorNotes T232	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T233	Location 22675 22682	Eurasia
+#233	AnnotatorNotes T233	<latlng>NA</latlng><geoID>NA</geoID>
+T234	Location 7447 7453	Africa
+#234	AnnotatorNotes T234	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T235	Location 2583 2589	Israel
+#235	AnnotatorNotes T235	<latlng>31.5, 34.75</latlng><geoID>294640</geoID><pop>7353985<pop>
+T236	Location 13946 13952	Welkom
+#236	AnnotatorNotes T236	<latlng>-27.97742, 26.73506</latlng><geoID>940909 </geoID> <pop>431944</pop>
+T191	Location 2872 2879	America
+#191	AnnotatorNotes T191	<latlng>NA</latlng><geoID>NA</geoID>
+T212	Location 665 677	North Africa
+#212	AnnotatorNotes T212	<latlng>32.95337, 9.97559</latlng><geoID>7729887</geoID><pop>210800000</pop>
+T237	Location 1632 1641	Near East
+#237	AnnotatorNotes T237	<latlng>NA</latlng><geoID>NA</geoID>
+T238	Location 2889 2898	Near East
+#238	AnnotatorNotes T238	<latlng>NA</latlng><geoID>NA</geoID>
+T239	Location 16763 16772	Near East
+#239	AnnotatorNotes T239	<latlng>NA</latlng><geoID>NA</geoID>

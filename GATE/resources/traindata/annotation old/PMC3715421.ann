@@ -1,0 +1,188 @@
+T1	Protein 60 64	Alex
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 673 679	Brasil
+#2	AnnotatorNotes T2	END
+T3	Protein 1856 1864	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 2906 2907	.
+#4	AnnotatorNotes T4	END
+T5	Protein 6141 6145	PLOS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6228 6233	e2318
+#6	AnnotatorNotes T6	END
+T7	Protein 8645 8648	doi
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 8807 8812	e2318
+#8	AnnotatorNotes T8	END
+T9	Protein 10551 10554	doi
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 10713 10718	e2318
+#10	AnnotatorNotes T10	END
+T11	Protein 13023 13026	doi
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 13185 13190	e2318
+#12	AnnotatorNotes T12	END
+T13	Protein 14090 14093	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 14252 14257	e2318
+#14	AnnotatorNotes T14	END
+T15	Protein 18262 18265	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 18424 18429	e2318
+#16	AnnotatorNotes T16	END
+T17	Protein 25597 25612	Acknowledgments
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 33987 33992	e2318
+#18	AnnotatorNotes T18	END
+T19	Location 30 38	Pantanal
+#19	AnnotatorNotes T19	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T20	Location 53 59	Brazil
+#20	AnnotatorNotes T20	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T21	Location 899 911	Nhecolândia
+#21	AnnotatorNotes T21	<latlng>-19.25028, -57.02472</latlng><geoID>3456304 </geoID>
+T22	Location 926 934	Pantanal
+#22	AnnotatorNotes T22	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T23	Location 1159 1167	Pantanal
+#23	AnnotatorNotes T23	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T24	Location 1846 1854	Pantanal
+#24	AnnotatorNotes T24	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T25	Location 3122 3127	Bahia
+#25	AnnotatorNotes T25	<latlng>-12, -42</latlng><geoID>3471168 </geoID><pop>14175341</pop>
+T26	Location 3139 3145	Brazil
+#26	AnnotatorNotes T26	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T27	Location 3466 3474	Trinidad
+#27	AnnotatorNotes T27	<latlng>10.46114, -61.25702</latlng><geoID>3573592 </geoID>
+T28	Location 3476 3482	Panama
+#28	AnnotatorNotes T28	<latlng>9, -80</latlng><geoID>3703430 </geoID><pop>3410676</pop>
+T29	Location 3484 3492	Colombia
+#29	AnnotatorNotes T29	<latlng>4, -73.25</latlng><geoID>3686110 </geoID><pop>47790000</pop>
+T30	Location 3494 3507	French Guyana
+#30	AnnotatorNotes T30	<latlng>4, -53</latlng><geoID>3381670 </geoID><pop>195506</pop>
+T31	Location 3509 3515	Brazil
+#31	AnnotatorNotes T31	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T32	Location 3517 3524	Ecuador
+#32	AnnotatorNotes T32	<latlng>-1.25, -78.25</latlng><geoID>3658394 </geoID><pop>14790608</pop>
+T33	Location 3529 3536	Bolivia
+#33	AnnotatorNotes T33	<latlng>-17, -65</latlng><geoID>3923057 </geoID><pop>9947418</pop>
+T34	Location 4048 4054	Brazil
+#34	AnnotatorNotes T34	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T35	Location 4195 4203	Pantanal
+#35	AnnotatorNotes T35	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T36	Location 4227 4233	Brazil
+#36	AnnotatorNotes T36	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T37	Location 4402 4414	Nhecolândia
+#37	AnnotatorNotes T37	<latlng>-19.25028, -57.02472</latlng><geoID>3456304 </geoID>
+T38	Location 4433 4441	Pantanal
+#38	AnnotatorNotes T38	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T39	Location 4638 4646	Pantanal
+#39	AnnotatorNotes T39	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T40	Location 4822 4834	Nhecolândia
+#40	AnnotatorNotes T40	<latlng>-19.25028, -57.02472</latlng><geoID>3456304 </geoID>
+T41	Location 5114 5122	Pantanal
+#41	AnnotatorNotes T41	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T42	Location 5462 5470	Pantanal
+#42	AnnotatorNotes T42	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T43	Location 5915 5927	Nhecolândia
+#43	AnnotatorNotes T43	<latlng>-19.25028, -57.02472</latlng><geoID>3456304 </geoID>
+T44	Location 6558 6570	Nhecolândia
+#44	AnnotatorNotes T44	<latlng>-19.25028, -57.02472</latlng><geoID>3456304 </geoID>
+T45	Location 6585 6593	Pantanal
+#45	AnnotatorNotes T45	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T46	Location 6608 6614	Brazil
+#46	AnnotatorNotes T46	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T47	Location 7699 7707	Pantanal
+#47	AnnotatorNotes T47	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T48	Location 7731 7737	Brazil
+#48	AnnotatorNotes T48	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T49	Location 8239 8247	Pantanal
+#49	AnnotatorNotes T49	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T50	Location 8598 8606	Pantanal
+#50	AnnotatorNotes T50	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T51	Location 8617 8635	Mato Grosso do Sul
+#51	AnnotatorNotes T51	<latlng>-20.5, -55</latlng><geoID>3457415 </geoID><pop>2505088</pop>
+T52	Location 8637 8643	Brazil
+#52	AnnotatorNotes T52	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T53	Location 8875 8881	Brazil
+#53	AnnotatorNotes T53	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T54	Location 8865 8873	Pantanal
+#54	AnnotatorNotes T54	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T55	Location 14779 14787	Valencia
+#55	AnnotatorNotes T55	<latlng>34.44361, -118.60953</latlng><geoID>5405288 </geoID><pop>148456</pop>
+T56	Location 14789 14791	CA
+#56	AnnotatorNotes T56	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T57	Location 14793 14796	USA
+#57	AnnotatorNotes T57	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T58	Location 15276 15284	Hercules
+#58	AnnotatorNotes T58	<latlng>38.03354, -122.29848</latlng><geoID>11788428 </geoID>
+T59	Location 15286 15288	CA
+#59	AnnotatorNotes T59	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T60	Location 15290 15293	USA
+#60	AnnotatorNotes T60	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T61	Location 15378 15381	USA
+#61	AnnotatorNotes T61	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T62	Location 15660 15663	USA
+#62	AnnotatorNotes T62	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T63	Location 15361 15372	Foster City
+#63	AnnotatorNotes T63	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T64	Location 15374 15376	CA
+#64	AnnotatorNotes T64	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T65	Location 15656 15658	CA
+#65	AnnotatorNotes T65	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T66	Location 15646 15654	Carlsbad
+#66	AnnotatorNotes T66	<latlng>33.12455, -117.28354</latlng><geoID>11788776</geoID>
+T67	Location 15460 15463	USA
+#67	AnnotatorNotes T67	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T68	Location 15456 15458	WI
+#68	AnnotatorNotes T68	<latlng>44.50024, -90.00041</latlng><geoID>5279468 </geoID><pop>5535168</pop>
+T69	Location 15447 15454	Madison
+#69	AnnotatorNotes T69	<latlng>43.08097, -89.39172</latlng><geoID>5261482</geoID><pop>233209</pop>
+T70	Location 16276 16287	Foster City
+#70	AnnotatorNotes T70	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T71	Location 16555 16566	Foster City
+#71	AnnotatorNotes T71	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T72	Location 16461 16467;16468 16472	Foster City
+#72	AnnotatorNotes T72	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T73	Location 16289 16291	CA
+#73	AnnotatorNotes T73	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T74	Location 16474 16476	CA
+#74	AnnotatorNotes T74	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T75	Location 16568 16570	CA
+#75	AnnotatorNotes T75	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T76	Location 16572 16575	USA
+#76	AnnotatorNotes T76	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T77	Location 16478 16481	USA
+#77	AnnotatorNotes T77	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T78	Location 16293 16296	USA
+#78	AnnotatorNotes T78	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T79	Location 21902 21908	Brazil
+#79	AnnotatorNotes T79	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T80	Location 22138 22145	Ecuador
+#80	AnnotatorNotes T80	<latlng>-1.25, -78.25</latlng><geoID>3658394 </geoID><pop>14790608</pop>
+T81	Location 23055 23063	Pantanal
+#81	AnnotatorNotes T81	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T82	Location 23028 23040	Nhecolândia
+#82	AnnotatorNotes T82	<latlng>-19.25028, -57.02472</latlng><geoID>3456304 </geoID>
+T83	Location 23508 23516	Pantanal
+#83	AnnotatorNotes T83	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T84	Location 24597 24605	Pantanal
+#84	AnnotatorNotes T84	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T85	Location 25148 25156	Pantanal
+#85	AnnotatorNotes T85	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T86	Location 719 727	Pantanal
+#86	AnnotatorNotes T86	<latlng>-18, -56</latlng><geoID>3455248 </geoID>
+T87	Location 3395 3408	South America
+#87	AnnotatorNotes T87	<latlng>-14.60485,-57.65625</latlng><geoID>6255150 </geoID><pop>385742554</pop>
+T88	Location 7625 7638	South America
+#88	AnnotatorNotes T88	<latlng>-14.60485,-57.65625</latlng><geoID>6255150 </geoID><pop>385742554</pop>
+T89	Location 7505 7510;7511 7518	South America
+#89	AnnotatorNotes T89	<latlng>-14.60485,-57.65625</latlng><geoID>6255150 </geoID><pop>385742554</pop>
+T90	Location 16370 16372	CA
+#90	AnnotatorNotes T90	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T91	Location 16374 16377	USA
+#91	AnnotatorNotes T91	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T92	Location 16360 16368	Hercules
+#92	AnnotatorNotes T92	<latlng>38.03354, -122.29848</latlng><geoID>11788428 </geoID>
+T93	Location 3104 3111	Ilhéus
+#93	AnnotatorNotes T93	<latlng>-14.79364, -39.03949</latlng><geoID>6320871 </geoID><pop>155499</pop>
+T94	Location 3694 3699;3700 3707	South America
+#94	AnnotatorNotes T94	<latlng> -14.60485, -57.65625 </latlng><geoID>6255150 </geoID><pop>385742554</pop>

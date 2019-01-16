@@ -1,0 +1,32 @@
+T10	Location 8463 8469	London
+#10	AnnotatorNotes T10	<latlng>51.49227,-0.30864</latlng><pop>8787892</pop><geoID>11591955</geoID>
+T11	Location 8471 8485	United Kingdom
+#11	AnnotatorNotes T11	<latlng>54.75844, -2.69531</latlng><geoID>2635167</geoID>
+T15	Location 11076 11084	Mannheim
+#15	AnnotatorNotes T15	<latlng>49.49671,8.47955</latlng><pop>307960</pop><geoID>2873891</geoID>
+T16	Location 11086 11093	Germany
+#16	AnnotatorNotes T16	<latlng>51.5, 10.5</latlng><geoID>2921044</geoID>
+T18	Location 12986 12993	Atlanta
+#18	AnnotatorNotes T18	<latlng>33.749,-84.38798</latlng><pop>420003</pop><geoID>4180439</geoID>
+T19	Location 12995 12997	Ga
+#19	AnnotatorNotes T19	<latlng>32.75042,-83.50018</latlng><pop>8975842</pop><geoID>4197000</geoID>
+T20	Location 13928 13937	St. Louis
+#20	AnnotatorNotes T20	<latlng>38.62727,-90.19789</latlng><pop>319294</pop><geoID>4407084</geoID>
+T21	Location 13939 13941	Mo
+#21	AnnotatorNotes T21	<latlng>38.25031,-92.50046</latlng><pop>5768151</pop><geoID>4398678</geoID>
+T1	Protein 41152 41167	ACKNOWLEDGMENTS
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 50310 50314	8425
+#2	AnnotatorNotes T2	END
+T3	Protein 1 8	JOURNAL
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 195 196	.
+#4	AnnotatorNotes T4	END
+T5	Protein 325 332	Mikhail
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 719 723	2003
+#6	AnnotatorNotes T6	END
+T7	Protein 5812 5813	*
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 6047 6051	8418
+#8	AnnotatorNotes T8	END

@@ -1,0 +1,340 @@
+T1	Protein 0 13	International
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 145 152	profile
+#2	AnnotatorNotes T2	END
+T3	Protein 186 187	A
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1609 1613	2016
+#4	AnnotatorNotes T4	END
+T5	Protein 3518 3523	C The
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3997 3998	2
+#6	AnnotatorNotes T6	END
+T7	Protein 9149 9153	406b
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 9213 9214	2
+#8	AnnotatorNotes T8	END
+T9	Protein 15930 15943	International
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 15996 16000	406d
+#10	AnnotatorNotes T10	END
+T11	Protein 17396 17409	International
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 17454 17455	2
+#12	AnnotatorNotes T12	END
+T13	Protein 21027 21040	International
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 21085 21086	2
+#14	AnnotatorNotes T14	END
+T15	Protein 25714 25727	International
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 25772 25773	2
+#16	AnnotatorNotes T16	END
+T17	Protein 28546 28559	International
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 28607 28611	406g
+#18	AnnotatorNotes T18	END
+T19	Protein 32780 32793	Supplementary
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 42560 42561	.
+#20	AnnotatorNotes T20	END
+T21	Location 2688 2693	India
+#21	AnnotatorNotes T21	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T22	Location 2678 2683	China
+#22	AnnotatorNotes T22	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T23	Location 3377 3390	Latin America
+#23	AnnotatorNotes T23	<latlng>-8.05923, -72.59766</latlng><geoID>NA</geoID>
+T24	Location 3399 3408	Caribbean
+#24	AnnotatorNotes T24	<latlng>20.38583, -72.33398</latlng><geoID>7729891</geoID><pop>39169962</pop>
+T25	Location 3410 3416	Africa
+#25	AnnotatorNotes T25	<latlng>7.1881, 21.09375</latlng><geoID>6255146</geoID> <pop>1031833000</pop>
+T26	Location 3418 3423	India
+#26	AnnotatorNotes T26	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T27	Location 3433 3438	China
+#27	AnnotatorNotes T27	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T28	Location 3425 3431	Russia
+#28	AnnotatorNotes T28	<latlng>60, 100</latlng><geoID>2017370</geoID><pop>140702000</pop>
+T29	Location 3443 3458	South East Asia
+#29	AnnotatorNotes T29	<latlng>12.38293, 103.00781</latlng><geoID>6942346</geoID><pop>608290000</pop>
+T30	Location 4422 4428	London
+#30	AnnotatorNotes T30	<latlng>51.49227,-0.30864</latlng><pop>8787892</pop><geoID>11591955</geoID>
+T31	Location 4723 4729	Brazil
+#31	AnnotatorNotes T31	<latlng>-10, -55</latlng><geoID>3469034 </geoID><pop>201103330</pop>
+T32	Location 4714 4718	Cuba
+#32	AnnotatorNotes T32	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T33	Location 4773 4777	Cuba
+#33	AnnotatorNotes T33	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T34	Location 4765 4771	Mexico
+#34	AnnotatorNotes T34	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T35	Location 4940 4946	Mexico
+#35	AnnotatorNotes T35	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T36	Location 5505 5511	Mexico
+#36	AnnotatorNotes T36	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T37	Location 4759 4763	Peru
+#37	AnnotatorNotes T37	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T38	Location 4931 4935	Peru
+#38	AnnotatorNotes T38	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T39	Location 5481 5485	Peru
+#39	AnnotatorNotes T39	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T40	Location 5487 5493	Canete
+#40	AnnotatorNotes T40	<latlng>-12.75, -76.33333</latlng><geoID>3945799</geoID>
+T41	Location 4779 4788;4789 4797	Dominican Republic
+#41	AnnotatorNotes T41	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T42	Location 4855 4873	Dominican Republic
+#42	AnnotatorNotes T42	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T43	Location 4878 4883	China
+#43	AnnotatorNotes T43	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T44	Location 4813 4818	China
+#44	AnnotatorNotes T44	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T45	Location 4848 4853	India
+#45	AnnotatorNotes T45	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T46	Location 4799 4808	Venezuela
+#46	AnnotatorNotes T46	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T47	Location 4969 4978	Venezuela
+#47	AnnotatorNotes T47	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T48	Location 5532 5537	China
+#48	AnnotatorNotes T48	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T49	Location 5029 5040	Puerto Rico
+#49	AnnotatorNotes T49	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T50	Location 5090 5096;5097 5101	Puerto Rico
+#50	AnnotatorNotes T50	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T51	Location 5724 5735	Puerto Rico
+#51	AnnotatorNotes T51	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T52	Location 5513 5520	Morelos
+#52	AnnotatorNotes T52	<latlng>18.75, -99.06667</latlng><geoID>3522961</geoID><pop>1680239</pop>
+T53	Location 5547 5554	Beijing
+#53	AnnotatorNotes T53	<latlng>39.91691, 116.39706</latlng><pop>14933274</pop><geoID>2038349</geoID>
+T54	Location 5539 5545	Daxing
+#54	AnnotatorNotes T54	<latlng>39.64888, 116.4096</latlng><geoID>1813286</geoID><pop>671444</pop>
+T55	Location 7830 7834	Cuba
+#55	AnnotatorNotes T55	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T56	Location 7875 7881	Havana
+#56	AnnotatorNotes T56	<latlng>23.08333, -82.3</latlng><geoID>3564073</geoID><pop>722045</pop>
+T57	Location 7886 7894	Matanzas
+#57	AnnotatorNotes T57	<latlng>22.66667, -81.16667</latlng><geoID>3547394</geoID><pop>690113</pop>
+T58	Location 7897 7915	Dominican Republic
+#58	AnnotatorNotes T58	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T59	Location 7956 7965	Venezuela
+#59	AnnotatorNotes T59	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T60	Location 7933 7944	Puerto Rico
+#60	AnnotatorNotes T60	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T61	Location 7977 7981	Peru
+#61	AnnotatorNotes T61	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T62	Location 7990 7996	Mexico
+#62	AnnotatorNotes T62	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T63	Location 8050 8055	India
+#63	AnnotatorNotes T63	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T64	Location 8012 8017	China
+#64	AnnotatorNotes T64	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T65	Location 8028 8035	Beijing
+#65	AnnotatorNotes T65	<latlng>39.91691, 116.39706</latlng><pop>14933274</pop><geoID>2038349</geoID>
+T66	Location 8745 8763	Dominican Republic
+#66	AnnotatorNotes T66	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T67	Location 8768 8772	Cuba
+#67	AnnotatorNotes T67	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T68	Location 8738 8743	China
+#68	AnnotatorNotes T68	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T69	Location 8928 8933	India
+#69	AnnotatorNotes T69	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T70	Location 8057 8064	Chennai
+#70	AnnotatorNotes T70	<latlng>13.08891, 80.26483</latlng><geoID>7646145</geoID><pop>4646732</pop>
+T71	Location 8019 8026	Xicheng
+#71	AnnotatorNotes T71	<latlng>39.93317, 116.37337</latlng><geoID>1789635</geoID><pop>1233000</pop>
+T72	Location 7998 8009	Mexico City
+#72	AnnotatorNotes T72	<latlng>19.28333, -99.13333</latlng><geoID>3527646</geoID><pop>8851080</pop>
+T73	Location 7983 7987	Lima
+#73	AnnotatorNotes T73	<latlng>-12, -76.83333</latlng><geoID>3936451</geoID><pop>7605742</pop>
+T74	Location 7967 7974	Caracas
+#74	AnnotatorNotes T74	<latlng>10.48801, -66.87919</latlng><geoID>3646738</geoID><pop>3000000</pop>
+T75	Location 7946 7953	Bayamon
+#75	AnnotatorNotes T75	<latlng>18.35217, -66.17044</latlng><geoID>4562837</geoID><pop>208116</pop>
+T76	Location 7917 7930	Santo Domingo
+#76	AnnotatorNotes T76	<latlng>18.56678, -69.84874</latlng><geoID>6201373</geoID><pop>2995211</pop>
+T77	Location 9496 9500	Cuba
+#77	AnnotatorNotes T77	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T78	Location 9689 9693	Cuba
+#78	AnnotatorNotes T78	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T79	Location 9502 9508	Havana
+#79	AnnotatorNotes T79	<latlng>23.08333, -82.3</latlng><geoID>3564073</geoID><pop>722045</pop>
+T80	Location 9510 9518	Matanzas
+#80	AnnotatorNotes T80	<latlng>22.66667, -81.16667</latlng><geoID>3547394</geoID><pop>690113</pop>
+T81	Location 9521 9539	Dominican Republic
+#81	AnnotatorNotes T81	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T82	Location 9694 9710	Domican Republic
+#82	AnnotatorNotes T82	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T83	Location 9541 9554	Santo Domingo
+#83	AnnotatorNotes T83	<latlng>18.56678, -69.84874</latlng><geoID>6201373</geoID><pop>2995211</pop>
+T84	Location 9557 9562	India
+#84	AnnotatorNotes T84	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T85	Location 9793 9798	India
+#85	AnnotatorNotes T85	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T86	Location 9616 9620	Peru
+#86	AnnotatorNotes T86	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T87	Location 9711 9715	Peru
+#87	AnnotatorNotes T87	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T88	Location 9722 9726	Peru
+#88	AnnotatorNotes T88	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T89	Location 9631 9637	Canete
+#89	AnnotatorNotes T89	<latlng>-12.75, -76.33333</latlng><geoID>3945799</geoID>
+T90	Location 9622 9626	Lima
+#90	AnnotatorNotes T90	<latlng>-12, -76.83333</latlng><geoID>3936451</geoID><pop>7605742</pop>
+T91	Location 9640 9651	Puerto Rico
+#91	AnnotatorNotes T91	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T92	Location 9799 9810	Puerto Rico
+#92	AnnotatorNotes T92	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T93	Location 9468 9473	China
+#93	AnnotatorNotes T93	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T94	Location 9769 9774	China
+#94	AnnotatorNotes T94	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T95	Location 9781 9786	China
+#95	AnnotatorNotes T95	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T96	Location 9564 9571	Chennai
+#96	AnnotatorNotes T96	<latlng>13.08891, 80.26483</latlng><geoID>7646145</geoID><pop>4646732</pop>
+T97	Location 9582 9593	Mexico City
+#97	AnnotatorNotes T97	<latlng>19.28333, -99.13333</latlng><geoID>3527646</geoID><pop>8851080</pop>
+T98	Location 9598 9605	Morelos
+#98	AnnotatorNotes T98	<latlng>18.75, -99.06667</latlng><geoID>3522961</geoID><pop>1680239</pop>
+T99	Location 9574 9580	Mexico
+#99	AnnotatorNotes T99	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T100	Location 9743 9749	Mexico
+#100	AnnotatorNotes T100	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T101	Location 9756 9762	Mexico
+#101	AnnotatorNotes T101	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T102	Location 9475 9482	Beijing
+#102	AnnotatorNotes T102	<latlng>39.91691, 116.39706</latlng><pop>14933274</pop><geoID>2038349</geoID>
+T103	Location 9487 9493	Daxing
+#103	AnnotatorNotes T103	<latlng>39.64888, 116.4096</latlng><geoID>1813286</geoID><pop>671444</pop>
+T104	Location 9678 9685	Caracas
+#104	AnnotatorNotes T104	<latlng>10.48801, -66.87919</latlng><geoID>3646738</geoID><pop>3000000</pop>
+T105	Location 9667 9676	Venezuela
+#105	AnnotatorNotes T105	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T106	Location 9733 9742	Venezuela
+#106	AnnotatorNotes T106	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T107	Location 9653 9661	San Juan
+#107	AnnotatorNotes T107	<latlng>18.45095, -66.09169</latlng><geoID>4568138</geoID><pop>431285</pop>
+T108	Location 9606 9613	Hidalgo
+#108	AnnotatorNotes T108	<latlng>20.5, -99</latlng><geoID>3527115</geoID>
+T109	Location 10461 10465	Cuba
+#109	AnnotatorNotes T109	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T110	Location 10467 10485	Dominican Republic
+#110	AnnotatorNotes T110	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T111	Location 10430 10435	China
+#111	AnnotatorNotes T111	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T112	Location 10437 10442	India
+#112	AnnotatorNotes T112	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T113	Location 10504 10513	Venezuela
+#113	AnnotatorNotes T113	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T114	Location 10566 10571	India
+#114	AnnotatorNotes T114	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T115	Location 10495 10499	Peru
+#115	AnnotatorNotes T115	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T116	Location 11087 11091	Peru
+#116	AnnotatorNotes T116	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T117	Location 10487 10493	Mexico
+#117	AnnotatorNotes T117	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T118	Location 11093 11099	Mexico
+#118	AnnotatorNotes T118	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T119	Location 11104 11109	China
+#119	AnnotatorNotes T119	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T120	Location 11498 11503	China
+#120	AnnotatorNotes T120	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T121	Location 10550 10561	Puerto Rico
+#121	AnnotatorNotes T121	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T122	Location 11457 11468	Puerto Rico
+#122	AnnotatorNotes T122	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T123	Location 11437 11455	Dominican Republic
+#123	AnnotatorNotes T123	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T124	Location 11431 11435	Cuba
+#124	AnnotatorNotes T124	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T125	Location 11478 11482	Peru
+#125	AnnotatorNotes T125	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T126	Location 11484 11493	Venezuela
+#126	AnnotatorNotes T126	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T127	Location 11470 11476	Mexico
+#127	AnnotatorNotes T127	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T128	Location 12775 12784;12785 12793	Dominican Republic
+#128	AnnotatorNotes T128	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T129	Location 12820 12824	Cuba
+#129	AnnotatorNotes T129	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T130	Location 13151 13157;13158 13162	Puerto Rico
+#130	AnnotatorNotes T130	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T131	Location 13484 13488	Peru
+#131	AnnotatorNotes T131	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T132	Location 13812 13816	Peru
+#132	AnnotatorNotes T132	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T133	Location 14245 14254	Venezuela
+#133	AnnotatorNotes T133	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T134	Location 14583 14589	Mexico
+#134	AnnotatorNotes T134	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T135	Location 14922 14928	Mexico
+#135	AnnotatorNotes T135	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T136	Location 15245 15250	China
+#136	AnnotatorNotes T136	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T137	Location 15572 15577	China
+#137	AnnotatorNotes T137	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T138	Location 15913 15918	India
+#138	AnnotatorNotes T138	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T139	Location 24038 24044	Mexico
+#139	AnnotatorNotes T139	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T140	Location 24847 24853	Mexico
+#140	AnnotatorNotes T140	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T141	Location 24817 24823	Mexico
+#141	AnnotatorNotes T141	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T142	Location 24761 24770	Venezuela
+#142	AnnotatorNotes T142	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T143	Location 23982 23991	Venezuela
+#143	AnnotatorNotes T143	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T144	Location 24012 24016	Peru
+#144	AnnotatorNotes T144	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T145	Location 24792 24796	Peru
+#145	AnnotatorNotes T145	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T146	Location 23956 23960	Cuba
+#146	AnnotatorNotes T146	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T147	Location 24643 24647	Cuba
+#147	AnnotatorNotes T147	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T148	Location 23962 23980	Dominican Republic
+#148	AnnotatorNotes T148	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T149	Location 24700 24718	Dominican Republic
+#149	AnnotatorNotes T149	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T150	Location 23993 24004	Puerto Rico
+#150	AnnotatorNotes T150	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T151	Location 24734 24745	Puerto Rico
+#151	AnnotatorNotes T151	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T152	Location 25118 25122	Peru
+#152	AnnotatorNotes T152	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T153	Location 26369 26373	Cuba
+#153	AnnotatorNotes T153	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T154	Location 28273 28277	Cuba
+#154	AnnotatorNotes T154	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T155	Location 28032 28045	Latin America
+#155	AnnotatorNotes T155	<latlng>-8.05923, -72.59766</latlng><geoID>NA</geoID>
+T156	Location 28050 28055	China
+#156	AnnotatorNotes T156	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T157	Location 28306 28311	China
+#157	AnnotatorNotes T157	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T158	Location 28101 28106	India
+#158	AnnotatorNotes T158	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T159	Location 28281 28301	Dominican Republic40
+#159	AnnotatorNotes T159	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T160	Location 28794 28803	Dominican
+#160	AnnotatorNotes T160	<latlng>19, -70.66667</latlng><geoID>3508796</geoID><pop>9823821</pop>
+T161	Location 28664 28668	Cuba
+#161	AnnotatorNotes T161	<latlng>22, -79.5</latlng><geoID>3562993</geoID>
+T162	Location 28804 28810	Puerto
+#162	AnnotatorNotes T162	<latlng>18.2494, -66.50101</latlng><geoID>4566967</geoID>
+T163	Location 28826 28830	Peru
+#163	AnnotatorNotes T163	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T164	Location 28838 28842	Peru
+#164	AnnotatorNotes T164	<latlng>-10, -75.25</latlng><geoID>3932488</geoID><pop>29907003</pop>
+T165	Location 28850 28859	Venezuela
+#165	AnnotatorNotes T165	<latlng>8, -66</latlng><geoID>3625428 </geoID><pop>27223228</pop>
+T166	Location 28860 28866	Mexico
+#166	AnnotatorNotes T166	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T167	Location 29011 29017	Mexico
+#167	AnnotatorNotes T167	<latlng>23, -102</latlng><geoID>3996063</geoID><pop>112468855</pop>
+T168	Location 29106 29111	India
+#168	AnnotatorNotes T168	<latlng>22, 79</latlng><geoID>1269750</geoID><pop>1173108018</pop>
+T169	Location 29043 29048	China
+#169	AnnotatorNotes T169	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>
+T170	Location 29056 29061	China
+#170	AnnotatorNotes T170	<latlng>35, 105</latlng><geoID>1814991</geoID><pop>1330044000</pop>

@@ -1,0 +1,958 @@
+﻿JOURNAL OF VIROLOGY, May 2009, p. 4205­4215 Vol. 83, No. 9
+0022-538X/09/$08.000 doi:10.1128/JVI.02403-08
+Copyright © 2009, American Society for Microbiology. All Rights Reserved.
+Isolation and Genetic Characterization of H5N2 Influenza Viruses
+from Pigs in Korea
+Jun Han Lee,1
+Philippe Noriel Q. Pascua,1
+Min-Suk Song,1
+Yun Hee Baek,1
+Chul-Joong Kim,2
+Hwan-Woon Choi,2,3
+Moon-Hee Sung,4
+Richard J. Webby,5
+Robert G. Webster,5
+Haryoung Poo,6
+and Young Ki Choi1
+*
+College of Medicine and Medical Research Institute, Chungbuk National University, 12 Gaeshin-Dong Heungduk-Ku, Cheongju 361-763,
+Republic of Korea1
+; College of Veterinary Medicine, Chungnam National University, 220 Gung-Dong, Yuseoung-Gu, DaeJeon 305-764,
+Republic of Korea2
+; Choongang Vaccine Laboratory, Daejeon 305-348, Republic of Korea3
+; Bioleaders Corporation,
+Daejeon, Republic of Korea4
+; Division of Virology, Department of Infectious Diseases, St. Jude Children's Research Hospital,
+262 Danny Thomas Place, Memphis, Tennessee 381055
+; and Korean Research Institute of Bioscience and
+Biotechnology, Daejeon, Republic of Korea6
+Received 20 November 2008/Accepted 3 February 2009
+Due to dual susceptibility to both human and avian influenza A viruses, pigs are believed to be effective
+intermediate hosts for the spread and production of new viruses with pandemic potential. In early 2008, two swine
+H5N2 viruses were isolated from our routine swine surveillance in Korea. The sequencing and phylogenetic analysis
+of surface proteins revealed that the Sw/Korea/C12/08 and Sw/Korea/C13/08 viruses were derived from avian
+influenza viruses of the Eurasian lineage. However, although the Sw/Korea/C12/08 isolate is an entirely avian-like
+virus, the Sw/Korea/C13/08 isolate is an avian-swine-like reassortant with the PB2, PA, NP, and M genes coming
+from a 2006 Korean swine H3N1-like virus. The molecular characterization of the two viruses indicated an absence
+of significant mutations that could be associated with virulence or binding affinity. However, animal experiments
+showed that the reassortant Sw/Korea/C13/08 virus was more adapted and was more readily transmitted than the
+purely avian-like virus in a swine experimental model but not in ferrets. Furthermore, seroprevalence in swine sera
+from 2006 to 2008 suggested that avian H5 viruses have been infecting swine since 2006. Although there are no
+known potential clinical implications of the avian-swine reassortant virus for pathogenicity in pigs or other species,
+including humans, at present, the efficient transmissibility of the swine-adapted H5N2 virus could facilitate virus
+spread and could be a potential model for pandemic, highly pathogenic avian influenza (e.g., H5N1 and H7N7) virus
+outbreaks or a pandemic strain itself.
+The infection of swine with influenza A viruses is of signif-
+icant importance to the swine industry and to the epidemiology
+of human influenza. The severity of the clinical symptoms
+appears to be dependent upon the infecting virus strain, the
+age and immune status of the animal, and the presence of
+concomitant pathogens or environmental stress factors. Swine
+influenza viruses (SIVs) also cause respiratory diseases in hu-
+mans, and several instances of the zoonotic transmission of
+SIV from pigs have been reported (13, 22, 36, 43). The ability
+of the influenza virus to cross between animal species is con-
+trolled by the viral genes, and the prevalence of transmission
+depends on the species involved.
+Domesticated pig species are known to allow the productive
+replication of both avian and human influenza viruses. This
+susceptibility is due to the presence of both -2,3­ and 2,6­
+galactose-sialic acid (sialyloligosaccharide) linkages of cellular
+receptors lining the pig trachea (22). Successful transmission
+between animal species can follow genetic reassortment in
+which a progeny virus containing a specific gene constellation
+has the ability to replicate in the new host. Under experimental
+conditions, pigs are susceptible to infection with a range of
+avian and human influenza viruses (29), and though not often
+documented, the interspecies transmission of avian viruses to
+pigs in nature has been reported. Pigs in Europe and China
+have been infected with avian H1N1 viruses (14, 37), and a
+purely avian H4N6 influenza virus caused a disease outbreak in
+pigs in Canada (27). In China, Peiris et al. reported on swine
+infections with avian H9N2 influenza virus, and since then,
+frequent exposure to this subtype has been documented (34,
+41). Lately, reassortant viruses between avian H5N1 and H9N2
+subtypes caused pig diseases and death in some parts of China
+(6, 7, 57), and in the United States, reassortant H2N3 viruses
+(between American avian-like and contemporary swine triple
+reassortant-like) recently have been identified (32).
+In Korea, four subtypes (H1N1, H1N2, H3N1, and H3N2) of
+SIVs have been reported in the pig population (23­25, 49).
+Phylogenetic analyses have indicated that the Korean isolates
+were closely related to the triple-reassortant SIVs recently
+isolated from pigs in the United States containing internal
+segments derived from human (PB1), swine (NP, M, and NS),
+and avian (PB2 and PA) sources (23, 24, 47, 50). More re-
+cently, Pascua et al. reported that under vaccine pressure, a
+new serogroup of H3N2 SIVs had genetically evolved among
+Korean swine (39).
+We now describe the isolation and characterization of two
+novel H5N2 swine influenza viruses, A/Swine/Korea/C12/08
+* Corresponding author. Mailing address: College of Medicine
+and Medical Research Institute, Chungbuk National University, 12
+Gaeshin-Dong, Heungduk-Ku, Cheongju 361-763, Republic of Ko-
+rea. Phone: 82-43-261-3384. Fax: 82-43-272-1603. E-mail: choiki55
+@chungbuk.ac.kr.
+
+Published ahead of print on 18 February 2009.
+4205
+(Sw/Kor/C12/08) and A/Swine/Korea/C13/08 (Sw/Kor/C13/08),
+which were isolated from pigs in South Korea. Genetic char-
+acterization showed that these viruses have high homology to
+avian H5N2 influenza viruses recently circulating among wild
+birds in Korea (our unpublished data) with the exception of the
+NP, M, PA, and PB2 genes of the Sw/Kor/C13/08 isolate, which
+have high homologies to those of the H3N1-like virus that
+circulated in pigs in Korea in 2006. To investigate the patho-
+genic potential of the novel H5N2 porcine viruses in mamma-
+lian hosts, we conducted animal challenge experiments in pig
+and ferret models. Furthermore, seroprevalence in swine sera
+from 2006 to 2008 suggested that the avian H5N2-like H5
+viruses have been infecting swine since 2006, even though there
+was no large-scale outbreak in swine herds in South Korea.
+MATERIALS AND METHODS
+Viruses. The viruses used in this study were obtained from 7- to 8-week-old
+pigs showing typical clinical symptoms of influenza-like illness from the Chung-
+nam province of South Korea. The two swine influenza viruses, A/Swine/Korea/
+C12/08 (Sw/Kor/C12/08) and A/Swine/Korea/C13/08 (Sw/Kor/C13/08), were iso-
+lated from nasal swabs or lung specimens by the inoculation of supernatants and
+tissue homogenates into monolayers of Madin-Darby canine kidney (MDCK)
+cells. The subtypes of Sw/Kor/C12/08 and Sw/Kor/C13/08 were determined by
+two multiplex reverse transcription-PCR (RT-PCR) assays and confirmed by
+sequencing as previously described (3).
+Sequencing and phylogenetic analysis. Viral RNA was extracted from cell
+culture isolates using a QIAamp Viral RNA Mini kit (Qiagen, Valencia, CA).
+RT-PCR was performed under standard conditions using influenza-specific
+primers (4, 19). The nucleotide sequencing of the amplified products was done
+using a DNA sequencer (Model 377; Applied Biosystems, Perkin-Elmer, Foster
+City, CA) and a Taq Dye Deoxy Terminator cycle sequencing kit (Applied
+Biosystems, Foster City, CA). The sequences were resolved using the ABI
+PRISM collection program (Perkin-Elmer, Foster City, CA). The DNA se-
+quences were compiled and edited using the Lasergene sequence analysis soft-
+ware package (DNASTAR, Madison, WI). Multiple sequence alignments were
+made using Clustal_X (1, 53). The rooted phylograms were prepared using the
+neighbor-joining (NJ) algorithm and then plotted using the program NJ plot
+(42). The trees presented in Fig. 2a to h are based on the full-length nucleotide
+sequences of each gene segment.
+Pig serologic tests. A hemagglutination inhibition (HI) assay was performed to
+determine the seroprevalence of the novel H5N2 viruses from 2006 to May 2008.
+A total of 4,108 sera collected from major swine production provinces were
+tested for the presence of H5 antibody. All sera were heat inactivated at 56°C for
+30 min and pretreated with receptor-destroying enzyme (RDE) from Vibrio
+cholerae (Denka Seiken, Tokyo, Japan) to remove nonspecific serum inhibitors.
+The sera then were tested for H5 antibody by the HI technique with 0.5%
+chicken red blood cells (38). A neutralization test was done on selected HI-
+positive sera to confirm results, as described previously (18). Neutralizing anti-
+body titers were expressed as the reciprocal of the highest dilution of the sample
+that completely inhibited hemagglutination. Hemagglutination assays were per-
+formed according to WHO/World Organization for Animal Health recommen-
+dations.
+Western blotting. Western immunoblotting was done using H5 viral antigen
+derived from the formalin-inactivated H5N2 (Sw/Korea/C13/07) isolate that had
+been purified by ultracentrifugation with a CaCl2 cushion at 112,600  g for 3 h
+at 4°C (5). Thirty micrograms of H5 protein per lane were separated on a 10%
+sodium dodecyl sulfate-polyacrylamide gel and immunoblotted with pig sera at a
+dilution of 1:200. All pig sera that gave positive reactions in the H5N2 HI and
+virus-neutralizing antibody tests were tested together with a random selection of
+at least five sera giving negative reactions (Fig. 1).
+Replication and transmission of swine isolate. The experimental infection of
+pigs and ferrets with the H5N2 viruses was done in biosafety level 2 (BSL 2) and
+3 (BSL 3) containment facilities, respectively. Yorkshire white weanling pigs
+(approximately 5 to 6 weeks old) that were found to be free of detectable
+influenza virus by serologic testing were inoculated intranasally with 3.3  106
+50% egg infective dose (EID50) of virus in a volume of 1.0 ml (divided between
+two plastic syringes for the separate inoculation of each nostril). The swine H5N2
+viruses were inoculated into two groups, and three uninoculated littermates were
+housed in an isolator with two inoculated pigs to test for the pig-to-pig trans-
+mission of virus. The pigs' temperatures and food consumption were recorded
+daily beginning 2 days before inoculation and ending 14 days after inoculation
+(the end of study). Each nostril was swabbed 2, 5, 7, and 9 days after inoculation,
+and virus subsequently was titrated in embryonated chicken eggs. The same
+procedure was done in 17-week-old male ferrets to study the transmissibility of
+the viruses in this host. Two experimental groups (each comprised two inoculated
+and two naïve-contact littermate ferrets) were inoculated intranasally with 3.3 
+106
+EID50 of virus in 0.5 ml sterile phosphate-buffered saline under isoflurane
+anesthesia. To monitor virus shedding, nasal washes were collected from all
+ferrets every other day for 14 days and were titrated in embryonated chicken
+eggs.
+Histopathology. Trachea, serum, lung, liver, intestine, spleen, and kidney from
+pigs and ferrets were collected on day 5 after inoculation. To prevent cross-
+contamination, different sterile instruments were used for collecting each tissue
+(5). Collected tissues were fixed in 10% neutral-buffered formalin. Immunohis-
+tochemistry was performed to examine the distribution of SIV antigens in the
+lung and other organs in infected animals using a goat polyclonal antibody
+against type A influenza virus nucleoprotein (Abcam, Cambridge, MA).
+Nucleotide sequence accession numbers. The GenBank accession numbers
+assigned to the sequences determined in this study are FJ461592 to FJ461607.
+RESULTS
+Analysis of clinical samples. Nasal swabs and lung samples
+were submitted to the Chungbuk National University between
+2004 and 2008 for the diagnosis of SIV infections. Average
+swine farms contain approximately 200 sows and 2,100 fatten-
+ing pigs, according to the Korean Swine Association, and most
+have adopted farrow-to-finish operations (26). The Sw/Kor/
+C12/08 swine influenza virus was isolated from nasal swabs
+obtained from a 6-week-old Yorkshire white weanling pig from
+the Chungnam province through routine virus surveillance in
+FIG. 1. Immunoblotting using H5 antigen derived from the Sw/Korea/C13/07 (H5N2) virus as the primary antibody and purified by ultracen-
+trifugation with a CaCl2 cushion at 112,600  g for 3 h at 4°C (Beckman). Thirty micrograms of H5 protein per lane was separated on a 10% sodium
+dodecyl sulfate-polyacrylamide gel and immunoblotted with pig sera at a dilution of 1:200. All of the sera giving a positive result in the HI and
+virus-neutralizing antibody tests were subjected to immunoblotting together with a random selection of sera giving negative HI results. A
+representative result indicating the different HI titers obtained for each respective serum is shown. M, 75-kDa protein marker (Bio-Rad); C,
+positive control; C, negative control.
+4206 LEE ET AL. J. VIROL.
+January 2008. In the same province in February 2008, the Sw/
+Kor/C13/08 swine influenza virus was isolated from lung tissues
+obtained from an 8-week-old Yorkshire white weanling pig with
+typical influenza-like symptoms, such as high fever, nasal dis-
+charge, coughing, and decreased food consumption. The subtypes
+of Sw/Kor/C12/08 and Sw/Kor/C13/08 were found to belong to
+the H5N2 family by two multiplex RT-PCR assays and sequenc-
+ing as previously described (3). No other subtypes of swine influ-
+enza viruses were detected from the specimens submitted on the
+same days.
+Sequence and phylogenetic analysis. Except for the PB2,
+PA, NP, and M genes of Sw/Kor/C13/08, sequence analysis
+revealed that each of the RNA segments of the two porcine
+H5N2 viruses have high nucleotide homology to avian viruses
+of the Eurasian lineage (Table 1). The nucleotide analysis of
+the PCR products indicated that Sw/Kor/C12/08 and Sw/Kor/
+C13/08 shared 99.2% nucleotide similarities in the HA, NA,
+PB1, and NS genes. This high genomic identity in surface genes
+and in some internal genes suggests that the same avian virus
+is the progenitor of the two isolates. Interestingly though, gene
+segments 1 (PB2), 3 (PA), 5 (NP), and 7 (M) of the Sw/Kor/
+C13/08 isolate have high homology with Sw/Kor/CN22/06-like
+(H3N1) swine influenza viruses, indicating that reassortment
+has occurred.
+To understand the evolutionary relationship and origin of
+the Sw/Kor/C12/08 and the Sw/Kor/C13/08 viruses in detail, the
+phylogenetic alignment of the full-length gene sequences was
+performed (Fig. 2a to h). Phylogenetic analysis showed that the
+HA genes of both swine H5N2 isolates clustered together and
+had high nucleotide identities with low-pathogenicity avian
+influenza (LPAI) H5 viruses from China, specifically Ga/San
+Jiang/160/06 (99%), rather than to recent highly pathogenic
+avian influenza H5N1 viruses present among domestic poultry
+(represented by Ck/Kor/IS/06; 88.6%) and migratory birds
+(represented by Em/Kor/W150/06; 89.3%) from Korea. The
+phylogeny of the NA genes paralleled what was observed for
+their HA gene comparisons, in which the two swine isolates
+still belonged to the same avian Ga/San Jiang/160/06-like lin-
+eage (99% sequence homologies) (Fig. 2a and b). Appar-
+ently, Korean avian H5N2 influenza viruses isolated from wild
+birds in 2006 were also descendants of the Ga/San Jiang/160/
+06-like lineage (our unpublished data), indicating a common
+avian H5N2 virus precursor.
+Phylogenetic analysis of the internal genes clearly showed
+the differences between the two porcine influenza virus iso-
+lates, supporting the sequence analysis. The phylogenetic anal-
+ysis revealed that each of the internal genes of Sw/Kor/C12/08
+had a close relationship with different subtypes of LPAI iso-
+lates that are entirely of Eurasian phylogenetic lineage, indi-
+cating that these segments were derived from multiple virus
+sources. For the internal genes of the Sw/Kor/C13/08 virus,
+only the PB1 and NS genes were derived from avian origin,
+clustering together with the Sw/Kor/C12/08 virus (Fig. 2g and
+h). Phylograms of segments 1, 3, 5, and 7 of the virus diverged
+from avian to swine lineages and strongly indicated that they
+were derived from Sw/Kor/CN22/06-like (H3N1) swine influ-
+enza viruses, which were reportedly circulating in Korean pigs
+in 2006 (Fig. 2a to f) (47). These results show that the Sw/Kor/
+C12/08 isolate is a wholly avian virus, whereas Sw/Kor/C13/08
+is an avian-swine reassortant from a possible common pre-
+cursor. The analysis of Sw/Kor/C13/08 suggested that some
+of the avian H5N2 viruses that infected Korean pigs had
+undergone genetic reassortment with a swine influenza vi-
+rus, probably due to the coinfection of the two influenza
+virus strains in the same pig.
+Antigenic analysis and Western blotting. To investigate the
+prevalence of swine infection with the H5N2 viruses, swine
+sera collected from 2006 to May 2008 from at least four swine
+production provinces in Korea were tested. Of the 4,108 pig
+serum samples surveyed, 35 (0.85%) were positive for the
+swine H5N2 viruses by the HI assay (Table 2). As early as
+January 2006, positive serum samples already were obtained,
+with titers ranging from 40 to 160 HI units. The prevalence rate
+was only about 1.04% in 2006 but was down to around 0.74%
+in 2007 and 0.77% in 2008. Collectively though, the serologic
+data indicated that viral exposure was substantially higher dur-
+ing the winter months.
+To further confirm the specificity of the HI test results, virus
+neutralization tests were conducted. To test for the presence of
+neutralizing antibodies against H5 viruses, selected HI-positive
+pig sera were diluted twofold and mixed with 100 50% tissue
+culture infective doses of Sw/Kor/C13/08 or Sw/Kor/C12/08. In
+addition, an H5N1 virus (EM/Kor/W149/06) also was used to
+test the specificity of the antibodies present. Results showed
+that neutralizing antibodies against the swine H5N2 viruses
+correlated with the titers obtained from the HI assays (Table
+2). Similar neutralization titers were obtained using a wild bird
+H5N2 virus. In contrast, lower neutralizing antibody titers (a
+difference of about two- to fourfold) were observed in the
+TABLE 1. Sequence homology of each gene from the two porcine H5N2 viruses with reference virus sequences available in GenBanka
+Gene
+Sw/Kor/C12/08 Sw/Kor/C13/08
+% Identity
+Virus with the highest degree of
+sequence identity (accession no.)
+Subtype
+Phylogenetic
+lineage
+% Identity
+Virus with the highest degree of
+sequence identity (accession no.)
+Subtype
+Phylogenetic
+lineage
+HA 99.7 Ga/SanJiang/160/06 (EF634332) H5N2 Avian 99.8 Ga/SanJiang/160/06 (EF634334) H5N2 Avian
+NA 99.8 Ga/SanJiang/160/06 (EF634332) H5N2 Avian 99.5 Ga/SanJiang/160/06 (EF634334) H5N2 Avian
+PB2 96.7 Dk/Denmark/65047/04 (DQ251450) H5N2 Avian 99.5 Sw/Kor/CN22/06 (DQ923521) H3N1 Swine
+PB1 97.6 Dk/Denmark/65047/04 (DQ251450) H5N2 Avian 97.8 Dk/Denmark/65047/04 (DQ251450) H5N2 Avian
+PA 98.4 Ck/Taiwan/165/99 (DQ376806) H6N1 Avian 99.7 Sw/Kor/CN22/06 (DQ923517) H3N1 Swine
+NP 98.8 Dk/Hokkaido/Vac-3/07 (AB355930) H5N1 Avian 99.8 Sw/Kor/CN22/06 (DQ923513) H3N1 Swine
+M 98.5 Dk/Jiang Xi/6568/04 (EF597301) H4N6 Avian 99.7 Sw/Kor/CN22/06 (DQ923511) H3N1 Swine
+NS 99.8 Dk/Hokkaido/120/01 (AB286880) H6N2 Avian 99.4 Dk/Hokkaido/120/01 (AB286880) H6N2 Avian
+a
+The numbers in parentheses are GenBank accession numbers for the reference virus sequences. Ck, chicken; Dk, duck; Ga, garganey; and Sw, swine.
+VOL. 83, 2009 NOVEL LPAI H5N2 VIRUS INFECTION IN SWINE 4207
+4208
+VOL. 83, 2009 NOVEL LPAI H5N2 VIRUS INFECTION IN SWINE 4209
+swine sera when an avian H5N1 virus was used (data not
+shown).
+H5 antigen against the Sw/Kor/C13/08 virus, which was pu-
+rified by ultracentrifugation at 112,600  g for 3 h at 4°C, was
+used in the Western blot analysis. The immunoblotting results
+correlated with the results of the HI and virus-neutralizing
+tests (Fig. 1 and Table 2). These findings showed that anti-H5
+antibodies were present in several pigs and that the H5N2-like
+viruses could naturally infect pigs, although the incidence of
+such infection is low, as shown by the seroprevalence survey
+(Table 2) and the absence of a reported large-scale outbreak in
+swine herds due to this subtype.
+Animal experiments. Two pigs were infected with H5N2/08
+viruses, and three contact pigs were added 1 day later in the
+same isolators and housed together until the end of the exper-
+iments. Mild cough, nasal discharge, and elevated body tem-
+perature were observed on days 2 through 7 in all inoculated
+pigs, but no acute respiratory signs were observed, such as
+lethargy and dyspnea (data not shown). All of the viruses were
+recovered from nasal swabs obtained from the inoculated pigs
+after intranasal infection. On day 2 after inoculation, the mean
+virus titer of nasal swabs was 2.3 log10 EID50/0.1 ml. Virus
+was shed for at least 5 days (Table 3). Virus titers in nasal
+swabs peaked on day 5 at 2.5 to 3.33 log10 EID50/0.1 ml. The
+infection of the wholly avian-derived virus (Sw/Kor/C12/08)
+persisted for as long as 5 days but was not transmitted to any
+of the three contact pigs. However, two of the three littermates
+of the avian-swine reassortant (Sw/Kor/C13/08) were positive
+for virus transmission on day 5, with mean titers of 2.7 and 2.3
+log10 EID50/0.1 ml (Table 3). The pigs inoculated with Sw/Kor/
+C13/08 showed higher nasal swab titers, persisting for as long
+as 7 days, than those inoculated with the wholly avian-derived
+isolate (Table 3).
+With the variable replication kinetics and transmissibility in
+pigs of the two H5N2 porcine isolates, we sought to determine
+whether such results could also be obtained in mammalian
+hosts by using two groups of ferrets (two inoculated and two
+contact animals) as experimental models. All 17-week-old fer-
+FIG. 2. (a and b) Phylogenetic tree based on the nucleotide sequences of the H5 HA gene (a) and the N2 NA gene (b). The nucleotide
+sequences were aligned using Clustal_X (1, 53), and the phylograms were generated by the NJ method using the tree-drawing program NJ plot
+(42). The scale represents the number of substitutions per nucleotide. Branch labels record the stability of the branches during 100 bootstrap
+replicates. Only bootstrap values 60% are shown in each tree. The isolates in boldface type are the Korean swine H5N2 viruses being
+characterized in this study. Ck, chicken; Dk, duck; Ga, garganey; Gs, goose; Ml, mallard; Qa, quail; RT, rudder turnstone; Tk, turkey; Tl, teal; and
+Wb, wild bird. Standard abbreviations are used for state names in the United States. (c to h) Phylogenetic tree based on the nucleotide sequences
+of the PB2, PA, NP, M, PB1, and NS genes. The nucleotide sequences were aligned using Clustal_X (1, 53), and the phylograms were generated
+by the NJ method using the tree-drawing program NJ plot (42). The scale represents the number of substitutions per nucleotide. Branch labels
+record the stability of the branches during 100 bootstrap replicates. Only bootstrap values 60% are shown in each tree. The isolates in boldface
+type are the Korean swine H5N2 viruses being characterized in this study. Ab, aquatic bird; Pr, parrot; Ps, pheasant; Sb, shorebird; Sl, shoveler;
+Sw, swine; and Te, tern. Standard abbreviations are used for state names in the United States.
+4210 LEE ET AL. J. VIROL.
+rets used for the study were found to be seronegative at day 0
+for antibodies against swine influenza H1N1, H1N2, H3N1,
+and H3N2 viruses and avian H5N2 viruses by the HI assay. For
+the Sw/Kor/C12/08 virus, nasal washes were positive for virus
+(2.7 log10 EID50/0.1 ml) infection only at 2 days after inocula-
+tion, whereas a higher viral titer was observed 2 days after
+inoculation (3.4 log10 EID50/0.1 ml) in Sw/Korea/C13/08-in-
+fected ferrets and persisted until day 7 (Table 3). Thus, the
+virus titer obtained from an Sw/Kor/C12/08-infected mamma-
+lian host possibly were traces of the infection load and were not
+due to successful virus replication, but the Sw/Korea/C13/08
+virus did actively replicate in infected ferrets. No observable
+clinical signs of influenza-like disease were noted in the in-
+fected ferrets, and neither the wholly avian (Sw/Kor/C12/08)
+nor the avian-swine reassortant (Sw/Kor/C13/08) virus was
+transmitted among the contact ferrets. These results, there-
+fore, indicate that the Sw/Kor/C13/08 isolate bearing some
+swine gene segments (M, NP, PA, and PB2) can readily infect
+both animal models and is efficiently transmissible via contact
+in swine hosts, as opposed to the purely avian Sw/Kor/C12/08
+isolate. However, neither H5N2 virus could be transmitted in
+ferrets.
+Histopathologic examination. To investigate the tissue dis-
+tribution of viruses, we collected samples of trachea, serum,
+lung, liver, intestine, spleen, and kidney from an infected pig
+and ferret 5 days after inoculation from each group. The lungs
+were positive for virus in all infected pigs and those of contact
+pigs of the Sw/Kor/C13/08 virus-infected group (Fig. 3). There-
+fore, the H5N2 viruses can persist in pigs for at least 5 days
+after inoculation. However, the lungs were positive for virus
+only in Sw/Kor/C13/08-infected ferrets (data not shown). No
+virus was recovered from the liver, intestine, spleen, or kidney
+of any pig or ferret. Lung tissue collected on day 5 showed that
+Sw/Kor/C12/08 caused less severe lung and tracheal tissue
+damage than Sw/Kor/C13/08 (Fig. 3).
+Molecular analysis. The deduced amino acid sequences of
+the viral proteins were investigated to examine the molecular
+characteristics of the viruses in detail and to identify possible
+determinants of interspecies transmission from birds to pigs.
+The alignment of the amino acid sequences of the surface
+proteins revealed that the two Korean swine H5N2 isolates
+have 98.2 and 98.9% sequence identity to the reference
+avian isolate (Ga/San Jiang/160/06) in HA and NA while shar-
+ing about 98.7 and 99.1% homology with each other in these
+respective viral proteins. At the HA1-HA2 cleavage site, both
+of the porcine isolates had a Q-R-E-T-R motif in the connect-
+ing peptides that is typical for LPAI H5 viruses (9), confirming
+their low-pathogenicity pathotypes. All of the isolates had a
+glutamine at position 222 (position 226 in H3 numbering) and
+a glycine residue at position 224 (position 228 in H3 number-
+ing), indicating a preferential binding of sialic acids to the
+sugar chain by an 2-3 linkage (Table 4). The potential glyco-
+sylation sites in the HA1 domain and proposed receptor bind-
+ing sites were conserved in both isolates. None of the porcine
+TABLE 2. Serologic reactivity to H5N2 influenza viruses for pig
+sera collected from Korean swine farmsa
+Yr and mo
+No. of sera
+tested
+No. (%) of sera positive
+for H5 antibody in HI
+tests
+HI/NT titer(s) of
+positive sera
+2006
+January 155 4 (2.58) 40/20, 160/80,
+160/80, 80/80
+February 156 3 (1.92) 80/40, 80/80, 40/40
+March 151 1 (0.64) 40/20
+April 135 2 (1.48) 160/80, 80/80
+May 139 1 (0.71) 80/40
+June 129 1 (0.77) 40/20
+September 118 0
+October 143 0
+November 149 1 (0.67) 40/40
+December 163 2 (1.22) 40/20, 80/40
+2007
+January 181 3 (1.65) 80/40, 160/80, 40/40
+February 213 2 (0.93) 40/20, 40/40
+March 221 5 (2.26) 40/20, 40/20, 80/40,
+April 208 0 80/80, 40/20
+May 216 2 (0.92) 40/40, 40/20
+June 201 0
+September 186 0
+October 193 0
+November 192 1 (0.52) 40/40
+December 209 2 (0.95) 40/20, 160/160
+2008
+January 218 2 (0.91) 40/40, 40/80
+February 223 2 (0.89) 160/80, 40/80
+March 209 1 (0.47) 80/40
+Total 4,108 35 (0.85)
+a
+The sera giving positive HI test results were confirmed by Western blotting
+using H5 antigen (Fig. 1) and neutralization (NT) tests (Table 2).
+TABLE 3. Nasal excretion of H5N2 viruses in pigs and ferrets
+Day
+Swab viral titer (log10 EID50/0.1 ml) froma
+:
+Swine Ferret
+Sw/Kor/C12/08 Sw/Kor/C13/08 Sw/Kor/C12/08 Sw/Kor/C13/08
+Inoculated Contact Inoculated Contact Inoculated Contact Inoculated Contact
+1 -- -- -- -- -- -- -- --
+2 2.5 -- 2.7 -- 2.7 -- 3.4 --
+5 2.5 -- 3.3 2.7 -- -- 2.7 --
+7 -- -- 1.3 1.3 -- -- 0.7 --
+9 -- -- -- -- -- -- -- --
+a
+All viruses and animal experiments were handled in BSL 2 (swine infections) or BSL 3 (ferret inoculation) containment facilities approved by the Korea Centers
+for Disease Control and Prevention, and the research staff wore fitted HEPA filter masks. The dash marks indicate no detectable virus.
+VOL. 83, 2009 NOVEL LPAI H5N2 VIRUS INFECTION IN SWINE 4211
+influenza isolates in this study had any deletion in the stalk
+region of the NA protein, both the catalytic and framework
+sites appeared to be conserved, and none contained mutations
+at sites known to confer resistance to neuraminidase inhibitors
+(15, 30, 52). However, a potential glycosylation site at position
+402 (Asn) of the N2 protein was lost (Lys) in Sw/Kor/C12/08.
+Compared to the sequence of Ga/San Jiang/160/06, the two
+isolates in this study had mutations at sites in the HA1 domain
+(R2Q, D155N, K170E, and N183D) and N2 proteins (Q5H
+and I241M). Furthermore, additional mutations could be
+noted for the surface proteins of Sw/Kor/C12/08 (in the HA1
+domain, S107N and A185E; in the NA, N402K) and Sw/Kor/
+C13/08 viruses (in the HA1 domain, H103Y, D261Y, and
+L318P; in the NA, W403R), but none of these residues was
+FIG. 3. Histologic lesions in pigs infected with porcine H5N2 viruses. Lung tissue sections were stained by immunohistochemistry using a
+polyclonal antibody against the nucleoprotein gene (anti-NP) of influenza virus to show influenza virus infection. (a) Sw/Kor/C12/08; (b)
+Sw/Kor/C13/08; (c) positive contact (Sw/Kor/CC13/08); (d) negative contact. Magnification, 400. The arrows indicate influenza virus-infected
+cells.
+TABLE 4. Molecular analysis and comparison of amino acid sequences of different gene products of the swine H5N2 viruses with selected
+H5N1 isolates
+Straina
+HA1 sequence at
+NA stalk
+deletion
+M2 sequence
+at aa:
+NS sequence
+PB2 sequence
+at aa 627
+aa 222
+(226)b
+aa 224
+(228)b
+Cleavage site
+(aa 323­330)
+26 31
+Deletion
+of aa
+80­84
+aa 92
+HK/483/97 Q G RERRRKKR Yes L S No E K
+GS/437-4/99 Q G RERRRKKR No L S No D E
+Ck/HK/YU822.2/01 Q G RERRRKKR Yes L S Yes E E
+Dk/HK/821/02 Q G IERRRKKR Yes L S Yes E E
+Dk/China/E319-2/03 Q G RE-RRRKR Yes L S Yes E E
+Ck/Kor/ES03 Q G RE-RRRKR Yes L S Yes E E
+Thailand/1/04 Q G RERRRKKR Yes -- -- -- -- E
+Vietnam/1196/04 Q G RERRRKKR --c
+I N Yes E K
+Ck/Kor/IS/06 Q G GERRRKKR Yes L S Yes E K
+Qa/KorKJ4/06 Q G GERRRKKR Yes L S Yes E K
+Env/Kor/W150/06 Q G GERRRKKR Yes L S No E K
+Sw/Kor/C12/08 Q G RE----TR No L S No D E
+Sw/Kor/C13/08 Q G RE----TR No L S No D E
+a
+The isolates in boldface are the Korean swine H5 viruses examined in this study.
+b
+The number in parentheses is the H3 numbering.
+c
+--, Sequence data not available.
+4212 LEE ET AL. J. VIROL.
+implicated previously for antigenicity or receptor-binding af-
+finity.
+Neither virus had an E-to-K mutation at position 627 of the
+PB2 protein, which was responsible for the high virulence of
+A/Hong Kong/483/97 in a mammalian host model (16). The
+avian-like PB2/627E present in the swine-like PB2 is common
+for all Korean swine influenza isolates and does not represent
+a K-to-E mutation in the PB2 genes of the isolates in this study.
+Neither of their M2 proteins had the necessary mutations at
+residue 31 (Ser to Asn) to confer amantadine resistance (17,
+20), nor did they have glutamic acid at position 92 of the NS1
+molecule for escaping host antiviral cytokine responses (46).
+To determine whether the pig-passaged H5 isolates had un-
+dergone further substitutions or mammalian-like adaptations,
+viruses recovered from experimentally inoculated pigs (includ-
+ing from the contact swine of Sw/Kor/C13/08) and ferrets were
+sequenced. Analysis showed that the sequences of viruses ob-
+tained from pigs bore the same sequences as the swine farm
+isolates. Interestingly, viruses recovered from ferrets incurred
+additional sequence differences indicative of continuous ge-
+netic evolution (Table 5). In summary, the molecular analysis
+of the viral proteins of the swine H5N2 viruses clearly showed
+that they maintained a low-pathogenicity form, and no muta-
+tions related to virulence, drug resistance, or a shift in host
+preference were acquired.
+DISCUSSION
+During our routine porcine virus surveillance in January and
+February 2008, two LPAIs of the H5N2 subtype (designated
+Sw/Kor/C12/08 and Sw/Kor/C13/08) were isolated for the first
+time from pigs in Korea. Viruses of the same subtype have
+been found among avian species in several countries, including
+the United States (31), Mexico (12), Italy (8), Nigeria (11),
+China (9), and Japan (35). However, there has been no report
+yet of infections of this virus subtype among swine. Initial
+homology comparisons of individual genes to viruses available
+in the GenBank database showed that the two porcine viruses
+originally were derived from avian isolates and are almost
+identical to each other, except in four internal segments.
+The phylogenetic analysis of the surface genes of the two
+porcine H5N2 viruses showed that both the HA and NA seg-
+ments originated from a 2006 Chinese avian Ga/San Jiang/
+160/06 (H5N2)-like virus as a precursor (Fig. 2a and b). On the
+other hand, the internal genes might have originated from
+several different avian viruses purely belonging to the Eurasian
+lineage. These gene cascades of the avian H5N2 viruses that
+infected swine further reflect the dynamic influenza virus gene
+pool in this region, and new viruses are created by reassort-
+ment events that are very likely to occur in the field, exempli-
+fied by H5 viruses from southeastern China (9). However,
+phylogenetic analyses of the PB2, PA, NP, and M genes of the
+Sw/Ko/C13/08 virus revealed that they were descendants of a
+Korean H3N1-like virus (at least 99.5% similarities). In 2006,
+Shin et al. reported the presence in the Korean swine popula-
+tion of influenza viruses of the H3N1 subtype that were reas-
+sortants between human-like influenza viruses and recently
+circulating swine viruses (47). It is probable that the two por-
+cine H5N2 viruses in this study originated from a common
+avian ancestor, but a coinfection with a swine H3N1-like virus
+in the same pig as a result of dual susceptibility facilitated an
+avian-like (HA, NA, PB1, and NS) or swine-like (PB2, PA, NP,
+and M) reassortant H5N2 virus.
+Duan et al. reported that low-pathogenicity H5 subtype in-
+fluenza viruses were isolated predominantly from migratory or
+sentinel ducks during the winter, were barely detected in mar-
+ket waterfowl, and were not found in terrestrial poultry in
+southern China from 2002 to 2005 (9). In our unpublished
+data, avian H5N2 viruses also were found in migratory birds in
+Korea but were absent in domestic poultry. Hence, the avian
+H5N2 viruses that infected Korean pigs may have come di-
+rectly from migratory birds and not from domestic poultry
+products, as was suggested by the phylogenetic study, though
+the manner of such transmission remains to be resolved.
+Although it is difficult to estimate when the avian-like H5N2
+virus was first introduced into swine, some evidence suggests
+that the virus has been circulating for just a couple of years.
+First, the two porcine H5N2 isolates shared high amino acid
+and nucleotide sequence identities (98.2%) in the HA and
+NA sequences with the Ga/San Jiang/160/06-like virus. The
+phylogenetic alignment of the surface genes further showed
+the close relationship between the isolates. Second, we found
+serologic evidence of avian H5N2 influenza virus infection
+from 2006 to the first quarter of 2008, but only in a small
+proportion of pigs (0.85%). The low seroprevalence and low
+swine-to-swine transmission of the purely avian-like H5N2 vi-
+rus suggest that it did not spread significantly throughout
+South Korea. It also is possible that following transmission,
+successive infections of pigs were subclinical. Subsequently to
+successful cross-species transmission, spreading within the new
+host population usually requires a period of adaptation of the
+virus to that new host (55). Third, the PB2, PA, NP, and M
+genes of the Sw/Kor/C13/08 isolate had very high sequence
+similarities (98 to 99%) with Sw/Kor/CN22/06, as was shown
+phylogenetically, very likely indicating a recent reassortment
+event.
+Some LPAI H5 viruses, aside from H7 viruses, could un-
+TABLE 5. Amino acid sequence comparison of the H5N2 viruses
+isolated after experimental inoculation into pigs and ferretsa
+Isolate and gene
+Position
+(aa)
+aa found in:
+Farm isolate Pig
+Contact
+pig
+Ferret
+Sw/Kor/C12/08
+PB2 144 R R K
+634 S S F
+741 S S F
+NP 486 S S Y
+NA 314 S S F
+M 20 V V L
+Sw/Kor/C13/08
+PB2 648 L L L P
+653 S S S F
+695 L L L F
+NA 314 S S S F
+NS1 112 T T T A
+a
+The RNA of viruses recovered from inoculated pigs (including the contact
+pig infected with Sw/Kor/C13/08) and ferrets was extracted, reverse transcribed,
+and sequenced. Full sequences were compared against those of respective farm
+isolates using MegAlign of DNAStar package 5.0.
+VOL. 83, 2009 NOVEL LPAI H5N2 VIRUS INFECTION IN SWINE 4213
+dergo mutational changes to become highly pathogenic in
+avian species by several mechanisms and have been well doc-
+umented (12, 21, 28, 40, 51). However, molecular analysis
+showed that none of the isolates in this study had any indica-
+tions that they had acquired genetic mutations that would
+allow a shift in sialic acid receptor-binding preference, elevated
+pathogenicity, or increased drug resistance. We also could not
+predict whether such a virulence shift would occur if the vi-
+ruses were allowed to circulate for an extended period of time
+in swine populations. Although both porcine viruses caused
+modest virus titers in the nasal swabs and showed moderate
+clinical signs, animal experiments showed that Sw/Kor/C13/08
+was well adapted in swine and was more easily transmitted
+than Sw/Kor/C12/08. Between the Korean swine H5N2 viruses,
+the only apparent selective advantage of the Sw/Kor/C13/08
+virus over the Sw/Kor/C12 virus is the acquisition of the swine-
+like segments. Therefore, it is interesting to speculate that the
+possession of the Sw/Kor/C13/08 isolate of the swine gene
+complements (i.e., the PB2, PA, NP, and M genes) conferred
+a selective advantage for transmissibility in swine hosts, as was
+shown in this study. Although our animal experiments showed
+that the purely avian-like H5N2 isolate was not transmitted to
+contact animals, it is not clear whether transmission would
+occur under field conditions (with the presence of bacterial
+coinfections and environmental stresses).
+The surface genes (HA and NA) are the constant target of
+neutralizing antibodies, such that they largely define the ge-
+netic evolutions of influenza viruses. In contrast, there are no
+known selective pressures that could have driven the acquisi-
+tion of specific swine-like internal genes. We could only hy-
+pothesize that the accumulation of acquired gene mutations on
+the avian progenitor of Sw/Kor/C13/08 defined its persistence
+in pigs, and that coinfection with the swine progenitor in the
+same host generated a reassortant progeny virus with a certain
+gene constellation effect facilitating transmission. There is in-
+creasing evidence that the viral polymerases play a major role
+in host adaptation (10). More recently, Manzoor et al. have
+demonstrated that a swine-derived PB2 gene conferred en-
+hanced replicative potential to the reassortant virus that pos-
+sessed seven genes of avian origin (33). It also should be noted
+that several researchers have proposed the NP gene as a de-
+terminant of host range that can either restrict or attenuate
+virus replication (44, 48, 54), thereby controlling the successful
+transmission of virus to a new host (2). Furthermore, the in-
+fluenza virus HA gene was shown to have a preferential asso-
+ciation with the M gene, and as such the evolution of the M
+gene may reflect host-specific adaptation (45, 54, 56). Overall,
+it will be interesting to investigate the individual contribution
+of these swine H3N1-derived internal viral genes with respect
+to transmissibility.
+The isolation of two distinguishable H5N2 viruses in Korean
+swine in 2008 represents another significant event in the ability
+of pigs to act as intermediate hosts for low-pathogenicity H5
+viruses. Just as in the cases of swine infections with avian H9N2
+and H5N1 from nearby China, the isolated low-pathogenicity
+H5N2 viruses in this study may not be disregarded for their
+potential to cause human infections in the future. The shift
+from a purely avian-like swine virus to an avian-swine reassor-
+tant after apparent coinfection in pigs provides further evi-
+dence in the accumulating role of pigs as mixing vessels for
+influenza viruses, enhancing the genetic evolution that bridges
+the gap between animal and human influenza viruses. It should
+also be noted that after a single passage to a mammalian host
+(ferret), some genes (most specifically the PB2 gene) already
+had acquired amino acid base changes. Such features of the
+avian-swine H5N2 porcine virus could be considered a poten-
+tial model for pandemic highly pathogenic avian influenza
+(e.g., H5N1 and H7N7) virus outbreaks, in which viruses that
+were previously nontransmissible in a new host (e.g., humans)
+could also gain selective advantage by genetic reassortment
+with other strains of different lineages due to coinfection and
+through accumulated gene mutations. Although there are no
+known clinical implications of the avian-swine reassortant virus
+for pathogenicity to pigs or other species, including humans, at
+present, the efficient transmissibility of the relatively swine-
+adapted virus could facilitate virus spread, and association with
+disease outbreaks among swine populations could also be ex-
+pected. Thus, it raises concerns for continued surveillance of
+yet another atypical influenza virus in pigs that may have the
+potential to cross host-species barriers.
+ACKNOWLEDGMENTS
+This work was supported by grant no. RO1-2005-000-10585-0
+from the Basic Research Program of the Korea Science & Engi-
+neering Foundation and in part by a TBP grant from KRIBB
+(KGM3110912), by contract HHSN266200700005C with the National
+Institute of Allergy and Infectious Diseases, by Cancer Center support
+grant CA21765 from the National Cancer Institute, and by the Amer-
+ican Lebanese Syrian Associated Charities (ALSAC).
+We thank Taek-Kyu Oh and Eun Ho Lee for technical assistance.
+REFERENCES
+1. Aiyar, A. 2000. The use of CLUSTAL W and CLUSTAL X for multiple
+sequence alignment. Methods Mol. Biol. 132:221­241.
+2. Brown, I. H. 2000. The epidemiology and evolution of influenza viruses in
+pigs. Vet. Microbiol. 74:29­46.
+3. Chang, H. K., J. H. Park, M. S. Song, T. K. Oh, S. Y. Kim, C. J. Kim, H. Kim,
+M. H. Sung, H. S. Han, Y. S. Hahn, and Y. K. Choi. 2008. Development of
+multiplex RT-PCR assays for rapid detection and subtyping of influenza type
+A viruses from clinical specimens. J. Microbiol. Biotechnol. 18:1164­1169.
+4. Choi, Y. K., S. M. Goyal, S. W. Kang, M. W. Farnham, and H. S. Joo. 2002.
+Detection and subtyping of swine influenza H1N1, H1N2 and H3N2 viruses
+in clinical samples using two multiplex RT-PCR assays. J. Virol. Methods
+102:53­59.
+5. Choi, Y. K., T. D. Nguyen, H. Ozaki, R. J. Webby, P. Puthavathana, C.
+Buranathal, A. Chaisingh, P. Auewarakul, N. T. Hanh, S. K. Ma, P. Y. Hui,
+Y. Guan, J. S. Peiris, and R. G. Webster. 2005. Studies of H5N1 influenza
+virus infection of pigs by using viruses isolated in Vietnam and Thailand in
+2004. J. Virol. 79:10821­10825.
+6. Cong, Y. L., J. Pu, Q. F. Liu, S. Wang, G. Z. Zhang, X. L. Zhang, W. X. Fan,
+E. G. Brown, and J. H. Liu. 2007. Antigenic and genetic characterization of
+H9N2 swine influenza viruses in China. J. Gen. Virol. 88:2035­2041.
+7. Cong, Y. L., C. F. Wang, C. M. Yan, J. S. Peng, Z. L. Jiang, and J. H. Liu.
+2008. Swine infection with H9N2 influenza viruses in China in 2004. Virus
+Genes 36:461­469.
+8. Donatelli, I., L. Campitelli, T. L. Di, S. Puzelli, L. Selli, A. Fioretti, D. J.
+Alexander, M. Tollis, S. Krauss, and R. G. Webster. 2001. Characterization
+of H5N2 influenza viruses from Italian poultry. J. Gen. Virol. 82:623­630.
+9. Duan, L., L. Campitelli, X. H. Fan, Y. H. Leung, D. Vijaykrishna, J. X.
+Zhang, I. Donatelli, M. Delogu, K. S. Li, E. Foni, C. Chiapponi, W. L. Wu,
+H. Kai, R. G. Webster, K. F. Shortridge, J. S. Peiris, G. J. Smith, H. Chen,
+and Y. Guan. 2007. Characterization of low-pathogenic H5 subtype influenza
+viruses from Eurasia: implications for the origin of highly pathogenic H5N1
+viruses. J. Virol. 81:7529­7539.
+10. Gabriel, G., A. Herwig, and H. D. Klenk. 2008. Interaction of polymerase
+subunit PB2 and NP with importin 1 is a determinant of host range of
+influenza A virus. PLoS Pathog. 4:e11.
+11. Gaidet, N., G. Cattoli, S. Hammoumi, S. H. Newman, W. Hagemeijer, J. Y.
+Takekawa, J. Cappelle, T. Dodman, T. Joannis, P. Gil, I. Monne, A. Fusaro,
+I. Capua, S. Manu, P. Micheloni, U. Ottosson, J. H. Mshelbwala, J. Lubroth,
+J. Domenech, and F. Monicat. 2008. Evidence of infection by H5N2 highly
+pathogenic avian influenza viruses in healthy wild waterfowl. PLoS Pathog.
+4:e1000127.
+4214 LEE ET AL. J. VIROL.
+12. García, M., J. M. Crawford, J. W. Latimer, E. Rivera-Cruz, and M. L.
+Perdue. 1996. Heterogeneity in the haemagglutinin gene and emergence of
+the highly pathogenic phenotype among recent H5N2 avian influenza viruses
+from Mexico. J. Gen. Virol. 77:1493­1504.
+13. Gregory, V., M. Bennett, Y. Thomas, L. Kaiser, W. Wunderli, H. Matter, A.
+Hay, and Y. P. Lin. 2003. Human infection by a swine influenza A (H1N1)
+virus in Switzerland. Arch. Virol. 148:793­802.
+14. Guan, Y., K. F. Shortridge, S. Krauss, P. H. Li, Y. Kawaoka, and R. G.
+Webster. 1996. Emergence of avian H1N1 influenza viruses in pigs in China.
+J. Virol. 70:8041­8046.
+15. Gubareva, L. V., M. J. Robinson, R. C. Bethell, and R. G. Webster. 1997.
+Catalytic and framework mutations in the neuraminidase active site of in-
+fluenza viruses that are resistant to 4-guanidino-Neu5Ac2en. J. Virol. 71:
+3385­3390.
+16. Hatta, M., P. Gao, P. Halfmann, and Y. Kawaoka. 2001. Molecular basis for
+high virulence of Hong Kong H5N1 influenza A viruses. Science 293:1840­
+1842.
+17. Hay, A. J., A. J. Wolstenholme, J. J. Skehel, and M. H. Smith. 1985. The
+molecular basis of the specific anti-influenza action of amantadine. EMBO J.
+4:3021­3024.
+18. Hickman, D., M. J. Hossain, H. Song, Y. Araya, A. Solorzano, and D. R.
+Perez. 2008. An avian live attenuated master backbone for potential use in
+epidemic and pandemic influenza vaccines. J. Gen. Virol. 89:2682­2690.
+19. Hoffmann, E., J. Stech, Y. Guan, R. G. Webster, and D. R. Perez. 2001.
+Universal primer set for the full-length amplification of all influenza A
+viruses. Arch. Virol. 146:2275­2289.
+20. Holsinger, L. J., D. Nichani, L. H. Pinto, and R. A. Lamb. 1994. Influenza A
+virus M2 ion channel protein: a structure-function analysis. J. Virol. 68:1551­
+1563.
+21. Horimoto, T., E. Rivera, J. Pearson, D. Senne, S. Krauss, Y. Kawaoka, and
+R. G. Webster. 1995. Origin and molecular changes associated with emer-
+gence of a highly pathogenic H5N2 influenza virus in Mexico. Virology
+213:223­230.
+22. Ito, T., J. N. Couceiro, S. Kelm, L. G. Baum, S. Krauss, M. R. Castrucci, I.
+Donatelli, H. Kida, J. C. Paulson, R. G. Webster, and Y. Kawaoka. 1998.
+Molecular basis for the generation in pigs of influenza A viruses with pan-
+demic potential. J. Virol. 72:7367­7373.
+23. Jung, K., and C. Chae. 2004. Phylogenetic analysis of an H1N2 influenza A
+virus isolated from a pig in Korea. Brief Report. Arch. Virol. 149:1415­1422.
+24. Jung, K., and C. Chae. 2005. First outbreak of respiratory disease associated
+with swine influenza H1N2 virus in pigs in Korea. J. Vet. Diagn. Investig.
+17:176­178.
+25. Jung, K., and D. S. Song. 2007. Evidence of the cocirculation of influenza
+H1N1, H1N2 and H3N2 viruses in the pig population of Korea. Vet. Rec.
+161:104­105.
+26. Jung, K., D. S. Song, B. K. Kang, J. S. Oh, and B. K. Park. 2007. Serologic
+surveillance of swine H1 and H3 and avian H5 and H9 influenza A virus
+infections in swine population in Korea. Prev. Vet. Med. 79:294­303.
+27. Karasin, A. I., I. H. Brown, S. Carman, and C. W. Olsen. 2000. Isolation and
+characterization of H4N6 avian influenza viruses from pigs with pneumonia
+in Canada. J. Virol. 74:9322­9327.
+28. Kawaoka, Y., C. W. Naeve, and R. G. Webster. 1984. Is virulence of H5N2
+influenza viruses in chickens associated with loss of carbohydrate from the
+hemagglutinin? Virology 139:303­316.
+29. Kida, H., T. Ito, J. Yasuda, Y. Shimizu, C. Itakura, K. F. Shortridge, Y.
+Kawaoka, and R. G. Webster. 1994. Potential for transmission of avian
+influenza viruses to pigs. J. Gen. Virol. 75:2183­2188.
+30. Kiso, M., K. Mitamura, Y. Sakai-Tagawa, K. Shiraishi, C. Kawakami, K.
+Kimura, F. G. Hayden, N. Sugaya, and Y. Kawaoka. 2004. Resistant influ-
+enza A viruses in children treated with oseltamivir: descriptive study. Lancet
+364:759­765.
+31. Lee, C. W., D. A. Senne, and D. L. Suarez. 2004. Effect of vaccine use in the
+evolution of Mexican lineage H5N2 avian influenza virus. J. Virol. 78:8372­
+8381.
+32. Ma, W., A. L. Vincent, M. R. Gramer, C. B. Brockwell, K. M. Lager, B. H.
+Janke, P. C. Gauger, D. P. Patnayak, R. J. Webby, and J. A. Richt. 2007.
+Identification of H2N3 influenza A viruses from swine in the United States.
+Proc. Natl. Acad. Sci. USA 104:20949­20954.
+33. Manzoor, R., Y. Sakoda, N. Nomura, Y. Tsuda, H. Ozaki, M. Okamatsu, and
+H. Kida. 2009. PB2 protein of a highly pathogenic avian influenza virus strain
+A/chicken/Yamaguchi/7/2004 (H5N1) determines its replication potential in
+pigs. J. Virol. 83:1572­1578.
+34. Ninomiya, A., A. Takada, K. Okazaki, K. F. Shortridge, and H. Kida. 2002.
+Seroepidemiological evidence of avian H4, H5, and H9 influenza A virus
+transmission to pigs in southeastern China. Vet. Microbiol. 88:107­114.
+35. Okamatsu, M., T. Saito, Y. Yamamoto, M. Mase, S. Tsuduku, K. Naka-
+mura, K. Tsukamoto, and S. Yamaguchi. 2007. Low pathogenicity H5N2
+avian influenza outbreak in Japan during the 2005­2006. Vet. Microbiol.
+124:35­46.
+36. Olson, J. G. 1977. Epizootic swine influenza with evidence of a low rate of
+human infection associated with occupational exposure to swine. Southeast
+Asian J. Trop. Med. Public Health 8:368­370.
+37. Ottis, K., L. Sidoli, P. A. Bachmann, R. G. Webster, and M. M. Kaplan.
+1982. Human influenza A viruses in pigs: isolation of a H3N2 strain anti-
+genically related to A/England/42/72 and evidence for continuous circulation
+of human viruses in the pig population. Arch. Virol. 73:103­108.
+38. Palmer, D. F., W. R. Dowdle, M. T. Coleman, and G. C. Schild. 1975.
+Advanced laboratory techniques for influenza diagnosis. Immun. Ser.
+6:25­45.
+39. Pascua, P. N., M. S. Song, J. H. Lee, H. W. Choi, J. H. Han, J. H. Kim, G. J.
+Yoo, C. J. Kim, and Y. K. Choi. 2008. Seroprevalence and genetic evolutions
+of swine influenza viruses under vaccination pressure in Korean swine herds.
+Virus Res. 138:43­49.
+40. Pasick, J., K. Handel, J. Robinson, J. Copps, D. Ridd, K. Hills, H. Kehler,
+C. Cottam-Birt, J. Neufeld, Y. Berhane, and S. Czub. 2005. Intersegmental
+recombination between the haemagglutinin and matrix genes was responsi-
+ble for the emergence of a highly pathogenic H7N3 avian influenza virus in
+British Columbia. J. Gen. Virol. 86:727­731.
+41. Peiris, J. S., Y. Guan, D. Markwell, P. Ghose, R. G. Webster, and K. F.
+Shortridge. 2001. Cocirculation of avian H9N2 and contemporary "human"
+H3N2 influenza A viruses in pigs in southeastern China: potential for genetic
+reassortment? J. Virol. 75:9679­9686.
+42. Perrie
+`re, G., and M. Gouy. 1996. WWW-query: an on-line retrieval system
+for biological sequence banks. Biochimie 78:364­369.
+43. Schnurrenberger, P. R., G. T. Woods, and R. J. Martin. 1970. Serologic
+evidence of human infection with swine influenza virus. Am. Rev. Respir.
+Dis. 102:356­361.
+44. Scholtissek, C., H. Burger, O. Kistner, and K. F. Shortridge. 1985. The
+nucleoprotein as a possible major factor in determining host specificity of
+influenza H3N2 viruses. Virology 147:287­294.
+45. Scholtissek, C., J. Stech, S. Krauss, and R. G. Webster. 2002. Cooperation
+between the hemagglutinin of avian viruses and the matrix protein of human
+influenza A viruses. J. Virol. 76:1781­1786.
+46. Seo, S. H., E. Hoffmann, and R. G. Webster. 2002. Lethal H5N1 influenza
+viruses escape host anti-viral cytokine responses. Nat. Med. 8:950­954.
+47. Shin, J. Y., M. S. Song, E. H. Lee, Y. M. Lee, S. Y. Kim, H. K. Kim, J. K.
+Choi, C. J. Kim, R. J. Webby, and Y. K. Choi. 2006. Isolation and charac-
+terization of novel H3N1 swine influenza viruses from pigs with respiratory
+diseases in Korea. J. Clin. Microbiol. 44:3923­3927.
+48. Snyder, M. H., A. J. Buckler-White, W. T. London, E. L. Tierney, and B. R.
+Murphy. 1987. The avian influenza virus nucleoprotein gene and a specific
+constellation of avian and human virus polymerase genes each specify atten-
+uation of avian-human influenza A/Pintail/79 reassortant viruses for mon-
+keys. J. Virol. 61:2857­2863.
+49. Song, D. S., C. S. Lee, K. Jung, B. K. Kang, J. S. Oh, Y. D. Yoon, J. H. Lee,
+and B. K. Park. 2007. Isolation and phylogenetic analysis of H1N1 swine
+influenza virus isolated in Korea. Virus Res. 125:98­103.
+50. Song, D. S., J. Y. Lee, J. S. Oh, K. S. Lyoo, K. J. Yoon, Y. H. Park, and B. K.
+Park. 2003. Isolation of H3N2 swine influenza virus in South Korea. J. Vet.
+Diagn. Investig. 15:30­34.
+51. Suarez, D. L., D. A. Senne, J. Banks, I. H. Brown, S. C. Essen, C. W. Lee,
+R. J. Manvell, C. Mathieu-Benson, V. Moreno, J. C. Pedersen, B. Panigrahy,
+H. Rojas, E. Spackman, and D. J. Alexander. 2004. Recombination resulting
+in virulence shift in avian influenza outbreak, Chile. Emerg. Infect. Dis.
+10:693­699.
+52. Tai, C. Y., P. A. Escarpe, R. W. Sidwell, M. A. Williams, W. Lew, H. Wu, C. U.
+Kim, and D. B. Mendel. 1998. Characterization of human influenza virus
+variants selected in vitro in the presence of the neuraminidase inhibitor GS
+4071. Antimicrob. Agents Chemother. 42:3234­3241.
+53. Thompson, J. D., T. J. Gibson, F. Plewniak, F. Jeanmougin, and D. G.
+Higgins. 1997. The CLUSTAL_X windows interface: flexible strategies for
+multiple sequence alignment aided by quality analysis tools. Nucleic Acids
+Res. 25:4876­4882.
+54. Tian, S. F., A. J. Buckler-White, W. T. London, L. J. Reck, R. M. Chanock,
+and B. R. Murphy. 1985. Nucleoprotein and membrane protein genes are
+associated with restriction of replication of influenza A/Mallard/NY/78 virus
+and its reassortants in squirrel monkey respiratory tract. J. Virol. 53:771­775.
+55. Webster, R. G., W. J. Bean, O. T. Gorman, T. M. Chambers, and Y.
+Kawaoka. 1992. Evolution and ecology of influenza A viruses. Microbiol.
+Rev. 56:152­179.
+56. Webster, R. G., Y. Kawaoka, and W. J. Bean. 1989. What is the potential of
+avirulent influenza viruses to complement a cleavable hemagglutinin and
+generate virulent strains? Virology 171:484­492.
+57. Xu, C., W. Fan, R. Wei, and H. Zhao. 2004. Isolation and identification of
+swine influenza recombinant A/Swine/Shandong/1/2003(H9N2) virus. Mi-
+crobes Infect. 6:919­925.
+VOL. 83, 2009 NOVEL LPAI H5N2 VIRUS INFECTION IN SWINE 4215
+

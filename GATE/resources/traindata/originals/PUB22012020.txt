@@ -1,0 +1,497 @@
+﻿Published Ahead of Print 19 October 2011.
+10.1128/JCM.05676-11.
+2011, 49(12):4386. DOI:
+J. Clin. Microbiol.
+Carl A. Gagnon
+and
+Christian Bellehumeur, J. Grant Spearman, Josée Harel
+Donald Tremblay, Véronique Allard, Jean-François Doyon,
+Populations, Mink and Swine
+Reassortant in Two Canadian Animal
+Pandemic (H1N1) 2009 Influenza A Virus
+Emergence of a New Swine H3N2 and
+http://jcm.asm.org/content/49/12/4386
+Updated information and services can be found at:
+These include:
+REFERENCES
+http://jcm.asm.org/content/49/12/4386#ref-list-1
+at:
+This article cites 22 articles, 12 of which can be accessed free
+CONTENT ALERTS
+more»
+articles cite this article),
+Receive: RSS Feeds, eTOCs, free email alerts (when new
+http://journals.asm.org/site/misc/reprints.xhtml
+Information about commercial reprint orders:
+http://journals.asm.org/site/subscriptions/
+To subscribe to to another ASM Journal go to:
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+JOURNAL OF CLINICAL MICROBIOLOGY, Dec. 2011, p. 4386­4390 Vol. 49, No. 12
+0095-1137/11/$12.00 doi:10.1128/JCM.05676-11
+Copyright © 2011, American Society for Microbiology. All Rights Reserved.
+Emergence of a New Swine H3N2 and Pandemic (H1N1) 2009
+Influenza A Virus Reassortant in Two Canadian Animal
+Populations, Mink and Swine
+Donald Tremblay,1
+Ve
+´ronique Allard,1
+Jean-Franc
+¸ois Doyon,4
+Christian Bellehumeur,2,3
+J. Grant Spearman,5
+Jose
+´e Harel,1,2,3
+and Carl A. Gagnon1,2,3
+*
+Service de Diagnostic,1
+Centre de Recherche en Infectiologie Porcine (CRIP),2
+and Groupe de Recherche sur les Maladies
+Infectieuses du Porc (GREMIP),3
+Faculte
+´ de Me
+´decine Ve
+´te
+´rinaire, Universite
+´ de Montre
+´al, St-Hyacinthe,
+Que
+´bec, Canada; Veterinary Clinic Jean-Franc
+¸ois Doyon, Roxton Falls, Que
+´bec, Canada4
+; and
+Nova Scotia Department of Agriculture, Truro, Nova Scotia, Canada5
+Received 5 September 2011/Returned for modification 22 September 2011/Accepted 14 October 2011
+A swine H3N2 (swH3N2) and pandemic (H1N1) 2009 (pH1N1) influenza A virus reassortant (swH3N2/
+pH1N1) was detected in Canadian swine at the end of 2010. Simultaneously, a similar virus was also detected
+in Canadian mink based on partial viral genome sequencing. The origin of the new swH3N2/pH1N1 viral genes
+was related to the North American swH3N2 triple-reassortant cluster IV (for hemagglutinin [HA] and
+neuraminidase [NA] genes) and to pH1N1 for all the other genes (M, NP, NS, PB1, PB2, and PA). Data
+indicate that the swH3N2/pH1N1 virus can be found in several pigs that are housed at different locations.
+CASE REPORT
+In December 2010, an outbreak of respiratory symptoms
+occurred in a hog farm located in the province of Quebec,
+Canada. At the site, about 10% of the piglets were coughing,
+sows had no clinical signs, and several fattening pigs were
+coughing with nasal discharge. No increase of death rate was
+observed during this swine flu episode compared to the death
+rate that was occurring within the herd prior to the outbreak.
+Pools of nasal swabs of sick fattening pigs were collected at the
+farm and submitted to testing for the presence of swine influ-
+enza virus by a real-time reverse transcription-PCR (RT-
+PCR), which is able to detect influenza A viruses by targeting
+the conserved region of the M gene (matrix [M1] and ion
+channel [M2]) (17, 20). In addition, RT-PCR assays that are
+specific for the hemagglutinin (HA) and neuraminidase (NA)
+most common subtypes found in swine (H3 versus H1 and N2
+versus N1) were conducted (2). Even if the general influenza A
+virus PCR assay gave a low positive response, the case was
+highly positive for the H3 and N2 subtypes [A/swine/Quebec/
+1259260/2010(H3N2)]. For the reconciliation of the obtained
+results, sequencing of the HA, M, and nonstructural protein
+(NS) genes was conducted. Sequence analyses revealed a new
+commingling of the HA, M, and NS genes subtypes in a single
+swine flu case (data not shown). To further confirm the ap-
+pearance in swine population of a new influenza virus reas-
+sortant, a small retrospective study was conducted. Thus, the
+M genes of all swine H3N2 (swH3N2) PCR-positive cases (n 
+13 cases) that were submitted to the Molecular Diagnostic
+Laboratory (MDL) of the University of Montreal from Octo-
+ber 2010 to February 2011 were sequenced. All of those cases
+originated from different herds experiencing a swine flu epi-
+sode. Those herds were located at different sites across the
+province of Quebec, Canada. For those cases, various clinical
+samples were submitted, such as lung tissues and/or nasal
+swabs. When sequence analyses revealed that the M genes
+were genetically related to pandemic (H1N1) 2009 influenza
+virus (pH1N1), then virus isolation was conducted. Overall, the
+sequence analyses of the M gene PCR products revealed that
+9 cases, over the 13 swH3N2 PCR-positive cases, possessed a
+new reassortment of the HA, NA, and M genes (Fig. 1), with
+the M gene originating from the pH1N1 strain (Fig. 1). The M
+gene of the remaining 4 cases was genetically related to
+swH3N2 (data not shown). The earliest confirmed submitted
+case of the new influenza virus reassortant was obtained in
+October 2010.
+Specific-pathogen-free 10-day-old embryonated chicken
+eggs were inoculated via the chorioallantoic sac for virus iso-
+lation as previously described (5). The presence of the influ-
+enza virus within the allantoic fluid collected at the second
+and/or third passage was confirmed by hemagglutination,
+transmission electron microscopy, and PCR assays. The viral
+RNA was isolated from submitted samples and allantoic fluids
+with a commercial kit (QIAamp viral RNA minikit; Qiagen,
+Mississauga, Ontario, Canada). The full lengths of the viral
+RNA segments were amplified by RT-PCR, the PCR products
+were purified (QIAquick PCR purification kit; Qiagen), and
+both strands of the purified DNA PCR products were se-
+quenced with the same primer sets used in the RT-PCR by
+standard automated sequencing methods, as previously de-
+scribed (5). The resulting sequences were compared with other
+swine influenza virus reference sequences, such as those avail-
+able in the Diagnostic Veterinary Virology Laboratory
+(DVVL) of the University of Montreal (5) as well as those in
+the GenBank database. BioEdit Sequence Alignment Editor
+version 7.0.9 (Ibis Therapeutics; Carlsbad, CA) and Geneious
+bioinformatics version 5.4.6 (Biomatters, Ltd., Auckland, New
+* Corresponding author. Mailing address: Faculte
+´ de Me
+´decine Ve
+´-
+te
+´rinaire, Universite
+´ de Montre
+´al, 3200 rue Sicotte, St-Hyacinthe,
+Que
+´bec, Canada J2S 7C6. Phone: 450-773-8521 (8681). Fax: 450-778-
+8108. E-mail: carl.a.gagnon@umontreal.ca.
+
+Published ahead of print on 19 October 2011.
+4386
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+Zealand) were used for sequence analyses and phylogenic tree
+construction, as previously described (5). From the 9 cases
+confirmed to possess pH1N1 M gene, 6 influenza virus
+strains were isolated: A/swine/Quebec/1265553/2010(H3N2)
+(sw/Qc/1265553/10), A/swine/Quebec/1262080/2010(H3N2) (sw/
+Qc/1262080/10), A/swine/Quebec/1267568/2010(H3N2) (sw/
+Qc/1267568/10), A/swine/Quebec/1257774/2010(H3N2) (sw/Qc/
+1257774/10), A/swine/Quebec/1257777/2010(H3N2) (sw/Qc/
+1257777/10), and A/swine/Quebec/1267566/2011(H3N2) (sw/
+Qc/1267566/11). It is noteworthy that 5 isolates were tested in
+cell culture and were confirmed to be able to replicate in the
+MDCK (Madin-Darby canine kidney) cell line. Subsequently,
+the viral genomes of the 6 isolated strains were sequenced and
+analyzed (Fig. 1). Overall, the viral genes of the new influenza
+virus reassortant (swH3N2/pH1N1) are genetically related to
+swH3N2 for the HA and NA genes and pH1N1 for the M,
+nucleoprotein (NP), NS, polymerase basic protein 1 (PB1),
+PB2, and polymerase acidic (PA) protein genes (Fig. 1). The
+nucleotide sequence identities of the swH3N2/pH1N1 viral
+genes compared to their respective swH3N2 [A/swine/Quebec/
+4001/2005(H3N2)] and pH1N1 [A/New York/19/2009(H1N1)]
+reference strain counterparts varied between 95.6 and 97.5%,
+97.2 and 98.4%, 98.7 and 99.8%, 98.8 and 99.5%, 99.2 and
+99.7%, 97.3 and 99.7%, 99.3 and 99.7%, and 99.2 and 99.5%
+for the HA, NA, M, NS, NP, PB1, PB2, and PA genes, respec-
+tively (Fig. 1). As illustrated in Fig. 2, the HA genes of the 6
+swH3N2/pH1N1 strains were classified within the swH3N2 tri-
+ple-reassortant cluster IV (Fig. 2). Noteworthy, the swH3N2/
+pH1N1 strains seem to cluster within two subgroups named
+subclusters IVa and IVb (Fig. 2). The HA pairwise nucleotide
+identities between the two swH3N2/pH1N1 subclusters were
+94.7 to 95.9%, and those within each of the subclusters were
+96.4 to 98% and 99.1 to 99.8% for IVa and IVb, respectively.
+Overall, the HA amino acid identities between the swH3N2/
+pH1N1 strains were 94.5 to 99.8% (data not shown), which
+suggested the existence of possible antigenic variations be-
+tween those strains.
+To ascertain this hypothesis, a hemagglutination inhibition
+(HI) assay was conducted, as previously described (5), using as
+antigen the 6 swH3N2/pH1N1 isolated strains. The reference sera
+used in the HI assay, ck/150/90 and sw/4001/05, were obtained
+following immunization of chicks with a formalin-inactivated
+H3N2 swine influenza virus strain that was isolated in Quebec in
+1990 or from naturally infected pig with the reference strain
+A/Swine/Quebec/4001/05 (H3N2) (5), respectively. In addition,
+20 pig sera were tested. These sera had been collected from 6- to
+8-week-old pigs originating from the barn where animals experi-
+enced the first confirmed flu case related to the swH3N2/pH1N1
+reassortant (A/swine/Quebec/1259260/2010, which is a strain clas-
+sified within subcluster IVa, as illustrated in Fig. 2). Statistical
+analyses were done using GraphPad Prism version 4 software.
+The one-way analysis of variance (ANOVA) nonparametric
+Friedman test was used to determine if there is a statistically
+significant difference between viruses with regard to the HI re-
+sults. Interestingly, the antigenic reactivity of the 20 pig sera tested
+was significantly higher (P  0.05) against homologous strains of
+subcluster IVa than that of heterologous strains of subcluster IVb
+(Fig. 3). In addition, the HI titers of the reference sera (ck/150/90
+and sw/4001/05) demonstrated the existence of antigenic differ-
+ences between IVa and IVb strains (Fig. 3). Overall, the HI
+results confirmed the existence of antigenic variations between
+strains of subclusters IVa and IVb (Fig. 3), supporting the
+genomic results (Fig. 2).
+Concomitant with the characterization of the first swine flu
+FIG. 1. Viral genome sequence homologies of the new swH3N2/pH1N1 reassortant virus with swH3N2 and pH1N1 reference strains. When two
+squares between an swH3N2/pH1N1 strain and a reference strain possess the same color, it indicates that the viral gene is genetically related. The
+influenza virus reference strains used for comparison are A/New York/19/2009(H1N1) (GenBank accession no. FJ984388 to FJ984394 and GQ457503)
+and the swH3N2 cluster IV Quebec reference strain A/swine/Quebec/4001/2005(H3N2) (GenBank accession no. EU826543 to EU826550). Numbers in
+squares indicate the percentages of nucleotide homology compared to the genetically related strain. n.d., not determined.
+VOL. 49, 2011 CASE REPORTS 4387
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+case, RNA samples extracted from a mink tissue sample sent
+by the Provincial Laboratory of Nova Scotia, Canada, were
+received for further characterization. The strain (A/mink/Nova
+Scotia/1265707/2010) was confirmed to be an H3N2 strain by
+PCR and originated from a farm where mink kits were pre-
+senting serious coughing but very low mortality. The HA gene
+of the new mink strain shared higher nucleotide homologies
+with the 6 swH3N2/pH1N1 strains and an swH3N2 reference
+strain (95.7% to 100%) than pH1N1 (52.6%) (Fig. 1 and 2).
+Further sequencing of the mink strain M gene showed a 99.8%
+nucleotide homology to pH1N1 (Fig. 1) and only 88% homol-
+ogy compared to swH3N2. Unfortunately, not enough tissue
+was available for further characterization and virus isolation.
+Influenza (flu) is a disease affecting several animal species,
+including humans. In our recent history, several pandemics
+have arisen in the human population, which were estimated to
+cause millions of deaths, such as Spanish flu (1918 to 1920),
+Asian flu (1957 to 1958), and Hong Kong flu (1968 to 1969).
+The etiological agent, influenza A virus, belongs to the virus
+family Orthomyxoviridae. Influenza A virus is a single-stranded
+RNA virus with a segmented genome composed of eight gene
+segments now recognized to code for 12 protein products (21).
+These are the PB2 encoded by segment 1; PB1, PB1-F2, and
+N40 proteins encoded by segment 2; PA protein encoded by
+segment 3; HA protein encoded by segment 4; NP encoded by
+segment 5; NA protein encoded by segment 6; M1 and M2
+proteins encoded by segment 7; and 2 NS proteins encoded by
+segment 8. Sixteen HA and 9 NA antigenic types have been
+reported so far and are used to classify viruses into subtypes H1
+to H16 and N1 to N9 (4). Genetic diversity in influenza virus
+results from a high replication error rate associated with low-
+fidelity RNA polymerase and the reassortment of gene seg-
+ments among coinfecting strains. In 1998, an H3N2 triple-
+reassortant influenza A virus emerged in the U.S. swine
+population (10, 19, 22). RNA viral genes were identified as a
+mix of classical swine, human, and avian virus lineages. In 2005,
+spreading of this virus was seen in the swine and turkey pop-
+ulations of Canada and 2 years later was also seen in the mink
+populations of Canada (5, 15). Today, the influenza A virus
+subtypes that are mostly found in swine in Canada are usually
+FIG. 2. Phylogenetic tree of the HA gene nucleotide sequences of the swH3N2/pH1N1 strains. The designated clusters I, II, III, and IV classify
+the North American H3N2 triple-reassortant swine viruses as previously described (4). The phylogenetic tree was generated by the neighbor-joining
+method using the Geneious v5.4.6 software with a bootstrap resampling method (1,000 replications). Bootstrap confidence levels are indicated at
+the nodes of the phylogenetic tree. Bootstrap values lower than 50 are not indicated for clarity. GenBank accession numbers for the sequences of
+all viruses are provided after their names. The horizontal scale indicates the distances between strains; a distance of 0.02 means that the strains
+possess 98% nucleotide identity. The asterisks and triangle indicate the swine and mink swH3N2/pH1N1 strains, respectively, identified in this
+study. Those strains have been classified within subclusters IVa and IVb. The arrow indicates the other swH3N2 and pH1N1 reassortant strain that
+has recently been reported in United States by Ducatez et al. (3); its genes are related to swH3N2 (for HA, NA, NS, PB1, and PB2) and pH1N1
+(for M, PA, and NP).
+4388 CASE REPORTS J. CLIN. MICROBIOL.
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+H1N1 and H3N2 (13, 14). Other subtypes, such as H1N2,
+H3N3, and H4N6, are also sporadically found (8, 9, 11). In
+April 2009, a novel pandemic triple-reassortant H1N1 influ-
+enza A virus (pH1N1) was detected and spread globally as the
+first influenza pandemic of the 21st century. The role of ani-
+mals in the spreading of the pH1N1 is still unknown, but
+several reports showed that human-to-animal transmissions of
+the virus have occurred (1, 7). Now pH1N1 is frequently found
+in the Canadian swine population (14).
+The characterization of the swH3N2/pH1N1 reassortant vi-
+ruses from swine in the province of Quebec indicates that
+reassortment of gene segments had occurred between the
+North American swine H3N2 triple-reassortant from cluster
+IV and the pH1N1 strains as early as October 2010. Virus
+reassortants possess two genes related to swH3N2 (HA and
+NA) and all others related to pH1N1. The fact that 6 swH3N2/
+pH1N1 strains were isolated in a short period of time from
+animals with clinical signs housed at different locations sug-
+gests active transmission of this virus reassortant. Since a sim-
+ilar strain was also found in a sample recovered from a mink,
+this could illustrate the potential of the virus to cross the
+species barrier. How and when the pig and mink populations of
+Canada acquired the new swH3N2/pH1N1 strain is unknown.
+It is noteworthy that Gagnon et al. have reported that minks
+are fed with uncooked pork by-products coming from slaugh-
+terhouse facilities (i.e., discarded tissues, such as lung, which is
+the target of swine influenza virus) (Fig. 1) (5). This could
+explain how the cross-species contamination arises. Further
+studies will have to be conducted to establish the full nature of
+the swH3N2/pH1N1 reassortant in the mink population.
+Ancestral genes present in the pH1N1 virus suggest that the
+virus has been circulating undetected in the swine population
+for an undetermined period of time. This event underlines the
+need for surveillance of influenza viruses in swine populations
+(6). In our diagnostic laboratory, as seen in many others, rou-
+tine surveillance of influenza viruses in swine is done by de-
+tection of influenza A virus by targeting the M gene. Further
+characterization is often performed by typing the HA and NA
+genes. Such a procedure is not sufficient to differentiate reas-
+sortants, explaining why the new virus has been unnoticed by
+the regular surveillance. It is likely that more cases are ex-
+pected to be positive as surveillance programs adapt their
+testing. Concerns should also be raised about the surveillance
+of human seasonal influenza A virus (H3N2). For example,
+inoculation in ferrets with a reassortant pH1N1 and seasonal
+human influenza A (H3N2) showed increased severity of le-
+sions probably related to a higher viral replication (16).
+Reassortant viruses originating from pH1N1 different from
+the swH3N2/pH1N1 reassortant of the present article have
+already been described in 2010 in swine from around the world
+(3, 12, 18), raising the concern of a possibly more pathogenic
+reassortant. Most of the pH1N1 and swine influenza virus
+reassortants that have been reported are H1N2 viruses (3, 12).
+Interestingly, one other swine H3N2 strain (sw/MN/239105/
+09), which possesses pH1N1-related genes, has recently been
+reported in the United States (3). However, the gene profile of
+sw/MN/239105/09 is different from that of our swH3N2/pH1N1
+strains, suggesting there were at least two reassortment events
+over time. In infected ferrets, the virulence of the sw/MN/
+239105/09 strain was similar to that of a North American
+swH3N2 triple-reassortant reference strain (3). Similarly, clin-
+ical observations in the field also indicate that the swH3N2/
+pH1N1 strains are not more pathogenic than circulating en-
+demic strains. Nonetheless, full genome sequencing of swine
+influenza virus should be regularly performed, and the strains'
+pathogenicity should be closely monitored.
+Nucleotide sequence GenBank accession numbers. The
+GenBank accession numbers of the virus strains sequenced in
+this study are as follows: A/swine/Quebec/1259260/2010(H3N2),
+JF420890, JF420891, and JF411012; A/swine/Quebec/1265553/
+2010(H3N2), JF682719 to JF682724, JF703684, and JF703685;
+A/swine/Quebec/1262080/2010(H3N2), JN584176 to JN584182
+and JN817421; A/swine/Quebec/1267568/2010(H3N2), JN584183
+to JN584190; A/swine/Quebec/1257774/2010(H3N2), JN584191 to
+JN584198; A/swine/Quebec/1257777/2010(H3N2), JN584199
+to JN584206; A/swine/Quebec/1267566/2011(H3N2), JN584207 to
+JN584214; and A/mink/Nova Scotia/1265707/2010(H3N2),
+JF682717 and JF682718.
+This work was supported by a Natural Sciences and Engineering
+Research Council of Canada discovery grant.
+FIG. 3. Hemagglutination inhibition (HI) titers of convalescent pig
+sera toward swH3N2/pH1N1 viruses. Twenty sera collected from 6- to
+8-week-old pigs housed with the animal experiencing the first con-
+firmed flu case related to the swH3N2/pH1N1 reassortant (A/swine/
+Quebec/1259260/2010) were tested. The boxes extend from the 25th
+percentile to the 75th percentile, with a line at the median. The error
+bars extending below and above each box show the lowest and highest
+HI values obtained with the 20 pig sera that were tested. When an HI
+result was negative at the lowest serum dilution (1/10) tested, the value
+of the HI titer was established to be equal to 0. Labeling of 2 sets of
+data with different superscript letters indicates that these 2 sets of data
+are statistically different (P  0.05). Below the x axis, a table indicates
+the HI values of the reference sera (ck/150/90 and sw/4001/05) against
+each of the swine influenza virus strains tested.
+VOL. 49, 2011 CASE REPORTS 4389
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+We are grateful to Brigitte Bousquet and Denis St-Martin for tech-
+nical assistance. We are also grateful to the Ministe
+`re de l'Agriculture,
+des Pe
+^cheries et de l'Alimentation du Que
+´bec, in particular J. H.
+Fairbrother, for collaboration and sharing of swine samples.
+REFERENCES
+1. Berhane, Y., et al. 2010. Molecular characterization of pandemic H1N1
+influenza viruses isolated from turkeys and pathogenicity of a human pH1N1
+isolate in turkeys. Avian Dis. 54:1275­1285.
+2. Choi, Y. K., S. M. Goyal, S. W. Kang, M. W. Farnham, and H. S. Joo. 2002.
+Detection and subtyping of swine influenza H1N1, H1N2 and H3N2 viruses
+in clinical samples using two multiplex RT-PCR assays. J. Virol. Methods
+102:53­59.
+3. Ducatez, M. F., et al. 2011. Multiple reassortment between pandemic
+(H1N1) 2009 and endemic influenza viruses in pigs, United States. Emerg.
+Infect. Dis. 17:1624­1629.
+4. Fouchier, R. A., et al. 2005. Characterization of a novel influenza A virus
+hemagglutinin subtype (H16) obtained from black-headed gulls. J. Virol.
+79:2814­2822.
+5. Gagnon, C. A., et al. 2009. Characterization of a Canadian mink H3N2
+influenza A virus isolate genetically related to triple reassortant swine influ-
+enza virus. J. Clin. Microbiol. 47:796­799.
+6. Garten, R. J., et al. 2009. Antigenic and genetic characteristics of swine-
+origin 2009 A(H1N1) influenza viruses circulating in humans. Science 325:
+197­201.
+7. Howden, K. J., et al. 2009. An investigation into human pandemic influenza
+virus (H1N1) 2009 on an Alberta swine farm. Can. Vet. J. 50:1153­1161.
+8. Karasin, A. I., S. Carman, and C. W. Olsen. 2006. Identification of human
+H1N2 and human-swine reassortant H1N2 and H1N1 influenza A viruses
+among pigs in Ontario, Canada (2003 to 2005). J. Clin. Microbiol. 44:1123­
+1126.
+9. Karasin, A. I., et al. 2000. H4N6 influenza virus isolated from pigs in On-
+tario. Can. Vet. J. 41:938­939.
+10. Karasin, A. I., et al. 2000. Genetic characterization of H3N2 influenza
+viruses isolated from pigs in North America, 1977­1999: evidence for wholly
+human and reassortant virus genotypes. Virus Res. 68:71­85.
+11. Karasin, A. I., K. West, S. Carman, and C. W. Olsen. 2004. Characterization
+of avian H3N3 and H1N1 influenza A viruses isolated from pigs in Canada.
+J. Clin. Microbiol. 42:4349­4354.
+12. Moreno, A., et al. 2011. Novel H1N2 swine influenza reassortant strain in
+pigs derived from the pandemic H1N1/2009 virus. Vet. Microbiol. 149:472­
+477.
+13. Nfon, C., et al. 2011. Molecular and antigenic characterization of triple-
+reassortant H3N2 swine influenza viruses isolated from pigs, turkey and quail
+in Canada. Transbound. Emerg. Dis. 58:394­401.
+14. Nfon, C. K., et al. 2011. Characterization of H1N1 swine influenza viruses
+circulating in Canadian pigs in 2009. J. Virol. 85:8667­8679.
+15. Olsen, C. W., et al. 2006. Triple reassortant H3N2 influenza A viruses,
+Canada, 2005. Emerg. Infect. Dis. 12:1132­1135.
+16. Schrauwen, E. J., et al. 2011. Possible increased pathogenicity of pandemic
+(H1N1) 2009 influenza virus upon reassortment. Emerg. Infect. Dis. 17:200­
+208.
+17. Spackman, E., et al. 2002. Development of a real-time reverse transcriptase
+PCR assay for type A influenza virus and the avian H5 and H7 hemagglutinin
+subtypes. J. Clin. Microbiol. 40:3256­3260.
+18. Vijaykrishna, D., et al. 2010. Reassortment of pandemic H1N1/2009 influ-
+enza A virus in swine. Science 328:1529.
+19. Webby, R. J., et al. 2000. Evolution of swine H3N2 influenza viruses in the
+United States. J. Virol. 74:8243­8251.
+20. Weingartl, H. M., et al. 2010. Genetic and pathobiologic characterization of
+pandemic H1N1 2009 influenza viruses from a naturally infected swine herd.
+J. Virol. 84:2245­2256.
+21. Wise, H. M., et al. 2009. A complicated message: identification of a novel
+PB1-related protein translated from influenza A virus segment 2 mRNA.
+J. Virol. 83:8021­8031.
+22. Zhou, N. N., et al. 1999. Genetic reassortment of avian, swine, and human
+influenza A viruses in American pigs. J. Virol. 73:8851­8856.
+4390 CASE REPORTS J. CLIN. MICROBIOL.
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+

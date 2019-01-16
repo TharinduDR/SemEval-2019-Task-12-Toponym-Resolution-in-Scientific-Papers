@@ -1,0 +1,94 @@
+T1	Protein 0 8	Clinical
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 135 142	Article
+#2	AnnotatorNotes T2	END
+T3	Protein 276 280	This
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1329 1331	fi
+#4	AnnotatorNotes T4	END
+T5	Protein 2214 2222	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2329 2336	persons
+#6	AnnotatorNotes T6	END
+T7	Protein 4092 4095	169
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4863 4865	al
+#8	AnnotatorNotes T8	END
+T9	Protein 7446 7449	170
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 7495 7504	Dovepress
+#10	AnnotatorNotes T10	END
+T11	Protein 9182 9190	Clinical
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 9257 9266	estimates
+#12	AnnotatorNotes T12	END
+T13	Protein 11561 11569	Clinical
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 11588 11589	7
+#14	AnnotatorNotes T14	END
+T15	Protein 13855 13861	submit
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 13940 13942	al
+#16	AnnotatorNotes T16	END
+T17	Protein 17040 17043	172
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 17175 17184	estimates
+#18	AnnotatorNotes T18	END
+T19	Protein 19575 19583	Clinical
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 19602 19603	7
+#20	AnnotatorNotes T20	END
+T21	Protein 22024 22030	submit
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 22109 22111	al
+#22	AnnotatorNotes T22	END
+T23	Protein 24907 24910	174
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 24956 24965	Dovepress
+#24	AnnotatorNotes T24	END
+T25	Protein 25529 25537	Clinical
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 25559 25568	Dovepress
+#26	AnnotatorNotes T26	END
+T27	Protein 28187 28195	Clinical
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 28251 28260	estimates
+#28	AnnotatorNotes T28	END
+T29	Protein 30756 30762	submit
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 30841 30843	al
+#30	AnnotatorNotes T30	END
+T31	Protein 33481 33484	176
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 33530 33539	Dovepress
+#32	AnnotatorNotes T32	END
+T33	Protein 34478 34486	Clinical
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 34508 34517	Dovepress
+#34	AnnotatorNotes T34	END
+T35	Protein 37109 37117	Clinical
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 37173 37182	estimates
+#36	AnnotatorNotes T36	END
+T37	Protein 39973 39979	submit
+#37	AnnotatorNotes T37	BEGIN
+T38	Protein 40058 40060	al
+#38	AnnotatorNotes T38	END
+T39	Protein 42233 42248	Acknowledgments
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 52742 52743	7
+#40	AnnotatorNotes T40	END
+T41	Location 7274 7281	Finland
+#41	AnnotatorNotes T41	<latlng>64, 26</latlng><geoID>660013</geoID><pop>5244000</pop>
+T42	Location 7265 7272	­Kuopio
+#42	AnnotatorNotes T42	<latlng>62.9893, 27.70115</latlng><geoID>9610647</geoID>
+T43	Location 8413 8419	Kuopio
+#43	AnnotatorNotes T43	<latlng>62.9893, 27.70115</latlng><geoID>9610647</geoID>
+T44	Location 22250 22256	Kuopio
+#44	AnnotatorNotes T44	<latlng>62.9893, 27.70115</latlng><geoID>9610647</geoID>
+T45	Location 22258 22265	Finland
+#45	AnnotatorNotes T45	<latlng>64, 26</latlng><geoID>660013</geoID><pop>5244000</pop>
+T46	Location 31008 31015	Finland
+#46	AnnotatorNotes T46	<latlng>64, 26</latlng><geoID>660013</geoID><pop>5244000</pop>
+T47	Location 31000 31006	Kuopio
+#47	AnnotatorNotes T47	<latlng>62.9893, 27.70115</latlng><geoID>9610647</geoID>

@@ -1,0 +1,22 @@
+T52	Location 5393 5406	North America
+#52	AnnotatorNotes T52	<latlng>46.07323,-100.54688</latlng><pop>565265000</pop><geoID>6255149</geoID>
+T54	Location 9339 9347	Manassas
+#54	AnnotatorNotes T54	<latlng>38.75095,-77.47527</latlng><pop>37821</pop><geoID>4771401</geoID>
+T60	Location 10430 10437	Nanjing
+#60	AnnotatorNotes T60	<latlng>32.06167,118.77778</latlng><pop>7165292</pop><geoID>1799962</geoID>
+T61	Location 10439 10444	China
+#61	AnnotatorNotes T61	<latlng>35,105</latlng><geoID>1814991</geoID>
+T7	Location 9349 9351	VA
+#7	AnnotatorNotes T7	<latlng>37.54812,-77.44675</latlng><pop>7642884</pop><geoID>6254928</geoID>
+T1	Protein 141 144	Wei
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 855 862	America
+#2	AnnotatorNotes T2	END
+T3	Protein 2910 2918	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 4225 4228	edu
+#4	AnnotatorNotes T4	END
+T5	Protein 42068 42083	Acknowledgments
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 50034 50040	e30328
+#6	AnnotatorNotes T6	END

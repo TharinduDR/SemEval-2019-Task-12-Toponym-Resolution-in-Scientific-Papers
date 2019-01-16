@@ -1,0 +1,26 @@
+T3	Location 107 112	China
+#3	AnnotatorNotes T3	<latlng>35,105</latlng><geoID>1814991</geoID>
+T1	Protein 114 120	Qunhui
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 491 497	Chinab
+#2	AnnotatorNotes T2	END
+T28	Location 615 622	Jiangsu
+#28	AnnotatorNotes T28	<latlng>33.0,120.0</latlng><pop>76770000</pop><geoID>1806260</geoID>
+T29	Location 644 649	China
+#29	AnnotatorNotes T29	<latlng>35,105</latlng><geoID>1814991</geoID>
+T30	Location 934 939	China
+#30	AnnotatorNotes T30	<latlng>35,105</latlng><geoID>1814991</geoID>
+T6	Protein 942 950	Received
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 1488 1491	cn.
+#7	AnnotatorNotes T7	END
+T42	Location 2523 2530	Jiangsu
+#42	AnnotatorNotes T42	<latlng>33.0,120.0</latlng><pop>76770000</pop><geoID>1806260</geoID>
+T43	Location 2551 2556	China
+#43	AnnotatorNotes T43	<latlng>35,105</latlng><geoID>1814991</geoID>
+T50	Location 4604 4609	China
+#50	AnnotatorNotes T50	<latlng>35,105</latlng><geoID>1814991</geoID>
+T4	Protein 4789 4804	ACKNOWLEDGMENTS
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 7333 7335	12
+#5	AnnotatorNotes T5	END

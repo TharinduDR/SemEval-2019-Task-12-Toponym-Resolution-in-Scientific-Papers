@@ -1,0 +1,188 @@
+T1	Protein 171 178	Vanessa
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 1183 1184	.
+#2	AnnotatorNotes T2	END
+T3	Protein 4286 4293	Hindawi
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 4451 4464	International
+#4	AnnotatorNotes T4	END
+T5	Location 5806 5813	Belgium
+#5	AnnotatorNotes T5	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T6	Location 5585 5592	Belgium
+#6	AnnotatorNotes T6	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T7	Location 3730 3736	Africa
+#7	AnnotatorNotes T7	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID><pop>1031833000</pop>
+T8	Location 3762 3768	Europe
+#8	AnnotatorNotes T8	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T9	Location 3778 3787	Australia
+#9	AnnotatorNotes T9	<latlng> -25, 135 </latlng><geoID>2077456 </geoID> <pop> 21515754 </pop>
+T10	Location 3826 3830	Asia
+#10	AnnotatorNotes T10	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>
+T11	Location 3951 3957	Europe
+#11	AnnotatorNotes T11	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T12	Location 4116 4127	Netherlands
+#12	AnnotatorNotes T12	<latlng> 52.25, 5.75 </latlng><geoID>2750405 </geoID> <pop> 16645000 </pop>
+T13	Location 5693 5704	Netherlands
+#13	AnnotatorNotes T13	<latlng> 52.25, 5.75 </latlng><geoID>2750405 </geoID> <pop> 16645000 </pop>
+T14	Location 4198 4203	Kenya
+#14	AnnotatorNotes T14	<latlng> 1, 38 </latlng><geoID>192950 </geoID>192950 <pop> 40046566 </pop>
+T15	Location 5680 5687	Boxmeer
+#15	AnnotatorNotes T15	<latlng>51.64667, 5.94722</latlng><geoID>2758462 </geoID> <pop>12407</pop>
+T16	Location 11184 11191	Belgium
+#16	AnnotatorNotes T16	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T17	Location 11288 11294	France
+#17	AnnotatorNotes T17	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T18	Location 11417 11423	France
+#18	AnnotatorNotes T18	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T19	Location 11617 11623	France
+#19	AnnotatorNotes T19	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T20	Location 12007 12013	France
+#20	AnnotatorNotes T20	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T21	Location 12028 12034	France
+#21	AnnotatorNotes T21	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T22	Location 12159 12166	Belgium
+#22	AnnotatorNotes T22	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T23	Location 13643 13654	Netherlands
+#23	AnnotatorNotes T23	<latlng> 52.25, 5.75 </latlng><geoID>2750405 </geoID> <pop> 16645000 </pop>
+T24	Location 15629 15637	Hercules
+#24	AnnotatorNotes T24	<latlng>NA</latlng><geoID>NA</geoID>
+T25	Location 15639 15642	USA
+#25	AnnotatorNotes T25	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T26	Location 15123 15126	USA
+#26	AnnotatorNotes T26	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T27	Location 15113 15121	Hercules
+#27	AnnotatorNotes T27	<latlng> 38.01714, -122.28858 </latlng><geoID>5356451 </geoID> <pop> 25314 </pop>
+T28	Location 15779 15789	Hong- Kong
+#28	AnnotatorNotes T28	<latlng> 22.28552, 114.15769 </latlng><geoID>1819730 </geoID> <pop> 6898686 </pop>
+T29	Location 15791 15796	China
+#29	AnnotatorNotes T29	<latlng> 35, 105 </latlng><geoID>1814991 </geoID> <pop> 1330044000 </pop>
+T30	Location 16096 16103	Germany
+#30	AnnotatorNotes T30	<latlng> 51.5, 10.5 </latlng><geoID>2921044 </geoID> <pop> 81802257 </pop>
+T31	Location 16088 16094	Hilden
+#31	AnnotatorNotes T31	<latlng> 51.16818, 6.93093 </latlng><geoID>6557500 </geoID> <pop> 56565 </pop>
+T32	Location 16981 16993	Gaithersburg
+#32	AnnotatorNotes T32	<latlng> 39.14344, -77.20137 </latlng><geoID>7161427 </geoID> <pop> 67645 </pop>
+T33	Location 16995 16998	USA
+#33	AnnotatorNotes T33	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T34	Location 16856 16870	United Kingdom
+#34	AnnotatorNotes T34	<latlng> 54.75844, -2.69531 </latlng><geoID>2635167 </geoID> <pop> 62348477 </pop>
+T35	Location 16849 16854	Bucks
+#35	AnnotatorNotes T35	<latlng>NA</latlng><geoID>NA </geoID>
+T36	Location 17369 17376	Belgium
+#36	AnnotatorNotes T36	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T37	Location 17360 17367	Seraing
+#37	AnnotatorNotes T37	<latlng>50.58362, 5.50115</latlng><geoID>2786825 </geoID> <pop>60737</pop>
+T38	Location 19325 19332	Madison
+#38	AnnotatorNotes T38	<latlng>NA</latlng><geoID>NA </geoID>
+T39	Location 19334 19337	USA
+#39	AnnotatorNotes T39	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T40	Location 19428 19439	Switzerland
+#40	AnnotatorNotes T40	<latlng> 47.00016, 8.01427 </latlng><geoID>2658434 </geoID> <pop> 7510000 </pop> 
+T41	Location 19418 19423	Basel
+#41	AnnotatorNotes T41	<latlng> 47.55839, 7.57327 </latlng><geoID>2661602 </geoID> <pop> 1644488 </pop>
+T42	Location 19579 19593	United Kingdom
+#42	AnnotatorNotes T42	<latlng> 54.75844, -2.69531 </latlng><geoID>2635167 </geoID> <pop> 62348477 </pop>
+T43	Location 19939 19953	United Kingdom
+#43	AnnotatorNotes T43	<latlng> 54.75844, -2.69531 </latlng><geoID>2635167 </geoID> <pop> 62348477 </pop>
+T44	Location 19559 19564;19565 19577	Hemel    Hempstead
+#44	AnnotatorNotes T44	<latlng>51.75368, -0.44975</latlng><geoID>2647138</geoID>  <pop>85629</pop>
+T45	Location 19919 19924;19925 19937	Hemel    Hempstead
+#45	AnnotatorNotes T45	<latlng>51.75368, -0.44975</latlng><geoID>2647138</geoID>  <pop>85629</pop>
+T46	Location 20045 20057	Gaithersburg
+#46	AnnotatorNotes T46	<latlng> 39.14344, -77.20137 </latlng><geoID>7161427 </geoID> <pop> 67645 </pop>
+T47	Location 20059 20062	USA
+#47	AnnotatorNotes T47	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T48	Location 23374 23377	USA
+#48	AnnotatorNotes T48	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T49	Location 23362 23372	California
+#49	AnnotatorNotes T49	<latlng> 37.25022, -119.75126 </latlng><geoID>5332921 </geoID> <pop> 37691912 </pop>
+T50	Location 24688 24700	Gaithersburg
+#50	AnnotatorNotes T50	<latlng> 39.14344, -77.20137 </latlng><geoID>7161427 </geoID> <pop> 67645 </pop>
+T51	Location 24702 24705	USA
+#51	AnnotatorNotes T51	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T52	Location 24549 24564	Hemel Hempstead
+#52	AnnotatorNotes T52	<latlng>51.75368, -0.44975</latlng><geoID>2647138</geoID>   <pop>85629</pop>
+T53	Location 22561 22564	USA
+#53	AnnotatorNotes T53	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T54	Location 22640 22643	USA
+#54	AnnotatorNotes T54	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T57	Location 22802 22805	USA
+#57	AnnotatorNotes T57	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T58	Location 22798 22800	CA
+#58	AnnotatorNotes T58	<latlng> 37.25022, -119.75126 </latlng><geoID>5332921 </geoID> <pop> 37691912 </pop>
+T59	Location 24566 24580	United Kingdom
+#59	AnnotatorNotes T59	<latlng> 54.75844, -2.69531 </latlng><geoID>2635167 </geoID> <pop> 62348477 </pop>
+T60	Location 26337 26343	France
+#60	AnnotatorNotes T60	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T61	Location 26327 26332	Nancy
+#61	AnnotatorNotes T61	<latlng>48.66667, 6.16667</latlng><geoID>2990998 </geoID> <pop>427687</pop>
+T62	Location 34377 34383	France
+#62	AnnotatorNotes T62	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T63	Location 34370 34375	Nancy
+#63	AnnotatorNotes T63	<latlng>48.66667, 6.16667</latlng><geoID>2990998 </geoID> <pop>427687</pop>
+T64	Location 43905 43912	Belgium
+#64	AnnotatorNotes T64	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T65	Location 44044 44050	Europe
+#65	AnnotatorNotes T65	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T66	Location 46047 46054	Germany
+#66	AnnotatorNotes T66	<latlng> 51.5, 10.5 </latlng><geoID>2921044 </geoID> <pop> 81802257 </pop>
+T67	Location 45834 45839	Nancy
+#67	AnnotatorNotes T67	<latlng>48.66667, 6.16667</latlng><geoID>2990998 </geoID> <pop>427687</pop>
+T68	Location 45844 45850	France
+#68	AnnotatorNotes T68	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T69	Location 46812 46824	Gaithersburg
+#69	AnnotatorNotes T69	<latlng> 39.14344, -77.20137 </latlng><geoID>7161427 </geoID> <pop> 67645 </pop>
+T70	Location 46826 46829	USA
+#70	AnnotatorNotes T70	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T71	Protein 47283 47291	Conflict
+#71	AnnotatorNotes T71	BEGIN
+T72	Protein 59052 59053	.
+#72	AnnotatorNotes T72	END
+T73	Location 4764 4771	Belgium
+#73	AnnotatorNotes T73	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T74	Location 4857 4864	Belgium
+#74	AnnotatorNotes T74	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T75	Location 4956 4963	Belgium
+#75	AnnotatorNotes T75	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T76	Location 5040 5047	Belgium
+#76	AnnotatorNotes T76	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T77	Location 5128 5135	Belgium
+#77	AnnotatorNotes T77	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T78	Location 5226 5233	Belgium
+#78	AnnotatorNotes T78	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T79	Location 5308 5315	Belgium
+#79	AnnotatorNotes T79	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T80	Location 5394 5401	Belgium
+#80	AnnotatorNotes T80	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T82	Location 11829 11836	Belgium
+#82	AnnotatorNotes T82	<latlng> 50.75, 4.5 </latlng><geoID>2802361 </geoID> <pop> 10403000 </pop>
+T83	Location 12464 12470	France
+#83	AnnotatorNotes T83	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T84	Location 12366 12372	France
+#84	AnnotatorNotes T84	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T85	Location 12295 12301	France
+#85	AnnotatorNotes T85	<latlng> 46, 2 </latlng><geoID> 3017382</geoID> <pop> 6476839 </pop>
+T86	Location 12222 12228	France
+#86	AnnotatorNotes T86	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T87	Location 12698 12704	France
+#87	AnnotatorNotes T87	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T88	Location 11934 11940	France
+#88	AnnotatorNotes T88	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T89	Location 11708 11714	France
+#89	AnnotatorNotes T89	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T90	Location 11764 11770	France
+#90	AnnotatorNotes T90	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T81	Location 10508 10514	France
+#81	AnnotatorNotes T81	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T91	Location 10562 10568	France
+#91	AnnotatorNotes T91	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T92	Location 10612 10618	France
+#92	AnnotatorNotes T92	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T93	Location 10665 10671	France
+#93	AnnotatorNotes T93	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T94	Location 10730 10736	France
+#94	AnnotatorNotes T94	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T95	Location 10790 10796	France
+#95	AnnotatorNotes T95	<latlng> 46, 2 </latlng><geoID>3017382 </geoID> <pop> 6476839 </pop>
+T96	Location 12691 12696	Nancy
+#96	AnnotatorNotes T96	<latlng>48.66667, 6.16667</latlng><geoID>2990998 </geoID> <pop>427687</pop>

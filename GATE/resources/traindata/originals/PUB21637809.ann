@@ -1,0 +1,232 @@
+T1	Location 133 138	Egypt
+#1	AnnotatorNotes T1	<latlng>27,30</latlng><geoID>357994</geoID>
+T32	Location 1168 1172	Asia
+#32	AnnotatorNotes T32	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T33	Location 1174 1180	Europe
+#33	AnnotatorNotes T33	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T34	Location 1186 1192	Africa
+#34	AnnotatorNotes T34	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T35	Location 1251 1256	Egypt
+#35	AnnotatorNotes T35	<latlng>27,30</latlng><geoID>357994</geoID>
+T36	Location 1724 1729	Egypt
+#36	AnnotatorNotes T36	<latlng>27,30</latlng><geoID>357994</geoID>
+T37	Location 2794 2799	Egypt
+#37	AnnotatorNotes T37	<latlng>27,30</latlng><geoID>357994</geoID>
+T55	Location 4799 4811	Qinghai Lake
+#55	AnnotatorNotes T55	<latlng>36.92626,100.15969</latlng><pop>0</pop><geoID>1797903</geoID>
+T56	Location 4823 4828	China
+#56	AnnotatorNotes T56	<latlng>35,105</latlng><geoID>1814991</geoID>
+T10	Location 4861 4873	central Asia
+#10	AnnotatorNotes T10	<latlng>43.00465,71.71875</latlng><pop>66453533</pop><geoID>7729893</geoID>
+T58	Location 4875 4881	Europe
+#58	AnnotatorNotes T58	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T59	Location 4887 4898	Middle East
+#59	AnnotatorNotes T59	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T60	Location 4904 4910	Africa
+#60	AnnotatorNotes T60	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T63	Location 5627 5632	China
+#63	AnnotatorNotes T63	<latlng>35,105</latlng><geoID>1814991</geoID>
+T64	Location 5635 5644	Indonesia
+#64	AnnotatorNotes T64	<latlng>-5,120</latlng><geoID>1643084</geoID>
+T65	Location 5646 5654	Viet Nam
+#65	AnnotatorNotes T65	<latlng>16,106</latlng><geoID>1562822</geoID>
+T66	Location 5659 5664	Egypt
+#66	AnnotatorNotes T66	<latlng>27,30</latlng><geoID>357994</geoID>
+T13	Location 5752 5767	northern Africa
+#13	AnnotatorNotes T13	<latlng>32.95337,9.97559</latlng><pop>210800000</pop><geoID>7729887</geoID>
+T68	Location 6144 6149	Egypt
+#68	AnnotatorNotes T68	<latlng>27,30</latlng><geoID>357994</geoID>
+T69	Location 6318 6323	Egypt
+#69	AnnotatorNotes T69	<latlng>27,30</latlng><geoID>357994</geoID>
+T70	Location 6424 6429	Egypt
+#70	AnnotatorNotes T70	<latlng>27,30</latlng><geoID>357994</geoID>
+T71	Location 6525 6531	Africa
+#71	AnnotatorNotes T71	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T72	Location 6551 6558	Nigeria
+#72	AnnotatorNotes T72	<latlng>10,8</latlng><geoID>2328926</geoID>
+T73	Location 6563 6571	Djibouti
+#73	AnnotatorNotes T73	<latlng>11.5,43</latlng><geoID>223816</geoID>
+T74	Location 6634 6639	Egypt
+#74	AnnotatorNotes T74	<latlng>27,30</latlng><geoID>357994</geoID>
+T75	Location 7995 8000	Egypt
+#75	AnnotatorNotes T75	<latlng>27,30</latlng><geoID>357994</geoID>
+T76	Location 8329 8334	Egypt
+#76	AnnotatorNotes T76	<latlng>27,30</latlng><geoID>357994</geoID>
+T77	Location 8433 8438	Egypt
+#77	AnnotatorNotes T77	<latlng>27,30</latlng><geoID>357994</geoID>
+T78	Location 8913 8918	Egypt
+#78	AnnotatorNotes T78	<latlng>27,30</latlng><geoID>357994</geoID>
+T79	Location 8974 8979	Egypt
+#79	AnnotatorNotes T79	<latlng>27,30</latlng><geoID>357994</geoID>
+T82	Location 9365 9370	Egypt
+#82	AnnotatorNotes T82	<latlng>27,30</latlng><geoID>357994</geoID>
+T83	Location 9413 9418	Egypt
+#83	AnnotatorNotes T83	<latlng>27,30</latlng><geoID>357994</geoID>
+T84	Location 10246 10251	Egypt
+#84	AnnotatorNotes T84	<latlng>27,30</latlng><geoID>357994</geoID>
+T85	Location 10709 10714	Egypt
+#85	AnnotatorNotes T85	<latlng>27,30</latlng><geoID>357994</geoID>
+T86	Location 10860 10865	Egypt
+#86	AnnotatorNotes T86	<latlng>27,30</latlng><geoID>357994</geoID>
+T87	Location 10929 10934	Egypt
+#87	AnnotatorNotes T87	<latlng>27,30</latlng><geoID>357994</geoID>
+T88	Location 11249 11254	Egypt
+#88	AnnotatorNotes T88	<latlng>27,30</latlng><geoID>357994</geoID>
+T95	Location 11736 11741	Egypt
+#95	AnnotatorNotes T95	<latlng>27,30</latlng><geoID>357994</geoID>
+T96	Location 11818 11823	Egypt
+#96	AnnotatorNotes T96	<latlng>27,30</latlng><geoID>357994</geoID>
+T97	Location 11910 11915	Egypt
+#97	AnnotatorNotes T97	<latlng>27,30</latlng><geoID>357994</geoID>
+T98	Location 12621 12626	China
+#98	AnnotatorNotes T98	<latlng>105,35</latlng><geoID>1814991</geoID>
+T99	Location 12629 12638	Indonesia
+#99	AnnotatorNotes T99	<latlng>120,-5</latlng><geoID>1643084</geoID>
+T100	Location 12640 12648	Viet Nam
+#100	AnnotatorNotes T100	<latlng>106,16</latlng><geoID>1562822</geoID>
+T101	Location 12653 12658	Egypt
+#101	AnnotatorNotes T101	<latlng>27,30</latlng><geoID>357994</geoID>
+T102	Location 13323 13328	Egypt
+#102	AnnotatorNotes T102	<latlng>27,30</latlng><geoID>357994</geoID>
+T103	Location 13660 13665	Egypt
+#103	AnnotatorNotes T103	<latlng>27,30</latlng><geoID>357994</geoID>
+T104	Location 13689 13694	Egypt
+#104	AnnotatorNotes T104	<latlng>27,30</latlng><geoID>357994</geoID>
+T108	Location 15603 15608	Egypt
+#108	AnnotatorNotes T108	<latlng>27,30</latlng><geoID>357994</geoID>
+T111	Location 16375 16380	Egypt
+#111	AnnotatorNotes T111	<latlng>27,30</latlng><geoID>357994</geoID>
+T112	Location 16881 16886	Egypt
+#112	AnnotatorNotes T112	<latlng>27,30</latlng><geoID>357994</geoID>
+T113	Location 16974 16979	Egypt
+#113	AnnotatorNotes T113	<latlng>27,30</latlng><geoID>357994</geoID>
+T117	Location 18367 18372	Egypt
+#117	AnnotatorNotes T117	<latlng>27,30</latlng><geoID>357994</geoID>
+T118	Location 18450 18455	Egypt
+#118	AnnotatorNotes T118	<latlng>27,30</latlng><geoID>357994</geoID>
+T119	Location 18711 18716	Egypt
+#119	AnnotatorNotes T119	<latlng>27,30</latlng><geoID>357994</geoID>
+T121	Location 20686 20691	Egypt
+#121	AnnotatorNotes T121	<latlng>27,30</latlng><geoID>357994</geoID>
+T122	Location 20860 20865	Egypt
+#122	AnnotatorNotes T122	<latlng>27,30</latlng><geoID>357994</geoID>
+T123	Location 20927 20932	Egypt
+#123	AnnotatorNotes T123	<latlng>27,30</latlng><geoID>357994</geoID>
+T124	Location 21134 21138	Asia
+#124	AnnotatorNotes T124	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T125	Location 21192 21197	Egypt
+#125	AnnotatorNotes T125	<latlng>27,30</latlng><geoID>357994</geoID>
+T129	Location 27164 27169	Egypt
+#129	AnnotatorNotes T129	<latlng>27,30</latlng><geoID>357994</geoID>
+T133	Location 33323 33328	Egypt
+#133	AnnotatorNotes T133	<latlng>27,30</latlng><geoID>357994</geoID>
+T134	Location 33652 33657	Egypt
+#134	AnnotatorNotes T134	<latlng>27,30</latlng><geoID>357994</geoID>
+T135	Location 33774 33779	Egypt
+#135	AnnotatorNotes T135	<latlng>27,30</latlng><geoID>357994</geoID>
+T139	Location 34913 34917	Asia
+#139	AnnotatorNotes T139	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T140	Location 35030 35034	Asia
+#140	AnnotatorNotes T140	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T141	Location 35057 35062	Egypt
+#141	AnnotatorNotes T141	<latlng>27,30</latlng><geoID>357994</geoID>
+T142	Location 35320 35325	Egypt
+#142	AnnotatorNotes T142	<latlng>27,30</latlng><geoID>357994</geoID>
+T143	Location 35330 35334	Asia
+#143	AnnotatorNotes T143	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T144	Location 35444 35448	Asia
+#144	AnnotatorNotes T144	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T145	Location 35455 35460	Egypt
+#145	AnnotatorNotes T145	<latlng>27,30</latlng><geoID>357994</geoID>
+T152	Location 37769 37774	Egypt
+#152	AnnotatorNotes T152	<latlng>27,30</latlng><geoID>357994</geoID>
+T154	Location 38325 38329	Asia
+#154	AnnotatorNotes T154	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T155	Location 38718 38723	Egypt
+#155	AnnotatorNotes T155	<latlng>27,30</latlng><geoID>357994</geoID>
+T165	Location 40965 40970	Egypt
+#165	AnnotatorNotes T165	<latlng>27,30</latlng><geoID>357994</geoID>
+T170	Location 45546 45551	Egypt
+#170	AnnotatorNotes T170	<latlng>27,30</latlng><geoID>357994</geoID>
+T171	Location 45686 45691	Egypt
+#171	AnnotatorNotes T171	<latlng>27,30</latlng><geoID>357994</geoID>
+T172	Location 45880 45885	Egypt
+#172	AnnotatorNotes T172	<latlng>27,30</latlng><geoID>357994</geoID>
+T173	Location 46015 46020	Egypt
+#173	AnnotatorNotes T173	<latlng>27,30</latlng><geoID>357994</geoID>
+T174	Location 46119 46124	Egypt
+#174	AnnotatorNotes T174	<latlng>27,30</latlng><geoID>357994</geoID>
+T176	Location 49686 49691	Egypt
+#176	AnnotatorNotes T176	<latlng>27,30</latlng><geoID>357994</geoID>
+T177	Location 49810 49815	Egypt
+#177	AnnotatorNotes T177	<latlng>27,30</latlng><geoID>357994</geoID>
+T181	Location 51150 51155	Egypt
+#181	AnnotatorNotes T181	<latlng>27,30</latlng><geoID>357994</geoID>
+T182	Location 51297 51302	Egypt
+#182	AnnotatorNotes T182	<latlng>27,30</latlng><geoID>357994</geoID>
+T183	Location 51393 51406	North America
+#183	AnnotatorNotes T183	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T184	Location 51585 51618	Lao People's Democratic Republic
+#184	AnnotatorNotes T184	<latlng>18.0,105.0</latlng><pop>6368162</pop><geoID>1655842</geoID>
+T186	Location 51716 51721	Egypt
+#186	AnnotatorNotes T186	<latlng>27,30</latlng><geoID>357994</geoID>
+T187	Location 51987 51992	Egypt
+#187	AnnotatorNotes T187	<latlng>27,30</latlng><geoID>357994</geoID>
+T188	Location 52368 52373	Egypt
+#188	AnnotatorNotes T188	<latlng>27,30</latlng><geoID>357994</geoID>
+T189	Location 52830 52835	Egypt
+#189	AnnotatorNotes T189	<latlng>27,30</latlng><geoID>357994</geoID>
+T190	Location 53238 53243	Egypt
+#190	AnnotatorNotes T190	<latlng>27,30</latlng><geoID>357994</geoID>
+T191	Location 53254 53259	Egypt
+#191	AnnotatorNotes T191	<latlng>27,30</latlng><geoID>357994</geoID>
+T192	Location 53501 53508	Nigeria
+#192	AnnotatorNotes T192	<latlng>10,8</latlng><geoID>2328926</geoID>
+T193	Location 53543 53548	Egypt
+#193	AnnotatorNotes T193	<latlng>27,30</latlng><geoID>357994</geoID>
+T194	Location 53711 53716	Egypt
+#194	AnnotatorNotes T194	<latlng>27,30</latlng><geoID>357994</geoID>
+T196	Location 53878 53883	China
+#196	AnnotatorNotes T196	<latlng>35,105</latlng><geoID>1814991</geoID>
+T197	Location 54128 54133	Egypt
+#197	AnnotatorNotes T197	<latlng>27,30</latlng><geoID>357994</geoID>
+T205	Location 54768 54773	Japan
+#205	AnnotatorNotes T205	<latlng>36,138</latlng><geoID>1861060</geoID>
+T206	Location 54872 54877	Egypt
+#206	AnnotatorNotes T206	<latlng>27,30</latlng><geoID>357994</geoID>
+T213	Location 55659 55665	Kagawa
+#213	AnnotatorNotes T213	<latlng>34.24717,133.99471</latlng><pop>0</pop><geoID>1860834</geoID>
+T214	Location 55667 55672	Japan
+#214	AnnotatorNotes T214	<latlng>36,138</latlng><geoID>1861060</geoID>
+T219	Location 56511 56516	Japan
+#219	AnnotatorNotes T219	<latlng>36,138</latlng><geoID>1861060</geoID>
+T227	Location 59103 59108	Egypt
+#227	AnnotatorNotes T227	<latlng>27,30</latlng><geoID>357994</geoID>
+T228	Location 59675 59680	Egypt
+#228	AnnotatorNotes T228	<latlng>27,30</latlng><geoID>357994</geoID>
+T229	Location 59881 59886	Egypt
+#229	AnnotatorNotes T229	<latlng>27,30</latlng><geoID>357994</geoID>
+T230	Location 60030 60034	Asia
+#230	AnnotatorNotes T230	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T232	Location 61373 61380	Corning
+#232	AnnotatorNotes T232	<latlng>NA</latlng><geoID>NA</geoID>
+T248	Location 69665 69670	Egypt
+#248	AnnotatorNotes T248	<latlng>27,30</latlng><geoID>357994</geoID>
+T249	Location 69758 69763	Egypt
+#249	AnnotatorNotes T249	<latlng>27,30</latlng><geoID>357994</geoID>
+T2	Location 5994 5999	Egypt
+#2	AnnotatorNotes T2	<latlng>27,30</latlng><geoID>357994</geoID>
+T3	Location 52461 52466	Egypt
+#3	AnnotatorNotes T3	<latlng>27,30</latlng><geoID>357994</geoID>
+T4	Protein 140 145	Yohei
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 1066 1074	Thailand
+#5	AnnotatorNotes T5	END
+T6	Protein 2870 2878	Citation
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 4335 4340	Egypt
+#7	AnnotatorNotes T7	END
+T8	Protein 71811 71826	Acknowledgments
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 86180 86188	e1002068
+#9	AnnotatorNotes T9	END

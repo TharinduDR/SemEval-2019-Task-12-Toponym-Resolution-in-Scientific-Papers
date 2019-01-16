@@ -1,0 +1,710 @@
+﻿Volume8 Number 12 1980 Nucleic Acids Research
+Complete nucleotide sequence of the haemagglutinin gene from a human influenza virus of the
+Hong Kong subtype
+G.W.Both and M.J.Sleigh
+CSIRO, Molecular and Cellular Biology Unit, P.O. Box 184, North Ryde, N.S.W. 2113, Australia
+Received 19 May 1980
+ABSTRACT
+The complete nucleotide sequence has been determined for a cloned
+double-stranded DNA copy of the haemagglutinin gene from the human
+influenza strain A/NT/60/68/29C, a laboratory-isolated variant of
+A/NT/60/68, an early strain of the Hong Kong subtype. The gene is 1765
+nucleotides long and contains information sufficient to code for a
+protein of 566 amino acids, which includes a hydrophobic leader peptide
+(16 residues), HAl (328), HA2 (221) and an arginine residue which joins
+the HA subunits. Comparison of the predicted amino acid sequence for
+29C haemagglutinin with protein sequence data available for HA from
+other influenza strains shows that no potential coding information is
+lost by processing of the mRNA.
+A comparison of the amino acid sequences predicted from the gene
+sequences for 29C and fowl plague virus haemagglutinins, (1) indicates
+the extent to which changes can occur in the primary sequence of different
+regions of the protein, while maintaining essential structure and function.
+INTRODUCTION
+The genome of influenza A virus is segmented and consists of eight
+single stranded RNA species of negative polarity. The fourth largest segment
+codes for the viral haemagglutinin (HA) and the sixth for neuraminidase
+(2-7). The virus is notable for the frequency with which alterations in
+these two surface proteins are observed, changes in their structure
+resulting in changes in viral antigenic character. Antigenic shift occurs
+when there is a radical change in the antigenicity of the surface proteins
+leading to the appearance of a new viral subtype, while antigenic drift
+results from smaller, progressive changes in antigenicity within a
+subtype (8).
+In an attempt to relate changes in viral antigenicity to changes in the
+primary structure of the major antigenic protein, haemagglutinin, peptide
+maps and amino acid sequences of this protein prepared from different viral
+© IRL Press Umited, 1 Falconberg Court, London W1V 5FG, U.K. 2561
+Nucleic Acids Research
+strains have been compared (9,10). However, the development of techniques
+for cloning double-stranded (ds) DNA copies of RNA genes and for rapid
+nucleotide sequenc ing has made it easier to study antigenic variation at
+the level of the nucleic acid. As a prelude to comparative sequence
+analysis of influenza HA genes, we synthesized a dsDNA copy of the HA gene
+and cloned it by insertion into the plasmid pBR322, amplified in E. coli RRI
+(7,11). Here we report the complete sequence of the HA gene from influenza
+strain A/NT/60/68/29C, a laboratory-derived mutant produced from A/NT/60/68,
+an early field isolate in the Hong Kong subtype (12,13).
+MATERIALS AND METHODS
+Growth and Purification of Virus. The virus strain A/NT/60/68/29C, supplied
+by Dr. C. Hannoun was grown and purified by Drs. V. Bender and B. Moss, as
+previously described (11).
+Synthesis, cloning and characterisation of a dsDNA copy of the HA gene.
+Procedures for the extraction of viral RNA, the synthesis of a dsDNA copy
+of the HA gene, its insertion into pBR322 and amplification in E. coli RRI
+have been described (7,11). (All recombinant DNA experiments were carried
+out under CII-EKI conditions as prescribed by the Recombinant DNA Committee
+of the Australian Academy of Science). The sequence inserted into pBR322 in
+clone C89 was previously identified as an authentic copy of the HA gene by
+comparing the nucleotide sequence of a small section (7) with the amino acid
+sequence determined for the corresponding region of the HA protein of the
+influenza strain A/Mem/102/72 (14).
+Preparation of labelled restriction fragments. Plasmid DNA prepared from
+clone C89 (7,11) was digested for two hours with restriction enzymes in 10p1
+of buffer containing Tris-HCl, pH7.4 (6mM), NaCl (20mM), MgCl2 (6mM),
+2-mercaptoethanol (6mM) and 0.1 mg/ml bovine serum albumin. After digestion,
+the mixture was adjusted to give a concentration of Tris-HCl, pH 8.0 (55mM),
+K21 (40mM) and three unlabelled deoxynucleoside triphosphates (each 40PM).
+This solution was incubated for 15 min. at 370 with 10-20Ci of the fourth
+32
+deoxynucleoside triphosphate, a P-labelled, and 14p (approx. 8 units) of
+AMV reverse transcriptase (kindly supplied by Dr. J.W. Beard, Life Sciences,
+Inc., St. Petersberg, Fla.). Restriction enzymes used for digestion were
+chosen such that only one end of the required DNA fragment could be labelled
+under the above conditions. Alternatively, after labelling, the digestion
+mixtures were heated to inactivate reverse transcriptase (70 , 15 min) and an
+unlabelled excess (1mM) of the radioactive deoxynucleoside triphosphate was
+2562
+Nucleic Acids Research
+added. A second restriction enzyme digestion was then carried out. Labelled
+fragments were separated by electrophoresis on a 4% polyacrylamide gel (11)
+together with labelled restriction fragments of known size as markers.
+Appropriate fragments were extracted from the gel and sequenced by the method
+of Maxam and Gilbert (15).
+Determination of gene sequence directly from viral RNA. The sequence at the
+5' end of the HA gene, not represented in C89, was determined by the method
+of Sanger et al, (16) using a denatured restriction fragment from C89 to prime
+DNA synthesis, with viral genome RNA as template (17).
+Compilation and analysis of sequence data. Nucleotide sequence data were
+stored and analysed in a Digital PDP 11/10 computer, using programmes
+devised by Staden (18,19), kindly adapted for our system by Caroline Bucholtz
+and Dr. Alex Reisner. The HA proteins from fowl plague virus (FPV) and the
+Hong Kong subtype were compared using the hydrophobicity values for amino
+acids (20,21) as described by Bigelow (22) and computer programmes devised by
+Dr. Alex Reisner.
+RESULTS
+Characterisation of the cloned ds DNA copy of the HA gene from influenza
+strain A/NT/60/68/29C (7) included the derivation of a restriction map. This
+information was used to prepare suitable restriction fragments for nucleotide
+sequence analysis, resulting in the sequencing strategy shown in Fig. 1.
+Since data were available on the amino acid sequence of areas of the HA protein
+from another Hong Kong-type virus, A/Mem/102/72 (14), approximately 60% of the
+Hinf I1va ii Hpa 11 Hinf
+HpaIliHindIII Iinfi Taq Barm H-
+Ava 11 Ava 11 Ava 11 Ava Il
+Hinf I AvalEcoIR
+2 4 6 8 10 12 14 16
+NUCLEOTIDES x 100
+Figure 1. Strategy for sequencing a cloned dsDNA copy of the HA gene from
+strain 29C. The arrow shows the amount and the direction of the composite
+sequence information obtained from multiple experiments. ( * ) The seq-
+uence of bases 300-370 was obtained using the Sanger chain termination method
+(16) copying the HA gene RNA into cDNA using the Hinf I - Ava II fragment as
+a primer for reverse transcriptase (17).
+2563
+Nucleic Acids Research
+vRNA 3' -UCGUUUUCGUCCCCUAUUAAGAUAAUUAG UAC UUC UGG UAG UAA CGA MC UCG AUG UM AAG ACA GAC CGA GAG CCG GUU CUG
+50 HaeIll
+cRNA 5' -AGCAAAAGCAGGGGAUMUUCUAMUC
+UA MG ACC AUC AUU GCU UUG AGC UAC AUU UUC UGU CUG GCU CUC GGC CM GAC
+lys thr ile lie ala leu ser tyr ile phe cys leu ala leu gly gln asp-2
+Precursor peptide
+GAA GGU CCU UUA CUG UUG UUG UGU CGU UGC GAC ACG GAC CCU GUA GUA CGC CAC GGU UUG CCU UGU GAU CAC UUU UGU UAG UGU
+100 EcoRII 150
+CUU CCA GGA MU GAC MC MC ACA GCA ACG CUG UGC CUG GGA CAU CAU GCG GUG CCA AAC GGA ACA CUA GUG AM ACA AUC ACA
+leu pro gly asn asp ,AsI.h. ala thr leu cys leu gly his his ala val pro PPg.A.y..01t leu val lys thr ile thr-30
+CUA CUA GUC UAA CUU CAC UGA UUA CGA UGA CUC GAU CM GUC UCG AGG AGU UGC CCC UUU UAU ACG UUG UUA GGA GUA GCU UAG
+M(boI 200 Taq,HinfI
+GAU GAU CAG AUU GAM GUG ACU AAU GCU ACU GAG CUA GUU CAG AGC UCC UCA ACG GGG MA AUA UGC MC MU CCU CAU CGA AUC
+asp asp gln ile glu val thr ,sp.#J&.cfi glu leu val gln ser ser ser thr gly lys ile cys asn asn pro his arg ile-58
+GM CUA CCU UAU CUG ACG UGU GAC UAU CUA CGA GAU MC CCC CUG GGA GUA ACA CUA CM AM GUU UUA CUC UGU ACC CUG GM
+AvaII 300 AvaIl
+CUU GAU GGA AUA GAC UGC ACA CUG AUA GAU GCU CUA UUG GGG GAC CCU CAU UGU GAU GUU UUU CAA MU GAG ACA UGG GAC CUU
+leu asp gly ile asp cys thr leu ile asp ala leu leu gly asp pro his cys asp val phe gln A*gi*l.th. trp asp leu-86
+MG CM CUU GCG UCG UUU CGA MG UCG UUG ACA AUG GGA AUA CUA CAC GGU CUA AUA CGG AGG GM UCC AGU GAU CM CGG AGC
+350 HindIII 400
+UUC GUU GAA CGC AGC AM GCU UUC AGC MC UGU UAC CCU UAU GAU GUG CCA GAU UAU GCC UCC CUU AGG UCA CUA GUU GCC UCG
+phe val glu arg ser iys ala phe ser asn cys tyr pro tyr asp val pro asp tyr ala ser leu arg ser leu val als ser-114
+AGU CCG UGA GAC CUC AAA UAG UGA CUC CCA MG UGA ACC UGA CCC CAG UGA GUC UUA CCC CCU UCG UUA CGA ACG UUU UCC CCU
+450 500
+UCA GGC ACU CUG GAG UUU AUC ACU GAG GGU UUC ACU UGG ACU GGG GUC ACU CAG MU GGG GGA AGC MU GCU UGC AM AGG GGA
+ser gly thr leu glu phe ile thr glu gly phe thr trp thr gly val thr gln asn gly gly ser asn ala cys lys arg gly-142
+GGA CUA UCG CCA AM MG UCA UCU GAC UUG ACC MC UGG UUU AGU CCU UCG UGU AUA GGU CAC GM UUG CAC UGA UAC GGU UUG
+AvaII HindIII 550
+CjUUGAU AGC GGU UUU UUC AGU AGA CUG MC UGG UUG ACC AM UCA GGA AGC ACA UAU CCA GUG CUU M9 GUG ACU AUG CCA MC
+pro asp ser gly phe phe ser arg leu asn trp leu thr lys ser gly ser thr tyr pro val leu apsp..Ml.th. met pro asn-170
+UUA CUG UUA AAA CUG UUU GAU AUG UM ACC CCC CM GUG GUG GGC UCG UGC UUG GUU CUU GUU UGG UCG GAC AUA CM GUU CGU
+600 Aval 650
+MU GAC MU UUU GAC AM CUA UAC AUU UGG GGG GUU CAC CAC CCG AGC ACG MC CM GM CM ACC AGC CUG UAU GUU CM GCA
+asn asp san phe asp lys leu tyr ile trp gly val his his pro ser thr asn gln glu gln thr ser leu tyr val gln ala-198
+AGU CCC UCU CAG UGU CAG AGA UGG UCC UCU UCG GUC GUU UGA UAU UAG GGC UUA UAG CCC AGG UCU GGG ACC CAU UCC CCA GUC
+HinfI EcoRII 700 AvaIl EcoRII 750
+UCA GGG AGA GUC ACA GUC UCU ACC AGG AGA AGC CAG CM ACU AUA AUC CCC MU AUC CGG UCC AGA CCC UGG GUA AGG GGU CAG
+ser gly arg val thr val ser thr arg arg ser gln gln thr ile ile pro asn ile gly ser arg pro trp val arg gly gln-226
+AGA UCA UCU UAU UCG UAG AUA ACC UGU UAU CM UUC GGC CCU CUG CAU GAC CAU UM UUA UCA UUA CCC UUG CAU UAC CGA GGA
+HpaII 800
+UCU AGU AGA AUA AGC AUC UAU UGG ACA AUA GUU MG CCG GGA GAC GUA CUG GUA AUU MU AGU MU GGG AAC CUA AUC CCU CCU
+ser ser arg ile ser ile tyr trp thr ile val lys pro gly asp val leu val ile asn ser asn gly asn leu ile ala pro-254
+GCC CCA AUA MG UUU UAC GCG UGA CCC UUU UCG AGU UAU UAC UCC AGU CUA CGU GGA UAA CUA UGG ACA UM AGA CUU ACG UAG
+Avel 850 HhaI 900
+CGG GGU UAU UUC MA AUG CGC ACU GGG AM AGC UCA AUA AUG AGC UCA GAU GCA CCU AUU GAU ACC UGU AUU UCU GAA UGC AUC
+arg gly tyr phe lys met arg thr gly lys ser ser ile met arg ser asp ala pro ile asp thr cys ile ser glu cys ile-282
+UGA GGU UUA CCU UCG UM GGG UUA CUG UCC GGG AAA GUU UUG CAU UUG UUC UAG UGU AUA CCU CCU ACG GGC UUC AUA CM UUC
+950 Mbol
+ACU CCA MU GGA AGC AUU CCC MU GAC MG CCC UUU CM MC GUA MC MG AUC ACA UAU G(A (CA UGC CCC MG UAU GUU MG
+thr pro #pV.g}y.ffj ile pro asn asp lys pro phe gln asn val asn lys ile thr tyr gly ala cys pro lys tyr val lys-310
+GUU UUG UGG GAC UUC MC CGU UGU CCC UAC GCC UUA CAU GGU CUC WUU GUU UGA cU
+CM MC ACC CUG MG UUG GCA ACA GGG AUG CCC MU CUA CCA GAG: AAA CAA ACU AG(A
+gln asn thr leu lys leu ala thr gly met arg asn val pro glu lys gln thr arg
+Figure 2a. For legend see over page.
+2564
+Nucleic Acids Research
+vRNA 3' CCG GAU MG CCG CGU UAU CGU CCA AAG UAU CUU UUA CCA ACC CUC CCU UAC UAU CUG CCA ACC AUG CCA MG UCC GUA
+HaeIIl HhaI 1100
+cBNA 5' MlAA UUC GGC GCA AUA GCA GGU UUC AUA GAA MU GGU UGG GAG GGA AUG AUA GAC GGU UGG UAC GGU UUC AGG CAU
+gly leu phe gly ala ile ala gly phe ile glu asn gly trp glu gly set lie asp gly trp tyr gly phe arg his-26
+GUU UUA AGA CUC CCG UGU CCU GUU CGU CGU CUA GAA UUU UCG UGA GUU CGU CGG UAG CUG GUU UAG UUA CCC UUU MC UUG UCC
+1150 lbol TaqI
+CAA AAU UCU GAG GGC ACA GGA CAA GCA GCA GAU CUU AMA AGC ACU CAA GCA GCC AUC GAC CM AUC AAU GGG MA UUG MC AGG
+gln &sn ser glu gly thr gly gln ala ala asp leu lye ser thr gln ala ala ile asp gln ile asn gly lys leu sen arg-54
+CAU UAG CUC UUC UGC UUG CUC UUU AAG GUA GUU UAG CUU UUC CUU MG AGU CUU CAU CUU CCC UCU UAA GUC CUG GAG CUC UUU
+TaqI MboII 1250 TaqL EcoRI EcoRI AvaII AvaILTaqI
+GUA AUC GAG AAG ACG MC GAG MA UUC CAU CM AUC GM MG GM UUC UCA GM GUA GM GGG AGA AUU CAG GAC CUC GAG MA
+val ile glu lye thr asn glu lys phe his gln ile glu lys glu phe ser glu val glu gly arg lie gln asp leu glu lys-82
+AUG CAA CUU CUG UGA UUU UAU CUA GAG ACC AGA AUG UUA CGC CUC GM GM CAG CGA GAC CUC UUA GUU GUA UGU UM CUG GAC
+KboII KboI 1350 HinfI
+UAC GUU GAA GAC ACU AAA AUA GAU CUC UGG UCU UAC MU GCG GAG CUU COW GUC GCU CUG GAG MU CM CAU ACA AUU GAC CUG
+tyr val glu asp thr lys ile asp leu trp ser tyr asn ala glu len leu val ala leu glu &sn gln his thr ile asp leu-110
+UGA CUG AGC CUU UAC UUG UUC GAC MA CUU UUU UGU UCC UCC GUU GAC UCC CUU UUA CGA CUU CUG UAC CCG UUA CCA ACG MG
+Hinf I 1450 ItboII
+ACU GAC UCG GAA AUG MC MG CUG UUU GM MA ACA AGG AGG CM CUG AGG GM MU GCU GM GAC AUG GGC MU GGU UGC UUC
+thr asp ser glu set asn lys leu phe glu lye thr arg arg gln leu erg glu sen ala glu asp et gly asn gly cys phe-138
+UUU UAU AUG GUG UUU ACA CUG UUG CGA AGC UAU CUC AGU UAG UCU UUA CCC UGA AUA CUG GUA CUA CAI AUG UCU CUG CUU CGU
+1500 HinfI 1550
+AM AUA UAC CAC MA UGU GAC MC GCU UGC AUA GAG UCA AUC AGA MU GGG ACU UAU GAC CAU GAU GUA UAC AGA GAC GM GCA
+lys ile tyr his lys cys asp asn ala cys ile glu ser ile arg ppp. ;y.th tyr asp his asp val tyr arg asp glu ala-166
+MU UUG UUG GCC MA GUC UAG UUU CCA CM CUU GAC WUC AGA CCU AUG UUU CUG ACC UAG GAC ACC UM AGG MA COG UAU AGU
+HpaII MboI 1600 IaHI.MboI 1650
+WA MC AAC CGG UUU CAG AUC MA GGU GUU GM CUG AAM UCU GGA UAC MA GAC UGG AUC CUG UGG AUU UCC UUU GCC AUA UCA
+leu sen am erg ph. gin ile lys gly val glu leu lye ser gly tyr lye asp trp ile leu trp ile er phe ala ile ser-194
+ACG MA MC GM ACA CAU CM MC GAC CCC MG UAG UAC ACC CGG ACG GUC UCU CCG UUG UM UCC ACG WUG UM ACS UM ACU
+HaelIl 1700
+UGC UWU UUG CUU UGU GUA GUU UUG CUG GGG WUC AUC AUG UGG GCC UGC CAG AGA GGC MC AUU AGG UGC MC AUW UGC AUUW@G
+cys phe leu leu cys val val leu leu gly phe ile et trp ala cys gln arg gly asn ile arg cys sen ile cys ile
+CACA1AUGUMUUUU GMCAAAGA1GA
+1750
+MVUUUUlMMAACACCUUGUUUCUACU
+-5'
+-3'
+Fig 2b
+Figure 2. Nucleotide sequence of the HA gene from Hong Kong influenza strain
+29C and the amino acid sequence predicted from it. The RNA sequence ((-)
+strand) is shown from 3' + 5' below it, the complementary (+) strand represent-
+ing the mRNA sequence. Initiation and termination codons are boxed and the
+arginine residue which connects HAl (Fig. 2a) and HA2 (Fig. 2b) is bracketed.
+Possible glycosylation sites in the protein are underlined with dots. The end
+of the clone is indicated by the vertical line to the right of the termination
+codon. Restriction sites in the plasmid DNA are indicated in the equivalent
+position on the mRNA sequence.
+gene copy was sequenced on one DNA strand only. Adjoining sections of sequence
+overlapped by a minimum of 15 nucleotides, except in the region of the Hind III
+site (base 353), where the sequence was confirmed from the viral RNA itself,
+using the chain termination sequencing method (16). A denatured 51-base DNA
+fragment, obtained by digestion of C89 DNA with Hinf I and Ava II, was used as
+2565
+Nucleic Acids Research
+a primer for DNA synthesis (17). A similar technique was used in an attempt to
+obtain the 5' terminal gene sequence, which was not represented in the cloned
+gene (7).
+Figure 2 shows the nucleotide sequence determined for the cloned dsDNA copy of
+the HA gene from strain 29C and the amino acid sequence predicted for its
+protein. The cloned gene copy contains 1739 nucleotides, commencing from the
+3' terminal base of the gene, with the first 12 bases identical to the common
+sequence found at the 3' termini of other influenza genome segments (23,24).
+The cloned sequence extends nine bases beyond a termination codon in the same
+phase as the only reading frame that is continuous for the length of the gene.
+Part of the sequence shown for the 5' terminal region of the gene beyond the
+end of the clone must be regarded as tentative. The sequence shown is iden-
+tical to that obtained from a cloned copy of this section of the HA gene from
+the 29C parent strain, A/NT/60/68 (25). Attempts to determine the sequence in
+this region directly from the 29C viral RNA gave clear results between bases
+1734-1744 and 1752-1763, the latter segment lying within a sequence coummn to
+the 5' termini of all influenza genes so far examined (23,24). This leaves
+in doubt a section of 7 nucleotides, whose sequence appeared to be the same
+as that in A/NT/60/68, but for which unequivocal data could not be obtained
+(data not shown).
+Possible deletion of a base during cloning of a gene copy
+The amino acid sequence data of Ward and Dopheide (14) enabled us to determine
+the correct reading frame for the nucleic acid sequence of the ds DNA copy of
+29C HA. However, reading backwards in this frame towards the N-terminus of
+HAl, our initial sequence for 29C contained an in-phase termination codon at
+bases 95-97 (Fig. 3a) and no in-phase ATG codon. The sequence of both strands
+of the cloned insert agreed in this respect (data not shown). We therefore
+attempted to confirm the sequence of this region directly by using a MboII/
+Hae III fragment (bases 45-76 of the cloned insert) as a primer for cDNA syn-
+thesis, with 29C genome RNA as a template (17). The sequence of the HA gene
+thus derived included an extra A residue at position 107 in the plus strand
+(Fig. 3b) which provided a continuous reading frame back to the ATG codon at
+bases 30-32 and yielded an amino acid sequence compatible with that determined
+for the N-terminus of mature HA from A/Mem/102/72 (26). We also determined the
+nucleotide sequence in this region for C55, another plasmid containing a dsDNA
+copy of the HA gene from 29C, isolated with C89 from the same E.coli RRI trans-
+formation. Unlike C89, this gene insert contained the A/T base pair at pos-
+ition 107 (data not shown).
+2566
+Nucleic Acids Research
+Figure 3. Comparison of (+) strand DNA
+sequences between bases 95-125. (a) A
+Hinf I/Hae III fragment labelled at the
+i Hinf I site was sequenced by the Maxam
+and Gilbert procedure (15). The position
+of the missing base is indicated (<).
+The base marked (-) at position 120 is a
+C residue and is part of an Eco RII
+restriction endonuclease site which is
+methylated when the hybrid plasmid is
+grown in E. coli RRI. (b) 29C genome
+RNA was used as a template for cDNA
+synthesis by reverse transcriptase
+using a MboII/Hae III primer. Sequence
+data was obtained by the "dideoxy" method
+(16). The apparent missing residue in
+the cloned DNA copy of the HA gene (see
+(a)) is indicated (0).
+G A>C CIT C
+125A
+GGG
+G TOe
+GT
+CTG
+AA
+CA CGA
+A
+fE G
+A A
+CA .
+Ar
+AA
+CA
+GT
+95
+I>Roi C G A
+_. _.
+*n ,-REv_. Mo3
+d- ;N s,q,
+...
+,,::. ^_b_::
+......::::Xa.. ,.R_.
+Sw
+.:: *:..,.,':.........gEN*. ...:.....
+*' ::
+:::..:
+_
+0
+(b)
+4,0
+95 T
+G
+C
+A2
+C
+A2
+r
+T
+1 G3
+125 A
+2567
+vlwlw
+(a)
+Nucleic Acids Research
+DISCUSSION
+Apparent deletion of a base from the HA gene copy in plasmid C89. A comparison
+of the nucleotide sequences determined for HA genes (bases 95-125) from the
+(+) strand of the cloned gene copies in C89 and C55 with the sequence obtained
+directly from the genome RNA indicates that at position 107, a residue present
+in the gene is missing in the C89 gene copy. This region of the HA gene can
+be drawn in a hairpin configuration (Fig. 4) with a stability of -4 Kcal (27).
+The presence of multiple bands on the sequencing gel (Fig. 3 b) between
+positions 103 and 111 may indicate that the hairpin structure is sufficiently
+stable to present reverse transcriptase with some difficulty in negotiating
+the 3' proximal side of the base-paired region. We speculate, therefore,
+that the presence of this hairpin may result in incorrect copying of the RNA
+by reverse transcriptase. Both Porter et al. (1),in cloning the FPV HA gene
+and Richards et al.(28), in studying copies of chicken 0-globin mRNA found
+evidence for altered and missing bases in cloned DNA. However, they attrib-
+uted this to repair or incorrect copying of mismatched regions associated
+with the terminal loop priming second strand DNA synthesis.
+While it is possible that the HA gene copy in C89 represents a variant
+gene present in the viral population, such a deletion mutant should be
+extremely rare, since the deletion would result in the premature termination
+of synthesis of the HA protein, and this would be lethal in the next gener-
+ation. Because the reverse transcriptase lacks a 3' exonuclease which could
+edit mistakes, it is possible that errors may occur with low frequency during
+110
+U
+U G
+G---C
+C ---G
+U -- A
+G ---C
+U -- A
+G ---C
+U G
+U G 120
+G A
+100 U C
+I U C
+3 90 G C 130 5
+(-). . .CC U U U AC U UGU AGU. .
+Figure 4. Structure of a hairpin loop which could form in the region of
+bases 100-120 of the gene.
+2568
+Nucleic Acids Research
+the multi-step cloning procedure. Therefore, to guard against such errors
+when studying genes for which no protein sequence data are available, it may
+be necessary to derive nucleotide sequences from more than one cloned gene
+copy.
+Structure of the HA gene from influenza of the Hong Kong subtype. Analyses
+by restriction enzyme mapping (7), nucleotide sequencing of the cloned HA
+gene copy and determination of the terminal sequence of the gene itself,
+revealed a length of 1765 nucleotides for the HA gene from the Hong Kong
+influenza strain 29C. This agrees with our previous estimate (1760 nucleo-
+tides) based on electrophoretic mobility (11) and compares with a length
+of 1742 nucleotides for the HA gene from the avian influenza strain FPV
+(Rostock) (1).
+The arrangement of the HA genes from 29C and FPV are compared in Fig. 5.
+At the 3' end of the negative (genome) strand is a non coding sequence which
+appears to be completely transcribed into cRNA in vitro (23) and in vivo prob-
+ably forms the 5' non-translated region of the mRNA. This section of mRNA
+may be subsequently modified in vivo if host-derived sequences and m G caps
+are attached (29).
+Of the potential initiation codons in the (+) strand, only the one follow-
+ing the first 29 bases is in the correct phase to provide a continuous reading
+frame, which is also the frame prescribed by the known amino acid sequences
+for HA from the Hong Kong strain A/Mem/102/72 (14,26). The next AUG in this
+phase occurs 578 bases into the gene. Commencement of protein synthesis at
+bases 30-32 would produce a very hydrophobic peptide of 16 amino acids preced-
+vRNA 3' 29baoo 48tbas 984 bases 3b 663 bases 35 bases 5
+16 aas 328 aas 1 aas 221 aas
+:connn-
+precursor HAl ecting HA2
+protein z -
+I .
+,peptide jpeptide
+18 aas 319 aas 5aas 221 aas
+VRNA3____ ~A A A A
+vRNA 3'''.
+FPV 21 bases54 baea 967 bases 45bases 663 bases , 29 baaes
+; '~~~~~~UAA,
+Figure 5. Comparison of the HA gene structures for Hong Kong and Fowl Plague
+viruses.
+2569
+Nucleic Acids Research
+ing the glutamine residue (bases 79-81) found to be the N-terminal amino acid
+of the mature HA protein from A/Mem/102/72 (25).
+The major and minor subunits (HAl and HA2 respectively) of the mature HA
+protein appear to be generated by proteolytic cleavage of the primary trans-
+lation product, with the loss of some amino acids connecting the two sections
+(30). Aligning the amino acid sequence found at the end of the HAl and the
+beginning of HA 2 for influenza A/Mem/102/72 (15) with the amino acid sequence
+predicted by the HA gene from 29C, suggests that the connecting peptide con-
+sists of a single arginine residue. The HA subunits of A/Vic/3/75 are also
+linked by one arginine residue (31). In this respect, the.HA of these strains
+resembles the H2-type HA from the Asian influenza strain A/Jap/305/57 (32) but
+differs from the FPV protein, where the HA subunits are connected in the
+immature protein by a basic pentapeptide (1).
+The first in-phase termination codon (Fig. 5) is followed by only a short
+non coding sequence. How much of this sequence is transcribed into mRNA is
+not known, but it has been suggested that the U-rich sequence in the gene in
+this region may signal the end of transcription (1), providing a site for
+addition of poly A to the mRNA. Thus the 3' non-translated region of the
+mRNA following the termination codon could be as short as 14 bases in Hong
+Kong HA and 6 bases in FPV HA.
+The amino acid sequence predicted from nucleotide sequence data for the
+HA gene of influenza A/Vic/3/75 (31) contained an additional asparagine resi-
+due following HAl residue No. 8 (Fig. 2a). However, this additional residue
+may be unique to the particular isolate studied, since it is absent from H3-
+type HAl's in a total of six influenza strains isolated between 1968 and 1977.
+(Both and Sleigh, unpublished results).
+Comparison of nucleic acid sequences of Hong Kong and FPV HA genes. The genes
+from the two subtypes have similar base compositions: for 29C A24%, G 20.5%,
+C23.5%, U 32% and for FPV, A24%, G 18.4%, C 23.8%, U 33.8%. Codon utilisation
+in the Hong Kong HA gene is similar to that for FPV, with some exceptions
+which may reflect the availability of isoacceptor tRNAs in the host, e.g. CUG
+is preferred for leu in the Hong Kong gene while FPV uses AAA for lys in pref-
+erence to AAG (Table 1). The incidence of CpG dinucleotides is low for both
+genes, as noted previously for FPV (1).
+Comparison of amino acid sequences predicted by the two genes. The amino acid
+sequence predicted from the nucleotide sequence for the 29C HA gene (Fig. 2)
+is largely identical to that found for the HA protein from A/Mem/102/72
+(14,26). As for HA molecules from other influenza strains, HAl has a high
+2570
+Nucleic Acids Research
+Table 1: Codon utilization in HA genes from Hong Kong and Fowl
+Plague Influenza Viruses. FPV data is in brackets
+below the corresponding figure for 29C.
+U C A G
+9 6 9 6
+U (14) (4) (7) (7)
+13 4 9 12
+C (12) (4) (8) (9)
+U
+1 10 0 1
+A (6) (13) (1) (0)
+U C A G
+9 6 8 0
+U (9) (3) (7) (1)
+C
+7 2 0 12
+G (9) (1) (0) (8)
+14 16 22 3
+U (15) (13) (23) (11)
+18
+C (9)
+A
+14
+A (16)
+6
+(12)
+13
+(15)
+21
+(14)
+19
+(24)
+14
+(7)
+10
+(14)
+9 4 11 11
+G (11) (1) (7) (8)
+3 4 3
+C (4) (4) (4)
+7 7 16
+A (4) (6) (14)
+16 3 8
+G (8) (3) (11)
+11 10 13
+U (9) (12) (17)
+4 5
+C (6) (3)
+G
+9 11
+A (5) (16)
+20
+(9)
+16
+(28)
+2
+(0)
+1
+(4)
+3
+(3)
+10
+(5)
+7
+(10)
+13
+(20)
+6 2 13 14
+G (10) (1) (10) (15)
+proline content relative to HA2. Also remarkable is the similarity with other
+strains in the number and distribution of cysteine residues in the 29C protein
+(9 in HAl, 8 in HA2) (1,14,30). Only one near the end of HA2 has no counter-
+part in the FPV molecule. If the FPV and Hong Kong HA amino acid sequences
+are aligned for maximum homology using the cysteine residues, seven of the
+ten proline residues in the C-terminal half of the HAl are also conserved bet-
+ween the subtypes. This suggests that the shape of this part of the molecule
+is not permitted to vary extensively.
+Potential sites for carbohydrate attachment (Fig.2), occurring (by
+analogy with HA from the Asian subtype) at sequences of the type Asn-X-Thr
+(30),are not conserved between subtypes. With the cysteine residues aligned,
+the sites at positions 22 and 38 in 29C are equivalent to those at 12 and
+28 in FPV (1).
+With the cysteine residues aligned, there is approximately 38% amino
+acid conservation in HAl between FPV and 29C. In HA2 there is 65% homology,
+but in more than half of the 145 cases where the amino acid is conserved
+a different codon is used; 69 differ by one base, 5 differ by two
+2571
+10 0
+>40 tn
+r ~00 0 w
+1
+0004). N4
+I4-44 I W r4)
+00k
+0da
+4 0
+.0 -AP
+052 0
+4atH)
+.10, 3 .
+U4
+.
+: .0 H o.4)
+! fiv
+m 4 n
+0 0.bn
+, 4J r. Z4 304
+, . H b 00 1
+.19 0f-140- 0 4)i
+* ~~~~~~~904)-00 r-101
+0s 00*140@
+to >
+0 0i
+0O O H AHl
+114 $4
+.0 4) 4-4
+X ~~~~~~4 r. § 4J 4d 0
+*~~~~~~~O-g A 44 d 4J
+i- 1 I-d >
+I-d
+10-$4 la "IA40.
+4)
+. -14O 0 4- 4
+.~~~~~~
+_i a) 0 a
+0W fal
+0 t> HO
+I 6
+* O0 00 01
+0 ,10g 5-4 0
+~-H$4$40.
+|~~~~~~~~~L
+Wo 44 M :
+*o o, 1 UD 0 la r
+. V U S
+*~J4
+dH r- *d
+-r
+R-4 4
+04-P4 0
+r4
+,C M D A id 4
+:~~~~~~r > r-i 0 -
+e~ ~ ~ ~~ ~
+I) ) la ra O
+to
+' r >4
+r- i 4
+*~~~~~~~~~$
+P bP g 1i ra
+l *~~~~~H
+4J 0- %W rO
+2~
+~~~~~4 (a 3: (d
+>
+Nucleic Acids Research
+2572
+Nucleic Acids Research
+Fig. 6b HA2 Amino Acid Number
+and in one case a serine uses an AGC instead of a UCA codon. Some
+areas of HA2 show a particularly high degree of amino acid conservation,
+e.g. the N-terminal region. In addition, in some areas of HA2 where
+the amino acid sequence is different, the character of the protein tends
+to be preserved. Figure 6 shows an analysis of the degree of hydro-
+phobicity of different areas of the HA protein from 29C and FPV. In
+the C-terminal region of HA2, thought to be involved in anchoring
+the HA to the viral lipoprotein membrane (30), both proteins are highly
+hydrophobic in character, even though between residues 199 and 212, only one
+out of 13 amino acids is conserved. This effect extends to other regions of the
+HA as well. For example, the precursor peptides, cleaved from HA during
+maturation, differ in length and sequence among FPV, 29C and viruses from the
+H2 subtype (1, 32, 33); but are all hydrophobic in character. Also notable is
+the area between HAl residues 85 and 240 of 29C for which the hydrophobicity
+profile is broadly similar to the equivalent area in HAl of FPV, although the
+amino acid sequences show only 32% homology. This type of analysis suggests
+that amino acid divergence between HAs from different subtypes may be strictly
+limited in some areas to those changes which do not significantly disturb the
+local environment, while in other areas (e.g. residues 1-100 of HAl) little
+constraint is apparent. As sequence information on HA molecules from further
+influenza subtypes becomes available, it should be possible to identify reg-
+ions of the protein which are essential to maintain HA structure and function.
+In addition, comparison in this way of closely related proteins from viruses
+2573
+Nucleic Acids Research
+of the same subtype may help to identify the amino acid changes which are
+important in altering viral antigenicity.
+ACKNOWLEDGEMENTS
+We wish to thank Dr. Bernie Moss and Dr. Vera Bender for growing and
+purifying the virus, Caroline Bucholtz and Dr. Alex Reisner for constructing
+and adapting computer programmes for sequence storage and comparison and
+Elizabeth Hamilton for competent technical assistance. We are grateful
+to Dr. C. Hannoun of the Pasteur Institute for supplying the strain
+A/NT60/68/29C. We thank Dr. A. Reisner and Dr. G. Grigg for reading the
+manuscript.
+REFERENCES
+1 Porter, A.G., Barber, C., Carey, N.H., Hallewell, R.A., Threlfall, G.,
+and Emtage, J.S. (1979). Nature 282, 471-477.
+2 Palese, P. and Schulman, J.L. (1976). Proc. Natl. Acad. Sci. USA.
+73, 2141-2146.
+3 Ritchey, M.B., Palese, P. and Kilbourne, E.D. (1976). J. Virol. 18
+738-744.
+4 Scholtissek, C., Harms, E., Rhode, W.,. Orlich, M. and Rott, R. (1976).
+Virology 74, 332-344.
+5 Scholtissek, C. (1978). Curr. Top. Microbiol. Immunol. 80, 139-169.
+6 Inglis, S.C., Carroll, A.R., Lamb, R.A. and Mahy, B.W.J. (1976).
+Virology 74, 489-503.
+7 Sleigh, M.J., Both, G.W. and Brownlee, G.G. (1979). Nucl. Acids Res.
+7, 879-893.
+8 Stuart-Harris, C.H. and Schild, G.C. (1976). Influenza. The Viruses
+and the disease. pp 57-68, Edward Arnold, London.
+9 Laver, W.G., Air, G.M., Webster, R.G., Gerhard, W., Ward, C.W. and
+Dopheide, T.A. (1979). Virology 98, 226-237.
+10 Moss, B.A., Underwood, P.A., Bender, V.J. & Whittaker, R.G. (1980). In
+Structure and Variation in Influenza Virus. (W.G. Laver and G. Air, eds.)
+pp. 329-338, Elsevier, New York.
+11 Sleigh, M.J., Both, G.W. & Brownlee, G.G. (1979). Nucl. Acids Res. 6,
+1309-1321.
+12 Fazekas de St. Groth, S. (1967). Cold Spring Harbor Symp. Quant. Biol.
+32, 525-536.
+13 Fazekas de St. Groth, S. & Hannoun, C. (1973). C.R. Acad. Sci. Paris.
+Ser D. 276, 1917-1920.
+14 Ward, C.W. & Dophei"de, T.A. (1979). Brit. Med. Bull. 35, 51-56.
+15 Maxam, A.M. & Gilbert, W. (1977). Proc. Natl, Acad. Sci. USA. 74, 560-564.
+16 Sanger, F., Nicklen, S. & Coulson, A.R. (1977). Proc. Natl. Acad. Sci.
+U.S.A. 74, 5463-5467.
+17 Both, G.W., Sleigh, M.J., Bender, V.J., Moss, B.A. (1980). In Structure
+and Variation in Influenza Virus. (W.G. Laver and G. Air, Eds.) pp. 81-90
+Elsevier, New York.
+18 Staden, R. (1977). Nucl. Acids Res. 4, 4037-4051.
+19 Staden, R. (1979). Nucl. Acids Res. 6, 2601-2610.
+20 Tanford, C. (1962). J.Am. Chem. Soc. 84, 4240-4247.
+21 Nozaki, Y. & Tanford, C. (1970). J. Biol. Chem. 246, 2211-2217.
+2574
+Nucleic Acids Research
+22 Bigelow, C.C. (1967). J. Theoret. Biol. 16, 187-211.
+23 Skehel, J.J. & Hay, A.J. (1978). Nucl. Acids Res. 5, 1207-1219.
+24 Robertson, J.S. (1979). Nucl. Acids Res. 6, 3745-3757.
+25 Sleigh, M.J., Both, G.W., Brownlee, G.G., Bender, V.J. & Moss, B.A.
+(1980). In Structure and Variation in Influenza Virus. (W.G. Laver
+and G. Air, eds). pp. 69-80, Elsevier, New York.
+26 Ward, C.W. & Dopheide, T.A. (1980). Virology. In Press.
+27 Tinoco, I., jun., Borer, P.N., Dengler, B., Levine, M.D., UhlenbecK,
+O.C., Crothers, D.M. & Gralla, J. (1973). Nature New Biol. 246, 40-41.
+28 Richards, R.I., Shine, J., Ullrich, A., Wells, J.R. & Goodman, H.M. (1979)
+Nucl. Acids Res. 7, 1137-1146.
+29 Krug, R.M., Broni, B.A. & Bouloy, M. (1979). Cell 18, 329-334.
+30 Waterfield, M.D., Espelie, K., Elder, K. and Skehel, J.J. (1979).
+Brit. Med. Bull. 35, 57-63.
+31 Min-Jou, W., Verhoeyen, M., Devos, R., Saman, E., Huylebroeck, D.,
+van Rompuy, L., Fang, R.X. & Fiers, W. (1980). In Structure and
+Variation in Influenza Virus (W.G. Laver and G. Air, eds) pp. 63-68,
+Elsevier, New York.
+32 Gething, M.J., Bye, J., Skehel, J.J. and Waterfield, M.D. (1980). In
+Structure and Variation in Influenza Virus (W.G. Laver and G. Air,
+eds) pp. 1-10, Elsevier, New York.
+33 Air, G.M. (1979). Virology 97, 468-472.
+2575
+

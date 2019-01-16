@@ -1,0 +1,168 @@
+T52	Location 1514 1518	Asia
+#52	AnnotatorNotes T52	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T53	Location 1520 1526	Europe
+#53	AnnotatorNotes T53	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T54	Location 1532 1538	Africa
+#54	AnnotatorNotes T54	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T58	Location 1627 1633	Africa
+#58	AnnotatorNotes T58	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T59	Location 1791 1798	Nigeria
+#59	AnnotatorNotes T59	<latlng>10,8</latlng><geoID>2328926</geoID>
+T75	Location 5162 5174	South Africa
+#75	AnnotatorNotes T75	<latlng>-29,24</latlng><geoID>953987</geoID>
+T77	Location 5577 5581	Asia
+#77	AnnotatorNotes T77	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T78	Location 5584 5590	Europe
+#78	AnnotatorNotes T78	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T79	Location 5595 5601	Africa
+#79	AnnotatorNotes T79	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T81	Location 5974 5985	Middle East
+#81	AnnotatorNotes T81	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T82	Location 5990 5996	Africa
+#82	AnnotatorNotes T82	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T83	Location 6546 6553	Nigeria
+#83	AnnotatorNotes T83	<latlng>10,8</latlng><geoID>2328926</geoID>
+T84	Location 6688 6695	Nigeria
+#84	AnnotatorNotes T84	<latlng>10,8</latlng><geoID>2328926</geoID>
+T87	Location 7258 7265	Nigeria
+#87	AnnotatorNotes T87	<latlng>10,8</latlng><geoID>2328926</geoID>
+T88	Location 7267 7279	Jigawa State
+#88	AnnotatorNotes T88	<latlng>12.1,9.56</latlng><pop>4988888</pop><geoID>2565345</geoID>
+T90	Location 8256 8260	Asia
+#90	AnnotatorNotes T90	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T91	Location 8262 8268	Europe
+#91	AnnotatorNotes T91	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T92	Location 8274 8280	Africa
+#92	AnnotatorNotes T92	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T93	Location 8419 8425	Africa
+#93	AnnotatorNotes T93	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T94	Location 8782 8789	Nigeria
+#94	AnnotatorNotes T94	<latlng>10,8</latlng><geoID>2328926</geoID>
+T96	Location 9298 9305	Nigeria
+#96	AnnotatorNotes T96	<latlng>10,8</latlng><geoID>2328926</geoID>
+T98	Location 9330 9334	Chad
+#98	AnnotatorNotes T98	<latlng>15,19</latlng><geoID>2434508</geoID>
+T101	Location 10563 10570	Nigeria
+#101	AnnotatorNotes T101	<latlng>10,8</latlng><geoID>2328926</geoID>
+T102	Location 10618 10624	Africa
+#102	AnnotatorNotes T102	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T105	Location 11111 11119;11120 11126	Central Europe
+#105	AnnotatorNotes T105	<latlng>48.69096,9.14062</latlng><geoID>NA</geoID>
+T106	Location 11159 11171	South Africa
+#106	AnnotatorNotes T106	<latlng>-29,24</latlng><geoID>953987</geoID>
+T118	Location 12057 12069	South Africa
+#118	AnnotatorNotes T118	<latlng>-29,24</latlng><geoID>953987</geoID>
+T126	Location 12615 12627	South Africa
+#126	AnnotatorNotes T126	<latlng>-29,24</latlng><geoID>953987</geoID>
+T129	Location 12762 12771	East Asia
+#129	AnnotatorNotes T129	<latlng>32.24997, 114.60938</latlng><pop>1575784500</pop><geoID>7729894</geoID>
+T133	Location 13260 13267	Nigeria
+#133	AnnotatorNotes T133	<latlng>10,8</latlng><geoID>2328926</geoID>
+T150	Location 14609 14615	Africa
+#150	AnnotatorNotes T150	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T161	Location 16460 16464	Chad
+#161	AnnotatorNotes T161	<latlng>15,19</latlng><geoID>2434508</geoID>
+T163	Location 17279 17286	Nigeria
+#163	AnnotatorNotes T163	<latlng>10,8</latlng><geoID>2328926</geoID>
+T165	Location 18096 18108	South Africa
+#165	AnnotatorNotes T165	<latlng>-29,24</latlng><geoID>953987</geoID>
+T167	Location 18279 18285	Africa
+#167	AnnotatorNotes T167	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T180	Location 22151 22155	Asia
+#180	AnnotatorNotes T180	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T181	Location 22157 22163	Europe
+#181	AnnotatorNotes T181	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T182	Location 22169 22175	Africa
+#182	AnnotatorNotes T182	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T184	Location 22613 22617	Asia
+#184	AnnotatorNotes T184	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T185	Location 22619 22625	Europe
+#185	AnnotatorNotes T185	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T186	Location 22630 22636	Africa
+#186	AnnotatorNotes T186	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T188	Location 22954 22959	Italy
+#188	AnnotatorNotes T188	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T191	Location 23332 23341	Hong Kong
+#191	AnnotatorNotes T191	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID>
+T192	Location 25054 25066	South Africa
+#192	AnnotatorNotes T192	<latlng>-29,24</latlng><geoID>953987</geoID>
+T195	Location 27018 27025	Nigeria
+#195	AnnotatorNotes T195	<latlng>10,8</latlng><geoID>2328926</geoID>
+T196	Location 27119 27123	Asia
+#196	AnnotatorNotes T196	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T197	Location 27125 27131	Europe
+#197	AnnotatorNotes T197	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T198	Location 27135 27141	Africa
+#198	AnnotatorNotes T198	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T201	Location 27216 27230	Central Europe
+#201	AnnotatorNotes T201	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T203	Location 27630 27639;27640 27646	Southern Africa
+#203	AnnotatorNotes T203	<latlng>-27.11781, 22.28027</latlng><pop>57000000</pop><geoID>9406051</geoID>
+T204	Location 27704 27711	Nigeria
+#204	AnnotatorNotes T204	<latlng>10,8</latlng><geoID>2328926</geoID>
+T205	Location 27768 27774	Africa
+#205	AnnotatorNotes T205	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T206	Location 27915 27920	Sahel
+#206	AnnotatorNotes T206	<latlng>17.30869,2.46094</latlng><pop>389380000</pop><geoID>2425938</geoID>
+T208	Location 29088 29094	Europe
+#208	AnnotatorNotes T208	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T209	Location 29099 29105	Africa
+#209	AnnotatorNotes T209	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T210	Location 29531 29538	Nigeria
+#210	AnnotatorNotes T210	<latlng>10,8</latlng><geoID>2328926</geoID>
+T211	Location 29960 29967	Nigeria
+#211	AnnotatorNotes T211	<latlng>10,8</latlng><geoID>2328926</geoID>
+T212	Location 30217 30224	Nigeria
+#212	AnnotatorNotes T212	<latlng>10,8</latlng><geoID>2328926</geoID>
+T215	Location 32631 32642	Montpellier
+#215	AnnotatorNotes T215	<latlng>43.66667,3.83333</latlng><pop>661123</pop><geoID>2992165</geoID>
+T216	Location 32645 32651	France
+#216	AnnotatorNotes T216	<latlng>46,2</latlng><geoID>3017382</geoID>
+T220	Location 33274 33280	Padova
+#220	AnnotatorNotes T220	<latlng>45.35,11.81667</latlng><pop>927730</pop><geoID>3171727</geoID>
+T221	Location 33282 33287	Italy
+#221	AnnotatorNotes T221	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T224	Location 34525 34529	Ohio
+#224	AnnotatorNotes T224	<latlng>40.25034,-83.00018</latlng><pop>11467123</pop><geoID>5165418</geoID>
+T225	Location 34532 34535	USA
+#225	AnnotatorNotes T225	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T229	Location 35299 35306	Nigeria
+#229	AnnotatorNotes T229	<latlng>10,8</latlng><geoID>2328926</geoID>
+T232	Location 35371 35377	France
+#232	AnnotatorNotes T232	<latlng>46,2</latlng><geoID>3017382</geoID>
+T234	Location 35641 35649	Toulouse
+#234	AnnotatorNotes T234	<latlng>43.58333,1.5</latlng><pop>972098</pop><geoID>2972314</geoID>
+T235	Location 35652 35658	France
+#235	AnnotatorNotes T235	<latlng>46,2</latlng><geoID>3017382</geoID>
+T5	Location 1589 1603	Eastern Europe
+#5	AnnotatorNotes T5	<latlng>51.72703,28.38867</latlng><pop>294600000</pop><geoID>7729884</geoID>
+T6	Location 1609 1616;1617 1621	Middle East
+#6	AnnotatorNotes T6	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T7	Location 5954 5968	Eastern Europe
+#7	AnnotatorNotes T7	<latlng>51.72703,28.38867</latlng><pop>294600000</pop><geoID>7729884</geoID>
+T8	Location 7222 7244	Hadejia-Nguru Wetlands
+#8	AnnotatorNotes T8	<latlng>12.65000,10.5917</latlng><geoID>NA</geoID>
+T9	Location 9261 9270;9271 9285	Hadejia-Nguru Wetlands
+#9	AnnotatorNotes T9	<latlng>12.65000,10.5917</latlng><geoID>NA</geoID>
+T10	Location 9309 9318	Lake Chad
+#10	AnnotatorNotes T10	<latlng>13.32851,14.12174</latlng><pop>0</pop><geoID>2346202</geoID>
+T11	Location 11827 11842	Southern Europe
+#11	AnnotatorNotes T11	<latlng>41.34382, -3.33984</latlng><pop>153506431</pop><geoID>9408658</geoID>
+T12	Location 12542 12557	Southern Europe
+#12	AnnotatorNotes T12	<latlng>41.34382, -3.33984</latlng><pop>153506431</pop><geoID>9408658</geoID>
+T13	Location 16639 16648	Lake Chad
+#13	AnnotatorNotes T13	<latlng>13.32851,14.12174</latlng><pop>0</pop><geoID>2346202</geoID>
+T14	Location 17583 17597;17598 17606	Hadejia-Nguru Wetlands
+#14	AnnotatorNotes T14	<latlng>12.65000,10.5917</latlng><geoID>NA</geoID>
+T1	Protein 101 108	Nicolas
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 1229 1236	Nigeria
+#2	AnnotatorNotes T2	END
+T3	Protein 2834 2842	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 4276 4277	.
+#4	AnnotatorNotes T4	END
+T15	Protein 35883 35898	Acknowledgments
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 47059 47067	e1000127
+#16	AnnotatorNotes T16	END

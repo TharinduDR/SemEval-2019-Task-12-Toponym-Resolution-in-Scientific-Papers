@@ -1,0 +1,771 @@
+1
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+www.nature.com/scientificreports
+Advanced uracil DNA glycosylase-
+supplemented real-time reverse
+transcription loop-mediated
+isothermal amplification (UDG-rRT-
+LAMP) method for universal and
+specific detection ofTembusu virus
+Yi Tang, Hao Chen &Youxiang Diao
+Tembusu virus (TMUV) is a mosquito-borne flavivirus which threatens both poultry production and
+public health. In this study we developed a complete open reading frame alignment-based rRT-LAMP
+method for the universal detection ofTUMV.To prevent false-positive results, the reaction was
+supplemented with uracil DNA glycosylase (UDG) to eliminate carryover contamination.The detection
+limit of the newly developed UDG-rRT-LAMP forTMUV was as low as 100 copies/reaction of viral RNA
+and 1 × 100.89
+ − 1 × 101.55
+tissue culture infectious dose/100 μL of viruses.There were no cross-reactions
+with other viruses, and the reproducibility of the assay was confirmed by intra- and inter-assay tests
+with variability ranging from 0.22–3.33%.The new UDG-rRT-LAMP method forTMUV produced the
+same results as viral isolation combined with RT-PCR as the “gold standard” in 96.88% of cases for 81
+clinical samples from subjects with suspectedTMUV infection.The addition of UDG can eliminate as
+much as 1 × 10−16
+ g/reaction of contaminants, which can significantly reduce the likelihood of false-
+positive results during the rRT-LAMP reaction.Our result indicated that our UDG-rRT-LAMP is a rapid,
+sensitive, specific, and reliable method that can effectively prevent carryover contamination in the
+detection ofTMUV.
+Tembusu virus (TUMV) belongs to the Ntaya virus group in the genus Flavivirus and family Flaviviridae1
+. The
+TMUV particle is approximately 50–60 nm in diameter and a positive-sense, single-stranded RNA genome is
+packaged by the capsid protein into a nucleocapsid surrounded by a lipid envelope from host cells2,3
+. The 5′​
+capped TMUV genome is approximately 11 kb in length and has one open reading frame (ORF) encoding a
+single 3410-amino acid residue polyprotein. ORF is flanked by approximately 145- nucleotide (nt) 5′​and 618-nt
+3′​non-translated regions4,5
+. The N-terminus of the genome encodes three structural proteins, namely capsid,
+envelope (E), and precursor of membrane. Seven non-structural (NS) proteins, NS1, NS2A, NS2B, NS3, NS4A,
+NS4B, and NS54
+, which are essential for viral replication, are encoded by the remainder of the genome6
+. Among
+these proteins, NS5 is the largest and most conserved protein and it plays essential roles in viral genome capping
+and replication processes through its N-terminal methyltransferase domain and C-terminal RNA-dependent
+RNA polymerase (RdRP) domain, respectively. NS5 has been popular for the universal detection of many other
+flaviviruses7,8
+.
+TMUV was first reported and named during an arbovirus surveillance study in the 1970s in Malaysia, and
+the main virus vector was found to be Culex mosquitoes9
+. Humans and birds were considered to be infrequently
+infected with TMUV at that time10
+. Subsequently, a TMUV strain (designated as Sitiawan virus) was isolated
+from sick broiler chicks in chicken embryos, and it was found to cause encephalitis, growth retardation, and
+College of Animal Science and Veterinary Medicine, Shandong Agricultural University, #61 Dai Zong Avenue
+Tai’an, Shandong 271018, China. Correspondence and requests for materials should be addressed toY.D. (email:
+yxdiao@126.com)
+received: 07 March 2016
+accepted: 17 May 2016
+Published: 07 June 2016
+OPEN
+www.nature.com/scientificreports/
+2
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+increased blood glucose levels in infected chickens11
+. Since 2010, a highly contagious disease has spread through-
+out most breeder, layer, and meat-type duck farms in China, causing significant economic losses in the Chinese
+duck industry2
+. In addition to ducks, TMUVs are commonly detected in other domestic and wild avian species
+including geese12
+, layer chicken13
+, pigeons14
+, and house sparrows3
+. TMUV-infected birds exhibit various disease
+conditions as documented in the literature; in particular, high fever, loss of appetite, severe reduction in egg
+production, and/or severe neurologic disorders were commonly observed in TMUV-affected flocks1
+. Our pre-
+vious study indicated that TMUV-specific antibodies and viral RNA could be detected in duck farm workers
+in China during the disease outbreak in ducks15
+. Although TMUV has not been reported to cause illness in
+humans, TMUV still has a high potential to evolve into a zoonotic pathogen that threatens public health as a
+mosquito-borne flavivirus. Therefore, a rapid and accurate method for diagnosing TMUV infections is important
+for disease control measures.
+In general, TMUV is isolated using embryonated duck/chicken eggs4,16
+, primary duck/chicken embryo cell
+cultures2,17
+, mammalian cell lines, and mosquito cell lines18
+for initial virology diagnosis purposes. Serological
+methods of virus neutralization19
+, ELISA20–22
+, and fluorescent antibody23
+tests are also commonly used for the
+detection of TMUV antigens or specific antibodies. These TMUV routine virology and serology tests are useful,
+but they are time-consuming and have low-sensitivity issues. The nucleic acid amplification tests of conventional
+RT-PCR (cRT-PCR)1,11
+, nested RT-PCR, and semi-nested RT-PCR24
+for specific TMUV genes have been effec-
+tively used for the rapid diagnosis of TMUV infection since their development during the TMUV-related disease
+outbreak in the late 1990s and in recent years. Furthermore, SYBR® Green and TaqMan® real-time RT-PCR
+(rRT-PCR)25,26
+and reverse-transcription loop-mediated isothermal amplification (RT-LAMP)27,28
+targeting spe-
+cific TMUV genes were reported for more rapid and sensitive detection of TMUV infections. The advantages
+of RT-LAMP assays for TMUV detection in field situations or poorly equipped laboratories were previously
+reported by our group and other groups24,29
+. However, there were two main limitations of the application of
+RT-LAMP for TMUV detection: i) most of these developed RT-LAMP assays were based on the sequences of
+historical TMUV strains, and thus, they were limited to TMUV reference strains of similar origin (duck, goose,
+or chicken), making them unsuitable for detecting divergent TMUV strains from various hosts or genotyping
+groups; and ii) the high sensitivity of RT-LAMP assays can easily lead to false-positive results due to carryover
+contamination caused particularly by aerosol droplets generated during the assay process30
+. Fortunately, carry-
+over contamination in the nucleotide amplification reaction could be eliminated using uracil DNA glycosylase
+(UDG) to process the dUTP-incorporated amplicons31–33
+. However, there is no report describing the integration
+of RNA template-based RT-LAMP amplification with UDG digestion in a one-pot reaction to eliminate carryover
+contaminants. Therefore, the objective of this study was to develop a carryover contamination-free rRT-LAMP
+assay for the rapid and universal detection of various TMUV strains.
+Results
+The rRT-LAMP primer set for the universal detection of TMUVs.  The current UDG-rRT-LAMP
+assay was designed to detect all TUMV genotype groups/sub-groups. We identified a conserved region among all
+representatives from different TMUV genotypes corresponding to the 3′​end of the NS5 gene using the mVISTA
+method (Fig. 1A). This conserved region was located in the RdRP domain from genome position 9,793 to 10,003
+Figure 1.  Complete open reading frame (ORF) and NS5 gene conserved region alignments of different
+Tembusu virus (TMUV) strains using the mVISTA method (A) and ClustalW method (B). (A,B) Illustrate the
+alignment results of the YY5 strain in comparisons with 12 TMUV reference strains (CJD05, FJMH220, GS-PT-7,
+JS2010, LD2010, XHZD2010, JM, SDXT, JX2, AHQY, DF-2, and CQW1) retrieved from GenBank (accession
+number is presented after the strain name). Areas in pink (A) exhibit ≥​
+99% similarity and areas in white display
+<​
+99% similarity. Areas in dark blue (A) denote the region for LAMP primer design. Areas in light blue color
+(B) represent single nucleotide differences. Six primers targeting various regions are shown according to the
+alignment result.
+www.nature.com/scientificreports/
+3
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+(numbering corresponds to the complete genome of strain YY5, GenBank accession No. JF270480) (Fig. 1A).
+The 210-bp conserved region alignment of different TMUV strains was conducted using the ClustalW method
+(Fig. 1B), resulting in an overall alignment score exceeding 99%. Based on the complete ORF and NS5 conserved
+region alignment results, four primers targeting six different regions in the NS5 gene RdRP domain (Table 1) were
+designed, and the six primer-targeted regions were 100% conserved among different TMUV reference strains
+(Fig. 1B).
+UDG-rRT-LAMP reaction.  The developed UDG-rRT-LAMP is a one-pot, two-step assay for the specific
+detection of TMUV and elimination of carryover contamination. Compared with the RT-LAMP assay, our devel-
+oped assay was supplemented with dUTP, which can incorporate dUTP into all RT-LAMP amplicons after ampli-
+fying the target RNA sequence under certain conditions (Table 2). Such processing was considered the first step
+for carryover contamination elimination (Fig. 2A). To digest the dUTP incorporated RT-LAMP products, UDG
+treatment was performed before isothermal amplification in step 2 (Fig. 2B), whereas the template RNA and
+carryover contamination of non-dUTP incorporated RT-LAMP amplicons could not be digested under this step
+(Fig. 2B).
+Sensitivity and specificity.  The sensitivity of the UDG-rRT-LAMP assay was studied by testing each of the
+10-fold serial dilutions of the transcribed NS5 RdRP domain RNA of the TMUV-SD2010 strain and extracted
+RNA from 10-fold serial dilutions of titrated TMUV viruses. As a result, the UDG-rRT-LAMP assay for the
+Assay Oligo Sequence (5′–3′)
+Length
+(bp)
+Positions
+(Genome)2
+rRT-LAMP
+for NS5 gene1
+F3 primer CCACGAGCTGCAAATGAAAG 20 9,808–9,827
+B3 primer GGCGTTTGCCATTAGTCTGA 20 9,984–1,0003
+FIP primer AGACCCTGGAGAGAGCCTGG- 40 9,882–9,901
+(F2 +​ F1c) TTGTGGTTCCATGTCGAGAC 9840–9,859
+BIP primer ACAGAAACAGCATGCCTGAGCA- 42 9,914–9,935
+(B2 +​ B1c) GTCCCTCCTGTGGAAGTACA 9,963–9,982
+cRT-PCR for
+NS5 gene3
+FU1b TACAACATGATGGGVAARAGWGARAA 26 9,014–9,039
+cFD3b ARCATGTCTTCYGTBGTCATCCA 23 10,076–10,098
+Table 1.  Tembusu virus (TMUV) real-time RT-LAMP (rRT-LAMP) primers and conventional RT-PCR
+(cRT-PCR) for the NS5 gene used in this study. 1
+The rRT-LAMP for the NS5 gene primers and probe were
+newly designed in this study. 2
+Number correspond to the first nucleotide position in the genome of TMUV
+YY5 strain (Genbank accession number: JF270480). 3
+The cRT-PCR for the NS5 gene primers were originally
+designed by Kuno35
+.
+Component
+Final
+Concentration Stock Concentration Volume
+Tris-HCl 20 mM
+10×​reaction buffer 2 μ​L
+(NH4)2SO4 10 mM
+KCl 50 mM
+MgSO4 2 mM
+Tween-20 0.1%
+MgSO4 6 mM 100 mM 1.2 μ​L
+dNTP 1.4 mM 10 mM 2.8 μ​L
+dUTP 1.4 mM 100 mM 0.28 μ​L
+FIP 1.6 μ​M
+10×​primer mixture 2 μ​L
+BIP 1.6 μ​M
+F3 0.2 μ​M
+B3 0.2 μ​M
+Bst2.0 0.32U/μ​L 8U/μ​L 0.8 μ​L
+EvaGreen dye 1×​ 20×​ 1 μ​L
+MuLV 20U/μ​L 200U/μ​L 1 μ​L
+Cod-UDG 0.01U/μ​L 1U/μ​L 0.2 μ​L
+H2O 6.72
+RNA sample 2 μ​L
+Total volume 20 μL
+Table 2.  Tembusu virus (TMUV) uracil-DNA-glycosylase real-time RT-LAMP (UDG-rRT-LAMP)
+reaction components.
+www.nature.com/scientificreports/
+4
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+universal detection of TMUVs detected a minimal of 100 copies of transcribed NS5 gene RNA per reaction
+(Fig. 3A) and 1 ×​ 100.89
+ −​ 1 ×​ 101.55
+TCID50 of different Shandong TUMV field variant strains from different hosts
+(Table 3). The detection limit of the cRT-PCR for TMUV was determined on the same viral RNA samples in
+UDG-rRT-LAMP tests for comparison between the two assays. The detection limits of cRT-PCR were 1 ×​ 102.17
+ −​
+1 ×​ 104.55
+TCID50, indicating that the assay was 10–1000-fold less sensitive than UDG-rRT-LAMP. In addition,
+triplicate sensitivity tests of UDG-rRT-LAMP were performed, and the average Tt values of different dilutions
+were used to generate the standard curve plots (Fig. 3C). An extremely close linear correlation was observed
+between the Log of the NS5 gene copy numbers and the Tt values (R2
+ =​ 0.998), with a regression line revealing an
+average intercept of 50.46 ±​ 0.32 and an average slope of −​4.23 ±​ 0.06.
+To determine the specificity of UDG-rRT-LAMP in detecting TMUV, six other avian pathogens and negative
+control samples (allantoic fluid from SPF duck embryo) were included in specificity tests. No amplification signal
+was observed with avian influenza virus (AIV) subtypes H5N1 and H9N2, Newcastle disease virus (NDV), avian
+orthoreovirus (ARV), duck circovirus (DuCV), duck hepatitis A virus (DHAV), or the negative control (Fig. 3B,
+upper), or the negative control (Fig. 3B, upper). To further confirm the developed assay have no cross-reactions
+with non-TMUV flaviviruses, the synthesized last 1500 bp NS5 gene of Bagaza virus (BAGV), Israel turkey
+meningoencephalomyelitis virus (ITV), Japanese encephalitis virus (JEV), West Nile virus (WNV), tick-borne
+encephalitis virus (TBEV), and yellow fever virus (YFV) in pUC57 vector were also included in specificity test
+and no amplification signal was observed with these simulated viral nucleic acid samples (Fig. 3B, lower). Above
+results indicated that the developed UDG-rRT-LAMP assay has high specificity.
+Reproducibility.  To evaluate the reproducibility of the developed UDG-rRT-LAMP method, samples
+containing concentrations of transcribed NS5 gene RNA of the TMUV-SD2010 strain ranging from 0.5 ×​ 102
+to 0.5 ×​ 107 
+copies/μ​
+L were tested in replicates of three in the same run (intra-assay) and individually in three
+Figure 2.  Schematic diagram showing the mechanism of the uracil DNA glycosylase-supplemented real-
+time reverse-transcription loop-mediated isothermal amplification (UDG-rRT-LAMP) assay. Blue LAMP
+amplicons represent non-dUTP-incorporated DNA and yellow LAMP amplicons represent dUTP-incorporated
+DNA. The red enzyme represents Bst 2.0 WarmStart®DNA polymerase and the blue enzyme represents UDG.
+UDG-rRT-LAMP eliminates carryover contamination via two steps. (A) The first step of the incorporation of
+dUTP in all LAMP amplicons. (B) The second step of UDG-based elimination of carryover contaminants by
+specifically cutting the LAMP amplicon DNA at the 5′​side of the dUTP-incorporated templates from previous
+LAMP reactions while having no effect on non-dUTP-incorporated DNA and RNA templates. During the
+RT-LAMP reaction, the digested contaminants are degraded into small fragments, and UDG is inactivated at
+approximately 63 °C, ensuring that only the RNA template is amplified.
+www.nature.com/scientificreports/
+5
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+Figure 3.  Sensitivity, specificity, and standard curve of the uracil DNA glycosylase-supplemented real-time
+reverse-transcription loop-mediated isothermal amplification (UDG-rRT-LAMP) assay. (A) Sensitivity
+test result of UDG-rRT-LAMP using 10-fold serial dilutions of in vitro-transcribed NS5 RdRP domain RNA
+(concentration diluted from 0.5 ×​ 107
+to 0.5 ×​ 100 
+copies/μ​
+L) as determined using amplification plots (left),
+EvaGreen®fluorescent dye (middle), and agarose gel electrophoresis (right). (B) upper: Specificity test result
+of UDG-rRT-LAMP using different avian pathogens as determined using amplification plots (left), EvaGreen®
+fluorescent dye (middle), and agarose gel electrophoresis (right); lower: Specificity test result of UDG-
+rRT-LAMP using partial NS5 genes of different flaviviruses as determined using amplification plots (left),
+EvaGreen®​fluorescent dye (middle), and agarose gel electrophoresis (right). (C) Standard curves showing
+amplification of successive 10-fold dilutions of in vitro-transcribed NS5 RdRP domain RNA (from 0.5 ×​ 107
+to 0.5 ×​ 102 
+copies/μ​
+L). The Tt values in the plot were the means of three independent experiments. Error bars
+indicate standard deviation.
+www.nature.com/scientificreports/
+6
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+independent runs (inter-assay) (Table 4). In both intra- and inter-assay analyses, all of the samples yielded a
+positive result, and the proportion of each dilution yielding a positive result was 1.00. All triplicate amplifications
+of each dilution resulted in minor differences in Tt values but the standard deviation did not exceed 0.80 for any
+replicate. The coefficients of variation for the Tt values determined for each viral RNA concentration varied from
+0.22 to 1.08% in the intra-assay analysis and from 1.06 to 3.33% in the inter-assay analysis (Table 4).
+rRT-LAMP and UDG-rRT-LAMP detect simulated carryover contamination.  To confirm that
+simulated carryover contamination from dUTP-incorporated RT-LAMP amplicons is sufficient to contaminate
+new reactions, we compared the detection limits of the rRT-LAMP and UDG-rRT-LAMP methods using serial
+diluted rRT-LAMP amplicons with concentrations ranging from 0.5 ×​ 10−19
+to 0.5 ×​ 10−14 
+g/μ​
+L. In the absence
+of UDG treatment, rRT-LAMP can detect as little as 1 ×​ 10−18 
+g of simulated carryover contamination per reac-
+tion (Fig. 4A), which is equivalent to an aerosol droplet diameter size of approximately 0.124 μ​
+m. This result
+indicated that even at extremely low concentrations or small particle sizes, carryover contamination can cause
+false positive results. With UDG treatment, the UDG-rRT-LAMP assay could only detect 1 ×​ 10−15 
+g or more
+of simulated carryover contamination per reaction (Fig. 4B), equivalent to an aerosol droplet diameter size of
+approximately 1.241 μ​
+m. These results demonstrated that UDG prevented the amplification of up to 1000-fold
+higher concentrations of carryover contaminant DNA and 1000-fold smaller sizes of aerosol droplets generated
+by UDG-rRT-LAMP products which significantly reduce the likelihood of false-positive results of TMUV diag-
+nosis. A UDG concentration of 0.01 U/μ​
+L in the UDG-rRT-LAMP reaction mixture is sufficient to eliminate as
+much as 1 ×​ 10−16 
+g of dUTP-incorporated carryover contamination per reaction.
+UDG-rRT-LAMP can avoid false-positive results.  To confirm that UDG-rRT-LAMP can reduce the
+likelihood of false-positive results due to carryover contaminants, we performed sensitivity testing of rRT-LAMP
+and UDG-rRT-LAMP reactions with 10-fold serial dilutions of the transcribed NS5 gene and added 1 ×​ 10−18 
+g
+of simulated carryover contamination to each reaction tube. Without UDG treatment, we could not determine
+the detection limit of the assay, and all tested samples displayed positive results (Tt value of 30.8–37.4), includ-
+ing samples with undetectable levels of viral RNA (less than 0.5 ×​ 102 
+copies/μ​
+L) (Fig. 4C). These results were
+considered false positive. With UDG treatment, the detection limit of the rRT-LAMP assay (0.5 ×​ 102 
+copies/μ​L)
+(Fig. 4D) was consistent with the aforementioned sensitivity study. Such results were considered positive. From
+these data, the developed UDG-rRT-LAMP assay could successfully eliminate carryover contamination.
+UDG-rRT-LAMP detectsTMUV in clinical samples.  To assess whether the developed TMUV UDG-rRT-
+LAMP assay allows the detection of viral RNA in clinical samples, a total of 81 samples were analyzed by
+UDG-rRT-LAMP and VI combined with NS5 gene-based cRT-PCR. Of these, 62 samples were positive accord-
+ing to both UDG-rRT-LAMP and VI, 17 samples were negative according to both assays, 2 samples were
+TMUV field strain Host
+Isolated
+Year Virus titer1
+Detection titer limit
+UDG-rRT-LAMP cRT-PCR
+TMUV-SD2010 Duck 2010 106.89
+100.89
+103.89
+TMUV-SDXT Duck 2011 106.12
+101.12
+103.12
+TMUV-SDLZ Duckling 2011 106.55
+101.55
+104.55
+TMUV-SDZC-1 Goose 2011 107.32
+101.32
+103.32
+TMUV-SDHS Sparrow 2012 105.33
+101.33
+103.33
+TMUV-SDMS Mosquito 2012 105.17
+101.17
+102.17
+Table 3.  Detection limitations for Tembusu virus (TMUV) uracil-DNA-glycosylase real-time RT-LAMP
+(UDG-rRT-LAMP) compared with conventional RT-PCR (cRT-PCR). 1
+The virus titer was measured in tissue
+culture infections dose 50% per 100 μ​L (TCID50/100 μ​L).
+RNA transcripts
+(RNA copy
+numbers)
+Intra-assay variability
+(n = 3) of CT-value
+Inter-assay variability
+(n = 3) of CT-value
+Mean SD
+CV
+(%) Mean SD
+CV
+(%)
+107
+20.42 0.15 0.74 21.37 0.71 3.33
+106
+25.25 0.27 1.08 26.10 0.49 1.86
+105
+29.24 0.11 0.37 30.07 0.69 2.29
+104
+33.47 0.19 0.56 33.85 0.54 1.59
+103
+38.53 0.09 0.22 38.05 0.40 1.06
+102
+41.57 0.11 0.26 42.14 0.56 1.32
+Table 4.  Intra- and inter-assay variability of Tt values from Tembusu virus (TMUV) uracil-DNA-
+glycosylase real-time RT-LAMP (UDG-rRT-LAMP) detecting RNA transcripts from the TMUV-SD2010
+NS5 gene. Note: CV =​ coefficient variation; SD =​ standard deviation.
+www.nature.com/scientificreports/
+7
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+Figure 4.  Control of carryover contamination in the uracil DNA glycosylase-supplemented real-time
+reverse-transcription loop-mediated isothermal amplification (UDG-rRT-LAMP) assay. Sensitivity test
+result of rRT-LAMP (A) and UDG-rRT-LAMP (B) using 10-fold serial dilutions of simulated carryover
+contamination (dUTP-incorporated LAMP amplicons DNA, concentration diluted from 0.5 ×​ 10−14
+to
+0.5 ×​ 10−19 
+g/μ​
+L) as determined using amplification plots (left), EvaGreen®fluorescent dye (middle), and
+agarose gel electrophoresis (right). Sensitivity test result of rRT-LAMP (C) and UDG-rRT-LAMP (D) using
+10-fold serial dilutions of in vitro-transcribed NS5 RdRP domain RNA (concentration diluted from 0.5 ×​ 10−4
+to 0.5 ×​ 10−1 
+copies/μ​
+L) and 1 ×​ 10−18 
+g/reaction of simulated carryover contamination as determined using
+amplification plots (left), EvaGreen®fluorescent dye (middle), and agarose gel electrophoresis (right).
+www.nature.com/scientificreports/
+8
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+positive according to UDG-rRT-LAMP and negative according to VI, and 0 samples were negative accord-
+ing to UDG-rRT-LAMP and positive according to VI. The results of the two methods are summarized in
+Table 5 for comparison. Statistical analysis illustrated that the two methods have 96.88% agreement and the
+difference between the two methods was not significant (P >​ 0.05) in detecting clinical samples. Samples from
+non-inoculated SPF duck embryos tested negative using the TMUV UDG-rRT-LAMP assay in the same run
+described previously.
+Discussion
+TMUV was originally identified as a tropical pathogen in Malaysia during the 1970s, and the main hosts of the
+virus were confirmed to be different bird species, which were responsible for the maintenance and transmission
+of TMUV in nature34
+. Severe diseases with mortality caused by the infection of birds with TMUV were indicated
+for the first time in chickens during the 1990s11
+and subsequently studied in ducks in the early 2010s1,2
+. Our
+recent study reported a potential case of human infection with TMUV15
+, highlighting the urgent need for effec-
+tive TMUV infection control and prevention methods, particularly detection methods. Several studies reported
+molecular methods for the detection of TMUV1,11,24–26
+. Nevertheless, those PCR-based assays require significant
+time, multiple steps, expensive instruments, and well-trained personnel to perform the experiments24
+. The use of
+LAMP technology is increasing in popularity for detection of TMUV and other viruses27,28
+because of its rapid,
+simple, sensitive, specific, and isothermal reaction capacity without the need for a specialized thermal cycler. In
+this study, we applied an advanced UDG-rRT-LAMP method to the detection of all recognized TMUV-related
+viruses.
+Unlike RT-PCR or rRT-PCR, which requires one pair of primers or one pair of primers and a probe, RT-LAMP
+requires at least four primers that recognize six regions of the target RNA sequence, and thus, its specificity is
+extremely high30
+. On the contrary, to achieve high specificity, the LAMP primers must have a strict match with
+their target sequences, or failure of amplification will occur35
+. Thus, to develop a universal TMUV detection
+assay, identifying conserved regions in the TMUV genome sequence is a critical step in RT-LAMP primer design.
+Recently, Dai et al.36
+provided evidence of natural recombination in TMUV and genetic divergence between var-
+ious TMUV strains isolated in different years. Therefore, in the present study, we selected the complete ORFs of
+13 representative TMUV reference strains from genotyping groups 1 and 2 (including subgroups 1–3) to screen
+highly conserved regions among these strains for UDG-rRT-LAMP assay development. Based on the visible
+alignment result, we found few regions in the TMUV ORFs that were sufficiently conserved for designing the
+LAMP primers for the universal detection of different TMUV strains. A TMUV variant, CQW1 (KM233707),
+was identified to be extremely different from other reference strains concerning its E, NS3, and NS5 genes, which
+were commonly used in detection assay development in previous studies1,29,37
+. Fortunately, we identified a 210-nt
+candidate region with relatively high sequence conservation in the 3′​
+-terminus of the NS5 gene, which corre-
+sponds to the RdRP domain with >​
+99% nucleotide identity. The size of this region was sufficient to meet the
+requirement of LAMP primer set designing. The highly conserved features of this region distinguished our NS5
+RdRP domain-based UDG-rRT-LAMP assay from other published assays.
+Although LAMP has been revealed to be a highly sensitive and specific assay in the clinical diagnosis of many
+pathogens, it was also found to be highly susceptible to carryover contamination due to its high sensitivity32
+. The
+LAMP result is commonly confirmed by DNA electrophoresis and direct observation after adding a fluorescent
+dye. In these processes, both observation methods require the opening of reaction tubes, easily generating aerosol
+droplets of different sizes that contain high concentrations of amplicons38
+. Our present study revealed that an
+extremely small amount of amplification products (1 ×​ 10−18 
+g/reaction) from previous LAMP reactions could
+serve as carryover contamination templates for re-amplification, resulting in false-positive results. When convert-
+ing the minimum contaminants dose that can cause false-positive results to the size of aerosol droplets, the parti-
+cle diameter was found to be extremely small (approximately 0.124 μ​m). This could not be filtered by most routine
+processing methods in the laboratory. Importantly, due to the current lack of an effective strategy for eliminating
+LAMP carryover contamination, preventing carryover contamination relies solely on careful operation of the
+LAMP experiment. Once contamination occurs in the laboratory, the procedure for eliminating or reducing con-
+tamination is usually complicated, costly, time-consuming, and sometimes requires moving the experiment to a
+new laboratory room or designing a set of primes targeting different genomic regions32
+.
+Although there were some pre- and post-amplification strategies for preventing or eliminating carryover
+contamination in other nucleic acid amplification assays, including mechanical/chemical barriers38
+, UV light
+irradiation39
+, primer hydrolysis40
+, and hydroxylamine treatment41
+, these methods may not be able to completely
+eliminate or prevent carryover contamination. Therefore, they are not ideal approaches for controlling carryover
+Result by
+UDG-rRT-LAMP VI/cRT-PCR1
+No. of samples
+(total,81)
+Pos. Pos. 62
+Neg. Neg. 17
+Pos. Neg. 2
+Neg. Pos. 0
+Table 5.  List of Tembusu virus (TMUV) uracil-DNA-glycosylase real-time RT-LAMP (UDG-rRT-LAMP)
+and virus isolation (VI) results for clinical samples test. 1
+cRT-PCR: NS5 gene-based conventional RT-PCR,
+described in Table 1.
+www.nature.com/scientificreports/
+9
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+contamination in LAMP reaction33
+. Compared with the aforementioned methods, the UDG-mediated digestion
+of dUTP-incorporated contaminant DNA is simple, inexpensive, and does not require substantial modification
+of existing protocols42
+. It specifically removes dUTP bases in uracil-containing DNA but has no effect on natural
+DNA43
+and RNA templates44
+. The prevention of carryover contamination using dUTP and UDG has been well
+documented in previously reported PCR and LAMP assays using both DNA and RNA as the template31–33,45
+. For
+RNA samples used in UDG-LAMP reactions, reverse transcription, UDG treatment, and the LAMP reaction
+are usually performed in separate steps33
+, which necessitates opening the reaction tube and increasing the risk
+of exposing the reaction mixture to carryover contaminants in the environment. Such a disadvantage limits the
+practical application of the UDG-RT-LAMP assay in the clinical detection of RNA viruses. Therefore, we per-
+formed rRT-LAMP amplification with UDG digestion in a one-pot reaction to eliminate carryover contaminants
+for the first time. The developed UDG-rRT-LAMP assay could remove as much as 1 ×​ 10−16 
+g/reaction of simu-
+lated contaminants with a UDG concentration of only 0.01 U/μ​
+L. Although the simulated contaminants cannot
+be removed at high concentrations (1 ×​ 10−15 
+g/reaction or more), adding more UDG and physically separating
+large aerosol droplet particles could serve as backup methods. To avoid opening the reaction tube during result
+detection, EvaGreen®fluorescent dye was integrated into the RT-LAMP reaction for quantitative monitoring of
+the amplification and observing the endpoint result visually. Moreover, Bst 2.0 warmStart®DNA polymerase
+was used in our strategy to enhance dUTP incorporation, amplification speed, amplicon yield, salt tolerance,
+thermostability, and specificity in the assay, which are critical to the success of the UDG-rRT-LAMP assay for
+TMUV detection.
+In conclusion, based on the complete ORF alignment of various TMUV strains from different genotyping
+groups, we developed a universal TMUV detection assay using rRT-LAMP combined with UDG treatment to
+prevent/eliminate carryover contamination. This UDG-rRT-LAMP method is a rapid, sensitive, specific, and
+reliable assay for diagnosing TMUV infection, and it provides a potentially powerful strategy for avoiding
+false-positive results in detecting other flaviviruses.
+Materials and Methods
+Ethics statement.  Viral propagation and testing were performed according to the approved the Institutional
+Biosafety Committee, Shandong Agricultural University. All tissue samples analyzed in this study were collected
+for diagnostic purposes and approved by Animal Welfare Committee, Shandong Agricultural University (License
+number: 2015-Vet-012).The animal care and research were conducted according to Guide for the Care and Use
+of Laboratory Animals, National Research Council, 2011 (https://grants.nih.gov/grants/olaw/Guide-for-the-Care-
+and-use-of-laboratory-animals.pdf).
+Primer design.  To identify the most conserved region among 10 genes from different TMUV strains, 13
+complete ORFs of TMUV strains (isolated from 2010 to 2014) were used in this study, including 11 duck, 1
+layer, and 1 goose strain. These strains represent all different TMUV genotyping groups/subgroups described in a
+recent TMUV evolutionary analysis study36
+. The alignment of complete ORFs was conducted using the mVISTA
+online program (http://genome.lbl.gov/vista/mvista/submit.shtml) and the pairwise comparison of the selected
+conserved region was performed using the ClustalW method in Genomic Workbench V7.5 software (QIAGEN,
+Boston, MA, USA). Since the most highly conserved regions were located at the 3′​end of the NS5 gene among
+different TMUV strains, the last 210 bp of the NS5 gene were chosen as the optimal target region for RT-LAMP
+primer sequence basis. Primers were designed and optimized for sequence conservation using an online pro-
+gram (PrimerExplorer V4, http://primerexplorer.jp/elamp4.0.0/index.html). The designed primer set contains
+four primers: F3, Forward Inner Primer (FIP), Backward Inner Primer (BIP), and B3. FIP (BIP) consists of the
+sequence of the F1c (B1c) and F2 (B2) regions. The specificity of the primers was further confirmed using a
+BLAST search in the NCBI nucleotide database.
+Virus strains, cell lines, and RNA extraction.  For the UDG-rRT-LAMP evaluation test, six TUMV field
+variant strains isolated from ducks, ducklings, geese, house sparrows, and mosquitoes in Shandong Province
+were propagated in a African green monkey kidney cell line (Vero) (CCL-81, ATCC, Manassas, VA, USA), and
+titrated in tissue culture infectious doses (TCID50). AIV-H5N1, AIV-H9N2, NDV, ARV, DuCV, DHAV were
+also included in this study for specificity testing. Viral RNA was directly extracted from a 20% suspension (w/v)
+of viral transport medium diluted clinical samples, cell culture supernatant, and allantoic fluid using an RNeasy
+Mini Kit (QIAGEN, Valencia, CA, USA) following the manufacturer’s instructions. Briefly, 250 μ​
+L of sample
+was mixed with same volume of lysis buffer and then applied to the RNA binding column. After three washes,
+the contaminants were efficiently washed away, and total RNA eluted in 50 μ​
+L of RNase-free water was used for
+further testing.
+In vitro transcription of the partial NS5 gene.  The in vitro-transcribed NS5 RdRP domain RNA of a
+TMUV field strain isolated from Peking duck (TMUV-SD2010)4
+was used to determine the detection limit of
+the assay. The NS5 RdRP domain (1084 bp) of TMUV-SD2010 was amplified using published procedures46
+and
+cloned into the pGEM-T easy Vector system (Promega, Madison, WI, USA) as described in our previous study4
+.
+The recombinant plasmid pGEM-NS5 was linearized by EcoRI (Promega), extracted using phenol–chloroform–
+isoamyl alcohol (25:24:1), precipitated using ethanol, and suspended in water before using the DNA for in vitro
+transcription reactions. The production of “run-off” transcripts derived from the inserted M1 segment used the
+Riboprobe®in vitro Transcription System with T7 RNA Polymerase (Promega) following the manufacturer’s
+instructions. The transcribed RNA concentration was quantitated using a NanoDrop™​1000 spectrophotometer
+(Thermo Scientific, Waltham, MA, USA) and copy numbers were calculated as previously described47
+before
+making a 10-fold serial dilution for sensitivity testing and generating the standard curve.
+www.nature.com/scientificreports/
+10
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+UDG-rRT-LAMP conditions.  The UDG-rRT-LAMP for the NS5 RdRP domain was conducted in a 20-μ​L
+reaction system. The total reaction master mix volume was 18 μ​
+L consisting of 1.6 μ​
+M each of FIP and BIP
+primers, 0.2 μ​
+M each of F3 and B3 primers, 1.6 mM dNTPs (Invitrogen, Waltham, MA, USA), 1 M betaine
+(Sigma-Aldrich, St. Louis, MO, USA), 4 mM MgSO4 (New England Biolabs, MA, USA), 5 U of AMV reverse tran-
+scriptase (Promega), 100 mM dUTP (New England Biolabs), 0.2 U UDG (New England Biolabs), 1×​ ThermoPol
+reaction buffer, 8 U of Bst 2.0 warmStart®DNA polymerase (New England Biolabs), and 1×​ EvaGreen®fluores-
+cent dye (Biotium, Hayward, CA, USA). After adding 2 μ​
+L of viral RNA, the reaction mixture was incubated at
+room temperature for 5 min to eliminate carryover contamination. Following incubation, the reaction was per-
+formed using the 7500 Real-time PCR System (Applied Biosystems, Foster City, CA, USA) for rRT-LAMP or with
+a water bath for RT-LAMP at 63 °C for 1 h. The thermal cycling profile for rRT-LAMP proceeded as follows: 60
+cycles of 62.5 °C for 5 s and 63.5 °C for 55 s. Fluorescence signals for each sample were collected at the end of the
+63.5 °C step. The time threshold (Tt) values and standard curve were analyzed using the SDS software program
+(version 1.4) and visualized using OriginPro 8.5 software (OriginLab, Northampton, MA, USA). The rRT-LAMP
+results were also detected by fluorescence observation under UV light and 2% (w/v) agarose gel electrophoresis.
+Sensitivity, specificity, and reproducibility of UDG-rRT-LAMP.  The sensitivity of the UDG-rRT-
+LAMP assay was determined in two separate systems. One system was transcribed NS5 RdRP domain RNA of the
+TMUV-SD2010 strain, which was diluted from 0.5 ×​ 107
+to 0.5 ×​ 100 
+copies/μ​
+L. The other system was extracted
+RNA from 10-fold serial dilutions of titrated TMUV field variant strains isolated from different hosts in Shandong
+province. Three replicates for each dilution of different samples were tested using the developed UDG-rRT-LAMP
+assay. The detection limit of the assay was determined as the last dilution at which all three replicates from each
+dilution gave a positive result. Samples of serial dilutions of six TUMV field variant strains were also tested by NS5
+gene-based cRT-PCR46
+to compare its sensitivity with that of UDG-rRT-LAMP.
+The specificity of UDG-rRT-LAMP was first examined using viral RNA from different avian pathogens of
+AIV-H5N1, AIV-H9N2, NDV, ARV, DuCV, and DHAV to confirm that no cross-reactions with non-targeted
+viral RNA occurred. The allantoic fluid from SPF duck embryos was also included in the test as a negative control.
+To further confirm the developed assay have no cross-reactions with non-TMUV flaviviruses, the last 1500 bp
+NS5 gene sequences of BAGV (GenBank accession no. EU684972), ITV (GenBank accession no. KC734549),
+JEV (GenBank accession no. AF080251), WNV (GenBank accession no. AY532665), TBEV (GenBank acces-
+sion no. FJ402886) and YFV (GenBank accession no. U54798) were synthesized and cloned into pUC57 vector
+(Genscript, Nanjing, Jiangsu, China) for specificity test purpose and the empty pUC57 vector was working as a
+negative control.
+The reproducibility of the developed assay was assessed using transcribed NS5 RdRP domain RNA from
+the TMUV-SD2010 strain. The RNA was diluted from 0.5 ×​ 107
+to 0.5 ×​ 102 
+copies/μ​
+L to prepare the intra- and
+inter-assay samples. Replicate samples of each dilution were stored at −​
+80 °C immediately after preparation. For
+the intra-assay test, three replicate samples from each dilution were tested in the same run. For the inter-assay test,
+samples from different dilutions were tested in three independent runs. Reproducibility was measured by calcu-
+lating the proportion of positive samples and determining Tt values of each sample. The coefficient of variation
+was determined to find statistical correlations.
+Simulating carryover contamination.  The amplicons of the RT-LAMP reaction generated from
+0.5 ×​ 104 
+copies/μ​
+L of transcribed NS5 RdRP domain RNA of the TMUV-SD2010 strain in the absence of UDG,
+which served as the source of simulating carryover contaminants, was quantitated using the NanoDrop™​1000
+spectrophotometer to generate a 10-fold serial dilution from 0.5 ×​ 10−14
+to 0.5 ×​ 10−19 
+g/μ​L. When using 0.2 μ​L of
+diluted RT-LAMP amplicons as the template in the UDG-rRT-LAMP assay, the total mass of carryover contami-
+nants was approximately 1 ×​ 10−19
+ −​ 1 ×​ 10−14
+ g/reaction (equivalent to aerosol droplet diameter size of 2.673 μ​m,
+1.241 μ​m, 0.567 μ​m, 0.267 μ​m, 0.124 μ​
+m and 0.057 μ​m, respectively).
+Elimination of carryover contamination byUDG-rRT-LAMP.  To evaluate the ability of the developed
+UDG-rRT-LAMP method to reduce false-positive results due to carryover contaminants in detecting TMUV,
+we conducted both rRT-LAMP and UDG-rRT-LAMP reactions by adding 2 μ​
+L of diluted viral RNA templates
+(0.5 ×​ 10−1
+ −​ 0.5 ×​ 104 
+copies/μ​
+L) and 2 μ​
+L of simulated carryover contamination of 0.5 ×​ 10−18 
+g/μ​
+L in the same
+reaction tube. The total mass of the simulated carryover contamination for each reaction was approximately
+equivalent to a 0.124 μ​
+m-diameter aerosol droplet, which cannot be efficiently blocked by either high efficiency
+particulate air (HEPA) filters48
+in the biosafety cabinets or fibrous pipette tip filters49
+. The detection limits of the
+rRT-LAMP reactions with and without UDG treatment before amplification were compared to confirm whether
+the studied UDG-rRT-LAMP assay can eliminate false positives.
+UDG-rRT-LAMP detectTMUV in clinical sample.  Eighty-one original tissue specimens, including theca
+folliculi, oviduct, heart, and liver from ducks or other avian species that exhibited clinical signs and lesions con-
+sistent with those of TMUV infections during necropsies, were used to evaluate UDG-rRT-LAMP in detection
+TMUV from clinical poultry specimens. The collected tissue samples were minced using scissors in viral trans-
+port medium50
+to produce a 20% suspension (w/v). The tissue suspension was further processed in a stomacher
+blender (Model 80, Seward Ltd., Davie, FL, USA) and centrifuged at 1200 rpm for 10 min at 4 °C. Thereafter,
+the processing tissue supernatant was filtered through a 0.45-nm syringe filter for UDG-rRT-LAMP detection
+and virus isolation (VI) in Vero cells. TMUV-positive isolates were confirmed by NS5 gene-based cRT-PCR46
+to
+detect TMUV-infected cytopathic effect cells from the specimen-inoculated Vero cell cultures. Lastly, the agree-
+ment between UDG-rRT-LAMP and VI results was summarized to investigate the clinical performance of our
+www.nature.com/scientificreports/
+11
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+rRT-PCR assays. Statistically significant differences between the two assays were determined using the two-tailed
+Student’s t-test in the Microsoft Excel program.
+References
+1.	 Cao, Z. et al. Tembusu virus in ducks, china. Emerging Infect. Dis. 17, 1873–1875 (2011).
+2.	 Su, J. et al. Duck egg-drop syndrome caused by BYD virus, a new Tembusu-related flavivirus. PLoS ONE 6, e18106 (2011).
+3.	 Tang, Y. et al. Characterization of a Tembusu virus isolated from naturally infected house sparrows (Passer domesticus) in Northern
+China. Transbound Emerg Dis 60, 152–158 (2013).
+4.	 Tang, Y. et al. Analysis of the complete genome of Tembusu virus, a flavivirus isolated from ducks in China. Transbound Emerg Dis
+59, 336–343 (2012).
+5.	 Wan, C. et al. Complete genome sequence of avian tembusu-related virus strain WR isolated from White Kaiya ducks in Fujian,
+China. J. Virol. 86, 10912 (2012).
+6.	 Mukhopadhyay, S., Kuhn, R. J. & Rossmann, M. G. A structural perspective of the flavivirus life cycle. Nat. Rev. Microbiol. 3, 13–22
+(2005).
+7.	 Fulop, L. et al. Rapid identification of flaviviruses based on conserved NS5 gene sequences. J. Virol. Methods 44, 179–188 (1993).
+8.	 Scaramozzino, N. et al. Comparison of flavivirus universal primer pairs and development of a rapid, highly sensitive heminested
+reverse transcription-PCR assay for detection of flaviviruses targeted to a conserved region of the NS5 gene sequences. J. Clin.
+Microbiol. 39, 1922–1927 (2001).
+9.	 Platt, G. S. et al. Arbovirus infections in Sarawak, October 1968–February 1970 Tembusu and Sindbis virus isolations from
+mosquitoes. Ann Trop Med Parasitol 69, 65–71 (1975).
+10.	 Bowen, E. T. et al. Arbovirus infections in Sarawak, October 1968-February 1970: human serological studies in a land Dyak village.
+Trans. R. Soc. Trop. Med. Hyg. 69, 182–186 (1975).
+11.	 Kono, Y. et al. Encephalitis and retarded growth of chicks caused by Sitiawan virus, a new isolate belonging to the genus Flavivirus.
+Am. J. Trop. Med. Hyg. 63, 94–101 (2000).
+12.	 Yun, T. et al. Complete genome sequence of a novel flavivirus, duck tembusu virus, isolated from ducks and geese in china. J. Virol.
+86, 3406–3407 (2012).
+13.	 Liu, M. et al. Adapted Tembusu-like virus in chickens and geese in China. J. Virol. Methods 50, 2807–2809 (2012).
+14.	 Liu, P. et al. Duck egg drop syndrome virus: an emerging Tembusu-related flavivirus in China. Sci China Life Sci 56, 701–710 (2013).
+15.	 Tang, Y. et al. Tembusu virus in human, China. Transbound Emerg Dis 60, 193–196 (2013).
+16.	 Wang, Q. et al. Isolation and identification of Duck tembusu virus strain lH and development of latex-agglutination diagnostic
+method for rapid detection of antibodies. Avian Dis. 58, 616–622 (2014).
+17.	 Chen, S. et al. Isolation and characterization of a Chinese strain of Tembusu virus from Hy-Line Brown layers with acute egg-drop
+syndrome in Fujian, China. Arch. Virol. 159, 1099–1107 (2014).
+18.	 Tang, Y. et al. Isolation and genetic characterization of a tembusu virus strain isolated from mosquitoes in Shandong, China.
+Transbound Emerg Dis 62, 209–216 (2015).
+19.	 Yan, P. et al. An infectious disease of ducks caused by a newly emerged Tembusu virus strain in mainland China. Virology 417, 1–8
+(2011).
+20.	 Bai, X. et al. Characterization of monoclonal antibodies against duck Tembusu virus E protein: an antigen-capture ELISA for the
+detection of Tembusu virus infection. Arch. Virol. 160, 757–764 (2015).
+21.	 Yin, X. et al. Detection of specific antibodies against tembusu virus in ducks by use of an E protein-based enzyme-linked
+immunosorbent assay. J. Virol. Methods 51, 2400–2402 (2013).
+22.	 Chen, H. et al. Development and evaluation of a DAS-ELISA for rapid detection of Tembusu virus using monoclonal antibodies
+against the envelope protein. PLoS ONE 9, e96366 (2014).
+23.	 Minxun, S. Seroprevalence of Newly Discovered Duck Flavivirus in Farm Animals. J Infect Dis Immunol Tech 2, 1 (2013).
+24.	 Tang, Y. et al. Comparison of four molecular assays for the detection of Tembusu virus. Avian Pathol. 44, 379–385 (2015).
+25.	 Yu, C. et al. Fluorescence quantitative RT-PCR assay for detection of Tembusu virus. Sci Agric Sinica 45, 4492–4500 (2012).
+26.	 Yan, L., Yan, P., Zhou, J., Teng, Q. & Li, Z. Establishing a TaqMan-based real-time PCR assay for the rapid detection and
+quantification of the newly emerged duck Tembusu virus. Virol. J. 8, 464 (2011).
+27.	 Jiang, T. et al. Development of RT-LAMP and real-time RT-PCR assays for the rapid detection of the new duck Tembusu-like BYD
+virus. Arch. Virol. 157, 2273–2280 (2012).
+28.	 Tang, Y. et al. Rapid detection of Tembusu virus by reverse-transcription, loop-mediated isothermal amplification (RT-LAMP).
+Transbound Emerg Dis 59, 208–213 (2012).
+29.	 Yan, L. et al. Comparison of real-time reverse transcription loop-mediated isothermal amplification and real-time reverse
+transcription polymerase chain reaction for duck Tembusu virus. J. Virol. Methods 182, 50–55 (2012).
+30.	 Tomita, N., Mori, Y., Kanda, H. & Notomi, T. Loop-mediated isothermal amplification (LAMP) of gene sequences and simple visual
+detection of products. Nat Protoc 3, 877–882 (2008).
+31.	 Longo, M. C., Berninger, M. S. & Hartley, J. L. Use of uracil DNA glycosylase to control carry-over contamination in polymerase
+chain reactions. Gene. 93, 125–128 (1990).
+32.	 Hsieh, K., Mage, P. L., Csordas, A. T., Eisenstein, M. & Soh, H. T. Simultaneous elimination of carryover contamination and
+detection of DNA with uracil-DNA-glycosylase-supplemented loop-mediated isothermal amplification (UDG-LAMP). Chem.
+Commun. (Camb.) 50, 3747–3749 (2014).
+33.	 Kil, E. J. et al. Advanced loop-mediated isothermal amplification method for sensitive and specific detection of Tomato chlorosis
+virus using a uracil DNA glycosylase to control carry-over contamination. J. Virol. Methods 213, 68–74 (2015).
+34.	 Simpson, D. I. et al. Arbovirus infections in Sarawak, October 1968-February 1970: GETAH virus isolations from mosquitoes.
+Trans. R. Soc. Trop. Med. Hyg. 69, 35–38 (1975).
+35.	 Notomi, T. et al. Loop-mediated isothermal amplification of DNA. Nucleic Acids Res. 28, e63–e63 (2000).
+36.	 Dai, L., Li, Z. & Tao, P. Evolutionary analysis of Tembusu virus: evidence for the emergence of a dominant genotype. Infect. Genet.
+Evol. 32, 124–129.
+37.	 O’Guinn, M. L. et al. Field detection of Tembusu virus in western Thailand by rt-PCR and vector competence determination of select
+culex mosquitoes for transmission of the virus. Am. J. Trop. Med. Hyg. 89, 1023–1028 (2013).
+38.	 Aslanzadeh, J. Preventing PCR amplification carryover contamination in a clinical laboratory. Ann. Clin. Lab. Sci. 34, 389–396
+(2004).
+39.	 Sarkar, G. & Sommer, S. S. Parameters affecting susceptibility of PCR contamination to UV inactivation. BioTechniques 10, 590–594
+(1991).
+40.	 Rys, P. N. & Persing, D. H. Preventing false positives: quantitative evaluation of three protocols for inactivation of polymerase chain
+reaction amplification products. J. Clin. Microbiol. 31, 2356–2360 (1993).
+41.	 Brown, D. M. & Schell, P. The reaction of hydroxylamine with cytosine and related compounds. J. Mol. Biol. 3, 709–710 (1961).
+42.	 Borst, A., Box, A. T. & Fluit, A. C. False-positive results and contamination in nucleic acid amplification assays: suggestions for a
+prevent and destroy strategy. Eur. J. Clin. Microbiol. Infect. Dis. 23, 289–299 (2004).
+www.nature.com/scientificreports/
+12
+Scientific Reports | 6:27605 | DOI: 10.1038/srep27605
+43.	 Lindahl, T. An N-glycosidase from Escherichia coli that releases free uracil from DNA containing deaminated cytosine residues.
+Proc. Natl. Acad. Sci. USA 71, 3649–3653 (1974).
+44.	 Savva, R., McAuley-Hecht, K., Brown, T. & Pearl, L. The structural basis of specific base-excision repair by uracil–DNA glycosylase.
+Nature 373, 487–493 (1995).
+45.	 Thornton, C. G., Hartley, J. L. & Rashtchian, A. Utilizing uracil DNA glycosylase to control carryover contamination in PCR:
+characterization of residual UDG activity following thermal cycling. BioTechniques 13, 180–184 (1992).
+46.	 Kuno, G., Chang, G. J., Tsuchiya, K. R., Karabatsos, N. & Cropp, C. B. Phylogeny of the genus Flavivirus. J. Virol. 72, 73–83 (1998).
+47.	 Ke, G. M. et al. Development of a quantitative Light Cycler real-time RT-PCR for detection of avian reovirus. J. Virol. Methods 133,
+6–13 (2006).
+48.	 Barhate, R. & Ramakrishna, S. Nanofibrous filtering media: filtration problems and solutions from tiny materials. J Memb Sci 296,
+1–8 (2007).
+49.	 Le Rouzic, E. Contamination-pipetting: relative efficiency of filter tips compared to Microman positive displacement pipette. Nat.
+Methods 3, Application Notes, doi: 10.1038/nmeth887 (2006).
+50.	 Johnson, F. B. Transport of viral specimens. Clin. Microbiol. Rev. 3, 120–131 (1990).
+Acknowledgements
+This study was funded through The China Agriculture Research System (CARS-43-10); National Natural Science
+Foundation of China (31272583, 31472199); Science and Technology Development Plan of Shandong Province
+(2014GNC111023).
+AuthorContributions
+Y.T. and Y.D. designed the study; Y.T. and H.C. contributed equally to this work. They performed the experiments
+and analyzed the data; Y.T. wrote the paper. All authors reviewed the manuscript.
+Additional Information
+Competing financial interests: The authors declare no competing financial interests.
+How to cite this article: Tang, Y. et al. Advanced uracil DNA glycosylase-supplemented real-time reverse
+transcription loop-mediated isothermal amplification (UDG-rRT-LAMP) method for universal and specific
+detection of Tembusu virus. Sci. Rep. 6, 27605; doi: 10.1038/srep27605 (2016).
+This work is licensed under a Creative Commons Attribution 4.0 International License. The images
+or other third party material in this article are included in the article’s Creative Commons license,
+unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,
+users will need to obtain permission from the license holder to reproduce the material. To view a copy of this
+license, visit http://creativecommons.org/licenses/by/4.0/

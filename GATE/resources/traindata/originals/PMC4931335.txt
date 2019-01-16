@@ -1,0 +1,747 @@
+Genetic Diversity of Artybash Virus
+in the Laxmann’s Shrew (Sorex caecutiens)
+Satoru Arai,
+1
+Hae Ji Kang,
+2
+Se Hun Gu,
+2
+Satoshi D. Ohdachi,
+3
+Joseph A. Cook,
+4
+Liudmila N. Yashina,
+5
+Keiko Tanaka-Taya,
+1
+Sergey A. Abramov,
+6
+Shigeru Morikawa,
+7
+Nobuhiko Okabe,
+1,8
+Kazunori Oishi,
+1
+and Richard Yanagihara2
+Abstract
+Although based on very limited M and L segment sequences, Artybash virus (ARTV) was proposed previously
+as a unique hantavirus harbored by the Laxmann’s shrew (Sorex caecutiens). To verify this conjecture, lung
+tissues from 68 Laxmann’s shrews, captured during 2006 to 2014 in eastern Siberia, Russia, and Hokkaido,
+Japan, were analyzed for ARTV RNA using reverse transcription polymerase chain reaction (RT-PCR). ARTV
+RNA was detected in six Laxmann’s shrews. Pairwise alignment and comparison of partial- and full-length S,
+M, and L segment sequences from these Laxmann’s shrews, as well as phylogenetic analyses, using maximum
+likelihood and Bayesian methods indicated that ARTV was distinct from other soricine shrew-borne hanta-
+viruses and representative hantaviruses harbored by rodents, moles, and bats. Taxonomic identity of the ARTV-
+infected Laxmann’s shrews was confirmed by full-length cytochrome b mitochondrial DNA sequence analysis.
+Our data indicate that the hantavirus previously known as Amga virus (MGAV) represents genetic variants of
+ARTV. Thus, the previously proposed designation of ARTV/MGAV should be replaced by ARTV.
+Key Words: Hantavirus—Japan—RT-PCR—Russia—Shrew.
+Introduction
+Recent discovery of genetically distinct hantaviruses
+(family Bunyaviridae and genus Hantavirus) in multiple
+species of soricine and crocidurine shrews (order Eu-
+lipotyphla, family Soricidae, and subfamilies Soricinae and
+Crocidurinae), as well as in moles (family Talpidae and
+subfamilies Talpinae and Scalopinae) and insectivorous bats
+(order Chiroptera), challenges the conventional view that
+rodents (order Rodentia and families Muridae and Cricetidae)
+are the principal reservoir hosts. Broad taxonomic and geo-
+graphic distribution of hosts indicates that small mammals
+other than rodents played a significant role in the evolution-
+ary history of hantaviruses and points to the urgent need to
+understand the diversity, distribution, and phylogeography of
+hantaviruses worldwide (Bennett et al. 2014, Yanagihara
+et al. 2014).
+Seewis virus (SWSV), originally detected in the Eurasian
+common shrew (Sorex araneus) in Switzerland (Song et al.
+2007), has now been found across the vast distribution of its
+soricine reservoir host in the Czech Republic (Schlegel et al.
+2012), Finland (Kang et al. 2009a, Ling et al. 2014), Germany
+(Schlegel et al. 2012), Hungary (Kang et al. 2009a), Poland
+(Gu et al. 2014), Russia (Yashina et al. 2010), Slovakia
+(Schlegel et al. 2012), and Slovenia (Korva et al. 2013; Res-
+man et al. 2013).
+Genetically distinct hantaviruses have also been detected
+in other Sorex species, including Ash River virus in the North
+American masked shrew (Sorex cinereus) and Jemez Springs
+virus in the dusky shrew (Sorex monticolus) (Arai et al.
+2008a), Kenkeme virus in the Asian flat-skulled shrew (Sorex
+roboratus) (Kang et al. 2010), Asikkala virus in the Eurasian
+pygmy shrew (Sorex minutus) (Radosa et al. 2013), Yakeshi
+virus in the taiga shrew (Sorex isodon) (Guo et al. 2013), Qian
+1
+Infectious Disease Surveillance Center, National Institute of Infectious Diseases, Tokyo, Japan.
+2
+Department of Pediatrics and Tropical Medicine, Medical Microbiology and Pharmacology, University of Hawaii at Manoa, Honolulu, Hawaii.
+3
+Institute of Low Temperature Science, Hokkaido University, Sapporo, Japan.
+4
+Department of Biology and Museum of Southwestern Biology, University of New Mexico, Albuquerque, New Mexico.
+5
+State Research Center of Virology and Biotechnology ‘‘Vector,’’ Koltsovo, Russia.
+6
+Institute of Systematics and Ecology of Animals, Novosibirsk, Russia.
+7
+Department of Veterinary Science, National Institute of Infectious Diseases, Tokyo, Japan.
+8
+Kawasaki City Institute for Public Health, Kanagawa, Japan.
+VECTOR-BORNE AND ZOONOTIC DISEASES
+Volume 16, Number 7, 2016
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/vbz.2015.1903
+468
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.
+Hu Shan virus in the stripe-back shrew (Sorex cylindricauda)
+(Zuo et al. 2014), and Sarufutsu virus in the long-clawed
+shrew (Sorex unguiculatus) (Arai et al. unpublished data).
+In addition, based on very limited M and L segment se-
+quences detected in a Laxmann’s shrew (Sorex caecutiens)
+captured near Teletskoye Lake in the Altai Republic of
+western Siberia, a new hantavirus, named Artybash virus
+(ARTV), has been proposed. In an attempt to validate its
+reservoir host species and explore the genetic diversity of
+ARTV, we analyzed lung tissues collected from Laxmann’s
+shrews trapped in eastern Siberia, Russia, and Hokkaido,
+Japan. Genetic and phylogenetic analyses, based on partial-
+and full-length genomes of a hantavirus formerly called
+Amga virus (MGAV), show that it represents genetic variants
+of ARTV. Thus, instead of referring to this hantavirus as
+ARTV/MGAV, as previously proposed (Bennett et al. 2014),
+ARTV should be the preferred designation.
+Materials and Methods
+Trapping and sample collection
+Laxmann’s shrews, which are widely distributed from
+northern Fennoscandia through Siberia and across northern
+Japan (Fig. 1A), were captured at three sites in the Sakha Re-
+public, Russia, during July and August 2006 (Fig. 1B and
+Table 1) and five sites in Hokkaido, Japan, between 2008 and
+2014 (Fig. 1C and Table 1). Protocols for trapping, euthanasia,
+and tissue processing were performed according to well-
+established guidelines (Animal Care and Use Committee 1998).
+RNA extraction and reverse transcription polymerase
+chain reaction
+Total RNA was extracted from lung tissues using the Pure-
+Link Micro-to-Midi Total RNA Purification Kit (Invitrogen,
+San Diego, CA) or MagDEA
+RNA 100 Kit (Precision System
+Science; PSS, Matstudo, Japan). cDNA was synthesized using
+SuperScript III First-Strand Synthesis System (Invitrogen) or
+PrimeScript II 1st strand cDNA Synthesis Kit (Takara Bio,
+Otsu, Japan) and an oligonucleotide primer (OSM55: 5¢-
+TAGTAGTAGACTCC-3¢) designed from the genus-specific
+conserved 3¢-end of the S, M, and L segments of all hanta-
+viruses.ForinitialscreeningbyRT-PCR,primerswerebasedon
+highly conserved regions of shrew-borne hantavirus genomes:
+S (outer: OSM55F, HTN-S6: 5¢-AGCTCNGGATCCATN
+TCATC-3¢; inner: Cro2F: 5¢-AGYCCNGTNATGRGWGTN
+FIG. 1. (A) Map showing the geographic distribution of the Laxmann’s shrew (Sorex caecutiens) across Eurasia, where it inhabits
+broad-leaved forests on lowland and mountainous areas. (B) Map showing trap sites of Laxmann’s shrews along the Lena River
+(N6145¢14.399 E12931¢30.0), Amga River (N6135¢34.810 E13256¢24.053), and Kenkeme River (N6204¢11.996 E12856¢
+16.821) in the Sakha Republic of Russia. (C) Map showing trap sites of Laxmann’s shrews in Koshimizu (N4356¢10.615 E14426¢
+31.750), Shibetsu (N4337¢43.589 E14511¢34.594), Mukawa (N4250¢30.073 E14210¢01.675), Shari (N4355¢23.998, E14450¢
+39.800), and Tobetsu (N4312¢11.084 E14126¢58.999) in Hokkaido, Japan. Red circles indicate trap sites of ARTV-positive shrews.
+Table 1. Capture Sites of Laxmann’s Shrews Tested for Hantavirus RNA
+Country Republic/prefecture Location Year
+Total Positive
+Male Female Male Female
+Russia Sakha Lena River 2006 4 1 0 0
+Amga River 2006 7 7 4 1
+Kenkeme River 2006 15 5 0 0
+Japan Hokkaido Koshimizu 2008 1 2 0 0
+Shibetsu 2008 0 1 0 0
+Mukawa 2010 3 1 1 0
+Shari 2011 0 1 0 0
+Tobetsu 2013 2 2 0 0
+2014 9 7 0 0
+Total 41 27 5 1
+NEWFOUND SHREW-BORNE HANTAVIRUS 469
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.
+RTYGG-3¢ and Cro2R: 5¢-ANGAYTGRTARAANGANGAY
+TTYTT-3¢) and L (outer: Han-L1880F: 5¢-ATGAARNTN
+TGTGCNATNTTTGA-3¢ and Han-L3000R: 5¢-GCNGAR
+TTRTCNCCNGGNGACCA-3¢; inner: Han-L2520F: 5¢-AT
+NWGHYTDAARGGNATGTCNGG-3¢ and Han-L2970R:
+5¢-CCNGGNGACCAYTTNGTDGCATC-3¢). Oligonucleo-
+tide primers designed for amplification and sequencing of the
+full genome ofARTV are shown inTable2.Nested PCR cycling
+conditions and methods for DNA sequencing have been previ-
+ously described (Arai et al. 2008a, 2008b, Kang et al. 2009b).
+Genetic and phylogenetic analysis
+Pairwise alignment and comparison of partial- and full-
+length S, M, and L segment sequences of hantaviruses from
+Laxmann’s shrews, as well as other representative rodent-,
+shrew-, mole-, and bat-borne hantaviruses, were performed
+using the ClustalW method (Thompson et al. 1994). Phy-
+logenetic analyses were conducted using maximum likeli-
+hood and Bayesian methods, implemented in MrBayes 3.1
+(Ronquist and Huelsenbeck 2003) and RAxML (Stamatakis
+et al. 2008), under the best-fit GTR + I + G model of evolu-
+tion using MrModeltest 2.3 (Posada 2008). Two replicate
+Bayesian Metropolis–Hastings Markov chain Monte Carlo
+runs, each consisting of six chains of 10 million genera-
+tions sampled every 100 generations with a burn-in of
+25,000 (25%), resulted in 150,000 trees overall. Topologies
+were evaluated by bootstrap analysis of 100 iterations,
+and posterior node probabilities were based on 10 million
+Table 2. Oligonucleotide Primers for the Amplification of the S, M, and L Genomic
+Segments of Artybash Virus
+Segment Primer Sequence (5¢/3¢) Length Polarity
+S OSM55 TAG TAG TAG ACT CC 14 +
+CAS-381F CAN GTG GNC ARA CWG CWG AYT GG 23 +
+Han-S604F GCH GAD GAR HTN ACA CCN GG 20 +
+Cro2F AGY CCN GTN ATG RGW GTN RTY GG 24 +
+Han-S974R TCN GGN GCH CHN GCA AAN AHC CA 23 -
+Cro2R ANG AYT GRT ARA ANG ANG AYT TYT T 25 -
+HTN-S6 AGC TCN GGA TCC ATN TCA TC 20 -
+MKWS-1612R AGA GTG TTT GAG GTA GTG GAG TG 23 -
+Han-S3R1 TAG TAG TAN NCT CCN 15 -
+PHS-3endR TAG TAG TAT ACT CCT TGA AAA GC 23 -
+M OSM55 TAG TAG TAG ACT CC 14 +
+JAM-241F GTT CAT GYA GYA TGG ATG TRC A 22 +
+MKWM-433R TNC GCA TCT TGTA RGC CTG YTC 22 -
+HTM-1490F TGT GTN CCW GGN TTY CAT GGN T 22 +
+CAM-1685F ACN AAG GGY TCW ATG GTN TGT GA 23 +
+SHM-1706R CAT ACA TCA CAN ACC ATW GAA CC 23 -
+SHM-2371F TGY AAC CCN GTN GAT TGY CCW GG 23 +
+MKWM-2458R ATA GGC AGT CCC GAC AGC CTT 21 -
+MKWM-2631R CAT GAT RTC NCC AGG RTC NCC 21 -
+TM-2957R GAA CCC CAD GCC CCNTCY AT 20 -
+AM-3280F CCA TAT CTA TGA TGA TGG TGC 21 +
+PHM-3endR TAG TAG TAG ACT CCG CAA GAA 21 -
+L OSM55 TAG TAG TAG ACT CC 14 +
+PHL-173F GAT WAA GCA TGA YTG GTC TGA 21 +
+CAL-539F TAT NTC MAC ACA RTG GCC WAG T 22 +
+HTL-577R CMC CNK CAT THC KYC TAC TNG GC 23 -
+SL-761F CCT ATT TNA GTA YTG TAA GGW NTG G 25 +
+Han-L1880F CAR AAR ATG AAR NTN TGT GC 20 +
+CS-L-2319R CTT CYT CAT TYA CAT TMC CAT G 22 -
+Han-L2520F ATN WGH YTD AAR GGN ATG TCN GG 23 +
+Tal-L2855F GAA AGG GCA TTN MGA TGG GCN TCA GG 26 +
+Tal-L2928F GNA AAY TNA TGT ATG TNA GTG C 22 +
+HAN-L-F1 ATG TAY GTB AGT GCW GAT GC 20 +
+HAN-L-F2 TGC WGA TGC HAC NAA RTG GTC 21 +
+Han-L3000R GCN GAR TTR TCN CCN GGN GAC CA 23 -
+HAN-L-R2 GCR TCR TCW GAR TGR TGD GCA A 22 -
+HAN-L-R1 AAC CAD TCW GTY CCR TCA TC 20 -
+MKWL-4020F YAA YCA TGA RAG GTT GGG NGA G 22 +
+MKWL-4132F GAG ACT TGG AGT GAN CAA CAY CC 23 +
+SL-4321R AAYGTTACCCAYTCACCAYCCA 22 -
+PHL-5167R CAT AYT GYT THC CTG AAT AWG C 22 -
+CAL-6375F GKR TWG TKA ARG GYT GGG GWG A 22 -
+HNL-6388R CTC WGT YAA RTC ATA WGG ATC 21 -
+HNL-3R TAG TAG TAK GCT CCG 15 -
+Mixed bases: B = G, T, C; D = G, A, T; H = A, T, C; K = G, T; M = A, C; N = A, T, G, C; R = A, G; W = A, T; and Y = C, T.
+470 ARAI ET AL.
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.
+Table 3. Sequence Identities of the Full-Length S, M, and L Segments of ARTV Strain Mukawa
+AH301 from Sorex caecutiens in Japan to Other Representative Hantaviruses
+Virus
+S M L
+1290 nt 429 aa 3420 nt 1139 aa 6456 nt 2151 aa
+ARTV Amga MSB148558 1290 nta
+429 aa 1088 nt 362 aa 4598 nt 1532 aa
+79.8% 93.5% 78.1% 95.0% 79.7% 96.0%
+ARTV Amga MSB148559 — — — — 1401 nt 467 aa
+79.8% 97.4%
+ARTV Amga MSB148436 — — 727 nt 242 aa 2454 nt 818 aa
+78.3% 97.1% 80.2% 97.3%
+ARTV Amga MSB148457 — — 683 nt 227 aa 2397 nt 799 aa
+78.2% 96.9% 80.0% 97.4%
+ARTV Amga MSB148347 582 nt 194 aa 729 nt 243 aa 1302 nt 434 aa
+76.5% 88.7% 78.2% 97.5% 80.2% 97.2%
+ARTV ART502 837 nt 279 aa 247 nt 82 aa 347 nt 115 aa
+76.9% 92.8% 79.8% 96.3% 80.1% 96.5%
+ARTV Galkino2712 559 nt 186 aa — — — —
+75.9% 89.2%
+ARTV Parnaya1205 767 nt 255 aa — — 347 nt 115 aa
+76.8% 92.6% 80.4% 95.7%
+SWSV mp70 1290 nta
+429 aa 250 nt 83 aa 3288 nt 1096 aa
+77.1% 86.7% 78.0% 91.6% 77.9% 94.3%
+KKMV MSB148794 1290 nta
+429 aa 1002 nt 334 aa 4295 nt 1432 aa
+74.6% 83.3% 79.1% 91.6% 77.9% 91.5%
+QHSV YN05-284 1290 nta
+429 aa 1430 nt 476 aa 450 nt 149 aa
+72.7% 83.5% 76.2% 89.9% 79.8% 93.3%
+YKSV Si-210 1290 nta
+429 aa 3420 nta
+1139 aa 339 nt 113 aa
+74.3% 84.0% 76.8% 88.2% 79.4% 91.3%
+ASIV Drahany 1290 nta
+429 aa 3420 nta
+1139 aa 1729 nt 576 aa
+73.2% 84.7% 76.8% 87.3% 79.3% 93.8%
+ARRV MSB73418 1059 nt 353 aa — — 347 nt 115 aa
+62.5% 64.0% 75.8% 86.1%
+JMSV MSB144475 1290 nta
+429 aa 1412 nt 470 aa 4928 nt 1642 aa
+65.8% 69.1% 72.6% 79.8% 74.8% 85.7%
+CBNV CBN-3 1287 nta
+428 aa 3420 nta
+1139 aa 412 nt 137 aa
+64.7% 69.0% 68.9% 73.9% 75.0% 84.9%
+TGNV Tan826 442 nt 147 aa — — 412 nt 137 aa
+62.4% 61.2% 71.8% 77.4%
+BOWV VN1512 1296 nta
+431 aa 3438 nta
+1145 aa 6477 nta
+2158 aa
+63.6% 67.8% 67.0% 66.8% 70.9% 78.2%
+AZGV KBM15 540 nt 180 aa 687 nt 229 aa 4556 nt 1518 aa
+60.7% 60.6% 71.0% 73.8% 71.4% 77.7%
+JJUV SH42 1287 nta
+428 aa 3408 nt 1135 aa 6474 nta
+2157 aa
+60.8% 61.8% 66.2% 65.8% 71.3% 77.6%
+MJNV Cl 05-11 1311 nta
+436 aa 3363 nta
+1120 aa 6450 nta
+2149 aa
+53.8% 45.3% 51.7% 42.5% 62.3% 61.7%
+TPMV VRC66412 1308 nta
+435 aa 3366 nta
+1121 aa 6450 nta
+2149 aa
+50.9% 44.2% 52.3% 43.1% 61.6% 61.7%
+ULUV FMNH158302 1187 nt 395 aa 1389 nt 463 aa 6459 nta
+2152 aa
+52.8% 45.7% 52.8% 42.8% 61.9% 61.9%
+KMJV FMNH174124 1269 nta
+423 aa 1240 nt 413 aa 6447 nta
+2148 aa
+53.7% 47.6% 53.8% 45.1% 63.0% 62.7%
+RKPV MSB57412 1287 nta
+428 aa 3411 nt 1136 aa 6462 nta
+2153 aa
+60.1% 60.3% 57.7% 51.8% 65.3% 67.9%
+OXBV Ng1453 1287 nta
+428 aa 3426 nt 1141 aa 4345 nt 1448 aa
+64.4% 68.3% 66.9% 67.4% 72.4% 80.3%
+ASAV N10 1302 nta
+433 aa 3423 nta
+1140 aa 6456 nta
+2151 aa
+65.1% 70.0% 71.6% 77.6% 75.4% 85.0%
+NVAV Te34 1287 nta
+428 aa 3384 nta
+1127 aa 6474 nta
+2157 aa
+56.1% 49.7% 53.5% 44.8% 63.6% 62.1%
+For virus names and hosts, refer to legend of Figure 2.
+a
+Complete coding region.
+—, sequences unavailable; aa, amino acids; ARTV, Artybash virus; nt, nucleotides; SWSV, Seewis virus.
+471
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.
+FIG. 2. Phylogenetic trees generated by Bayesian and maximum likelihood methods under the best-fit GTR + I + G model of
+evolution as estimated based on the entire coding regions of the full-length 1290-nucleotide S, 3420-nucleotide M, and 6456-
+nucleotide L genomic segments of Artybash virus (ARTV) strain Mukawa AH301. Phylogenetic trees show the positions of
+ARTV Mukawa AH301 (GenBank accession numbers: S: KF974360; M: KF974359; and L: KF974361), ARTV Amga
+MSB148558 (S: KM201411; M: KM201412; and L: KM201413), ARTV Amga MSB148559 (S: KM201414), ARTV Amga
+MSB148436 (M: KM201415 and L: KM201416), ARTV Amga MSB148457 (M: KM201417 and L: KM201418), ARTV
+Amga MSB148347 (S: KM201419; M: KM201420; and L: KM201421), ARTV ART502 (S: KM288698; M: EU424340; and
+L: EU424339), ARTV Galkino2712 (S: KM288699), and ARTV Parnaya1205 (S: KU253274 and L: KU253275) from Sorex
+caecutiens. Also shown are Ash River virus (ARRV MSB73418, S: EF650086 and L: EF619961) from Sorex cinereus, Jemez
+Springs virus (JMSV MSB144475, S: FJ593499; M: FJ593500; and L: FJ593501) from Sorex monticolus, Seewis virus
+(SWSV mp70, S: EF636024; M: EF636025; and L: EF636026) from Sorex araneus, Asikkala virus (ASIV Drahany, S:
+KC880342; M: KC880345; and L: KC880348) from Sorex minutus, Kenkeme virus (KKMV MSB148794, S: GQ306148; M:
+GQ306149; and L: GQ306150) from Sorex roboratus, Qian Hu Shan virus (QHSV YN05-284, S: GU566023; M: GU566022;
+and L: GU566021) from Sorex cylindricauda, Yakeshi virus (YKSV Si-210, S: JX465423; M: JX465403; and L: JX465389)
+from Sorex isodon, and Cao Bang virus (CBNV CBN-3, S: EF543524; M: EF543526; and L: EF543525) from Anourosorex
+squamipes, as well as Thottapalayam virus (TPMV VRC66412, S: AY526097 and L: EU001330) from Suncus murinus, Imjin
+virus (MJNV Cl 05-11, S: EF641804; M: EF641798; and L: EF641806) from Crocidura lasiura, Azagny virus (AZGV
+KBM15, S: JF276226; M: JF276227; and L: JF276228) from Crocidura obscurior, Tanganya virus (TGNV Tan826, S:
+EF050455 and L: EF050454) from Crocidura theresea, Bowé virus (BOWV VN1512, S: KC631782; M: KC631783; and L:
+KC631784) from Crocidura douceti, Jeju virus (JJUV SH42, S: HQ663933; M: HQ663934; and L: HQ663935) from
+Crocidura shantungensis, Uluguru virus (ULUV FMNH158302, S: JX193695; M: JX193696; and L: JX193697) from
+Myosorex geata, and Kilimanjaro virus (KMJV FMNH174124, S: JX193698; M: JX193699; and L: JX193700) from Myo-
+sorex zinki. Mole-borne hantaviruses include Asama virus (ASAV N10, S: EU929072; M: EU929075; and L: EU929078) from
+Urotrichus talpoides, Nova virus (NVAV Te34, S: KR072621; M: KR072622; and L: KR072623) from Talpa europaea,
+Oxbow virus (OXBV Ng1453, S: FJ5339166; M: FJ539167; and L: FJ593497) from Neurotrichus gibbsii, and Rockport virus
+(RKPV MSB57412, S: HM015223; M: HM015222; and L: HM015221) from Scalopus aquaticus. Bat-borne hantaviruses
+include Magboi virus (MGBV MGB1209, L: JN037851) from Nycteris hispida, Mouyassué virus (MOYV KB576, L:
+JQ287716) from Neoromicia nanus, Huangpi virus (HUPV Pa-1, S: JX473273 and L: JX465369) from Pipistrellus abramus,
+Longquan virus (LQUV Ra-25, S: JX465415; M: JX465397; and L: JX465381) from Rhinolophus sinicus, Laibin virus (LBV
+BT20, S: KM102247; M: KM102248; and L: KM102249) from Taphozous melanopogon, and Xuan Son virus (XSV
+VN1982B4, S: KC688335; M: KU976427; and L: JX912953) from Hipposideros pomona. Other taxa include Sin Nombre
+virus (SNV NMH10, S: NC_005216; M: NC_005215; and L: NC_005217), Andes virus (ANDV Chile9717869, S: AF291702;
+M: AF291703; and L: AF291704), Prospect Hill virus (PHV PH-1, S: Z49098; M: X55129; and L: EF646763), Tula virus
+(TULV M5302v, S: NC_005227; M: NC_005228; and L: NC_005226), Puumala virus (PUUV Sotkamo, S: NC_005224; M:
+NC_005223; and L: NC_005225), Dobrava virus/Belgrade virus (DOBV/BGDV Greece, S: NC_005233; M: NC_005234; and
+L: NC_005235), Hantaan virus (HTNV 76-118, S: NC_005218; M: NC_005219; and L: NC_005222), Soochong virus (SOOV
+SOO-1, S: AY675349; M: AY675353; and L: DQ056292), Sangassou virus (SANGV SA14, S: JQ082300; M: JQ082301; and
+L: JQ082302) and Seoul virus (SEOV 80-39, S: NC_005236; M: NC_005237; and L: NC_005238). The numbers at each node
+are posterior node probabilities (left) based on 150,000 trees: two replicate Markov chain Monte Carlo runs, consisting of six
+chains of 10 million generations each sampled every 100 generations with a burn-in of 25,000 (25%) and bootstrap values
+(right), based on 100 replicates executed on the RAxML BlackBox Web server.
+472
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.
+generations and estimated sample sizes more than 100
+(implemented in MrBayes).
+Host species identification
+Because shrews are inherently difficult to identify by mor-
+phological features alone, host verification of ARTV-infected
+shrews was confirmed by analyzing the entire 1140-base pair
+cytochrome b gene of mitochondrial DNA (mtDNA), ampli-
+fied by PCR, using modified universal primers (Cy-14726F: 5¢-
+GACYARTRRCATGAAAAAYCAYCGTTGT-3¢ and Cy-
+15909R: 5¢-CYYCWTYIYTGGTTTACAAGACYAG-3¢)
+(Arai et al. 2008b). A Bayesian approach, as described above,
+with midpoint rooting was used to determine the phylogenetic
+relationship between Laxmann’s shrews and other shrew and
+mole species known to harbor distinct hantaviruses.
+Results and Discussion
+ARTV RNA was detected by RT-PCR in five of 39
+(12.8%) and one of 29 (3.4%) Laxmann’s shrews captured in
+Russia and Japan, respectively (Table 1). All but one of the
+six ARTV-infected shrews were males.
+Analysis of the full-length nucleotide and amino acid se-
+quences of the S, M, and L segments (GenBank accession
+numbers: KF974360, KF974359, and KF974361, respec-
+tively) of ARTV strain Mukawa AH301 showed considerable
+divergence from representative hantaviruses harbored by
+shrews in the Soricinae subfamily in Eurasia (Table 3): S,
+22.9–27.3% and 13.3–16.0%; M, 20.9–23.8% and 8.4–
+12.7%; and L, 20.2–22.1% and 5.7–8.7%, respectively. In
+contrast, alignment and comparison between ARTV strain
+Mukawa AH301 and the very limited S, M, and L segments
+of ARTV strains ART502, Galkino2712, and Parnaya1205
+showed higher sequence similarity at the amino acid level
+(Table 3).
+Phylogenetic analyses of ARTV strain Mukawa AH301,
+based on the full-length coding regions (comprising 1290-
+nucleotide S, 3420-nucleotide M, and 6456-nucleotide L
+segment sequences), showed similar topologies, with ARTV
+strains from the Sakha Republic and ARTV strains detected
+independently in Laxmann’s shrews captured in the Altai
+Republic and Khabarovsk Krai of Russia forming a separate
+geographic-specific cluster (Fig. 2). Moreover, ARTV strains
+were distinct from recently detected hantaviruses harbored by
+other Sorex shrew species in Eurasia. In contrast, differences
+in the phylogenetic positions of some soricine shrew-borne
+hantaviruses may be attributed to the limited sequences, es-
+pecially for the M and L segments.
+The identities of the six ARTV-infected shrews were
+confirmed as Laxmann’s shrews (GenBank no. KF974362
+for strain AH301; GU562415, GU562416, GU562417,
+GU562418, and GU562422 for strains MSB148558,
+MSB148559, MSB148436, MSB148457, and MSB148347,
+respectively). The cytochrome b mtDNA sequences of the
+ARTV-infected Laxmann’s shrews from Japan and Russia dif-
+fered by 4.0–6.4%. The ARTV-negative shrews from Japan
+were also identified as Laxmann’s shrews by analysis of the
+1140-nucleotide cytochrome b mtDNA gene (GenBank nos.
+KU760858 to KU760884). However, the full-length cyto-
+chromebmtDNAsequencevariationwas0–1.1%and0.5–1.1%
+among Laxmann’s shrews in Japan and Russia, respectively.
+Host phylogenies based on mtDNA cytochrome b se-
+quences of shrew and mole species, which harbor genetically
+distinct hantaviruses, showed two separate lineages of Lax-
+mann’s shrews (Fig. 3). This was consistent with previous
+studies suggesting at least two genetic races of Laxmann’s
+FIG. 3. Bayesian phyloge-
+netic tree based on 1140 nu-
+cleotides of the cytochrome
+b mtDNA of shrews and mo-
+les (order Eulipotyphla and
+families Talpidae and Sor-
+icidae). The tree was rooted
+using Elephantulus (order
+Macroscelidea, GenBank
+nos. DQ901019, DQ901206,
+and DQ901201) as the out-
+group. Numbers at nodes indi-
+cate posterior probability
+values based on 150,000 trees:
+two replicate Markov chain
+Monte Carlo runs, consisting
+of six chains of 10 million
+generations each sampled ev-
+ery 100 generations with a
+burn-in of 25,000 (25%).
+GenBank numbers for all taxa
+are provided in the tree.
+NEWFOUND SHREW-BORNE HANTAVIRUS 473
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.
+shrews distributed in Eurasia and Japan (Ohdachi et al. 2003).
+That is, based on analysis of the full-length cytochrome b
+gene, Laxmann’s shrews were separated into Hokkaido and
+Eurasian Continent–Sakhalin–Cheju clusters. Individuals in
+the latter cluster do not always reflect the geographical
+proximity of their capture locations, which is consistent with
+an ancestral isolation of the Hokkaido population, occurring
+*13,000 years before present (Tanabe et al. 2015), and recent
+rapid range expansion of the modern Eurasian Continent–
+Sakhalin–Cheju population (Ohdachi et al. 2003).
+The phylogeographic variation in ARTV reflects the dis-
+tinct evolutionary histories of these variants. Similar patterns
+of geographic variation have also been reported for rodent-
+borne hantaviruses. For example, geographic-specific genetic
+variants have been reported for Puumala virus in the bank
+vole (Myodes glareolus) (Garanina et al. 2009), Tula virus in
+the European common vole (Microtus arvalis) (Song et al.
+2004), and Andes virus in the colilargo (Oligoryzomys
+longicaudus) (Torres-Perez et al. 2011). Both Muju virus in
+the royal vole (Myodes regulus) (Lee et al. 2014) and Hok-
+kaido virus in the grey red-backed vole (Myodes rufocanus)
+and northern red-backed vole (Myodes rutilus) (Yashina et al.
+2015) may represent genotypes of Puumala virus. These
+examples point to the urgency of studying the phylogeo-
+graphic variation of viruses and their hosts to provide an
+essential foundation for understanding their evolutionary
+histories and as a prelude to forecasting their future emer-
+gence under changing environmental conditions (Hope et al.
+2013, Campbell et al. 2015).
+Although ARTV was detected in a single Laxmann’s
+shrew captured in the Mukawa area in Japan, the evidence is
+compelling that this Sorex shrew species harbors ARTV
+across its broad geographic range. Our findings suggest that
+Laxmann’s shrews, resident on Hokkaido Island before the
+geologic separation from the Eurasian continent, might have
+already been infected with ARTV. Renewed attempts to
+isolate ARTV from Laxmann’s shrews captured in Eurasian
+Continent–Sakhalin–Cheju and Japan are warranted to better
+understand its evolutionary origins and phylogeography, as
+well as its pathogenic potential in humans.
+Acknowledgments
+We thank Masashi Hamada, Yu Ikeyama, and Keita Aoki
+for their technical assistance and Kimiyuki Tsuchiya, Hidenori
+Nishizawa, and Kyle R. Taylor for supporting field inves-
+tigations. We also thank Nikolai Dokuchaev, Andrew G.
+Hope, Anson Koehler, Stephen O. MacDonald, Robert A.
+Nofchissey, and Albina Tsvetkova for assistance with field
+collections made in Russia through the National Science
+Foundation support (DEB0415668). In addition, this research
+was supported in part by a grant-in-aid for Research on
+Emerging and Re-emerging Infectious Diseases, Health La-
+bour Sciences Research Grant in Japan (H22-Shinko-Ippan-
+006 and H25-Shinko-Ippan-008), a grant-in aid for Research
+Program on Emerging and Re-emerging Infectious Diseases,
+Japan Agency for Medical Research and Development
+(AMED), and a grant-in-aid from the Japan Society for the
+Promotion of Science (S13205 Invitation Fellowship for
+Research in Japan), as well as by the U.S. Public Health
+Service grants R01AI075057 from the National Institute of
+Allergy and Infectious Diseases and P20GM103516 and
+P30GM114737 (Centers of Biomedical Research Ex-
+cellence) from the National Institute of General Medical
+Sciences, National Institutes of Health.
+Author Disclosure Statement
+No competing financial interests exist.
+References
+Animal Care and Use Committee. Guidelines for the capture,
+handling, and care of mammals as approved by the American
+Society of Mammalogists. J Mammal 1998; 79:1416–1431.
+Arai S, Bennett SN, Sumibcay L, Cook JA, et al. Phylogen-
+etically distinct hantaviruses in the masked shrew (Sorex ci-
+nereus) and dusky shrew (Sorex monticolus) in the United
+States. Am J Trop Med Hyg 2008a; 78:348–351.
+Arai S, Ohdachi SD, Asakawa M, Kang HJ, et al. Molecular
+phylogeny of a newfound hantavirus in the Japanese shrew
+mole (Urotrichus talpoides). Proc Natl Acad Sci USA 2008b;
+105:16296–16301.
+Bennett SN, Gu SH, Kang HJ, Arai S, et al. Reconstructing the
+evolutionary origins and phylogeography of hantaviruses.
+Trends Microbiol 2014; 22:473–482.
+Campbell LP, Luther C, Moo-Llanes D, Ramsey JM, et al.
+Climate change influences on global distributions of dengue
+and chikungunya virus vectors. Philos Trans R Soc Lond B
+Biol Sci 2015; 370:ii, 20140135.
+Garanina SB, Platonov AE, Zhuravlev VI, Murashkina AN,
+et al. Genetic diversity and geographic distribution of han-
+taviruses in Russia. Zoonoses Public Health 2009; 56:297–
+309.
+Gu SH, Hejduk J, Markowski J, Kang HJ, et al. Co-circulation
+of soricid- and talpid-borne hantaviruses in Poland. Infect
+Genet Evol 2014; 28:296–303.
+Guo WP, Lin XD, Wang W, Tian JH, et al. Phylogeny and
+origins of hantaviruses harbored by bats, insectivores and
+rodents. PLoS Pathog 2013; 9:e1003159.
+Hope AG, Waltari EC, Payer DC, Cook JA, et al. Future dis-
+tribution of tundra refugia in Alaska. Nature Climate Change
+2013; 3:931–938.
+Kang HJ, Arai S, Hope AG, Song JW, et al. Genetic diversity
+and phylogeography of Seewis virus in the Eurasian common
+shrew in Finland and Hungary. Virol J 2009a; 6:208.
+Kang HJ, Bennett SN, Sumibcay L, Arai S, et al. Evolutionary
+insights from a genetically divergent hantavirus harbored by
+the European common mole (Talpa europaea). PLoS One
+2009b; 4:e6149.
+Korva M, Knap N, Rus KR, Fajs L, et al. Phylogeographic
+diversity of pathogenic and non-pathogenic hantaviruses in
+Slovenia. Viruses 2013; 5:3071–3087.
+Lee JG, Gu SH, Baek LJ, Shin OS, et al. Muju virus, harbored
+by Myodes regulus in Korea, might represent a genetic var-
+iant of Puumala virus, the prototype arvicolid rodent-borne
+hantavirus. Viruses 2014; 6:1701–1714.
+Ling J, Sironen T, Voutilainen L, Hepojoki S, et al. Hanta-
+viruses in Finnish soricomorphs: Evidence for two distinct
+hantaviruses carried by Sorex araneus suggesting ancient
+host-switch. Infect Genet Evol 2014; 96:1664–1675.
+Ohdachi S, Abe H, Han SH. Phylogenetical positions of Sorex
+sp. (Insectivore, Mammlia) from Cheju island and S. caecu-
+tiens from Korean peninsula, inferred from mitochondrial
+cytochrome b gene sequences. Zool Sci 2003; 20:91–95.
+Posada D. jModelTest: phylogenetic model averaging. Mol Biol
+Evol 2008; 25:1253–1256.
+474 ARAI ET AL.
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.
+Radosa L, Schlegel M, Gebauer P, Ansorge H, et al. Detection
+of shrew-borne hantavirus in Eurasian pygmy shrew (Sorex
+minutus) in Central Europe. Infect Genet Evol 2013; 19:403–
+410.
+Resman K, Korva M, Fajs L, Zidari
+c T, et al. Molecular evi-
+dence and high genetic diversity of shrew-borne Seewis virus
+in Slovenia. Virus Res 2013; 177:113–117.
+Ronquist F, Huelsenbeck JP. MrBayes 3: Bayesian phyloge-
+netic inference under mixed models. Bioinformatics 2003;
+19:1572–1574.
+Schlegel M, Radosa L, Rosenfeld UM, Schmidt S, et al. Broad
+geographical distribution and high genetic diversity of shrew-
+borne Seewis hantavirus in Central Europe. Virus Genes
+2012; 45:48–55.
+Song JW, Baek LJ, Song KJ, Skrok A, et al. Characterization of
+Tula virus from common voles (Microtus arvalis) in Poland:
+evidence for geographic-specific phylogenetic clustering.
+Virus Genes 2004; 29:239–247.
+Song JW, Gu SH, Bennett SN, Arai S, et al. Seewis virus, a
+genetically distinct hantavirus in the Eurasian common shrew
+(Sorex araneus). Virol J 2007; 4:114.
+Stamatakis A, Hoover P, Rougemont J. A rapid bootstrap al-
+gorithm for the RAxML Web servers. Syst Biol 2008;
+57:758–771.
+Tanabe S, Nakanishi T, Ishihara Y, Nakashima R. Millennial-
+scale stratigraphy of a tide-dominated incised valley during
+the last 14 kyr: spatial and quantitative reconstruction in the
+Tokyo Lowland, central Japan. Sedimentology 2015.
+Thompson JD, Higgins DG, Gibson TJ. CLUSTAL W: im-
+proving the sensitivity of progressive multiple sequence
+alignment through sequence weighting, position-specific gap
+penalties and weight matrix choice. Nucleic Acids Res 1994;
+22:4673–4680.
+Torres-Perez F, Hjelle B, Holmes EC, Cook JA. Spatial but not
+temporal co-divergence of a virus and its mammalian host.
+Mol Ecol 2011; 20:4109–4122.
+Yanagihara R, Gu SH, Arai S, Kang HJ, et al. Hantaviruses:
+rediscovery and new beginnings. Virus Res 2014; 187:6–14.
+Yashina LN, Abramov SA, Dupal TA, Danchinova GA, et al.
+Hokkaido genotype of Puumala virus in the grey red-backed
+vole (Myodes rufocanus) and northern red-backed vole
+(Myodes rutilus) in Siberia. Infect Genet Evol 2015; 33:304–
+313.
+Yashina LN, Abramov SA, Gutorov VV, Dupal TA, et al.
+Seewis virus: phylogeography of a shrew-borne hantavirus in
+Siberia, Russia. Vector Borne Zoonotic Dis 2010; 10:585–
+591.
+Zuo SQ, Gong ZD, Fang LQ, Jiang JF, et al. A new hantavirus
+from the stripe-backed shrew (Sorex cylindricauda) in the
+People’s Republic of China. Virus Res 2014; 184:82–86.
+Address correspondence to:
+Richard Yanagihara
+Pacific Center for Emerging Infectious Diseases Research
+John A. Burns School of Medicine
+University of Hawai‘i at Manoa
+651 Ilalo Street, BSB320L
+Honolulu 96813
+Hawaii
+E-mail: ryanagih@hawaii.edu
+NEWFOUND SHREW-BORNE HANTAVIRUS 475
+Downloaded
+by
+Univ
+Of
+Pennsylvania
+from
+online.liebertpub.com
+at
+10/10/17.
+For
+personal
+use
+only.

@@ -1,0 +1,663 @@
+﻿Volume 1 1 Number 5 1983 Nucleic Acids Research
+The sequence of RNA segment 1 of influenza virus            and its comparson with the
+corresponding segmet of strain           and         
+K.L.Jones, J.A.Huddleston and G.G.Brownlee
+Sir William Dunn School of Pathology, University of Oxford, South Parks Road, Oxford OXI
+3RE, UK
+Received 7 January 1983; Revised and Accepted 2 February 1983
+ABSTRACT
+The complete nucleotide sequence of RNA segment 1 of influenza virus
+          , corresponding to the PB2 protein, has been determined. It is
+2341 nucleotides long, encoding a predicted product of 759 amino acids with
+a net charge of +271 at neutral pH. The predicted amino acid sequence has
+been compared to the equivalent sequences in influenza viruses           and
+        . Evolutionary divergence, assuming a direct lineage from          
+and allowing for "laboratory drift", is 0.08% per year. The alignment of RNA
+segment 10 of            with segments 1 and 3 is completed, confirming that
+it is a mosaic of regions from these two segments.
+INTRODUCTION
+Influenza A viruses have negative stranded, segmented RNA genomes
+consisting of 8 essential segments (1), which code for at least 10 proteins
+(2). The largest of these segments are over 2,200 nucleotides long and code
+for the 3 polymerase proteins (PB2, PBl, PA)(3,4). Together with the viral
+RNA and nucleocapsid protein (NP), they make up the active transcribing
+structures (5,6). RNA segment 1 of influenza virus            encodes the
+PB2 protein (the smaller of the 2 basic P proteins), found in other influenza
+strains, to recognise host cell cap 1 structures (7-11). The capped RNA is
+cleaved 10-14 nucleotides from its 5' end (12-14), preferentially after a
+purine residue (15), by a cap 1-dependent virion endonuclease (15), thus pro-
+ducing an RNA primer. The larger basic P protein (PBl) appears to catalyse
+the addition of the first ribonucleotide (7,10), which is complementary to
+the 2nd or 3rd residue of the viral RNA (14,16) to the free 3' OH group of
+this primer. Additional processes such as elongation and termination of the
+nascent RNA chain remain to be assigned to specific proteins, although the
+acidic P protein (PA) may be involved in at least one of these functions (10).
+The proposed function of the 3 polymerase proteins and cross reference to the
+older nomenclature is summarized in Table 1.
+© IRL Press Limited, Oxford, England. 1 555
+Nucleic Acids Research
+TABLE 1 Function and nomenclature of polymerase proteins
+RNA Previous New Proposed
+segment nomenclature nomenclature function
+1 P3t or P2* PB2 Cap recognition
+2 P1 PB1 Initiation of
+transcription
+3 P2t or P3* PA ?Elongation
+t in           (38) * in               (37)
+Influenza is still a cause of mortality among the elderly. Specific
+vaccines directed against the surface glycoproteins, the haemagglutinin (HA)
+and neuraminidase (NA) are in use and have a protective value but the high
+rate of evolution of these proteins reduces the potential lifetime of such
+agents (17). The P proteins represent an alternative target for anti-viral
+agents, and it is of great interest to elucidate their mode of action in an
+attempt to give both a deeper understanding of the virus and to design physio-
+logically safe drugs.
+In the present study, we present the nucleotide sequence of RNA segment
+1 of influenza virus           , which codes for the PB2 protein. Its predic-
+ted amino acid sequence is compared with the corresponding segments of influ-
+enza viruses           (18) and          (19) in order to estimate its rate
+of evolution and to look for conserved regions of possible functional signifi-
+cance. This sequence also completes the comparison of RNA segment 10 (20), a
+small RNA isolated from a preparation of           , with segments 1 and 3 of
+           (21). We confirm that segment 10 is indeed a mosaic of these 2
+segments, formed by some form of intragenic recombination.
+MATERIALS AND METHODS
+Cloning of full length segment 1 RNA of            Double stranded DNA was
+synthesized from a mixture of full length cDNA of segments 1, 2 and 3 of      
+      virion RNA (kindly provided by Dr B M Moss) and cloned in the PvuII site
+of p    2 as previously described (22,23). This entailed the use of 2 oligo-
+nucleotide primers such that the first 12 and last 13 nucleotide residues of
+the cloned RNA segments were derived from these primers and could differ
+slightly from the RNA sequence. 240 potential recombinants were first
+screened (24) with [32P] labelled short-copy cDNA obtained from           
+1556
+Nucleic Acids Research
+virion RNA allowing us to isolate full length segment 2 and segment 3 clones
+as previously described (22). Surprisingly, segment 1 clones were absent in
+the initial screening but were subsequently detected by screening (24) with
+[32p] labelled short-copy cDNA derived from the heterologous virion RNA,   
+          , also provided by Dr B M Moss. Two independent segment 1 clones,
+referred to as              and 2, gave a distinctive HinfI restriction enzyme
+profile when analysed by 5% polyacrylamide gel electrophoresis versus marker
+segment 2 and segment 3 clones (results not shown).              and 2 dif-
+fered from one another in a total of 7 of their HinfI bands (results not
+shown), suggesting they were cloned in opposite orientations in the PvuII site
+of p    2 and that, in addition, clone 2 lacked an internal HinfI site. Sequ-
+encing of residues 1174 to 1428 confirmed this hypothesis (36). Subsequent
+cloning of material from the same full length double-stranded DNA preparation
+into a modified p    2 vector gave 2 clones with an internal HinfI restriction
+pattern identical to that of clone 1. Thus 3 out of 4 RNA segment 1 clones
+are taken to be identical to that sequenced.
+Subcloning of sonicated fragments in M13mp9 and sequencing 15 Fgs of plasmid
+DNA (25) derived from clone              was sonicated (26) to an average size
+of 400 base pairs and the ends repaired by incubation with the Klenow subfrag-
+ment of E.coli DNA polymerase I in the presence of all 4 deoxynucleoside tri-
+phosphates. After heating the reaction mixture at 70 for 10 mins, a one-
+tenth aliquot was blunt-end ligated (27,9) using T4 DNA ligase (from N. Gas-
+coyne) to approximately 5 jg of SmaI cut and calf intestinal phosphatase
+treated (23) M13mp9 (28). The ligation mixture (10l1) was used to transform
+competent E.coli     3 (29) and recombinants selected as clear plaques by
+insertional inactivation of 6-galactosidase (29). 200 recombinants were
+transferred as an ordered array onto a lawn of E.coli     3 on a fresh plate
+and phage was transferred by blotting in duplicate onto nitrocellulose filters
+for screening (30) for specific influenza segment 1 containing sequences. Two
+probes were used: firstly a [32p] labelled cDNA prepared against an         
+68 vRNA template (23) in the presence of all 4 deoxynucleoside triphosphates,
+and secondly llkg of            vRNA was partially degraded by boiling for 15
+mins in 2 Ll of deionised formamide in lmM MgCl2 and labelled with [ _32p]
+ATP using T4 phosphokinase (31). Free deoxynucleoside triphosphates were
+separated on a lml Sephadex G100 column. Single stranded DNA from the 60
+specific influenzal clones was prepared by standard procedures (32). The
+phage inserts were sequenced using the Sanger dideoxy sequencing technique
+(33) in conjunction with a 'universal' 17 nucleotide long primer (34). 95%
+1557
+Nucleic Acids Research
+of the sequence was obtained in this manner. A consensus of the sequence data
+was prepared using the Staden programs (35). Two contigs were constructed,
+with an intervening unknown region, estimated to be 10-20 nucleotides (corres-
+ponding to nucleotides 689-703) in length by comparison with the known sequ-
+ence of segment 1 of           (18). To complete this unknown region, a Bst
+Ni restriction fragment was labelled and sequenced by standard Maxam and
+Gilbert sequencing procedures (36). Further ambiguous regions were sequenced
+in this manner. Nucleotides 2165-2314, 490-658 and 863-921 were obtained by
+a common DdeI digestion followed by digestion of the specific bands with AccI,
+RsaI and RsaI respectively. The sequence shown in figure 1 represents a con-
+sensus of 75% of viral (negative) strand and 93% of the positive strand with
+3% of this sequence, (nucleotides 1323-1333, 1371-1378 and 1851-1878 inclu-
+sive), present in a single copy. A consensus of the above information is
+available upon request.
+RESULTS
+Figure 1 shows the sequence of RNA segment 1 of influenza virus         
+68 as deduced from clone             , written in the mRNA (positive) sense.
+It is 2341 nucleotides in length with a viral RNA base composition of 23% A,
+24.6% C, 17.9% G and 34.5% U. There is one long open reading frame from
+nucleotide numbers 28-2304 coding for a predicted product of 759 amino acids.
+No other open reading frames longer than 250 nucleotides exist in the mRNA
+sense. Since the longest two other open reading frames contain neither a
+methionine residue nor a splicing acceptor site close to the 5' ends, and
+alternative forms of segment 1 mRNAs have not been demonstrated, it is unlike-
+ly they are utilized. The second clone,             , with the altered HinfI
+profile (see Methods) has a G residue at nucleotide 1312, causing a change in
+the predicted amino acid sequence from Asn -O Asp at residue 429.
+The predicted protein of 759 amino acids (Fig. 1) is basic, with a net
+charge of +271 at pH 7.0, assuming glutamic and aspartic acid take the value
+-1, arginine and lysine the value +1, and histidine the value +j and that no
+post-translational modification has occurred. The calculated molecular weight
+of 85,947 daltons, is consistent with the predicted weight of 80-100 daltons
+for the protein from SDS gels.
+1558
+Nucleic Acids Research
+E1 R I K E L R M L H 13359 TSR ZIPT K T T V ONH N A I I
+ROM UAUMMUAAAOAAOAUCOUUCCWUCCCCOCOACAAUCMACCOUOCSACSA
+10 20 30 40 50 s0 70 30 so 100 110 120
+130 140 150 1g0 170 ISO 150 200 210 220 220 240
+ED8 0 I T L M So? N lO0AD 3
+S0 R V H V S P L A V T N     5 N 0 P H T I T V H Y
+250 230 270 230
+P1R V YK T Y F 1 K V ESPL
+ccAAAUUCAAUAUUAAAUOAOUA
+370 330 330 400
+AO0L S AK E Al10D V I M E
+OCAGACCUCAOUO3CCAAOOAOOCACAAOAUAOA
+490 500 510 520
+E LI D CIKI 95200L M V AY
+OAACUCCAAOAUUDCAAAAUUUCUCCUUOUOUCUC
+310 320 630 340
+240
+L M L TUO
+GT C ME 3 VYT
+mAAcououumAoAm
+730 740 750 750
+V S AD0 P L A SYTL E N C H
+850 3o0 370 330
+I A A MD0L R I
+1 F S F
+370 3o0 330 1000
+LIRI R V M D 0 390 E P T N
+-----
+OGNCUAUmOUC0OAOAALRCACAAUD
+1060 1100 1110 1120
+IS6V A E AZ I¶40 A M V F
+c
+1210 1220 1230 1240
+440
+NMIL L RMHPSIK OAK V L
+CPAI
+1330 1340 1350 1330
+EM M
+9NR DI 51048 K M 0 V
+36in36C- AOCAA-AAAWOOGCGUa
+1450 1460 1470 1430
+L LU8 P1E E V Bar7 I 0 T E
+1570 1530 1530 1500
+M III M-NM E T 90K I 3 U I
+1630 1700 1710 1720
+V SO VSY T L 5105 S M 5 0
+1310 1320 1330 1S40
+1330 1340 1350 1330
+AD 7 LII E3 P
+ao
+0 T 3 I
+20530 2030 2070 2060
+ELI M
+NL AK 7
+K A N V L
+2170 2130 2130 2200
+ISPISP M A I 1
+230
+AWACAOOM
+410
+530
+650
+CADDUODA
+770
+173
+OCACACAG
+390
+1010
+1130
+1220
+1370
+0 EY
+GAGAAC
+1430
+K L T
+WACUOACA
+1730
+VLOZU
+WIAAUACUL
+20300
+2210
+300
+420
+=CAAUGAAOUUX
+540
+MAOMGACUUOUJC
+VMO
+730
+300
+1020
+1140
+1230
+13300
+1UCAGCACAOSO
+I T YS
+1740
+T FD0T
+IwUUoAU~
+133
+0
+2100
+aODV V
+2220
+310 320
+430 440
+D A RI L T
+550 560
+670 630
+MUG    LAUMEAMM
+730 300
+RSMV D I L
+MW8A    3ACALMiCtU
+310 3208
+1030 1040
+I LRIK A T
+1150 IISO
+3CAOLUUMOOLIGUALCUM
+1270 12300
+HNI DMNVMN
+CAUAUCOACAAVUAAUOMJ
+1330 1400
+1510 1520
+1330 1640
+1750 1760
+ACCCMBALNUMUMMCUA
+1370 1330
+1330 2000
+OPFL I LO0
+2110 2120
+2230 2240
+330
+V I2oI S
+WCrIomAAUA-OO
+450
+.106A a
+M£ODMUCACA
+L 2YOI A
+310A-N
+SY3rN P
+WOAGAA=~A
+330
+1050
+R 310L V
+1170
+N¶O V N
+340 350 3300
+460 470 430
+L T I TICKl-R-R-E
+O TSI8V Y IE V
+700 710 720
+320 330 540
+340 3M0 330
+1030 1070 1030
+I L I VIO
+0RD0E
+1130 1130 1200
+A N 3R L NPM
+1230 1300 1310 1320
+O
+I0V L P N T PI8T
+1410 1420 1430 1440
+0510F L S V 5 0
+1530 1540
+1 5P P E 5 V L
+1770 17300
+LYOPF A A A P P
+%=CCWUVOCAOCCACCCCACC
+1330 1300
+NOrT T I S L T
+2010 2020
+S7 S V 0 P
+2130 2140
+RYS0 3 I *L T D
+2250, 2230
+1550 1530
+A IRaDaI
+1730 1500
+WOMWAOAUAGOASA
+1310 1320
+MAWUPMCOOAMAAOAV
+203 2040
+2150 2130
+2270 2230
+Figure 1. Nucleotide sequence of segment 1 of            and the predicted
+amino acid sequence of the PB2 protein.
+1559
+c
+h
+u
+m
+a
+A
+9
+c
+4
+a
+K
+0
+c
+a
+c
+a
+w
+c
+c
+x
+a
+c
+9
+if
+j
+m
+a
+10
+m
+Nucleic Acids Research
+DISCUSSION
+1. Comparison of the predicted amino acid sequence of the PB2 protein among
+differing influenza A virus strains
+Figure 2 shows the differences in the amino acid sequence between that
+reported here and the corresponding segments of           (18) and         
+(38). Of the 30 amino acid differences (Fig. 2) between            and      
+    , 22 are due to single nucleotide mutations. The remainder show 2 sub-
+stitutions within the codon, but, in each case, one of these could be a silent
+change. A similar comparison between the amino acid sequences of           
+and          indicates 35 differences, 32 of which are single site mutations.
+2 changes are due to 2 substitutions within a single codon and one nucleotide
+change is probably silent. In the single case of amino acid residue 453, all
+3 nucleotides differ. Most amino acid changes between the three strains are
+conservative in nature (e.g. R -L) or semi-conservative (S -* A, N *S).
+But 2 of the differences between           and            are non-conserved,
+at residues 309 (G --I-D) and 453 (P -* H). Between          and           ,
+5 non-conserved changes occur at residues 195 (G -D), 296 (N -D), 630
+(G R), 740 (N -* D), and 453 (S -, H). These alterations give a slightly
+increased overall charge of +28 for the PB2 protein of           and +29 for
+        . We consider it unlikely that these non-conserved residues play an
+important functional role in Cap recognition because of their charge varia-
+bility between different strains of influenza. The marked change in second-
+Influenza
+43 67 82 103 105 107 114 121 185 195 250 251 271 292 298
+strain rr
+           S V 8 G K S V / I D V R A T D
+          A I N       I R - - -
+Influenza
+299 309 338 344 358 368 382 394 444 451 453 463 471 478 480
+         V\ V\ K\ R I I\ A
+           |I
+LX
+D K
+V
+V |IE H V V
+          R jG . I
+R I I V I
+Influenza
+491 493 494 588 613 630 636 638 655 661 667 674 676 684 740
+strain AI i11IV I T
+         A AK
+I G I I V p T N\
+          TI R V I T R L IV A T i T S D
+          IA F' V     
+T A
+Figure 2. Amino acid differences between the PB2 proteins of           ,
+         and          .
+1560
+Nucleic Acids Research
+ary structure which can occur upon substitution of a proline residue by any
+other amino acid suggests that residue 453 has limited structural significance.
+If a similar comparison is carried out between the influenza viruses
+          and         , 27 differences are seen (Fig. 2). Since the initial
+isolates were obtained just a year apart, few changes might be expected bet-
+ween them. However, both viruses have been passaged within the laboratory,
+and in particular,          has undergone repeated passage to select a neuro-
+tropic variant. We know from a comparison of the nucleotide sequences
+encoding the mature HAl polypeptide (39,40), and the MS2 (41,32) and NS (42,
+27) proteins, that the predicted amino acid sequences can differ between
+different laboratory isolates of          . The variation is 7 out of 325,
+2 out of 96, 1 out of 230, and 2 out of 121 residues in the polypeptides HAl,
+KS2, NS1 and NS2, respectively, or a mean average of 1.5% per protein. Hence,
+we might expect that "laboratory drift" accounts for some of the observed
+differences between the three strains, particularly in relation to         .
+           has been passaged infrequently in the laboratory; hence we think
+it reasonable to assume that little laboratory drift has occurred since its
+isolation in 1968.
+In order to attempt to correct for the laboratory drift factor when
+estimating the rate of evolution of segment 1 from           or          to
+          , we have set up the hypothesis that the two earlier strains were
+identical when isolated. Alterations which occurred in the field are taken
+to be those where there is a common amino acid for the earlier strains, which
+differs from that found in           , e.g. residues 43, 67, 82, etc. (a total
+of 20). All other alterations, e.g. 103, 105, 107, bar residues 453 and 655,
+are accredited to laboratory drift alone of either           or         .
+Positions 453 and 655, at which all 3 strains differ, are classed as field
+mutations for            and laboratory drift for         , since, if the
+          amino acid is taken as the ancestral residue, just a single amino
+acid change gives both the          and            residues. There are 30
+amino acid changes between           and            giving a value of 30/759
+or 3.9% observed evolutionary drift. Assuming that 20 residues are actual
+field changes and the remainder laboratory drift we calculate a corrected
+evolutionary drift of 20/30 x 3.9% = 2.6%, or 0.08% per year. Furthermore,
+we calculate the laboratory drift of           to be 1.4% and that for       
+33 to be 2.1%. These values are similar to the known laboratory drift of
+various proteins of           (see above).
+Selection for the PB2 protein occurs regardless of whether drift
+1561
+Nucleic Acids Research
+happens in the laboratory or the field. Thus comparisons of the amino acid
+sequence may still give an insight into functionally important regions.
+Amino acid alterations (Fig. 2) are randomly spaced throughout the molecule
+but tend to conserve its basic nature. This is compatible with its proposed
+function of recognising the negatively charged host cell cap 1 structures
+(7-11). The specific residues which bind the "cap" have not been identified
+to date. There are no obvious regions of high basicity in the primary sequ-
+ence (Fig. 1) which may carry out this function, but this does not exclude
+their possible existence in the 3 dimensional structure. It would be of
+interest to determine the residues involved and to see if they are conserved
+between strains.
+2. "Evolution" of influenza proteins
+Possible amino acid sequence divergence from initial isolates during
+laboratory passage may prevent us determining the absolute rates of evolution
+of            proteins. Nevertheless, if the rate estimations are restricted
+to those between genes of two strains, the comparative rates of evolution of
+the genes can be studied. It is assumed that there is equivalent drift of
+the genes, that direct lineage exists and that no major reassortment occurred
+between the strains. Figure 3 shows the evolution of the proteins encoded
+by segments 1 (the sequence determined in this study), 2, 3, 4, 5 and 6 of
+           (21-23, 52, 53) and segments 7 (2) and 8 (54) of            with
+respect to the prototype virus           (18,27,32,39,55,56,51). Segments
+7 and 8 of            have not yet been sequenced. Thus those of           
+were chosen to complete the comparison. The resulting percentages fall into
+two main groups, those less than 0.3% amino acid changes per year and those
+greater than 0.9%. All internal proteins are found in the first class of
+highly conserved molecules. The surface glycoproteins, the haemagglutinin
+(HAl subunit) and neuraminidase (NA) show a marked percentage increase,
+indicating a larger variability. It should be noted that the figure of 1%
+for the HAl domain and NA represents point alterations and does not include
+spaces or deletions included to allow a colinear comparison of the two sequ-
+ences. It is therefore an artificially low value. Thus internal proteins
+are conserved because of selection to perform specific functions within the
+virion and the external proteins are variable because of antigenic selection
+by the host immune systems.
+3. The Origin of RNA segment 10
+One of the aims of this study was to confirm previous work defining the
+origin of a small RNA (segment 10) found in a preparation of            virus
+1562
+Nucleic Acids Research
+1.0
+a
+0
+0
+C
+0
+a
+c
+0
+0
+C
+a
+0
+*
+                     
+Figure 3. Histogram shoving the different rates of evolution of viral
+proteins. Rates are calculated as 5 amino acid change of            for PB2,
+PBl, PA, NP, HA1, NA and for            for the NS and NS proteins with
+reference to          . Data are calculated from references 22, 21, 23, 52,
+53, 2, 54, 18, 55, 56, 39, 51, 32, and 27.
+10 20 30 40 A 0 so 70 s* 90 *00 * io
+MSCAMMCA inACLM CmAROM OmAwmLC hCAMJOOWX CAAUCCWM WWXUCOAAC A50wuwo X
+130 140 C 120 o o 170 10 zoo D 210 22 0 230 E 240
+5050504ina UsouinmUmi UCOCMUCUC OCAUCmCOA MIUCMd&hCACWOCUAOCJ,,510
+AUJ~A11UII1 OAOOMJCII
+250 u 2 27 230 290 F 300 310 320 330 340 5 250
+__eUCON UUOfANMM A w - OCUAU mC UUCA sOLwasCUCC maN
+CacM
+370 300 300 400 410 420
+ALu_ CARUMOM MAUNMs CAMU.UMC AAAAAAICUAIUOUUUCUA CU
+Figure 4. The nucleotide sequence of segment 10 of            and its
+alignment with segments 1 and 3 from           . Arrows indicate alternative
+Junctions between the sections.
+Region A nucleotides 1 to (75 -- 76) of segment 3
+Region B " (1971 -*1972) to 2014 of segment 3
+Region C " 30 to (89 9
+91) of segment 1
+Region D " (2015 -S 2017) to (2051 -- 2055) of segment 3
+Region 1 " (86 - 89) to (126 -4 130) of segment 3
+Region F " (2065 -+ 2069) to 2233 of segment 3
+1563
+Nucleic Acids Research
+F
+D3
+E r
+<
+N~~~~~~~v......
+I ~~~~~A
+segment I segment 3
+_____ Recombinatlon
+AAAv Track of polymerase
+Figure 5. A hypothetical arrangement for intragenic recombination between
+RNA segments 1 and 3.
+(20). Sequence analysis of this RNA and its comparison to segments 1 and 3 of
+          indicated a mosaic structure for segment 10 (18). Intragenic
+recombination had not previously been seen in influenza viruses. Figure 4
+shows the alignment of segment 10 to specified regions of 1 and 3, found
+using a computer program to scan for homology (43). No mismatches within the
+regions were found, although ambiguities in the positioning of Junctions
+remain. Figure 5 illustrates a hypothetical arrangement of segments 1 and 3
+allowing such a recombination event by "polymerase jumping". The two ends of
+segment 3 are exactly reproduced in band 10.
+4. General discussion
+Control of influenza infection by the conventional methods of vaccina-
+tion has achieved little success. A cap-recognising protein, such as PB2,
+presents a potential target for specific anti-influenza virus drugs. A 24K
+cap binding protein (CBP), found within the host cell, has also been described
+(44,45). It would be of interest to compare the amino acid sequence and
+active residues of this protein to those of PB2 to study any functional simi-
+larities and to determine whether agents against PB2 might not also affect
+CBP. It has been shown that the RNA segment coding for the PB2 protein of
+          is involved in the recognition of target cells by an anti-influenza
+cytotoxic T cell line (46). This may be due to the presence of a small amount
+of PB2 on the surface of an infected cell or an antigen-presenting cell or
+may be an indirect effect of PB2 on some other viral product.
+Studies on functional P proteins have been limited by their scarcity
+within the virion (approximately 8% of total protein in the viral core (38)).
+1564
+Nucleic Acids Research
+The development of both eukaryotic (47,48) and prokaryotic expression systems
+of cloned genes (49,50) should allow increased quantities of these proteins
+to be made available for research.
+ACKNOWLEDGEMENTS
+We thank the Medical Research Council for financial support to K.L.J.
+for a research training grant and to G.G.B. for an MRC programme grant.
+          
+                                   
+                                                                             
+          
+                                                                           
+            
+                                                  
+                                                 
+                                                 
+                                                                         
+          
+                                                                       
+                                                                           
+            
+                                                               
+                                                                     
+        
+                                                                   
+                                                                   
+                                                                        
+                                                                        
+        
+                                                              
+                                                                    
+                                                      
+                                                            
+                                                                      
+                                                                           
+                      
+                                                                         
+                   
+                                                                             
+                                                                           
+     
+                                                                         
+     
+                                                                  
+                                                    
+                                                                         
+     
+                                        
+                                                                          
+    
+                                                             
+                                                                    
+    
+                       
+                                       
+                                                                  
+                                                                           
+              
+                                                                      
+                                                 
+                                                    
+                                                                             
+                                                             
+                                                                            
+            
+                                                                       
+                                                                             
+                                                                     
+                      
+                                                                         
+                             
+                                       
+                                                                       
+                                     
+                                                                        
+                                     
+                                                                          
+                                                                        
+                
+                                                               
+                                                                           
+                                                 
+                                                              
+                                                                         
+                                                                    
+                                                                        
+                                                      
+                                                                   
+                                                           
+    
+ 

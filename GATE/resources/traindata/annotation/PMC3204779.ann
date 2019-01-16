@@ -1,0 +1,80 @@
+T1	Protein 5502 5505	308
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 5585 5592	LETTERS
+#2	AnnotatorNotes T2	END
+T3	Protein 5772 5787	Acknowledgments
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 10062 10063	.
+#4	AnnotatorNotes T4	END
+T5	Location 54 62	Bulgaria
+#5	AnnotatorNotes T5	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T6	Location 448 456	Bulgaria
+#6	AnnotatorNotes T6	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T7	Location 570 578	Bulgaria
+#7	AnnotatorNotes T7	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T8	Location 779 785	Balkan
+#8	AnnotatorNotes T8	<latlng>43.25, 25</latlng> <geoID>NA</geoID>
+T9	Location 790 807	Rila-Pirin-Rodopa
+#9	AnnotatorNotes T9	<latlng>NA</latlng> <geoID>NA</geoID>
+T10	Location 840 844;845 850	Bul- garia
+#10	AnnotatorNotes T10	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T11	Location 1140 1148	Bulgaria
+#11	AnnotatorNotes T11	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T12	Location 1370 1378	Bulgaria
+#12	AnnotatorNotes T12	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T13	Location 1321 1328	Simitli
+#13	AnnotatorNotes T13	<latlng>41.88333, 23.16667</latlng><geoID>727211 </geoID>
+T14	Location 1335 1346	Blagoevgrad
+#14	AnnotatorNotes T14	<latlng>41.73333, 23.45</latlng><geoID>733192 </geoID><pop>323552</pop>
+T15	Location 1456 1467	Blagoevgrad
+#15	AnnotatorNotes T15	<latlng>41.73333, 23.45</latlng><geoID>733192 </geoID><pop>323552</pop>
+T16	Location 2372 2379	Kirkovo
+#16	AnnotatorNotes T16	<latlng>41.35816, 25.33731</latlng><geoID>730353 </geoID>
+T17	Location 2389 2397	Kardjali
+#17	AnnotatorNotes T17	Corrected to Kardzhali <latlng>41.53333, 25.43333</latlng><geoID>864553 </geoID><pop>152808</pop>
+T18	Location 2417 2421;2422 2427	Bul- garia
+#18	AnnotatorNotes T18	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T19	Location 2471 2479	Kardjali
+#19	AnnotatorNotes T19	<latlng>41.65, 25.36667</latlng><geoID>864553 </geoID><pop>51000</pop>
+T20	Location 3167 3174	Smilyan
+#20	AnnotatorNotes T20	<latlng>41.5, 24.75</latlng><geoID>727050 </geoID>
+T21	Location 3185 3192	Smolyan
+#21	AnnotatorNotes T21	<latlng>41.61667, 24.65</latlng><geoID>864558 </geoID><pop>121572</pop>
+T22	Location 3212 3216;3217 3222	Bul- garia
+#22	AnnotatorNotes T22	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T23	Location 3919 3926;3927 3931	Heidel- berg
+#23	AnnotatorNotes T23	<latlng>49.41056, 8.69556</latlng><geoID>3220720 </geoID><pop>150335</pop>
+T24	Location 3933 3940	Germany
+#24	AnnotatorNotes T24	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T25	Location 4283 4291	Hercules
+#25	AnnotatorNotes T25	<latlng>38.03354, -122.29848</latlng><geoID>11788428 </geoID>
+T26	Location 4293 4295	CA
+#26	AnnotatorNotes T26	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T27	Location 4968 4974	Greece
+#27	AnnotatorNotes T27	<latlng>39, 22</latlng><geoID>390903 </geoID><pop>11000000</pop>
+T28	Location 4997 5005	Bulgaria
+#28	AnnotatorNotes T28	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T29	Location 5172 5176;5177 5190	Bal- kan Peninsula
+#29	AnnotatorNotes T29	<latlng>44, 23</latlng><geoID>685608 </geoID><pop>60000000</pop>
+T30	Location 5247 5253	Greece
+#30	AnnotatorNotes T30	<latlng>39, 22</latlng><geoID>390903 </geoID><pop>11000000</pop>
+T31	Location 5261 5269	Slovenia
+#31	AnnotatorNotes T31	<latlng>46.08333, 15</latlng><geoID>3190538 </geoID><pop>2007000</pop>
+T32	Location 5277 5281;5282 5285	Ser- bia
+#32	AnnotatorNotes T32	<latlng>44.81892, 20.45998</latlng><geoID>6290252 </geoID><pop>7344847</pop>
+T33	Location 5290 5300	Montenegro
+#33	AnnotatorNotes T33	<latlng>42.75, 19.25</latlng><geoID>3194884 </geoID><pop>666730</pop>
+T34	Location 5310 5315;5316 5324	Czech Republic
+#34	AnnotatorNotes T34	<latlng>49.75, 15</latlng><geoID>3077311 </geoID><pop>10476000</pop>
+T35	Location 5334 5341	Hungary
+#35	AnnotatorNotes T35	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T36	Location 5399 5407	Bulgaria
+#36	AnnotatorNotes T36	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T37	Location 5695 5703	Bulgaria
+#37	AnnotatorNotes T37	<latlng>42.66667, 25.25</latlng><geoID>732800 </geoID><pop>7148785</pop>
+T39	Location 4297 4300	USA
+#39	AnnotatorNotes T39	<latlng>39.76, -98.5 </latlng><geoID>6252001 </geoID> <pop> 310232863 </pop>
+T40	Location 488 494	Europe
+#40	AnnotatorNotes T40	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID> 
+T41	Location 4837 4843	Europe
+#41	AnnotatorNotes T41	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID> 

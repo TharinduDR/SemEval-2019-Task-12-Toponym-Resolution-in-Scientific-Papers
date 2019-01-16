@@ -1,0 +1,786 @@
+﻿Chinese and Global Distribution of H9 Subtype Avian
+Influenza Viruses
+Wenming Jiang.
+, Shuo Liu.
+, Guangyu Hou, Jinping Li, Qingye Zhuang, Suchun Wang, Peng Zhang,
+Jiming Chen*
+The Laboratory of Avian Disease Surveillance, China Animal Health and Epidemiology Center, Qingdao, China
+Abstract
+H9 subtype avian influenza viruses (AIVs) are of significance in poultry and public health, but epidemiological studies about
+the viruses are scarce. In this study, phylogenetic relationships of the viruses were analyzed based on 1233 previously
+reported sequences and 745 novel sequences of the viral hemagglutinin gene. The novel sequences were obtained through
+large-scale surveys conducted in 2008-2011 in China. The results revealed distinct distributions of H9 subtype AIVs in
+different hosts, sites and regions in China and in the world: (1) the dominant lineage of H9 subtype AIVs in China in recent
+years is lineage h9.4.2.5 represented by A/chicken/Guangxi/55/2005; (2) the newly emerging lineage h9.4.2.6, represented
+by A/chicken/Guangdong/FZH/2011, has also become prevalent in China; (3) lineages h9.3.3, h9.4.1 and h9.4.2, represented
+by A/duck/Hokkaido/26/99, A/quail/Hong Kong/G1/97 and A/chicken/Hong Kong/G9/97, respectively, have become
+globally dominant in recent years; (4) lineages h9.4.1 and h9.4.2 are likely of more risk to public health than others; (5)
+different lineages have different transmission features and host tropisms. This study also provided novel experimental data
+which indicated that the Leu-234 (H9 numbering) motif in the viral hemagglutinin gene is an important but not unique
+determinant in receptor-binding preference. This report provides a detailed and updated panoramic view of the
+epidemiological distributions of H9 subtype AIVs globally and in China, and sheds new insights for the prevention of
+infection in poultry and preparedness for a potential pandemic caused by the viruses.
+Citation: Jiang W, Liu S, Hou G, Li J, Zhuang Q, et al. (2012) Chinese and Global Distribution of H9 Subtype Avian Influenza Viruses. PLoS ONE 7(12): e52671.
+doi:10.1371/journal.pone.0052671
+Editor: Martin Beer, Friedrich-Loeffler-Institut, Germany
+Received August 16, 2012; Accepted November 19, 2012; Published December 21, 2012
+Copyright: ß 2012 Jiang et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work is supported by the Sci-tech Basic Work Project of Ministry of Science and Technology (SQ2012FY3260033). The funder had no role in study
+design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: jmchen66@yahoo.cn
+. These authors contributed equally to this work.
+Introduction
+Influenza viruses in the family Orthomyxoviridae are classified into
+three types, A, B, and C. Type A influenza viruses are further
+classified into different subtypes based on antigenic differences in
+the viral surface glycoproteins, hemagglutinin (HA) and neur-
+aminidase (NA). Currently, 16 HA subtypes (H12H16) and 9 NA
+subtypes (N12N9) of influenza viruses have been isolated from
+birds, and a novel HA subtype (H17) and a novel NA subtype
+(N10) of influenza viruses have been identified in bats [1]. Among
+the 16 HA subtypes of avian influenza viruses (AIVs), H9 subtype
+(mainly H9N2 subtype) in domestic fowls and wild birds have been
+reported in various regions including North America, Europe,
+Asia, Africa and the Pacific [2­9].
+Usually, H9 subtype AIVs cause mild clinical signs in birds;
+however, the infection can be exacerbated by a secondary
+bacterial infection [10­21]. In recent years, H9 subtype AIVs
+circulating in China aroused worldwide concerns, because several
+cases of human infections in China have been identified since the
+end of the 1990s, and some of the viruses displayed human
+influenza virus-like receptor specificity [11,22­29]. H9 subtype
+AIVs viruses are thus considered one of the most likely candidates
+to cause a new influenza pandemic in humans [22­27]. Unlike
+human infection with the H5 subtype highly pathogenic avian
+influenza (HPAI) virus that usually causes a severe infection, the
+associated disease symptoms in all human cases of H9 subtype
+AIV infection have been mild, with no evidence of human-to-
+human transmission [22­27,30].
+As an essential component of the global strategy for
+pandemic preparedness, selection of candidate H5 and H9
+influenza vaccine viruses has been coordinated by the World
+Health Organization (WHO) in recent years, through epidemi-
+ological surveys and phylogenetic analysis [25,26]. However, as
+clearly stated in two relevant reports issued by the WHO in
+2011, data characterizing recent H9 subtype AIVs circulating in
+the world are limited, and the majority of the viruses that have
+been sequenced belong to the G1 clade, represented by A/
+quail/Hong Kong/G1/97, or the Y280/G9 clade, represented
+by A/duck/Hong Kong/Y280/97 or A/chicken/Hong Kong/
+G9/97 [25,26].
+The goal of this study was to elucidate the host, spatial and
+phylogenetic distributions of H9 subtype AIVs circulating in
+China and in the world in recent years, through epidemiological
+surveys and phylogenic analysis of viral HA gene sequences. This
+viral gene is vital for viral pathogenicity, antigenicity and host
+range, although some evidence indicates that these traits are
+polygenic [31].
+PLOS ONE | www.plosone.org 1 December 2012 | Volume 7 | Issue 12 | e52671
+Results
+Swab Sample Detection
+A total of 31406 swab samples were collected from 299 live
+bird markets, 26 slaughtering houses, 303 backyard flocks and
+348 poultry farms through the eight surveys conducted in
+200822011. Among them, 57 were positive for Newcastle
+disease viruses (NDVs), and 1349 were positive for AIVs. Among
+the 1349 AIV positive samples, 950 were positive for H9 subtype
+AIVs and 76 were positive for H5 subtype AIVs. The prevalence
+of H9 subtype AIVs in chicken samples, 3.50% (884/25233), was
+significantly higher than the prevalence in samples from
+waterfowl including ducks and geese, 1.08% (66/6127), with
+P,0.05. None of the 46 pigeon samples were positive for AIVs.
+The prevalence of H9 subtype AIVs in the samples from live
+bird markets, 6.84% (655/9558), or in the samples from
+slaughtering houses, 3.81% (47/1232), was significantly higher
+than that in the samples from backyard flocks, 1.82% (172/
+9464), or from poultry farms, 0.68% (76/11152), all with
+P,0.05. On average, infection of H9 subtype AIVs was
+identified in 35.12% (105/299) of the sampled live bird markets,
+34.62% (9/26) of the sampled slaughtering houses, 17.49% (53/
+303) of the sampled backyard flocks, and 11.21% (39/348) of the
+sampled poultry farms. The prevalence of H9 subtype AIVs in
+Northern China, 2.85% (350/12273), was similar to its
+counterpart in Southern China, 3.14% (600/19133), with
+P.0.05.
+Panorama of the Global Phylogenetic Distribution of H9
+Subtype AIVs
+We analyzed the sequence phylogenetic relationships of this
+report using the neighbor-joining method and the maximum
+likelihood method (G+I), and found the results of the two methods
+were of little difference. Therefore, only the results of the
+neighbor-joining method were presented.
+As of September 17, 2011, HA sequences (.900 bp) of 1233
+H9 subtype AIVs with clear background were available in
+GenBank, namely that the source, isolation place and isolation
+time of the sequences were available and they have not been
+suspected by any publications [14,16]. Of these, 55 were reported
+by our laboratory. The remaining 1178 sequences were submitted
+by other research groups.
+Phylogenetic analysis of the 1178 sequences revealed four
+primary lineages, h9.12h9.4, some secondary and tertiary lineages
+(Figure S1). The temporal and spatial distribution of the lineages is
+showed in Table S1and Figure S2.
+Genetic distances in the HA1 subunit of the viral HA gene
+among the lineages are showed in Table S2. In general, the genetic
+distances were 20.00% to 24.39% between primary lineages,
+11.93% to 17.27% between secondary, and 5.81% to 18.28%
+between tertiary lineages.
+At the primary lineage level, lineages h9.1 and h9.2 corre-
+sponded to only two viruses isolated in 1966 in North America and
+three viruses isolated in the 1990s in North America, respectively.
+Lineage h9.3 corresponded to 140 viruses isolated in the Eastern
+Hemisphere, and 33 viruses isolated in North America. Lineage
+h9.4 corresponded to hundreds of viruses from the Eastern
+Hemisphere. Though lineage 9.4 harbored many more sequences
+than lineage h9.3, the latter was more widely distributed, with
+viruses from Asia, Europe, Africa, the Pacific and North America,
+while lineage h9.4 circulated exclusively in Asia. Lineage h9.3 also
+had a longer circulation history (197622010) than lineage h9.4
+(199422011).
+At the secondary lineage level, most avian H9N2 viruses
+isolated in recent years in China, and those isolated in the
+Asian countries west to China including Pakistan, India, Iran,
+and Israel, belonged to the secondary lineages h9.4.2 and
+h9.4.1, respectively. Previously, these two secondary lineages
+were designated as the Y280/G9-like and G1-like viruses,
+respectively [25,26]. Lineage h9.4.2 comprised more sequences
+than lineage h9.4.1, which further comprised more sequences
+than lineage h9.3.3 represented by A/duck/Hokkaido/26/99.
+However, lineage h9.3.3 was more widely distributed than
+h9.4.2 and h9.4.1, with isolates from Asia, Europe, Africa, the
+Pacific and North America. Lineages h9.4.1 circulated almost
+exclusively in Asian countries and h9.4.2 in China. In addition,
+lineages h9.3.3, h9.4.1 and h9.4.2 had a similar circulation
+history, from approximately the 1990s to the present.
+At the tertiary lineage level, lineage h9.3.3.2 was distributed
+more widely than the other tertiary lineages with isolates from
+Asia, Europe, Africa, the Pacific and North America.
+Taken together, at the primary, secondary and tertiary lineage
+levels, lineages h9.3, h9.3.3, h9.3.3.2 should be globally dominant
+compared to their counterparts. In addition, lineages h9.4.1 and
+h9.4.2, namely the G1-like and Y280/G9-like viruses, were also
+assumed to be globally dominant because they were prevalent in
+many countries in Asia and in many provinces of China (a country
+covering a large land area), respectively.
+Host Distribution and Transmission of Different H9
+Subtype AIVs
+Most (.90%) of the viruses in lineages h9.4.1, h9.4.2 and
+h9.3.3.1 were from domestic terrestrial birds like chickens and
+quails, while most (.90%) in lineages h9.3.1 and h9.3.3.2 were
+from domestic or wild waterfowl (Figure S1). Furthermore, most
+branches within lineages h9.4.1, h9.4.2 and h9.3.3.1, namely those
+mainly from domestic terrestrial birds, covered viruses from one
+country only, indicating that transboundary transmission was
+infrequent within these lineages. In contrast, most branches in
+lineages h9.3.1 and h9.3.3.2, namely those mainly from domestic
+or wild waterfowl, covered viruses from many countries, indicating
+that transboundary transmission was frequent within these lineages
+(Figure S2).
+Phylogenetic Distribution of H9 Subtype AIVs in China
+Among the 1178 H9 subtype AIVs, 833 were from China
+including Hong Kong SAR with a clear background. These 833
+sequences were reported by other research groups. As shown in
+Table S1 and Figure S2, among these 833 viruses, 767 from
+dozens of provinces in China belonged to lineage h9.4.2, 48
+from Hong Kong and a city in Guangdong Province, (Shantou)
+belonged to lineage h9.4.1, and the remaining 18 belonged to
+other lineages including h9.3.1, h9.3.3 or h9.3.2. Therefore,
+lineage h9.4.2 was more dominant than lineage h9.4.1 in
+China.
+As shown in Table S1 and Figure S2, 88.42% (504/570) of the
+viruses in lineages h9.4.2.12h9.4.2.4 were isolated before 2007,
+while 75.65% (166/193) in lineage h9.4.2.5, represented by A/
+chicken/Guangxi/55/2005, were isolated in dozens of provinces
+in China in 200722011, while lineage h9.4.2.6, represented by A/
+chicken/Guangdong/FZH/2011, comprised 26 viruses isolated in
+the provinces of Fujian and Guangdong in China in 201022011.
+Therefore, lineage h9.4.2.5 was more dominant in China in recent
+years than other tertiary lineages.
+We obtained the HA gene sequences of 800 H9 subtype
+AIVs, through an unpublished pioneer survey in 2007 and the
+eight surveys reported here. Among these 800 sequences, 302
+Distribution of H9 Avian Influenza
+PLOS ONE | www.plosone.org 2 December 2012 | Volume 7 | Issue 12 | e52671
+were not fully identical to any others. In addition, among these
+800 sequences, 55 were published previously [14], and the
+remaining 745 ones were first reported herein. Their GenBank
+accession numbers were JN8025292JN802662,
+JN8039472JN804557, FJ4345612FJ434587,
+FJ8077082FJ807719, and GQ4632122GQ463227. As shown
+in Figure S3, 769 of the 800 viruses belonged to lineage
+h9.4.2.5, and these were isolated in dozens of provinces during
+200722011. Another 22 viruses belonged to lineage h9.4.2.6
+and these were isolated in five provinces (two in South China,
+one in Southeast China, one in East China and one in
+Northwest China) in 2011. The remaining nine viruses belonged
+to lineage h9.4.2.4, and were isolated in one province in 2008.
+Therefore, our data were consistent with the suggestion of
+Figure S1 using the sequences reported by other research
+groups. Furthermore, our data indicated that lineage h9.4.2.6
+had also been prevalent in China in 2011, as it was identified
+from South, Southeast, East, and Northwest China.
+We separated the phylogenetic analysis of the HA gene
+sequences of H9 subtype AIVs reported by others and us, in
+order to minimize potential analytical bias caused by so many HA
+gene sequences reported by us.
+Phylogenetic Distribution of H9 Subtype AIVs in
+Countries Near to China
+Among the 1178 viruses, all the 65 H9 subtype AIVs from
+Korea belonged to h9.3, distinct from the dominant lineage h9.4
+in China. Similarly, all the viruses from Vietnam, Pakistan and
+India were distinct from the dominant lineages circulating in
+China in the corresponding periods. Although H9 subtype AIVs in
+lineage 9.4.2 have been widely circulating in China for years, only
+a few viruses within the lineage were isolated in another country,
+Japan. This indicated that the transboundary spreading of H9
+subtype between China and its neighboring countries occurred
+infrequently. This is consistent with the finding that transboundary
+transmission was infrequent within the lineages mainly from
+domestic terrestrial birds, because the viruses from China and its
+neighboring countries belonged to lineages mainly from domestic
+terrestrial birds.
+In Asian countries west to China including Pakistan, India, Iran,
+and Israel, h9.4.1 has been dominant in recent years. At the
+tertiary lineage level, as partially shown in Figure S2 and Table S1,
+lineage h9.4.1.5 has been dominant over others in these Asian
+countries since 2007, based on the limited sequences available in
+GenBank.
+Antigenic Analysis Using the HI Assay
+Antigenic cross-reactivity of randomly selected viruses was
+investigated by the HI assay. As showed in Table 1, the results
+suggested that the viruses in lineages h9.4.2.3 and h9.4.2.4 did not
+react well to the chicken antisera against the viruses in lineages
+h9.4.2.5 and h9.4.2.6, although viruses in lineages h9.4.2.5 and
+h9.4.2.6 reacted well to the antisera against viruses in lineages
+h9.4.2.3 and h9.4.2.4, indicating that lineages h9.4.2.5 and
+h9.4.2.6 have become somehow antigenically distinct from
+lineages h9.4.2.3 and h9.4.2.4.
+Prevalence of the Leu-234 Motif in the Viral HA Gene
+Leu-234 (corresponding to residue 226 in H3 numbering) at the
+receptor-binding site (RBS) in the HA gene of H9 subtype AIVs
+likely has human influenza virus-like receptor specificity [24,32­
+35]. Among the 1178 H9 subtype AIVs (Figure S2), none of the
+178 viruses in lineages h9.1, h9.2 and h9.3 carried the motif Leu-
+234, while nearly 75% of the viruses in lineages h9.4.1 (165/222)
+and h9.4.2 (582/778) carried the motif.
+Analysis of Receptor-binding Preference Using the HA
+Assay
+All the five NDVs and the two human influenza viruses reacted
+well with the untreated goose RBCs and a2,3-specific sialidase-
+treated goose RBCs with no difference in HA titers. This indicated
+that the viruses did not bind to a2,3-linked sialic acid on the
+surface of the goose RBCs. All the ten H5 subtype avian influenza
+viruses reacted only with untreated goose RBCs, indicating that
+they bound only to a2,3-linked sialic acid on the surface of the
+goose RBCs. The 76 H9 subtype AIVs (72 in lineage h9.4.2.5, 3 in
+lineage h9.4.2.6, 1 in lineage h9.4.2.3) reacted well with untreated
+goose RBCs, but their HA titers using treated goose RBCs
+declined to 02100% of their counterparts using untreated goose
+RBCs (Table S3). This indicated that these H9 subtype AIVs had
+different affinities for binding to a2,6-linked sialic acid. Of the 76
+H9 subtype viruses, 55 (54 carrying the Leu-234 motif) reacted
+with untreated and treated goose RBCs, indicating that they could
+bind to a2,6-linked sialic acid on the surface of the goose RBCs.
+The remaining 21 (20 carrying the Leu-234 motif) viruses reacted
+only with untreated goose RBCs and not treated goose RBCs,
+indicating that they bound only to a2,3-linked sialic acid on the
+surface of the goose RBCs.
+Discussion
+As mentioned in the introduction of this report, epidemiological
+studies on distribution of H9 subtype AIVs in some countries have
+been reported previously. However, most of them covered limited
+sequences or limited regions, not at Chinese national level or
+global level. This report presents a detailed and updated
+panoramic view of the distribution of H9 subtype AIVs globally
+and in China, partially based on 745 novel HA gene sequences of
+H9 subtype AIVs obtained through large-scale surveys. This is also
+the first report using surveillance data to indicate the wide
+existence of the new lineage h9.4.2.6 in China and the viral
+prevalences in different sites in China. In addition, this report
+provides novel experimental data to show that the Leu-234 motif
+in the viral HA gene is not a unique determinant in receptor-
+binding preference for a2,6-linked sialic acid.
+The global views of H9 subtype AIVs reported here reflected
+only a part of the reality, mainly because relevant data are scarce
+for many countries and regions. Lineages of this report were
+classified mainly according the genetic distances and the topology
+of relevant phylogenetic trees. It should be noted that the
+bootstrap values of some lineages including h9.4.1.3, h9.4.2.3
+and h9.4.2.4 in Figure S1 were not high. This may result from that
+some intermediate strains were covered in the analysis, as they, in
+nature, could not be assigned to any lineages with confidence.
+Similar phenomena have been observed in our previous phyloge-
+netic analysis of other influenza A and influenza B viruses [36,37].
+Furthermore, also due to the existence of some intermediate, some
+viruses in a tertiary lineage were of genetic distances longer than
+the genetic distances of some pairs between the secondary lineages.
+Similar phenomena have been observed in phylogenetic analysis of
+subtype H5 avian influenza A viruses, e.g. some viruses in clade
+2.3.2 were of genetic distances longer than some pairs between
+clade 2.3.2 and clade 2.3.4 [38].
+This report suggests that some lineages of H9 subtype AIVs are
+more prevalent in terrestrial birds including chickens and quails
+than in waterfowl, e.g. .90% of the viruses in lineages h9.4.1,
+h9.4.2 and h9.3.3.1 in Figure S1 were from domestic terrestrial
+Distribution of H9 Avian Influenza
+PLOS ONE | www.plosone.org 3 December 2012 | Volume 7 | Issue 12 | e52671
+birds. These lineages may have adapted to terrestrial birds rather
+than to waterfowl. Furthermore, the distinct host tropisms of the
+viruses have likely led to different frequencies of transboundary
+transmission, as domestic and wild waterfowl frequently share
+open water bodies which can facilitate the transmission of the
+viruses. In addition, wild waterfowl can also transmit viruses into
+another country via migration.
+The surveys revealed that the prevalence of H9 subtype AIVs
+was similar in Southern and Northern China. This is different
+from the distribution of H5 subtype HPAI viruses [39]. This might
+be because the H9 subtype lineages dominant in China have
+become more adapted to terrestrial birds. Thus, the ecological
+features of Southern China with prevalent open water bodies and
+waterfowl, which facilitate the transmission of H5 subtype HPAI
+viruses, do not facilitate the transmission of H9 subtype viruses.
+Live poultry markets have a high prevalence of infection with
+H5 subtype HPAI viruses in some countries [39,40]. We also
+found that the prevalence of H9 subtype of AIVs in live poultry
+markets was significantly higher than in backyard flocks and
+poultry farms, suggesting that live poultry markets are important
+for transmission of multiple subtypes of AIVs.
+The surveys indicated that, on average, infection of H9 subtype
+AIVs was identified in 35.12% of the sampled live bird markets,
+17.49% of the sampled backyard flocks, and 11.21% (39/348) of
+the sampled poultry farms. These data suggested that the viruses
+are widely circulating in poultry in China. Recent reports also
+indicated that the viruses were also widely circulating in many
+other countries or regions [225,7212,15,17,20,21]. For example,
+in Jordan, a survey suggested that more than 50% of broiler or
+layer flocks were carrying H9 subtype AIVs [18]. In South Korea,
+a survey suggested that 8.09% of fecal samples of ducks and
+chickens collected from live poultry markets were H9 subtype
+AIVs positive [19].
+The avian influenza reports issued by the WHO in 2010 and
+2011 all suggested that lineages h9.4.1 and h9.4.2 have been
+globally dominant in recent years [25,26]. This report provides
+evidence through phylogenetic analysis that another lineage,
+h9.3.3.2, is also globally dominant.
+Lineage h9.4.2, or the Y280/G9-like clade, has been dominant
+in China in recent years; however, we found that the lineage
+recently evolved into two main lineages, h9.4.2.5 and h9.4.2.6.
+Table S2 indicates that lineages h9.4.2.5 and h9.4.2.6 have
+become genetically distinct from their precedent lineages h9.4.2.3
+and h9.4.2.4 which have largely disappeared in China. Therefore,
+in principle, it should be better to select the vaccine strains used for
+prevention of the viral infection in poultry from lineages h9.4.2.5
+and h9.4.2.6. However, most of the current H9 subtype AIVs used
+for the production of inactivated vaccines in China, such as A/
+chicken/Guangdong/SS/94, A/chicken/Shandong/6/96, A/
+chicken/Shanghai/F/98, A/chicken/Guangxi/10/99, belong to
+lineages h9.4.2.3 or h9.4.2.4. Interestingly, as showed in Table 1,
+although viruses from the earlier lineages h9.4.3.3 and h9.4.3.4
+(YB06, BZ02 and GX10) did not react well with antisera raised
+against viruses from the currently prevalent lineages h9.4.3.5 and
+h9.4.3.6, viruses from lineages h9.4.3.5 and h9.4.3.6 still reacted
+well with antisera raised against the earlier strains. Therefore,
+whether antibodies raised by vaccination can protect a host from
+infection of currently circulating strains should be evaluated in the
+future by neutralization tests and/or animal infection experiments,
+rather than the HI assays only.
+It has been reported that the Leu-234 motif in the HA gene of
+H5 and H9 subtype influenza viruses is an important determinant
+in receptor-binding preference for a2,6-linked sialic acid
+[24,32235]. This was supported by our analysis of receptor-
+binding preference using a2,3-specific sialidase-treated goose
+RBCs, because most (54/76) of the viruses carrying the Leu-234
+motif bound to a2,6-linked sialic acid on the surface of a2,3-
+specific sialidase-treated goose RBCs. According to the distribu-
+tion of the Leu-234 motif in the viral HA gene, this report
+indicates that lineages h9.4.1 and h9.4.2 are of greater risk to
+public health than others. Therefore, in principle, the vaccine
+strains for pandemic preparedness should be selected from lineages
+h9.4.1 and h9.4.2. Favorably, they should be from the tertiary
+lineages h9.4.2.5 and h9.4.1.5, which are likely to be dominant in
+China and the Asian countries west to China, respectively.
+Although lineage h9.3.3.2 is also globally dominant, it seemed to
+be less of a threat to public health, because no viruses in this
+lineage carrying the Leu-234 motif. In addition, all the 11 H9
+subtype AIVs identified from humans so far belonged to lineage
+h9.4.1 or lineage h9.4.2 (Figure S2), except one (A/Korea/KNBP-
+0028/2000) from lineage h9.3.3.1.
+Interestingly, this report also indicates that the Leu-234 motif is
+not a unique determinant in receptor-binding preference for a2,6-
+linked sialic acid, because a few (20/76) H9 subtype viruses
+carrying the Leu-234 motif did not react with a2,3-specific
+sialidase-treated goose RBCs, and one virus not carrying the Leu-
+234 motif reacted well with a2,3-specific sialidase-treated goose
+RBCs (Table S3). Previous reports also indicated that some other
+Table 1. Homologous and heterogeneous hemagglutination inhibition titers of some H9 lineagesa
+.
+Antisera Antigen
+NX184 (h9.4.2.6) GB26 (h9.4.2.6) AK4 (h9.4.2.5) AE15 (h9.4.2.5) YB06 (h9.4.2.4) BZ02 (h9.4.2.3) GX10 (h9.4.2.3)
+NX184 (h9.4.2.6) 64 16 32 16 4 4 4
+GB26 (h9.4.2.6) 64 64 64 32 2 4 4
+AK4 (h9.4.2.5) 64 64 128 128 16 8 32
+AE15 (h9.4.2.5) 32 32 128 128 8 8 16
+YB06 (h9.4.2.4) 128 64 128 64 128 32 64
+BZ02 (h9.4.2.3) 64 64 64 16 32 64 64
+GX10 (h9.4.2.3) 32 32 64 64 16 16 64
+a
+Homologous titers are in boldface; lineage designations are in parentheses; virus designations are abbreviated as follows: NX184 = A/chicken/Ningxia/NX184/2011,
+GB26 = A/chicken/Guizhou/GB26/2011, AK4 = A/chicken/Anhui/AK4/2011, AK15 = A/chicken/Anhui/AK15/2011, YB06 = A/chicken/Shandong/YB06/2006, BZ02 = A/
+chicken/Shandong/BZ02/2002, GX10 = A/chicken/Guangxi/10/1999.
+doi:10.1371/journal.pone.0052671.t001
+Distribution of H9 Avian Influenza
+PLOS ONE | www.plosone.org 4 December 2012 | Volume 7 | Issue 12 | e52671
+residues, like those at sites 191, 197, 198 and 238, may also affect
+cell tropism [34,35].
+Taken together, this report presents an updated, detailed and
+panoramic view of the recent epidemiological distribution of H9
+subtype AIVs in China and around the world, and sheds new
+insights for prevention of the infection in poultry and preparedness
+for a potential pandemic caused by the viruses.
+Materials and Methods
+Animal Welfare
+This study was conducted according to the animal welfare
+guidelines of the World Organization for Animal Health [41], and
+approved by the Animal Welfare Committee of China Animal
+Health and Epidemiology Center.
+The Hemagglutination (HA) and Hemagglutination
+Inhibition (HI) Assays
+The HA and HI assays were performed using 96-well U-bottom
+microtiter plates as described previously [42]. For the HA assay,
+each virus stock to be tested was diluted serially in the plates using
+phosphate-buffered saline (PBS, pH 7.2). Thereafter, 0.5% (v/v)
+chicken or goose RBCs were added to each well, and the plates
+were incubated at 4uC for 45260 min. The HA titer was the
+inverse of the last dilution of the virus stock showing complete
+agglutination of the RBCs. For the HI assay, each antiserum to be
+tested was serially diluted in the plates using PBS, and then four
+hemaglutination unit (HAU) of working solution of standard viral
+antigen was added to each well of the plates, except those served as
+serum and RBC controls. The plates were incubated at 37uC for
+30 min. Thereafter, 0.5% (v/v) chicken or goose RBCs were
+added into all wells, and the plates were incubated at 4uC for
+45260 min. The HI titer was the inverse of the last dilution of sera
+showing complete inhibition of the RBC agglutination.
+Sampling and Virus Isolation
+During 200822011, eight epidemiological surveys of AIVs were
+conducted twice a year. Each survey targeted 8212 provinces
+(Figure 1), from which dozens of poultry farms, backyard flocks,
+slaughtering houses and live bird markets were selected at random.
+For each site, usually 30 birds were selected randomly for swab
+sample collection, and a total of 31406 swab samples were
+collected. Swab samples were collected by taking smears from the
+trachea and cloacae of the domestic fowls and placed in a transport
+medium. The samples were clarified by centrifugation at 10000 g
+for 5 min, and the supernatants were inoculated in 10-day-old
+specific-pathogen-free (SPF) chicken embryonated eggs via the
+allantoic sac route. The eggs were further incubated for four days,
+and checked twice each day during the incubation period. The
+dead ones were picked out and stored in a refrigerator. After the
+incubation period, the allantoic fluids of the live embryos were
+collected and tested by using the HA assay. All the hemaggluti-
+nation-positive samples and the allantoic fluid of the dead eggs
+were investigated further by RT-PCR, as described below.
+Reverse Transcription-polymerase Chain Reaction (RT-
+PCR)
+RNA was extracted using an RNeasy Mini Kit (Qiagen, Hilden,
+Germany), and amplified with the PrimeScript One-step RT-PCR
+Kit (TaKaRa, Dalian, China). Most amplifications used the
+primers 59-CTCAGGGAGCAAAAGCAGGGG-39 (upper) and
+59-GTATTAGTAGAAACAAGGGTG TTTT-39 (down) which
+cover the entire length of the HA gene [43]. Some used the
+primers 59-CCAAAGAATTGCTCCACACAGA-39 (upper) and
+59-GCACAAGAGATGAGGCGACA GT-39 (down) which flank
+a 1500 bp segment of the HA gene of H9 subtype AIVs. RT-PCR
+was performed in a 50-mL reaction using the One-Step RT-PCR
+kit (TaKaRa, Dalian, China), with incubation at 50uC for 30 min
+and denaturation at 94uC for 2 min, followed by 30 cycles at 94uC
+for 30 s, 55uC for 30 s and 72uC for 2 min. RT-PCR products
+were purified with an agarose gel DNA extraction kit (TaKaRa,
+Dalian, China) and ligated into the pGEM-T Easy vector
+(Promega, Shanghai, China). Positive clones were sequenced
+using a Perkin-Elmer model 377 XL DNA sequencer in both
+directions using the T7 and SP6 promoter primers. Subtypes of
+these sequences were determined using the BLAST tool in the
+Influenza Virus Resource [44]. Some RT-PCR positives targeting
+the 1500 bp segment of the H9 subtype AIV gene were not
+sequenced because they were from samples collected at the same
+time from the same site.
+Distribution Analysis
+Distributions of the samples detected positive for H9 subtype
+AIVs through the RT-PCR and sequence analysis in hosts, sites
+and regions were analyzed according to their background
+information. Differences in prevalence were examined using
+a chi-square test, and P,0.05 was considered statistically
+significant. The sampled provinces in Northern and Southern
+China were shown in Figure 1. The Eastern Hemisphere covers
+Asia, Europe, Africa and the Pacific, while the Western Hemi-
+sphere means North and South America.
+Phylogenetic Analysis
+All the HA sequences ($900 bp) of H9 subtype AIVs that were
+available in GenBank were downloaded through the Influenza
+Virus Resource [44]. They were analyzed along with the viral HA
+sequences obtained through the surveys reported here using the
+software MEGA 5.05 (http://www.megasoftware.net/) [45].
+Sequences were aligned using the software MUSCLE [46].
+Genetic distances and phylogenetic relationships were calculated
+by the neighbor-joining method, based on the sequences of the
+HA1 subunit of the viral HA gene [47]. Nucleotide substitutions
+were set under the Kimura 2-parameter model, and substitution
+rates among sites were set in gamma distribution [47]. The gaps
+were handled by pairwise deletion. Bootstrap values were
+calculated from 1000 replicates.
+Numbering of Amino Acid Residues
+Amino acid residues, unless noted otherwise, were numbered
+according to the HA sequence of A/chicken/Anhui/AK13/2008
+(H9) with GenBank accession number FJ434582.
+Classification of Lineages and Sublineages
+Lineages and sublineages were classified mainly according to
+genetic distances and topology of the phylogenetic trees, as
+described in two previous reports [14,36]. Primary lineage
+designations began with the subtype name plus a point and
+a number, e.g., h9.3 represents the third lineage of H9 subtype
+AIVs. Secondary lineage designations began with their primary
+lineage designations plus a point and a number, e.g., h9.3.2
+represents the second sublineage of lineage h9.3. The numbers
+within the lineage designations, if possible, were in order of
+Western Hemisphere followed by Eastern Hemisphere in geogra-
+phy, and in order of past to present in isolation time. Classification
+of the sublineages within lineage h9.3 was modified here,
+compared with a previous report [36], namely that lineage
+Distribution of H9 Avian Influenza
+PLOS ONE | www.plosone.org 5 December 2012 | Volume 7 | Issue 12 | e52671
+h9.3.2 in the previous report was designated h9.3.1.3 in this
+report, and h9.3.2 represented an unclassified lineage in the
+previous report.
+Antigenic Analysis Using the HI Assay
+Antigenic cross-reactivity was investigated using the aforemen-
+tioned HI assay. Polyclonal antibodies against seven randomly
+selected strains of H9 subtype AIVs (two in lineage h9.4.2.6, two in
+lineage h9.4.2.5, two in lineage h9.4.2.4, one in lineage h9.4.2.3)
+were generated using 21 day-old SPF chickens. Four of the seven
+strains, A/chicken/Ningxia/NX184/2011, A/chicken/Guizhou/
+GB26/2011, A/chicken/Anhui/AK4/2011 and A/chicken/An-
+hui/AK15/2011, were obtained through the surveys presented
+here. The remaining three, A/chicken/Shandong/YB06/2006,
+A/chicken/Shandong/BZ02/2002 and A/chicken/Guangxi/10/
+1999, were obtained from a biological company (Yebio, Qingdao),
+and the GenBank accession numbers of their HA gene sequences
+were AJ123452 AJ12348. Each of the SPF chickens was
+immunized with 0.5 mL virus-infected allantoic fluid inactivated
+using 0.2% (v/v, final) formaldehyde through intramuscular
+injection for only one time, and antisera were collected on the
+21st day after the injection.
+Analysis of Receptor-binding Preference Using the HA
+Assay
+Receptor-binding preference of 76 H9 subtype AIVs, ten H5
+subtype AIVs, five NDVs, and two human influenza viruses was
+examined using the HA assay with untreated goose RBCs and
+a2,3-specific sialidase-treated goose RBCs, according to a previous
+report [48]. All the 93 avian influenza or NDVs were isolated from
+the samples collected through this study, except the aforemen-
+tioned two, A/chicken/Shandong/YB06/2006 and A/chicken/
+Shandong/BZ02/2002. The human influenza viruses, A/Qing-
+dao/1038/2007(H3N2) and A/Qingdao/783/2007(H1N1), were
+obtained from Qingdao Center for Disease Control. For sialidase
+treatment, a 10% (v/v) suspension of goose RBCs was prepared in
+Figure 1. Provinces targeted for the eight surveys in 200822011 marked with ``m'' for those in Northern China or ``.'' for those in
+Southern China.
+doi:10.1371/journal.pone.0052671.g001
+Distribution of H9 Avian Influenza
+PLOS ONE | www.plosone.org 6 December 2012 | Volume 7 | Issue 12 | e52671
+PBS and a 100 ml aliquot treated with 1.25 U of recombinant
+a2,3-sialidase (Takara, Japan) for 1 h at 37uC. Treated erythro-
+cytes were washed twice and adjusted to a final working
+concentration (0.5%, v/v) with PBS. With sialidase treatment,
+a2,3-linked sialic acid was completely eliminated from the surface
+of goose RBCs without damaging a2,6-linked sialic acid.
+Supporting Information
+Figure S1 Small version of the phylogenetic tree of 1178
+H9 subtype AIVs based on HA1 subunit of the viral
+hemagglutinin gene sequences. Lineage designations are to
+the right of relevant branches, and bootstrap values are at relevant
+nodes. The representative virus of each lineage is marked with an
+asterisk. This figure is too large, and it actual size can be viewed
+using Windows-Picture-&-Fax Viewer via pressing the keys ``Ctrl''
+and ``A'' simultaneously.
+(TIF)
+Figure S2 Phylogenetic distribution of 1178 H9 subtype
+AIVs in GenBank based the sequences of the HA1
+subunit of the viral hemagglutinin gene. Lineage designa-
+tions are to the right of the relevant branches, and bootstrap values
+are at relevant nodes. This figure is too large, and it actual size can
+be viewed using Windows-Picture-&-Fax Viewer via pressing the
+keys ``Ctrl'' and ``A'' simultaneously.
+(TIF)
+Figure S3 Phylogenetic distribution of 800 H9 subtype
+AIVs based the sequences of the HA1 subunit of the viral
+hemagglutinin gene. The representative virus of each lineage is
+marked with an asterisk. Lineage designations are to the right of
+relevant branches, and bootstrap values are at relevant nodes. This
+figure is too large, and it actual size can be viewed using Windows-
+Picture-&-Fax Viewer via pressing the keys ``Ctrl'' and ``A''
+simultaneously.
+(TIF)
+Table S1 The lineage, temporal and spatial distribution of 1178
+H9 subtype AIVs reported to GenBank.
+(DOCX)
+Table S2 Genetic distances between different levels of H9
+lineages.
+(DOCX)
+Table S3 Hemagglutination titers of 76 H9 viruses against goose
+RBCs untreated or treated with a2,3-specific sialidase.
+(DOCX)
+Acknowledgments
+We thank Dr. Jiwang Chen in University of Illinois at Chicago for his
+precious comments and suggestions.
+Author Contributions
+Conceived and designed the experiments: JC WJ SL. Performed the
+experiments: WJ SL GH JL QZ SW PZ JC. Analyzed the data: JC SL WJ.
+Contributed reagents/materials/analysis tools: JC. Wrote the paper: JC
+WJ SL.
+References
+1. Tong S, Li Y, Rivailler P, Conrardy C, Castillo DA, et al. (2012) A distinct
+lineage of influenza A virus from bats. Proc Natl Acad Sci U S A 109:
+426924274.
+2. Baumer A, Feldmann J, Renzullo S, Mu
+¨ller M, Thu
+¨r B, et al. (2010)
+Epidemiology of avian influenza virus in wild birds in Switzerland between 2006
+and 2009. Avian Dis 54: 875­884.
+3. Hansbro PM, Warner S, Tracey JP, Arzey KE, Selleck P, et al. (2010)
+Surveillance and analysis of avian influenza viruses, Australia. Emerg Infect Dis
+16: 1896­1904.
+4. Kang HM, Jeong OM, Kim MC, Kwon JS, Paek MR, et al. (2010) Surveillance
+of avian influenza virus in wild bird fecal samples from South Korea, 2003­
+2008. J Wildl Dis 46: 878­888.
+5. Lee DH, Lee HJ, Lee YN, Park JK, Lim TH, et al. (2011) Evidence of
+intercontinental transfer of North American lineage avian influenza virus into
+Korea. Infect Genet Evo 11: 232­236.
+6. Liu YH, Han CH, Wang XQ, Lin J, Ma M, et al. (2009) Influenza A virus
+receptors in the respiratory and intestinal tracts of pigeons. Avian Pathol 38:
+263­266.
+7. Munster VJ, Baas C, Lexmond P, Waldenstro
+¨m J, Wallensten A, et al. (2007)
+Spatial, temporal, and species variation in prevalence of influenza A viruses in
+wild migratory birds. PLoS Pathog 3: e61.
+8. Ramey AM, Pearce JM, Ely CR, Guy LM, Irons DB, et al. (2010) Transmission
+and re-assortment of avian influenza viruses at the Asian-North American
+interface. Virology 406: 352­359.
+9. Senne DA (2007) Avian influenza in North and South America, 2002­2005.
+Avian Dis 51 (s1): 167­173.
+10. Abolnik C, Gerdes GH, Sinclair M, Ganzevoort BW, Kitching JP, et al. (2010)
+Phylogenetic analysis of influenza A viruses (H6N8, H1N8, H4N2, H9N2,
+H10N7) isolated from wild birds, ducks, and ostriches in South Africa from 2007
+to 2009. Avian Dis 54(sl): 313­322.
+11. Chu YC, Cheung CL, Hung Leung CY, Man Poon LL, Chen H, et al. (2011)
+Continuing evolution of H9N2 influenza viruses endemic in poultry in southern
+China. Influenza Other Respi Viruses 5(s1): 68­71.
+12. Fusaro A, Monne I, Salviato A, Valastro V, Schivo A, et al. (2011)
+Phylogeography and evolutionary history of reassortant H9N2 viruses with
+potential human health implications. J Virol 85: 8413­8421.
+13. Ge FF, Zhou JP, Liu J, Wang J, Zhang WY, et al. (2009) Genetic evolution of H9
+subtype influenza viruses from live poultry markets in Shanghai, China. J Clin
+Microbiol 47: 3294­3300.
+14. Ji K, Jiang WM, Liu S, Chen JM, Chen J, et al. (2010) Characterization of the
+hemagglutinin gene of subtype H9 avian influenza viruses isolated in 2007­2009
+in China. J Virol Methods 163: 186­189.
+15. Krauss S, Obert CA, Franks J, Walker D, Jones K, et al. (2007) Influenza in
+migratory birds and evidence of limited intercontinental virus exchange. PLoS
+Pathog 3: e167.
+16. Li CJ, Yu KZ, Tian GB, Yu DD, Liu LL, et al. (2005) Evolution of H9N2
+influenza viruses from domestic poultry in Mainland China. Virology 340: 70­
+83.
+17. Moon HJ, Song MS, Cruz DJ, Park KJ, Pascua PN, et al. (2010) Active
+reassortment of H9 influenza viruses between wild birds and live-poultry markets
+in Korea. Arch Virol 155: 229­241.
+18. Nagarajan S, Rajukumar K, Tosh C, Ramaswamy V, Purohit K, et al. (2009)
+Isolation and pathotyping of H9N2 avian influenza viruses in Indian poultry.
+Vet Microbiol 133: 154­163.
+19. Negovetich NJ, Feeroz NM, Jones-Engel L, Walker D, Alam SM, et al. (2011)
+Live bird markets of Bangladesh: H9N2 viruses and the near absence of highly
+pathogenic H5N1 influenza. PLoS One 6: e19311.
+20. Roussan DA, Khawaldeh GY, Al Rifai RH, Totanji WS, Shaheen IA (2009)
+Avian influenza virus H9 subtype in poultry flocks in Jordan. Prev Vet Med 88:
+77­81.
+21. Xu KM, Smith GJ, Bahl J, Duan L, Tai H, et al. (2005) The genesis and
+evolution of H9N2 influenza viruses in poultry from southern China, 2000 to
+2005. J Virol 81: 10389­10401.
+22. Butt KM, Smith GJ, Chen H, Zhang LJ, Leung YH, et al. (2005) Human
+infection with an avian H9N2 influenza A virus in Hong Kong in 2003. J Clin
+Microbiol 43: 5760­5767.
+23. Guo YJ, Li JW, Cheng I (1999) Discovery of men infected by avian influenza A
+(H9N2) virus. Chin J Exp Clin Virol 13: 105­108.
+24. Matrosovich MN, Krauss S, Webster RG (2001) H9N2 influenza A viruses from
+poultry in Asia have human virus-like receptor specificity. Virology 281: 156­
+162.
+25. (2011) Recommended composition of influenza vaccines for use in the 2012
+southern hemisphere influenza season. Wkly Epidemiol Rec 86: 457­468.
+26. (2011) Antigenic and genetic characteristics of influenza A(H5N1) and influenza
+A(H9N2) viruses for development of candidate vaccines viruses for pandemic
+preparedness - February 2011. Wkly Epidemiol Rec 86: 93­100.
+27. Saito T, Lim W, Suzuki T, Suzuki Y, Kida H, et al. (2001) Characterization of
+a human H9N2 influenza virus isolated in Hong Kong. Vaccine 20: 125­133.
+28. Sun YP, Qin K, Wang JJ, Pu J, Tang QD, et al. (2011) High genetic
+compatibility and increased pathogenicity of reassortants derived from avian
+H9N2 and pandemic H1N1/2009 influenza viruses. Proc NatI Acad Sci U S A
+108: 4164­4169.
+29. Xu CT, Fan WX, Wei R, Zhao HK (2004) Isolation and identification of swine
+influenza recombinant A/Swine/Shandong/1/2003(H9N2) virus. Microbes
+Infect 6: 919­925.
+Distribution of H9 Avian Influenza
+PLOS ONE | www.plosone.org 7 December 2012 | Volume 7 | Issue 12 | e52671
+30. Chen JM, Chen JW, Dai JJ, Sun YX (2007) A survey of human cases of H5N1
+avian influenza reported by the WHO before June 2006 for infection control.
+Am J Infect Control 35: 351­353.
+31. Wang Q, Tao YJ (2010) Influenza: molecular virology. Norwich: Caister
+Academic Press. 69­108 p.
+32. Wan H, Perez DR (2007) Amino acid 226 in the hemagglutinin of H9N2
+influenza viruses determines cell tropism and replication in human airway
+epithelial cells. J Virol 81: 5181­5191.
+33. Wan H, Sorrell EM, Song H, Hossain MJ, Ramirez-Nieto G, et al. (2008)
+Replication and transmission of H9N2 influenza viruses in ferrets: evaluation of
+pandemic potential. PLoS One 3(8): e2923.
+34. Ha Y, Stevens DJ, Skehel JJ, Wiley DC (2002) H5 avian and H9 swine influenza
+virus haemagglutinin structures: possible origin of influenza subtypes. EMBO J
+21: 865­875.
+35. Sorrell EM, Wan H, Araya Y, Song H, Perez DR (2009) Minimal molecular
+constraints for respiratory droplet transmission of an avian-human H9N2
+influenza A virus. Proc Natl Acad Sci U S A 106: 7565­7570.
+36. Liu S, Ji K, Chen J, Tai D, Jiang WM, et al. (2009) Panorama phylogenetic
+diversity and distribution of type A influenza virus. PLoS One 4: e5022.
+37. Chen JM, Guo YJ, Wu KY, Guo JF, Wang M, et al. (2007) Exploration of the
+emergence of the Victoria lineage of influenza B virus. Arch Virol 152: 415­422.
+38. WHO/OIE/FAO H5N1 Evolution Working Group (2012) Continued evolu-
+tion of highly pathogenic avian influenza A (H5N1): updated nomenclature.
+Influenza Other Respi Viruses 6(1): 1­5.
+39. Martin V, Pfeiffer DU, Zhou X, Xiao X, Prosser DJ, et al. (2011) Spatial
+distribution and risk factors of highly pathogenic avian influenza (HPAI) H5N1
+in China. PLoS Pathog 7: e1001308.
+40. Wan XF, Dong L, Lan Y, Long LP, Xu C, et al. (2011) Indications that live
+poultry markets are a major source of human H5N1 influenza virus infection in
+China. J Virol 85: 13432­13438.
+41. World Organization for Animal Health (2011) Terrestrial animal health code
+2011, ed 1, World Organization for Animal Health, Paris.
+42. Guo Y, Cheng X (1997) Influenza viruses and relevant experimental techniques.
+Beijing: Three Gorges Press. 65­78 p.
+43. Hoffmann E, Stech J, Guan Y, Webster RG, Perez DR (2001) Universal primer
+set for the full-length amplification of all influenza A viruses. Arch Virol 146:
+2275­2289.
+44. Bao Y, Bolotov P, Dernovoy D, Kiryutin B, Zaslavsky L, et al. (2008) The
+Influenza Virus Resource at the National Center for Biotechnology Information.
+J Virol 82: 596­601.
+45. Edgar RC (2004) MUSCLE: multiple sequence alignment with high accuracy
+and high throughput. Nucleic Acids Res 32: 1792­1797.
+46. Tamura K, Peterson D, Peterson N, Stecher G, Nei M, et al. (2011) MEGA5:
+molecular evolutionary genetics analysis using maximum likelihood, evolution-
+ary distance, and maximum parsimony methods. Mol Biol Evol 28: 2731­2739.
+47. Li WH (1997) Molecular evolution. Sunderland: Sinauer Associates Inc. 149­
+175 p.
+48. Suptawiwat O, Kongchanagul A, Chan-It W, Thitithanyanont A, Wiriyarat W,
+et al. (2008) A simple screening assay for receptor switching of avian influenza
+viruses. J Clin Virol 42: 186­189.
+Distribution of H9 Avian Influenza
+PLOS ONE | www.plosone.org 8 December 2012 | Volume 7 | Issue 12 | e52671
+

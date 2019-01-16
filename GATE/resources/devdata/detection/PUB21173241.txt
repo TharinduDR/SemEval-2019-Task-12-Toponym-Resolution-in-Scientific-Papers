@@ -1,0 +1,1096 @@
+﻿Feasibility of reconstructed ancestral H5N1 influenza
+viruses for cross-clade protective
+vaccine development
+Mariette F. Ducateza
+, Justin Bahlb,c
+, Yolanda Griffina
+, Evelyn Stigger-Rossera
+, John Franksa
+, Subrata Barmana
+,
+Dhanasekaran Vijaykrishnab,c
+, Ashley Webba
+, Yi Guanc,d
+, Robert G. Webstera
+, Gavin J. D. Smithb,c
+, and Richard J. Webbya,1
+a
+Department of Infectious Diseases, St. Jude Children's Research Hospital, Memphis, TN 38105-3678; b
+Duke­National University of Singapore Graduate
+Medical School, Republic of Singapore 169857; c
+State Key Laboratory of Emerging Infectious Diseases, Department of Microbiology, University of Hong Kong,
+Hong Kong, SAR, China; and d
+International Institute of Infection and Immunity, Shantou University, Shantou 515031, China
+Edited by Peter Palese, Mount Sinai School of Medicine, New York, NY, and approved November 16, 2010 (received for review August 23, 2010)
+Since the reemergence of highly pathogenic H5N1 influenza
+viruses in humans in 2003, these viruses have spread throughout
+avian species in Asia, Europe, and Africa. Their sustained circula-
+tion has resulted in the evolution of phylogenetically diverse
+lineages. Viruses from these lineages show considerable antigenic
+variation, which has confounded vaccine planning efforts. We
+reconstructed ancestral protein sequences at several nodes of the
+hemagglutinin (HA) and neuraminidase (NA) gene phylogenies
+that represent ancestors to diverse H5N1 virus clades. By using the
+same methods that have been used to generate currently licensed
+inactivated H5N1 vaccines, we were able to produce a panel of
+replication competent influenza viruses containing synthesized HA
+and NA genes representing the reconstructed ancestral proteins.
+We identified two of these viruses that showed promising in vitro
+cross-reactivity with clade 1, 2.1, 2.2, 2.3.4, and 4 viruses. To
+confirm that vaccine antigens derived from these viruses were
+able to elicit functional antibodies following immunization, we
+created whole-virus vaccines and compared their protective
+efficacy versus that of antigens from positive control, naturally
+occurring, and broadly reactive H5N1 viruses. The ancestral
+viruses' vaccines provided robust protection against morbidity
+and mortality in ferrets challenged with H5N1 strains from clades
+1, 2.1, and 2.2 in a manner similar to those based on the control
+strains. These findings provide proof of principle that viable, com-
+putationally derived vaccine seed viruses can be constructed
+within the context of currently licensed vaccine platforms. Such
+technologies should be explored to enhance the cross reactivity
+and availability of H5N1 influenza vaccines.
+universal | cross-reactive | pandemic
+Highly pathogenic avian influenza (HPAI) A H5N1 remains
+a significant pandemic threat (1). The precursor of these
+viruses, A/goose/Guangdong/1/1996, was first isolated from
+a goose in Guangdong, China (2), and its derivatives have since
+spread throughout Southeast Asia, Eurasia, and Africa. As of
+June 17, 2010, the World Organization for Animal Health updates
+of HPAI H5N1 outbreaks highlighted 6,731 outbreaks in poultry
+in 51 countries (3). Reported human cases caused by this virus as
+of August 3, 2010, numbered 505, of which 300 were fatal (4).
+In conjunction with their spread, H5N1 viruses have diversified
+into multiple lineages, many of which continue to concurrently
+circulate and cause human infections. These lineages have been
+classified into clades (0 to 9) and subclades on the basis of their
+hemagglutinin (HA) gene genealogy (5). Viruses from these dif-
+ferent clades also show considerable antigenic variation, which
+confounds pandemic preparedness efforts. Additional complex-
+ities have emerged as a result of the difficulty in handling and
+shipping HPAI viruses and sovereignty issues surrounding iso-
+lates. Antiviral drugs are effective against HPAI H5N1 infection if
+they are administered early enough (6). However, acquired re-
+sistance to these drugs can develop. Therefore, significant re-
+search efforts have been directed toward developing broadly
+reactive and alternative reagents, including vaccines, for pan-
+demic preparedness.
+Several approaches for alternative, broadly reactive vaccines
+have been proposed. M2e peptide vaccines, based on the con-
+served ectodomain of matrix protein 2, have shown promise to
+provide broad protection against different influenza viruses when
+used in murine models (7, 8). Another potential solution pre-
+sented has been to mix antigens from multiple viruses in a single
+vaccine. This approach was previously tested in animal models
+with a mixture of inactivated whole viruses from different HPAI
+H5N1 clades, which successfully protected ferrets against chal-
+lenge with clades 1 and 2 (6). However, it requires the production
+of multiple antigens, which will limit the number of doses pro-
+duced. Consensus HA and neuraminidase (NA) synthetic DNAs
+have also been explored as an approach to enhance H5N1 vaccine
+efficacies. With such DNA vaccines, only partial protection was
+observed in mice challenged with HPAI H5N1 (9­11). Although
+promising, the consensus DNA methods underestimate the true
+diversity of the circulating viruses and are based on influenza
+vaccine platforms not yet approved for human use.
+Here we propose an ancestral sequence reconstruction method
+based on a resolved phylogenetic topology to produce vaccine
+candidate viruses. Ancestral sequences are computationally de-
+rived sequences that represent the most recent common ancestor
+of a pool of viruses (i.e., the internal nodes of a phylogenetic tree)
+(12). Despite their potential benefits, it is unknown if these an-
+cestral HA and NA proteins could be used to construct viable,
+antigenically representative viruses able to fit within the limi-
+tations of currently licensed inactivated influenza vaccine plat-
+forms (13, 14). To address these issues we generated the sequence
+of putative ancestral HA and NA genes and created a panel of
+replication competent attenuated influenza strains. The ability of
+these viruses to elicit functionally useful antibodies in the context
+of inactivated vaccines was then assessed in vitro and in vivo in the
+ferret model alongside two of the broadly reactive vaccine seed
+strains recommended by the World Health Organization (WHO).
+This study provides the proof of concept that viable vaccine seed
+viruses can be generated by the synthesis of putative ancestral
+sequences and that further evaluation and optimization of such
+approaches is warranted.
+Author contributions: M.F.D., G.J.D.S., and R.J.W. designed research; M.F.D., J.B., Y. Griffin,
+E.S.-R., J.F., S.B., D.V., and A.W. performed research; M.F.D. and R.J.W. analyzed data; and
+M.F.D., J.B., Y. Guan, R.G.W., G.J.D.S., and R.J.W. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Data deposition: The sequences for A/turkey/Egypt/7/2007 reported in this paper have
+been deposited in the GenBank database (accession nos. CY055188­CY055195).
+1
+To whom correspondence should be addressed. E-mail: richard.webby@stjude.org.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1012457108/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1012457108 PNAS | January 4, 2011 | vol. 108 | no. 1 | 349­354
+MICROBIOLOGY
+Results
+Phylogenetic Reconstruction and Calculation of Ancestral Sequences.
+To generate the putative ancestral viral antigens, phylogenetic
+trees were produced from the H5 and N1 sequences available in
+public databases. The phylogeny generated for the HA gene was
+consistent with current H5N1 clade nomenclature (Fig. 1A). For
+the NA gene, the phylogeny indicated that there were two major
+groups, with and without the 20-aa deletion in the NA stalk (Fig.
+1B). The putative HA ancestral aa sequences were calculated for
+four nodes (Fig. 1A) and differed by only 3 to 9 aa (3 aa dif-
+ference between B and C and between B and D; 5 aa between C
+and D; 6 aa between A and B; and 9 aa between A and C and
+between A and D). Putative NA ancestral amino acid sequences
+were predicted for the root of the phylogeny (r; Fig. 1B) and at
+the common ancestor for all NA genes with a 20-aa deletion in
+the stalk region (d; Fig. 1B). Both NA ancestral genes differed
+not only by presence or absence of 20 aa in the stalk region but
+also by an additional 8 aa mutations. Sequences of the four HA
+and two NA ancestral constructs are presented in Appendix S1.
+Each of the four HA and two NA genes were synthesized and
+cloned into pHW2000 (15).
+Virus Rescue. Currently licensed H5N1 influenza vaccines are
+based on the growth of vaccine seed strains in embryonated
+chickens eggs or cultured cells. The seed viruses contain six gene
+segments (PB2, PB1, PA, NP, M, NS) from A/Puerto Rico/8/34
+and the HA and NA of the target virus (so-called 6+2 viruses).
+As we wished to remain within the framework of currently li-
+censed influenza vaccine platforms, we next attempted to create
+replicating influenza viruses containing combinations of the
+computed ancestral HA and NA genes by using plasmid-based
+reverse genetics (rg). rg 6+2 viruses were successfully generated
+for the different H5N1 clade representatives and for the eight
+ancestral H5N1 vaccine candidates--A+d, A+r, B+d, B+r, C+d,
+C+r, D+d, and D+r--showing that the computationally derived
+sequences coded for functional proteins and could be used to
+create a replicating virus. Moreover, the eight rescued ancestral
+viruses grew to similar titers in Madin­Darby canine kidney cells
+as similar strains derived from contemporary H5N1 viruses (as
+shown by the end point of 50% tissue culture infectious dose;
+Table S1). The four viruses containing the r N1 ancestral gene
+grew to a higher titer in eggs than the viruses containing the
+d N1, with a difference of as much as 3 log10 (Table S1). A+r,
+B+r, C+r, and D+r were therefore selected for the work pre-
+sented in this study, and are referred to as "A", "B", "C", and
+"D" from now on.
+Antigenic Properties of Ancestral Viruses. To assess the potential of
+the four ancestral viruses A, B, C, and D, and the reference H5N1
+isolates A/Vietnam/1203/04 (VN1203, clade 1), A/Hong Kong/
+213/03 (HK213, clade 1), A/duck/Hunan/795/02 (DKHUN795,
+clade 2.1), A/whooper swan/Mongolia/244/05 (WSM244, clade
+2.2), A/turkey/Egypt/7/07 (TYEGY7, clade 2.2), A/Japanese
+white-eye/Hong Kong/1038/06 (JWEHK1038, clade 2.3.4), A/
+duck/Laos/3295/06 (DKLAO3295, clade 2.3.4), and A/goose/
+Guiyang/337/06 (GG337, clade 4) as vaccine antigens, the cross-
+reactivity of their homologous antisera toward various H5N1
+viruses was studied by ELISA, hemagglutination inhibition (HI)
+assay, and microneutralization (MN) assay. Table 1 summarizes
+the results and shows the considerable diversity in the degree of
+reactivity to the various reference viruses. Of the reference anti-
+sera, only those from DKHUN795 and GG337 had ELISA titers
+to the clade 1 VN1203 antigen that were within twofold of the
+homologous serum values (i.e., VN1203 antiserum); three of
+the four ancestral virus antisera (A, C, and D) fell within this
+range. In comparison, reactivities to the clade 2.2 (A/Egypt/2321-
+NAMRU3/06), 2.3.4 (JWEHK1038), and 4 (GG337) antigens
+were somewhat reduced, with only the VN1203, DKHUN795, A,
+and D-specific serum (and JWEHK1038 serum for GG337 anti-
+gen) less than twofold lower than the homologous antiserum
+values. With JWEHK1038, titers from VN1203, DKHUN795,
+and D-specific serum were actually higher than that of the ho-
+mologous. Of note, the clade 2.1 antigen, A/Indonesia/5/05, was
+well recognized by all the sera tested (ELISA normalized titers
+>0.5; Table 1). HI and MN assays both gave overall low values,
+suggesting a modest cross-neutralization for ancestral as well as
+reference H5N1 strains. A and D showed a slightly higher cross-
+reactivity versus their ancestral counterparts in HI and MN
+assays, respectively (Table 1). Overall, the postinfection ferret
+antiserum raised to VN1203, DKHUN795, and ancestors A
+and D were consistently the most cross-reactive, a trend also seen
+in HI and MN assays and one confirming the ability of the syn-
+thetic proteins to induce antibodies able to recognize a range of
+H5 viruses.
+Ancestral Viruses as Vaccine Antigens. To determine the ability of
+the computationally derived ancestral HA and NA proteins to
+act as vaccine antigens, groups of ferrets were immunized twice
+with inactivated whole virus vaccines made from A and D and
+then challenged with H5N1 viruses representative of currently
+circulating clades: clade 1 (VN1203), clade 2.1 (DKHUN795),
+and clade 2.2 (TYEGY7). As a positive control, whole virus
+vaccines to the most broadly in vitro reactive reference viruses,
+VN1203 and DKHUN795, were also included. Because of the
+relatively mild virulence of DKHUN795 in ferrets, a reassortant
+virus was used as the challenge virus in these experiments (HA
+and NA of DKHUN795 and internal genes from VN1203). Table
+S2 shows the differences between the HA proteins of the vaccine
+antigens DKHUN795, VN1203, A, and D. DKHUN795 and D
+were the most similar strains with only 3 aa differences. A and
+D, A and DKHUN795, D and VN1203, A and VN1203, and
+VN1203 and DKHUN795 had 9, 10, 12, 13, and 13 aa differ-
+ences, respectively. Whereas mutations at position 8 (signal
+peptide) and positions 494 to 525 (transmembrane domain)
+likely have little effect on the immunogenicity of the vaccine
+antigens, the 12 mutations in the globular head of the HA (be-
+tween positions 52 and 336; Table S2) likely play a more im-
+portant role. Most notably, positions 145 and 172 (129 and 156
+H5 numbering) were located within antigenic sites 3 and 2, re-
+spectively. Mutations at these sites distinguish VN1203 and A,
+and DKHUN795 and D.
+Before challenge, ferrets were bled, and the development of
+antibodies against the immunizing antigen was investigated by
+HI assays (Table S3). MN titers were also determined, and they
+correlated with HI titers. "Protective" serum HI titers of 40
+against their respective homologous strains were reached in 33%
+to 83% of the vaccinated ferrets. The most immunogenic antigens
+(as measured in homologous HI) were those derived from D and
+DKHUN795, for which 67% and 83% of ferrets, respectively, had
+HI titers of at least 40 (whereas it was true for only one third of
+the A- and VN1203-vaccinated ferrets). The arithmetic mean
+titers of the D- and DKHUN795-vaccinated animals were 95 and
+87, respectively: significantly higher than those of the A- and
+VN1203-vaccinated ferrets (37 and 26, respectively; P = 0.011,
+ANOVA). The titers against the challenge strains ranged from
+undetectable to equivalent to those of the homologous strains.
+Mock-vaccinated ferrets did not have any detectable HI titers
+against the different H5N1 strains (Table S3).
+After challenge with H5N1 strains VN1203, DKHUN795, and
+TYEGY7, all vaccinated ferrets survived irrespective of their
+vaccine regimen (Fig. 2), and they had no significant weight loss
+(Fig. S1). Mock-vaccinated animals all died or were euthanized
+by day 5 or by day 8 when infected with VN1203 or DKHUN795,
+respectively. Although mock-vaccinated animals challenged with
+TYEGY7 survived, they lost weight (Fig. S1), were lethargic, and
+showed neurological signs.
+There were significant differences between vaccinated and
+control groups in the amount of virus detected in the nasal
+washes of DKHUN795- and TYEGY7-infected animals 3, 5, and
+350 | www.pnas.org/cgi/doi/10.1073/pnas.1012457108 Ducatez et al.
+1
+2.1
+2.2
+2.3
+Denotes nodes for
+sequence reconstruction
+2.5
+2.4
+8
+9
+5,6
+4
+7
+0
+20-aa
+Deletion
+No
+Deletion
+0.0010
+Ck/FJ/1042/05
+Ck/ST/810/05
+Ck/YN/447/05
+Dk/GY/2231/05
+Anhui/1/05
+Ck/Kup1NTT/BPPV6/04
+Dk/GY/293/06
+BHGs/QH/5/05
+BHGs/QH/12/05
+Ck/Indonesia/BL/03
+Dk/HN/15/04
+Ck/ST/4231/03
+pig/Anhui/ca/04
+Dk/Vietnam/15/03
+Ck/ZJ/24/05
+Ck/Henan/12/04
+Indonesia/CDC1047/07
+Anhui/2/05
+Indonesia/CDC326N/06
+Ck/GY/846/06
+Gs/GX/4513/05
+Ck/HK/YU777/02
+HK/156/97
+GX/1/05
+Dk/GY/1418/06
+Ck/GHA/3158/N3/07
+Ck/HK/YU562/01
+Ck/CHN/1204/04
+Dk/GX/3741/05
+Ck/Laos/44/04
+HK/483/97
+Ph/HK/FY155/01
+robin/HK/75/06
+Dk/CHN/E3192/03
+Dk/FJ/11094/05
+Ck/GY/1218/06
+Ck/Korea/ES/03
+Dk/YN/5133/05
+Dk/Vietnam/148/04
+Ck/YN/115/04
+Dk/Indonesia/MS/04
+Indonesia/5/05
+Indonesia/CDC370E/06
+Dk/Vietnam/272/05
+MDk/JX/2295/05
+Dk/HN/303/04
+Indonesia/CDC599/06
+Dk/GX/1830/06
+Vietnam/CL01/04
+Dk/YN/4589/05
+CPH/HK/18/05
+KHM/JP52a/05
+Mall/Vietnam/133/04
+Gs/GX/3017/05
+Ck/Vietnam/10/05
+Ck/ST/3840/06
+Gs/YN/1136/06
+Gs/GX/914/04
+Ph/ST/44/04
+Ck/KulPro/BBVetXII2/04
+teal/CHN/2978.1/02
+Japanese white-eye/HK/737/07
+black bird/HN/1/04
+Bei/01/03
+Dk/Vietnam/48/04
+Ck/Vietnam/1/04
+Hatay/04
+civet/Vietnam/1/05
+HK/213/03
+Dk/HN/5106/05
+egret/HK/7572/03
+Ck/THA/1/04
+Gs/ST/1621/05
+Ck/GX/2461/04
+Vietnam/1203/04
+Dk/GX/50/01
+Dk/HN/101/04
+Dk/FJ/668/06
+Dk/GY/3242/05
+Dk/GX/668/04
+Ck/Nigeria/641/06
+Dk/Egypt/22533/06
+Ck/Indonesia/5/04
+Ck/Indonesia/PA/03
+Gs/Vietnam/324/01
+Ck/HK/3176.3/02
+Ck/GY/3570/05
+Indonesia/CDC1046/07
+Dk/HN/152/05
+Qa/THA/57/04
+Dk/GX/2775/05
+sw/Italy/808/06
+Dk/GX/13/04
+Vietnam/JP14/05
+Ck/Nigeria/1047/8/06
+MDk/JX/1653/05
+Ty/Israel/345/06
+Ck/AFG/1207/06
+Dk/HN/856/06
+Dk/YN/6445/03
+Ck/HK/3123.1/02
+whooper swan/Mongolia/244/05
+Ck/Kyoto/3/04
+Indonesia/CDC625/06
+Ck/FJ/11933/05
+Dk/Vietnam/286/05
+Ck/HK/61.9/02
+Gs/GX/1458/06
+Ck/AFG/1573/7/06
+MDk/JX/2136/05
+Indonesia/CDC887/06
+Gs/Vietnam/113/01
+Gs/GX/345/05
+cr0w/Osaka/102/04
+Ck/THA/NP/172/06
+Gs/YN/1396/06
+Ck/FJ/584/06
+Dk/Vietnam/317/05
+Gs/ST/2086/06
+Gs/YN/3315/05
+Gs/GX/3316/05
+Ck/Yam/7/04
+GZ/1/06
+Ck/Sala/BBVetI/05
+Ck/Laos/7192/04
+Dk/Laos/3295/06
+Ck/Yog/BBVetIX/04
+Ck/Nongkhai/400802/07
+THA/16/04
+Environment/HK/437.10/99
+Dk/HN/127/05
+Gs/YN/1143/06
+Ck/HK/FY157/03
+Ck/MYS/5858/04
+Ck/HN/999/05
+Ck/Henan/01/04
+wDk/GD/314/04
+crow/Kyoto/53/04
+Dk/ST/13323/05
+GF/ST/1341/06
+Ck/Nakhonphanom/NIAH113718/06
+Dk/HK/2986.1/00
+Vietnam/CL100/04
+Hanoi/30408/05
+Ck/GX/604/05
+Ck/HK/3169.1/02
+Dk/HN/1265/05
+Indonesia/CDC742/06
+Dk/HN/5806/03
+Ck/GY/29/06
+Indonesia/CDC940/06
+Gs/GX/2383/04
+Gs/THA/79/04
+Egypt/0636/N3/07
+Dk/GX/1311/04
+Ck/HK/282/06
+Gs/GX/582/06
+Ck/GX/12/04
+Gs/GY/1175/06
+Ck/YN/493/05
+Gs/GX/532/06
+Dk/HN/795/02
+Qa/MYS/6309/04
+Ck/GY/2147/05
+Dk/Vietnam/12/05
+Gs/ST/3265/06
+Ck/Sima/BPPVI/05
+Ck/Egypt/1300/N3/07
+Vietnam/1194/04
+Ck/ST/1233/06
+Ck/HK/31.4/02
+Gs/GY/337/06
+Ck/YN/374/04
+Ck/Vietnam/398/05
+Ck/GY/441/06
+Gs/GD/1/96
+Dk/ST/4003/03
+Ty/Kedaton/BPPV3/04
+Dk/YN/6255/03
+Gs/ST/239/06
+Ck/Wajo/BBVM/05
+Dk/Vietnam/258/04
+THA/676/05
+Dk/GX/1681/04
+Dk/Pare/BBVM/05
+Ty/Egypt/7/07
+Ck/HK/YU324/03
+Ck/Vietnam/19/03
+SCk/HK/SF189/01
+Dk/GX/1378/04
+Dk/Vietnam/568/05
+Dk/Novosibirsk/02/05
+Ck/HK/WF157/03
+Ty/Turkey/1/05
+Ck/GunKid/BBVW/05
+Dk/YN/5236/05
+CHN/GD01/06
+Qa/Indonesia/BPPV4/04
+Ck/HB/326/05
+Ck/GY/1018/06
+Dk/Vietnam/283/05
+Dk/YN/4400/05
+Dk/Yokohama/aq10/03
+Ck/GY/3055/05
+Ck/Henan/210/04
+Sw/Astrakhan/1/05
+Gs/Suzdalka/10/05
+Ck/KHM/013LC1b/05
+Gs/GY/3422/05
+Gs/GX/52/06
+Ty/15/06
+Egypt/14724/N3/06
+D
+C
+B
+A
+0.0010
+Gs/ST/2086/06
+magpie robin/HK/75/06
+Ck/Vietnam/133/04
+Thailand/676/05
+Dk/YN/5133/05
+Vietnam/CL01/04
+Vietnam/1203/04
+Ck/GY/3570/05
+Vietnam/1194/04
+China/GD01/06
+MDk/JX/2136/05
+Dk/Egypt/2253-3/06
+Ck/HK/YU324/03
+Ck/Korea/ES/03
+Ck/HK/282/06
+Ck/Henan/210/04
+Gs/GX/582/06
+Gs/ST/239/06
+Ck/Henan/01/04
+Dk/Vietnam/48/04
+Dk/HN/152/05
+Ck/Vietnam/10/05
+Ck/HK/3176.3/02
+Dk/Vietnam/317/05
+Ck/Afghanistan/1207/06
+crow/Kyoto/53/04
+Dk/Vietnam/272/05
+Ck/Indonesia/BL/03
+Ck/FJ/10567/05
+Hatay/04/
+Qa/Boyolali/BPPV4/04
+crow/Osaka/102/04
+Dk/HN/795/02
+Ck/Ghana/3158-NAMRU3/07
+Ck/Afghanistan/1573-47/06
+Dk/FJ/668/06
+Dk/YN/4589/05
+Dk/GY/3242/05
+Ck/Kyoto/3/04
+Dk/ST/13323/05
+Chinese pond heron/HK/18/05
+Gs/GY/337/06
+Dk/GX/13/04
+Indonesia/546bH/06
+Ck/GX/2461/04
+Ck/HK/YU777/02
+Gs/GX/4513/05
+Vietnam/PEV16T/05
+Dk/GX/3741/05
+cygnus olor/Italy/808/06
+Ck/Malaysia/5858/04
+Dk/Vietnam/148/04
+Turkey/15/06
+Dk/Vietnam/15/03
+Dk/Novosibirsk/02/05
+Ck/GY/2147/05
+Dk/Vietnam/12/05
+Ck/YN/447/05
+Dk/Vietnam/568/05
+Ty/Egypt/7/07-PCR
+Dk/GX/2775/05
+Dk/GX/1681/04
+Ck/Pangkalpinang/BPPV3/04
+Guangzhou/1/06
+Ck/ST/3840/06
+blackbird/HN/1/04
+Dk/GY/2231/05
+Ck/GY/29/06
+Ck/HK/3169.1/02
+Gs/GY/3422/05
+Ck/HK/3123.1/02
+Egypt/14724-NAMRU3/06
+Ck/Indonesia/5/04
+Thailand/16/04
+Ck/GY/3055/05
+Dk/YN/5236/05
+Dk/HK/2986.1/00
+Ck/Vietnam/19/03
+Ck/Nigeria/1047-8/06
+Ck/GY/441/06
+Ck/ST/4231/03
+Ck/HK/YU562/01
+Indonesia/5/05
+Gs/ST/3265/06
+Vietnam/CL100/04
+Ck/Henan/12/04
+Ck/YN/374/04
+MDk/JX/1653/05
+Ck/Cambodia/013LC1b/05
+Ck/YN/493/05
+Ck/Zhejiang/24/05
+Ck/Thailand/1/04
+Ck/HK/WF157/03
+Ck/Simalanggang/BPPVI/05
+Hanoi/30408/05
+Guinea fowl/ST/1341/06
+Dk/GX/1830/06
+Cambodia/JP52a/05
+Dk/YN/4400/05
+Gs/GD/1/96
+Ph/ST/44/04
+Ck/GX/12/04
+Ck/FJ/1042/05
+Dk/Yokohama/aq10/03
+Ck/HN/999/05
+Dk/GX/1378/04
+BHGs/QH/5/05
+swan/Astrakhan/1/05
+Ck/Nigeria/641/06
+Ck/Indonesia/PA/03
+HK/213/03
+Dk/YN/6445/03
+Ck/ST/810/05
+Dk/Laos/3295/06
+Ck/HK/61.9/02
+Ck/GX/604/05
+Ty/Israel/345/06
+Ck/HK/31.4/02
+Dk/GX/1311/04
+Ck/FJ/11933/05
+Ck/Thailand/NP-172/06
+Dk/HN/101/04
+Gs/ST/1621/05
+Dk/HN/5106/05
+Gs/Vietnam/113/01
+BHGs/QH/12/05
+whooper swan/Mongolia/244/05
+Ck/ST/1233/06
+Gs/YN/3315/05
+WDk/GD/314/04
+Dk/HN/127/05
+Owston's civet/Vietnam/1/05
+Dk/FJ/11094/05
+Gs/GX/914/04
+Ck/HK/FY157/03
+Dk/HN/5806/03
+Gs/GX/1458/06
+Egypt/0636-NAMRU3/07
+Gs/Suzdalka/10/05
+Gs/GX/532/06
+Dk/GY/293/06
+Ck/China/1204/04
+Beijing/01/03
+Ck/Vietnam/398/05
+Gs/GX/2383/04
+Qa/Malaysia/6309/05
+Gs/Thailand/79/04
+Japanese white-eye/HK/1038/06
+Dk/Vietnam/258/04
+teal/China/2978.1/02
+SCk/HK/SF189/01
+Dk/ST/4003/03
+MDk/JX/2295/05
+Dk/Vietnam/283/05
+Dk/HN/1265/05
+Dk/GX/50/01
+Anhui/1/05
+Environment/HK/437-10/99
+Dk/China/E319-2/03
+Vietnam/JP14/05
+Gs/GX/345/05
+Qa/Thailand/57/04
+Ck/Hebei/326/05
+Ph/HK/FY155/01
+Ck/Vietnam/1/04
+Ck/Yamaguchi/7/04
+Dk/HN/303/04
+Dk/Vietnam/286/05
+swine/Anhui/ca/04
+Ck/YN/115/04
+Gs/GX/668/04
+Ck/Gunung Kidal/BBVW/05
+Ty/Turkey/1/05
+Dk/YN/6255/03
+Gs/GX/3017/05
+Gs/GX/3316/05
+r
+d
+97.1
+72.1
+100
+74
+79.2
+65.8
+80.3
+100
+98.5
+94.9
+87.3
+99.6
+91.8
+100
+99.8
+94.7
+81.5
+90.8
+98.3
+100
+95.2
+99
+100
+100
+96.3
+72.7
+72.8
+99.3
+100
+97.5
+82.3
+100
+93.6
+100
+99.7
+89
+94
+89.3
+100
+88.4
+100
+54
+97.9
+100
+96
+100
+69.7
+100
+98.3
+99.4
+82
+98.2
+97.4
+99.4
+90.7
+92.5
+95.4
+95.9
+99.3
+100
+97.5
+99.8
+100
+97.6
+54.2
+70.4
+96.3
+99.9
+82.3
+98.3
+92.8
+98
+86.3
+98
+99.2
+100
+60.8
+81.6
+86.7
+94.8
+58.3
+96.5
+100
+98.5
+99
+Fig. 1. Phylogenetic relationship of influenza A viruses used to calculate putative ancestral sequences. Four nodes on the HA gene (a) were chosen to
+represent (A) the midpoint root of the tree; (B) the ancestral node common to clades 1, 2.1, 2.2, 2.3, 2.4, 2.5, and 8; (C) the ancestral node to clade 1 viruses;
+and (D) the ancestral node for all clade 2 viruses. For the NA gene (b), two nodes were predicted, one at the root of the phylogeny (r) and another at the
+common ancestor for all NA genes with a 20-aa deletion in the stalk region (d). Numbers at branch nodes indicate neighbor-joining bootstrap values of at
+least 70% for major clades. Analyses were based on nucleotides 1 to 1,707 and 1 to 1,407 of the HA and NA genes, respectively. The HA tree was rooted to
+A/goose/Guangdong/1/96 and the NA tree was midpoint rooted. Numbers to the right of the figure refer to WHO H5N1 clade designations (5). (Scale bar,
+0.001 substitutions per site.) Viruses used in the present study are in red font.
+Ducatez et al. PNAS | January 4, 2011 | vol. 108 | no. 1 | 351
+MICROBIOLOGY
+7 d after infection (P < 0.01; Fig. 3). Despite a trend for lower
+viral titers in vaccinated versus control animals 3 d after infection
+in the VN1203 challenge, the differences were not significant. All
+VN1203 control animals died by 5 d after infection. No statisti-
+cally significant differences were observed among the different
+vaccine groups for any of the three challenge viruses, indicating
+that the ancestral vaccine antigens were able to induce anti-
+bodies that were indeed protective and generally similar in na-
+ture to those induced by reference viruses.
+Discussion
+The challenge in influenza vaccination is that the most potent
+form of immunity, neutralizing antibodies, targets the most
+variable viral protein, HA. This dilemma has proven to be es-
+pecially challenging in the context of developing H5N1 stockpile
+vaccines, because the virus has evolved into several antigenically
+and genetically distinct clades in the 14 y it is known to have
+circulated (16). The current solution of the WHO to this di-
+versification is the creation of additional vaccine seed strains to
+cover this diversity; the current tally of such seed stocks is 13,
+with six more in various stages of development (17). Newer
+approaches must be evaluated, as not only is it economically
+restrictive to produce vaccines from each seed virus, but it is also
+becoming less clear which are the most useful seed strains for
+a given region. Our hypothesis that viable viruses derived from
+computationally generated ancestral HA and NA proteins could
+be generated was validated.
+We found that each of the four computationally derived HA
+proteins and the two NA proteins were functional and able to be
+incorporated into replicating influenza viruses through the use of
+the eight-plasmid reverse genetics system (15). We did find,
+however, that viruses containing the NA protein with a stalk
+deletion were less able to replicate in chicken eggs. Castrucci and
+Kawaoka demonstrated in 1993 that mutated A/WSN/33 (H1N1)
+strains with a shortened stalk replicated poorly in eggs and did
+not cause systemic disease (18). In 2009 Matsuoka et al. (19) and
+Zhou et al. (20) both showed higher virulence of H5N1 viruses
+with longer NA stalks in chickens, but their studies reported
+varying effects in mice (19, 20). Although isolates with the NA
+stalk deletion did grow, we did not proceed with them because of
+the importance of egg growth for current manufacturing of in-
+fluenza vaccines. In addition, the immunogenicity of the varying
+Table 1. ELISA, HI and MN titers in infected ferret serum
+Antigen
+Antiserum/
+titer
+Clade 1
+(VN1203)
+Clade 2.1 (A/Indonesia/5/05 or
+DKHUN795)
+Clade 2.2 (A/Egypt/2321-NAMRU3/06 or
+WSM244)
+Clade 2.3.4
+(JWEHK1038)
+Clade 4
+(GG337)
+VN1203
+ELISA 1 (135) 0.75 0.95 2.1 3.6
+HI 1 (26) 0.33 0.29 0.09 0.79
+MN 1 (113) 0.13 0.50 0.02 0.63
+DKHUN795
+ELISA 0.71 1 (80) 1.76 1.9 1.1
+HI 0.16 1 (160) 0.88 0.08 0.06
+MN 0.16 1 (842) 0.90 0.03 0.10
+WSM244
+ELISA 0.27 0.63 1 (113) 0.27 0.33
+HI 0 0.24 1 (74) 0.02 0.05
+MN 0.53 0.94 1 (125) 0.17 0.43
+JWEHK1038
+ELISA 0.25 0.56 0.40 1 (57) 1.1
+HI 0 0.13 0.06 1 (37) 0
+MN 0.10 0.12 0.29 1 (258) 0.26
+GG337
+ELISA 0.89 1.23 0.18 0.47 1 (40)
+HI 0.12 0 0 0 1 (226)
+MN 0.13 0.02 0.11 0.01 1 (1,417)
+A
+ELISA 0.79 0.75 0.60 1 0.55
+HI 0.28 0.03 0.53 1.28 0.31
+MN 0.16 0.12 0.21 0.12 0.19
+B
+ELISA 0.32 0.56 0.12 0.4 0.33
+HI 0.02 0.09 0.11 0.70 0.05
+MN 0.10 0.11 0.19 0.08 0.11
+C
+ELISA 0.57 0.69 0.02 0.23 0.22
+HI 0.25 0.22 0.23 0.34 0.04
+MN 0.11 0.08 0.11 0.05 0.08
+D
+ELISA 0.79 0.88 0.88 3.9 4.9
+HI 0.02 0.21 0.35 0.63 0
+MN 0.13 0.21 1.18 0.17 0.17
+Normalized titer: ratio of heterologous titer to homologous titer, ratio calculated animal per animal. Clade-homologous titers have both normalized and
+geometric mean titers (e.g., "1 (135)" for VN1203 ELISA titer) and are indicated in italics. Four ferret sera were tested against each antigen. Geometric mean
+titers are indicated in parentheses.
+352 | www.pnas.org/cgi/doi/10.1073/pnas.1012457108 Ducatez et al.
+ancestral NA proteins was not tested here because of the greater
+importance of HA-specific antibodies in the protective response.
+Although we found a growth advantage for viruses containing the
+ancestral NAs without deletions, it is interesting that this was not
+necessarily seen with reassortant viruses containing WT NAs; good
+egg growth properties were seen with reassortant viruses contain-
+ing WT NAs with stalk deletions. The reasons underlying egg
+growth phenotypes remain unclear, but it is clear that factors other
+than the length of the NA stalk can also play important roles.
+The premise of the ancestral virus approach is that such
+viruses may be broadly representative of the population of in-
+fluenza viruses circulating. Even though this study was primarily
+designed as a proof of principle of the approach, we did evaluate
+the ability of the ancestral proteins to induce antibodies able to
+bind to H5N1 influenza strains. Despite some heterogeneity,
+antiserum specific to the A and D antigens was able to recognize
+each of the reference antigens with less than a 50% ELISA titer
+decrease compared with the values for the homologous antigens.
+Interestingly, antigen A induced cross-reactive antiserum as this
+virus contains the putative ancestor HA antigen of all circu-
+lating clades. Given the basal position of virus A, the broad cross-
+reactivity of its antiserum appears to confirm the rationale for
+these experiments.
+Although the approach used in this study incorporates the
+evolutionary history of the virus population, the method is de-
+pendent on sampled virus sequences, a large portion of which
+have been collected from disease outbreaks and not systematic
+surveillance. As a result, we often see long branches in the
+phylogenetic trees that indicate extended periods of unsampled
+diversity. This sampling bias may potentially affect ancestral se-
+quence reconstruction to, in some instances, produce a sub-
+optimal antigen. However, advanced methods that incorporate
+the phylogenetic uncertainty along with antigenic cartography
+into the vaccine design could overcome these limitations. The
+biological factors underlying the antigenic differences of the
+antigens tested in this study are unknown but likely related to
+differences in immunodominant antigenic site residues or gly-
+cosylation patterns, which should be more deeply evaluated. A,
+B, C, and D all contain the same number of potential glycosyl-
+ation sites (n = 6), although differences were observed in anti-
+genic site 1 residues 140 and 145 (H5 numbering in ref. 21).
+In addition to the ability of computationally derived HAs to
+induce antibodies that react with H5N1 viruses, we were also
+able to show that these antibodies were indeed protective. Our
+ferret challenge experiments were not powered to detect dif-
+ferences between any of the tested antigens but rather to provide
+support for their immunogenic nature. Whole-virus vaccines
+based on A and D viruses conferred protection to ferrets against
+morbidity and mortality when challenged with clade 1 (VN1203),
+clade 2.1 (DKHUN795), and clade 2.2 (TYEGY7) viruses that
+was of at least equal efficacy to that induced by the most cross-
+reactive reference viruses. Although it is possible that all four
+antigens are equally effective, further analysis with split vaccines
+(whole-virus preparations are inherently more immunogenic but
+also rarely used in humans in view of associated febrile respon-
+ses), titrations of antigen dose, and more divergent challenge
+viruses are warranted and required to test the hypotheses that
+the ancestral antigens are more cross-reactive than some or all
+naturally occurring counterparts. Nevertheless, the ability of
+A B C
+Fig. 2. Ferrets' survival rates after infection with VN1203 (A), DKHUN795 (B), and TYEGY7 (C). Control (mock-vaccinated) ferrets are represented by red open
+squares. Ferrets vaccinated with ancestral strains are represented by closed blue triangles: A in light blue and D in dark blue. Ferrets vaccinated with positive
+control isolate-based strains are represented by green closed diamonds: VN1203 in light green and DKHUN795 in dark green.
+Fig. 3. Ferrets' nasal wash titers after infection with VN1203 (A),
+DKHUN795 (B), and TYEGY7 (C). The mean virus titers of nasal washes for
+the four animals per group (same vaccine and same challenge virus) are
+expressed in log10 EID50/mL ± SEM (st er). Titers are grouped by vaccination
+regimen on the x axis. Black, white, and gray filled bars represent titers 3, 5,
+and 7 d after infection, respectively. (*P  0.05 and ***P  0.001 by ANOVA
+comparing the five vaccine regimen groups virus titers.) Slashes separate
+ANOVA P values at days 3, 5, and 7. [#
+All mock-vaccinated (control) VN1203-
+infected ferrets were dead before nasal washes could be collected at days 5
+and 7 after infection.]
+Ducatez et al. PNAS | January 4, 2011 | vol. 108 | no. 1 | 353
+MICROBIOLOGY
+single antigens to protect across a range of challenge viruses is
+encouraging from the standpoint of vaccine stockpiling, as has
+been suggested by other ferret (22, 23, 6, 24) and human studies
+(25). Although we observed no mortality or morbidity in H5N1
+cross-clade ferret challenges, Govorkova et al. (22) challenged
+HK213 (clade 1)-vaccinated animals with A/Hong Kong/156/97
+(clade 0, 96% HA aa identity with the vaccine strain, excluding
+the cleavage peptide) and reported morbidity but no mortality.
+Baras et al. (23) used an adjuvanted VN1203 (clade 1)-based
+split vaccine and were able to show that it protected 96% of
+ferrets against mortality when challenged with homologous or
+clade 2.1 (A/Indonesia/5/05, 97% HA aa identity with the vac-
+cine) strains. Finally, Forrest et al. (6) showed ferrets immunized
+with inactivated whole JWEHK1038 (clade 2.3) were partially
+protected from VN1203 (clade 1, 96% HA aa identity with the
+vaccine) challenge. One of the difficulties of evaluating and
+comparing vaccine studies using different H5N1 challenge viru-
+ses is the substantial differences in virus lethality. In our study,
+this was overcome by generating a reassortant virus carrying
+the HA and NA of DKHUN795 on the backbone of VN1203.
+The parental DKHUN795 virus is not lethal in ferrets, whereas
+this reassortant virus was. Similarly, it has been previously shown
+that substitution of the polymerase genes (PB2, PB1, and PA) of
+A/chicken/Vietnam/C58/04 for those of VN1203 was able to
+convert this virus from sublethal to lethal in ferrets (26).
+In summary, we were able to provide proof of concept that
+a most recent common ancestor computational method can be
+used to design H5N1 vaccine by using methodologies consistent
+with currently licensed vaccine platforms. We obtained repli-
+cating viruses able to induce antibodies consistent with that of
+reference strains that should be further examined as a means to
+increase the breadth of such responses.
+Materials and Methods
+Generation of Ancestral Sequences. Ancestral amino acid sequences were
+calculated from nucleotide alignments used to generate the HA and NA
+phylogenetic trees. A marginal reconstruction method as implemented in
+ANCESCON (26) was used with default settings except that a maximum
+likelihood rate factor was used. Marginal reconstruction compares the
+probabilities of different amino acids at an internal node at a site, and the
+amino acid that yields the maximum likelihood for the tree at that site is
+then selected (26). This method also takes into account the variability of
+substitution rates among sites. By using this method, ancestral protein
+sequences were determined at four nodes of the HA phylogenetic tree and
+two nodes of the NA phylogenetic tree. To generate HA and NA nucleotide
+sequences that expressed the putative ancestral proteins, the proteins were
+compared with sequences available in GenBank using BLAST and then the
+minimum mutations to code for phenotypic changes were made. The con-
+necting peptide was modified to match that of low-pathogenicity viruses so
+that the reverse genetic strains could be used in biosafety level (BSL)-2+
+laboratories.
+Ferrets Immunization and Challenge. Vaccines in two doses given at a 3-wk
+interval were injected intramuscularly into 3- to 4-mo-old ferrets. Each dose
+of vaccine contained 7.5 g of rg VN1203, DKHUN795, A, or D HA (15 g of
+HA total per ferret). Twelve ferrets were vaccinated with each vaccine: rg
+6+2 A, D, VN1203, and DKHUN795. Twelve control ferrets were given PBS
+solution only. Three weeks after the second (i.e., boost) dose of vaccine,
+ferrets were anesthetized with isoflurane and inoculated intranasally with
+106
+50% egg infectious doses (EID50s) of a HPAI H5N1 challenge virus
+(VN1203, DKHUN795, and TYEG7, representative of different clades) in
+a BSL-3+ laboratory. Ferrets were then monitored daily for 14 d for weight
+change, temperature, and clinical disease signs. Body temperature was
+measured via transponders s.c. implanted between the shoulder blades
+(BioMedic Data Systems).
+A more complete description of the materials and methods used in the
+present study is available in SI Materials and Methods.
+ACKNOWLEDGMENTS. From St. Jude Children's Research Hospital, we thank
+J. DeBeauchamp, D. Carey, and Dr. V. R. Pagala for excellent technical assis-
+tance; S. Krauss and D. Walker for providing reagents; A. C. Boon for critically
+reviewing the manuscript; and D. Galloway and K. Spelshouse for editorial
+and graphic assistance. We thank Drs. M. A. Ali, M. A. Kutkat, and M. Bahgat
+(Virology Laboratory, Center of Excellence for Advanced Sciences, National
+Research Center, Giza, Egypt) for providing A/Turkey/Egypt/7/2007. This work
+and G.J.D.S.'s career development award were supported by Contract
+HHSN266200700005C from the National Institute of Allergy and Infectious
+Disease, National Institute of Health, Department of Health and Human
+Services, and by the American Lebanese Syrian Associated Charities. J.B., D.V.,
+and G.J.D.S. are supported by the Duke­National University of Singapore Sig-
+nature Research Program funded by the Agency for Science, Technology and
+Research, Singapore, and the Ministry of Health, Singapore.
+1. Yen HL, Webster RG (2009) Pandemic influenza as a current threat. Curr Top
+Microbiol Immunol 333:3­24.
+2. Xu X, Subbarao, Cox NJ, Guo Y (1999) Genetic characterization of the pathogenic
+influenza A/Goose/Guangdong/1/96 (H5N1) virus: Similarity of its hemagglutinin gene
+to those of H5N1 viruses from the 1997 outbreaks in Hong Kong. Virology 261:15­19.
+3. Organisation for Animal Health (OIE) (2009) Outbreaks of Highly Pathogenic Avian
+Influenza (Subtype H5N1) in Poultry. From the End of 2003 to 17 June 2010. Available at
+http://www.oie.int/downld/AVIAN%20INFLUENZA/Graph%20HPAI/graphs%20HPAI
+%2017_06_2010.pdf. Accessed October 15, 2010.
+4. World Health Organization (2010) Global Alert and Response: Avian Influenza. Cu-
+mulative Number of Confirmed Human Cases of Avian Influenza A/(H5N1) Reported
+to WHO. Available at http://www.who.int/csr/disease/avian_influenza/country/cases_
+table_2010_08_03/en/index.html. Accessed October 15, 2010.
+5. World Health Organization/World Organisation for Animal Health/Food and Agri-
+culture Organization H5N1 Evolution Working Group. (2008) Toward a unified no-
+menclature system for highly pathogenic avian influenza virus (H5N1). Emerg Infect
+Dis 14:e1.
+6. Forrest HL, et al. (2009) Single- and multiple-clade influenza A H5N1 vaccines induce
+cross protection in ferrets. Vaccine 27:4187­4195.
+7. Neirynck S, et al. (1999) A universal influenza A vaccine based on the extracellular
+domain of the M2 protein. Nat Med 5:1157­1163.
+8. Schotsaert M, De Filette M, Fiers W, Saelens X (2009) Universal M2 ectodomain-based
+influenza A vaccines: Preclinical and clinical developments. Expert Rev Vaccines 8:
+499­508.
+9. Chen MW, et al. (2008) A consensus-hemagglutinin-based DNA vaccine that protects
+mice against divergent H5N1 influenza viruses. Proc Natl Acad Sci USA 105:
+13538­13543.
+10. Laddy DJ, et al. (2007) Immunogenicity of novel consensus-based DNA vaccines
+against avian influenza. Vaccine 25:2984­2989.
+11. Laddy DJ, et al. (2008) Heterosubtypic protection against pathogenic human and
+avian influenza viruses via in vivo electroporation of synthetic consensus DNA
+antigens. PLoS ONE 3:e2517.
+12. Mullins JI, Nickle DC, Heath L, Rodrigo AG, Learn GH (2004) Immunogen sequence:
+the fourth tier of AIDS vaccine design. Expert Rev Vaccines 3(4 suppl):S151­S159.
+13. Nicolson C, Major D, Wood JM, Robertson JS (2005) Generation of influenza vaccine
+viruses on Vero cells by reverse genetics: An H5N1 candidate vaccine strain produced
+under a quality system. Vaccine 23:2943­2952.
+14. Webby RJ, et al. (2004) Responsiveness to a pandemic alert: Use of reverse genetics
+for rapid development of influenza vaccines. Lancet 363:1099­1103.
+15. Hoffmann E, Neumann G, Kawaoka Y, Hobom G, Webster RG (2000) A DNA
+transfection system for generation of influenza A virus from eight plasmids. Proc Natl
+Acad Sci USA 97:6108­6113.
+16. Zhou NN, Shortridge KF, Claas EC, Krauss SL, Webster RG (1999) Rapid evolution of
+H5N1 influenza viruses in chickens in Hong Kong. J Virol 73:3366­3374.
+17. Anonymous (2009) Antigenic and genetic characteristics of influenza A(H5N1) viruses
+and candidate vaccine viruses developed for potential use in human vaccines. Wkly
+Epidemiol Rec 84:432­436.
+18. Castrucci MR, Kawaoka Y (1993) Biologic importance of neuraminidase stalk length in
+influenza A virus. J Virol 67:759­764.
+19. Matsuoka Y, et al. (2009) Neuraminidase stalk length and additional glycosylation of
+the hemagglutinin influence the virulence of influenza H5N1 viruses for mice. J Virol
+83:4704­4708.
+20. Zhou H, et al. (2009) The special neuraminidase stalk-motif responsible for increased
+virulence and pathogenesis of H5N1 influenza A virus. PLoS ONE 4:e6277.
+21. Kaverin NV, et al. (2002) Structure of antigenic sites on the haemagglutinin molecule
+of H5 avian influenza virus and phenotypic variation of escape mutants. J Gen Virol
+83:2497­2505.
+22. Govorkova EA, Webby RJ, Humberd J, Seiler JP, Webster RG (2006) Immunization with
+reverse-genetics-produced H5N1 influenza vaccine protects ferrets against homol-
+ogous and heterologous challenge. J Infect Dis 194:159­167.
+23. Baras B, et al. (2008) Cross-protection against lethal H5N1 challenge in ferrets with an
+adjuvanted pandemic influenza vaccine. PLoS ONE 3:e1401.
+24. Xie H, et al. (2009) A live attenuated H1N1 M1 mutant provides broad cross-
+protection against influenza A viruses, including highly pathogenic A/Vietnam/1203/
+2004, in mice. J Infect Dis 200:1874­1883.
+25. Galli G, et al. (2009) Fast rise of broadly cross-reactive antibodies after boosting long-
+lived human memory B cells primed by an MF59 adjuvanted prepandemic vaccine.
+Proc Natl Acad Sci USA 106:7962­7967.
+26. Cai W, Pei J, Grishin NV (2004) Reconstruction of ancestral protein sequences and its
+applications. BMC Evol Biol 4:33.
+354 | www.pnas.org/cgi/doi/10.1073/pnas.1012457108 Ducatez et al.
+

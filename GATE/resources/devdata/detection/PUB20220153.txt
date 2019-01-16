@@ -1,0 +1,447 @@
+﻿Published Ahead of Print 10 March 2010.
+10.1128/JCM.02540-09.
+2010, 48(5):1884. DOI:
+J. Clin. Microbiol.
+Mendelson
+Orzitzer, Roberto Azar, Zehava Grossman and Ella
+Meningher, Shira Hirsh, Jana Robinov, Virginia Levy, Sara
+Musa Hindiyeh, Daniela Ram, Michal Mandelboim, Tal
+Reverse Transcriptase PCR
+Resistance Mutation H275Y by Real-Time
+(H1N1) 2009 Virus Neuraminidase
+Rapid Detection of Influenza A Pandemic
+http://jcm.asm.org/content/48/5/1884
+Updated information and services can be found at:
+These include:
+REFERENCES
+http://jcm.asm.org/content/48/5/1884#ref-list-1
+This article cites 17 articles, 1 of which can be accessed free at:
+CONTENT ALERTS
+more»
+articles cite this article),
+Receive: RSS Feeds, eTOCs, free email alerts (when new
+http://journals.asm.org/site/misc/reprints.xhtml
+Information about commercial reprint orders:
+http://journals.asm.org/site/subscriptions/
+To subscribe to to another ASM Journal go to:
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+JOURNAL OF CLINICAL MICROBIOLOGY, May 2010, p. 1884­1887 Vol. 48, No. 5
+0095-1137/10/$12.00 doi:10.1128/JCM.02540-09
+Copyright © 2010, American Society for Microbiology. All Rights Reserved.
+Rapid Detection of Influenza A Pandemic (H1N1) 2009
+Virus Neuraminidase Resistance Mutation H275Y by
+Real-Time Reverse Transcriptase PCR
+Musa Hindiyeh,1
+* Daniela Ram,1
+Michal Mandelboim,1,2
+Tal Meningher,2
+Shira Hirsh,2
+Jana Robinov,1
+Virginia Levy,1
+Sara Orzitzer,1
+Roberto Azar,1
+Zehava Grossman,1,3
+and Ella Mendelson1,3
+Central Virology Laboratory, Public Health Services, Ministry of Health, Chaim Sheba Medical Center, Tel-Hashomer,
+Israel1
+; Faculty of Life Sciences, Bar-Ilan University, Ramat Gan, Israel2
+; and Department of Epidemiology and
+Preventive Medicine, School of Public Health, Sackler Faculty of Medicine,
+Tel-Aviv University, Tel-Aviv, Israel3
+Received 31 December 2009/Returned for modification 17 February 2010/Accepted 3 March 2010
+The emergence of oseltamivir-resistant influenza A pandemic (H1N1) 2009 virus highlights the need for
+rapid oseltamivir resistance screening. We report the development and validation of high-throughput real-time
+reverse transcriptase PCR assays for the detection of the H275Y substitution in the neuraminidase 1 gene that
+can be accomplished in 3 to 4 h.
+The continuous spread of influenza A pandemic (H1N1)
+2009 virus [pandemic (H1N1) 2009 virus] is compelling the use
+of the neuraminidase inhibitors (NAI) oseltamivir (Tamiflu)
+and zanamivir (Relenza) to treat infected patients in order to
+minimize further spread of the virus. NAI are the only avail-
+able antivirals against this pandemic (H1N1) 2009 virus, be-
+cause adamantanes (amantadine and rimantadine) are com-
+pletely ineffective (4, 16). The extensive use of these NAI, in
+particular oseltamivir, is creating an unprecedented selective
+pressure for the emergence and spread of drug-resistant viral
+strains. The World Health Organization (WHO) has recom-
+mended vigilant monitoring for oseltamivir-resistant viruses,
+because the number of documented sporadic resistant cases is
+increasing, reaching nearly 100 cases worldwide by 15 Decem-
+ber 2009 (18). Recently, the U.S. Centers for Disease Control
+and Prevention (CDC) reported the first human-to-human
+transmission of oseltamivir-resistant pandemic (H1N1) 2009
+virus in two summer campers receiving oseltamivir prophylaxis
+(2). In addition, the WHO has announced outbreaks of osel-
+tamivir-resistant pandemic (H1N1) 2009 virus in two immuno-
+compromised groups, one in North Carolina and the other in
+Wales, United Kingdom (18). In both outbreaks, human-to-
+human oseltamivir-resistant virus transmission was suspected.
+At least two mechanisms contribute to neuraminidase resis-
+tance in the seasonal influenza viruses H1N1 and avian influ-
+enza H5N1 (12). One mechanism involves reduction of the
+binding efficiency of virus hemagglutinin to its receptor. The
+other is associated with amino acid substitutions in and around
+the NA active site, of which the substitution at position 275
+(histidine to tyrosine [H275Y]) is the most common (7, 11, 6).
+Sequence analysis of the hemagglutinin gene is not a reliable
+indicator of neuraminidase drug resistance phenotype, but his-
+tidine-to-tyrosine (H275Y) substitution in the active site of the
+NA-1 gene does indicate reduced binding affinity of the neur-
+aminidase inhibitor oseltamivir. Recent reports characterizing
+the current oseltamivir-resistant pandemic (H1N1) 2009 virus
+confirmed the presence of the H275Y mutation (2, 3, 10).
+While phenotypic analysis of oseltamivir-resistant influenza
+A viruses is widely accepted as the "gold standard" methodol-
+ogy for detecting influenza virus drug resistance, genotypic
+analysis has been widely utilized to detect a point mutation
+(cytosine to thymine) at position 823 of the NA-1 gene that
+results in a histidine-to-tyrosine substitution (8, 13). The ge-
+notypic assays include sequencing part of the neuraminidase
+gene by using the Sanger dideoxy sequencing method or by
+pyrosequencing. These assays are labor-intensive, with a long
+turnaround time ranging from 24 to 72 h, and require special-
+ized equipment and human effort. Moreover, sequencing and
+pyrosequencing assays have reduced sensitivities for detecting
+low concentrations (15%) of quasispecies present in a pa-
+tient's sample (14). Therefore, high-throughput assays with
+short turnaround times are needed in order to expedite osel-
+tamivir drug resistance detection.
+In the present study we validated two real-time reverse
+transcriptase PCR (qRT-PCR) assays by utilizing TaqMan
+chemistry for the detection of the point mutation (cytosine to
+thymine) at position 823 of the NA-1 gene of pandemic
+(H1N1) 2009 virus. One set of modified primers and two
+probes previously reported by Chutinimitkul et al. were uti-
+lized to validate both assays (5). Chutinimitkul et al. initially
+validated these primers and probes for the detection of osel-
+tamivir resistance in H5N1 isolates (5). The primers utilized in
+the present study were modified to increase the assay's sensi-
+tivity and specificity to detect pandemic (H1N1) 2009 virus,
+while the two minor groove binding (MGB) probes were syn-
+thesized as described by Chutinimitkul et al. (5). The modified
+primers were forward, 5-GGG GCA GTG GCT GTG TTA-
+3, and reverse, 5-AGG GCG TGG ATT GTC TCC-3. The
+two MGB probes utilized were sensitive, 5­6-carboxyfluores-
+cein (FAM)­TCC TCA TAG TGR TAA TT­3­nonfluorescent
+* Corresponding author. Mailing address: Central Virology Labora-
+tory, Chaim Sheba Medical Center, Tel-Hashomer 52621, Israel.
+Phone: 972-3-530-2066. Fax: 972-3-530-2457. E-mail: hindiyeh@yahoo
+.com.
+
+Published ahead of print on 10 March 2010.
+1884
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+quencher (NFQ), and resistant, 5­FAM­TCC TCA TAG
+TAR TAA TT­3­NFQ. The point mutation in the probe was
+positioned 7 bases from the 3 end to minimize cross-reactivity
+with similar sequences (1). Two qRT-PCR assays were de-
+signed, for H275 for the detection of cytosine (sensitive) and
+H275Y for the detection of thymine (resistant) at position 823.
+This permitted detection of mixed infections of oseltamivir-
+resistant and oseltamivir-sensitive viruses. Samples positive for
+the H275Y mutation by the TaqMan assay were confirmed by
+sequencing part of the neuraminidase gene by utilizing the
+same set of primers described above. The sequencing proce-
+dures were previously described (9).
+Sensitivity of the qRT-PCR assays was optimized by evalu-
+ating different concentrations of primers (200, 300, 600, and
+900 nM) and probes (100, 200, and 300 nM). The concentra-
+tions of primers used in this study that gave the best detection
+limits were 600 nM for the primers and 200 nM for the probes.
+The AgPath-ID one-step RT-PCR kit (Applied Biosystems-
+Ambion, CA) was used to develop both assays. Briefly, two
+25-l qRT-PCR mixtures that contained 12.5 l of 2 RT-
+PCR buffer, 1 l of 25 RT-PCR enzyme mix, a 600 nM
+concentration of each primer, and a 200 nM concentration of
+either the sensitive or the resistant probe were prepared to
+evaluate 5 l of each patient sample. 5-Carboxy-X-rhodamine,
+succinimidyl ester (ROX) present in the 2 RT-PCR buffer
+was utilized as an internal reference dye. Amplification and
+detection were performed using an Applied Biosystems 7500
+platform under the following conditions: 30 min at 48°C for
+reverse transcription, 10 min at 95°C to activate AmpliTaq
+Gold DNA polymerase, and 50 cycles of 15 s at 95°C and 1 min
+at 60°C.
+The analytical sensitivity of the H275Y qRT-PCR was de-
+termined by 10-fold serial dilution of oseltamivir-resistant pan-
+demic (H1N1) 2009 virus RNA isolated from cultured virus of
+an Israeli patient [A/Israel/6290/2009(H1N1); accession num-
+ber GU371269]. Briefly, viral RNA was extracted from 200 l
+of A/Israel/6290/2009(H1N1) virus stock (7.8  105
+50% tissue
+culture infective doses [TCID50]/ml) with a NucliSENS
+easyMAG extractor (bioMe
+´rieux, Boxtel, Netherlands). RNA
+was eluted in 55 l of elution buffer and stored at 70°C.
+Analysis of the 10-fold serial dilutions of viral RNA for the
+H275Y mutation in triplicate by qRT-PCR revealed that the
+assay's analytical sensitivity was 0.014 TCID50 with 97.2% am-
+plification efficiency (Fig. 1A). On the other hand, the analyt-
+ical sensitivity of the oseltamivir-sensitive (H275) qRT-PCR
+assay after 10-fold serial dilutions of extracted RNA from
+3.7  105
+TCID50/ml cultured virus from an Israeli patient
+[A/Israel/119/2009(H1N1)] was 0.0019 TCID50 (Fig. 1B). The
+amplification efficiency of the H275 qRT-PCR assay was 100%.
+The H275 assay's analytical sensitivity was confirmed in tripli-
+cate with similar results.
+The specificities of the two assays were investigated by an-
+alyzing one clinical isolate of each of the common human
+respiratory viruses that were strongly positive by real-time
+PCR analysis (threshold cycle [Ct], 25). These included sea-
+sonal influenza A viruses (H1N1 and H3N2), influenza B virus,
+human metapneumovirus, respiratory syncytial virus (RSV)
+types A and B, and adenovirus type 2. Both assays were spe-
+cific, since no positive signals were noted in the analysis of
+these viruses (data not shown).
+Validation of the two assays, H275 (sensitive) and H275Y
+(resistant), was performed on 31 patient samples collected
+between 15 June 2009 and 1 December 2009 from 18 patients
+with a high risk of developing oseltamivir resistance. This
+group included hospitalized patients who were treated with at
+least one course of oseltamivir without improvement. Most of
+the patients were immunologically suppressed due to various
+underlying diseases. All 31 patient samples were positive for
+pandemic (H1N1) 2009 virus (Ct, 34) based on qRT-PCR
+assay as previously described by Panning et al. (15).
+Of the 18 patients, 6 (33%) were positive for the H275Y
+mutation by qRT-PCR. Table 1 summarizes the data for all of
+these patients. In patient 1, oseltamivir-resistant virus was first
+detected in a sample obtained after 9 days of oseltamivir ther-
+apy. The first sample of patient 1 tested sensitive for oseltami-
+vir on 30 July 2009, and mixed sensitive and resistant viruses
+were detected in this patient's second sample when tested on 9
+August 2009. Sequence analysis of the neuraminidase genes
+amplified from the two samples confirmed the results of the
+qRT-PCR assays. Similar results were obtained for patient 4.
+Interestingly, only oseltamivir-resistant viruses were detected
+in samples from patients 2, 3, and 5. These results were also
+confirmed by sequence analysis. Since the initial samples col-
+lected from these three patients at the onset of clinical symp-
+toms contained resistant viruses, it is highly unlikely that they
+were infected with sensitive strains. Rather, it appears that they
+were initially infected with resistant viruses as previously re-
+ported by the CDC and the WHO (2, 18).
+FIG. 1. Linear limits of detection of the H275Y (A) and H275 (B) qRT-PCR assays. Serial (10-fold) dilutions of influenza A pandemic (H1N1)
+2009 virus resistant (A) or sensitive (B) to oseltamivir were prepared and tested in qRT-PCR assays. Ct values were obtained for each dilution and
+are plotted against the TCID50 value.
+VOL. 48, 2010 NOTES 1885
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+In patient 6, qRT-PCR results indicated the presence of
+mixed sensitive and resistant viruses in the patient's first sam-
+ple, while sequence analysis revealed only resistant virus in that
+sample (Table 1). qRT-PCR showed that there was a 3-Ct
+difference, with 1 log more resistant virus than sensitive virus.
+The lower sensitivity of the sequencing assay could in part
+explain why the 10% portion of sensitive virus in the pool
+containing mostly resistant virus was not detected. Patient 6
+was indeed infected with an oseltamivir-sensitive virus, as the
+presence of this virus was confirmed both by the qRT-PCR
+assay and by sequence analysis of a positive endotracheal as-
+pirate sample (Table 1).
+The qRT-PCR assays were also used to screen 120 patient
+samples that tested positive for pandemic (H1N1) 2009 virus
+between 15 June 2009 and 1 December 2009. The purpose was
+to determine whether oseltamivir-resistant virus was circulat-
+ing in the community and to determine if the H275Y assay
+cross-reacted with oseltamivir-sensitive virus in clinical sam-
+ples. Patients in this study group had not been treated with
+oseltamivir at the time of sample collection. All samples tested
+positive in the H275 assay, while none tested positive using the
+H275Y qRT-PCR assay. Thus, the H275Y assay was specific to
+detecting resistant virus only, and infection with oseltamivir-
+resistant pandemic (H1N1) 2009 virus is apparently still a rare
+event at this time.
+More recently, van der Vries et al. reported the develop-
+ment of three highly sensitive qRT-PCR assays for detection of
+the pandemic (H1N1) 2009 virus H1 and N1 genes and of the
+H275Y oseltamivir resistance mutation (17). However, oselta-
+mivir-resistant virus was not detected in the clinical samples
+tested; thus, the clinical sensitivity was not evaluated.
+One of the drawbacks of any qRT-PCR assay is that it is
+sequence specific, and any genetic shift in the primer or probe
+locations can alter the assay performance. The current pan-
+demic (H1N1) 2009 virus may yet change further in the region
+encompassing the H275 location, other than the rare resistance
+mutation H275Y, and this assay will not detect such changes.
+This limitation can be partially overcome by sequencing or
+pyrosequencing, which can detect multiple nucleotide substi-
+tutions simultaneously (6). Multiplexing the two described as-
+says would improve the flow of work and further reduce the
+cost.
+The recent report of two oseltamivir-resistant pandemic
+(H1N1) 2009 virus outbreaks, in the United Kingdom and the
+United States, is a strong reminder that countries should fol-
+low the WHO recommendations and develop a vigilant system
+for detecting oseltamivir-resistant viruses (18). The qRT-PCR
+assay described in this report can be used to screen large
+numbers of clinical samples for drug resistance with a very
+short turnaround time (3 to 4 h) and at a very low cost. In
+addition, this assay detects low quantities of either sensitive or
+resistant viruses in a mixed infection, whereas sequencing fails
+to detect the minor virus type.
+REFERENCES
+1. Bolotin, S., A. V. Robertson, A. Eshaghi, C. De Lima, E. Lombos, E. Chong-
+King, L. Burton, T. Mazzulli, and S. J. Drews. 2009. Development of a novel
+real-time reverse-transcriptase PCR method for the detection of H275Y
+positive influenza A H1N1 isolates. J. Virol. Methods 158:190­194.
+2. Centers for Disease Control and Prevention. 2009. Oseltamivir-resistant
+2009 pandemic influenza A (H1N1) virus infection in two summer campers
+receiving prophylaxis--North Carolina, 2009. MMWR Morb. Mortal. Wkly.
+Rep. 58:969­972.
+3. Centers for Disease Control and Prevention. 2009. Oseltamivir-resistant
+pandemic (H1N1) 2009 influenza virus, October 2009. Wkly. Epidemiol.
+Rec. 84:453­459.
+4. Centers for Disease Control and Prevention. 2009. Update: drug suscepti-
+TABLE 1. Detection of oseltamivir-resistant influenza A pandemic (H1N1) 2009 virus in Israeli patients by
+qRT-PCR and by sequence analysis
+Patient
+no.
+Sample type
+Date sample
+collected
+(day-mo-yr)
+qRT-PCR assay (Ct)a
+N*823
+sequencing
+resultb
+Influenza A
+pandemic
+(H1N1) 2009
+H275
+(sensitive)
+H275Y
+(resistant)
+Interpretation
+1 Throat/nose 30-07-09 17 24 Neg WT C
+Throat/nose 09-08-09 20 29 27 WT and mutant T/C
+2 Throat/nose 14-08-2009 26.4 Neg 29.7 Mutant T
+Throat/nose 16-08-2009 19.4 Neg 25.3 Mutant T
+Throat/nose 19-08-2009 Neg Neg Neg ND
+3 Throat/nose 16-08-2009 21.5 Neg 25 Mutant T
+4 Throat/nose 20-09-2009 16 19 Neg WT C
+Throat/nose 03-10-2009 29 34.1 33.6 WT and mutant T/C
+Throat/nose 05-10-2009 30 Neg 35.7 Mutant T
+5 Throat/nose 11-10-2009 25.6 Neg 28.3 Mutant T
+Throat/nose 15-10-2009 25.6 Neg 29 Mutant T
+Throat/nose 20-10-2009 26.2 Neg 28.5 Mutant T
+6 Throat/nose 19-11-2009 17.5 24.5 21.8 WT and mutant T
+Endotracheal 19-11-2009 22.2 25.3 Neg WT C
+Throat/nose 23-11-2009 16.1 33.3 21 WT and mutant T
+Endotracheal 23-11-2006 27.1 32.8 31 WT and mutant T/C
+a
+Neg, negative result; ND, not determined; WT, wild type.
+b
+The nucleotide(s) found at position 823 (N*823) in the neuraminidase 1 gene.
+1886 NOTES J. CLIN. MICROBIOL.
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+bility of swine-origin influenza A (H1N1) viruses, April 2009. MMWR Morb.
+Mortal. Wkly. Rep. 58:433­435.
+5. Chutinimitkul, S., K. Suwannakarn, T. Chieochansin, Q. Mai le, S. Dam-
+rongwatanapokin, A. Chaisingh, A. Amonsin, O. Landt, T. Songserm, A.
+Theamboonlers, and Y. Poovorawan. 2007. H5N1 oseltamivir-resistance de-
+tection by real-time PCR using two high sensitivity labeled TaqMan probes.
+J. Virol. Methods 139:44­49.
+6. Deyde, V. M., T. G. Sheu, A. A. Trujillo, M. Okomo-Adhiambo, R. Garten,
+A. I. Klimov, and L. V. Gubareva. 22 December 2009, posting date. Detec-
+tion of molecular markers of drug resistance in 2009 pandemic influenza A
+(H1N1) viruses by using pyrosequencing. Antimicrob. Agents Chemother.
+54:1102­1110. [Epub ahead of print.]
+7. Gubareva, L. V. 2004. Molecular mechanisms of influenza virus resistance to
+neuraminidase inhibitors. Virus Res. 103:199­203.
+8. Gubareva, L. V., R. G. Webster, and F. G. Hayden. 2002. Detection of
+influenza virus resistance to neuraminidase inhibitors by an enzyme inhibi-
+tion assay. Antiviral Res. 53:47­61.
+9. Hindiyeh, M. Y., Y. Aboudy, M. Wohoush, L. M. Shulman, D. Ram, T. Levin,
+T. Frank, F. Riccardo, M. Khalili, E. S. Sawalha, M. Obeidi, G. Sabatinelli,
+Z. Grossman, and E. Mendelson. 2009. Characterization of large mumps
+outbreak among vaccinated Palestinian refugees. J. Clin. Microbiol. 47:560­
+565.
+10. Hurt, A. C., J. K. Holien, M. W. Parker, and I. G. Barr. 2009. Oseltamivir
+resistance and the H274Y neuraminidase mutation in seasonal, pandemic
+and highly pathogenic influenza viruses. Drugs 69:2523­2531.
+11. Le, Q. M., M. Kiso, K. Someya, Y. T. Sakai, T. H. Nguyen, K. H. Nguyen,
+N. D. Pham, H. H. Ngyen, S. Yamada, Y. Muramoto, T. Horimoto, A.
+Takada, H. Goto, T. Suzuki, Y. Suzuki, and Y. Kawaoka. 2005. Avian flu:
+isolation of drug-resistant H5N1 virus. Nature 437:1108.
+12. McKimm-Breschkin, J. L. 2000. Resistance of influenza viruses to neuramin-
+idase inhibitors: a review. Antiviral Res. 47:1­17.
+13. Meijer, A., A. Lackenby, A. Hay, and M. Zambon. 2007. Influenza antiviral
+susceptibility monitoring activities in relation to national antiviral stockpiles
+in Europe during the winter 2006/2007 season. Euro Surveill. 12:E3­E4.
+14. Palmer, S., V. Boltz, F. Maldarelli, M. Kearney, E. K. Halvas, D. Rock, J.
+Falloon, R. T. Davey, Jr., R. L. Dewar, J. A. Metcalf, J. W. Mellors, and J. M.
+Coffin. 2006. Selection and persistence of non-nucleoside reverse transcrip-
+tase inhibitor-resistant HIV-1 in patients starting and stopping non-nucleo-
+side therapy. AIDS 20:701­710.
+15. Panning, M., M. Eickmann, O. Landt, M. Monazahian, S. Olschlager, S.
+Baumgarte, U. Reischl, J. J. Wenzel, H. H. Niller, S. Gunther, B. Hollmann,
+D. Huzly, J. F. Drexler, A. Helmer, S. Becker, B. Matz, A. Eis-Hubinger, and
+C. Drosten. 2009. Detection of influenza A(H1N1)v virus by real-time RT-
+PCR. Euro Surveill. 14:3.
+16. Rungrotmongkol, T., P. Intharathep, M. Malaisree, N. Nunthaboot, N.
+Kaiyawet, P. Sompornpisut, S. Payungporn, Y. Poovorawan, and S. Han-
+nongbua. 2009. Susceptibility of antiviral drugs against 2009 influenza A
+(H1N1) virus. Biochem. Biophys. Res. Commun. 385:390­394.
+17. van der Vries, E., M. Jonges, S. Herfst, J. Maaskant, A. Van der Linden, J.
+Guldemeester, G. I. Aron, T. M. Bestebroer, M. Koopmans, A. Meijer, R. A.
+Fouchier, A. D. Osterhaus, C. A. Boucher, and M. Schutten. 24 October
+2009, posting date. Evaluation of a rapid molecular algorithm for detection
+of pandemic influenza A (H1N1) 2009 virus and screening for a key oselta-
+mivir resistance (H275Y) substitution in neuraminidase. J. Clin. Virol. 47:
+34­37. [Epub ahead of print.].
+18. World Health Organization. 2009. Oseltamivir resistance in immunocom-
+promised hospital patients. http://www.who.int/csr/disease/swineflu/notes
+/briefing_20091202/en/index.html.
+VOL. 48, 2010 NOTES 1887
+on
+April
+3,
+2014
+by
+guest
+http://jcm.asm.org/
+Downloaded
+from
+

@@ -1,0 +1,761 @@
+© 2014 Zoni-Berisso et al. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution – Non Commercial (unported, v3.0)
+License. The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/. Non-commercial uses of the work are permitted without any further
+permission from Dove Medical Press Limited, provided the work is properly attributed. Permissions beyond the scope of the License are administered by Dove Medical Press Limited. Information on
+how to request permission may be found at: http://www.dovepress.com/permissions.php
+Clinical Epidemiology 2014:6 213–220
+Clinical Epidemiology Dovepress
+submit your manuscript | www.dovepress.com
+Dovepress
+213
+R e v i e w
+open access to scientific and medical research
+Open Access Full Text Article
+http://dx.doi.org/10.2147/CLEP.S47385
+Epidemiology of atrial fibrillation: European
+perspective
+Massimo Zoni-Berisso
+Fabrizio Lercari
+Tiziana Carazza
+Stefano Domenicucci
+Department of Cardiology, ASL 3,
+Padre A Micone Hospital, Genoa, Italy
+Correspondence: Massimo Zoni-Berisso
+Padre A Micone Hospital, Largo N
+Rosso 2, Genoa 16153, Italy
+Tel +39 01 0849 8427
+Fax +39 01 0849 8421
+Email massimo.zoniberisso@libero.it
+Abstract: In the last 20 years, atrial fibrillation (AF) has become one of the most important
+public health problems and a significant cause of increasing health care costs in western
+countries. The prevalence of AF is increasing due to our greater ability to treat chronic
+cardiac and noncardiac diseases, and the improved ability to suspect and diagnose AF. At
+the present time, the prevalence of AF (2%) is double that reported in the last decade. The
+prevalence of AF varies with age and sex. AF is present in 0.12%–0.16% of those younger
+than 49 years, in 3.7%–4.2% of those aged 60–70 years, and in 10%–17% of those aged
+80 years or older. In addition, it occurs more frequently in males, with a male to female
+ratio of 1.2:1. The incidence of AF ranges between 0.21 and 0.41 per 1,000 person/years.
+Permanent AF occurs in approximately 50% of patients, and paroxysmal and persistent
+AF in 25% each. AF is frequently associated with cardiac disease and comorbidities. The
+most common concomitant diseases are coronary artery disease, valvular heart disease, and
+cardiomyopathy. The most common comorbidities are hypertension, diabetes, heart failure,
+chronic obstructive pulmonary disease, renal failure, stroke, and cognitive disturbance.
+­
+Paroxysmal AF occurs in younger patients and with a reduced burden of both cardiac dis-
+ease and comorbidities. Generally, the history of AF is long, burdened by frequent recur-
+rences, and associated with symptoms (in two thirds of patients). Patients with AF have a
+five-fold and two-fold higher risk of stroke and death, respectively. We estimate that the
+number of patients with AF in 2030 in Europe will be 14–17 million and the number of
+new cases of AF per year at 120,000–215,000. Given that AF is associated with significant
+morbidity and mortality, this increasing number of individuals with AF will have major
+public health implications.
+Keywords: atrial fibrillation, epidemiology, risk factors, mortality, stroke
+Introduction
+In the last two decades, atrial fibrillation (AF) has become one of the most important
+public health issues and an important cause of health care expenditure in western
+countries. Even if AF is not a life-threatening arrhythmia, it influences quality of
+life significantly as a result of its anatomic, hemodynamic, and hemocoagulative
+consequences. In addition, AF is frequently associated with disturbing symptoms
+and very important socioeconomic problems, such as permanent disability, cognitive
+disturbance, hospitalization, and absence from work.1
+Given that the prevalence ofAF
+continues to increase, it is crucial to have an updated picture of the epidemiological,
+clinical, and social impact of AF to plan appropriate interventions and adequately
+allocate human and economic resources.
+Number of times this article has been viewed
+This article was published in the following Dove Press journal:
+Clinical Epidemiology
+16 June 2014
+Clinical Epidemiology 2014:6
+submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+214
+Zoni-Berisso et al
+Search strategy
+A systematic review of the studies reported on the epidemi-
+ology of AF in Europe was performed using the electronic
+MEDLINE and PubMed databases. The search terms
+included: “atrial fibrillation”, “atrial tachyarrhythmias”,
+“epidemiology”, “burden”, “rhythm control”, “rate control”,
+“stroke”, “heart failure”, “outcome”, “anticoagulant therapy”,
+and “antiplatelet therapy”. Studies published from 2005 to
+2014 with a prespecified protocol (how AF was ascertained,
+diligence with which medical records were sought, modes
+of clinical assessment, and follow-up of patient subgroups)
+analyzing the epidemiology ofAF exclusively in the general
+population were considered. When necessary (ie, absence in
+the literature of data on temporal trends regarding the inci-
+dence/prevalence ofAF and risk of stroke), investigations per-
+formed before 2005 were used. The projected ­
+burden of AF
+in the European population in 2030 is based on ­
+estimates of
+demographic progression in Europe ­
+according to Eurostat.2
+Prevalence and incidence of AF
+The most important studies on the epidemiology of AF
+carried out in developed countries and published between
+the end of the 20th century and the first years of the 21st
+century estimated that the prevalence ofAF ranged between
+0.5% and 1% in the general population.3,4
+However, in the
+last decade, the common opinion was that the prevalence of
+AF, as perceived by number of hospitalizations, emergency
+room visits, and burden of outpatient visits forAF, had to be
+­
+markedly higher.4–6
+The most recent studies have ­
+confirmed
+this perception and shown that the prevalence of AF in the
+general adult population of Europe is more than double
+that reported just one decade earlier, ranging from 1.9%
+in Italy, Iceland, and England to 2.3% in Germany and
+2.9% in ­
+Sweden ­
+(Figure 1). In particular, for Iceland, the
+mean increase of AF prevalence in the global population
+is 0.04% per year (data for the period 1998–2008), with a
+mean increase of 0.12% and 0.07% per year, respectively,
+in men and women aged 65–74 years, 0.27% and 0.23% in
+those aged 75–84 years, and 2.8% and 0.27% in those older
+than 84 years.
+In the USA, although updated information on the
+prevalence of AF in the global population is not available,
+it appears that the prevalence of AF has increased by 0.3%
+per year in Medicare beneficiaries older than 65 years, with
+an absolute growth of 4.5% (from 4.1% to 8.6%) in the
+period 1993–2007.7–12
+The most likely explanation for such
+a significant increase is the greater ability to treat chronic
+cardiac and noncardiac diseases, the aging population, and
+the improved ability to suspect and diagnose AF.13
+However,
+despite this increase, the real prevalence of AF is probably
+still underestimated because it is well known thatAF, in a dis-
+crete proportion (10%–25%) of cases, occurs in the absence
+of symptoms.13,14
+Very likely, ifAF was detected appropriately
+by active screening, its prevalence would be higher and closer
+to 3%, as estimated for 2015 in the USA.3,14
+In developing
+countries, AF occurs in approximately 0.6% of males and
+0.4% of females. Although these rates are markedly lower
+than in developed nations, it appears that the burden of AF
+0
+Iceland Italy Germany England Sweden
+0.5
+1
+1.5
+2
+Prevalence
+(%)
+2.5
+3
+3.5
+Figure 1 Prevalence of atrial fibrillation in European countries.
+Clinical Epidemiology 2014:6 submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+215
+Epidemiology of atrial fibrillation
+in these countries is enough to be a potential problem for
+health care systems.15
+The prevalence of AF varies with age
+and sex. AF is present in 0.12%–0.16% of subjects younger
+than 49 years, 3.7%–4.2% of those aged 60–70 years, and
+10%–17% of those aged 80 years or older. In addition, it
+occurs more frequently in males, with a male to female ratio
+of approximately 1.2:1. Despite the greater prevalence in
+men, women represent the bulk of patients with AF due to
+their longer survival.7–12,15,16
+Less information is available on the incidence ofAF. One
+of the first investigations of this problem was the Framingham
+study that in 1982 reported the overall incidence of chronic
+AF at two per 1,000 on biannual electrocardiography in
+patients aged 32–65 years.17
+Subsequently, only few stud-
+ies have analyzed this issue, with results that are not easily
+comparable because of a lack of homogeneity with regard
+to the characteristics of enrolled populations, ie, different
+age limits, different types of AF analyzed (all together, only
+permanentAF), different reservoirs of recruitment (members
+of health insurance funds or national health care systems),
+and different ways of diagnosing AF (classification based
+on administrative data, identification based on judgment of
+general practitioners). However, from these studies, it appears
+that among US Medicare beneficiaries aged 65 years or
+older, the incidence ofAF has not changed substantially from
+1993 (27.3 per 1,000 person/years) to 2007 (28.3 per 1,000
+person/years), has always remained higher among men (34
+per 1,000 person/years in men versus 25 per 1,000 person/
+years in women), and has continued to be much higher in the
+elderly population (18.8 per 1,000 person/years in those aged
+70–74 years versus 53.9 per 1,000 person/years in those aged
+84–89 years).10
+Similar data were reported for another study
+performed in the USA, ie, the Olmsted County population
+in subjects aged 18 years and over. The incidence of AF has
+increased only slightly in this region between 1980 (3.04 per
+1,000 person/years) and 2000 (3.68 per 1,000 person/years).18
+In Europe, the most recent studies performed in the global
+population over the last decade report an incidence of AF
+ranging from 0.23 per 1,000 person/years in Iceland to 0.41
+in Germany and 0.9 in Scotland, respectively.4,8,11
+Also, in
+Europe, the incidence of AF increases with age and differs
+with sex, even if the reported rates are lower than those of
+the USA population. In Scotland, Germany, and the USA,
+subjects aged 65 years or older show anAF incidence of 4.7,
+4.1, and 28.3 per 1,000 person/years, respectively; those aged
+65–74 years show an incidence of 3.2, 10.8, and 15.5 (mean
+value between those aged 65–69 years and 70–74 years) per
+1,000 person/years; and those aged 75–84 years show an
+incidence of 6.2, 16.8, and 33.5 (mean value between those
+aged 75–79 years and 80–84 years) per 1,000 person/years.
+A possible explanation for such marked differences lies in
+the method used to define the first episode of AF, ie, on the
+basis of administrative data (uncertainty in classifying the
+types of AF by the International Classification of Diseases
+diagnosis codes, the definition of prevalent AF generally
+made in inpatients, difficulties in assessing patients with
+a first episode of AF) or a documented history of AF as in
+Germany and Scotland.4,8,10
+Types of AF, characteristics
+of AF patients, and impact
+of AF on health care systems
+Observational studies performed in the general population or
+in patients hospitalized forAF show that permanentAF is the
+most frequent form of diagnosed AF; it occurs in 40%–50%
+of patients, followed by the paroxysmal and ­
+persistent
+forms that each occur in 20%–30% of cases ­
+(Figure 2).9,19–22
+­
+Generally, the history of AF is long and burdened by fre-
+quent recurrences. In France and Germany, theALFA (Etude
+en Activité Libérale de la Fibrillation Auriculaire)23
+and
+ATRIUM (OutpAtienT RegIstry Upon Morbidity of atrial
+fibrillation)19
+studies showed that the mean time elapsed
+between the first episode ofAF and the date of patient assess-
+ment was 47±63 months and 61±66 months, respectively;
+in Italy, the ISAF (Italian Survey of Atrial Fibrillation man-
+agement) study showed that the history of AF was less than
+one year in only 13% of patients in whom AF was detected,
+5–10 years in 30%, and .10 years in 18%. Approximately
+one fifth of AF patients are found to have suffered at least
+two recurrences during the previous year of observation and
+three quarters during the previous 5 years.9,19,22,23
+AF is often
+associated with symptoms, sometimes disabling, that are
+resistant to drug therapy and necessitate transcatheter abla-
+tion. More specifically, despite adequate treatment, palpita-
+tions occur in 42%–55% of patients, asthenia in 15%–49%,
+dyspnea in 24%–49%, and angina in 10%–20%.Arrhythmia
+occurs without symptoms in only 12%–25% of patients with
+AF.9,19,21,23
+The vast majority of patients have a European Heart
+Rhythm Association score of II to IV; those with ­
+permanent
+AF complain more frequently of dyspnea or asthenia and
+fatigue, and those with the paroxysmal form complain more
+of palpitations.19,23,24
+The high rates of recurrence, disturbing
+symptoms, and clinical sequelae (stroke, heart failure, initia-
+tion of new antiarrhythmic drugs, drug-related complications,
+interventional therapy) contribute strongly to the use of
+health care resources. In Italy, AF is the cause of 1.5% of all
+Clinical Epidemiology 2014:6
+submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+216
+Zoni-Berisso et al
+emergency room visits; in Germany, the average number of
+hospitalizations with anAF diagnosis is 0.24 per year and the
+average number of outpatient consultations is 5.62 per year;
+in Scotland, the one-year out-of-hospital contact rate for AF
+is eight per 1,000 person/years, ranging from 0.2 in subjects
+aged ,45 years to 62 per 1,000 person/years in those aged
+74–85 years.4,6,8,9
+In the USA, the bed utilization for AF as
+a primary diagnosis was approximately one million days in
+1991 and 1.38 million days in 1999, representing a bed uti-
+lization that is similar to that needed for all the other cardiac
+arrhythmias combined. RealiseAF (REAl-LIfe global Survey
+Evaluating patients with Atrial Fibrillation) showed that one
+third of patients withAF had been hospitalized in the previous
+12 months.24
+Acute decompensation of heart failure is the
+leading cause of hospitalization in the persistent and perma-
+nent forms ofAF (12.9% and 13.6%, respectively), followed
+by an acute coronary event (7.7% and 7.3%, respectively) and
+stroke (5% and 7.4%, respectively). The need for new use of
+antiarrhythmic drugs and proarrhythmic events from antiar-
+rhythmic drugs are the most frequent causes of hospitalization
+among patients with paroxysmal AF (12.3%).24,25
+AF is frequently associated with cardiac disease and with
+cardiac/noncardiac comorbidity. Hypertensive heart disease
+(22%–36%), coronary heart disease (14%–32%), valvular
+heart disease (12%–26%), and cardiomyopathy (6%–10%)
+are the most common illnesses associated withAF, while the
+most frequent comorbidities are hypertension (67%–76%),
+heart failure (22%–42%), diabetes (20%–24%), obesity
+(20%–35%), chronic pulmonary disease (10%–18%), thyroid
+dysfunction (8%–11%), renal failure (11%–22%) stroke/
+transient ischemic attack (9%–16%), and neuropsychiatric
+disturbances (19%). In particular, one third of AF patients
+have at least three associated comorbidities; no comorbid-
+ity or cardiac disease is present in one fifth and one quarter
+of patients, respectively. Lone AF (defined on the basis of
+the strict criteria of the European Society of Cardiology) is
+present in a low proportion of cases, ranging between 2%
+and 12%.4,9,16,20–23
+Patients with paroxysmal AF are younger
+and have a lower frequency of heart disease and comorbidity
+than those with permanent AF.16,19–21
+Progression to permanent AF
+In the past, the majority of AF studies have been carried out
+by considering AF as a whole, without a clear distinction of
+the subtypes. As shown previously, the different types of AF
+are associated not only with different clinical patient profiles,
+but also with different long-term outcomes. Epidemiological
+studies have shown also that the clinical setting of AF is an
+evolving picture that generally begins with the paroxysmal
+form and ends with the permanent form, covers different
+clinical pathways and treatment strategies, and results in
+different long-term outcomes.26–30
+From these studies, it
+appears that the progression from paroxysmal to permanent
+AF is characterized by a trend that shows an initial peak rate
+at the first year after AF diagnosis followed by a continuous
+“crescendo” that depends on the clinical profile of the patient
+0
+ATRIUM
+3,500 pts
+ISAF
+6,000 pts
+Euro Heart S
+4,200 pts
+Study
+AFNET
+9,500 pts
+ATA-AF
+7,100 pts
+Parox
+Pers
+Perm
+10
+20
+30
+Types
+of
+atrial
+fibrillation
+(%)
+40
+50
+60
+Figure 2 Frequency of the different types of atrial fibrillation.
+Abbreviations: ATRIUM, OutpAtienT RegIstry Upon Morbidity of atrial fibrillation; ISAF, Italian Survey of Atrial Fibrillation management; Euro Heart S, Euro Heart Survey;
+AFNET, Central Registry of the German Competence Network on Atrial Fibrillation; ATA-AF, AntiThrombotic Agents in Atrial Fibrillation; pts, patients; Parox, paroxysmal;
+Pers, persistent; Perm, permanent.
+Clinical Epidemiology 2014:6 submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+217
+Epidemiology of atrial fibrillation
+and the site of the patient’s clinical management.As reported
+by De Sisti et al in France and by the Canadian Registry
+of Atrial Fibrillation investigators in Canada, during the
+first year,AF evolves to the permanent form in ­
+approximately
+4% of patients managed in tertiary arrhythmia centers and
+in 9% of those managed in the real-world setting. Over
+time, the progression becomes less evident, with a slow but
+steady trend that is strictly related to poorer clinical condi-
+tions and reaches rates of 18% and 25%, respectively, at
+5 years of follow-up. In particular, progression is slower for
+the paroxysmal form and faster for the persistent form.27,28
+In Europe, the Euro Heart Survey investigators reported a
+progression to permanent AF in 15% of patients with par-
+oxysmal AF and 30% of those with persistent AF.29
+These
+rates are significantly higher than those found in Canada,
+but in the European investigation patients showed either less
+severe cardiac disease or comorbidities.This consideration is
+consistent with the finding that the variables independently
+related to progression to permanent AF are age, an enlarged
+left atrium, lack of antiarrhythmic drugs, VVI pacing, and
+the presence of valvular heart disease, heart failure, hyperten-
+sion, or chronic obstructive pulmonary disease.9,26–29
+In this
+regard, the HATCH score (an acronym for “heart failure,
+age, previous transient ischemic attack, chronic pulmonary
+disease, hypertension”) can predict the risk with satisfactory
+power (area under the curve 0.68).31
+Prognosis
+The largest epidemiological studies have clearly shown
+that AF is associated with an increased risk of stroke (both
+­
+ischemic and hemorrhagic), hemorrhagic consequences (due
+to anticoagulation therapy), and death. Cognitive ­
+dysfunction,
+heart failure, and socioeconomic implications are further
+important consequences of AF. It is estimated that 20% of
+all strokes occur in the setting of AF; this rate increases to
+25% in patients aged .80 years. Patients with AF have an
+age-adjusted risk of stroke that is five-fold higher than in the
+normal population regardless of the type ofAF.32–34
+Since the
+introduction of systematic use of anticoagulants, the absolute
+number of ischemic strokes has decreased dramatically. In
+USA, the rate of ischemic stroke among Medicare benefi-
+ciaries with AF aged 65 years or older was 48 per 1,000
+person/years in 1992 and 17 per 1,000 person/years in 2007;
+this means a 65% decrease in the ischemic stroke rate over
+15 years.35
+In Sweden, the annual rate of ischemic stroke in
+the global population of AF patients is 25 per 1,000 person/
+years among those treated with anticoagulants and 45 per
+1,000 person/years in those who are not treated.36
+In France,
+the cumulative incidence of ischemic stroke is ten per
+1,000 person/years in patients with a CHADS2
+score $1.37
+In such countries, during the same periods of observation
+and despite the wider use of anticoagulants, the rate of
+intracranial hemorrhage has remained unchanged at a rate
+of two per 1,000 person/years.35,36
+Stroke secondary to AF
+is associated with a 50% increased risk of serious disability.
+Cognitive dysfunction, including vascular dementia, is
+present in 10%–15% of patients with AF, which is twice the
+rate in patients without AF. Cognitive disturbances are also
+frequently found inAF patients, even in the absence of overt
+stroke, as a consequence of multiple asymptomatic cerebral
+emboli that can be found on cerebral imaging in a discrete
+percentage of cases.9,38,39
+AF and heart failure coexist in a large percentage of
+patients (22%–42%) and share risk factors. In addition, each
+of these conditions strongly predisposes to the other.40
+Women
+and men with AF have an eleven-fold and three-fold higher
+risk, respectively, of developing heart failure in comparison
+with those without AF. Both these conditions are associated
+with an adverse prognosis “quod vitam”, and the occurrence
+of new AF in patients with heart failure is associated with
+a two-fold higher risk of death in comparison with those
+without AF.41–43
+AF is also associated with increased mortality. In the
+USA, among Medicare beneficiaries aged 65 years or older
+­
+followed from 1993 to 2007, the global mortality rate after
+­
+incident AF was 10.8% in the short-term (30 days), 24.7%
+in the medium term (one year), and 42% in the long term (3
+years).These rates have changed only slightly and not signifi-
+cantly over time.10
+In Sweden, during the period 1995–2008,
+patients enrolled in the Swedish National Patient Registry
+showed a global mortality rate of 40% after diagnosis of
+incidentAF and 60% at 5 and 10 years, respectively, versus a
+rate of 20% and 40% in those withoutAF.The relative risk of
+dying was higher in women than in men and decreased with
+age. Women and men aged ,65 years had an adjusted rela-
+tive risk of 4.88 and 3.07, respectively, of dying at one year,
+those aged 65–74 years had a risk of 2.88 and 2.07, and those
+aged 75–85 years had a risk of 2.09 and 1.72. AF was found
+to be a significant risk factor for all-cause mortality together
+with the presence of chronic renal failure, cancer, and chronic
+obstructive pulmonary disease.44
+Also, in Olmsted County,
+during a period of observation of 24 years, new-onset AF
+was found to be associated with a significantly increased risk
+(67%) of all-cause mortality that was highest (hazard ratio
+9.62) within the first 4 months of diagnosis and decreased
+significantly thereafter (hazard ratio 1.66).45
+Clinical Epidemiology 2014:6
+submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+218
+Zoni-Berisso et al
+The relationship between mortality and type of AF
+is not clear. In the Women’s Health Study, persistent and
+­
+permanent AF (but not paroxysmal AF) have been found to
+be significantly associated with mortality,46
+and in the Loire
+Valley AF Project, only permanent AF was found to be
+significantly associated with mortality.47
+Thus, even though
+there is not yet clear evidence that the increased mortality
+observed in patients withAF is directly due to arrhythmia or
+to the numerous serious associated conditions, AF remains
+a marker of a poor prognosis.
+European perspective
+Although the marked differences in population characteris-
+tics present in the majority of the published epidemiological
+studies (eg, different ages at enrolment, different types of
+AF considered), the available data indicate a similar preva-
+lence and incidence of AF throughout the developed world.
+At the present time, among residents aged 15–20 years or
+over in Europe, the prevalence of AF can be estimated at
+2%, together with an incidence ranging between 0.23 and
+0.41 per 1,000 person/years. Among these patients, the
+annual rate of ischemic and hemorrhagic strokes is ­
+estimated
+to be 2% (1.3% in France, 1.7% in the USA, 4.5% in patients
+not anticoagulated and 2.5% in patients anticoagulated in
+Sweden) and 0.2%, respectively.The number of hospitaliza-
+tions for AF is 0.25 per year and the number of outpatient
+contacts is approximately six per year.This means that at the
+present time in the European community (population 500
+million people) there are approximately 10 million patients
+with AF and 100,000–200,000 with new-onset AF. If the
+estimated prevalence of AF increases by 0.04% per year
+(as observed in Iceland in the overall population between
+1998 and 2008) or by 0.08% (as estimated in the USA on a
+population aged .20 years),3
+and if the projected growth of
+the ­
+European population is 0.2%–0.3% (a combination of a
+decrease in the young population and an increase among peo-
+ple aged .65 years),2
+in 2030 the prevalence ofAF would be
+2.7%–3.3% in a ­
+European population with 516–525 million
+inhabitants. Therefore, within 15 years, the number of the
+European citizens with AF will be 14–17 million and the
+number of new AF cases will be 120,000–215,000 per year
+(estimated incidence 0.23–0.41 per 1,000 person/years). In
+particular, 7–8.5 million people will be affected by perma-
+nentAF, 3.5–4.2 by persistentAF, and 3.5–4.2 by paroxysmal
+AF. These data are in agreement with those of Krijthe et al,
+who predict that there will be approximately 14 million
+AF patients among individuals aged .55 years in 2030.48
+To these figures must be added a further 280,000–340,000
+new ischemic strokes, 3.5–4 million hospitalizations for
+AF, and 100–120 million outpatient visits. The magnitude
+of these data seems to confer an endemic dimension to this
+health care problem, ­
+implying not only a greater ­
+engagement
+of physicians but also a significant effort of health care
+systems to improve AF prevention and treatment and to
+facilitate the organization of social ­
+interventions for the
+cure of its ­
+consequences. In the absence of proven effective
+therapies for the primary prevention of AF, the attention of
+physicians must be directed towards preventing the cardiac
+conditions and comorbidities that represent significant risk
+factors for AF. In particular, further efforts are needed to
+understand better the longitudinal course of patients at risk
+of developing AF in order to prevent complications.
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+1. Fuster V
+, Ryden LE, Cannom DS, et al. ACC/AHA/ESC guidelines
+for the management of patients with atrial fibrillation: a report of the
+American College of Cardiology/American Heart Association Task
+Force on Practice Guidelines and the European Society of Cardiology
+Committee for Practice Guidelines. Europace. 2006;8:651–745.
+2. Eurostat Methodologies and Working papers. Work Session on
+­
+Demographic Progressions. Lisbon, Portugal, April 28–30, 2010.
+3. Go AS, Hylek EM, Philips KA, et al. Prevalence of diagnosed atrial
+fibrillation in adults: national implication for rhythm management
+and stroke prevention. The AnTicoagulation and RIsk factors in Atrial
+fibrillation (ATRIA) study. JAMA. 2001;285:2370–2375.
+4. Murphy NF, Simpson CR, Jhund PS, et al. A national survey of the
+prevalence, incidence, primary care burden and treatment of atrial
+fibrillation in Scotland. Heart. 2007;93:606–612.
+5. Ruskin JN, Singh JP.Atrial fibrillation endpoints: hospitalizations. Heart
+Rhythm. 2004;1 July Suppl:B31–B35.
+6. Santini M, De Ferrari GM, Pandozi C, et al; for the FIRE Investigators.
+Atrial fibrillation requiring urgent medical care.Approach and outcome
+in the various departments of admission. Data from the atrial ­
+Fibrillation/
+Flutter Italian Registry (FIRE). Ital Heart J. 2004;5:205–213.
+7. Friberg L, Bergfeldt L. Atrial fibrillation prevalence revisited. J Intern
+Med. 2013;274:461–468.
+8. Wilke T, Groth A, Mueller S, et al. Incidence and prevalence of atrial
+fibrillation: an analysis based on 8.3 million patients. Europace.
+2013;15:486–493.
+9. Zoni-Berisso M, Filippi A, Landolina M, et al. Frequency, patient
+­
+characteristics, treatment strategies, and resource usage of atrial
+­
+fibrillation [From the Italian Survey of Atrial Fibrillation Management
+(ISAF) Study]. Am J Cardiol. 2013;111:705–711.
+10. Piccini JP, Hammil BG, Sinner MF, et al. Incidence and prevalence of
+atrial fibrillation and associated mortality among Medicare ­
+beneficiaries:
+1993–2007. Circ Cardiovasc Qual Outcomes. 2012;5:85–93.
+11. Stefansdottir H, Appelund T, Gudnason V
+, Adnar DO. Trends in the
+incidence and prevalence of atrial fibrillation in Iceland and future
+projection. Europace. 2011;13:1110–1117.
+12. Cowan C, Healicon R, Robson I, et al. The use of anticoagulants in the
+management of atrial fibrillation among general practices in England.
+Heart. 2013;99:1166–1172.
+13. Fitzmaurice DA, Hobbs DR, Jowet S, et al. Screening versus routine
+practice in detection of atrial fibrillation in patients aged 65 or over:
+cluster randomised controlled trial. BMJ. 2007;335:386–391.
+Clinical Epidemiology 2014:6 submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+219
+Epidemiology of atrial fibrillation
+14. Rho RW, Page RL. Asymptomatic atrial fibrillation. Progr Cardiovasc
+Dis. 2005;48:78–87.
+15. Chugh SS, Havmoeller R, Narayanan K, et al.Worldwide ­
+epidemiology
+of atrial fibrillation: a global burden of disease study. Circulation.
+2014;129:837–847.
+16. Gomez-Doblas JJ, Muniz J, Alonso Martin JJ, et al. Prevalence of
+atrial fibrillation in Spain. OFRECE study results. Rev Esp Cardiol.
+2014;67(4):259–269.
+17. Kannel WB, Abbot RD, Savage DD, McNamara PM. Epidemiologic
+features of chronic atrial fibrillation: the Framingham Study. N Engl J
+Med. 1982;306:1018–1022.
+18. Myasaka Y, Barnes ME, Gersh BJ, et al. Secular trends in incidence
+of atrial fibrillation in Olmsted County, Minnesota, 1980 to 2000,
+and the implications on the future prevalence. Circulation. 2006;114:
+119–125.
+19. MeinertzT, Kirch, Rosin L, Pittrow D, Wilich SN, Kirchof P;ATRIUM
+Investigators. Management of atrial fibrillation by primary care
+physicians in Germany: baseline results of the ATRIUM registry. Clin
+Res Cardiol. 2011;100:897–905.
+20. Nabauer M, GerthA, Limbourg T, et al. The Registry of German Com-
+petence Network on atrial fibrillation: patient characteristics and initial
+management. Europace. 2009;11:423–434.
+21. Nieuwlaat R, Capucci A, Camm AJ, et al; European Heart Survey
+Investigators. Atrial fibrillation management: a prospective survey in
+ESC member countries: the Euro Heart Survey on Atrial Fibrillation.
+Eur Heart J. 2005;26:2422–2434.
+22. Di Pasquale G, Mathieu G, Maggioni AP, et al; on behalf of ATA-AF
+Investigators. Current presentation and management of 7148 patients
+with atrial fibrillation in cardiology and internal ­
+medicine hospital
+centers: the ATA-AF study. Int J Cardiol. 2013;167:2895–2903.
+23. Levy S, Maarek M, Coumel P, et al; on behalf of the College of French
+Cardiologists. Characterization of different subsets of atrial fibril-
+lation in general practice in France. The ALFA study. Circulation.
+1999;99:3028–3035.
+24. Chiang CE, Naditch-Brulé L, Murin J, et al. Distribution and risk profile
+of paroxysmal, persistent, and permanent atrial fibrillation in routine
+clinical practice. insight from the real-life global survey evaluating
+patients with atrial fibrillation international registry. Circ Arrhythm
+Electrophysiol. 2012;5:632–639.
+25. McManus DD, Rienstra M, Benjamin EJ.An update on the prognosis of
+patients with atrial fibrillation. Circulation. 2012;126:e143–e146.
+26. Nieuwlaat R, Prins MH, Le Heuzey JY, et al. Prognosis, disease
+progression, and treatment of atrial fibrillation patients during 1 year.
+Follow up of the Euro Heart Survey on atrial fibrillation. Eur Heart J.
+2008;29:1181–1189.
+27. De Sisti A, Leclercq JF, Halimi F, Fiorello P, Bertrand C, Attuel P.­
+Evaluation of time course predicting factors of progression of
+­
+paroxysmal or persistent atrial fibrillation to permanent atrial
+fibrillation. Pacing Clin Electrophysiol. 2014;37:345–355.
+28. Kerr CR, Humphries KH, Talajic M, et al. Progression to chronic atrial
+fibrillation after the initial diagnosis of paroxysmal atrial fibrillation:
+results from the Canadian Registry of Atrial Fibrillation. Am Heart J.
+2005;149:489–496.
+29. Jahangir A, Lee V, Friedman PA, et al. Long-term progression and
+outcomes with aging in patients with lone atrial fibrillation, A 30-year
+follow up study. Circulation. 2007;115:3050–3056.
+30. DeVoos CB, Pisters R, Nieuwlaat R, et al. Progression from paroxysmal
+to persistent atrial fibrillation. Clinical correlates and prognosis. J Am
+Coll Cardiol. 2010;55:725–731.
+31. Self WH, Wasserman BS, McNaughton CD, Darbar D. ­
+Evaluating
+the HATCH score for predicting progression to sustained atrial
+fibrillation in ED patients with new atrial fibrillation. Am J Emerg Med.
+2013;31:792–797.
+32. American Heart Association. Heart and Stroke Statistical Update.
+Dallas, TX, USA: American Heart Association; 1999. Available from:
+http://www.nanocorthx.com/Articles/HeartDiseaseStrokeStatistics.pdf.
+Accessed May 29, 2014.
+33. WolfPA,AbbottRD,KannelWB.Atrialfibrillationasanindependentrisk
+factor for stroke: the Framingham Study. Stroke. 1991;22:983–988.
+34. Friberg L, Hammar N, Rosenqvist M. Stroke in paroxysmal atrial fibril-
+lation: report from the Stockolm Cohort ofAtrial Fibrillation. Eur Heart
+J. 2010;31:967–972.
+35. Shroff GR, Solid CA, Herzog CA. Temporal trends in ischemic stroke
+and anticoagulation therapy among Medicare patients with atrial
+fibrillation: a 15-year perspective (1992–2007). JAMA Intern Med.
+2013;173:159–160.
+36. Friberg L, Rosenqvist M, Lip GYH. Net clinical benefit of warfarin
+use in patients with atrial fibrillation: a report of the Swedish Atrial
+Fibrillation Cohort Study. Circulation. 2012;125:2298–2307.
+37. Cotté FE, Chaize G, Kachaner I, Gaudin AF, Vainchtock A,
+Durand-Zaleski L. Incidence and cost of stroke and haemorrhage in
+patients diagnosed with atrial fibrillation. J Stroke Cerebrovasc Dis.
+2014;23:73–83.
+38. Ott AO, Breteler MM, de Bruyne MC, van Harskamp F, Grobbee DE,
+Hoffman A. Atrial fibrillation and dementia in a population-based
+study. Stroke. 1997;28:316–321.
+39. Cha MJ, Park H, Lee MH, ChoY, Choi EK, Oh S. Prevalence and risk
+factors for silent ischemic stroke in patients with atrial fibrillation
+as determined by brain magnetic resonance imaging. Am J Cardiol.
+2014;113:656–661.
+40. Anter E, Jessup M, Callans DJ. Atrial fibrillation and heart ­
+failure:
+treatment considerations for a dual epidemic. Circulation. 2009;119:
+2516–2525.
+41. WangTJ,LarsonMG,LevyD,et al.Temporalrelationsofatrial ­
+fibrillation
+and congestive heart failure and their joint influence on mortality:
+the Framingham Heart Study. Circulation. 2003;107:2920–2925.
+42. Mountantonakis SE, Grau-Sepulveda MV
+, Bhatt DL, Hernandez AF,
+Peterson ED, Fonarow GC. Presence of atrial fibrillation is ­
+independently
+associated with adverse outcomes in patients hospitalized with heart
+failure: an analysis of Get with the Guidelines – Heart Failure. Circ
+Heart Fail. 2012;5:191–201.
+43. Chamberlain AM, Redfield MM, Alonso A, Weston SA, Roger VL.
+Atrial fibrillation and mortality in heart failure: a community study.
+Circ Heart Fail. 2011;4:740–746.
+44. Andersson T, Magnuson A, Bryngelson IL, et al. All cause mortality in
+272186 patients hospitalized with incident atrial fibrillation1995–2008:
+a Swedish nationwide long-term case-control study. Eur Heart J.
+2013;34:1061–1067.
+45. Myasaka Y, Barnes ME, Bailey KR, et al. Mortality trends in patients
+diagnosed with first atrial fibrillation: a 21-year community-based study.
+J Am Coll Cardiol. 2007;49:986–992.
+46. Conen D, Chae CU, Glynn RJ, et al. Risk of death and cardiovascular
+events in initially healthy women with new-onset atrial fibrillation.
+JAMA. 2011;305:2080–2087.
+47. Benerjee A, Taillandier S, Olesen JB, et al. Pattern of atrial fibrillation
+and risk of outcomes: the Loire Valley Atrial Fibrillation Project. Int J
+Cardiol. 2013;167:2682–2687.
+48. Krijthe BP, Kunst A, Benjamin EJ, et al. Projections of the number of
+individuals with atrial fibrillation in the European Union from 2000 to
+2060. Eur Heart J. 2013;34:2746–2751.
+Clinical Epidemiology
+Publish your work in this journal
+Submit your manuscript here: http://www.dovepress.com/clinical-epidemiology-journal
+Clinical Epidemiology is an international, peer-reviewed, open access
+journal focusing on disease and drug epidemiology, identification of
+risk factors and screening procedures to develop optimal preventative
+initiatives and programs. Specific topics include: diagnosis, prognosis,
+treatment, screening, prevention, risk factor modification, systematic
+reviews, risk & safety of medical interventions, epidemiology & bio-
+statical methods, evaluation of guidelines, translational medicine, health
+policies & economic evaluations.The manuscript management system
+is completely online and includes a very quick and fair peer-review
+system, which is all easy to use.
+Clinical Epidemiology 2014:6
+submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+Dovepress
+220
+Zoni-Berisso et al

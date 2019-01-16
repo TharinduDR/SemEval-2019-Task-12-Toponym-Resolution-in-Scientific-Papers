@@ -1,0 +1,528 @@
+SHORT REPORT Open Access
+Epidemiology of vampire bat-transmitted rabies
+virus in Goiás, central Brazil: re-evaluation based
+on G-L intergenic region
+Shinji Hirano1
+, Takuya Itou1*
+, Adolorata AB Carvalho2
+, Fumio H Ito3
+, Takeo Sakai1
+Abstract
+Background: Vampire bat related rabies harms both livestock industry and public health sector in central Brazil.
+The geographical distributions of vampire bat-transmitted rabies virus variants are delimited by mountain chains.
+These findings were elucidated by analyzing a high conserved nucleoprotein gene. This study aims to elucidate
+the detailed epidemiological characters of vampire bat-transmitted rabies virus by phylogenetic methods based on
+619-nt sequence including unconserved G-L intergenic region.
+Findings: The vampire bat-transmitted rabies virus isolates divided into 8 phylogenetic lineages in the previous
+nucleoprotein gene analysis were divided into 10 phylogenetic lineages with significant bootstrap values. The
+distributions of most variants were reconfirmed to be delimited by mountain chains. Furthermore, variants in
+undulating areas have narrow distributions and are apparently separated by mountain ridges.
+Conclusions: This study demonstrates that the 619-nt sequence including G-L intergenic region is more useful for
+a state-level phylogenetic analysis of rabies virus than the partial nucleoprotein gene, and simultaneously that the
+distribution of vampire bat-transmitted RABV variants tends to be separated not only by mountain chains but also
+by mountain ridges, thus suggesting that the diversity of vampire bat-transmitted RABV variants was delimited by
+geographical undulations.
+Background
+Rabies is a zoonosis that kills infected mammals, includ-
+ing humans, and is mainly transmitted by carnivores. In
+the Americas, chiropterans (insectivorous, frugivorous
+and hematophagous bat) are another reservoir of this
+disease. Although dog-transmitted rabies in central Bra-
+zil has been reduced by aggressive vaccination programs
+[1], chiroptera (particularly the common vampire bat,
+Desmodus rotundas)-transmitted rabies remains endemic
+in this region, and harms both the livestock industry
+and the public health sector [2,3].
+To date, vampire bat-transmitted rabies in livestock
+has been controlled by reducing the population of vam-
+pire bats and by vaccinating livestock [3,4]. However,
+the depopulation of vampire bats has limitations and the
+effects are temporary, while vaccination of livestock is
+only carried out for some animals and is ineffective in
+decreasing rabies levels in vampire bats.
+For the sustainable and effective control of vampire
+bat rabies, further knowledge of epidemiological fea-
+tures, such as vampire bat ecology and the dynamics of
+vampire bat-transmitted rabies, is necessary. Molecular
+epidemiological analysis of vampire bat-transmitted cat-
+tle rabies cases using the partial nucleoprotein gene,
+which is the most conserved gene in the rabies virus
+(RABV) genome, has suggested that the distribution of
+variants in Brazil is delimited by mountain chains and
+clustered in tens of thousands of square kilometers [5].
+However, the vampire bats migrate several kilometers
+from their nests [6]. To elucidate a more detailed
+genetic clustering and geo-distribution of genetic clades
+of vampire bat-transmitted RABV, 204 isolates from
+Goiás, which includes the 185 isolates analyzed pre-
+viously, were employed and analyzed by a phylogenetic
+method based on a nucleotide sequence encompassing
+the G-L intergenic region locating between glycoprotein
+* Correspondence: itou.takuya@nihon-u.ac.jp
+1
+Nihon University Veterinary Research Center, 1866 Kameino, Fujisawa 252-
+0880, Kanagawa, Japan
+Full list of author information is available at the end of the article
+              BMC Research Notes 2010, 3:288
+http://www.biomedcentral.com/1756-0500/3/288
+© 2010 Itou et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.
+(G) and polymerase (L) gene loci, which is the most
+divergent region in the RABV genome and is used for
+monitoring epidemiological changes in the evolution of
+RABV [7,8].
+Results
+Phylogenetic analysis
+The 204 RABV isolates divided into 8 phylogenetic
+lineages in the previous nucleoprotein gene analysis
+were divided into 10 phylogenetic lineages with signifi-
+cant bootstrap values (Figure 1; details shown in
+Table 1). Isolates of the C-5 and C-6 lineages designated
+by                  belonged to the A-lineage, while the
+B-lineage consisted of some isolates of C-5. The C-, D-,
+F- and J-lineages included isolates belonging to C-12,
+C-1, C-22 and C-3, respectively. Isolates of C-20
+belonged to the I-lineage, and C-21 was divided into
+three lineages; G-, H- and I-lineages. Two isolates not
+belonging to any lineages in previous studies were
+assigned to the E-lineage.
+Geographical plotting
+In this study, geographical areas in Goiás were divided
+by mountain chains into the Northwest, North central,
+Northeast and South regions (Figure 2). Most isolates of
+the A-lineage were distributed in the South region. The
+B-lineage was likely to exist in the Northeast and North
+central regions. The isolates belonging to the C-, E-, F-,
+G-, H- and I-lineages were distributed in the Northwest
+region. The G-, H- and I-lineages have narrow distribu-
+tions and are apparently separated by mountain ridges
+(Figure 2; Area I), while the A-lineage was distributed in
+a wide range throughout a Southeastern basin (Figure 2;
+Area II). The isolates of the D-lineage were plotted on
+an eastern edge of the North central region. The J-line-
+age had a wide geographical distribution in Goiás.
+Discussion
+Previous studies had elucidated that the distributions of
+vampire bat and transmitted RABV are delimited by
+mountain chains [5]. In the present study, it was recon-
+firmed that mountain chains divide the distribution pat-
+terns of each viral lineage. Furthermore, the isolates
+belonging to C-5 having a wide range in Goiás were
+divided into the A- and B-lineages, and were found to
+be distributed in the South and North regions on either
+side of a mountain chain. This finding supports Kobaya-
+shi’s hypothesis that distribution of vampire bat-trans-
+mitted RABV is affected by mountain chains.
+The same variants of vampire bat-transmitted RABV
+were spread widely in flat low lands (< 800 m), but at
+higher elevations (800-1600 m), they had a narrower
+distribution [9]. However, the G-, H- and I-lineages
+were found to be separated by mountain ridges in low
+areas (400-800 m) located in a southern undulating area
+of the Northwestern region (Figure 2; Area I). Further-
+more, the A-lineage was located in an eastern basin of
+the South region (> 800 m; Figure 2; Area II). Consider-
+ing that the higher lands showed an undulating
+Figure 1 NJ tree based on 619-nt sequence of the partial G
+and the G-L intergenic region. Full circles on internal branches
+indicate significant bootstrap values (>70%). The number of isolates
+retaining 100% nucleotide similarity with the representative isolate
+is shown in parentheses. Lineages of the isolates defined in a
+previous study [5] are shown in italics after a diagonal (Ud:
+undefined).
+              BMC Research Notes 2010, 3:288
+http://www.biomedcentral.com/1756-0500/3/288
+Page 2 of 8
+Table 1 Isolates from Goiás
+Grouping Accession No.
+Sample Species Location Year This study Previous studyc
+N203-nt Partial G & GL
+BRbv371 Cattle Caldas Novas 2002 A C-5     7182     4082
+BRbv372 Cattle Água Limpa 2002 A C-5     7183     4083
+BRbv373 Cattle Caldas Novas 2002 A C-5     7184     4084
+BRbv375 Cattle Santa Cruz de Goias 2002 A C-5     7186     4085
+BRbv379 Cattle Corumbaíba 2002 A C-5     7190     4089
+BRbv380 Cattle Corumbaíba 2002 A C-5     7191     4090
+BRbv381 Cattle Cristalina 2002 A C-5     7192     4091
+BRbv386 Cattle Ipameri 2002 A C-5     7197     4095
+BRbv391 Cattle Caldas Novas 2002 A C-5     7201     4099
+BRbv392 Cattle Água Limpa 2002 A C-5     7202     4100
+BRbv393 Cattle Itumbiara 2002 A C-5     7203     4101
+BRbv395 Cattle Itumbiara 2002 A C-5     7205     4102
+BRbv396 Cattle Itumbiara 2002 A C-5     7206     4103
+BRbv397 Cattle Buriti Alegre 2002 A C-5     7207     4104
+BRbv398 Cattle Itumbiara 2002 A C-5     7208     4105
+BRbv400 Cattle Buriti Alegre 2002 A C-5     7210     4107
+BRbv404 Cattle Buriti Alegre 2002 A C-5     7214     4111
+BRbv405 Cattle Buriti Alegre 2002 A C-5     7215     4112
+BRbv407 Cattle Goiandira 2002 A C-5     7217     4114
+BRbv412 Cattle Itapaci 2002 A C-5     7222     4118
+BRbv413 Cattle Caldas Novas 2002 A C-5     7223     4119
+BRbv416 Cattle Morrinhos 2002 A C-5     7226     4122
+BRbv421 Cattle Nova Aurora 2002 A C-5     7231     4124
+BRbv429 Cattle Corumbaíba 2002 A Uda
+    7238     4129
+BRbv432 Cattle Ipameri 2002 A C-5     7241     4132
+BRbv438 Cattle Buriti Alegre 2002 A C-5     7247     4137
+BRhr441 Horse Buriti Alegre 2002 A Ud     7251     4140
+BRbv442 Cattle Buriti Alegre 2002 A C-5     7252     4141
+BRbv447 Cattle Urutaí 2002 A C-6     7255     4143
+BRbv449 Cattle Caldas Novas 2002 A C-5     7256     4145
+BRbv451 Cattle Ipameri 2002 A C-5     7258     4147
+BRbv453 Cattle São Luis de Montes Belos 2002 A C-5     7260     4149
+BRbv456 Cattle Orizona 2002 A Ud     7263     4150
+BRbv457 Cattle Água Limpa 2002 A C-5     7264     4151
+BRbv458 Cattle Buriti Alegre 2002 A C-5     7265     4152
+BRbv466 Cattle Itumbiara 2002 A C-5     7273     4157
+BRbv469 Cattle Ipameri 2002 A C-6     7275     4159
+BRbv471 Cattle Santa Cruz de Goias 2002 A C-6     7277     4161
+BRbv472 Cattle Ipameri 2002 A C-6     7278     4162
+BRbv473 Cattle Itumbiara 2002 A C-5     7279     4163
+BRbv475 Cattle Caldas Novas 2002 A C-5     7281     4165
+BRbv477 Cattle Itumbiara 2002 A C-5     7283     4166
+BRbv478 Cattle Itumbiara 2002 A C-5     7284     4167
+BRbv482 Cattle Panamá 2002 A C-5     7288     4170
+BRhr483 Horse Panamá 2002 A Ud     7291     4171
+BRbv486 Cattle Itumbiara 2002 A C-5     7293     4172
+BRbv489 Cattle Itumbiara 2002 A Ud     7295     4174
+BRbv493 Cattle Ipameri 2002 A C-6     7298     4177
+BRbv495 Cattle Panamá 2002 A C-5     7300     4179
+BRbv496 Cattle Panamá 2002 A C-5     7301     4180
+              BMC Research Notes 2010, 3:288
+http://www.biomedcentral.com/1756-0500/3/288
+Page 3 of 8
+Table 1 Isolates from Goiás (Continued)
+BRbv497 Cattle Itumbiara 2002 A C-5     7302     4181
+BRbv498 Cattle Bela Vista de Goiás 2002 A C-5     7303     4182
+BRbv502 Cattle Itumbiara 2002 A C-5     7306     4186
+BRbv503 Cattle Orizona 2002 A Ud     7307     4187
+BRbv509 Cattle Buriti Alegre 2002 A C-5     7311     4192
+BRbv514 Cattle Panamá 2002 A C-5     7316     4196
+BRbv516 Cattle Orizona 2002 A Ud     7318     4198
+BRbv521 Cattle Urutaí 2002 A Ndb
+Nd     4201
+BRbv524 Cattle Urutaí 2002 A C-6     7323     4204
+BRbv526 Cattle Panamá 2002 A C-5     7325     4206
+BRbv527 Cattle Campos Belos 2002 A C-5     7326     4207
+BRbv684 Cattle Ipameri 2001 A C-5     7412     4211
+BRbv685 Cattle Corumbaíba 2001 A Nd Nd     4212
+BRbv686 Cattle Ipameri 2001 A C-5     7413     4213
+BRbv687 Cattle Corumbaíba 2001 A C-5     7414     4214
+BRbv690 Cattle Ipameri 2001 A C-5     7417     4215
+BRbv691 Cattle Ipameri 2001 A C-5     7418     4216
+BRbv694 Cattle Iporá 2001 A Nd Nd     4219
+BRbv697 Cattle Campo Alegre de Goiás 2001 A C-5     7423     4221
+BRbv698 Cattle Campo Alegre de Goiás 2001 A C-5     7424     4222
+BRbv699 Cattle Campo Alegre de Goiás 2001 A C-5     7425     4223
+BRbv700 Cattle Caldas Novas 2001 A Nd Nd     4224
+BRbv701 Cattle Caldas Novas 2001 A C-5     7426     4225
+BRhr704 Horse Corumbaíba 2001 A Nd Nd     4227
+BRbv705 Cattle Ipameri 2001 A C-5     7428     4228
+BRbv707 Cattle Corumbaíba 2001 A Nd Nd     4229
+BRsp708 Sheep Ouvidor 2001 A Nd Nd     4230
+BRbv710 Cattle Morrinhos 2001 A C-5     7431     4232
+BRbv711 Cattle Morrinhos 2001 A C-5     7432     4233
+BRbv717 Cattle Ipameri 2001 A C-5     7438     4235
+BRbv718 Cattle Ipameri 2001 A C-5     7439     4236
+BRbv741 Cattle Marzagão 2001 A C-5     7450     4244
+BRbv742 Cattle Ipameri 2001 A C-5     7451     4245
+BRbv745 Cattle Buriti Alegre 2001 A C-5     7454     4248
+BRbv747 Cattle Corumbaíba 2001 A Ud     7456     4250
+BRbv748 Cattle Campo Alegre de Goiás 2001 A C-5     7457     4251
+BRbv752 Cattle Catalão 2001 A Ud     7461     4254
+BRhr755 Horse Cumari 2001 A Nd Nd     4257
+BRbv770 Cattle Ipameri 2002 A C-5     7476     4269
+BRbv771 Cattle Caldas Novas 2002 A C-5     7477     4270
+BRbv780 Cattle Nova Crixás 2002 A C-5     7484     4274
+BRbv785 Cattle Corumbaíba 2002 A C-5     7486     4277
+BRbv786 Cattle Buriti Alegre 2002 A Ud     7487     4278
+BRbv796 Cattle Pires do Rio 2002 A C-6     7495     4283
+BRbv797 Cattle Cristalina 2002 A C-6     7496     4284
+BRbv402 Cattle Divinópolis de Goiás 2002 B C-5     7212     4109
+BRbv406 Cattle Posse 2002 B C-5     7216     4113
+BRbv459 Cattle Monte Alegre de Goiás 2002 B C-5     7266     4153
+BRbv461 Cattle Monte Alegre de Goiás 2002 B C-5     7268     4155
+BRbv462 Cattle Monte Alegre de Goiás 2002 B C-5     7269     4156
+BRbv479 Cattle Colinas do Sul 2002 B C-5     7285     4168
+BRbv481 Cattle Serranópolis 2002 B C-5     7287     4169
+              BMC Research Notes 2010, 3:288
+http://www.biomedcentral.com/1756-0500/3/288
+Page 4 of 8
+Table 1 Isolates from Goiás (Continued)
+BRbv490 Cattle Colinas do Sul 2002 B C-5     7296     4175
+BRbv494 Cattle Divinópolis de Goiás 2002 B C-5     7299     4178
+BRbv500 Cattle Colinas do Sul 2002 B C-5     7304     4184
+BRbv505 Cattle Colinas do Sul 2002 B C-5     7309     4188
+BRhr506 Horse Colinas do Sul 2002 B Nd Nd     4189
+BRhr507 Horse Colinas do Sul 2002 B Nd Nd     4190
+BRbv510 Cattle Monte Alegre de Goiás 2002 B C-5     7312     4193
+BRbv511 Cattle Divinópolis de Goiás 2002 B C-5     7313     4194
+BRbv518 Cattle Campos Belos 2002 B C-5     7319     4199
+BRbv525 Cattle Panamá 2002 B C-5     7324     4205
+BRbv753 Cattle Monte Alegre de Goiás 2001 B C-5     7462     4255
+BRbv762 Cattle Divinópolis de Goiás 2001 B C-5     7470     4263
+BRbv387 Cattle Doverlândia 2002 C C-12     7198     4096
+BRbv401 Cattle Mineiros 2002 C C-12     7211     4108
+BRbv424 Cattle Doverlândia 2002 C C-12     7234     4125
+BRbv692 Cattle Mineiros 2001 C C-12     7419     4217
+BRbv712 Cattle Doverlândia 2001 C C-12     7433     4234
+BRbv751 Cattle Mineiros 2001 C C-12     7460     4253
+BRbv383 Cattle Nova América 2002 D C-1     7194     4092
+BRbv384 Cattle Nova América 2002 D C-1     7195     4093
+BRbv409 Cattle Rubiataba 2002 D C-1     7219     4115
+BRbv411 Cattle Morrinhos 2002 D C-1     7221     4117
+BRbv452 Cattle Rubiataba 2002 D C-1     7259     4148
+BRbv767 Cattle Rubiataba 2002 D C-1     7474     4267
+BRbv793 Cattle Urutaí 2002 D C-1     7493     4282
+BRbv440 Cattle Nova Crixás 2002 E Ud     7249     4139
+BRbv519 Cattle Mundo Novo 2002 E Ud     7320     4200
+BRhr389 Horse Nova Crixás 2002 F Nd Nd     4098
+BRbv434 Cattle Itapuranga 2002 F Ud     7243     4133
+BRbv439 Cattle Mundo Novo 2002 F C-22     7248     4138
+BRbv488 Cattle Carmo do Rio Verde 2002 F Ud     7294     4173
+BRbv749 Cattle Nova Crixás 2001 F C-22     7458     4252
+BRbv757 Cattle Monte Alegre de Goiás 2001 F C-22     7465     4259
+BRbv763 Cattle Aruanã 2002 F C-22     7471     4264
+BRbv773 Cattle Aruanã 2002 F C-22     7479     4272
+BRbv774 Cattle Mozarlândia 2002 F C-22     7480     4273
+BRsp787 Sheep Ipameri 2002 F Nd Nd     4279
+BRbv378 Cattle Novo Brasil 2002 G C-21     7189     4088
+BRbv425 Cattle Novo Brasil 2002 G C-21     7235     4126
+BRbv445 Cattle Morrinhos 2002 G Ud     7254     4142
+BRbv448 Cattle Buriti de Goiás 2002 G C-21     7256     4144
+BRhr467 Horse Buriti de Goiás 2002 G Nd Nd     4158
+BRbv474 Cattle Moiporá 2002 G C-21     7280     4164
+BRbv501 Cattle Anicuns 2002 G C-21     7305     4185
+BRbv515 Cattle Córrego do Ouro 2002 G C-21     7317     4197
+BRbv522 Cattle Buriti de Goiás 2002 G Nd Nd     4202
+BRbv523 Cattle Córrego do Ouro 2002 G C-21     7322     4203
+BRbv764 Cattle Córrego do Ouro 2002 G C-21     7472     4265
+BRbv385 Cattle Ivolândia 2002 H C-21     7196     4094
+BRbv414 Cattle Ivolândia 2002 H C-21     7224     4120
+BRbv415 Cattle Ivolândia 2002 H C-21     7225     4121
+BRbv426 Cattle Amorinópolis 2002 H C-21     7236     4127
+              BMC Research Notes 2010, 3:288
+http://www.biomedcentral.com/1756-0500/3/288
+Page 5 of 8
+Table 1 Isolates from Goiás (Continued)
+BRbv427 Cattle Ivolândia 2002 H C-21     7237     4128
+BRbv431 Cattle Palestina de Goiás 2002 H Ud     7240     4131
+BRbv437 Cattle Goiandira 2002 H Ud     7246     4136
+BRbv693 Cattle Amorinópolis 2001 H C-21     7420     4218
+BRhr703 Horse Ivolândia 2001 H Nd Nd     4226
+BRbv736 Cattle Amorinópolis 2001 H C-21     7446     4242
+BRbv744 Cattle Amorinópolis 2001 H C-21     7453     4247
+BRbv370 Cattle Caiapônia 2002 I C-21     7181     4081
+BRbv376 Cattle Caiapônia 2002 I C-21     7187     4086
+BRbv377 Cattle Bom Jardim de Goiás 2002 I C-21     7188     4087
+BRbv388 Cattle Piranhas 2002 I Ud     7199     4097
+BRbv399 Cattle Rio Verde 2002 I C-21     7209     4106
+BRbv403 Cattle Piranhas 2002 I C-20     7213     4110
+BRbv410 Cattle Piranhas 2002 I C-21     7220     4116
+BRbv420 Cattle Piranhas 2002 I C-21     7230     4123
+BRbv430 Cattle Buriti Alegre 2002 I Ud     7239     4130
+BRbv435 Cattle Bom Jardim de Goiás 2002 I C-20     7244     4134
+BRbv436 Cattle Piranhas 2002 I Ud     7245     4135
+BRbv450 Cattle Palestina de Goiás 2002 I C-21     7257     4146
+BRbv460 Cattle Caiapônia 2002 I C-20     7267     4154
+BRbv470 Cattle Piranhas 2002 I C-20     7276     4160
+BRbv491 Cattle Caiapônia 2002 I C-20     7297     4176
+BRbv499 Cattle Bom Jardim de Goiás 2002 I Nd Nd     4183
+BRbv513 Cattle Caiapônia 2002 I C-20     7315     4195
+BRbv681 Cattle Piranhas 2001 I Nd Nd     4208
+BRbv682 Cattle Piranhas 2001 I Nd Nd     4209
+BRbv683 Cattle Piranhas 2001 I C-21     7411     4210
+BRbv696 Cattle Piranhas 2001 I C-21     7422     4220
+BRbv709 Cattle Piranhas 2001 I C-21     7430     4231
+BRbv720 Cattle Arenópolis 2001 I C-21     7440     4237
+BRbv721 Cattle Arenópolis 2001 I C-21     7441     4238
+BRbv722 Cattle Arenópolis 2001 I C-21     7442     4239
+BRbv734 Cattle Arenópolis 2001 I C-21     7444     4240
+BRbv735 Cattle Arenópolis 2001 I Ud     7445     4241
+BRbv738 Cattle Piranhas 2001 I C-20     7448     4243
+BRbv743 Cattle Marzagão 2001 I C-20     7452     4246
+BRbv746 Cattle Caiapônia 2001 I C-20     7455     4249
+BRbv756 Cattle Arenópolis 2001 I C-21     7464     4258
+BRbv758 Cattle Iporá 2001 I C-21     7466     4260
+BRbv759 Cattle Diorama 2001 I C-21     7467     4261
+BRbv760 Cattle Palestina de Goiás 2001 I C-21     7468     4262
+BRbv765 Cattle Caiapônia 2002 I C-20     7473     4266
+BRbv769 Cattle Palestina de Goiás 2002 I C-21     7475     4268
+BRbv772 Cattle Arenópolis 2002 I C-21     7478     4271
+BRhr782 Horse Palestina de Goiás 2002 I Nd Nd     4275
+BRbv784 Cattle Piranhas 2002 I C-20     7485     4276
+BRbv790 Cattle Pires do Rio 2002 I C-21     7490     4280
+BRbv508 Cattle Porangatatu 2002 J C-3     7310     4191
+BRbv754 Cattle Alvorada do Norte 2001 J C-3     7463     4256
+BRbv792 Cattle Morrinhos 2002 J C-3     7492     4281
+a
+Undefined; b
+No data; c
+                 (2008)
+              BMC Research Notes 2010, 3:288
+http://www.biomedcentral.com/1756-0500/3/288
+Page 6 of 8
+landscape, the results suggest that the distribution pat-
+terns of vampire bat-transmitted RABV variants depend
+on such undulations. On the other hand, the distribu-
+tion of common vampire bats in a valley is limited by
+the ridges that form the valley [10], thus supporting the
+notion that the distribution of RABV variants is affected
+by smaller topography than mountain chains.
+Conclusions
+The present study analyzed the epidemiology of vampire
+bat-transmitted RABV using a 619-nt region containing
+the partial glycoprotein gene and the G-L intergenic
+region, and indicated that the isolates can be further
+divided into several phylogenetic lineages with signifi-
+cant bootstrap values when compared to characteriza-
+tion based on the 203-nt partial N gene. Furthermore,
+the phylogenetic lineages were divided by both moun-
+tain chains and mountain ridges. In future studies, it
+will be important to analyze samples from different time
+points and to elucidate the dynamics of vampire bat-
+transmitted rabies in order to establish effective and sus-
+tainable control measures for preventing rabies circula-
+tion among vampire bats.
+Methods
+Samples
+A total of 204 samples obtained from 192 cattle, 10
+horses and 2 sheep in Goiás from October 2001 to
+August 2002 were employed, which had been confirmed
+as rabies positive through fluorescent antibody test and
+mouse inoculation test (Table 1). Viral RNA was
+extracted from the brain as described previously [11].
+Lineages of the 164 cattle isolates, C-1, C-3, C-5, C-6,
+C-12, C-20, C-21 and C-22, were previously character-
+ized based on a 203-nt sequence of the nucleoprotein
+gene [5], and are shown in Table 1.
+Determination of nucleotide sequences
+RT-PCR and direct sequencing with the HmG5-1302
+(4619TGTTGAAGTTCACCTYCCMGAT    42, positions
+Figure 2 Distribution of vampire bat-transmitted RABV isolates in Goiás. Area I: distribution of G-, H- and I-lineages in mountain ridges.
+Area II: distribution of A-lineage in the basin. Symbols are same as those used in Fig. 1. Numbers inside the symbols indicate the number of
+isolates obtained in the same region. Small and open symbols indicated that only one isolate was obtained.
+              BMC Research Notes 2010, 3:288
+http://www.biomedcentral.com/1756-0500/3/288
+Page 7 of 8
+relative to PV strain genome (Accession No. M13215) and
+RVLa-1 (5435ATRGGGTCATCATAAACC    16) primer
+pair were performed as described previously [11]. The tar-
+get sequence includes the partial glycoprotein gene and G-
+L intergenic region. Nucleotide sequences were deter-
+mined using the ATGC program version 4.02 (GENETYX
+Co., Tokyo, Japan).
+Phylogenetioc analysis
+Multiple nucleotide sequence alignments of the partial gly-
+coprotein gene and G-L intergenic region were generated
+by the ClustalW package in MEGA ver. 4.0 [12]. A phylo-
+genetic tree was constructed by the neighbor joining (NJ)
+method with bootstrap analysis (1000 psuedoreplicates)
+under the p-distance model. Phylogenetic clustering sup-
+ported by a bootstrap value exceeding 70% was regarded
+as a reliable lineage [13]. Results were validated by the
+maximum likelihood method using PhyML [14]. In order
+to reconfirm the shape of the NJ tree, the ML tree was
+constructed under HKY substitution model justified by
+MODELTEST packaged in Hyphy program [15].
+Geographical plotting
+The 204 RABV isolates were plotted onto a geographical
+map described using the DIVA-GIS program [16] with
+GIS data from Instituto Brasileiro de Geografia e Estatís-
+tica [17] and DIVA-GIS gData [18].
+Acknowledgements
+This work was partly supported by the “Strategic Research Base
+Development” Program for Private Universities subsidized by the Ministry of
+Education, Culture, Sports, Science and Technology (MEXT) of Japan.
+Author details
+1
+Nihon University Veterinary Research Center, 1866 Kameino, Fujisawa 252-
+0880, Kanagawa, Japan. 2
+Faculty of Agriculture and Veterinary Science,
+Department of Preventive Veterinary Medicine, UNESP, Via de Acesso Prof.
+Paulo Donato Castellane, Jaboticabal, São Paulo 14884-900, Brazil.
+3
+Department of Preventive Veterinary Medicine and Animal Health, Faculty
+of Veterinary Medicine and Zootechny, University of São Paulo, Av. Prof. Dr.
+Orlando Marques de Paiva, 87, Cidade Universtiátria, São Paulo 05508-000,
+Brazil.
+Authors’ contributions
+SH participated in the design of the study, performed the experimental
+procedures and the data analysis, and wrote the manuscript. TI, AABC, FHI
+and TS elaborated the study design, management, coordination, and
+drafting the manuscript. The authors have read and approved the final
+manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 26 May 2010 Accepted: 8 November 2010
+Published: 8 November 2010
+          
+                                                                            
+                                                                    
+                                                                       
+         
+                                                                   
+                                                                      
+                                               
+                                                               
+                                                                          
+                                                                        
+                                   
+                                                                    
+                                                                        
+                      
+                                                                            
+                                                                        
+                                                                        
+                                                                         
+                             
+                                                                         
+                                                                      
+                                          
+                                                                          
+                                                                       
+                            
+                                                                        
+                                                                     
+                                                                  
+                                                                           
+                                                             
+                                                   
+                                                                           
+                                                                          
+                                                                          
+                             
+                                                                     
+                                                                  
+             
+                                                                        
+                                                                          
+                                                                        
+                                                                       
+                      
+                                                                            
+                                
+                                                                               
+                                                                         
+          
+                                                                                 
+                          
+                                                    
+                           
+                                                                 
+                                                                         
+                                                     
+                                             
+                           
+                              
+                      
+                                              
+                                     
+                                                     
+                                                       
+                         
+                            
+                                            
+                                            
+           

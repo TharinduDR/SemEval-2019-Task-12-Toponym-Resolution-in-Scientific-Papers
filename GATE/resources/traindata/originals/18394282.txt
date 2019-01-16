@@ -1,0 +1,309 @@
+﻿Reassortant
+Avian Influenza
+Virus (H5N1)
+in Poultry,
+Nigeria, 2007
+Isabella Monne,*1
+Tony M. Joannis,1
+Alice Fusaro,* Paola De Benedictis,*
+Lami H. Lombin, Husseini Ularamu,
+Anthony Egbuji, Poman Solomon,
+Giovanni Cattoli,* Ilaria Capua,* and Tim U. Obi
+Genetic characterization of a selection of influenza vi-
+rus (H5N1) samples, circulating in 8 Nigerian states over
+a 39-day period in early 2007, indicates that a new reas-
+sortant strain is present in 7 of the 8 states. Our study re-
+ports an entirely different influenza virus (H5N1) reassortant
+becoming predominant and widespread in poultry.
+Since its emergence in 2006 in Africa, avian influenza vi-
+ruses of the H5N1 subtype have spread rapidly to poul-
+try farms in several African countries. In February 2006,
+Kaduna State in Nigeria was the first of 36 states to report
+infection of poultry with highly pathogenic avian influenza
+virus (H5N1). Currently, infection has spread to 22 of the
+36 Nigerian states and to the Federal Capital Territory. In
+February 2007, 1 case of avian influenza was reported in a
+woman from the southern state of Lagos. Thus, the exten-
+sive circulation of influenza virus (H5N1) in Nigeria raises
+concerns about human and animal health issues. A previ-
+ous study indicated that 2 sublineages (EMA1 and EMA2)
+were cocirculating in Nigeria in 2006 (1); however, 3 sub-
+lineages were identified in a more recent study (2), namely
+sublineage A (corresponding to EMA2) and sublineages B
+and C (corresponding to EMA1). The 2007 study by Salz-
+berg et al. also identified a virus showing a 4:4 reassort-
+ment between genes of sublineages EMA1 and EMA2 (1).
+The aim of our study is to provide additional information
+on the genetic characteristics of isolates that were circulat-
+ing in Nigeria in early 2007.
+The Study
+Twelve representative influenza virus (H5N1) samples
+from different Nigerian outbreaks were selected (Table 1)
+by taking into account the geographic origin and the date of
+isolation. We then characterized these viruses by sequenc-
+ing the entire genome.
+Samples were processed for virus isolation, subtyp-
+ing, and pathotyping (3,4). The amplification of the 8 viral
+gene segments was carried out with reverse transcription
+(RT)­PCR by using gene-specific primers (available upon
+request). PCR products were sequenced in a 3100 Avant
+Genetic Analyzer (Applied Biosystems, Foster City, CA,
+USA). Phylogenetic analysis was performed by using the
+neighbor-joining method as implemented in the MEGA 3
+program, ClustalW software (www.ebi.ac.uk/Tools/
+clustalw2/index.html) (5). GenBank accession nos. for the
+8-gene segments of the 12 Nigerian strains are EU148356
+to EU148451.
+As expected, all Nigerian isolates were closely related
+to the viruses that have been circulating in birds through-
+out Europe, Russia, Africa, and the Middle East since late
+2005. According to the unified nomenclature system for
+highly pathogenic influenza virus (H5N1), these isolates
+belong to clade 2.2 (6).
+Phylogenetic analysis of all 8 gene segments of the
+recent Nigerian strains showed that 10 of these strains, la-
+beled EMA1/EMA2-2:6 reassortant 2007 (EMA1/EMA2-
+2:6-R07) (Table 1), have the same genotype. In particular,
+the genetic comparison of the hemagglutinin (HA) and non-
+structural (NS) genes of EMA1/EMA2-2:6-R07 shows that
+they are derived from viruses of the EMA1 sublineage (2)
+and have the highest similarity with the first Nigerian strain
+isolated, A/chicken/Nigeria/641/2006 (homology ranged
+between 99.3% and 99.7%). We observed different topol-
+ogy for the remaining gene segments (neuraminidase, nu-
+cleoprotein [NP], matrix, heterotrimeric polymerase com-
+plex [PA, PB1, and PB2]). Phylogenetic analysis showed
+that the nucleotide sequences of these genes fall into EMA2
+sublineage; the highest homology was observed with re-
+spective gene segments of the Nigerian strains isolated in
+2006, which belong to EMA2 (homology ranged between
+99.4% and 99.7%). The separation of the gene segments
+into 2 clusters (Figures 1, 2) is evidence of reassortment
+(7). The genetic pattern of EMA1/EMA2-2:6-R07 virus is
+distinct from that of A/chicken/Nigeria/1047-62/2006 vi-
+rus isolated in June, 2006 in Taraba State and recognized
+previously as an EMA1/EMA2-4:4 reassortant virus (2)
+(Table 2). The remaining 2 viruses were not reassortants.
+They were detected in Sokoto State and belong to sublin-
+eage EMA2.
+Sequence analysis showed that the receptor binding
+site of all of the Nigerian viruses under study retains amino
+acid residues (Gln 222 and Gly 224). These residues pref-
+erentially recognize receptors with saccharides terminating
+in sialic acid-2-3-galactose (SA2-3Gal), specific for avi-
+an species (8). Mutations that are related to neuraminidase
+Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 14, No. 4, April 2008 637
+*Viale dell'Università, Legnaro, Padova, Italy; National Veterinary
+Research Institute, Plateau State, Vom, Nigeria; and University of
+Ibadan, Oya State, Ibadan, Nigeria 1
+These authors contributed equally to this article.
+inhibitor and adamantanes resistance were not detected in
+any of the 12 isolates (9). All 12 Nigerian viruses possess
+the PB2 627K mutation associated with increased virulence
+of influenza virus (H5N1) in mice (10). Two other host spe-
+cific mutations were observed for NP and PA genes. In par-
+ticular, the NP gene contains a human specific amino acid
+signature at position 33 (V33I) (11) in all selected isolates.
+A human specific amino acid signature was also detected
+at position 100 (V100A) of the PA gene of A/chicken/
+Nigeria/1071-3/2007 and A/chicken/Nigeria/1071-7/2007
+strains (12).
+Conclusions
+The results of our study show that 10 of 12 strains ob-
+tained over a 39-day period were EMA1/EMA2-2:6-R07
+reassortant viruses, and that these were circulating in at
+least 7 Nigerian states. This appears to be the only report
+of a reassortant virus generated by H5N1 viruses belong-
+ing to the 2.2 clade spreading extensively in poultry. Thus,
+the viruses circulating in 2007 in Nigeria differ from the
+original sublineage prototypes introduced during 2006. Our
+findings also suggest that an influenza virus (H5N1) with
+DISPATCHES
+638 Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 14, No. 4, April 2008
+Table 1. List of influenza virus (H5N1) samples analyzed in poultry, Nigeria, 2007
+Virus Group State of isolation Date of isolation
+A/chicken/Nigeria/1071-1/2007 EMA1/EMA2-2:6-R07 Plateau Jan 2
+A/chicken/Nigeria/1071-3/2007 EMA2 Sokoto Jan 5
+A/chicken/Nigeria/1071-4/2007 EMA1/EMA2-2:6-R07 Borno Jan 5
+A/chicken/Nigeria/1071-5/2007 EMA1/EMA2-2:6­R07 Plateau Jan 6
+A/chicken/Nigeria/1071-7/2007 EMA2 Sokoto Jan 10
+A/chicken/Nigeria/1071-9/2007 EMA1/EMA2-2:6-R07 Bauchi Jan 12
+A/chicken/Nigeria/1071-10/2007 EMA1/EMA2-2:6-R07 Anambra Jan 13
+A/chicken/Nigeria/1071-15/2007 EMA1/EMA2-2:6-R07 Kaduna Jan 23
+A/chicken/Nigeria/1071-22/2007 EMA1/EMA2-2:6-R07 Kano Jan 31
+A/duck/Nigeria/1071-23/2007 EMA1/EMA2-2:6-R07 Borno Feb 1
+A/chicken/Nigeria/1071-29/2007 EMA1/EMA2-2:6-R07 Lagos Feb 9
+A/chicken/Nigeria/1071-30/2007 EMA1/EMA2-2:6-R07 Kaduna Feb 10
+Figure 1. Phylogenetic tree for the hemagglutinin gene of influenza
+viruses constructed by neighbor-joining method. Sequences
+obtained in this study were labeled with a circle (EMA1/EMA2-2:6-
+R07 group) and triangle (EMA2 group). The remaining sequences
+can be found in GenBank. The numbers at each branch point
+represent bootstrap values, and they were determined by bootstrap
+analysis by using 1,000 replications. Scale bar = 0.01 nucleotide
+substitutions/site.
+Figure 2. Phylogenetic tree for nucleoprotein gene of influenza
+viruses constructed by neighbor-joining method. Sequences
+obtained in this study were labeled with a circle (EMA1/EMA2-2:6-
+R07 group) and triangle (EMA2 group). The remaining sequences
+can be found in GenBank. The numbers at each branch point
+represent bootstrap values, and they were determined by bootstrap
+analysis by using 1,000 replications. Scale bar = 0.01 nucleotide
+substitutions/site.
+Reassortant Influenza (H5N1) in Poultry, Nigeria
+new genetic characteristics has emerged in <7 months and
+is widespread in Nigeria.
+The emergence of at least 2 reassortant viruses in
+Nigeria shows that co-infection with viruses of different
+sublineages has occurred presumably in poultry. This evi-
+dence is most likely a result of poor biosecurity measures
+implemented by the poultry industry, particularly the live-
+bird market system, which is known to facilitate mingling
+of infected birds. In nonindustrialized countries, live bird
+market systems sometimes allow birds of different spe-
+cies and of unknown health status to share limited space,
+often the same cage. Birds in the incubation stage or
+breeds that show a reduced clinical susceptibility may not
+appear overtly ill and therefore, may be traded in live bird
+market systems. The movement of infected birds across
+neighboring regions could explain the genetic relatedness
+found between influenza virus (H5N1) isolates obtained
+from 7 Nigerian states. The predominance of a reas-
+sortant virus in Nigeria mimicks the previously reported
+predominance of the Z genotype virus in Asia, although
+this genotype is believed to contain internal genes origi-
+nating from noninfluenza viruses (13). The introduction
+of influenza virus (H5N1) of different clusters in 2005 in
+Vietnam, also resulted in the emergence of a reassortant
+strain. Unlike the Nigerian situation described here, the
+Vietnamese reassortant influenza virus (H5N1) did not
+become predominate in Vietnam (2).
+Currently, the genetic characteristics of the human Ni-
+gerian isolate are unavailable. Given that human infection
+occurs after direct contact with infected poultry, studies
+need to be performed to establish whether the predominant
+avian influenza virus (EMA1/EMA2-2:6-R07) has also
+been responsible for human infection. Amino acid muta-
+tions towards increased binding to human receptors, name-
+ly N182K, Q192R, Q226L, and G228S substitutions in the
+HA gene (14,15), do not seem to have occurred in Nigerian
+influenza (H5N1) strains to date. However, 2 molecular
+changes, the 33 NP valine to isoleucine substitution, which
+is typical of human influenza viruses (11), and the 627 PB2
+glutamic acid to lysine mutation, which increases virulence
+in the mammalian host, have been detected in all analyzed
+strains (10).
+The results of our study suggest that depopulation and
+biosecurity measures adopted in Nigeria are not sufficient
+to prevent the spread of the virus and should be improved.
+Poultry farmers and smallholder poultry producers (those
+producing a limited number of poultry) must be educated
+on appropriate control measures for avian influenza. In ad-
+dition, isolation and genetic characterization of African in-
+fluenza virus (H5N1) isolates in a transparent environment,
+should be promoted and supported so that more information
+can be gathered on the evolution of this virus in Africa.
+Acknowledgments
+We thank FAO/Animal Health Service of the Animal Pro-
+duction and Health Division of FAO for supporting sequence
+analysis of strains and facilitating samples submission and Katha-
+rine Sturm-Ramirez for her assistance.
+This study was possible through contacts established in the
+framework of the Technical Cooperation Projects funded by the
+Food and Agriculture Organization of the United Nations (FAO).
+The work was also funded and supported by the EU Projects:
+Generation of information and tools to support the management
+of the avian influenza crisis in poultry (FLUAID) and Training
+and technology transfer of avian influenza diagnostics and disease
+management skills (FLUTRAIN).
+Dr Monne is a specialist in veterinary public health and food
+safety of animal products. She is currently working at the Labo-
+ratory of Molecular Biology, which is included in the National
+and World Organization for Animal Health (OIE)/FAO Reference
+Laboratory for Newcastle disease and avian influenza. Her main
+fields of research are the development and application of rapid
+and novel diagnostic methods for infectious diseases of animals
+Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 14, No. 4, April 2008 639
+Table 2. Clustering of the gene segments of influenza strains in poultry, Nigeria, 2007*
+Virus HA NA NS MA PB2 PB1 PA NP
+A/chicken/Nigeria/641/2006 EMA1 EMA1 EMA1 EMA1 EMA1 EMA1 EMA1 EMA1
+A/chicken/Nigeria/1047-62/2006 EMA1 EMA2 EMA1 EMA2 EMA2 EMA1 EMA2 EMA1
+A/chicken/1071-1/Nigeria/2007
+A/chicken/1071-4/Nigeria/2007
+A/chicken/1071-5/Nigeria/2007
+A/chicken/1071-9/Nigeria/2007
+A/chicken/1071-10/Nigeria/2007
+A/chicken/1071-15/Nigeria/2007
+A/chicken/1071-22/Nigeria/2007
+A/duck/1071-23/Nigeria/2007
+A/chicken/1071-29/Nigeria/2007
+A/chicken/1071-30/Nigeria/2007
+EMA1 EMA2 EMA1 EMA2 EMA2 EMA2 EMA2 EMA2
+A/chicken/1071-3/Nigeria/2007
+A/chicken/1071-7/Nigeria/2007
+EMA2 EMA2 EMA2 EMA2 EMA2 EMA2 EMA2 EMA2
+*HA, hemagglutinin; NA, neuraminidase; NS, nonstructural; MA; matrix; PB2; polymerase B2; NP, nucleoprotein.
+These strains were analyzed in a previous study (2).
+and molecular epidemiology of avian viruses, particularly avian
+influenza viruses with human health implications.
+References
+1. Salzberg SL, Kingsford C, Cattoli G, Spiro DJ, Janies DA, Aly MM,
+et al. Genome analysis linking recent European and African influ-
+enza (H5N1) viruses. Emerg Infect Dis. 2007;13:713­8.
+2. Ducatez MF, Olinger CM, Owoade AA, Tarnagda Z, Tahita MC,
+Sow A, et al. Molecular and antigenic evolution and geographical
+spread of H5N1 highly pathogenic avian influenza viruses in west-
+ern Africa. J Gen Virol. 2007;88:2297­306.
+3. European Commission. Council Directive 2005 94/ECC. Commu-
+nity measures for the control of avian influenza and repealing direc-
+tive 92/40/EEC. Official Journal of the European Union. 2005;L010
+[cited 2005 Dec 20]. Available from http://eur-lex.europa.eu/en/dos-
+sier/dossier_04.htm
+4. Alexander DJ, Spackman D. Characterization of influenza A viruses
+isolated from turkeys in England during March­May 1979. Avian
+Pathol. 1981;10:281­93.
+5. Kumar S, Tamura K, Nei M. MEGA3: Integrated software for mo-
+lecular evolutionary analysis and sequence alignment. Brief Bioin-
+form. 2004;5:150­63.
+6. Perdue ML, Donis R, Smith GJD, Mackenzie JS, Kawaoka Y, Brown
+IH, et al. Towards a unified nomenclature system for the highly
+pathogenic H5N1 avian influenza viruses. Abstract of the confer-
+ence option for the control of influenza VI; International Society for
+Influenza and other Respiratory Diseases, Toronto, Canada; 2007
+June 17­23.
+7. Chare ER, Gould EA, Holmes EC. Phylogenetic analysis reveals a
+low rate of homologous recombination in negative sense RNA virus.
+J Gen Virol. 2003;84:2691­703.
+8. Matrosovich MN, Gambaryan AS, Teneberg S, Piskarev VE, Yam-
+nikova SS, Lvov DK, et al. Avian influenza A viruses differ from
+human viruses by recognition of sialyloligosaccharides and ganglio-
+sides and by a higher conservation of the HA receptor-binding site.
+Virology. 1997;233:224­34.
+9. Hurt AC, Selleck P, Komadina N, Shaw R, Brown L, Barr IG. Sus-
+ceptibility of highly pathogenic A (H5N1) avian influenza viruses
+to the neuraminidase inhibitors and adamantanes. Antiviral Res.
+2007;73:228­31.
+10. Subbarao EK, London W, Murphy BR. A single amino acid in the
+PB2 gene of influenza A virus is a determinant of host range. J Virol.
+1993;67:1761­4.
+11. Chen GW, Chang SC, Mok CK, Lo YL, Kung YN, Huang JH, et
+al. Genomic signatures of human versus avian influenza A viruses.
+Emerg Infect Dis. 2006;12:1353­60.
+12. Finkelstein DB, Mukatira S, Mehta PK, Obenauer JC, Su X, Webster
+RG, et al. Persistent host markers in pandemic and H5N1 influenza
+viruses. J Virol. 2007;81:10292­9.
+13. Li KS, Guan Y, Wang J, Smith GJ, Xu KM, Duan L, et al. Genesis of
+a highly pathogenic and potentially pandemic H5N1 influenza virus
+in eastern Asia. Nature. 2004;430:209­13.
+14. Yamada S, Suzuki Y, Suzuki T, Le MQ, Nidom CA, Sakai-Taga-
+wa Y, et al. Haemagglutinin mutations responsible for the bind-
+ing of H5N1 influenza A viruses to human-type receptors. Nature.
+2006;444:378­82.
+15. Wan H, Perez DR. Amino acid 226 in the haemagglutinin of H9N2
+influenza viruses determines cell tropism and replication in human
+airway epithelial cells. J Virol. 2007;81:5181­91.
+Address for correspondence: Ilaria Capua, Viale dell'Università 10,
+35020, Legnaro, Padova, Italy; email: icapua@izsvenezie.it
+DISPATCHES
+640 Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 14, No. 4, April 2008
+

@@ -1,0 +1,12 @@
+T40	Location 6840 6851	Netherlands
+#40	AnnotatorNotes T40	<latlng>52.5,5.75</latlng><geoID>2750405</geoID>
+T76	Location 35693 35704	Netherlands
+#76	AnnotatorNotes T76	<latlng>52.5,5.75</latlng><geoID>2750405</geoID>
+T1	Protein 142 145	Kim
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 906 909	USA
+#2	AnnotatorNotes T2	END
+T3	Protein 46885 46901	ACKNOWLEDGEMENTS
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 62609 62613	2007
+#4	AnnotatorNotes T4	END

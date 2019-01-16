@@ -1,0 +1,198 @@
+T3	Protein 1 8	JOURNAL
+#3	AnnotatorNotes T3	BEGIN
+T5	Protein 176 184	Reserved
+#5	AnnotatorNotes T5	END
+T4	Location 265 270	China
+#4	AnnotatorNotes T4	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T1	Protein 286 287	K
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 970 974	2007
+#2	AnnotatorNotes T2	END
+T21	Location 1710 1715	China
+#21	AnnotatorNotes T21	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T22	Location 2673 2679	Africa
+#22	AnnotatorNotes T22	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T26	Location 3221 3226	China
+#26	AnnotatorNotes T26	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T27	Location 3342 3353	Middle East
+#27	AnnotatorNotes T27	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T28	Location 3358 3365	Germany
+#28	AnnotatorNotes T28	<latlng>9,51</latlng><geoID>2921044</geoID>
+T29	Location 3440 3449	Hong Kong
+#29	AnnotatorNotes T29	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID>
+T30	Location 3540 3551	South Korea
+#30	AnnotatorNotes T30	<latlng>127.5,37</latlng><geoID>1835841</geoID>
+T31	Location 3683 3688	China
+#31	AnnotatorNotes T31	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T32	Location 3788 3793	China
+#32	AnnotatorNotes T32	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T33	Location 5169 5174	China
+#33	AnnotatorNotes T33	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T6	Protein 5427 5428	*
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 5794 5799	10389
+#7	AnnotatorNotes T7	END
+T42	Location 6322 6327	China
+#42	AnnotatorNotes T42	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T43	Location 6680 6685	China
+#43	AnnotatorNotes T43	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T44	Location 7134 7143	Hong Kong
+#44	AnnotatorNotes T44	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID>
+T45	Location 7547 7552	China
+#45	AnnotatorNotes T45	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T46	Location 8826 8831	China
+#46	AnnotatorNotes T46	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T47	Location 8886 8891	China
+#47	AnnotatorNotes T47	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T48	Location 9411 9416	China
+#48	AnnotatorNotes T48	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T49	Location 9855 9864	Guangdong
+#49	AnnotatorNotes T49	<latlng>23.0,113.0</latlng><pop>95440000</pop><geoID>1809935</geoID>
+T50	Location 9978 9984	Fujian
+#50	AnnotatorNotes T50	<latlng>26.25,118</latlng><pop>36890000</pop><geoID>1811017</geoID>
+T51	Location 9986 9993	Guangxi
+#51	AnnotatorNotes T51	<latlng>24.0,109.0</latlng><pop>48160000</pop><geoID>1809867</geoID>
+T52	Location 9995 10002	Guizhou
+#52	AnnotatorNotes T52	<latlng>27.0,107.0</latlng><pop>37930000</pop><geoID>1809445</geoID>
+T53	Location 10004 10009	Hunan
+#53	AnnotatorNotes T53	<latlng>28.0,112.0</latlng><pop>66980000</pop><geoID>1806691</geoID>
+T54	Location 10016 10022	Yunnan
+#54	AnnotatorNotes T54	<latlng>25.0,102.0</latlng><pop>45430000</pop><geoID>1785694</geoID>
+T57	Location 10748 10756	Plymouth
+#57	AnnotatorNotes T57	<latlng>50.37153,-4.14305</latlng><pop>247297</pop><geoID>2640194</geoID>
+T58	Location 10758 10772	United Kingdom
+#58	AnnotatorNotes T58	<latlng>-2,54</latlng><geoID>2635167</geoID>
+T59	Location 12671 12676	China
+#59	AnnotatorNotes T59	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T8	Protein 13702 13707	10390
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 13721 13726	VIROL
+#9	AnnotatorNotes T9	END
+T60	Location 16037 16042	China
+#60	AnnotatorNotes T60	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T61	Location 16126 16132	Fujian
+#61	AnnotatorNotes T61	<latlng>26.25,118</latlng><pop>36890000</pop><geoID>1811017</geoID>
+T62	Location 16134 16143	Guangdong
+#62	AnnotatorNotes T62	<latlng>23.0,113.0</latlng><pop>95440000</pop><geoID>1809935</geoID>
+T63	Location 16145 16152	Guangxi
+#63	AnnotatorNotes T63	<latlng>24.0,109.0</latlng><pop>48160000</pop><geoID>1809867</geoID>
+T64	Location 16154 16161	Guiyang
+#64	AnnotatorNotes T64	<latlng>26.58333,106.71667</latlng><pop>1171633</pop><geoID>1809461</geoID>
+T65	Location 16163 16168	Hunan
+#65	AnnotatorNotes T65	<latlng>28.0,112.0</latlng><pop>66980000</pop><geoID>1806691</geoID>
+T66	Location 16175 16181	Yunnan
+#66	AnnotatorNotes T66	<latlng>25.0,102.0</latlng><pop>45430000</pop><geoID>1785694</geoID>
+T10	Protein 16259 16262	VOL
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 16319 16324	10391
+#11	AnnotatorNotes T11	END
+T68	Location 16755 16760	China
+#68	AnnotatorNotes T68	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T69	Location 19072 19077	China
+#69	AnnotatorNotes T69	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T12	Protein 22169 22174	10392
+#12	AnnotatorNotes T12	BEGIN
+T13	Protein 22188 22193	VIROL
+#13	AnnotatorNotes T13	END
+T70	Location 24202 24207	China
+#70	AnnotatorNotes T70	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T71	Location 24212 24217	Japan
+#71	AnnotatorNotes T71	<latlng>138,36</latlng><geoID>1861060</geoID>
+T92	Protein 27172 27175	VOL
+#92	AnnotatorNotes T92	BEGIN
+T93	Protein 27232 27237	10393
+#93	AnnotatorNotes T93	END
+T73	Location 27929 27934	China
+#73	AnnotatorNotes T73	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T76	Protein 28459 28464	10394
+#76	AnnotatorNotes T76	BEGIN
+T77	Protein 28478 28483	VIROL
+#77	AnnotatorNotes T77	END
+T75	Location 30138 30142	Asia
+#75	AnnotatorNotes T75	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T79	Location 30734 30741	Beijing
+#79	AnnotatorNotes T79	<latlng>39.91691, 116.39706</latlng><pop>14933274</pop><geoID>2038349</geoID>
+T80	Location 30771 30777	Fujian
+#80	AnnotatorNotes T80	<latlng>26.25,118</latlng><pop>36890000</pop><geoID>1811017</geoID>
+T81	Location 30783 30792	Guangdong
+#81	AnnotatorNotes T81	<latlng>23.0,113.0</latlng><pop>95440000</pop><geoID>1809935</geoID>
+T82	Location 30815 30822	Guangxi
+#82	AnnotatorNotes T82	<latlng>24.0,109.0</latlng><pop>48160000</pop><geoID>1809867</geoID>
+T83	Location 30828 30837	Hong Kong
+#83	AnnotatorNotes T83	<latlng>22.25,114.1667</latlng><pop>6898686</pop><geoID>1819730</geoID>
+T84	Location 30844 30856	Heilongjiang
+#84	AnnotatorNotes T84	<latlng>48.0,128.0</latlng><pop>38250000</pop><geoID>2036965</geoID>
+T85	Location 30862 30867	Hunan
+#85	AnnotatorNotes T85	<latlng>28.0,112.0</latlng><pop>66980000</pop><geoID>1806691</geoID>
+T86	Location 30874 30882	Nanchang
+#86	AnnotatorNotes T86	<latlng>28.93155,115.9747</latlng><pop>0</pop><geoID>1800160</geoID>
+T87	Location 30945 30953	Shandong
+#87	AnnotatorNotes T87	<latlng>36.0,119.0</latlng><pop>94170000</pop><geoID>1796328</geoID>
+T88	Location 30959 30967	Shanghai
+#88	AnnotatorNotes T88	<latlng>31.23333,121.46667</latlng><pop>18880000</pop><geoID>1796231</geoID>
+T89	Location 30973 30980	Shantou
+#89	AnnotatorNotes T89	<latlng>NA</latlng><pop>0</pop><geoID>NA</geoID>
+T90	Location 31015 31021	Yunnan
+#90	AnnotatorNotes T90	<latlng>25, 101.5</latlng><pop>45430000</pop><geoID>1785694</geoID>
+T56	Protein 31057 31060	VOL
+#56	AnnotatorNotes T56	BEGIN
+T67	Protein 31117 31122	10395
+#67	AnnotatorNotes T67	END
+T91	Location 31276 31280	Asia
+#91	AnnotatorNotes T91	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T72	Protein 32010 32015	10396
+#72	AnnotatorNotes T72	BEGIN
+T74	Protein 32029 32034	VIROL
+#74	AnnotatorNotes T74	END
+T95	Location 34846 34851	China
+#95	AnnotatorNotes T95	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T17	Protein 37362 37365	VOL
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 37422 37427	10397
+#18	AnnotatorNotes T18	END
+T19	Location 38002 38007	China
+#19	AnnotatorNotes T19	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T55	Location 38197 38202	China
+#55	AnnotatorNotes T55	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T41	Location 38670 38675	China
+#41	AnnotatorNotes T41	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T39	Protein 39790 39795	10398
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 39809 39814	VIROL
+#40	AnnotatorNotes T40	END
+T227	Location 40521 40526	China
+#227	AnnotatorNotes T227	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T228	Location 41531 41536	China
+#228	AnnotatorNotes T228	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T231	Location 42358 42362	Iran
+#231	AnnotatorNotes T231	<latlng>53,32</latlng><geoID>130758</geoID>
+T36	Location 42364 42370;42371 42377	Saudi Arabia
+#36	AnnotatorNotes T36	<latlng>45,25</latlng><geoID>102358</geoID>
+T234	Location 42379 42399	United Arab Emirates
+#234	AnnotatorNotes T234	<latlng>54,24</latlng><geoID>290557</geoID>
+T235	Location 42405 42412	Germany
+#235	AnnotatorNotes T235	<latlng>9,51</latlng><geoID>2921044</geoID>
+T236	Location 42749 42754	China
+#236	AnnotatorNotes T236	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T239	Location 42883 42888	China
+#239	AnnotatorNotes T239	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T242	Location 43111 43116	China
+#242	AnnotatorNotes T242	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T244	Location 43446 43451	China
+#244	AnnotatorNotes T244	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T15	Protein 44625 44628	VOL
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 44685 44690	10399
+#16	AnnotatorNotes T16	END
+T245	Location 44887 44893	Europe
+#245	AnnotatorNotes T245	<latlng>48.69096,9.14062</latlng><geoID>6255148</geoID>
+T246	Location 44898 44902	Asia
+#246	AnnotatorNotes T246	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T247	Location 45569 45574	China
+#247	AnnotatorNotes T247	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T248	Location 46047 46052	China
+#248	AnnotatorNotes T248	<latlng>35.0,105.0</latlng><geoID>1814991</geoID>
+T14	Protein 47497 47512	ACKNOWLEDGMENTS
+#14	AnnotatorNotes T14	BEGIN
+T38	Protein 55270 55275	10401
+#38	AnnotatorNotes T38	END

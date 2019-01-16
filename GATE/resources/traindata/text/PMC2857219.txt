@@ -1,0 +1,508 @@
+Hemorrhagic
+Fever with Renal
+Syndrome in 4
+US Soldiers,
+South Korea, 2005
+Jin-Won Song, Sung-Sil Moon,1
+Se Hun Gu,
+Ki-Joon Song, Luck Ju Baek, Heung Chul Kim,
+Todd Kijek,2
+Monica L. O’Guinn, John S. Lee,
+Michael J. Turell, and Terry A. Klein
+Four US soldiers acquired hemorrhagic fever with renal
+syndrome while training near the Demilitarized Zone, South
+Korea, in 2005. Hantaan virus sequences were amplified by
+reverse transcription–PCR from patient serum samples and
+from lung tissues of striped field mice (Apodemus agrari-
+us) captured at training sites. Epidemiologic investigations
+specified the ecology of possible sites of patient infection.
+Hantaan virus (HTNV), the etiologic agent for hemor-
+rhagic fever with renal syndrome (HFRS), accounts
+for ≈70% of all HFRS cases in South Korea and is the most
+severe of the 4 rodent-borne hantaviruses (Seoul virus,
+Soochong virus, and Muju virus) found there (1–3). Re-
+cently, a shrew-borne hantavirus, Imjin virus, was isolated
+from Ussuri white toothed shrews (Crocidura lasiura)
+captured near the Imjin River in South Korea (4). The res-
+ervoir host of HTNV, the striped field mouse (Apodemus
+agrarius), is the most abundant field rodent found in South
+Korea. We conducted an epidemiologic investigation for
+rodents at 6 training sites near the Demilitarized Zone after
+4 US soldiers acquired HFRS in 2005, because no evidence
+of rodent activity was found where the soldiers worked or
+resided at their base camp (Camps Hovey and Casey).
+The Study
+On October 27, 2005, a US soldier (patient 1) assigned
+to Camp Hovey, Dongducheon, exhibited signs and symp-
+toms of HFRS (Table 1). The patient was transferred to
+the Brian Allgood Army Community Hospital (BAACH),
+Yongsan Army Garrison, Seoul, South Korea, and on Oc-
+tober 28, 2005, was confirmed to be seropositive for han-
+tavirus infection by ELISA. A medical advisor initially
+suspected that the patient may have acquired the infection
+while sweeping out a dusty storage area at Camp Hovey,
+where he resided, ≈3 days before the onset of symptoms. A
+survey of the suspected storage room did not uncover any
+signs of rodent activity. These data along with the known
+incubation period of hantaviruses (4–>50 days) prompted a
+further search for the actual site of transmission.
+A blood sample from patient 1, tested by both the in-
+direct immunofluorescent antibody (IFA) technique and
+reverse transcription–PCR (RT-PCR), confirmed that the
+patient was infected with HTNV. An epidemiologic sur-
+vey was conducted, and results showed that the patient had
+trained at 4 US- and South Korea–operated training sites
+from 26 to 35 days before the onset of symptoms. The pa-
+tient had first trained at local training area (LTA) 320, then
+at LTA 36/37, and finally at firing point (FP)-60 (Figure 1).
+The training consisted of setting up firing positions, estab-
+lishing a cantonment site, and performing other training ac-
+tivities for 5 days before moving on to FP-60, where troops
+conducted firing exercises from September 25–29, 2005,
+before returning to Camp Hovey.
+On November 8–9, 2005, two soldiers (patients 2 and
+3) from Camp Casey, Dongducheon, had signs and symp-
+toms of HFRS and so were sent to the BAACH where they
+received a diagnosis of HFRS (Table 1). Patient 4 from the
+same unit sought treatment at the Camp Casey Troop Medi-
+cal Clinic on November 13 with low-grade fever, decreased
+appetite, abdominal pain, chills, low back pain, nausea, and
+vomiting, and was provided fluids and assigned to quar-
+ters (home bed rest). On November 14, laboratory results
+indicated a nonspecific proteinuria characteristic of HFRS
+infections, and the patient was transported to the BAACH,
+where HFRS was diagnosed. Blood samples from all 3 pa-
+tients were positive for HTNV by IFA and RT-PCR. All 3
+patients had trained at Twin Bridges Training Area (TBTA)
+with potential incubation periods that ranged from 16 to 35
+days, and 2 (patients 2 and 4) had trained together at Ro-
+driguez and Watkins Ranges 3 days before conducting a
+tactical move to TBTA (Table 1; Figure 1). Patients 2 and
+4 conducted training at TBTA-North (N) and TBTA-South
+(S), and patient 3 only conducted training at TBTA-N.
+Small mammal trapping was conducted at US and
+South Korea–operated training sites where the HFRS pa-
+tients had previously trained within 60 days. Preseasonal
+(September) A. agrarius mice trapping rates were relative-
+ly low at both FP-60 (11.4%) and Rodriguez Range (7.6%),
+and although postseasonal trapping rates were high at FP-60
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 15, No. 11, November 2009 1833
+1
+Current affiliation: Centers for Disease Control and Prevention,
+Atlanta, Georgia, USA.
+2
+Current affiliation: University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina, USA.
+Author affiliations: Korea University, Seoul, South Korea (J.-W.
+Song, S.-S. Moon, S.H. Gu, K.-J. Song, L.J. Baek); 65th Medical
+Brigade, Seoul (H.C. Kim, T. Kijek, T.A. Klein); and US Army Medi-
+cal Research Institute of Infectious Diseases, Fort Detrick, Mary-
+land, USA (M.L. O’Guinn, J.S. Lee, M.J. Turrell)
+DOI: 10.3201/eid1511.090076
+(42.3%), they remained relatively low at Rodriguez Range
+(15.7%) (Table 2). During the fall, hantavirus seropositive
+rates were high at FP-60 (20.0%) and Rodriguez Range
+(31.3%). During the winter, seropositive rates increased at
+FP-60 (25.8%), but decreased at Rodriguez Range (12.1%).
+During the winter, seropositive rates at TBTA-N (26.3%)
+and TBTA-S (37.8%) were high, but were relatively low at
+other training sites (LTA320/36/37) surveyed.
+Blood samples from each of the 4 patients and lung
+tissues of seropositive rodents were assayed by RT-
+PCR. RNA extracted by using RNA-Bee isolation kit
+(TEL-TEST Inc., Friendswood, TX, USA) was reverse
+transcribed by using the superscript II RNase H-reverse
+transcriptase kit (GIBCO-BRL, Gaithersburg, MD, USA).
+Primers (outer primer set, 5′-TGGGCTGCAAGTGC-3′,
+5′-ACATGC TGTACAGCCTGTGCC-3′; inner primer
+set, 5′-TGGGCTGCAAGTGCATCAGAG-3′, 5′-AT
+GGATTACAACCCCAGCTCG-3′) amplified a 373-nt re-
+gion of the hantavirus G2-encoding medium (M) segment
+(1,5,6). Amplified products were fractionated according
+to size by electrophoresis on 1.5% agarose gels contain-
+ing ethidium bromide (0.5 mg/mL). DNA sequencing was
+performed in both directions, by using the dye primer
+cycle sequencing ready reaction kit (Applied Biosystems,
+Foster City, CA, USA) on an automated sequencer (Mod-
+el 3730XL; Applied Biosystems).
+Phylogenetic analysis, both neighbor-joining and
+maximum-parsimony methods, based on the 320-nt re-
+gion of the G2 glycoprotein–encoding M segment of the
+4 HFRS patients, and HTNV sequences amplified from
+the A. agrarius mice captured at FP-10, FP-60, TBTA-N,
+and TBTA-S demonstrated that the HTNV sequence am-
+plified from patient 1 was identical to sequences from A.
+agrarius HTNV strain (04–1325) at FP-60. The analyses
+also demonstrated that the HTNV sequences from patients
+2 and 4 were identical to A. agrarius HTNV sequence
+(05–1437) at TBTA-S, and the HTNV sequence from pa-
+tient 3 was identical to A. agrarius HTNV sequences (07–
+196 and 05–1465) at TBTA-N. These data demonstrate
+the most likely site of infection for the 4 HFRS patients
+(Figure 2).
+Conclusions
+The relationships between rodent density, the propor-
+tion of hantavirus-seropositive rodents, and incidence of
+human infection are complex and poorly understood (7,8).
+Previous literature indicates that a prevalence of hantavi-
+rus seropositivity >20% among A. agrarius mice greatly
+increased the risk for transmission (9–11). Although moni-
+toring rodent populations may provide some warning, the
+most effective means of controlling hantavirus infections is
+DISPATCHES
+1834 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 15, No. 11, November 2009
+Table 1. History of patients who acquired hantavirus infections while training near the Demilitarized Zone, South Korea, during 2005*†
+Patient
+no. Onset‡
+TMC
+report
+Date of
+diagnosis§
+Date
+confirmed¶
+Ribavirin
+therapy
+Date
+discharged
+Training
+dates (all
+locations)
+Incubation
+period, d
+Training
+dates
+(infection
+source)
+Estimated
+incubation
+period, d
+1 Oct 25 Oct 27 Oct 28 Nov 1 Oct 30 Nov 5 Sep 20–29 26–35 Sep 25–29
+(FP-60)
+26–30
+2 Nov 3 Nov 8 Nov 9 Nov 12 Nov 9 Dec 8 Oct 8–21 13–26 Oct 8–18
+(TBTA-S)
+16–26
+3 Nov 5 Nov 9 Nov 12 Nov 16 Nov 13 Nov 20 Oct 8–15 21–28 Oct 8–15
+(TBNA-N)
+21–28
+4 Nov 12 1st, Nov
+13; 2nd,
+Nov 14
+Nov 15 Nov 17 No Nov 20 Oct 8–21 22–35 Oct 8–18
+(TBTA-S)
+25–35
+*TMC, Troop Medical Clinic; HFRS, hemorrhagic fever renal syndrome; FP, firing point; TBTA, Twin Bridges Training Area; S, south; N, north.
+†HFRS type was Hantaan virus for all infections. Patients 1 and 3 were hospitalized for 8 days, patient 4 for 5 days, and patient 2 for 29 days. Patient 2
+was sent to Samsung Hospital for dialysis during part of his hospitalization at Brian Allgood Army Community Hospital (BAACH). US Army Medical
+Department–Korea does not have dialysis capability.
+‡Onset of symptoms.
+§Diagnosis by ELISA at BAACH.
+¶Confirmation of hantavirus type by reverse transcription–PCR, Korea University.
+LTA 320
+Paju-si Chuncheon-si
+Cheorwon-gun
+Pocheon-gun
+Hwacheon-gun
+Gapyeong-gun
+Yangpyeong-gun
+Yeoncheon-gun
+Namyangju-si
+Gwangju-gun
+Gimpo-si
+-gu
+Dobong-gu
+Gangdong-gu
+Bucheon-si
+Yeonsu-gu
+Dongjak-gu
+Yongsan-gu
+N
+E
+W
+S
+DM
+Z Watkins Range
+Rodriguez Range
+Cp Casey/Hovey
+Twin Bridges
+LTA 329
+LTA 36/37
+FP 60
+Figure 1. Location of training sites where hemorrhagic fever with
+renal syndrome (HFRS) patients 1–4 conducted training exercises
+50 days before the onset of illness. Rodent surveillance was
+not conducted at Watkins Range due to limited exposure. DMZ,
+Demilitarized Zone; LTA, local training area; solid circles, military
+training sites of patient 1; solid squares, military training sites of
+patients 2, 3, 4; star, base camp.
+HFRS in US Soldiers, South Korea
+limiting human contact with rodents and the inhalation of
+dust with virus-laden rodent excreta (12).
+The large patches of tall dense grasses narrowly sepa-
+rated by barren ground where artillery firing is conducted
+at FP-60 provide harborage for A. agrarius mice and, dur-
+ing the winter trapping period, yielded ≈20% capture rates
+(10). Eliminating these large grassy islands, and thus the
+rodents that inhabit these areas, and cutting the tall grasses
+and scrub vegetation to <10 cm along the training site pe-
+rimeter would decrease hantavirus infection risks by re-
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 15, No. 11, November 2009 1835
+Table 2. Results of rodent-borne disease surveillance at FP 60 and LTAs 36, 37, and 320, Rodriguez Range and Twin Bridges
+Training Area (South and North Bowls), Gyeonggi Province, South Korea, 2005*
+Spring Summer Fall Winter
+Location
+Trapping
+rate† (%)
+Seropositive
+rate (%)
+Trapping
+rate (%)
+Seropositive
+rate (%)
+Trapping
+rate (%)
+Seropositive
+rate (%)
+Trapping
+rate (%)
+Seropositive
+rate (%)
+FP 60 21/220
+(9.5)
+2/21
+(9.5)
+89/220
+(40.5)
+12/89
+(13.5)
+25/220
+(11.4)
+5/25
+(20.0)
+93/220
+(42.3)
+24/93
+(25.8)
+LTA 36/37 ND ND ND ND ND ND 23/90
+(25.6)
+0/23
+(0)
+LTA 320 ND ND ND ND ND ND 26/90
+(28.9)
+2/26
+(7.7)
+Rodriguez 38/180
+(21.1)
+3/38
+(7.9)
+29/210
+(13.8)
+7/29
+(24.1)
+16/210
+(7.6)
+5/16
+(31.3)
+33/210
+(15.7)
+4/33
+(12.1)
+TBTA-N ND ND ND ND ND ND 19/180
+(10.6)
+5/19
+(26.3)
+TBTA-S ND ND ND ND ND ND 45/180
+(25.0)
+17/45
+(37.8)
+*FP, firing point; LTAs, local training area; ND, not determined; TBTA, Twin Bridges Training Area; N, north; S, south.
+†Trapping rate, total number of rodents trapped/number of traps.
+Aa04-182FP60
+Aa04-618FP60
+Aa04-1293FP60
+Aa04-1332FP60
+Aa04-1325FP60
+USFK Patient#1
+Aa 04-1282FP60
+Aa05-1459TB-N
+Aa06-176TB-S
+Aa06-184TB-S
+Aa05-1410TB-S
+Aa05-1411TB-S
+Aa06-126TB-S
+Aa06-203TB-S
+Aa06-211TB-S
+Aa06-228TB-S
+Aa06-248TB-S
+Aa06-405TB-S
+Aa06-70TB-S
+Aa07-258TB-S
+Aa07-266TB-S
+Aa07-335TB-S
+Aa05-1437TB-S
+USFK Patient#2
+USFK Patient#4
+Aa06-119TB-S
+Aa06-172TB-S
+Aa06-139TB-S
+Aa05-1465TB-N
+YJ89-13
+USFK Patient#3
+Aa07-153TB-N
+Aa07-169TB-N
+Aa07-180TB-N
+Aa07-183TB-N
+Aa07-209TB-N
+Aa07-241TB-N
+Aa07-44TB-N
+Aa07-196TB-N
+Aa07-2TB-N
+Aa07-206TB-N
+Aa07-21TB-N
+Aa07-223TB-N
+Aa07-280TB-N
+Aa07-284TB-N
+Aa07-288TB-N
+Aa07-306TB-N
+Aa07-318TB-N
+Aa05-1438TB-S
+Aa05-1458TB-N
+Aa06-106TB-S
+Aa06-12TB-S
+Aa06-292TB-S
+Aa06-414TB-N
+Aa06-420TB-N
+Aa06-429TB-N
+Aa06-57TB-S
+Aa06-79TB-S
+Aa05-1439TB-S
+Aa04-1257FP10
+Aa01-425FP10
+Aa01-431FP10
+Aa01-542FP10
+Aa02-185FP10
+HC97-91
+YC98-44
+HoJo1991
+JH96-25
+LEE1991
+HTN76-118
+Bao14/China
+0.5
+FP60
+TBTA-S
+TBTA-N
+FP10
+55
+60
+62
+87
+57
+66
+Figure 2. Phylogenetic tree by maximum parsimony method,
+rooted at the midpoint, based on the 320-bp region of G2
+glycoprotein–encoding medium segment of 4 hemorrhagic fever
+with renal syndrome patients who were US soldiers in South
+Korea (patients 1–4), 2005 (GenBank accession nos. FJ561275–
+FJ561278) and field mice (Apodemus spp.)–borne Hantaan
+viruses (HTNV). HTNV sequence amplified from patient 1 was
+identical with a HTNV sequence (Aa04–1325) from A. agrarius
+mice captured at firing point (FP) 60. HTNV sequences from
+patients 2 and 4 were the same as 3 HTNV sequences (Aa05–
+1437, Aa06–119, Aa06–171) from A. agrarius mice captured
+at Twin Bridge Training Area–South (TBTA-S), and the HTNV
+sequence from patient 3 was identical to 11 HTNV sequences
+(Aa05–1465, Aa07–2, Aa07–21, Aa07–196, Aa07–206, Aa07–
+223, Aa07–280, Aa07–284, Aa07–288, Aa07–306 and Aa07–
+318) from A. agrarius mice at Twin Bridge Training Area-North
+(TBTA-N). Branch lengths are proportional to the number of
+nucleotide substitutions, while vertical distances are for clarity
+only. The numbers at each node are bootstrap probabilities
+(expressed as percentages), as determined for 100 iterations by
+using PAUP version 4.0b (http://paup.csit.fsu.poly). The colors
+indicate patients and corresponding training sites.
+ducing the rodent populations. Efforts to mitigate disease
+risks through modernization of training sites, cutting of
+vegetation that increases predation of small mammals, and
+habitat reduction within 50 m of military operations, where
+possible, are being instituted at selected US-operated train-
+ing sites as a result of consolidation and modernization of
+large, multipurpose range complexes.
+Previously, phylogenetic analysis of a 324-nt region
+of the G2 glycoprotein-encoding M genomic segment has
+been shown to be representative of the entire M segment
+(6). This region may be useful for classifying newly iden-
+tified hantaviruses (when cross-neutralization data are un-
+available) or for further analysis of molecular phylogeny
+of hantaviruses spatially. The genome of HTNV sequences
+obtained from patient 1 was identical to a viral sequence
+from an A. agrarius field mouse captured at FP-60 and
+those from patients 2 and 4 were identical to 3 viral se-
+quences from A. agrarius at TBTA-South, and patient 3
+was identical to 11 viral sequences from A. agrarius field
+mice at TBTA-North. These data showed the epidemiolog-
+ic link between US soldier patients and rodent hosts at the
+training sites near the Demilitarized Zone in South Korea.
+Acknowledgments
+We thank Brian Allgood (deceased), Martha Sanders, and
+Hee-Choon Lee for their support in pursuing the epidemiologic
+investigations leading to identification of sites of HFRS transmis-
+sion. We thank Suk Hee Yi for analysis of data and GIS mapping.
+We also thank Jiun Yoon, Amy Nguyen, Min Ro, and Rex Ber-
+gren for their support.
+Funding for portions of this work was provided by the Armed
+Forces Health Surveillance Center, Global Emerging Infections
+Surveillance and Response System, Silver Spring, Maryland,
+USA, and the National Center for Medical Intelligence Center,
+Fort Detrick, Maryland, USA.
+Dr Jin-Won Song is a professor of microbiology at Korea
+University. He has had a long-term interest in the global epizooti-
+ology and epidemiology of hantaviruses.
+References
+1. Song J-W, Baek LJ, Kim SH, Kho EY, Kim JH, Yanagihara R,
+et al. Genetic diversity of Apodemus agrarius-borne Hantaan
+virus in Korea. Virus Genes. 2000;21:227–32. DOI: 10.1023/
+A:1008199800011
+2. Baek LJ, Kariwa H, Lokugamage K, Yoshimatsu K, Arikawa J,
+Takashima I, et al. Soochong virus: an antigenically and genetically
+distinct hantavirus isolated from Apodemus peninsulae in Korea. J
+Med Virol. 2006;78:290–7. DOI: 10.1002/jmv.20538
+3. Song K-J, Baek LJ, Moon S, Ha SJ, Kim SH, Park KS, et al. Muju
+virus, a novel hantavirus harboured by the arvicolid rodent Myo-
+des regulus in Korea. J Gen Virol. 2007;88:3121–9. DOI: 10.1099/
+vir.0.83139-0
+4. Song J-W, Kang HJ, Gu SH, Moon SS, Bennett SN, Song KJ, et
+al. Characterization of Imjin virus, a newly isolated hantavirus
+from the Ussuri white-toothed shrew (Crocidura lasiura). J Virol.
+2009;83:6184–91. DOI: 10.1128/JVI.00371-09
+5. Xiao SY, Chu YK, Knauert FK, Lofts R, Dalrymple JM, LeDuc JW.
+Comparison of hantavirus isolates using a genus-reactive primer
+pair polymerase chain reaction. J Gen Virol. 1992;73:567–73. DOI:
+10.1099/0022-1317-73-3-567
+6. Xiao SY, LeDuc JW, Chu YK, Schmaljohn CS. Phylogenetic analy-
+ses of virus isolates in the genus Hantavirus, family Bunyaviridae.
+Virology. 1994;198:205–17. DOI: 10.1006/viro.1994.1023
+7. Niklasson B, Hornfeldt B, Lundkvist A, Bjorsten S, LeDuc J. Tem-
+poral dynamics of Puumala virus antibody prevalence in voles and
+of nephropathia epidemica incidence in humans. Am J Trop Med
+Hyg. 1995;53:134–40.
+8. Olsson GE, Dalerum F, Hornfeldt B, Elgh F, Palo TR, Juto P, et
+al. Human hantavirus infections, Sweden. Emerg Infect Dis.
+2003;9:1395–401.
+9. Hong HK, Lee UY. Studies on the biology of Apodemus agrarius in
+Korea.Annual Report Collection of Incheon University. 1984;6:417–
+39.
+10. O’Guinn ML, Klein TA, Lee JS, Kim HC, Baek LJ, Chong ST, et al.
+Ecological surveillance of small mammals at firing points 10 and 60,
+Gyeonggi Province, Republic of Korea, 2001–2005. J Vector Ecol.
+2008;33:370–84. DOI: 10.3376/1081-1710-33.2.370
+11. Lee HW, Baek LJ, Doo CD. The study on breeding season of Apo-
+demus agrarius, the natural host of Korean hemorrhagic fever [in
+Korean]. J. Korean Soc Virol. 1981;11:1–5.
+12. McCaughey C, Hart CA. Hantaviruses. J Med Microbiol.
+2000;49:587–99.
+Address for correspondence: Jin-Won Song, Department of Microbiology,
+College of Medicine, Korea University, 126-1, 5Ka, Anam-Dong,
+Sungbuk-Gu, Seoul 136-705, South Korea; email: jwsong@korea.ac.kr
+DISPATCHES
+1836 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 15, No. 11, November 2009

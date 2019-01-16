@@ -1,0 +1,304 @@
+﻿Influenza A
+Pandemic (H1N1)
+2009 Virus Infection
+in Domestic Cat
+Brett A. Sponseller, Erin Strait, Albert Jergens,
+Jessie Trujillo, Karen Harmon, Leo Koster,
+Melinda Jenkins-Moore, Mary Killian,
+Sabrina Swenson, Holly Bender, Ken Waller,
+Kristina Miles, Tracy Pearce, Kyoung-Jin Yoon,
+and Peter Nara
+Influenza A pandemic (H1N1) 2009 virus continues to
+rapidly spread worldwide. In 2009, pandemic (H1N1) 2009
+infection in a domestic cat from Iowa was diagnosed by a
+novel PCR assay that distinguishes between Eurasian and
+North American pandemic (H1N1) 2009 virus matrix genes.
+Human-to-cat transmission is presumed.
+Influenza viruses are typically host specific; aquatic
+birds are considered the primary reservoir. However, in-
+terspecies transmission does occur (1­9) and occasionally
+leads to novel host-adapted strains. Interspecies transmis-
+sion of influenza virus has been a public health concern
+because of the possibility that, through reassortment, a
+novel strain with zoonotic potential could emerge. The re-
+cent infection of dogs with equine influenza virus (H3N8)
+(2) and of swine with human influenza virus (H1N2) (4)
+are particularly intriguing because the former resulted in
+influenza becoming endemic in dogs and the latter resulted
+in a documented reassortment event between human and
+swine influenza viruses. Such concern has escalated with
+the recent emergence of the novel quadruple-reassorted in-
+fluenza virus (H1N1) [pandemic (H1N1) 2009] in humans
+(10). Although infection and transmission of the virus have
+occurred primarily among humans, occasional transmission
+from infected persons to susceptible animals (e.g., swine,
+turkeys, ferrets) has been documented (11). The likeli-
+hood of pandemic (H1N1) 2009 infection of domestic pets
+has been considered less likely (www.cdc.gov/h1n1flu/
+qa.htm, www.avma.org/public_health/influenza/new_vi-
+rus/default.asp, www.usda.gov/wps/portal/?navid=USDA_
+H1N1); however, we report a confirmed case of pandemic
+(H1N1) 2009 virus infection in a domestic cat that had been
+in contact with persons who had recently experienced influ-
+enza-like illness.
+The Case
+A 13-year-old, castrated male, domestic cat that lived
+indoors in a single-cat household was brought to the Iowa
+State University Lloyd Veterinary Medical Center be-
+cause of depression, inappetance, and respiratory signs of
+4 days' duration. The cat was gregarious and interacted
+closely with family members in the household. The fam-
+ily members noted that the cat was reluctant to lie in lat-
+eral recumbency and instead rested in sternal recumbency
+with neck extended, which was indicative of dyspnea. The
+cat's vaccination status was up to date. Before the onset of
+clinical signs in the cat, 2 of the 3 family members had ex-
+perienced an undiagnosed influenza-like illness--an upper
+respiratory tract infection characterized by fever, coughing,
+and myalgia--that lasted 3 days. Onset of the cat's clinical
+signs was noted 6 and 4 days after onset of illness for the
+first and second family members, respectively.
+At the time of examination, the cat had bilateral ad-
+ventitial lung sounds (wheezes), was afebrile, and was
+clinically dehydrated. Radiographs of the thorax showed
+a bilateral caudodorsal alveolar pattern (Figure). Cytologic
+and microbiologic examination of bronchoalveolar lavage
+(BAL) fluid showed foamy macrophages (65%), nonde-
+generate neutrophils (25%), and small lymphocytes (10%).
+Clinicopathologic findings suggested a moderate, predomi-
+nantly macrophagic, mixed inflammatory process. Stan-
+dard microbial culture of BAL aliquots yielded no substan-
+tial growth of aerobic or anaerobic bacteria. Radiographic
+and cytologic findings were inconsistent with bacterial or
+parasitic pneumonia and not supportive of allergic airway
+disease. A viral cause was considered most likely; how-
+ever, the cat was given amoxicillin with clavulanate (125
+mg orally 2×/day) to reduce the possibility of secondary
+bacterial pneumonia. Notable findings from laboratory test-
+ing (complete blood count, serum biochemistry, urinalysis,
+and total thyroxine measurement) were moderate leuko-
+penia characterized by a moderate lymphopenia, modest
+hemoconcentration, and a slightly elevated thyroxine level.
+Lymphopenia was consistent with acute viral infection.
+PCR testing (Feline URD Panel; Idexx Laboratories,
+Westbrook, ME, USA) of a BAL sample showed negative
+results for Chlamydophila felis, feline calicivirus, feline
+herpesvirus-1, Bordetella bronchiseptica, and Mycoplasma
+felis. Results of feline immunodeficiency virus (antibody)
+and feline leukopenia virus (antigen) testing (Idexx SNAP
+FIV/FeLV Combo Test; Idexx Laboratories) were also
+negative, ruling out the potential that viral-induced immu-
+nosuppression was a concurrent factor. For the following
+reasons we included pandemic (H1N1) 2009 on our list of
+DISPATCHES
+534 Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 16, No. 3, March 2010
+Author affiliations: Iowa State University, Ames, Iowa, USA (B. A.
+Sponseller, E. Strait, A. Jergens, J. Trujillo, K. Harmon, H. Bender,
+K. Waller, K. Miles, T. Pearce, K.-Y. Yoon, P. Nara); and US De-
+partment of Agriculture National Veterinary Services Laboratories,
+Ames (L. Koster, M. Jenkins-Moore, M. Killian, S. Swenson)
+DOI: 10.3201/eid1603.091737
+Pandemic (H1N1) 2009 Virus in Domestic Cat
+differential diagnoses: recent history of respiratory disease
+in household family members, known widespread com-
+munity prevalence of pandemic (H1N1) 2009 influenza
+in humans, paucity of common viral infections causing
+infectious caudodorsal alveolar pneumonia in adult cats,
+and documented susceptibility of felids to avian influenza
+(H5N1) (12,13). We therefore submitted a BAL sample to
+the Iowa State University Veterinary Diagnostic Labora-
+tory for molecular screening and typing for influenza A and
+the pandemic (H1N1) 2009 virus.
+RNA was obtained from the BAL fluid by using the
+MagMAX Viral RNA Isolation Kit (Applied Biosystems,
+Austin, TX, USA) and a semiautomated magnetic par-
+ticle processor (Kingfisher 96; Thermo Electron Corp.,
+Woodstock, GA, USA) according to manufacturer's rec-
+ommendations. Molecular testing used a real-time reverse
+transcription­PCR (rRT-PCR) influenza A screening as-
+say specific for the nucleoprotein gene. Preliminary dif-
+ferentiation of pandemic (H1N1) 2009 virus from other
+H1 or H3 types of influenza A was performed by using an
+in-house rRT-PCR assay that distinguishes between pan-
+demic (H1N1) 2009 [Eurasian matrix (10)] and endemic
+(to North America) swine H1N1 influenza viruses (North
+American matrix). Sequences of primers and probes are
+summarized in Table 1. PCRs were conducted by using
+the AgPath-ID Multiplex One-Step RT-PCR Kit (Am-
+bion/Applied Biosystems) according to manufacturer's
+recommendations; 10 units of Multiscribe Reverse Tran-
+scriptase (Applied Biosystems) were added per reaction.
+Thermocycling was performed by using the Applied Bio-
+systems 7500 Fast Real-Time PCR System according to
+manufacturer's recommendations.
+PCR testing showed the BAL sample to be positive for
+influenza A virus (nucleoprotein gene), and the virus was
+determined to contain the matrix (M) gene of the pandemic
+(H1N1) 2009 virus strain. A BAL sample was submitted to
+the US Department of Agriculture National Veterinary Ser-
+vices Laboratories (Ames, IA, USA) for confirmatory test-
+ing. rRT-PCR confirmed that the BAL sample was positive
+for the M gene of influenza A virus and the neuraminidase
+(N) gene of pandemic (H1N1) 2009 virus. Sequences of
+primers and probes are summarized in Table 2. A cytolytic
+virus was isolated by using MDCK cells (8) and was des-
+ignated as A/feline/IA/NVSL026991/2009. PCR testing
+of the isolate for influenza A virus (M gene) and N1 gene
+of pandemic (H1N1) 2009 showed positive results. Se-
+quence analyses for hemagglutinin (HA), N, and M genes
+confirmed that the virus was pandemic (H1N1) 2009 virus
+(GenBank accession nos. GU332630 (for HA), GU332632
+(for NA), and GU332631 (for M). Nucleotide homologies
+with the first US human pandemic (H1N1) 2009 isolate (A/
+CA/04/2009) were 99.4%, 99.4%, and 99.8% for the HA,
+NA, and M genes, respectively.
+The cat was discharged from the medical center after
+diagnostic testing and correction of dehydration. A veteri-
+narian (B.A.S.) visited the home to monitor the cat's clini-
+cal status and administer subcutaneous fluids (120­160 mL)
+until the cat's appetite improved; adventitial lung sounds
+resolved within 3 days. Reassessment 1 week later showed
+Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 16, No. 3, March 2010 535
+Figure. Radiographs of the thorax of a cat with confirmed influenza
+A pandemic (H1N1) 2009 virus infection. A) Right lateral view; B)
+dorsoventral view.Asymmetric soft tissue opacities are evident in the
+right and left caudal lung lobes. An alveolar pattern, composed of air
+bronchograms with border-effaced (indistinct) adjacent pulmonary
+vessels, is most pronounced in the left caudal lobe. A small gas
+lucency in the pleural space appears in the right caudal and dorsal
+thoracic cavity. An endotracheal tube is visible at the thoracic inlet
+on the lateral view in this moderately obese cat. L, left.
+marked improvement of clinical signs but only modest im-
+provement of the lymphopenia and radiographic findings.
+Conclusions
+Because the cat was from a single-animal house-
+hold and remained indoors, he was presumably infected
+through contact with the family members. Attempts to ret-
+rospectively confirm pandemic (H1N1) 2009 infection in
+the family members have been unsuccessful, but addition-
+al testing of archived biologic samples is being conduct-
+ed. Although more surveillance and studies are needed
+to determine susceptibility of companion animals to the
+pandemic (H1N1) 2009 virus, possible reverse zoonotic
+transmission (humans to animals) remains a concern. In-
+deed, cases in a domestic dog and other felids have been
+confirmed (11) (www.cdc.gov/h1n1flu/qa.htm, www.
+avma.org/public_health/influenza/new_virus/default.asp,
+www.usda.gov/wps/portal/?navid=USDA_H1N1). Impli-
+cations of pandemic (H1N1) 2009 virus infection in com-
+panion animals are 1) apparent human-to-animal trans-
+mission; 2) broader host range for the virus; 3) potential
+endemic establishment of influenza in companion ani-
+mals; 4) possible transmission of influenza from compan-
+ion animals to other species, including humans; and 5) the
+need to reevaluate companion animals as potential reser-
+voirs or intermediate hosts for reassortment of influenza
+virus. This case emphasizes the need for close monitor-
+ing for interspecies transmission of influenza virus and
+reinforces the need for collaboration among many disci-
+plines, a cornerstone of the One Health Initiative (www.
+onehealthinitiative.com).
+Acknowledgments
+We thank the family members in the cat's household for
+their cooperation and Sarah Abate, Wendy Stensland, and Leslie
+Bower for technical assistance.
+This study was supported by the Iowa State University Of-
+fice of the Vice President for Research and Economic Develop-
+ment, the Iowa Healthy Livestock Initiative Research Grant, and
+the Center for Advanced Host Defenses, Immunobiotics and
+Translational Comparative Medicine.
+Dr Sponseller is an assistant professor in the Departments
+of Veterinary Clinical Sciences and Veterinary Microbiology and
+Preventive Medicine, College of Veterinary Medicine, Iowa State
+University. His research focuses on viral pathogens of domestic
+animals and acquisition of pulmonary immunocompetency.
+DISPATCHES
+536 Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 16, No. 3, March 2010
+Table 1. Oligonucleotide sequences for primers and probes and dye labels used in novel molecular testing for pandemic (H1N1) 2009
+virus, Iowa State University Veterinary Diagnostic Laboratory, Ames, Iowa, USA, 2009*
+Name Sequence (5  3) Description
+Influenza A NP screening assay
+SIVRTF CGGACGAAAAGGCAACGA NP forward primer
+SIVRTR CTGCATTGTCTCCGAAGAAATAAG NP reverse primer
+SIVRTP CCGATCGTGCCYTC NP probe, MGB FAM
+Pandemic influenza M differentiation assay
+M_F TCAGGCCCCCTCAAAGC M forward primer
+M_R1 CATTCCATGAGAGCCTCAAGATC M reverse primer 1
+M_R1a CACTCCATGAGAGCCTCAAGATC M reverse primer 2
+M_R1b CATTCCATGAGTGCCTCAAGATC M reverse primer 3
+M_EUPr CAGAGACTGGAAAGTGT EU M MGB, VIC
+M_NAPr CAGAGACTYGAAGAYGT NA M MGB, FAM
+*Primers and MGB probes were obtained from Integrated DNA Technologies (Coralville, IA, USA) and Applied Biosystems Inc. (Foster City, CA, USA),
+respectively. SIV, swine influenza virus; NP, nucleoprotein; M, matrix.
+Table 2. Oligonucleotide sequences for primers and probes and dye labels used in confirmatory molecular testing for pandemic
+(H1N1) 2009 virus, National Veterinary Services Laboratories, Ames, Iowa, USA, 2009*
+Name Sequence (5  3) Description
+Influenza A M screening assay
+M+25 AGATGAGTCTTCTAACCGAGGTCG AI M forward primer
+M-124 TGCAAAAACATCTTCAAGTCTCTG AI M reverse primer
+M-124siv TGCAAAGACACTTTCCAGTCTCTG H1N1 M reverse primer
+M+64 TCAGGCCCCCTCAAAGCCGA M probe, BHQ, FAM
+Pandemic influenza N1 differentiation assay
+N1 220F CAACACCAACTTTGCTGC N1 forward primer
+N1 330R GGAACCGATTCTTACACTGTTGTC N1 reverse primer
+N1 232 CAGTCAGTGGTTTCCGTGAAATTAGC N1 BHQ, FAM
+*Primers and probes were obtained from Integrated DNA Technologies (Coralville, IA, USA) and Biosearch Technologies, Inc. (Novato, CA, USA),
+respectively. M, matrix; AI, avian influenza; N, neuraminidase.
+Pandemic (H1N1) 2009 Virus in Domestic Cat
+References
+1. Choi YK, Lee JH, Erickson G, Goyal SM, Joo HS, Webster RG, et
+al. H3N2 influenza virus transmission from swine to turkeys, United
+States. Emerg Infect Dis. 2004;10:2156­60.
+2. Crawford PC, Dubovi EJ, Castleman WL, Stephenson I, Gibbs EP,
+Chen L, et al. Transmission of equine influenza virus to dogs. Sci-
+ence. 2005;310:482­5. DOI: 10.1126/science.1117950
+3. Gagnon CA, Spearman G, Hamel A, Godson DL, Fortin A, Fontaine
+G, et al. Characterization of a Canadian mink H3N2 influenza A vi-
+rus isolate genetically related to triple reassortant swine influenza
+virus. J Clin Microbiol. 2009;47:796­9. DOI: 10.1128/JCM.01228-
+08
+4. Karasin AI, Carman S, Olsen CW. Identification of human H1N2
+and human­swine reassortant H1N2 and H1N1 influenza A viruses
+among pigs in Ontario, Canada (2003 to 2005). J Clin Microbiol.
+2006;44:1123­6. DOI: 10.1128/JCM.44.3.1123-1126.2006
+5. Patterson AR, Cooper VL, Yoon KJ, Janke BH, Gauger PC. Natu-
+rally occurring influenza virus infection in a ferret (Mustela putorius
+furo) colony. J Vet Diagn Invest. 2009;21:527­30.
+6. Song D, Kang B, Lee C, Jung K, Ha G, Kang D, et al. Transmis-
+sion of avian influenza virus (H3N2) to dogs. Emerg Infect Dis.
+2008;14:741­6. DOI: 10.3201/eid1405.071471
+7. Songserm T, Amonsin A, Jam-on R, Sae-Heng N, Meemak N, Pari-
+yothorn N, et al. Avian influenza H5N1 in naturally infected domes-
+tic cat. Emerg Infect Dis. 2006;12:681­3.
+8. Vincent AL, Swenson SL, Lager KM, Gauger PC, Loiacono C,
+Zhang Y. Characterization of an influenza A virus isolated from pigs
+during an outbreak of respiratory disease in swine and people during
+a county fair in the United States. Vet Microbiol. 2009;137:51­9.
+DOI: 10.1016/j.vetmic.2009.01.003
+9. Zhou NN, Senne DA, Landgraf JS, Swenson SL, Erickson G, Ros-
+sow K, et al. Genetic reassortment of avian, swine, and human influ-
+enza A viruses in American pigs. J Virol. 1999;73:8851­6.
+10. Garten RJ, Davis CT, Russell CA, Shu B, Lindstrom S, Bal-
+ish A, et al. Antigenic and genetic characteristics of swine-origin
+2009 A(H1N1) influenza viruses circulating in humans. Science.
+2009;325:197­201. DOI: 10.1126/science.1176225
+11. United States Department of Agriculture. 2009 Pandemic H1N1
+influenza presumptive and confirmed results [cited 2009 Dec 23].
+http://www.usda.gov/documents/FINAL_RESULTS_2009_PAN-
+DEMIC_H1N1_INFLUENZA_CHT.pdf
+12. Kuiken T, Rimmelzwaan G, van Riel D, van Amerongen G, Baars
+M, Fouchier R, et al. Avian H5N1 influenza in cats. Science.
+2004;306:241. DOI: 10.1126/science.1102287
+13. Rimmelzwaan GF, van Riel D, Baars M, Bestebroer TM, van
+Amerongen G, Fouchier RA, et al. Influenza A virus (H5N1) in-
+fection in cats causes systemic disease with potential novel routes
+of virus spread within and between hosts. [quiz 364]. Am J Pathol.
+2006;168:176­83. DOI: 10.2353/ajpath.2006.050466
+Address for correspondence: Brett A. Sponseller, 2134 College of
+Veterinary Medicine, Iowa State University, 1600 S 16th St, Ames, IA
+50011-1248, USA; email: baspon@iastate.edu
+Emerging Infectious Diseases · www.cdc.gov/eid · Vol. 16, No. 3, March 2010 537
+All material published in Emerging Infectious Diseases is in the
+public domain and may be used and reprinted without special
+permission; proper citation, however, is required.
+

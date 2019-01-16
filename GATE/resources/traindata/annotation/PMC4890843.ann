@@ -1,0 +1,44 @@
+T1	Protein 0 8	Original
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 9 16	Article
+#2	AnnotatorNotes T2	END
+T3	Protein 86 93	Matthew
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 163 170	Buchana
+#4	AnnotatorNotes T4	END
+T5	Protein 1751 1760	Submitted
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2872 2876	2016
+#6	AnnotatorNotes T6	END
+T7	Protein 5047 5050	www
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 5129 5130	.
+#8	AnnotatorNotes T8	END
+T9	Protein 8464 8465	©
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 8598 8605	Paradox
+#10	AnnotatorNotes T10	END
+T11	Protein 12645 12646	©
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 12793 12797	2016
+#12	AnnotatorNotes T12	END
+T15	Protein 15139 15140	©
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 15185 15193	reserved
+#16	AnnotatorNotes T16	END
+T17	Protein 15485 15495	REFERENCES
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 18841 18842	.
+#18	AnnotatorNotes T18	END
+T19	Protein 1244 1247	See
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 1326 1327	)
+#20	AnnotatorNotes T20	END
+T21	Protein 6764 6767	526
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 6781 6784	com
+#22	AnnotatorNotes T22	END
+T13	Protein 13512 13515	528
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 13668 13675	Paradox
+#14	AnnotatorNotes T14	END

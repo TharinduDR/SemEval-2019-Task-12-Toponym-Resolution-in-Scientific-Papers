@@ -1,0 +1,146 @@
+T401	Protein 144 149	Elena
+#401	AnnotatorNotes T401	BEGIN
+T402	Protein 588 593	China
+#402	AnnotatorNotes T402	END
+T4	Protein 2619 2620	©
+#4	AnnotatorNotes T4	BEGIN
+T19	Protein 3946 3955	zanamivir
+#19	AnnotatorNotes T19	END
+T1	Location 4437 4451	Southeast Asia
+#1	AnnotatorNotes T1	<latlng>12.38293,103.00781</latlng><pop>0</pop><geoID>6942346</geoID>
+T20	Location 4457 4468	Middle East
+#20	AnnotatorNotes T20	<latlng>33.13906,35.85869</latlng><pop>0</pop><geoID>6269133</geoID>
+T30	Location 4470 4476	Europe
+#30	AnnotatorNotes T30	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T31	Location 4482 4488	Africa
+#31	AnnotatorNotes T31	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T32	Location 4838 4845	Vietnam
+#32	AnnotatorNotes T32	<latlng>16,106</latlng><geoID>1562822</geoID>
+T33	Location 4850 4858	Cambodia
+#33	AnnotatorNotes T33	<latlng>13,105</latlng><geoID>1831722</geoID>
+T34	Location 4997 5006	Indonesia
+#34	AnnotatorNotes T34	<latlng>-5,120</latlng><geoID>1643084</geoID>
+T35	Location 5034 5039	India
+#35	AnnotatorNotes T35	<latlng>20,77</latlng><geoID>1269750</geoID>
+T36	Location 5044 5054	Bangladesh
+#36	AnnotatorNotes T36	<latlng>24,90</latlng><geoID>1210997</geoID>
+T37	Location 5083 5088	Egypt
+#37	AnnotatorNotes T37	<latlng>27,30</latlng><geoID>357994</geoID>
+T41	Location 5206 5213	Vietnam
+#41	AnnotatorNotes T41	<latlng>16,106</latlng><geoID>1562822</geoID>
+T42	Location 5215 5219	Laos
+#42	AnnotatorNotes T42	<latlng>18,105</latlng><geoID>1655842</geoID>
+T43	Location 5221 5229	Thailand
+#43	AnnotatorNotes T43	<latlng>15,100</latlng><geoID>1605651</geoID>
+T44	Location 5235 5240	China
+#44	AnnotatorNotes T44	<latlng>35,105</latlng><geoID>1814991</geoID>
+T45	Location 5353 5358	China
+#45	AnnotatorNotes T45	<latlng>35,105</latlng><geoID>1814991</geoID>
+T46	Location 5473 5480	Vietnam
+#46	AnnotatorNotes T46	<latlng>16,106</latlng><geoID>1562822</geoID>
+T47	Location 5485 5490	China
+#47	AnnotatorNotes T47	<latlng>35,105</latlng><geoID>1814991</geoID>
+T50	Location 7323 7332	Indonesia
+#50	AnnotatorNotes T50	<latlng>-5,120</latlng><geoID>1643084</geoID>
+T51	Location 7456 7463	Vietnam
+#51	AnnotatorNotes T51	<latlng>16,106</latlng><geoID>1562822</geoID>
+T21	Protein 7767 7776	Govorkova
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 7929 7939	Manuscript
+#22	AnnotatorNotes T22	END
+T57	Location 10723 10735	Saudi Arabia
+#57	AnnotatorNotes T57	<latlng>25,45</latlng><geoID>102358</geoID>
+T58	Location 10738 10746	Thailand
+#58	AnnotatorNotes T58	<latlng>15,100</latlng><geoID>1605651</geoID>
+T59	Location 10748 10755	Vietnam
+#59	AnnotatorNotes T59	<latlng>16,106</latlng><geoID>1562822</geoID>
+T60	Location 10757 10765	Cambodia
+#60	AnnotatorNotes T60	<latlng>13,105</latlng><geoID>1831722</geoID>
+T61	Location 10767 10775	Malaysia
+#61	AnnotatorNotes T61	<latlng>2.5,112.5</latlng><geoID>1733045</geoID>
+T62	Location 10777 10786	Indonesia
+#62	AnnotatorNotes T62	<latlng>-5,120</latlng><geoID>1643084</geoID>
+T63	Location 10788 10793	China
+#63	AnnotatorNotes T63	<latlng>35,105</latlng><geoID>1814991</geoID>
+T64	Location 10799 10804	India
+#64	AnnotatorNotes T64	<latlng>20,77</latlng><geoID>1269750</geoID>
+T66	Location 12644 12649	Basel
+#66	AnnotatorNotes T66	<latlng>47.5669, 7.61519</latlng><pop>195962</pop><geoID>2661602</geoID>
+T67	Location 12651 12662	Switzerland
+#67	AnnotatorNotes T67	<latlng>47,8</latlng><geoID>2658434</geoID>
+T68	Location 13016 13025	St. Louis
+#68	AnnotatorNotes T68	<latlng>38.62727,-90.19789</latlng><pop>319294</pop><geoID>4407066</geoID>
+T69	Location 13167 13175	Winooski
+#69	AnnotatorNotes T69	<latlng>44.49509,-73.18426</latlng><pop>7267</pop><geoID>5243093</geoID>
+T71	Location 14193 14201	La Jolla
+#71	AnnotatorNotes T71	<latlng>32.84727,-117.2742</latlng><pop>42808</pop><geoID>5363943</geoID>
+T73	Location 14876 14884	La Jolla
+#73	AnnotatorNotes T73	<latlng>32.84727,-117.2742</latlng><pop>42808</pop><geoID>5363943</geoID>
+T74	Location 15862 15870	Valencia
+#74	AnnotatorNotes T74	<latlng>34.44361,-118.60953</latlng><pop>148456</pop><geoID>5405288</geoID>
+T79	Location 16172 16180	Carlsbad
+#79	AnnotatorNotes T79	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T83	Location 16464 16471	Madison
+#83	AnnotatorNotes T83	<latlng>43.07305,-89.40123</latlng><pop>233209</pop><geoID>5261457</geoID>
+T85	Location 16570 16578	Carlsbad
+#85	AnnotatorNotes T85	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T87	Location 17199 17207	Carlsbad
+#87	AnnotatorNotes T87	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T96	Location 33700 33705	China
+#96	AnnotatorNotes T96	<latlng>35,105</latlng><geoID>1814991</geoID>
+T2	Location 5142 5154	Central Asia
+#2	AnnotatorNotes T2	<latlng>43.00465,71.71875</latlng><pop>66453533</pop><geoID>7729893</geoID>
+T3	Location 5158 5172	Eastern Europe
+#3	AnnotatorNotes T3	<latlng>51.72703,28.38867</latlng><pop>294600000<geoID>7729884</geoID>
+T5	Location 9157 9173	Republic of Laos
+#5	AnnotatorNotes T5	<latlng>18,105</latlng><geoID>1655842</geoID>
+T23	Protein 11965 11974	Govorkova
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 12127 12137	Manuscript
+#24	AnnotatorNotes T24	END
+T6	Location 13027 13029	MO
+#6	AnnotatorNotes T6	<latlng>38.25031,-92.50046</latlng><pop>5768151</pop><geoID>4398678</geoID>
+T7	Location 13177 13179	VT
+#7	AnnotatorNotes T7	<latlng>44.00034,-72.74983</latlng><pop>624501</pop><geoID>5242283</geoID>
+T8	Location 13540 13542	NY
+#8	AnnotatorNotes T8	<latlng>43.00035,-75.4999</latlng><pop>19274244</pop><geoID>5128638</geoID>
+T9	Location 14203 14205	CA
+#9	AnnotatorNotes T9	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T10	Location 14886 14888	CA
+#10	AnnotatorNotes T10	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T11	Location 15872 15874	CA
+#11	AnnotatorNotes T11	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T25	Protein 15929 15938	Govorkova
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 16091 16101	Manuscript
+#26	AnnotatorNotes T26	END
+T12	Location 16182 16184	CA
+#12	AnnotatorNotes T12	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T13	Location 16473 16475	WI
+#13	AnnotatorNotes T13	<latlng>44.50024,-90.00041</latlng><pop>5535168</pop><geoID>5279468</geoID>
+T14	Location 16580 16582	CA
+#14	AnnotatorNotes T14	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T15	Location 17209 17211	CA
+#15	AnnotatorNotes T15	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T27	Protein 19714 19723	Govorkova
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 19876 19886	Manuscript
+#28	AnnotatorNotes T28	END
+T16	Location 21783 21797	Southeast Asia
+#16	AnnotatorNotes T16	<latlng>12.38293,103.00781</latlng><pop>0</pop><geoID>6942346</geoID>
+T29	Protein 23810 23819	Govorkova
+#29	AnnotatorNotes T29	BEGIN
+T38	Protein 23972 23982	Manuscript
+#38	AnnotatorNotes T38	END
+T39	Protein 28184 28193	Govorkova
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 28346 28356	Manuscript
+#40	AnnotatorNotes T40	END
+T48	Protein 32892 32901	Govorkova
+#48	AnnotatorNotes T48	BEGIN
+T49	Protein 33054 33064	Manuscript
+#49	AnnotatorNotes T49	END
+T18	Protein 35402 35417	Acknowledgments
+#18	AnnotatorNotes T18	BEGIN
+T17	Protein 57546 57547	.
+#17	AnnotatorNotes T17	END

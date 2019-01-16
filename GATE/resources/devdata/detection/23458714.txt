@@ -1,0 +1,1580 @@
+﻿Antiviral resistance among highly pathogenic influenza A (H5N1)
+viruses isolated worldwide in 2002­2012 shows need for
+continued monitoring
+Elena A. Govorkovaa, Tatiana Baranovicha, Patrick Seilera, Jianling Armstronga, Andrew
+Burnhama, Yi Guanb, Malik Peirisb, Richard J. Webbya, and Robert G. Webstera,*
+aDepartment of Infectious Diseases, St. Jude Children's Research Hospital, Memphis,
+Tennessee, 38105-3678, USA
+bJoint Influenza Research Center (Shantou University Medical College & Hong Kong University),
+Shantou University Medical College, Shantou, Guangdong 515031, P.R. China
+Abstract
+Highly pathogenic (HP) H5N1 influenza viruses are evolving pathogens with the potential to
+cause sustained human-to-human transmission and pandemic virus spread. Specific antiviral drugs
+can play an important role in the early stages of a pandemic, but the emergence of drug-resistant
+variants can limit control options. The available data on the susceptibility of HP H5N1 influenza
+viruses to neuraminidase (NA) inhibitors and adamantanes is scarce, and there is no extensive
+analysis. Here, we systematically examined the prevalence of NA inhibitor and adamantane
+resistance among HP H5N1 influenza viruses that circulated worldwide during 2002­2012. The
+phenotypic fluorescence-based assay showed that both human and avian HP H5N1 viruses are
+susceptible to NA inhibitors oseltamivir and zanamivir with little variability over time and ~5.5-
+fold less susceptibility to oseltamivir of viruses of hemagglutinin (HA) clade 2 than of clade 1.
+Analysis of available sequence data revealed a low incidence of NA inhibitor­resistant variants.
+The established markers of NA inhibitor resistance (E119A, H274Y, and N294S, N2 numbering)
+were found in 2.4% of human and 0.8% of avian isolates, and the markers of reduced
+susceptibility (I117V, K150N, I222V/T/K, and S246N) were found in 0.8% of human and 2.9 %
+of avian isolates. The frequency of amantadine-resistant variants was higher among human
+(62.2%) than avian (31.6%) viruses with disproportionate distribution among different HA clades.
+As in human isolates, avian H5N1 viruses carry double L26I and S31N M2 mutations more often
+than a single S31N mutation. Overall, both human and avian HP H5N1 influenza viruses are
+susceptible to NA inhibitors; some proportion is still susceptible to amantadine in contrast to
+~100% amantadine resistance among currently circulating seasonal human H1N1 and H3N2
+viruses. Continued antiviral susceptibility monitoring of H5N1 viruses is needed to maintain
+therapeutic approaches for control of disease.
+© 2013 Elsevier B.V. All rights reserved.
+Reprints or correspondence: Robert G. Webster, Department of Infectious Diseases, St. Jude Children's Research Hospital, 262
+Danny Thomas Place, Memphis, TN 38105-3678; robert.webster@stjude.org; Telephone: 901-595-3400; Fax: 901-595-8559.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Conflict of interest: The authors have no personal or financial affiliation with a commercial entity that might pose a conflict of
+interest.
+NIH Public Access
+Author Manuscript
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+Published in final edited form as:
+Antiviral Res. 2013 May ; 98(2): 297­304. doi:10.1016/j.antiviral.2013.02.013.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Keywords
+H5N1 influenza virus; neuraminidase inhibitors; resistance; oseltamivir; zanamivir; zanamivir
+Introduction
+Highly pathogenic (HP) influenza A (H5N1) viruses predominantly affect avian species but
+occasionally cross the species barrier and infect humans. Since 2003, outbreaks of H5N1
+influenza viruses have been reported in domestic poultry and wild birds in 63 countries/
+territories (WHO/OIE/FAO, 2012). Human H5N1 virus infections were first reported in
+1997, and since the virus reappeared in humans in 2003, it continues to cause sporadic
+infections of humans in Southeast Asia, the Middle East, Europe, and Africa with a total of
+>600 human cases and >60% mortality rates (www.who.int).
+To date, multiple clades/subclades of H5N1 influenza viruses have been distinguished by
+phylogenetic analysis of the hemagglutinin (HA) gene, some of which have a distinct
+geographical distribution. Clade 1.1 viruses, which evolved from clade 1, continue to
+circulate in Vietnam and Cambodia. Clade 2 viruses are the most diverse group of H5N1
+viruses and can be divided into 5 circulating subclades: 2.1.3 variants circulate in Indonesia,
+2.2 viruses circulate in India and Bangladesh, 2.2.1 viruses are found in Egypt, 2.3.2
+encompasses viruses found from Southeast and Central Asia to Eastern Europe, and 2.3.4
+viruses circulate in Vietnam, Laos, Thailand, and China (Marinova-Petkova et al., 2012).
+Virus clade 2.3.2 in its various forms is now considered the dominant type in China,
+although clade 2.3.4 has not disappeared (WHO/OIE/FAO, 2012). Clade 7 viruses are also
+found in circulation in Vietnam and China. Since 1997, human infections have been caused
+by H5N1 viruses of clades 0, 1, 2.1, 2.2, 2.3, and 7; however, infections in 2010­2012 have
+been predominantly caused by viruses of clades 2.3.2 and 2.3.4.
+The current pandemic in poultry and wild birds is a potential threat to human health due to
+continuous evolution and genetic diversity of circulating avian influenza H5N1 viruses and
+the contribution of genetic material from avian influenza viruses to the emergence of human
+pandemic virus. In response to this threat, major efforts have been made to develop
+immunogenic cross-clade­protective H5N1 vaccines (Subbarao and Luke, 2007; Prieto-Lara
+and Llanos-Méndez, 2010). In the absence of an effective vaccine, antiviral prophylaxis and
+treatment can play an important role. The neuraminidase (NA) inhibitors oseltamivir and
+zanamivir are the recommended antiviral drugs against influenza. Patients infected with
+H5N1 viruses have been predominantly treated with oral oseltamivir (Writing Committee,
+2008; Adisasmito, 2010). Analysis of Avian Influenza Registry data from 10 countries
+showed that the strongest impact on survival among H5N1-infected patients was observed
+when treatment was initiated 2 days after symptom onset (Chan et al., 2012), and there was
+an increased likelihood of survival when treatment was initiated as late as 3­5 days after
+symptom onset but before respiratory failure occurred (Adisasmito et al., 2010).
+The effectiveness of antiviral drugs will depend on the susceptibility of the pandemic strain,
+should it emerge. Oseltamivir carboxylate (the active ingredient of oseltamivir) was shown
+to be active in vitro against human and avian H5N1 influenza viruses (McKimm-Breschkin
+et al., 2007; Hurt et al., 2007). NA enzyme inhibition assays revealed that clade 2.1 viruses
+from Indonesia have a naturally occurring 15- to 30-fold lower sensitivity to oseltamivir
+carboxylate in vitro than clade 1 viruses from Vietnam (McKimm-Breschkin et al., 2007),
+which was attributed to NA's H252Y amino acid difference between the clades (Ramiex-
+Welti et al., 2006). In contrast, Hurt and colleagues (2007) found little variation in the
+sensitivity of the NAs of 51 avian H5N1 isolates collected over a similar time in similar
+Govorkova et al. Page 2
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+regions. Overall, available data on in vitro sensitivity to oseltamivir carboxylate generally
+show sensitivities to drug concentrations well below the minimum in vivo concentrations
+achieved during therapy (Le et al., 2008). Susceptibility of H5N1 viruses to zanamivir was
+not affected (McKimm-Breschkin et al., 2007).
+Resistance to oseltamivir in clinically derived seasonal influenza A viruses was associated
+with H274Y or N294S amino acid substitutions in the N1 NA subtype (N2 numbering used
+here and throughout the text) and E119V, R292K or N294S substitutions in the N2 NA
+subtype (McKimm-Breschkin, 2012). Oseltamivir-resistant H5N1 influenza viruses with an
+H274Y NA mutation were reported in 3 patients during oseltamivir treatment or prophylaxis
+(de Jong et al., 2005; Le et al., 2005). One of these patients had a mixed population of wild-
+type NA and both H274Y and N294S mutations (Le et al., 2005). Our previous studies
+showed that some Egyptian H5N1 isolates from humans have had an N294S NA mutation,
+which confers a 12- to 15-fold increase in the IC50 value in an NA inhibition assay (Earhart
+et al, 2009; Kayali et al., 2011). Screening of 29 HP H5N1 viruses of clade 2.3.2 from the
+Republic of Laos in 2006­2008 identified three outliers with reduced NA inhibitor
+susceptibility with different mutations (V116A, I222L, and S246N) (Boltz et al., 2010). A
+minor subpopulation of drug-resistant clones with I117V and E119A NA mutations (the
+latter being associated with zanamivir resistance in the N2 NA subtype) were detected in
+human A/Turkey/65-1242/2006 (H5N1) virus (Govorkova et al., 2009).
+The worldwide emergence of drug-resistant seasonal H3N2 and H1N1pdm09 influenza
+variants (Bright et al., 2006; Deyde et al., 2007; Gubareva et al., 2010) restricted the use of
+another class of specific anti-influenza drugs, M2 ion channel inhibitors (amantadine and
+rimantadine). Although the antiviral activity of amantadine against HP H5N1 was seen in
+vitro and in vivo (Ilyushina et al., 2007), the data on its therapeutic effectiveness is lacking.
+The WHO guidelines from 2007 do not recommend treatment of H5N1 virus­infected
+patients with amantadine unless the infecting virus is known to be susceptible or other drugs
+are unavailable (Schunemann et al., 2007). Molecular markers of resistance to adamantanes
+are amino acid substitutions at residues L26, V27, A30, S31, and G34 within the
+transmembrane domain of the M2 protein (Hay et al., 1986; Pinto et al., 1992; Li et al.,
+2004). Previous publications reported emergence and geographic diversity in the distribution
+of amantadine-resistant H5N1 influenza viruses (Cheung et al., 2006; Monne et al., 2008;
+Tosh et al., 2011). Amantadine-resistant H5N1 viruses were reported in Saudi Arabia,
+Thailand, Vietnam, Cambodia, Malaysia, Indonesia, China, and India, although the
+prevalence of resistant viruses varies in different geographical areas (Cheung et al., 2006;
+Hurt et al., 2007; Monne et al., 2008; Tosh et al., 2011).
+There are ongoing concerns that H5N1 viruses may yet cause a pandemic; hence, antiviral
+surveillance of HP H5N1 is essential for the determination of our options for the control of a
+pandemic. Here we provide a comprehensive analysis of the antiviral susceptibility of the
+HP human and avian H5N1 influenza viruses isolated during the past decade (2002­2012)
+based on phenotypic analysis and determination of amino acid changes occurring at the
+conserved or semi-conserved NA residues (GenBank data) that may confer either a resistant
+or reduced susceptibility genotype. The incidence of amantadine resistance among multiple
+and evolving HA clades of H5N1 viruses was analyzed based on the sequence data
+generated in the current study and that available in GenBank.
+2. Materials and methods
+2.1. Viruses
+Ten human and 85 avian (originating from wild birds, ducks, geese and chickens) HP H5N1
+influenza viruses representatives of HA clades 1 and 2 and isolated in 2002­2011 were
+Govorkova et al. Page 3
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+obtained through the WHO network. The viruses were propagated in the allantoic cavities of
+10-day-old embryonated chicken eggs at 35°C for 40 hours. All experiments were conducted
+in biosafety level 3+ conditions in compliance with applicable laws and guidance.
+2.2. Compounds
+The NA inhibitors oseltamivir carboxylate (oseltamivir, [3R,4R,5S]-4-acetamido-5-
+amino-3-[1-ethylpropoxy]-1-cyclohexene-1-carboxylic acid) and zanamivir (4-guanidino-
+Neu5Ac2en) were provided by Hoffmann-La Roche, Ltd. (Basel, Switzerland). Stocks of
+oseltamivir and zanamivir were prepared in distillated water, filter-sterilized, and stored in
+aliquots at -20°C.
+2.3. NA inhibition assay
+NA activity of the H5N1 influenza viruses was measured in a fluorescence-based assay
+using the fluorogenic substrate 2'-(4-methylumbelliferyl)- -D-N-acetylneuraminic acid
+(MUNANA) (Sigma-Aldrich, St. Louis, MO) (Potier et al., 1979). Fluorometric
+determinations were quantified with a Synergy 2 multi-mode microplate reader (BioTek
+Instruments, Winooski, VT) based on the release of the fluorescent product 4-methyl-
+umbelliferone using excitation and emission wavelengths of 360 and 460 nm, respectively.
+Viruses were standardized to equivalent NA enzyme activity in the linear range of the curve
+and were mixed with various concentrations of inhibitor in 96-well flat-bottom black opaque
+plates (Corning Costar, NY). The final reaction mixture concentrations of the NA inhibitors
+ranged from 0.05 nM to 5,000 nM. The virus-inhibitor mixture was incubated at 37°C for 30
+min prior to the addition of MUNANA substrate and then incubated at 37°C for 30 min. The
+reaction was terminated by the addition of the stop solution (0.1 M glycine in 25% ethanol,
+pH 10.7). The concentration of NA inhibitor that reduced NA activity by 50% relative to a
+control mixture with no NA inhibitor (IC50) was determined by plotting the percent
+inhibition of NA activity as a function of the compound concentrations calculated using
+GraphPad Prism 5 software (GraphPad Software, La Jolla, CA). IC50 values were recorded
+as the means of 2­3 independent determinations. Reference oseltamivir-susceptible and -
+resistant A/Mississippi/3/2001 (H1N1) influenza strains (mean IC50, 0.53 and 299.58 nM,
+respectively) were obtained from the Antiviral Group, International Society for Influenza
+and Other Respiratory Virus Diseases, and were included in each assay and showed an IC50
+variability of 8% over 6 separate assays.
+2.4. Data analysis
+The obtained IC50 values were analyzed for oseltamivir and zanamivir to determine
+statistical cutoffs for identification of potentially resistant viruses (outliers) using GraphPad
+Prism 5 software (GraphPad Software, La Jolla, CA). Quantile box-and-whisker plots were
+used to display the distribution of log-transformed IC50 values. The bottom and the top of
+the box marked the 10th and 90th percentiles, and the line across the box marked the 50th
+percentile or median. Whiskers were added to identify potential outliers and extended above
+and below the box by 1.5 times the interquartile range. Mild outliers had IC50 values above
+the statistical cutoff, which was >3-fold but <10-fold greater than the mean IC50 for the
+drug. The isolates with 10-fold of the mean IC50 value were considered extreme outliers
+and were excluded from statistical analysis of the overall population.
+2.5. Susceptibility to the adamantanes
+Genetic analysis of the transmembrane region of the M2 protein was conducted, and
+substitutions of five residues (L26, V27, A30, S31, and G34) were used to screen for
+molecular markers of adamantine resistance. RNA extraction was performed using the
+RNeasy kit (QIAGEN, Valencia, CA), and RT-PCR was performed using the SuperScript III
+Govorkova et al. Page 4
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+One-Step RTPCR System with Platinum Taq DNA Polymerase (Invitrogen, Carlsbad, CA)
+according to the manufacturer's protocol. Sequencing was performed by the Hartwell Center
+for Bioinformatics and Biotechnology at St. Jude Children's Research Hospital. DNA
+sequences were completed and edited using the Lasergene sequence analysis software
+package (DNASTAR, Madison, WI).
+In addition, the alignments using ClustalW were performed in BioEdit 7 (Ibis Biosciences,
+Carlsbad, CA), which was also used to scan all of the above-mentioned mutations. The 28
+M2 gene sequences from this study as well as 208 human and 1433 avian sequences of HP
+H5N1 viruses obtained from the GenBank database (www.ncbi.nlm.nih.gov as of October
+2012) were included in the analyses.
+2.6. NA sequence analysis
+All viruses with elevated IC50 values (in this study, mild outliers with IC50 >3-fold but <10-
+fold greater than the mean IC50 for oseltamivir) were subject to sequence analysis and
+characterization of individual virus clones (28­30 clones) by using a TOPO TA Cloning Kit
+for Sequencing (Invitrogen, Carlsbad, CA). The position of the identified NA mutations in
+relations to the proximity to the residues located within catalytic site and within 3 Å of the
+drug bound sites was analyzed as described elsewhere (Maurer-Stroh et al., 2009). In
+addition, the NA gene sequences of 287 human and 1716 avian HP H5N1 viruses (those
+with full-length NA sequences and those covering amino acids from 116 to 345 of the NA
+obtained from the GenBank database were analyzed for the presence of NA mutations
+associated with either NA inhibitor­resistant genotype in different NA subtypes (E119V/I/
+A/G, H274Y, R292K, and N294S) or reduced susceptibility genotype to NA inhibitors
+(V116A, I117V, K150N, D198N/G/E/Y, I222V/T/R/K/M, S246N, and E276D). The HAs of
+all H5N1 influenza viruses included in the analysis had a multibasic amino acid motif (R-X-
+R/K-R) in the HA connecting peptide.
+2.7. Nucleotide sequence accession numbers
+The NA (2 viruses, accession numbers KC436119 and KC436121) and M gene (28 viruses;
+accession numbers KC436109 - KC436118, KC436120, KC436123 - KC436119) sequences
+determined in this study were deposited into the GenBank database.
+HA clade determination--The corresponding HA sequences of H5N1 influenza viruses
+with M2 protein resistance markers were obtained from GenBank, and H5N1 viruses
+representative of the HA clades were obtained from the WHO website (WHO/OIE/FAO,
+2012). The human, avian, and reference HA sequences were edited using BioEdit 7 and
+aligned using MUSCLE (Edgar 2004). Neighbor-joining phylogenetic trees were generated
+using MEGA software (MEGA v5.05) (Tamura et al., 2011), and the HA clades were
+determined for human and avian amantadine-resistant viruses.
+3. Results
+3.1. Susceptibility of H5N1 viruses to NA inhibitors
+This study was undertaken to evaluate the antiviral susceptibility of the HP H5N1 influenza
+viruses isolated during past decade (2002­2012) to NA inhibitors, and to determine the
+incidence of drug-resistance associated mutations among these rapidly evolving viruses. A
+total of 95 H5N1 viruses (10 human and 85 avian) representing HA clades 1 and 2 were
+screened in a phenotypic fluorescence-based assay and were found to be fully susceptible to
+oseltamivir and zanamivir, although the IC50 values for oseltamivir were ~2-fold higher than
+those for zanamivir (mean IC50, 1.48 and 0.65 nM, respectively). The human and avian
+isolates were equally susceptible to oseltamivir (mean IC50, 1.53 and 1.43 nM, respectively),
+Govorkova et al. Page 5
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+although the number of human isolates tested was limited to 10 strains. No differences were
+observed in the susceptibility to zanamivir. Analysis was also undertaken by year of H5N1
+virus isolation to determine whether the distribution of IC50 values varied in different years
+and whether a significant increase in mean IC50 values could be observed (Fig. 1A, B). The
+H5N1 viruses isolated in 2005­2007 had the highest IC50 values to both NA inhibitors, but
+we did not see a significant linear tread to sensitivity over time.
+Although the mean IC50 values varied little, there were variant outliers with sensitivities
+both slightly higher and lower than the means. Only a few viruses had IC50 values above the
+upper quantile limit for oseltamivir (4 of 95) and zanamivir (2 of 95). Our phenotypic assay
+identified 3 mild outliers for oseltamivir among avian H5N1 viruses and none for zanamivir
+(Table 1). The subsequent clonal analysis of NA genes found that 4­5 individual clones
+among 28­30 sequenced had different single NA amino acid substitutions. These NA
+substitutions were random and did not occur in the positions reported previously to be
+associated with either NA inhibitor resistance or reduced susceptibility phenotype. The
+location of E228D NA mutation was close to the NA enzyme active site and may be
+important for future analysis.
+Analysis of the susceptibility distribution among HP H5N1 viruses representative of
+different HA clades showed that viruses of clade 1 were ~5.5-fold more sensitive to
+oseltamivir and ~1.7-fold more sensitive to zanamivir (mean IC50, 0.31 ± 0.26 nM and 0.40
+± 0.04 nM, respectively; 30 viruses tested) than viruses of HA clade 2 (mean IC50, 1.72 ±
+0.32 nM and 0.69 ± 0.07 nM, respectively; 65 viruses tested) (Fig. 1C, D). The viruses of
+clades 2.3.2 and 2.3.4, which are predominant H5N1 variants circulating in poultry in
+Southeast Asia (WHO/OIE/FAO, 2012), were susceptible to both NA inhibitors. Overall,
+our data revealed that most H5N1 viruses retained susceptibility to oseltamivir and
+zanamivir with little variability over time, although with some variability among divergent
+HA genetic groups.
+3.2. NA molecular markers of resistant or reduced susceptibility phenotype
+Analysis of N1 NA sequences of 287 human HP H5N1 viruses isolated in 2002­2012
+identified 7 viruses (2.4%) with NA inhibitor­resistant NA mutations (Table 2), although A/
+Hanoi/30408/2005 (H5N1) virus had clones carrying both the H274Y and N294S NA
+mutations (Le et al., 2005) and was counted as a single NA inhibitor­resistant variant. In
+addition, 7 human H5N1 viruses (2.4%) had I117V, K150N, or I222V/T/K NA mutations.
+Analysis of N1 NA sequences of 1716 avian HP H5N1 viruses identified 13 strains (0.8%)
+with either oseltamivir-resistant (H274Y and N294S) or zanamivir-resistant (E119A) NA
+mutations (Table 2). Two H5N1 viruses isolated in 2008 had both I117V and E119A NA
+mutations. The NA mutations reported to reduce the susceptibility of influenza viruses to
+NA inhibitors (V116A, I117V, K150N, D198N, I222V/T/M, and S246N) were identified in
+50 avian viruses (2.9%) (Table 2). Double mutant viruses with I117V and D198N, I222T
+and S246N, and K150N and S246N NA mutations were isolated in 2005, 2006, and 2007,
+respectively. No NA inhibitor resistance­associated mutations were detected among human
+and avian H5N1 viruses isolated in 2010­2012, although the number of isolates was low.
+Thus, available N1 NA sequence data suggest a low incidence of mutations that affect
+susceptibility to NA inhibitors among both human and avian H5N1 viruses.
+3.3. Susceptibility to M2 inhibitors
+A total of 1669 M2 gene sequences (208 human and 1433 avian sequences obtained from
+GenBank database and 28 generated in this study) were analyzed for the presence of
+molecular markers of amantadine resistance. The incidence of amantadine resistance among
+Govorkova et al. Page 6
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+human H5N1 influenza viruses varied in different time periods (Fig. 2A). The majority
+(36/37, 97.3%) of human H5N1 viruses isolated in 2002­2004 were amantadine-resistant;
+however, the number of amantadine-resistant isolates decreased to 58.2% (82/141) and
+38.7% (12/31) among viruses isolated in 2005­2007 and 2008­2012, respectively. The
+amantadine-resistant phenotype of human H5N1 influenza viruses was predominantly
+caused by either a single V27A or S31N amino acid substitution or double L26I + S31N or
+V27A + S31N M2 mutations. We did not identify human H5N1 viruses with amino acid
+substitutions at positions 26, 30, and 34 previously reported to be associated with resistance.
+Although most drug-resistant human seasonal A (H1N1) and A (H3N2) viruses contain an
+S31N substitution, only 10.1% of amantadine-resistant human H5N1 viruses contained this
+substitution (Fig. 2A). The strong association of L26I and S31N M2 mutations reported
+previously in H5N1 viruses continues to be present in viruses isolated in 2008­2012 and
+was detected at a similar frequency as a single S31N substitution. Overall, double L26I +
+S31N M2 mutations were more predominant among human HP H5N1 influenza viruses
+isolated during 2002­2012 than a single S31N substitution.
+Among avian H5N1 influenza viruses, the incidence of amantadine resistance markers was
+lower than that in human viruses. The frequency of isolation of amantadine-resistant variants
+was the highest (193/388, 49.7%) among viruses circulated in 2002­2004 and decreased in
+the following years (197/825, 23.9% and 71/247, 28.7% in 2005­2007 and 2008­2012,
+respectively, Fig. 2B). As in human isolates, avian H5N1 viruses isolated during 2002­2012
+had double L26I + S31N M2 mutations at a higher frequency than a single S31N mutation,
+although viruses with single S31N and V27A mutations were identified (Fig. 2).
+Interestingly, the distribution of amantadine-resistant variants among human H5N1 viruses
+was restricted to HA clade 1 during 2002­2004 (36/36, 100%), a diverse distribution pattern
+in 2005­2007, and back to predominant isolation from clade 1.1 (10/12, 83.3%) in recent
+years (Table 3). The proportion of amantadine-resistant avian influenza H5N1 viruses from
+clade 1 has reduced over time from 83.9% in 2002­2004 to 43.2% in 2008­2012, with clade
+2 representing 51.4% of isolates in 2008­2012. Taken together, the amantadine-resistant
+human variants isolated from 2002­2012 belong equally to HA clades 1 and 2 (46.2% and
+53.8%), but avian variants were most frequently isolated from clade 1 (~70%). Continued
+diversification of avian HP H5N1 virus is also evidenced by the increasing number of clades
+from which amantadine-resistant avian variants were isolated, from 4 clades in 2002­2004
+to 7 clades in 2008­2012.
+4. Discussion
+The acquisition of NA inhibitor resistance by H5N1 influenza viruses is a serious public
+health concern and monitoring the susceptibility of these viruses to available drugs is an
+important part of surveillance studies and an informative aspect of risk assessment for a
+pandemic. In this study, we focused on the set of questions regarding antiviral susceptibility
+and resistance in the highly pathogenic H5N1 influenza viruses. We addressed what is the
+level of susceptibility to NA inhibitors and adamantanes over time and among different HA
+clades, what is the level of antiviral resistance among human and avian H5N1 viruses, and
+whether there is evidence for an increased selection of antiviral resistance in recent years.
+Our phenotypic analysis showed that human and avian H5N1 viruses are highly susceptible
+to NA inhibitors oseltamivir and zanamivir. Comparison of the HA clade distribution of
+susceptibility revealed ~5.5-fold higher susceptibility of viruses of clade 1 than those of
+clade 2, and this difference was more pronounced (~10-fold) when we compared clade 1 and
+clade 2.1 viruses. Although the number of clade 2.1 viruses was limited, we confirmed the
+data reported previously (McKimm-Breshkin et al., 2007) about the lower susceptibility of
+viruses of clade 2 to NA inhibitors in a phenotypic assay. However, this difference in
+Govorkova et al. Page 7
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+susceptibility is attributed to a specific subclade of clade 2, and currently circulating 2.3.2
+and 2.3.4 viruses are more susceptible to NA inhibitors than viruses of clade 2.1. The
+observed differences in the susceptibility in different years also most likely is correlated
+with the predominant HA clade circulating in this particular season, and the higher level of
+susceptibility in 2002­2004 is correlated with predominant circulation of viruses of clade 1
+(WHO/OIE/FAO, 2012).
+Even though some NA mutations, such as H252Y, can increase the affinity of NA for
+oseltamivir and thus lead to increased antiviral susceptibility (Ramiex-Welti et al., 2006;
+McKimmm-Breshkin et al., 2007), the emergence of other mutations can potentially
+decrease susceptibility. We therefore analyzed the available NA sequence data for the
+presence of NA mutations that were previously reported to decrease susceptibility to NA
+inhibitors. The screening revealed similarity between human and avian H5N1 influenza
+viruses and a low level of NA mutations associated with NA inhibitor resistance. The
+H274Y NA mutation is the most frequent mutation in human oseltamivir-resistant isolates of
+the N1 NA subtype (Dharan et al., 2009; Weinstock et al., 2009). This mutation was
+detected in 4 human and 4 avian H5N1 viruses isolated in 2002­2012. Only 4 human and 5
+avian isolates contained the N294S NA mutation. The zanamivir-related mutation E119A
+was detected in 4 avian isolates from 2008 and confirmed the finding by Govorkova et al.
+(2009) that this mutation can be stably maintained in the N1 NA background. The amino
+acid substitutions at some of the targeted residues in NA (e.g., V116, I117, K150, D198,
+I222, and S246) have previously been linked to reduced drug susceptibility in avian and
+human N1 viruses (Hurt et al., 2009; Ilyushina et al., 2010). However, most of the studies
+were conducted with recombinant viruses, and their relevance to clinical resistance still
+needs to be proven. Interestingly, one of the most predominant substitutions in both human
+and avian H5N1 influenza viruses was at residue 222. This mutation alone did not confer a
+resistant phenotype in seasonal H1N1 viruses (Ison, 2011). However, in combination with
+mutation H274Y, the IC50 increased almost 2000 times for one H5N1 strain (Matrosovich
+and Klenk, 2003). The NA I222R mutation was identified in the clinical isolates of patients
+receiving oseltamivir treatment, and this mutation alone can to a small degree reduce the
+H1N1pdm09 virus susceptibility to all three NA inhibitors (oseltamivir carboxylate,
+zanamivir and peramivir) (Nguyen et al., 2010). The I222R + H274Y dual mutations further
+enhanced the resistance level to oseltamivir and caused moderate resistance to zanamivir
+(van der Vries et al., 2010; Pizzorno et al., 2011). Amino acid mutations at framework
+residues such as I222 may interfere with the correct binding of NA inhibitors, thus
+disrupting the natural susceptibility of influenza viruses to these agents. The wide spread of
+drug-resistant variants is connected to the fitness of these viruses. The selected drug-
+resistant mutations that can provide viral fitness benefits can be maintained without direct
+selection for the mutation. The available reports on the fitness of HP oseltamivir-resistant
+H5N1 viruses are focused on viruses of the two HA clades that are causing infection in
+humans: clade 1 and clade 2.2 (Yen et al, 2007; Govorkova 2010; Ilyushina 2010; Kiso et al
+2011). Experimental evidence suggests that a particular NA inhibitor resistance­associated
+marker can cause different effects on fitness in different H5N1 virus genetic and virulence
+backgrounds. Deficiency in NA function caused by an NA inhibitor resistance mutation may
+not be deleterious for HP H5N1 viruses because of the extremely efficient replication of
+these viruses. Overall, it appears that in the H5N1 population, oseltamivir resistance is not
+yet undergoing positive selection. This might be because of the limited number of H5N1-
+infected patients treated with oseltamivir (Adisasmito et al., 2010) and the fact that the NA
+gene in H5N1 influenza viruses is evolutionarily constrained at a majority (84%) of
+positions (Hill et al., 2009). This highlights that H5N1 is still primarily a disease of birds.
+Monitoring of the natural selection of additional NA mutations at the conserved and semi-
+conserved NA residues in addition to established molecular markers of resistance is
+warranted.
+Govorkova et al. Page 8
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Our data revealed the disproportional levels of amantadine resistance observed in H5N1
+viruses and human seasonal H3N2 and H1N1pdm09 viruses in recent years (Deybe et al.,
+2007; Zaraket et al. 2010; Zhou et al., 2011). Importantly, the susceptibility of H5N1
+influenza viruses to amantadine has increased in recent years (2010­2012). More likely, the
+emergence and spread of amantadine-resistant H5N1 viruses occurs through positive drug
+selection pressure in avian species. This conclusion correlates with the data reported
+previously that there has been prophylactic use of amantadine in poultry production in some
+parts of China (He et al., 2008). The application of phylogenetic methods based on analysis
+of multiple gene segments, molecular evolutionary analyses, and geographic visualization
+also concluded that amantadine use is driving selection for antiviral resistance in the global
+H5N1 population (Wallace and Fitch, 2008; Hill et al., 2009). Our findings suggest that
+amantadine-resistant lineages from other subtypes have limited introduction into the H5N1
+subtype, although more sophisticated analysis is required to understand the frequency of
+possible reassortment events with other influenza subtypes. Our data suggest that some
+residues (L26I + S31N) in the M2 protein of H5N1 viruses are under stronger drug selection
+pressure. The predominance of double M2 mutations among human and avian H5N1 viruses
+also suggests a different pattern of selection than with seasonal H3N2 and H1N1pdm09
+viruses, which are characterized by single S31N M2 mutations (Bright et al. 2006; Barr et
+al., 2008). Interestingly, we observed disproportional distribution of amantadine-resistant
+variants among avian and human viruses isolated in different years, most likely associated
+with a particular HA clade circulating in a given geographic area (Bar et al., 2008; Le et al.,
+2008).
+In conclusion, given the expanding diversity of H5N1 viruses both geographically and
+phylogenetically, continued surveillance of HP H5N1 viruses is needed to determine the
+incidence of drug-resistant strains in both humans and avian species and to identify
+molecular markers underlying these changes. These measures would allow maintenance of
+therapeutic and possibly prophylactic regimens for antiviral control of disease.
+Acknowledgments
+We gratefully acknowledge the editorial assistance of David Galloway, the excellent technical support of the
+Hartwell Center for Bioinformatics and Biotechnology, and Betsy Williford for help with illustrations.
+Financial support: This work was supported by Contract HHSN266200700005C from the National Institute of
+Allergy and Infectious Diseases and Cancer Center Support (CORE) grant P30 CA 21765 from the National Cancer
+Institute, National Institutes of Health, and by the American Lebanese Syrian Associated Charities (ALSAC).
+References
+Adisasmito W, Chan PK, Lee N, Oner AF, Gasimov V, Aghayev F, Zaman M, Bamgboye E, Dogan
+N, Coker R, Starzyk K, Dreyer NA, Toovey S. Effectiveness of antiviral treatment in human
+influenza H5N1 infections: Analysis from a Global Patient Registry. J. Infect. Dis. 2010; 202:1154­
+1160. [PubMed: 20831384]
+Barr IG, Deng YM, Iannello P, Hurt AC, Komadina N. Adamantane resistance in influenza A(H1)
+viruses increased in 2007 in South East Asia but decreased in Australia and some other countries.
+Antiviral Res. 2008; 80:200­205. [PubMed: 18611414]
+Boltz DA, Douangngeun B, Phommachanh P, Sinthasak S, Mondry R, Obert CA, Seiler P, Keating R,
+Suzuki Y, Hiramatsu H, Govorkova EA, Webster RG. Emergence of H5N1 avian influenza viruses
+with reduced sensitivity to neuraminidase inhibitors and novel reassortants in Lao PDR. J. Gen.
+Virology. 2010; 91:949­959. [PubMed: 20016036]
+Bright RA, Shay DK, Shu B, Cox NJ, Klimov AI. Adamantane resistance among influenza A viruses
+isolated early during the 2005­2006 influenza season in the United States. JAMA. 2006; 295:891­
+894. [PubMed: 16456087]
+Govorkova et al. Page 9
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Chan PKS, Lee N, Zaman M, Adisasmito W, Coker R, Hanshaoworakul W, Gasimov V, Oner AF,
+Dogan N, Tsang O, Phommasack B, Touch S, Bamgboye E, Swenson A, Toovey S, Dreyer NA.
+Determinants of antiviral effectiveness in influenza virus A subtype H5N1. J. Infect. Dis. 2012;
+206:1359­1366. [PubMed: 22927451]
+Cheung C-L, Rayner JM, Smith GJD, Wang P, Naipospos TSP, Zhang J, Yuen K-Y, Webster RG,
+Peiris JSM, Guan Y, Chen H. Distribution of amantadine-resistant H5N1 avian influenza variants in
+Asia. J. Infec. Dis. 2006; 193:1626­1629. [PubMed: 16703504]
+Deyde VM, Xu X, Bright RA, Shaw M, Smith CB, Zhang Y, Shu Y, Gubareva LV, Cox NJ, Klimov
+AI. Surveillance of resistance to adamantanes among influenza A(H3N2) and A(H1N1) viruses
+isolated worldwide. J. Infect. Dis. 2007; 196:249­257. [PubMed: 17570112]
+Dharan NJ, Gubareva LV, Meyer JJ, Okomo-Adhiambo M, McClinton RC, Marshall SA, St George
+K, Epperson S, Brammer L, Klimov AI, Bresee JS, Fry AM. Oseltamivir-Resistance Working
+Group. Infections with oseltamivir-resistant influenza A(H1N1) virus in the United States. JAMA.
+2009; 301:1034­1041. [PubMed: 19255110]
+Earhart KC, Elsayed NM, Saad MD, Gubareva LV, Nayel A, Deyde VM, Abdelsattar A, Abdelghani
+AS, Boynton BR, Mansour MM, Essmat HM, Klimov A, Shuck-Lee D, Monteville MR, Tjaden JA.
+Oseltamivir resistance mutation N294S in human influenza A(H5N1) virus in Egypt. J. Infect.
+Public Health. 2009; 2:74­80. [PubMed: 20701864]
+Govorkova EA, Ilyushina NA, McClaren JL, Naipospos TSP, Douangngeun B, Webster RG.
+Susceptibility of highly pathogenic H5N1 influenza viruses to the neuraminidase inhibitor
+oseltamivir differs in vitro and in a mouse model. Antimicrob. Agents and Chemoth. 2009;
+53:3088­3096.
+Govorkova EA, Ilyushina NA, Marathe BM, McClaren JL, Webster RG. Competitive fitness of
+oseltamivir-sensitive and -resistant highly pathogenic H5N1 influenza viruses in a ferret model. J.
+Virol. 2010; 84:8042­8050. [PubMed: 20519385]
+Gubareva LV, Trujillo AA, Okomo-Adhiambo M, Mishin VP, Deyde VM, Sleeman K, Nguyen HT,
+Sheu TG, Garten RJ, Shaw MW, Fry AM, Klimov AI. Comprehensive assessment of 2009
+pandemic influenza A (H1N1) virus drug susceptibility in vitro. Antivir. Ther. 2010; 15(8):1151­
+1159. [PubMed: 21149922]
+Hay AJ, Zambon MC, Wolstenholme AJ, Skehel JJ, Smith MH. Molecular basis of resistance of
+influenza A viruses to amantadine. J. Antimicrob. Chemother. Suppl B. 1986:19­29.
+He G, Qiao J, Dong C, He C, Zhao L, Tian Y. Amantadine-resistance among H5N1 avian influenza
+viruses isolated in Northern China. Antiviral Res. 2008; 77:72­76. [PubMed: 17897729]
+Hill AW, Guralnick RP, Wilson MJC, Habib F, Janies D. Evolution of drug resistance in multiple
+distinct lineages of H5N1 avian influenza. Infection Genetics and Evolution. 2009; 9:169­178.
+Hurt AC, Selleck P, Komadina N, Shaw R, Brown L, Barr IG. Susceptibility of highly pathogenic
+A(H5N1) avian influenza viruses to the neuraminidase inhibitors and adamantanes. Antiviral Res.
+2007; 73:228­231. [PubMed: 17112602]
+Hurt AC, Holien JK, Barr IG. In vitro generation of neuraminidase inhibitor resistance in A(H5N1)
+influenza viruses. Antimicrob. Agents Chemother. 2009; 53:4433­4440. [PubMed: 19651908]
+Ilyushina NA, Hoffmann E, Salomon R, Webster RG, Govorkova EA. Amantadine-oseltamivir
+combination therapy for H5N1 influenza virus infection in mice. Antiviral Ther. 2007; 12:363­
+370.
+Ilyushina NA, Seiler JP, Rehg JE, Webster RG, Govorkova EA. Effect of neuraminidase inhibitor­
+resistant mutations on pathogenicity of clade 2.2 A/Turkey/15/06 (H5N1) influenza virus in
+ferrets. PLoS Pathogens. 2010; 27(5):e1000933. 6. [PubMed: 20523902]
+Ison MG. Antivirals and resistance: influenza virus. Curr. Opin. Virol. 2011; 1:563­573. [PubMed:
+22440914]
+de Jong MD, Tran TT, Truong HK, Vo MH, Smith GJD, Nguyen VC, Cam VC, Phan TQ, Do QH,
+Guan Y, Peiris JSM, Tran TH, Farrar J. Oseltamivir resistance during treatment of influenza A
+(H5N1) infection. J. Engl. J. Med. 2005; 353:2667­2672.
+Kayali G, El-Shesheny R, Kutkat MA, Kandeil AM, Mostafa A, Ducatez MF, McKenzie PP,
+Govorkova EA, Nasraa MH, Webster RG, Webby RJ, Ali MA. Continuing threat of influenza
+(H5N1) virus circulation in Egypt. Emerg. Infect. Dis. 2011; 17:2306­2308. [PubMed: 22172626]
+Govorkova et al. Page 10
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Kiso M, Ozawa M, Le MT, Imai H, Takahashi K, Kakugawa S, Noda T, Horimoto T, Kawaoka Y.
+Effect of an asparagine-to-serine mutation at position 294 in neuraminidase on the pathogenicity
+of highly pathogenic H5N1 influenza A virus. J. Virol. 2011; 85:4667­4672. [PubMed: 21367898]
+Li KS, Guan Y, Wang J, Smith GJD, Xu KM, Duan L, Rahardjo AP, Puthavathana P, Buranathai C,
+Nguyen TD, Estoepangestie ATS, Chaisingh A, Auewarakul P, Long HT, Hanh NTH, Webby RJ,
+Poon LLM, Chen H, Shortridge KF, Yuen KY, Webster RG, Peiris JSM. Genesis of a highly
+pathogenic and potentially pandemic H5N1 influenza virus in eastern Asia. Nature. 2004;
+430:209­213. [PubMed: 15241415]
+Le QM, Kiso M, Someya K, Sakai YT, Nguyen TH, Nguyen KH, Pham ND, Ngyen HH, Yamada S,
+Muramoto Y, Horimoto T, Takada A, Goto H, Suzuki T, Suzuki Y, Kawaoka Y. Avian flu:
+isolation of drug-resistant H5N1 virus. Nature. 2005; 437:1108. [PubMed: 16228009]
+Le MT, Wertheim HF, Nguyen HD, Taylor W, Hoang PV, Vuong CD, Nguyen HL, Nguyen HH,
+Nguyen TQ, Nguyen TV, Van TD, Ngoc BT, Bui TN, Nguyen BG, Nguyen LT, Luong ST, Phan
+PH, Pham HV, Nguyen T, Fox A, Nguyen CV, Do HQ, Crusat M, Farrar J, Nguyen HT, de Jong
+MD, Horby P. Influenza A H5N1 clade 2.3.4 virus with a different antiviral susceptibility profile
+replaced clade 1 in humans in Northern Vietnam. PLoS One. 2008; 3:e3339. [PubMed: 18836532]
+Maurer-Stroh S, Ma J, Lee RTC, Sirota FL, Eisenhaber F. Mapping the sequence mutations of the
+2009 H1N1 influenza Avirus neuraminidase relative to drug and antibody binding sites. Biology
+Direct. 2009; 4:18. [PubMed: 19457254]
+Marinova-Petkova A, Georgiev G, Seiler P, Darnell D, Franks J, Krauss S, Webby RJ, Webster RG.
+Spread of Influenza Virus A (H5N1) Clade 2.3.2.1 to Bulgaria in Common Buzzards. Emerg.
+Infect. Dis. 2012; 18:1596­1602. [PubMed: 23017273]
+Matrosovich M, Klenk HD. Natural and synthetic sialic acid-containing inhibitors of influenza virus
+receptor binding. Reviews in Med. Virology. 2003; 13:85­97.
+McKimm-Breschkin JL, Selleck PW, Usman TB, Johnson MA. Reduced sensitivity of influenza A
+(H5N1) viruses. Emerg. Infect. Dis. 2007; 9:1354­1357. [PubMed: 18252107]
+McKimm-Breshkin JL. Influenza neuraminidase inhibitors: antiviral action and mechanism of
+resistance. Influenza and Other Resp. Viruses. 2012; 7(Suppl. 1):25­36.
+Monne I, Fusaro A, Al-Blowi MH, Ismail MM, Khan OA, Dauphin G, Tripodi A, Salviato A,
+Marangon S, Capua I, Cattoli G. Co-circulation of two sublineages of HPAI H5N1 virus in the
+Kingdom of Saudi Arabia with unique molecular signatures suggesting separate introductions into
+the commercial poultry and falconry sectors. J. Gen, Virol. 2008; 89:2691­2697. [PubMed:
+18931064]
+Nguyen HT, Fry AM, Loveless PA, Klimov AI, Gubareva LV. Recovery of a multidrug-resistant
+strain of pandemic influenza A 2009 (H1N1) virus carrying a dual H275Y/I223R mutation from a
+child after prolonged treatment with oseltamivir. Clin. Infect. Dis. 2010; 51:983­984. [PubMed:
+20858074]
+Pinto LH, Holsinger LJ, Lamb RA. Influenza virus M2 protein has ion channel activity. Cell. 1992;
+69:517­528. [PubMed: 1374685]
+Pizzorno A, Abed Y, Boivin G. Influenza drug resistance. Semin. Respir. Crit. Care Med. 2011;
+32:409­422. [PubMed: 21858746]
+Potier M, Mameli L, Belisle M, Dallaire L, Melanxon SB. Fluorometric assay of neuraminidase with a
+sodium (4-methylumbelliferyl-alpha-D-N-acetylneuraminate) substrate. Anal. Biochem. 1979;
+94:287­296. [PubMed: 464297]
+Prieto-Lara E, Llanos-Méndez A. Safety and immunogenicity of prepandemic H5N1 influenza
+vaccines: a systematic review of the literature. Vaccine. 2010; 28:4328­4334. [PubMed:
+20403350]
+Rameix-Welti MA, Agou F, Buchy P, Mardy S, Aubin JT, Veron M, van der Verf S, Naffakhl N.
+Natural variation can significantly alter sensitivity to oseltamivir of influenza A (H5N1) viruses.
+Antimicrob. Agents Chemother. 2006; 50:3809­3815. [PubMed: 16940075]
+Simonsen L, Viboud C, Grenfell BT, Dushoff J, Jennings L, Smit M, Macken C, Hata M, Gog J,
+Miller MA, Holmes EC. The genesis and spread of reassortment human influenza A/H3N2 viruses
+conferring adamantine resistance. Mol. Biol. Evol. 2007; 24:1811­1820. [PubMed: 17522084]
+Govorkova et al. Page 11
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Schunemann HJ, Hill SR, Kakad M, Bellamy R, Uyeki TM, Hayden FG, Yazdanpanah Y, Beigel J,
+Chotpitayasunondh T, Del Mar C, Farrar J, Tran TH, Ozbay B, Sugaya N, Fukuda K, Shindo N,
+Stockman L, Vist GE, Croisier A, Nagjdaliyev A, Roth C, Thomson G, Zucker H, Oxman AD.
+WHO Rapid Advice Guideline Panel on Avian Influenza. WHO Rapid Advice Guidelines for
+pharmacological management of sporadic human infection with avian influenza A (H5N1) virus.
+Lancet Infect. Dis. 2007; 7:21­31. [PubMed: 17182341]
+Sleeman K, Mishin VP, Deyde VM, Furuta Y, Klimov AI, Gubareva LV. In vitro antiviral activity of
+favipiravir (T-705) against drug-resistant influenza and 2009 A(H1N1) viruses. Antimicrob.
+Agents Chemother. 2010; 54:2517­2524. [PubMed: 20350949]
+Subbarao K, Luke C. H5N1 viruses and vaccines. PLoS Pathog. 2007; 3(3):e40. [PubMed: 17335350]
+Tamura K, Peterson D, Peterson N, Stecher G, Nei M, Kumar S. MEGA5: molecular evolutionary
+genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony
+methods. Mol. Biol. Evol. 2011; 28:2731­2739. [PubMed: 21546353]
+Tosh C, Murugkar HV, Nagarajan S, Tripathi S, Katare M, Jain R, Khandia R, Syed Z, Behera P, Patil
+S, Kulkarni DD, Dubey SC. Emergence of amantadine-resistant avian influenza H5N1 virus in
+India. Virus Genes. 2011; 42:10­15. [PubMed: 20953687]
+van der Vries E, Stelma FF, Boucher CA. Emergence of a multidrug-resistant pandemic influenza A
+(H1N1) virus. N. Engl. J. Med. 2010; 363:1381­1382. [PubMed: 20879894]
+Wallace RG, Fitch WM. Influenza A H5N1 immigration is filtered out at some international borders.
+PLoS ONE. 2008; 3(2):e1697. [PubMed: 18301773]
+Weinstock DM, Zuccottim G. The evolution of influenza resistance and treatment. JAMA. 2009;
+301:1066­1069. [PubMed: 19255112]
+Writing Committee of the Second World Health Organization Consultation on Clinical Aspects of
+Human Infection with Avian Influenza A (H5N1) Virus. Update on avian influenza A (H5N1)
+virus infection in humans. N. Engl. J. Med. 2008; 358:261­73. [PubMed: 18199865]
+WHO/OIE/FAO H5N1 Evolution Working Group. Continued evolution of highly pathogenic avian
+influenza A (H5N1): updated nomenclature. Influenza and Other Respiratory Viruses. 2012; 6:1­
+5. http://www.ncbi.nlm.nih.gov/pubmed?term=22035148. [PubMed: 22035148]
+World Health Organization. [Accessed October 2012] Clinical management of human infection with
+avian influenza A (H5N1) virus. Updated advice 15 August, 2007. 2007. Available: http://
+www.who.int/csr/disease/avian_influenza/guidelines/ClinicalManagement07.pdf.
+World Health Organization. Cumulative number of confirmed human cases for avian influenza
+A(H5N1) reported to WHO, 2003­2012. 2012. http://www.who.int/influenza/
+human_animal_interface/EN_GIP_20120810CumulativeNumberH5N1cases.pdf (Published 10
+August 2012).
+Yen H-L, Ilyushina NA, Salomon R, Hoffmann E, Webster RG, Govorkova EA. Neuraminidase
+inhibitor­resistant recombinant A/Vietnam/1203/04 (H5N1) influenza viruses retain their
+replication efficiency and pathogenicity in vitro and in vivo. J. Virology. 2007; 81:12418­12426.
+[PubMed: 17855542]
+Zaraket H, Saito R, Suzuki Y, Baranovich T, Dapat C, Caperig-Dapat I, Suzuki H. Genetic makeup of
+amantadine-resistant and oseltamivir-resistant human influenza A/H1N1 viruses. J. Clin.
+Microbiol. 2010; 48:1085­1092. [PubMed: 20129961]
+Zhou J, Zou L, Zhang X, Liao J, Ni H, Hou N, Wang Y, Li H, Wu J, Jonges M, Meijer A, Koopmans
+M, Ke C. Adamantane- and oseltamivir-resistant seasonal A (H1N1) and pandemic A (H1N1)
+2009 influenza viruses in Guangdong, China, during 2008 and 2009. J. Clin. Microbiol. 2011;
+49:2651­2655. [PubMed: 21593267]
+Govorkova et al. Page 12
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Highlights
+· Highly pathogenic H5N1 influenza viruses are susceptible to neuraminidase
+inhibitors in vitro.
+· A low incidence of oseltamivir-resistant markers in H5N1 influenza viruses
+have been detected.
+· An increase in susceptibility of H5N1 influenza viruses to adamantanes in
+recent years was identified.
+· Antiviral susceptibility surveillance of H5N1 influenza viruses is important.
+Govorkova et al. Page 13
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Fig. 1.
+Plots showing the IC50 (nM) ranges of oseltamivir and zanamivir for human and avian
+influenza H5N1 viruses tested by a phenotypic fluorescence-based NA inhibition assay.
+Panels A and B show quantile box plots illustrating the mean IC50 values for oseltamivir (A)
+and zanamivir (B) for H5N1 viruses isolated in different years. Panels C and D show
+quantile box plots illustrating the mean IC50 values for oseltamivir (C) and zanamivir (D)
+for H5N1 viruses representative of different HA clades.
+Govorkova et al. Page 14
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Fig. 2.
+Prevalence of amantadine-resistant variants among highly pathogenic human and avian
+influenza H5N1 viruses isolated in 2002­2012. The distribution of amantadine-resistant
+variants with either single or double M2 mutations among human (A) and avian (B) HP
+H5N1 influenza viruses. The numbers correspond to the number of amantadine-resistant
+variants per total number of viruses isolated during different time periods.
+Govorkova et al. Page 15
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Govorkova et al. Page 16
+Table
+1
+Avian
+influenza
+A
+(H5N1)
+viruses
+with
+elevated
+IC
+50
+values
+detected
+in
+this
+study
+Avian
+H5N1
+virus
+HA
+clade
+NA
+enzyme
+inhibition
+assay
+(mean
+IC
+50
+±
+SD,
+nM)
+a
+No.
+mutant
+clones/No.
+total
+(NA
+mutation)
+c
+Oseltamivir
+Fold
+change
+b
+Zanamivir
+Fold
+change
+b
+A/chicken/Jogjakarta/BBVET/IX/2004
+2.1.3
+4.87
+±
+1.30
+2.95
+0.69
+±
+0.04
+1.21
+5/30
+(G31A,
+E228D,
+T383A,
+P420S,
+F422L)
+A/muscovy
+duck/Vietnam/56/2007
+2.3.4
+9.25
+±
+0.33
+5.61
+0.56
+±
+0.05
+0.98
+4/28
+(P73S,
+S90F,
+V267A,
+G414D)
+A/goose/Guandong/1051/2008
+2.3.4
+5.34
+±
+0.14
+3.24
+0.57
+±
+0.07
+1.0
+5/30
+(I122T,
+S125P,
+P162S,
+G210S,
+I374N)
+Susceptible
+viruses
+(n=92)
+All
+clades
+1.48
+±
+0.19
+N/A
+0.65
+±
+0.07
+N/A
+N/A
+a
+The
+concentration
+of
+NA
+inhibitor
+that
+reduced
+NA
+activity
+by
+50%
+relative
+to
+a
+reaction
+mixture
+containing
+virus
+but
+no
+inhibitor.
+Values
+are
+the
+mean
+±
+SD
+from
+three
+independent
+experiments.
+b
+Compared
+with
+H5N1
+susceptible
+viruses.
+c
+TOPO
+TA
+cloning
+was
+performed
+using
+PCR
+products
+obtained
+by
+amplification
+of
+the
+virus
+inoculum.
+Individual
+virus
+clones
+were
+analyzed
+by
+sequencing.
+Each
+clone
+possesses
+a
+single
+NA
+mutation.
+N/A
+­
+not
+applicable:
+Amino
+acid
+numbering
+is
+based
+on
+N2
+NA.
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Govorkova et al. Page 17
+Table
+2
+Incidence
+of
+NA
+inhibitor­resistant
+mutants
+among
+human
+and
+avian
+influenza
+A
+(H5N1)
+viruses
+isolated
+in
+2002­2012
+Origin/
+Year
+of
+isolation
+Number
+of
+H5N1
+viruses
+with
+molecular
+markers
+of
+NA
+inhibitor
+resistance
+associated
+with
+a
+Resistant
+genotype
+Reduced
+susceptibility
+genotype
+No.
+of
+mutant/
+No.
+of
+isolates
+(%)
+E119A
+H274Y
+N294S
+No.
+of
+mutant/
+No.
+of
+isolates
+(%)
+I117V
+K150N
+I222V/T/K
+S246N
+Human
+isolates
+2002­2004
+0/44
+(0)
+--
+b
+--
+--
+2/44
+(4.5)
+--
+1
+1
+--
+2005­2007
+6/173
+(3.5)
+--
+4
+c
+3
+c
+3/173
+(1.7)
+--
+--
+3
+--
+2008­2012
+1/70
+(1.4)
+--
+--
+1
+2/70
+(2.9)
+1
+--
+1
+--
+2002­2012
+7/287
+(2.4)
+--
+4
+c
+4
+c
+7/287
+(2.4)
+1
+1
+5
+--
+Avian
+isolates
+2002­2004
+2/387
+(0.5)
+--
+1
+1
+7/387
+(1.8)
+4
+--
+3
+--
+2005­2007
+4/953
+(0.4)
+--
+3
+1
+35/953
+(3.7)
+d
+9
+11
+8
+11
+2008­2012
+7/376
+(1.9)
+4
+e
+--
+3
+8/376
+(2.1)
+4
+e
+3
+1
+2
+2002­2012
+13/1716
+(0.8)
+4
+e
+4
+5
+50/1716
+(2.9)
+d
+17
+e
+14
+12
+13
+a
+Analysis
+is
+based
+on
+GenBank
+data.
+Amino
+acid
+numbering
+is
+based
+on
+N2
+NA.
+Additionally
+one
+avian
+H5N1
+virus
+isolated
+in
+2007
+had
+V116A
+and
+two
+viruses
+isolated
+in
+2003
+and
+2005
+had
+D198N
+NA
+mutations
+(results
+not
+shown).
+Percentage
+was
+determined
+by
+the
+number
+of
+resistant
+isolates
+per
+the
+total
+number
+of
+viruses
+isolated
+during
+the
+particular
+time
+period.
+b
+--,
+no
+NA
+mutations
+were
+detected.
+c
+A/Hanoi/30408/2005
+(H5N1)
+virus
+(Le
+et
+al,
+2005)
+or
+the
+same
+strain
+designated
+as
+A/Vietnam/HN30408/2005
+(Sleeman
+et
+al.,
+2010)
+had
+clones
+with
+either
+H274Y
+or
+N294S
+NA
+mutations.
+They
+were
+counted
+once
+in
+resistant
+phenotype
+as
+H274Y.
+d
+Indicates
+existence
+of
+viruses
+carrying
+double
+NA
+amino
+acid
+mutations.
+One
+H5N1
+virus
+isolated
+in
+2006
+had
+both
+I222T
+and
+S246N
+NA
+mutations,
+Three
+H5N1
+viruses
+isolated
+in
+2007
+had
+both
+K150N
+and
+S246N
+NA
+mutations.
+They
+were
+counted
+in
+reduced
+susceptibility
+phenotype
+only.
+e
+Indicates
+existence
+of
+viruses
+with
+double
+NA
+amino
+acid
+mutations.
+Two
+H5N1
+influenza
+viruses
+isolated
+in
+2008
+had
+NA
+mutations
+at
+positions
+E119A
+and
+I117V.
+They
+were
+counted
+in
+resistant
+phenotype
+only.
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Govorkova et al. Page 18
+Table
+3
+Incidence
+of
+amantadine-resistant
+mutants
+among
+human
+and
+avian
+influenza
+A(H5N1)
+viruses
+isolates
+in
+2002­2012
+based
+on
+HA
+clade
+Origin/
+Year
+of
+isolation
+No.
+of
+isolates
+No.
+of
+amantadine-resistant
+H5N1
+variants
+(%)
+representative
+of
+HA
+Clade
+a
+1
+1.1
+2.1.1
+2.1.2
+2.1.3
+2.2
+2.3.2
+2.3.4
+Others
+b
+Human
+isolates
+2002­2004
+36
+36
+(100.0)
+--
+c
+--
+--
+--
+--
+--
+--
+--
+2005­2007
+82
+13
+(15.9)
+1
+(1.2)
+--
+15
+(18.3)
+52
+(63.4)
+--
+--
+1
+(1.2)
+--
+2008­2012
+12
+--
+10
+(83.3)
+--
+--
+--
+--
+--
+2
+(16.7)
+--
+2002­2012
+130
+49
+(37.7)
+11
+(8.5)
+--
+15
+(11.5)
+52
+(40.0)
+--
+--
+3
+(2.3)
+--
+Avian
+isolates
+2002­2004
+193
+162
+(83.9)
+--
+5
+(2.6)
+--
+--
+--
+3
+(1.6)
+--
+23
+(11.9)
+2005­2007
+200
+84
+(42.0)
+44
+(22.0)
+--
+5
+(2.5)
+13
+(6.5)
+8
+(4.0)
+5
+(2.5)
+24
+(12.0)
+17
+(8.5)
+2008­2012
+74
+14
+(18.9)
+18
+(24.3)
+--
+--
+2
+(2.7)
+18
+(24.3)
+7
+(9.5)
+11
+(14.9)
+4
+(5.4)
+2002­2012
+467
+260
+(55.7)
+62
+(13.3)
+5
+(1.1)
+5
+(1.1)
+15
+(3.2)
+26
+(5.6)
+15
+(3.2)
+35
+(7.5)
+44
+(9.4)
+a
+Clade
+determination
+based
+on
+phylogenetic
+analysis
+of
+HA
+gene
+from
+amantadine-resistant
+mutants
+with
+WHO
+reference
+clade
+(WHO
+2012).
+Percentage
+was
+determined
+by
+the
+number
+of
+resistant
+isolates
+per
+the
+total
+number
+of
+viruses
+isolated
+during
+the
+particular
+time
+period.
+b
+Other
+include
+HA
+clades
+0,
+2.5,
+3­9.
+c
+No
+amantadine-resistant
+viruses
+detected.
+Antiviral Res. Author manuscript; available in PMC 2014 May 01.
+

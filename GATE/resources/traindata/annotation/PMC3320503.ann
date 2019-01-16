@@ -1,0 +1,116 @@
+T1	Protein 3716 3720	Luke
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 4524 4532	Thailand
+#2	AnnotatorNotes T2	END
+T3	Protein 7906 7915	Influenza
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 8018 8022	1187
+#4	AnnotatorNotes T4	END
+T5	Protein 11694 11702	RESEARCH
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 11780 11784	2005
+#6	AnnotatorNotes T6	END
+T7	Protein 13864 13873	Influenza
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 13976 13980	1189
+#8	AnnotatorNotes T8	END
+T9	Protein 18761 18769	RESEARCH
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 18847 18851	2005
+#10	AnnotatorNotes T10	END
+T11	Protein 19564 19579	Acknowledgments
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 24731 24732	.
+#12	AnnotatorNotes T12	END
+T13	Location 106 111	Nepal
+#13	AnnotatorNotes T13	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T14	Location 1547 1555	Thailand
+#14	AnnotatorNotes T14	<latlng>15.5, 101</latlng><geoID>1605651 </geoID><pop>67089500</pop>
+T15	Location 2589 2594	Nepal
+#15	AnnotatorNotes T15	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T16	Location 2979 2984	Nepal
+#16	AnnotatorNotes T16	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T17	Location 3190 3198	San Jose
+#17	AnnotatorNotes T17	<latlng>37.17333, -121.81741</latlng><geoID>11789001</geoID>
+T18	Location 3200 3202	CA
+#18	AnnotatorNotes T18	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T19	Location 3204 3207	USA
+#19	AnnotatorNotes T19	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T20	Location 3419 3426	Bangkok
+#20	AnnotatorNotes T20	<latlng>13.75398, 100.50144</latlng><geoID>1609348 </geoID><pop>5104476</pop>
+T21	Location 3428 3436	Thailand
+#21	AnnotatorNotes T21	<latlng>15.5, 101</latlng><geoID>1605651 </geoID><pop>67089500</pop>
+T22	Location 3484 3495	San Antonio
+#22	AnnotatorNotes T22	<latlng>29.47215, -98.52468</latlng><geoID>11788957</geoID>
+T23	Location 3497 3502	Texas
+#23	AnnotatorNotes T23	<latlng>31.25044, -99.25061</latlng><geoID>4736286 </geoID><pop>22875689</pop>
+T24	Location 3710 3715	Nepal
+#24	AnnotatorNotes T24	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T25	Location 4589 4596	Atlanta
+#25	AnnotatorNotes T25	<latlng>33.76267, -84.42314</latlng><geoID>7317640</geoID><pop>420003</pop>
+T26	Location 4598 4605	Georgia
+#26	AnnotatorNotes T26	<latlng>32.75042, -83.50018</latlng><geoID>4197000 </geoID><pop>8975842</pop>
+T27	Location 4818 4826	Mannheim
+#27	AnnotatorNotes T27	<latlng>49.49639, 8.5</latlng><geoID>3220722 </geoID><pop>294627</pop>
+T28	Location 4828 4835	Germany
+#28	AnnotatorNotes T28	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T29	Location 5285 5293	Carlsbad
+#29	AnnotatorNotes T29	<latlng>33.12455, -117.28354</latlng><geoID>11788776</geoID>
+T30	Location 5295 5297	CA
+#30	AnnotatorNotes T30	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T31	Location 5299 5302	USA
+#31	AnnotatorNotes T31	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T32	Location 5775 5778	USA
+#32	AnnotatorNotes T32	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T33	Location 5771 5773	CA
+#33	AnnotatorNotes T33	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T34	Location 5761 5769	Valencia
+#34	AnnotatorNotes T34	<latlng>34.44361, -118.60953</latlng><geoID>5405288 </geoID><pop>148456</pop>
+T35	Location 6336 6339	USA
+#35	AnnotatorNotes T35	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T36	Location 6332 6334	CA
+#36	AnnotatorNotes T36	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T37	Location 6319 6330	Foster City
+#37	AnnotatorNotes T37	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T38	Location 6530 6533	USA
+#38	AnnotatorNotes T38	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T39	Location 6526 6528	WI
+#39	AnnotatorNotes T39	<latlng>44.50024, -90.00041</latlng><geoID>5279468 </geoID><pop>5535168</pop>
+T40	Location 6517 6524	Madison
+#40	AnnotatorNotes T40	<latlng>43.08097, -89.39172</latlng><geoID>5261482</geoID><pop>233209</pop>
+T41	Location 6988 6993	Nepal
+#41	AnnotatorNotes T41	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T42	Location 7048 7054	Bhutan
+#42	AnnotatorNotes T42	<latlng>27.5, 90.5</latlng><geoID>1252634 </geoID><pop>699847</pop>
+T43	Location 7088 7093	Japan
+#43	AnnotatorNotes T43	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID><pop>127288000</pop>
+T44	Location 8088 8093	Nepal
+#44	AnnotatorNotes T44	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T45	Location 9716 9724	Ramstein
+#45	AnnotatorNotes T45	<latlng>49.44452, 7.55533</latlng><geoID>2850536 </geoID><pop>7480</pop>
+T46	Location 9726 9733	Germany
+#46	AnnotatorNotes T46	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T47	Location 9924 9931	Germany
+#47	AnnotatorNotes T47	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T48	Location 17531 17540	Singapore
+#48	AnnotatorNotes T48	<latlng>1.36667, 103.8</latlng><geoID>1880251 </geoID><pop>4701069</pop>
+T49	Location 17542 17548	Taiwan
+#49	AnnotatorNotes T49	<latlng>24, 121</latlng><geoID>1668284 </geoID><pop>22894384</pop>
+T50	Location 17550 17555	China
+#50	AnnotatorNotes T50	<latlng>35,105</latlng><geoID>1814991 </geoID><pop>1330044000</pop>
+T51	Location 17557 17566	Australia
+#51	AnnotatorNotes T51	<latlng>-25, 135</latlng><geoID>2077456 </geoID><pop>21515754</pop>
+T52	Location 17568 17574	Canada
+#52	AnnotatorNotes T52	<latlng>60.10867, -113.64258</latlng><geoID>6251999 </geoID><pop>33679000</pop>
+T53	Location 17584 17597	United States
+#53	AnnotatorNotes T53	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T54	Location 17684 17697	United States
+#54	AnnotatorNotes T54	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T55	Location 17765 17778	United States
+#55	AnnotatorNotes T55	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T56	Location 18018 18023	Nepal
+#56	AnnotatorNotes T56	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T57	Location 15341 15346	Nepal
+#57	AnnotatorNotes T57	<latlng>28, 84</latlng><geoID>1282988 </geoID><pop>28951852</pop>
+T58	Location 9967 9971	Asia
+#58	AnnotatorNotes T58	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>

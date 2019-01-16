@@ -1,0 +1,12 @@
+T1	Protein 1 7	Volume
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 40 48	Research
+#2	AnnotatorNotes T2	END
+T5	Protein 200 206	Ulrich
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 400 406	X15890
+#6	AnnotatorNotes T6	END
+T3	Protein 4556 4571	Acknowledgments
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 5093 5094	1
+#4	AnnotatorNotes T4	END

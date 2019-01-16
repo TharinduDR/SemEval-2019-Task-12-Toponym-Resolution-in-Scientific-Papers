@@ -1,0 +1,1382 @@
+Clinical Epidemiology
+
+Dovepress
+open access to scientific and medical research
+
+O r i g i nal R esearch
+
+Open Access Full Text Article
+
+Comorbidity and survival of Danish breast cancer
+patients from 2000–2011: a population-based
+cohort study
+This article was published in the following Dove Press journal:
+Clinical Epidemiology
+1 November 2013
+Number of times this article has been viewed
+
+Anne Gulbech Ording 1
+Deirdre P Cronin-Fenton 1
+Jacob Bonde Jacobsen 1
+Mette Nørgaard 1
+Reimar Wernich Thomsen 1
+Peer Christiansen 2
+Mette Søgaard 1
+Department of Clinical
+Epidemiology, 2 Breast and Endocrine
+Section, Department of Surgery P,
+Aarhus University Hospital, Aarhus,
+Denmark
+1
+
+Objective: Previous studies have suggested that breast cancer survival in Denmark has
+improved, primarily in cancer patients without comorbidity. We therefore conducted a
+­population-based cohort study to examine recent temporal changes in survival and mortality
+among breast cancer patients with different extents of comorbidity.
+Methods: We used population-based medical and administrative registries to identify breast
+cancer patients diagnosed between 2000 and 2011 in the Central Denmark Region. We defined
+comorbid diseases according to the Charlson Comorbidity Index (CCI), including a history of
+hospitalization for comorbid disease up to 10 years before breast cancer diagnosis. We studied
+the impact of comorbidities on overall 1- and 5-year survival in different calendar time periods,
+using a hybrid analysis for survival prediction in the most recent calendar periods.
+Results: We included 9,329 breast cancer patients. The proportion of patients within different comorbidity categories remained stable from 2000 to 2011. One-year survival improved
+from 91% in 2000–2002 to 95% in 2009–2011, while 5-year survival improved from 72% to
+a predicted 78%. During the entire study period, comorbidity was a strong predictor of the
+survival of breast cancer patients. However, we observed improvements over time in 1- and
+5-year survival for all comorbidity groups. During the 12-year study period, the estimated 5-year
+survival for patients with a high comorbidity disease burden (CCI score $3) increased from
+25% to a predicted 50%, and their 5-year age-adjusted mortality hazard ratio (HR) fell from
+4.0 (95% confidence interval [CI]: 3.0, 5.4) to 2.7 (95% CI: 2.0, 3.6), respectively, compared
+with patients with no comorbid disease.
+Conclusion: Survival of breast cancer patients diagnosed in the Central Denmark Region
+improved from 2000 to 2011, regardless of the extent of comorbid disease.
+Keywords: breast neoplasm, survival, mortality, comorbidity, prognosis
+
+Introduction
+
+Correspondence: Anne G Ording
+Department of Clinical Epidemiology,
+Aarhus University Hospital,
+Olof Palmes Allé 43-45,
+8200 Aarhus N, Denmark
+Tel +45 87 16 80 63
+Fax +45 87 16 72 15
+Email ao@dce.au.dk
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+http://dx.doi.org/10.2147/CLEP.S47152
+
+Denmark currently has the second-highest breast cancer incidence and the highest
+mortality from breast cancer in Europe.1 Breast cancer risk increases with age, so
+breast cancer patients often have comorbid disease at the time of their breast cancer
+diagnosis.2–4 In Denmark, this amounts to about 20% of all breast cancer patients.5
+Several studies have documented that comorbid diseases negatively affect survival
+after breast cancer.6,7 Mortality in these patients may often be related to the comorbidities rather than to the breast cancer,8,9 in particular among patients with extensive
+comorbidity.10–12
+Survival after breast cancer has improved in Denmark13 but, according to a
+recent Danish population-based study, the 5-year survival of breast cancer patients
+
+Clinical Epidemiology 2013:5 (Suppl 1) 39–46
+© 2013 Ording et al, publisher and licensee Dove Medical Press Ltd. This is an Open Access article
+which permits unrestricted noncommercial use, provided the original work is properly cited.
+
+39
+
+Dovepress
+
+Ording et al
+
+with a Charlson Comorbidity Index (CCI) score of $3
+has only increased from 42.0% in 1990–1994 to 43.5% in
+2000–2004.14 Another previous Danish population-based
+study reported slightly poorer survival over time among
+breast cancer patients with severe comorbidity between
+1995 and 2005.5 The aim of this paper was to study temporal
+changes in mortality in a cohort of breast cancer patients
+diagnosed between 2000 and 2011 by extent of comorbid
+diseases, as defined by the CCI.15
+
+dementia; connective tissue disease; ulcer disease; ­diabetes;
+renal disease; cancer; and HIV/AIDS. Breast cancer diagnoses were excluded when we computed the CCI score.
+Furthermore, cancer diagnoses within 60 days before the
+breast cancer diagnosis were excluded from the calculations,
+in order to eliminate possible nonspecific cancer diagnoses
+related to the breast cancer diagnosis. We ­categorized comorbidities as none (CCI score = 0), medium (CCI score = 1–2),
+or high (CCI score $3).
+
+Materials and methods
+Study population
+
+Vital status
+
+This population-based cohort study was based in the ­Central
+Denmark Region, which has approximately 1.2 million
+inhabitants. The Danish National Health service provides
+universal, tax-supported health care, guaranteeing unfettered
+access to all general practitioners and hospitals. Accurate
+and unambiguous linkage of all registries at the individual
+level is possible in Denmark by means of the unique civil
+personal registration (CPR) number assigned to each Danish
+inhabitant at birth or immigration.16
+
+Identification of patients
+with breast cancer
+The Danish National Registry of Patients (NRP) contains
+information on all discharges from nonpsychiatric hospitals
+in Denmark since 1977 and from emergency room and outpatient visits at hospitals since 1995.17 Each hospital discharge
+or outpatient visit is recorded in the registry with one primary
+diagnosis and one or more secondary diagnoses classified
+according to the International Classification of Diseases, 8th
+edition (ICD-8) until the end of 1993, and ICD-10 thereafter.
+Using the NRP, we identified all female patients with an
+invasive breast cancer diagnosis (ICD-10 code C50) from
+January 1, 2000 to December 31, 2011. Patients with breast
+cancer diagnosed between 1977 and 1999 were excluded.
+
+Comorbid diseases at breast
+cancer diagnosis
+To assess patient comorbidity, the CCI score was computed at
+date of breast cancer diagnosis for each patient based on NRP
+records up to 10 years preceding the date of the breast cancer
+diagnosis (Table S1).15 The CCI has been adapted and validated for use with hospital discharge data for the prediction
+of short- and long-term mortality.15,18 The following disease
+categories are included: liver diseases; myocardial infarction;
+congestive heart failure; peripheral vascular disease; chronic
+pulmonary disease; cerebrovascular disease; hemiplegia;
+
+40
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Members of the study cohort were linked via their CPR
+number to the Danish Civil Registration System to obtain
+information on vital status.16 This registry has recorded all
+changes in vital status and migration for the entire Danish
+population since 1968, with daily electronic updates. The outcome was overall mortality defined as death from any cause.
+Follow-up was through patient date of death, emigration, or
+December 31, 2011, whichever occurred first.
+
+Statistical analysis
+The prevalence of comorbidity was computed in study
+patients during four 3-year calendar time periods (2000–2002,
+2003–2005, 2006–2008, and 2009–2011). For each comorbidity category, we constructed Kaplan–Meier survival
+curves for the different calendar time periods. Next, we
+used Cox proportional hazards regression to compute 1- and
+5-year crude and age-adjusted hazard ratios as a measure
+of relative overall mortality to assess the association of
+comorbidity with mortality using a CCI score = 0 as the
+reference category in each calendar time period. In the latter
+periods, we predicted 1- and 5-year survival using a hybrid
+analysis in which survival was estimated using the survival
+experience of patients in the previous calendar time periods.19
+Breast cancer stage and grade were considered to be causal
+intermediates in the association between comorbidity and
+mortality, thus not included in the analyses. The proportional
+hazards assumption was assessed graphically and found to
+be appropriate. All analyses were performed using SAS
+software (v 9.2; SAS Institute Inc, Cary, NC, USA). The
+Danish Data Protection Agency approved the study (record
+number 2009-41-3866).
+
+Results
+The study included 9,329 women diagnosed with breast
+cancer between 2000 and 2011. As shown in Tables 1 and
+S2, the proportion of patients across different CCI score
+categories and individual comorbid diseases was relatively
+
+Clinical Epidemiology 2013:5 (Suppl 1)
+
+Dovepress
+
+Comorbidity and survival of Danish breast cancer patients
+
+Table 1 Distribution of breast cancer patients diagnosed between 2000
+and 2011 by CCI score in four calendar time periods
+2000–2002
+
+2003–2005
+
+Patients, n (%) 1,980 (21)
+1,994 (21)
+Median age
+62 (53, 74)
+61 (52, 72)
+in years (IQR)
+Age group, n (%)
+15–49 years 380 (19)
+416 (21)
+50–74 years 1,134 (57)
+1,156 (58)
+466 (24)
+422 (21)
+$75 years
+CCI score, n (%)
+0
+1,567 (79)
+1,557 (78)
+1–2
+344 (17)
+349 (18)
+69 (3)
+88 (4)
+$3
+Median age in years (IQR) by CCI score
+0
+60 (51, 71)
+59 (50, 69)
+1–2
+71 (60, 80)
+71 (60, 80)
+74 (65, 81)
+75 (63, 81)
+$3
+
+2006–2008
+
+2009–2011
+
+2,410 (26)
+63 (54, 71)
+
+2,945 (32)
+63 (54, 70)
+
+395 (16)
+1,569 (65)
+446 (19)
+
+459 (16)
+1,996 (68)
+490 (17)
+
+1,862 (77)
+445 (18)
+103 (4)
+
+2,290 (78)
+536 (18)
+119 (4)
+
+61 (53, 68)
+68 (61, 78)
+71 (63, 79)
+
+62 (53, 68)
+68 (61, 78)
+71 (65, 79)
+
+Abbreviations: CCI, Charlson Comorbity Index; IQR, interquartile range.
+
+constant over the 4 calendar time periods. The number of
+breast cancer patient diagnoses increased markedly between
+2000 and 2011, almost doubling for patients aged between
+50 and 74 years. The proportion of patients aged 50 to 74
+years increased markedly in each time period from 57% in
+2000–2002 to 68% in 2009–2011. In contrast, the proportion
+of patients aged 75+ years fell from 24% to 17%.
+
+Survival
+Table 2 presents survival and relative mortality across calendar periods and age groups. Overall, the 1-year survival
+improved between 2000–2002 and 2009–2011, from 91%
+to 95%, while 5-year survival improved from 72% to 78%.
+The 1- and 5-year survival remained rather constant over
+time among patients aged 15–49 years and for patients
+aged $75 years, but increased from 93% to 97% and from
+77% to 84%, respectively, for patients aged between 50 and
+74 (Table 2).
+Figure 1 shows the Kaplan–Meier survival curves for
+breast cancer patients in the four calendar time periods
+stratified by CCI score. For patients with a CCI score
+of $3, survival improved markedly after the period
+2000–2002.
+Table 3 shows that patients with high CCI scores had
+higher 1- and 5-year mortality compared with those with low
+CCI scores, regardless of calendar period. However, 1-year
+survival improved over time for all three CCI ­categories.
+Most of the 1-year survival improvement in all CCI categories seemed to happen early in the study period, ie, between
+2000–2002 and 2003–2005, in particular for the CCI
+score $3 patients. 5-year survival also improved over time
+
+Clinical Epidemiology 2013:5 (Suppl 1)
+
+Table 2 One- and 5-year survival and relative mortality stratified
+by four calendar time periods and age group of breast cancer
+diagnosis
+Year of diagnosis
+1 year
+Survival
+ Adjusted
+MRRa
+5 years
+Survival
+ Adjusted
+MRRa
+Age group
+15–49 years
+ 1-year
+survival
+ 5-year
+survival
+50–74 years
+ 1-year
+survival
+ 5-year
+survival
+$75 years
+ 1-year
+survival
+ 5-year
+survival
+
+2000–2002
+
+2003–2005
+
+2006–2008
+
+2009–2011
+
+91%
+(90%–93%)
+1
+(reference)
+
+94%
+(93%–95%)
+0.66
+(0.52–0.83)
+
+94%
+(93%–95%)
+0.73
+(0.59–0.91)
+
+95%
+(94%–96%)
+0.59
+(0.47–0.74)
+
+72%
+(70%–74%)
+1
+(reference)
+
+75%
+(73%–77%)
+0.87
+(0.77–0.98)
+
+75%
+(74%–77%)b
+0.87
+(0.77–0.98)b
+
+78%
+(76%–80%)b
+0.78
+(0.69–0.87)b
+
+97%
+(95%–98%)
+85%
+(81%–88%)
+
+99%
+(97%–99%)
+86%
+(82%–89%)
+
+99%
+(97%–99%)
+89%
+(86%–92%)b
+
+97%
+(95%–98%)
+87%
+(84%–90%)b
+
+93%
+(92%–95%)
+77%
+(74%–79%)
+
+96%
+(94%–97%)
+80%
+(78%–82%)
+
+95%
+(94%–96%)
+80%
+(78%–82%)b
+
+97%
+(96%–98%)
+84%
+(82%–85%)b
+
+82%
+(78%–85%)
+50%
+(45%–54%)
+
+85%
+(82%–88%)
+50%
+(45%–54%)
+
+83%
+(79%–86%)
+48%
+(43%–52%)b
+
+84%
+(80%–87%)
+48%
+(43%–52%)b
+
+Notes: 95% confidence intervals are presented in brackets. aAdjusted for differences
+in age and comorbidity; bpredicted values.
+Abbreviation: MRR, mortality rate ratio.
+
+in all CCI categories, with most pronounced ­improvements
+seen among CCI score $3 patients – from 25% in 2000–2002
+to a predicted 50% in 2009–2011 (Table 3).
+
+Mortality
+The mortality across calendar periods was rather constant
+from 2003–2005 (Table 3). Compared with 1-year mortality
+in patients with no recorded comorbidity, the adjusted 1-year
+mortality hazard ratio (HR) for patients with a CCI score of
+1–2 remained similar over time, ie, HR = 1.8 (95% confidence
+interval [CI]: 1.3, 2.6) in 2000–2002 and HR = 1.9 (95% CI:
+1.2, 2.8) in 2009–2011. The corresponding 5-year mortality
+HRs were 1.4 (95% CI: 1.1, 1.7) in 2000–2002 and 1.8 (95%
+CI: 1.5, 2.2) in 2009–2011. For patients with a CCI score
+of $3, the adjusted 1-year mortality HRs compared with
+patients with no recorded comorbidity were 5.4 (3.5, 8.5)
+in 2000–2002 and 5.7 (3.6, 9.2) in 2009–2011. The 5-year
+mortality HRs were 4.0 (95% CI: 3.0, 5.4) in 2000–2002 and
+2.7 (95% CI: 2.0, 3.6) in 2009–2011, compared with patients
+without comorbidity.
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+41
+
+Dovepress
+
+Ording et al
+
+Table 3 One- and 5-year survival and relative mortality for
+patients diagnosed with breast cancer in four calendar time
+periods stratified by Charlson Comorbidity Index score
+Year of diagnosis
+2000–2002
+1 year
+Survival
+Adjusted MRRa
+5 years
+Survival
+Adjusted MRRa
+2003–2005
+1 year
+Survival
+Adjusted MRRa
+5 years
+Survival
+Adjusted MRRa
+2006–2008
+1 year
+Survival
+Adjusted MRRa
+5 years
+Survival
+Adjusted MRRa
+2009–2011
+1 year
+Survival
+Adjusted MRRa
+5 years
+Survival
+Adjusted MRRa
+
+Charlson comorbidity index score
+0
+
+1–2
+
+$3
+
+94%
+(93%–95%)
+1 (reference)
+
+86%
+(82%–89%)
+1.8 (1.3–2.6)
+
+62%
+(50%–73%)
+5.4 (3.5–8.5)
+
+76%
+(74%–78%)
+1 (reference)
+
+63%
+(57%–68%)
+1.4 (1.1–1.7)
+
+25%
+(15%–35%)
+4.0
+(3.0–5.4)
+
+96%
+(95%–97%)
+1 (reference)
+
+90%
+(87%–93%)
+1.6 (1.1–2.5)
+
+77%
+(67%–85%)
+3.49 (2.1–5.9)
+
+80%
+(78%–82%)
+1 (reference)
+
+61%
+(56%–66%)
+1.7 (1.3–2.0)
+
+43%
+(33%–53%)
+2.5 (1.9–3.4)
+
+95%
+(94%–96%)
+1 (reference)
+
+91%
+(88%–93%)
+1.4 (0.9–2.0)
+
+75%
+(65%–82%)
+3.8 (2.4–6.0)
+
+80%
+(78%–82%)b
+1 (reference)
+
+62%
+(58%–67%)b
+1.6 (1.3–1.9)b
+
+47%
+(37%–56%)b
+2.4 (1.8–3.3)b
+
+97%
+(96%–98%)
+1 (reference)
+
+92%
+(89%–94%)
+1.9 (1.2–2.8)
+
+74%
+(64%–81%)
+5.7 (3.6–9.2)
+
+83%
+(81%–84%)b
+1 (reference)
+
+64%
+(59%–68%)b
+1.8 (1.5–2.2)b
+
+50%
+(40%–59%)b
+2.7 (2.0–3.6)b
+
+Notes: 95% confidence intervals are presented in brackets. aAdjusted for differences
+in age; bpredicted values.
+Abbreviation: MRR, mortality rate ratio.
+
+Discussion
+This large, population-based study showed improved
+1- and 5-year survival of breast cancer patients diagnosed
+in the Central Denmark Region from 2000 through 2011.
+Comorbidity was a strong predictor of breast cancer
+survival. Nonetheless, we observed marked improvements in survival for all comorbidity groups. This survival
+improvement over time was even seen among patients
+with the highest comorbidity burden (CCI scores 3),
+and corresponded to a decreased 5-year mortality HR
+compared with patients with no comorbid diseases (CCI
+score = 0).
+42
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Our study has both strengths and weaknesses. We used
+nationwide administrative and medical registries with
+prospectively collected data to identify breast cancer patients,
+comorbid diseases, and vital status, thereby avoiding selection bias and loss to follow-up. We obtained our information
+on breast cancer diagnoses from the NRP, which is regularly
+updated, allowing us to include the newest available data on
+breast cancer cases in Denmark. Moreover, the validity of
+breast cancer diagnoses recorded in the NRP is high.20
+We used the CCI as a measure of the comorbidity burden.
+This index has been validated as a predictor of mortality
+in breast cancer patients and is often used in breast cancer
+research, allowing for comparison of our results with previous studies. The positive predictive values of diseases
+included in the CCI collected from the NRP have been
+shown to be high.21 However, as outpatient diagnoses were
+first added to the NRP in 1995, our study may be prone to
+nondifferential misclassification of the CCI score. Such
+misclassification would result if the inclusion of outpatient
+diagnoses increases the recorded comorbidity in the NRP
+and the measured comorbidity burden over time. Outpatient
+diagnoses are likely to be less severe than inpatient diagnoses,
+which may have contributed to the improvement in survival
+among patients with severe comorbidity. On the other hand,
+the effect of including outpatient diagnoses since 1995 should
+have resulted in a survival improvement before 2011, which
+was not the case.5,14 Furthermore, we lacked information on
+lifestyle-related risk factors (such as body mass index, smoking habits, and alcohol consumption), breast cancer stage,
+cancer treatment, and medication prescribed for the comorbid
+diseases, which could all affect the mortality rate.
+We note relatively few patients with a CCI score $3, and
+estimates were therefore imprecise. Nonetheless, our findings
+are consistent with previous studies, which have indicated
+higher mortality among breast cancer patients with comorbidity compared with those without comorbidity.5,14 There
+are several plausible explanations for this survival disparity.
+First, severe comorbidity could increase mortality independent
+of breast ­cancer, which in itself has a good prognosis. Second,
+women with extensive comorbid disease may have their cancer
+diagnosed at a later stage because comorbidity may mask any
+evidence of an underlying cancer.22 On the other hand, other
+studies have found a higher prevalence of comorbidity in earlier
+stages of breast cancer, probably because patients with comorbidity often require frequent medical care.23,24 Third, treatment
+options may be restricted in patients with severe comorbidity,
+who may not tolerate aggressive cancer treatment.25,26
+Yet, in contrast to a recent Danish 5-year follow-up of
+breast cancer patients diagnosed from 1990 to 2004, which did
+Clinical Epidemiology 2013:5 (Suppl 1)
+
+Dovepress
+
+Comorbidity and survival of Danish breast cancer patients
+
+Breast cancer
+A
+100
+
+Survival probability (%)
+
+90
+80
+70
+60
+50
+40
+30
+2000–2002
+2003–2005
+2006–2008
+2009–2011
+
+20
+10
+
+Predicted
+Predicted
+Predicted
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Years after diagnosis
+B
+100
+90
+
+2000–2002
+2003–2005
+2006–2008
+2009–2011
+
+Survival probability (%)
+
+80
+
+Predicted
+Predicted
+Predicted
+
+70
+60
+50
+40
+30
+20
+10
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Years after diagnosis
+
+C
+100
+90
+
+2000–2002
+2003–2005
+2006–2008
+2009–2011
+
+Survival probability (%)
+
+80
+
+Predicted
+Predicted
+Predicted
+
+70
+60
+50
+40
+30
+20
+10
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Years after diagnosis
+Figure 1 Kaplan–Meier survival curves for breast cancer patients in four calendar time periods stratified by Charlson Comorbidity Index score.
+Notes: (A) Charlson score = 0; (B) Charlson score = 1–2; (C) Charlson score $3.
+
+Clinical Epidemiology 2013:5 (Suppl 1)
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+43
+
+Ording et al
+
+not indicate any improvement in 5-year survival for patients
+with a CCI score of $3,14 we observed a marked improvement
+in predicted 5-year survival for patients with a CCI score of
+$3 during the calendar period from 2000–2011. However, this
+may be due to chance, because the survival of the 69 patients
+diagnosed in the reference period (2000–2002) was relatively
+poor compared with the following calendar time periods,
+so it is difficult to make any conclusions on these findings.
+Introduction of the national Danish mammography screening
+program for women 50–69 years of age in 2007 is expected
+to result in an increased number of patients in this age group,
+which is consistent with our findings, as well as more patients
+diagnosed with early-stage breast cancer and thereby in need
+of less extensive treatment, since less extensive treatment
+is well tolerated regardless of comorbidity level. This may
+decrease the survival gap related to comorbidity.
+Although comorbidity is associated with a poorer prognosis in breast cancer, we observed a modest improvement
+in survival, which may suggest improved management of
+breast cancer patients with comorbidity over time.
+
+Acknowledgments
+Cancer analyses in the Central Denmark Region were conducted as part of the Aarhus University Disease Epidemiology and Outcomes (AUDEO) Project at the Department of
+Clinical Epidemiology, Aarhus University Hospital.
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+
+1. Organisation for Economic Co-operation and Development.
+Health at a Glance: Europe 2012. Available from: http://dx.doi.
+org/10.1787/9789264183896-en. Accessed July 12, 2013.
+2. Engholm G, Ferlay J, Christensen N, et al. NORDCAN – a Nordic tool
+for cancer information, planning, quality control and research. Acta
+Oncol. 2010;49(5):725–736.
+3. Extermann M. Measurement and impact of comorbidity in older cancer
+patients. Crit Rev Oncol Hematol. 2000;35(3):181–200.
+4. Ogle KS, Swanson GM, Woods N, Azzouz F. Cancer and comorbidity:
+redefining chronic diseases. Cancer. 2000;88(3):653–663.
+5. Cronin-Fenton DP, Nørgaard M, Jacobsen J, et al. Comorbidity and
+survival of Danish breast cancer patients from 1995 to 2005. Br J Cancer.
+2007;96(9):1462–1468.
+6. Patnaik JL, Byers T, Diguiseppi C, Denberg TD, Dabelea D. The influence of comorbidities on overall survival among older women diagnosed
+with breast cancer. J Natl Cancer Inst. 2011;103(14):1101–1111.
+7. Ring A, Sestak I, Baum M, et al. Influence of comorbidities and age on
+risk of death without recurrence: a retrospective analysis of the Arimidex,
+Tamoxifen Alone or in Combination trial. J Clin Oncol. 2011;29(32):
+4266–4272.
+
+44
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Dovepress
+8. Riihimaki M, Thomsen H, Brandt A, Sundquist J, Hemminki K. Death
+causes in breast cancer patients. Ann Oncol. 2012;23(3):604–610.
+9. Bush D, Smith B, Younger J, Michaelson JS. The non-breast-cancer
+death rate among breast cancer patients. Breast Cancer Res Treat.
+2011;127(1):243–249.
+10. Schonberg MA, Marcantonio ER, Li D, Silliman RA, Ngo L, McCarthy EP.
+Breast cancer among the oldest old: tumor characteristics, treatment
+choices, and survival. J Clin Oncol. 2010;28(12):2038–2045.
+11. Janssen-Heijnen ML, Houterman S, Lemmens VE, Louwman MW,
+Maas HA, Coebergh JW. Prognostic impact of increasing age and comorbidity in cancer patients: a population-based approach. Crit Rev
+Oncol Hematol. 2005;55(3):231–240.
+12. Jørgensen TL, Hallas J, Friis S, Herrstedt J. Comorbidity in elderly
+cancer patients in relation to overall and cancer-specific mortality. Br
+J Cancer. 2012;106(7):1353–1360.
+13. Lietzen LW, Sørensen GV, Ording AG, et al. Survival of women
+with breast cancer in central and northern Denmark, 1998–2009. Clin
+Epidemiol. 2011;3 Suppl 1:35–40.
+14. Land LH, Dalton SO, Jensen MB, Ewertz M. Impact of comorbidity
+on mortality: a cohort study of 62,591 Danish women diagnosed with
+early breast cancer, 1990–2008. Breast Cancer Res Treat. 2012;131(3):
+1013–1020.
+15. Charlson ME, Pompei P, Ales KL, MacKenzie CR. A new method of
+classifying prognostic comorbidity in longitudinal studies: development
+and validation. J Chronic Dis. 1987;40(5):373–383.
+16. Pedersen CB. The Danish Civil Registration System. Scand J Public
+Health. 2011;39(Suppl 7):22–25.
+17. Lynge E, Sandegaard JL, Rebolj M. The Danish National Patient
+Register. Scand J Public Health. 2011;39(Suppl 7):30–33.
+18. Klabunde CN, Legler JM, Warren JL, Baldwin LM, Schrag D. A refined
+comorbidity measurement algorithm for claims-based studies of
+breast, prostate, colorectal, and lung cancer patients. Ann Epidemiol.
+2007;17(8):584–590.
+19. Brenner H, Rachet B. Hybrid analysis for up-to-date long-term survival
+rates in cancer registries with delayed recording of incident cases. Eur
+J Cancer. 2004;40(16):2494–2501.
+20. [Short and long term survival after hospitalization for selected cancer diseases in North Jutland County, Viborg County and Aarhus County.] Kortog Langtidsoverlevelse Efter Indlæggelse for Udvalgte Kræftsygdomme i
+Nordjyllands, Viborg og Århus Amter 1985−2003. ­Department of Clinical
+Epidemiology, Aarhus University Hospital; 2004. ­Available from: http://
+kea.au.dk/files/28.pdf. Accessed January 21, 2013. Danish.
+21. Thygesen SK, Christiansen CF, Christensen S, Lash TL, Sørensen HT.
+The predictive value of ICD-10 diagnostic coding used to assess
+Charlson comorbidity index conditions in the population-based Danish
+National Registry of Patients. BMC Med Res Methodol. 2011;11:83.
+22. Gonzalez EC, Ferrante JM, Van Durme DJ, Pal N, Roetzheim RG.
+Comorbid illness and the early detection of cancer. South Med J.
+2001;94(9):913–920.
+23. Yasmeen S, Xing G, Morris C, Chlebowski RT, Romano PS. Comorbidities
+and mammography use interact to explain racial/ethnic disparities in
+breast cancer stage at diagnosis. Cancer. 2011;117(14):3252–3261.
+24. Yancik R, Wesley MN, Ries LA, Havlik RJ, Edwards BK, Yates JW.
+Effect of age and comorbidity in postmenopausal breast cancer patients
+aged 55 years and older. JAMA. 2001;285(7):885–892.
+25. Berglund A, Wigertz A, Adolfsson J, et al. Impact of comorbidity on
+management and mortality in women diagnosed with breast cancer.
+Breast Cancer Res Treat. 2012;135(1):281–289.
+26. Hancke K, Denkinger MD, König J, et al. Standard treatment of
+female patients with breast cancer decreases substantially for women
+aged 70 years and older: a German clinical cohort study. Ann Oncol.
+2010;21(4):748–753.
+
+Clinical Epidemiology 2013:5 (Suppl 1)
+
+Dovepress
+
+Comorbidity and survival of Danish breast cancer patients
+
+Supplementary tables
+Table S1 Specification of Charlson diseases, International Classification of Diseases (ICD)-8 and ICD-10 codes, and the Charlson
+weight
+Charlson comorbidity
+index variable
+
+ICD-8
+
+ICD-10
+
+Charlson
+weight
+
+Myocardial infarction
+Congestive heart failure
+
+I21, I22, I23
+I50, I11.0, I13.0, I13.2
+
+1
+1
+
+Peripheral vascular disease
+Cerebrovascular disease
+Dementia
+Chronic pulmonary disease
+
+410
+427.09, 427.10, 427.11, 427.19,
+428.99, 782.49
+440, 441, 442, 443, 444, 445
+430–438
+290.09–290.19, 293.09
+490–493, 515–518
+
+1
+1
+1
+1
+
+Connective tissue disease
+
+712, 716, 734, 446, 135.99
+
+Ulcer disease
+Mild liver disease
+
+530.91, 530.98, 531–534
+571, 573.01, 573.04
+
+Diabetes type 1
+Diabetes type 2
+Hemiplegia
+Moderate-to-severe renal disease
+
+249.00, 249.06, 249.07, 249.09
+250.00, 250.06, 250.07, 250.09
+344
+403, 404, 580–583, 584, 590.09,
+593.19, 753.10–753.19, 792
+
+I70, I71, I72, I73, I74, I77
+I60–I69, G45, G46
+F00–F03, F05.1, G30
+J40–J47, J60–J67, J68.4, J70.1, J70.3,
+J84.1, J92.0, J96.1, J98.2, J98.3
+M05, M06, M08, M09, M30, M31,
+M32, M33, M34, M35, M36, D86
+K22.1, K25–K28
+B18, K70.0-K70.3, K70.9, K71, K73,
+K74, K76.0
+E10.0, E10.1, E10.9
+E11.0, E11.1, E11.9
+G81, G82
+I12, I13, N00–N05, N07, N11, N14,
+N17–N19, Q61
+
+249.01–249.05, 249.08
+250.01–250.05, 250.08
+140–194
+204–207
+200–203, 275.59
+070.00, 070.02, 070.04, 070.06,
+070.08, 573.00, 456.00–456.09
+195–198, 199
+079.83
+
+E10.2–E10.8
+E11.2–E11.8
+C00–C75
+C91–C95
+C81–C85, C88, C90, C96
+B15.0, B16.0, B16.2, B19.0, K70.4,
+K72, K76.6, I85
+C76–C80
+B21–B24
+
+Diabetes with end organ damage
+Type 1
+Type 2
+Any tumor
+Leukemia
+Lymphoma
+Moderate-to-severe liver disease
+
+1
+1
+1
+1
+2
+2
+2
+
+Metastatic solid tumor
+AIDS
+
+2
+2
+2
+3
+6
+6
+
+Table S2 Distribution of breast cancer patients diagnosed between 2000 and 2011 by individual Charlson disease in four calendar
+time periods
+
+Myocardial infarction
+Congestive heart failure
+Peripheral vascular disease
+Cerebrovascular disease
+Dementia
+Chronic pulmonary disease
+Connective tissue disease
+Ulcer disease
+Mild liver disease
+Diabetes I and II
+Hemiplegia
+Moderate to severe renal disease
+Diabetes with end organ damage
+Any tumor
+Leukemia
+Lymphoma
+Moderate-to-severe liver disease
+Metastatic solid tumor
+AIDS
+Total
+
+Clinical Epidemiology 2013:5 (Suppl 1)
+
+Calendar time period
+2000–2002
+2003–2005
+N
+%
+N
+%
+
+2006–2008
+N
+%
+
+2009–2011
+N
+%
+
+N
+
+%
+
+28
+43
+52
+79
+6
+91
+52
+39
+8
+37
+7
+6
+21
+80
+2
+6
+3
+7
+0
+1,980
+
+38
+49
+47
+102
+14
+134
+58
+54
+18
+49
+4
+27
+40
+90
+0
+12
+5
+22
+0
+2,410
+
+32
+47
+69
+116
+16
+145
+75
+49
+23
+73
+4
+23
+38
+130
+4
+9
+3
+22
+0
+2,945
+
+134
+196
+222
+388
+45
+475
+222
+178
+53
+199
+20
+71
+140
+362
+7
+30
+14
+67
+0
+9,329
+
+1.4
+2.1
+2.4
+4.2
+0.5
+5.1
+2.4
+1.9
+0.6
+2.1
+0.2
+0.8
+1.5
+3.9
+0.1
+0.3
+0.2
+0.7
+
+1.4
+2.2
+2.6
+4.0
+0.3
+4.6
+2.6
+2.0
+0.4
+1.9
+0.4
+0.3
+1.1
+4.0
+0.1
+0.3
+0.2
+0.4
+0
+100
+
+36
+57
+54
+91
+9
+105
+37
+36
+4
+40
+5
+15
+41
+62
+1
+3
+3
+16
+0
+1,994
+
+1.8
+2.9
+2.7
+4.6
+0.5
+5.3
+1.9
+1.8
+0.2
+2.0
+0.3
+0.8
+2.1
+3.1
+0.1
+0.2
+0.2
+0.8
+0
+100
+
+All
+
+1.6
+2.0
+2.0
+4.2
+0.6
+5.6
+2.4
+2.2
+0.7
+2.0
+0.2
+1.1
+1.7
+3.7
+0
+0.5
+0.2
+0.9
+0
+100
+
+1.1
+1.6
+2.3
+3.9
+0.5
+4.9
+2.5
+1.7
+0.8
+2.5
+0.1
+0.8
+1.3
+4.4
+0.1
+0.3
+0.1
+0.7
+0
+100
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+100
+
+45
+
+Ording et al
+
+Clinical Epidemiology
+
+Publish your work in this journal
+Clinical Epidemiology is an international, peer-reviewed, open access
+journal focusing on disease and drug epidemiology, identification of
+risk factors and screening procedures to develop optimal preventative
+initiatives and programs. Specific topics include: diagnosis, prognosis,
+treatment, screening, prevention, risk factor modification, systematic
+
+Dovepress
+
+Dovepress
+reviews, risk & safety of medical interventions, epidemiology & biostatical methods, evaluation of guidelines, translational medicine, health
+policies & economic evaluations. The manuscript management system
+is completely online and includes a very quick and fair peer-review
+system, which is all easy to use.
+
+Submit your manuscript here: http://www.dovepress.com/clinical-epidemiology-journal
+
+46
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Clinical Epidemiology 2013:5 (Suppl 1)
+

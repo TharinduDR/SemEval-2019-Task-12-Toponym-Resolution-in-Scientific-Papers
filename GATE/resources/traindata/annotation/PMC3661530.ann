@@ -1,0 +1,116 @@
+T1	Protein 118 123	Maria
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 335 342	Finland
+#2	AnnotatorNotes T2	END
+T3	Protein 1927 1935	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3305 3307	fi
+#4	AnnotatorNotes T4	END
+T5	Protein 18421 18424	doi
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 18662 18668	e64447
+#6	AnnotatorNotes T6	END
+T7	Protein 22864 22867	doi
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 22897 22901	g001
+#8	AnnotatorNotes T8	END
+T9	Protein 23670 23673	doi
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 23806 23812	e64447
+#10	AnnotatorNotes T10	END
+T11	Protein 27193 27196	doi
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 27226 27230	g002
+#12	AnnotatorNotes T12	END
+T13	Protein 27598 27601	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 27734 27740	e64447
+#14	AnnotatorNotes T14	END
+T15	Protein 29679 29682	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 29815 29821	e64447
+#16	AnnotatorNotes T16	END
+T17	Protein 32083 32086	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 32219 32225	e64447
+#18	AnnotatorNotes T18	END
+T19	Protein 38595 38610	Acknowledgments
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 48248 48254	e64447
+#20	AnnotatorNotes T20	END
+T21	Location 558 565	Finland
+#21	AnnotatorNotes T21	<latlng>64, 26</latlng><geoID>660013</geoID><pop>5244000</pop>
+T22	Location 4062 4075	British Isles
+#22	AnnotatorNotes T22	<latlng>54, -4</latlng><geoID>2654669 </geoID>
+T23	Location 4107 4113	Russia
+#23	AnnotatorNotes T23	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T24	Location 4121 4132	Lake Baikal
+#24	AnnotatorNotes T24	<latlng>54, 109</latlng><geoID>2026982 </geoID>
+T25	Protein 6097 6101	PLOS
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 6158 6164	e64447
+#26	AnnotatorNotes T26	END
+T27	Location 6533 6540	Finland
+#27	AnnotatorNotes T27	<latlng>64, 26</latlng><geoID>660013 </geoID> <pop>5244000</pop>
+T28	Location 8083 8090	Finland
+#28	AnnotatorNotes T28	<latlng>64, 26</latlng><geoID>660013 </geoID> <pop>5244000</pop>
+T29	Location 8231 8238	Finland
+#29	AnnotatorNotes T29	<latlng>64, 26</latlng><geoID>660013 </geoID> <pop>5244000</pop>
+T30	Location 8064 8073	Konnevesi
+#30	AnnotatorNotes T30	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T31	Location 8710 8721	Hillerstorp
+#31	AnnotatorNotes T31	<latlng>NA</latlng><geoID>NA</geoID>
+T32	Location 8723 8729	Sweden
+#32	AnnotatorNotes T32	<latlng>62, 15</latlng><geoID>2661886 </geoID><pop>9828655</pop>
+T33	Location 9169 9171	UK
+#33	AnnotatorNotes T33	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T34	Location 9161 9167	Abbott
+#34	AnnotatorNotes T34	<latlng>NA</latlng><geoID>NA</geoID>
+T35	Location 10821 10823	UK
+#35	AnnotatorNotes T35	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T36	Location 10973 10982	Lithuania
+#36	AnnotatorNotes T36	<latlng>55.41667, 24</latlng><geoID>597427 </geoID><pop>2944459</pop>
+T37	Location 11034 11045	Foster City
+#37	AnnotatorNotes T37	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T38	Location 11047 11049	CA
+#38	AnnotatorNotes T38	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T39	Location 11051 11054	USA
+#39	AnnotatorNotes T39	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T40	Location 11306 11315	Cleveland
+#40	AnnotatorNotes T40	<latlng>NA</latlng><geoID>NA</geoID>
+T41	Location 11317 11320	USA
+#41	AnnotatorNotes T41	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T42	Location 12733 12742	Konnevesi
+#42	AnnotatorNotes T42	<latlng>62.66667, 26.33333</latlng><geoID>651697 </geoID><pop>2963</pop>
+T43	Location 12592 12601	Konnevesi
+#43	AnnotatorNotes T43	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T44	Protein 13126 13130	PLOS
+#44	AnnotatorNotes T44	BEGIN
+T45	Protein 13187 13193	e64447
+#45	AnnotatorNotes T45	END
+T46	Location 17819 17828	Konnevesi
+#46	AnnotatorNotes T46	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T47	Location 22949 22958	Konnevesi
+#47	AnnotatorNotes T47	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T48	Location 25074 25083	Konnevesi
+#48	AnnotatorNotes T48	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T49	Location 27281 27290	Konnevesi
+#49	AnnotatorNotes T49	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T50	Location 27927 27936	Konnevesi
+#50	AnnotatorNotes T50	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T51	Location 28760 28769	Konnevesi
+#51	AnnotatorNotes T51	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T52	Location 32729 32738	Konnevesi
+#52	AnnotatorNotes T52	<latlng>62.66667, 26.33333</latlng><geoID>651698</geoID><pop>2963</pop>
+T53	Location 32754 32766	Pieksämäki
+#53	AnnotatorNotes T53	<latlng>62.09098, 27.55531</latlng><geoID>641869 </geoID>
+T54	Location 33048 33055	Finland
+#54	AnnotatorNotes T54	<latlng>64, 26</latlng><geoID>660013 </geoID> <pop>5244000</pop>
+T55	Protein 36798 36801	doi
+#55	AnnotatorNotes T55	BEGIN
+T56	Protein 36934 36940	e64447
+#56	AnnotatorNotes T56	END
+T57	Location 3846 3852	Europe
+#57	AnnotatorNotes T57	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T58	Location 4096 4102	Europe
+#58	AnnotatorNotes T58	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 

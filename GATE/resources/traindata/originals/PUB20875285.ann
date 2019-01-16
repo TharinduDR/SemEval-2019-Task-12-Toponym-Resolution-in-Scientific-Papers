@@ -1,0 +1,60 @@
+T2	Location 57 65	Thailand
+#2	AnnotatorNotes T2	<latlng>15,100</latlng><geoID>1605651</geoID>
+T6	Location 429 437	Thailand
+#6	AnnotatorNotes T6	<latlng>15,100</latlng><geoID>1605651</geoID>
+T7	Location 830 836	Mexico
+#7	AnnotatorNotes T7	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T8	Location 845 858	United States
+#8	AnnotatorNotes T8	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T9	Location 952 960	Thailand
+#9	AnnotatorNotes T9	<latlng>15,100</latlng><geoID>1605651</geoID>
+T10	Location 993 999	Mexico
+#10	AnnotatorNotes T10	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T11	Location 1181 1189	Thailand
+#11	AnnotatorNotes T11	<latlng>15,100</latlng><geoID>1605651</geoID>
+T13	Location 1440 1448	Thailand
+#13	AnnotatorNotes T13	<latlng>15,100</latlng><geoID>1605651</geoID>
+T14	Location 1535 1543	Thailand
+#14	AnnotatorNotes T14	<latlng>15,100</latlng><geoID>1605651</geoID>
+T15	Location 1769 1777	Thailand
+#15	AnnotatorNotes T15	<latlng>15,100</latlng><geoID>1605651</geoID>
+T16	Location 1834 1842	Thailand
+#16	AnnotatorNotes T16	<latlng>15,100</latlng><geoID>1605651</geoID>
+T17	Location 1898 1911	North America
+#17	AnnotatorNotes T17	<latlng>-100.54688,46.07323</latlng><pop>0</pop><geoID>6255149</geoID>
+T1	Location 1916 1923	Eurasia
+#1	AnnotatorNotes T1	<latlng>NA</latlng><geoID>NA</geoID>
+T18	Location 1993 2001	Thailand
+#18	AnnotatorNotes T18	<latlng>15,100</latlng><geoID>1605651</geoID>
+T19	Location 2278 2286	Thailand
+#19	AnnotatorNotes T19	<latlng>15,100</latlng><geoID>1605651</geoID>
+T20	Location 2678 2686	Thailand
+#20	AnnotatorNotes T20	<latlng>15,100</latlng><geoID>1605651</geoID>
+T28	Location 6650 6657	Madison
+#28	AnnotatorNotes T28	<latlng>43.07305,-89.40123</latlng><pop>233209</pop><geoID>5261457</geoID>
+T29	Location 6663 6666	USA
+#29	AnnotatorNotes T29	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T30	Location 7091 7099	Thailand
+#30	AnnotatorNotes T30	<latlng>15,100</latlng><geoID>1605651</geoID>
+T31	Location 7689 7697	Thailand
+#31	AnnotatorNotes T31	<latlng>15,100</latlng><geoID>1605651</geoID>
+T42	Location 8603 8611	Thailand
+#42	AnnotatorNotes T42	<latlng>15,100</latlng><geoID>1605651</geoID>
+T48	Location 10006 10014	Thailand
+#48	AnnotatorNotes T48	<latlng>15,100</latlng><geoID>1605651</geoID>
+T49	Location 11233 11241	Thailand
+#49	AnnotatorNotes T49	<latlng>15,100</latlng><geoID>1605651</geoID>
+T111	Location 6659 6661	WI
+#111	AnnotatorNotes T111	<latlng>44.50024,-90.00041</latlng><pop>5535168</pop><geoID>5279468</geoID>
+T105	Protein 67 77	Donruethai
+#105	AnnotatorNotes T105	BEGIN
+T106	Protein 354 362	Kitikoon
+#106	AnnotatorNotes T106	END
+T107	Protein 4688 4696	Emerging
+#107	AnnotatorNotes T107	BEGIN
+T108	Protein 5124 5130	100665
+#108	AnnotatorNotes T108	END
+T109	Protein 11722 11737	Acknowledgments
+#109	AnnotatorNotes T109	BEGIN
+T110	Protein 17007 17011	2010
+#110	AnnotatorNotes T110	END

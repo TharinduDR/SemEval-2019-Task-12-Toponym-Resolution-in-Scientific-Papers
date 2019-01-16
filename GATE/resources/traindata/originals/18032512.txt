@@ -1,0 +1,929 @@
+﻿JOURNAL OF VIROLOGY, Feb. 2008, p. 1146­1154 Vol. 82, No. 3
+0022-538X/08/$08.000 doi:10.1128/JVI.01698-07
+Copyright © 2008, American Society for Microbiology. All Rights Reserved.
+A Single-Amino-Acid Substitution in the NS1 Protein Changes the
+Pathogenicity of H5N1 Avian Influenza Viruses in Mice
+Peirong Jiao,1
+Guobin Tian,1
+Yanbing Li,1
+Guohua Deng,1
+Yongping Jiang,1
+Chang Liu,1
+Weilong Liu,1
+Zhigao Bu,1
+Yoshihiro Kawaoka,2,3,4
+and Hualan Chen1
+*
+Animal Influenza Laboratory of the Ministry of Agriculture and National Key Laboratory of Veterinary Biotechnology,
+Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 427 Maduan Street, Harbin 150001,
+People's Republic of China1
+; Division of Virology, Department of Microbiology and Immunology,2
+and International Research Center for Infectious Diseases, Institute of Medical Science,3
+University of Tokyo, Tokyo 108-8639, Japan; and Department of Pathobiological Sciences,
+School of Veterinary Medicine, University of Wisconsin, Madison, Wisconsin 537064
+Received 6 August 2007/Accepted 6 November 2007
+In this study, we explored the molecular basis determining the virulence of H5N1 avian influenza viruses in
+mammalian hosts by comparing two viruses, A/Duck/Guangxi/12/03 (DK/12) and A/Duck/Guangxi/27/03 (DK/
+27), which are genetically similar but differ in their pathogenicities in mice. To assess the genetic basis for this
+difference in virulence, we used reverse genetics to generate a series of reassortants and mutants of these two
+viruses. We found that a single-amino-acid substitution of serine for proline at position 42 (P42S) in the NS1
+protein dramatically increased the virulence of the DK/12 virus in mice, whereas the substitution of proline for
+serine at the same position (S42P) completely attenuated the DK/27 virus. We further demonstrated that the
+amino acid S42 of NS1 is critical for the H5N1 influenza virus to antagonize host cell interferon induction and
+for the NS1 protein to prevent the double-stranded RNA-mediated activation of the NF-B pathway and the
+IRF-3 pathway. Our results indicate that the NS1 protein is critical for the pathogenicity of H5N1 influenza
+viruses in mammalian hosts and that the amino acid S42 of NS1 plays a key role in undermining the antiviral
+immune response of the host cell.
+H5N1 highly pathogenic avian influenza virus (HPAIV) is
+not only a catastrophic pathogen for poultry, but it poses a
+severe threat to the public health and may cause a future
+influenza pandemic. In 1997, highly pathogenic H5N1 avian
+influenza virus caused outbreaks in chickens in Hong Kong and
+was transmitted to humans, causing the deaths of 6 of 18
+people infected (4, 31). The H5N1 outbreaks in poultry, which
+became widespread in late 2003, affected at least 10 Asian
+countries initially, but since then, H5N1 viruses have been
+isolated from wild birds (3) and poultry in multiple countries in
+Asia, Europe, and Africa (http://www.oie.int). H5N1 influenza
+virus infections have occurred in several mammalian species,
+such as pigs, domestic cats, tigers, and leopards (http://www
+.oie.int). More importantly, human cases of H5N1 infections
+have been reported in many countries (http://www.who.int),
+with greater than 50% mortality caused by H5N1 viruses
+among infected humans. Such findings have sparked great in-
+terest in pandemic preparedness as well as in understanding
+the genetic determinants of influenza virus pathogenicity and
+the ability of the virus to cross species barriers to mammalian
+hosts.
+The pathogenicity of influenza viruses is determined by many
+factors, including virus-specific determinants encoded within the
+virus genome. In the H5 and H7 subtypes of influenza viruses,
+the multiple basic amino acids adjacent to the cleavage site of the
+hemagglutinin (HA) glycoprotein are a prerequisite for lethality
+in chickens and mice (12, 13, 30). For H5N1 influenza viruses, a
+reverse genetics study demonstrated that a single-amino-acid sub-
+stitution at position 627 of the PB2 protein from glutamic acid to
+lysine is responsible for virulence in mammalian species (12).
+Moreover, the amino acid at position 701 in PB2 plays a crucial
+role in the ability of H5N1 viruses of duck origin to replicate and
+be lethal in mice (16). This same PB2 amino acid residue con-
+tributes to the increased lethality of an H7N1 avian influenza
+virus in a mouse model (9).
+Several studies have reported that the NS1 protein is also
+associated with the virulence and host range of influenza vi-
+ruses in different animal models (17, 23, 27, 28). Influenza
+viruses in which the NS1 gene was deleted exhibited an atten-
+uated phenotype in mice and pigs (23, 28). The glutamic acid
+at position 92 of the NS1 protein of the H5N1 influenza virus
+that transmitted to humans in 1997 was shown to be critical in
+conferring virulence and resistance to antiviral cytokines in
+pigs (27). However, H5N1 virus with this amino acid residue is
+no longer circulating in nature and glutamic acid is not found
+in the NS1 proteins of other influenza viruses. Another amino
+acid substitution at position 149 of the NS1 protein from valine
+to alanine was shown to be responsible for the replication of a
+goose H5N1 influenza virus in chickens (17); however, this
+mutation did not affect virus virulence in mammals (H. Chen,
+unpublished data). Thus, the specific amino acid residues in
+avian NS1 that are responsible for conferring high virulence in
+mammals remain unclear.
+Host factors, such as the immune responses, also play a role
+in determining influenza virus pathogenicity (14). The inter-
+* Corresponding author. Mailing address: Harbin Veterinary Research
+Institute, CAAS, 427 Maduan Street, Harbin 150001, People's Republic
+of China. Phone: 86-451-85935079. Fax: 86-451-82733132. E-mail:
+hlchen1@yahoo.com.
+
+Published ahead of print on 21 November 2007.
+1146
+feron (IFN) response represents an early host defense mech-
+anism against viral infections and is an important component
+of innate immunity (33). The presence of double-stranded
+RNA (dsRNA) is a signal to the host cell that virus infection
+and replication are occurring and triggers a plethora of anti-
+viral host defense mechanisms (5, 29). The presence of dsRNA
+induces the synthesis of alpha/beta IFN (IFN-/) proteins
+through the activation of several transcription factors, includ-
+ing IRF-3, IRF-7, NF-B, and c-Jun/ATF2. Influenza viruses
+have dsRNA species of replication intermediates that elicit the
+host IFN response. The secreted IFN-/ induces an antiviral
+state in influenza virus-infected and uninfected neighboring
+cells by stimulating the transcription of IFN-stimulated re-
+sponse element promoter-containing genes via the JAK/STAT
+pathway (29). However, influenza and other viruses have de-
+veloped strategies to counteract host IFN-/ production,
+through inhibiting the activation of transcription factors in-
+volved in IFN activation (10, 18) and by attenuating host gene
+expression (20). Antagonism of the innate response by influ-
+enza virus is a property of the NS1 protein (7, 11, 20). Al-
+though data in this area of research are growing, there remain
+facets of host range and virulence determination that need
+further examination.
+In this study, we characterized two H5N1 avian influenza
+viruses that were isolated from ducks, A/Duck/Guangxi/12/
+2003 (DK/12) and A/Duck/Guangxi/27/2003 (DK/27), in the
+Guangxi province of China in 2003. These two viruses are
+highly pathogenic for chickens but differ in their virulences in
+mice. We used reverse genetics to determine the molecular
+basis for the difference in virulence in mice and to explore the
+possible underlying mechanisms. We found a specific amino
+acid in NS1 that confers lethality in mice to an avian H5N1
+virus.
+MATERIALS AND METHODS
+Cells and viruses. Human embryonic kidney cells (293T) and Vero cells were
+grown in Dulbecco's modified Eagle's medium supplemented with 10% fetal
+bovine serum plus antibiotics. Human lung epithelial cells (A549) were grown in
+nutrient mixture F-12 Ham Kaighn's modified medium with 10% fetal bovine
+serum. The cells were incubated at 37°C in 5% CO2. Recombinant vesicular
+stomatitis virus (VSV) expressing green fluorescent protein (VSV-GFP) was
+generated by inserting the G protein gene of VSV into the VSVG*GFP vector
+by use of reverse genetics as described previously (15, 17).
+Construction of plasmids. The construction of plasmids for virus rescue was
+performed as described previously (16). Mutations were introduced into the NS1
+gene by site-directed mutagenesis (Invitrogen) with the set of primers shown in
+Table 1. We also generated plasmids expressing two wild-type and two mutant
+NS1 protein sequences by use of the pCAGGS plasmid vector for the reporter
+gene assay. These plasmids were designated as p12NS1 and p27NS1 for the
+wild-type NS1 proteins and p12NS1P42S and p27NS1S42P for the mutant NS1
+proteins. To investigate the IRF-3-dependent promoter activation, we synthe-
+sized the mouse ISG-54 promoter fragment based on the available sequence
+information (GenBank accession number X77259) and inserted it between the
+NheI and BglII sites of the pLuc 3-enhancer plasmid (Promega) in front of the
+firefly luciferase open reading frame and designate the construct as pISG54-Luc.
+All of the constructs were completely sequenced to ensure the absence of un-
+wanted mutations.
+Generation of reverse genetic reassortant viruses. Reassortant viruses were
+generated by reverse genetics as described previously (12, 16). The rescued
+viruses were detected by hemagglutination assay, and RNA was extracted and
+analyzed by reverse transcription-PCR (RT-PCR). Each viral segment was se-
+quenced to confirm the identity of the reassortant viruses.
+Animal experiments. Determination of the intravenous pathogenicity index
+value (IVPI) with chickens was performed according to the recommendations of
+the Office International Des Epizooties (21). For the mouse study, groups of 11
+6-week-old female BALB/c mice (Beijing Experimental Animal Center) were
+lightly anesthetized with CO2 and inoculated intranasally with 106.0
+50% egg
+infectious doses (EID50) of H5N1 influenza virus in a volume of 50 l. Three
+mice in each group were euthanized on days 4 and 6 postinoculation (p.i.).
+Organs were collected and titrated for virus infectivity in eggs as described
+previously (2). The remaining mice were monitored for 14 days for weight loss
+and mortality. The 50% mouse lethal dose (MLD50) was determined by inocu-
+lating groups of five mice with 10-fold serial dilutions containing 101
+to 106
+EID50
+TABLE 1. Primers used for pBD cDNA construction to amplify the full-length cDNAs of the viruses and for introducing the mutations in
+the NS1 gene
+Purpose
+Primer (5­3)a
+Forward Reverse
+For PB2 amplification CCAGCAAAAGCAGGTCAAATATATTCA 5TTAGTAGAAACAAGGTCGTT
+For PB1 amplification CCAGCAAAAGCAGGCAAACCA 5TTAGTAGAAACAAGGCATTTTTTC
+For PA amplification CCAGCAAAAGCAGGTACTGATC 5TTAGTAGAAACAAGGTACTTTTTTGGAC
+For HA amplification CCAGCAAAAGCAGGGGTCCAATC 5TTAGTAGAAACAAGGGTGTTTTTAACTAC
+For NP amplification CCAGCAAAAGCAGGGTAGATAATC 5TTAGTAGAAACAAGGGTATTTTTC
+For NA amplification CCAGCAAAAGCAGGAGTTCAAAATGAAT 5TTAGTAGAAACAAGGAGTTTTTTGAACAA
+For M amplification CCAGCAAAAGCAGGTAGATGTTGAAAGATG 5TTAGTAGAAACAAGGTAGTTTTTTACTC
+For NS amplification CCAGCAAAAGCAGGGTGACAA 5TTAGTAGAAACAAGGGTGTTTTTTATCAT
+For DK/12NS1P42S NS
+mutation
+TCAGAAGTCCCTAAGAGGAAGAGGC 5GCCTCTTACTCTTAGGGACTTCTGA
+For DK/12NS1N48S NS
+mutation
+TAAGAGGAAGAGGCAGCACCCTTGG 5CCAAGGGTCCTGCCTCTTCCTCTTA
+For DK/27NS1S42P NS
+mutation
+TCAGAAGCCCCTAAGAGGAAGAGGC 5GCCTCTTCCTCTTAGGGGCTTCTGA
+For DK/27NS1S48N NS
+mutation
+TAAGAGGAAGAGGCAACACCCTTGG 5CCAAGGGTTCTGCCTCTTCCTCTTA
+For GX27NS1R38A NS
+mutation
+5ACCGGCTTCGCGCAGATCAGAAGTC 5TAGGGACTTCTGATCTGCGCGAAGC
+For GX27NS1K41A NS
+mutation
+5CGCCGAGATCAGGCGTCCCTAAGAG 5CTCTTAGGGACGCCTGATCTCGGCG
+For GX27NS1R38AK41A
+NS mutation
+5TTCGCGCAGATCAGGCGTCCCTAAG 5CTTAGGGACGCCTGATCTGCGCGAA
+a
+The nucleotides that have been changed are underlined and in boldface.
+VOL. 82, 2008 PATHOGENICITY OF H5N1 AVIAN INFLUENZA VIRUSES 1147
+of the virus in a 50-l volume and calculated by using the method of Reed and
+Muench (24). The chicken and mouse studies have been approved by the Review
+Board of Harbin Veterinary Research Institute, Chinese Academy of Agricul-
+tural Sciences.
+Sequence analysis. Reassortant viruses and the plasmids used for virus rescue
+were fully sequenced to confirm the absence of unwanted mutations. Viral RNA
+was extracted from allantoic fluid and was reverse transcribed. A set of fragment-
+specific primers (primer sequences available on request) were used for the PCR
+amplification and sequence analysis. The sequence data for the two viruses used
+in these studies are available in GenBank (accession no. pending).
+Detection of IFN secretion. Monolayers of 80% confluent A549 cells were
+infected at a multiplicity of infection (MOI) of 2. Following infection, cells were
+incubated with Opti-MEM (Gibco/BRL) and the supernatants were harvested
+24 h p.i. Viruses present in the supernatants were UV inactivated by placing
+samples on ice 70 cm below a 30-W UV lamp for 20 min, and inactivation of the
+virus was confirmed by egg propagation. The UV-inactivated supernatants were
+then added to A549 cells and incubated for 24 h. The cells were then infected
+with 0.001 MOI of VSV-GFP. At 14 h p.i., cells expressing GFP were visualized
+by fluorescence microscopy.
+Analysis of IFN-/ mRNA by RT-PCR. A549 cells were infected with influ-
+enza viruses at an MOI of 2, and at 20 h p.i., total RNA was extracted and
+digested with DNase I (Roche). RT-PCR was performed by using primer pairs
+specific for human IFN- and human IFN- mRNA (GenBank accession num-
+bers M54886, BC112302, and NM002176). A 550-bp fragment of human -actin
+was amplified as a control. The products were sequenced and confirmed to be
+derived from the expected mRNAs.
+Quantification of IFN-/ production by ELISA. For quantification of se-
+creted IFN-/, A549 cells were either mock infected or infected with different
+H5N1 viruses at an MOI of 2. The supernatants were harvested 24 h p.i. Viruses
+present in the supernatants were UV inactivated by placing samples on ice 70 cm
+below a 30-W UV lamp for 20 min. Production of IFN-/ in culture superna-
+tants was measured using a human IFN- or IFN- enzyme-linked immunosor-
+bent assay (ELISA) kit (human IFN- and human IFN- ELISA kit; Adlitteram
+Diagnostic laboratories Inc.) according to the manufacturer's instructions. For
+each treatment, three sets of sample were collected, and each sample was tested
+in duplicate by ELISA.
+Western blot analysis of the viral protein levels in the virus-infected A549
+cells. Six-well plates of 90% confluent A549 cells were mock infected or infected
+with viruses at an MOI of 2. Cells were lysed 12 h p.i. and the lysates subjected
+to Western blot analysis using mouse anti-truncated A/Goose/Guangdong/1/96
+NS1 and chicken anti-A/Goose/Guangdong/1/96 NP antibodies and monoclonal
+anti- actin antibody (Sigma) as the control.
+Reporter gene assay. 293T cells were used for investigating NF-B promoter
+activation, and Vero cells were used for the IRF-3-dependent promoter, ISG54,
+activation assay. Cells were transfected with an NF-B-responsive promoter-
+driven firefly luciferase reporter plasmid, pNF-B-Luc (Stratagene, La Jolla,
+CA) or pISG54-Luc. In addition, an internal control plasmid to normalize trans-
+fection efficiency, pTK-RL (Promega), encoding the Renilla luciferase protein,
+was transfected into the cells. The reporter gene plasmids pNF-B-Luc or pISG-
+54K-Luc and the pTK-RL plasmids were cotransfected at 0.5 g along with 4.0
+g of the NS1 (wild-type or mutant) plasmid into 80% confluent cells by using
+Lipofectamine 2000 (Invitrogen). At 24 h posttransfection, the cells were mock
+treated or transfected with 40 g poly(I:C) (Amersham Pharmacia) by using
+Lipofectamine 2000. At 24 h posttreatment, the cells were lysed and luciferase
+activities were determined with a dual-luciferase reporter assay system (Pro-
+mega) and normalized on the basis of the Renilla luciferase activities.
+Nucleotide sequence accession numbers. The sequence data for the two vi-
+ruses used in these studies have been deposited in GenBank under accession
+numbers EV263342 to EV263357.
+RESULTS
+Biological properties of the two H5N1 avian influenza vi-
+ruses isolated from ducks. We isolated two H5N1 viruses,
+DK/12 and DK/27, from apparently healthy ducks in the
+Guangxi province of China in 2003 during routine surveillance.
+The pathogenicity analysis of these two viruses in chickens
+(following the recommendation by the Office International
+Des Epizooties [21]) revealed that the DK/27 virus killed all 10
+chickens within 24 h and yielded an IVPI of 3 (with 3.0 being
+the most pathogenic and 0 being the least pathogenic). Al-
+though the DK/12 virus was milder than the DK/27 virus, it
+killed 7 of 10 chickens within 10 days, and its IVPI value was
+1.4. Therefore, both of the viruses were highly pathogenic for
+chickens.
+We then tested the virulence of these two viruses in a mam-
+malian mouse model described previously (2). Three mice
+from each group were killed on day 4 and day 6 after intranasal
+inoculation of 106
+EID50 of virus, and their organs were col-
+lected for virus titration in eggs. The DK/12 virus replicated in
+the mouse lungs without adaptation, and the mean titer
+reached 3.9 log EID50 on day 4 p.i.; however, the virus was not
+detected in any other organ tested (Fig. 1A). DK/12 virus
+caused 5% body weight loss by day 9 p.i. at which point the
+mice started to regain the weight over the course of the re-
+maining observation period (data not shown). In contrast,
+DK/27 caused a systemic infection, replicated to the high titer
+of 7.3 log EID50 in the lungs and to the titers of 3.6, 2.9, and 2.2
+log EID50 in the spleen, kidney, and brain, respectively (Fig.
+1A; Table 2). Infection with DK/27 virus caused a more than
+30% reduction in body weight, and all of the mice died before
+day 8 p.i. The two H5N1 viruses markedly differed in the dose
+FIG. 1. Replication and lethality of the DK/12 and DK/27 viruses
+in mice. (A) Six-week-old SPF BALB/c mice (three/group) were inoc-
+ulated intranasally with 106
+EID50 of each virus in a 50-l volume and
+killed on day 3 p.i., and organs were collected for virus titration in eggs.
+Data shown are the mean virus titers  standard deviation. (B to E)
+Death patterns of the mice infected with different H5N1 viruses,
+DK/12 (B), DK/27(C), R-DK/12 (D), and R-DK/27 (E), with the doses
+of 101
+to 106
+EID50 (101
+EID50, F; 102
+EID50, E; 103
+EID50, ,; 104
+EID50, OE; 105
+EID50, ; 106
+EID50, }).
+1148 JIAO ET AL. J. VIROL.
+required to kill 50% of infected mice (MLD50): 6.4 log EID50
+for DK/12 and 0.6 log EID50 for DK/27 (Fig. 1B and C).
+To determine the genetic relationship between the two viruses,
+we sequenced their genomes and compared them with the avail-
+able sequences of H5N1 viruses. We found that the two viruses
+are closely related, with all of their eight segments sharing over
+99% homology with the previously reported A/Duck/Fujian/01/02
+virus (2). DK/12 and DK/27 share the same PB1, NP, M1, M2,
+and NS2 genes at the amino acid levels. At the amino acid level,
+we mapped a total of eight differences between the two viruses in
+their PB2, PA, HA, NP, and NS1 genes (Table 3). These data
+suggest that single- or multiple-amino-acid combinations among
+these eight different amino acids contribute to the difference in
+virulence in mice of the two viruses.
+Rescued DK/12 and DK/27 viruses maintained the biologi-
+cal properties of the wild-type viruses. To investigate the ge-
+netic basis of the virulence of the DK/12 and DK/27 viruses, we
+established a reverse genetics system for the two viruses. We
+inserted cDNAs of each full-length RNA segment of DK/12
+and DK/27 into the viral RNA-mRNA bidirectional expression
+plasmid pBD, as described in Materials and Methods. Using
+these plasmids, we generated the DK/12 and DK/27 viruses from
+cloned cDNA, designated R-DK/12 and R-DK/27, respectively.
+After confirmation by sequence analysis, we prepared virus stocks
+by use of 10-day-old specific-pathogen-free (SPF) eggs and tested
+the replications and lethalities of these viruses in mice. R-DK/12
+and R-DK/27 exhibited properties similar to those of their re-
+spective original viruses in terms of virus titers in organs and with
+respect to MLD50s (Fig. 1D and E; Table 2).
+The NS gene plays a major role in the difference in patho-
+genicities in mice between the DK/12 and DK/27 viruses. To
+identify the genes responsible for the difference in pathogenic-
+ities between the DK/12 and DK/27 viruses, we generated five
+single-gene recombinant viruses, each bearing the PB2, PA,
+HA, NP, or NS gene from DK/27 and the other seven genes
+from DK/12. The recombinant viruses that contained the PB2,
+PA, HA, or NP gene of DK/27 (designated DK/12-27PB2,
+DK/12-27PA, DK/12-27HA, or DK/12-27NP, respectively) dis-
+played the same low pathogenicity in mice as the wild-type
+DK/12 virus (MLD50, 6.4 log EID50) and replicated only in the
+lungs (Table 2), although the virus titers in the lungs of mice
+infected with DK/12-27PA or DK/12-27NP virus were signifi-
+cantly higher than that of the DK/12 virus-infected mice. DK/
+12-27PA also caused about 20% weight loss in inoculated mice,
+whereas DK/12-27PB2, DK/12-27HA, and DK/12-27NP vi-
+ruses caused only a transient reduction in body weight (Fig.
+TABLE 2. Replication of transfectant viruses in micea
+Virus
+Mean virus titer (log10 EID50/ml  SD) at indicated day p.i. in:
+MLD50
+(log EID50)
+Lung Spleen Kidney Brain
+Day 4 p.i. Day 6 p.i. Day 4 p.i. Day 6 p.i. Day 4 p.i. Day 6 p.i. Day 4 p.i. Day 6 p.i.
+DK/12 3.9  0.5 3.6  0.7       6.4
+DK/27 7.3  0.1 6.9  0.4 3.6  0.3 2.0  0.9 2.9  0.9 3.0  0.1 2.2  0.8 3.1  0.1 0.6
+R-DK/12 3.5  0.1 3.5  0.6       6.4
+R-DK/27 7.2  0.3 6.9  0.4 3.8  0.3 1.8  0.6 2.7  0.7 2.9  0.1 2.0  0.5 2.8  0.3 0.6
+DK/12-27PB2 4.5  0.5 4.5  0.7       6.4
+DK/12-27PA 5.9  0.4c
+4.1  1.0       6.4
+DK/12-27HA 3.8  0.3 4.5  0.4       6.4
+DK/12-27NP 5.1  0.3c
+5.5  0.5b
+      6.4
+DK/12-27NS 5.8  0.6c
+6.9  0.4c
+2.3  0.1 2.6  0.3 1.6  0.3 1.6  0.5  3.1  0.3 2.0
+DK/27-12PB2 5.6  0.5e
+5.9  0.5 2.2  0.8e
+2.8  0.4 2.0  0.5 2.9  0.5 1.5  0.1 2.9  0.5 0.6
+DK/27-12PA 5.7  0.4e
+6.4  0.1 2.1  0.6d
+2.3  0.8 1.3  0.1d
+1.9  0.4d
+1.9  0.7 2.5  0.4 1.5
+DK/27-12HA 6.8  0.3 5.8  0.5d
+3.5  0.7 3.0  0.5d
+2.4  0.1 2.5  0.4 1.4  0.1 2.4  0.9 1.5
+DK/27-12NP 6.5  0.4 6.3  0.6 3.1  0.6 2.5  0.4 2.4  0.1 2.2  0.1 1.4  0.1 2.9  0.4 0.6
+DK/27-12NS 3.9  0.5e
+4.9  0.5e
+      6.4
+DK/12NS1P42S 6.5  0.4c
+6.8  0.3c
+2.0  0.7 2.0  0.7 1.3  0.1 1.3  0.1  3.3  0.8 2.2
+DK/12NS1N48S 3.4  0.1 4.5  0.4       6.4
+DK/27NS1S42P 4.5  0.4e
+5.8  0.3d
+      6.4
+DK/27NS1S48N 7.3  0.1 7.5  0.1 2.5  1.1 2.8  0.8 1.7  0.7 3.1  0.8 2.2  0.9 3.1  0.3 0.8
+DK/27NS1R38A 7.6  0.3 7.3  0.8 2.1  0.8 1.4  0.1 2.1  0.6 2.1  0.6 1.4  0.1 2.4  0.1 0.8
+DK/27NS1K41A 6.6  0.3 6.5  0.4 1.7  0.4 1.4  0.1 1.6  0.3 2.2  0.3 1.6  0.5 2.9  0.4 0.6
+DK/27NS1R38AK41A 5.0  0.5d
+4.6  0.7e
+      6.4
+a
+Six-week-old SPF BALB/c mice were inoculated intranasally with 106
+EID50 of each virus in a 50-l volume. Three mice from each group were killed on days 4
+and 6 p.i., and virus titers were determined in samples of lung, spleen, kidney, and brain in eggs. , no virus was isolated from the sample.
+b
+P value was 0.05 compared with the titers in the corresponding organs of the DK/12- or R-DK/12-inoculated mice.
+c
+P value was 0.01 compared with the titers in the corresponding organs of the DK/12- or R-DK/12-inoculated mice.
+d
+P value was 0.05 compared with the titers in the corresponding organs of the DK/27- or R-DK/27-inoculated mice.
+e
+P value was 0.01 compared with the titers in the corresponding organs of the DK/27- or R-DK/27-inoculated mice.
+TABLE 3. Amino acid differences between the DK/12 and
+DK/27 viruses
+Gene
+segment
+Position of
+amino acid
+Amino acid in:
+DK/12 virus DK/27 virus
+PB2 497 Ser (S) Asn (N)
+607 Leu (L) Val (V)
+612 Ala (A) Thr (T)
+PA 44 Glu (G) Val (V)
+HA 216 Val (V) Ile (I)
+NP 105 Met (M) Val (V)
+NS1 42 Pro (P) Ser (S)
+48 Asn (N) Ser (S)
+VOL. 82, 2008 PATHOGENICITY OF H5N1 AVIAN INFLUENZA VIRUSES 1149
+2A). In contrast to the other single-gene reassortants, the sin-
+gle-gene recombinant containing the NS gene of DK/27 (DK/
+12-27NS) caused systemic infection (Table 2). The MLD50 of
+the DK/12-27NS virus was over 104
+-fold higher than that of the
+DK/12 virus (MLD50, 2.0 versus 6.4 log EID50).
+The effect of individual genes derived from the DK/12 virus
+on the virulence of DK/27 virus was also examined by gener-
+ating five single-gene recombinant viruses, each containing the
+PB2, PA, HA, NP, or NS gene from DK/12 virus and the
+remaining segments from DK/27 virus. The viruses that carried
+the PB2, PA, HA, and NP gene of DK/12 (DK/27-12PB2,
+DK/27-12PA, DK/27-12HA, and DK/27-12NP, respectively)
+replicated in all four organs tested and caused rapid weight
+loss. The mice died within 9 days of inoculation (Fig. 2B; Table
+2), although the virus titers in the lungs of DK/27-12PB2- and
+DK/27-12PA-inoculated mice were significantly lower than
+that of the DK/27 virus-inoculated animals. The MLD50s of
+these four recombinant viruses were similar to that of the
+DK/27 virus (ranging from 0.6 to 1.5 log EID50). The recom-
+binant virus containing the NS gene of DK/12 in a background
+of genes from the DK/27 virus (DK/27-12NS), however, repli-
+cated only in the lungs, and the virus was dramatically atten-
+uated in mice (MLD50, 0.6 versus 6.4 log EID50). In addition,
+DK/27-12NS caused a reduction in the body weight of the mice
+over the first 10 days after infection, but the mice regained
+weight over the remaining observation period (Fig. 2B). These
+results indicated that the NS gene plays a major role in the
+difference in pathogenicities in mice between the DK/12 and
+DK/27 viruses.
+Amino acid substitution at position 42 in the NS1 protein changes
+the pathogenicity of the DK/12 and DK/27 viruses in mice. There
+are only two amino acid differences in the NS gene between
+DK/12 and DK/27, and both of the changes are located in the
+NS1 protein; that is, at positions 42 and 48 (Table 3). To
+elucidate the molecular basis of the virulence and replication
+discrepancy between the DK/12 and DK/27 viruses, we gener-
+ated four mutant viruses each containing a substitution of the
+NS1 amino acid residues at position 42 or 48 and tested their
+pathogenicities in mice. A mutant DK/12 virus, designated
+DK/12NS1P42S and containing a substitution at amino acid
+position 42 that reflected the sequence found in the DK/27
+NS1 protein (a Pro-to-Ser substitution), was highly pathogenic
+in mice, in contrast to the DK/12 virus (MLD50, 2.2 versus 6.4
+log EID50). This mutant caused systemic infection in animals
+(Fig. 3; Table 2). A mutant DK/12 virus encoding an Asn-to-
+Ser mutation at position 48 of NS1 (DK/12NS1N48S) was not
+lethal and replicated only in the lung of mice (MLD50, 6.4 log
+EID50) (Fig. 3; Table 2). Similarly, a Ser-to-Pro substitution at
+position 42 in the NS1 protein of DK/27 that reflected the
+sequence found in the DK/12 virus resulted in marked atten-
+uation of the DK/27 virus (MLD50, 0.6 versus 6.4 log EID50).
+This mutant, DK/27NS1S42P, replicated only in the lung and
+caused a transient reduction in the body weight of the mice
+(Table 2; Fig. 3). However, the mutant virus DK/27NS1S48N,
+containing a Ser-to-Asn mutation introduced at position 48 of
+the NS1 protein, was not attenuated with respect to the DK/27
+virus. These results suggest that the amino acid at position 42
+of NS1 protein is critical for the difference in virulence be-
+tween the DK/12 and DK/27 viruses in mice.
+The genomes of the viruses recovered on days 4 and 6 p.i.
+from the lungs of mice infected with the NS reassortants or
+mutant viruses were sequenced. No amino acid residue change
+was found in any of the gene segments except for PB2, for
+which we found that a mutation corresponding to a change
+FIG. 2. Comparison of weight changes in mice infected with differ-
+ent H5N1 avian influenza viruses. Mice (five mice/group) were intra-
+nasally infected with 106
+EID50 of virus. (A) Mice infected with R-
+DK/12 and the reassortants in the DK/12 background. (B) Mice
+infected with R-DK/27 and the reassortants in the DK/27 background.
+FIG. 3. NS1 mutant viruses and their virulences in mice. The color
+of the bar indicates the origin of the gene as follows: blue, DK/12; red,
+DK/27. The corresponding amino acids are shown as single-letter ab-
+breviations with the positions numbered at the top. The red dots in the
+mouse figures indicate tissue tropism (upper left, brain; lower left,
+lung; upper right, kidney; lower right, spleen). The mutated amino
+acids are shown in red or blue and italics. Amino acid abbreviations: R,
+Arg; K, Lys; P, Pro; S, Ser; A, Ala.
+1150 JIAO ET AL. J. VIROL.
+from Glu to Lys at position 627 occurred in about 30% of the
+DK/12-27NS and DK/12NS1P42S viruses isolated from inocu-
+lated mice on day 6 p.i. but not from any samples recovered
+from other virus-inoculated mice (Table 4).
+The amino acid at position 42 of the NS1 protein affects
+DK/12 and DK/27 virus antagonization of IFN-/ action in
+human lung epithelial A549 cells. The amino-terminal 73
+amino acids of the NS1 protein of influenza virus are respon-
+sible for binding to RNAs, in particular dsRNA, conferring
+upon the virus the ability to escape the IFN-/ response by
+inhibiting the activation of transcription factors involved in
+IFN activation (10, 18). To determine whether the difference in
+the replication and virulence of DK/12 and DK/27 was directly
+correlated with the abilities of these viruses to inhibit the
+IFN-/ system, the IFN-inducing properties of influenza vi-
+ruses expressing wild-type or mutant NS1 proteins were inves-
+tigated. Human epithelial lung A549 cells were infected at an
+MOI of 2 with wild-type DK/27, wild-type DK/12, mutant DK/
+27NS1S42P virus, or mutant DK/12NS1P42S virus. At 24 h
+postinfection, supernatants from infected A549 cells were used
+to determine the levels of secreted IFN-/ in a bioassay based
+on the inhibition of VSV-GFP viral replication. The results are
+shown in Fig. 4. Supernatants from mock-infected cells caused
+no inhibition of GFP expression by VSV-GFP in A549 cells.
+FIG. 4. Induction of IFN-/ synthesis in A549 cells infected with influenza A viruses expressing wild-type or mutant NS1 proteins. (A) IFN-/
+bioassay. A549 cells were pretreated for 24 h with UV-inactivated supernatants from A549 cells infected with the indicated influenza viruses. The
+pretreated A549 cells were then infected with VSV-GFP, and, 14 h p.i., the cells expressing GFP were monitored by fluorescence microscopy.
+(B) RT-PCR analysis of IFN-/ mRNA levels in virus-infected A549 cells. Cells were infected at an MOI of 2, and, 20 h p.i., total RNA was
+extracted and RT-PCR was done using primer pairs specific for human IFN-/ and -actin mRNA. The fragments of IFN-, IFN-, and -actin
+are shown on the left. (C) Quantification of IFN-/ production. A549 cells were either mock infected or infected at an MOI of 2. Twenty-four
+hours postinfection, the amounts of IFN- and IFN- released into the culture supernatant were measured by ELISA. (D) Levels of virus protein
+expression in infected cells. A549 cells were infected with virus at an MOI of 2 and lysed 12 h postinfection. Lysates of mock-infected cells or of
+cells infected with the indicated influenza viruses were incubated with mouse anti-truncated NS1 antiserum (I) or with chicken antiserum that was
+generated by inoculating SPF chickens with inactivated GS/GD/1/96 virus (II). Expression of -actin protein was also examined as a control (III).
+Binding was visualized with DAB (3,3-diaminobenzidine) reagent after incubation with peroxidase-conjugated secondary antibodies. The NS1,
+NP, and -actin proteins are indicated on the right. Numbers 1 to 5 in panels B, C, and D indicate the type of infection as follows: 1, mock; 2,
+R-DK/27; 3, R-DK/12; 4, DK/27NS1S42P; 5, DK/12NS1P42S.
+TABLE 4. Amino acids at the key positions of the PB2 and NS1 genes of the viruses recovered from mice
+Virus
+Amino acid at indicated key position of the viruses recovered from the mice on:
+Day 4 p.i Day 6 p.i.
+PB2 NS1 PB2 NS1
+627 701 42 48 627 701 42 48
+R-DK/12 E D P N E D P N
+R-DK/27 E D S S E D S S
+DK/12-27NS E D S S E (67%)  K (33%) D S S
+DK/27-12NS E D P N E D P N
+DK/12-NS1P42S E D S N E (67%)  K (33%) D S N
+DK/12-NS1N48S E D P S E D P S
+DK/27-NS1S42P E D P S E D P S
+DK/27-NS1S48N E D S N E D S N
+VOL. 82, 2008 PATHOGENICITY OF H5N1 AVIAN INFLUENZA VIRUSES 1151
+However, VSV-GFP replication was completely abolished in
+cells pretreated with the supernatant of wild-type DK/12- and
+mutant DK/27NS1S42P-infected cells. By contrast, the super-
+natant of wild-type DK/27- or mutant DK/12NS1P42S-infected
+cells did not inhibit VSV-GFP replication (Fig. 4A).
+To determine whether the induction of the antiviral state in
+the treated cells correlated with the level of IFN-/ induction
+in A549 cells infected with different viruses, the relative levels
+of IFN-/ mRNA in the infected A549 cells were examined
+by RT-PCR. A549 cells were infected with various influenza
+viruses, and the cells were harvested for RNA extraction 20 h
+after infection. Total RNA was digested with DNase I to re-
+move DNA from RNA samples. RT-PCR analysis confirmed
+that infection with wild-type DK/12 or mutant DK/27NS1S42P
+virus induces higher levels of IFN-/ mRNA than infection
+with wild-type DK/27 or mutant DK/12NS1P42S virus (Fig.
+4B). The PCR products were sequenced and confirmed to be
+derived from the expected mRNAs. We further investigated
+the expression and secretion of the IFN-/ for A549 cells
+infected by different viruses. The culture supernatants were
+harvested 24 h after infection, and the amounts of IFN- and
+IFN- were measured by ELISA. The results confirmed that
+infection with wild-type DK/12 or mutant DK/27NS1S42P vi-
+rus induces higher levels of IFN-/ expression and secretion
+than infection with wild-type DK/27 or mutant DK/12NS1P42S
+virus (Fig. 4C).
+Since previous reports indicated that the ability of the influ-
+enza virus to antagonize IFN-/ induction by the host was
+related to NS1 protein expression levels in the infected cells
+(17, 28), we compared the levels of NS protein expressed in
+virus-infected cells by Western blotting (Fig. 4D). No signifi-
+cant difference in the levels of viral proteins, including NS1 and
+NP, was detected among the samples.
+The amino acid at position 42 is critical for the NS1 protein
+to inhibit dsRNA-mediated NF-B-responsive promoter acti-
+vation. Activation of NF-B and IRF-3 is required for the
+induction of the IFN- promoter (6, 25, 26, 32, 36). NF-B has
+been shown to bind to the positive regulatory domain II of the
+IFN- promoter and to play an essential role in regulating
+IFN- transcription (1, 8). Expression of the NS1 protein of
+influenza A virus is known to prevent virus- and/or dsRNA-
+mediated activation of the NF-B pathway (35). To determine
+whether the contribution of the NS1 protein to the pathoge-
+nicities of the DK/12 and DK/27 viruses is associated with
+blocking the activation of the NF-B pathway, we used an
+NF-B reporter gene, pNF-B-Luc, which contains a lucifer-
+ase reporter gene under the control of an NF-B-responsive
+promoter. Cotransfection of pNF-B-Luc with expression plas-
+mid p12NS1 or p27NS1S42P did not inhibit the expression of
+dsRNA [poly(I:C)]-induced reporter gene activity in 293T
+cells, whereas cotransfection of p27NS1 or p12NS1P42S sub-
+stantially reduced it (Fig. 5A). These results demonstrate that
+the NS1 proteins of DK/12 and DK/27 viruses differ in their
+abilities to prevent the dsRNA-mediated activation of the
+NF-B pathway, and the amino acid at position 42 in NS1 is
+critical for this function. The difference in reporter gene in-
+duction was not due to differences in NS1 protein levels, as
+Western blotting demonstrated that wild-type and mutant NS1
+proteins were expressed in 293T cells at similar levels (data not
+shown).
+The amino acid at position 42 is critical for the NS1 protein
+to inhibit dsRNA-mediated IRF-3-dependent promoter activa-
+tion. NS1 protein of influenza A virus has been reported to
+inhibit the activation of IRF-3, which is a key regulator of IFN
+gene expression (32). The ISG54 promoter is one of the pro-
+moters that can be directly activated by the IRF-3, and it could
+also be activated by IFN produced in response to dsRNA
+treatment or to viral infection. To investigate if the amino acid
+change in 42 affects the ability of NS1 protein to inhibit the
+activation of the IRF-3-dependent promoter, we transfected
+the Vero cells, which do not produce IFN-/, with a ISG54-
+Luc reporter plasmid plus a constitutively expressed Renilla
+luciferase plasmid and a mammalian expression plasmid. The
+expression plasmid was empty vector pCAGGS or the
+pCAGGS plasmid expressing the wild-type or mutant NS1
+gene. Cotransfection of pISG54-Luc with the plasmid p12NS1
+or p27NS1S42P did not inhibit the expression of dsRNA
+[poly(I:C)]-induced reporter gene activity in Vero cells,
+whereas cotransfection of p27NS1 or p12NS1P42S substan-
+tially reduced it (Fig. 5B). These results demonstrate that the
+NS1 proteins of DK/12 and DK/27 viruses differ in their abil-
+ities to inhibit the dsRNA-mediated activation of the IRF-3-
+dependent promoter, and the amino acid at position 42 in NS1
+is critical for this function. Western blotting demonstrated that
+FIG. 5. Prevention of poly(I:C)-induced activation of an NF-B
+promoter and the IRF-3-depedent promoter by NS1 protein.
+(A) NF-B promoter assay. 293T cells were cotransfected with pNF-
+B-Luc and pTK-RL plasmids along with the specified NS1 plasmids,
+with or without subsequent poly(I:C) transfection. (B) ISG-54 pro-
+moter assay. Vero cells were cotransfected with pISG-54-Luc and
+pTK-RL plasmids along with the specified NS1 plasmids, with or with-
+out subsequent poly(I:C) transfection. Bars: 1, pCAGGS; 2, pCAGGS
+with poly(I:C); 3, p12NS1 with poly(I:C); 4, p27NS1 with poly(I:C); 5,
+p12NS1P42S with poly(I:C); 6, p27NS1S42P with poly(I:C).
+1152 JIAO ET AL. J. VIROL.
+wild-type and mutant NS1 proteins were expressed in Vero
+cells at similar levels (data not shown).
+At least one of the two basic amino acids at position R38 or
+K41 in the NS1 protein is required for the virulence of the
+DK/27 virus in mice. Amino acids R38 and K41 in the RNA-
+binding domain of the NS1 protein have previously been
+shown to be important in the inhibition of IFN production and
+the virulence of the influenza viruses (6, 19). Both of our H5N1
+avian influenza viruses contain R38 and K41 in the NS1 pro-
+tein. To investigate whether these two basic amino acids con-
+tribute to virulence, we generated three NS1 mutant viruses in
+the DK/27 background, DK/27R38A, DK/27K41A, and DK/
+27R38AK41A, and tested their replications and virulences in
+mice. As shown in Table 2 and Fig. 3, the mutants with a
+single-amino-acid substitution, DK/27R38A and DK/27K41A,
+replicate systemically and were highly virulent in mice, with
+MLD50s of 0.8 and 0.6 log EID50, respectively. However, the
+double mutant DK/27R38AK41A replicated only in the lungs
+and was highly attenuated in this animal (MLD50, 6.4 log
+EID50) (Fig. 3; Table 2). DK/27R38AK41A still has Ser at
+position 42 of NS1. These results demonstrate that the amino
+acid S42 and at least one of the basic amino acids at position
+R38 or K41 in NS1 are required for the virulence of DK/27 in
+mice.
+DISCUSSION
+H5N1 avian influenza viruses have caused the deaths of
+more than half of the humans they have infected since 1997
+and clearly represent a threat to public health. Although dif-
+ferent strains of H5N1 virus are known to have substantially
+different pathotypes, the effects of specific amino acid changes
+on the host ranges and virulences of H5N1 HPAIV remain
+largely unexplored. Here, we characterized two H5N1 HPAIV,
+DK/12 and DK/27, which have similar genomes but show
+markedly different pathogenicities in mice. Using this pair of
+viruses and single-gene reassortant viruses created from them,
+we demonstrated that the NS1 protein contributes to the dif-
+ferent pathogenicities of these two viruses in mice and that the
+amino acid residue at position 42 in the NS1 protein of DK/27
+is important for its ability to replicate and cause lethality in
+mice and to antagonize IFN-/ production in A549 cells. We
+further demonstrated that the amino acid at position 42 of NS1
+is critical for the ability of these viruses to inhibit dsRNA-
+mediated activation of the NF-B pathway and the IRF-3
+pathway. This is the first demonstration that a single amino
+acid at position 42 of the NS1 gene plays a major role in the
+determination of virulence of H5N1 avian influenza virus in a
+mammalian host.
+Mutation or deletions within the effector domain of the NS1
+gene have previously been shown to affect the ability of influ-
+enza viruses to antagonize IFN-/ production, and the de-
+creased ability of the virus to antagonize IFN-/ production is
+linked with reduced expression levels of the NS1 protein in
+infected cells (17, 28). In this study, the mutation of amino acid
+42 within the RNA-binding domain of NS1 affected the ability
+of the virus to antagonize IFN-/ production in A549 cells,
+suggesting that the RNA-binding domain also contributes to
+the ability of the NS1 protein to antagonize IFN-/ produc-
+tion in host cells. However, NS1 protein levels were not sig-
+nificantly different among the four viruses tested (Fig. 4D),
+suggesting that the mechanisms by which the NS1 effector
+domain and the NS1 RNA-binding domain antagonize host
+IFN-/ production are different. In addition, the mutation of
+amino acid 42 within the RNA-binding domain of NS1 blocked
+the virus from preventing the dsRNA-mediated activation of
+the NF-B pathway and the IRF-3-dependent promoter, dem-
+onstrating the importance of the ability of NS1 to counteract
+the host cell antiviral immune response.
+The amino acid at position 42 of NS1 varies among avian
+influenza viruses; however, the serine at this position is highly
+conserved in the human, swine, and equine influenza viruses
+(2,561 of 2,564 influenza viruses isolated from mammalian
+hosts have S42 in their NS1 genes). Based on the available
+sequence information, all 135 H5N1 influenza viruses that have
+been isolated from humans and other mammals have serine at
+position 42 in the NS1 protein. The amino acid at position 42
+is located within the second -helix spanning amino acids 30 to
+50 of the RNA-binding domain of NS1 protein (34). Two basic
+amino acids, R38 and K41, in this same region have previously
+been reported to be important for inhibiting host IFN induc-
+tion and virulence of influenza A viruses (6). Using WSN virus,
+Donelan et al. demonstrated that the basic amino acid arginine
+at position 38 and lysine at position 41 of NS1 play a critical
+role in the inhibition of IFN production and in the virulence of
+the virus in mice, and an attenuated mutant containing NS1,
+R38AK41A, acquired increased virulence in mice as a result of
+the mutation of NS1 S42G (6). A recent study (19) reported
+that a mutant virus designated A/Udorn/72 and containing
+alanine instead of asparagine at position 38 was highly atten-
+uated in MDCK cells. Our data indicate that DK/27 viruses
+containing the single substitution of alanine for either of the
+basic amino acids at positions 38 and 41 alone were not atten-
+uated in mice, but substitution of alanine at both positions led
+to complete attenuation. Together with our finding of the
+importance of the amino acid at position 42 in virulence, these
+data emphasize the critical role of the second -helix structure
+of the RNA-binding domain of NS1 for IFN antagonism and
+for virulence.
+A recent study reported that the RNA helicase enzymes
+retinoic acid-inducible gene I (RIG-I) acts as a single-stranded
+RNA sensor and a potential target of viral immune evasion,
+and NS1 protein of influenza A virus blocks the RIG-I activa-
+tion mediated by viral genomic single-stranded RNA bearing
+5 phosphates (22). It remains to be investigated if the contri-
+bution of the NS1 protein to the pathogenicities of the DK/12
+and DK/27 viruses is associated with blocking the activation of
+RIG-I induced by the viral genomic 5-phosphorylated RNA.
+In summary, we demonstrate here that the amino acid at
+position 42 of NS1 plays an important role in the ability of
+H5N1 influenza viruses to antagonize the host IFN response
+and for the virulence of H5N1 avian influenza virus in a mam-
+malian host. We also attest that the RNA-binding domain of
+the NS1 protein plays an important role in preventing the
+dsRNA-mediated activation of the NK-B pathway and the
+IRF-3 pathway. Our results provide strong additional evidence
+that the NS1 protein is a virulence factor for H5N1 avian
+influenza viruses and that multiple domains within this protein
+may be suitable targets for the development of antiviral drugs
+and attenuated vaccines.
+VOL. 82, 2008 PATHOGENICITY OF H5N1 AVIAN INFLUENZA VIRUSES 1153
+ACKNOWLEDGMENTS
+We thank Gloria Kelly and Susan Watson for editing the manu-
+script, Michael Whitt for providing the reverse genetics system for
+generating the recombinant VSV-GFP, and Nancy Cox and Kanta
+Subbarao for providing the plasmid pBD.
+This work was supported by Chinese National S&T Plan Grant
+2004BA519A-57, the Chinese National Key Basic Research Program
+(973) 2005CB523005 and 2005CB523200; by grants-in-aid and a con-
+tract research fund from the Ministry of Education, Culture, Sports,
+Science and Technology, Japan, Program of Founding Research
+Centers for Emerging and Reemerging Infectious Diseases; and by
+National Institute of Allergy and Infectious Diseases Public Health
+Service research grants.
+REFERENCES
+1. Algarte
+´, M., H. Nguyen, C. Heylbroeck, R. Lin, and J. Hiscott. 1999. IB-
+mediated inhibition of virus-induced beta interferon transcription. J. Virol.
+73:2694­2702.
+2. Chen, H., G. Deng, Z. Li, G. Tian, Y. Li, P. Jiao, L. Zhang, Z. Liu, R. G.
+Webster, and K. Yu. 2004. The evolution of H5N1 influenza viruses in ducks
+in southern China. Proc. Natl. Acad. Sci. USA 101:10452­10457.
+3. Chen, H., Y. Li, Z. Li, J. Shi, K. Shinya, G. Deng, Q. Qi, G. Tian, S. Fan, H.
+Zhao, Y. Sun, and Y. Kawaoka. 2006. Properties and dissemination of
+H5N1viruses isolated during an influenza outbreak in migratory waterfowl in
+western China. J. Virol. 80:5976­5983.
+4. Claas, E. C., A. Osterhaus, R. van Beek, J. C. De Jong, G. F. Rimmelzwaan,
+D. A. Senne, S. Krauss, K. F. Shortridge, and R. G. Webster. 1998. Human
+influenza A H5N1 virus related to a highly pathogenic avian influenza virus.
+Lancet 351:472­477.
+5. Daly, C., and N. C. Reich. 1993. Double-stranded RNA activates novel
+factors that bind to the interferon-stimulated response element. Mol. Cell.
+Biol. 13:3756­3764.
+6. Donelan, N., C. F. Basler, and A. Garci
+´a-Sastre. 2003. A recombinant influ-
+enza A virus expressing an RNA-binding defective NS1 protein induces high
+levels of beta interferon and is attenuated in mice. J. Virol. 77:13257­13266.
+7. Egorov, A., S. Brandt, S. Sereinig, J. Romanova, B. Ferko, D. Katinger, A.
+Grassauer, G. Alexandrova, H. Katinger, and T. Muster. 1998. Transfectant
+influenza A viruses with long deletions in the NS1 protein grow efficiently in
+Vero cells. J. Virol. 72:6437­6441.
+8. Flory, E., M. Kunz, C. Scheller, C. Jassoy, R. Stauber, U. R. Rapp, and S.
+Ludwig. 2000. Influenza virus-induced NF-kB-dependent gene expression is
+mediated by overexpression of viral proteins and involves oxidative radicals
+and activation of IkB kinase. J. Biol. Chem. 275:8307­8314.
+9. Gabriel, G., B. Dauber, T. Wolff, O. Planz, H.-D. Klenk, and J. Stech. 2005.
+The viral polymerase mediates adaptation of an avian influenza virus to a
+mammalian host. Proc. Natl. Acad. Sci. USA 102:18590­18595.
+10. Garcia-Sastre, A. 2006. Antiviral response in pandemic influenza viruses.
+Emerg. Infect. Dis. 12:44­47.
+11. Garcia-Sastre, A., A. Egorov, D. Matassov, S. Brandt, D. E. Levy, J. E.
+Durbin, P. Palese, and T. Muster. 1998. Influenza A virus lacking the NS1
+gene replicates in interferon-deficient systems. Virology 252:324­330.
+12. Hatta, M., P. Gao, P. Halfmann, and Y. Kawaoka. 2001. Molecular basis for
+high virulence of Hong Kong H5N1 influenza A viruses. Science 293:1840­
+1842.
+13. Kawaoka, Y., and R. G. Webster. 1988. Sequence requirements for cleavage
+activation of influenza virus hemagglutinin expressed in mammalian cells.
+Proc. Natl. Acad. Sci. USA 85:324­348.
+14. Krug, R. M., W. Yuan, D. L. Noah, and A. G. Latham. 2003. Intracellular
+warfare between human influenza viruses and human cells: the roles of the
+viral NS1 protein. Virology 309:181­189.
+15. Lawson, N., E. Stillmans, M. Whit, and J. K. Rose. 1995. Recombinant
+vesicular stomatitis viruses from DNA. Proc. Natl. Acad. Sci. USA 92:4477­
+4481.
+16. Li, Z., H. Chen, P. Jiao, G. Deng, G. Tian, Y. Li, E. Hoffmann, R. G. Webster,
+Y. Matsuoka, and K. Yu. 2005. Molecular basis of replication of duck H5N1
+influenza viruses in a mammalian mouse model. J. Virol. 79:12058­12064.
+17. Li, Z., Y. Jiang, P. Jiao, A. Wang, F. Zhao, G. Tian, X. Wang, K. Yu, Z. Bu,
+and H. Chen. 2006. The NS1 gene contributes to the virulence of H5N1 avian
+influenza viruses. J. Virol. 80:11115­11123.
+18. Mibayashi M., L. Martinez-Sobrido, Y. M. Loo, W. B. Cardenas, M. Gale,
+Jr., and A. Garcia-Sastre. 2007. Inhibition of retinoic acid-inducible gene
+I-mediated induction of beta interferon by the NS1 protein of influenza A
+virus. J. Virol. 81:514­524.
+19. Min, J. Y., and R. M. Krug. 2006. The primary function of RNA binding by
+the influenza A virus NS1 protein in infected cells: inhibiting the 2-5 oligo
+(A) synthetase/RNase L pathway. Proc. Natl. Acad. Sci. USA 103:7100­
+7105.
+20. Noah, D. L., K. Y. Twu, and R. M. Krug. 2003. Cellular antiviral responses
+against influenza A virus are countered at the posttranscriptional level by the
+viral NS1A protein via its binding to a cellular protein required for the 3 end
+processing of cellular pre-mRNAS. Virology 307:386­395.
+21. Office International des Epizooties. 2004. OIE manual of diagnostic tests
+and vaccines for terrestrial animals. Office International des Epizooties,
+Paris, France.
+22. Pichlmair, A., O. Schulz, C. Tan, T. Na
+¨slund, P. Liljestro
+¨m, F. Weber, and
+C. Sousa. 2006. RIG-I-mediated antiviral responses to single-stranded RNA
+bearing 5-phosphates. Science 314:997­1001.
+23. Quinlivan, M., D. Zamarin, A. Garcia-Sastre, A. Cullinane, T. Chambers,
+and P. Palese. 2005. Attenuation of equine influenza viruses through trun-
+cations of the NS1 protein. J. Virol. 79:8431­8439.
+24. Reed, L. E. L., and H. Muench. 1938. A simple method of estimating fifty
+percent endpoints. Am. J. Hyg. 27:493­497.
+25. Sato, M., N. Tanaka, N. Hata, E. Oda, and T. Taniguchi. 1998. Involvement
+of the IRF family transcription factor IRF-3 in virus-induced activation of
+the IFN-beta gene. FEBS Lett. 425:112­116.
+26. Schafer, S. L., R. Lin, P. A. Moore, J. Hiscott, and P. M. Pitha. 1998.
+Regulation of type I interferon gene expression by interferon regulatory
+factor-3. J. Biol. Chem. 273:2714­2720.
+27. Seo, S. E., E. Hoffmann, and R. G. Webster. 2002. Lethal H5N1 influenza
+viruses escape host antiviral cytokine responses. Nat. Med. 8:950­954.
+28. Solorzano, A., R. J. Webby, K. M. Lager, B. H. Janke, A. Garcia-Sastre, and
+J. A. Richt. 2005. Mutations in the NS1 protein of swine influenza virus
+impair anti-interferon activity and confer attenuation in pigs. J. Virol. 79:
+7535­7543.
+29. Stark, G. R., I. M. Kerr, B. R. Williams, R. H. Silverman, and R. D.
+Schreiber. 1998. How cells respond to interferons. Annu. Rev. Biochem.
+67:227­264.
+30. Stech, J., and H. D. Klenk. 2006. A new approach to an influenza life vaccine:
+haemagglutinin cleavage site mutants generated by reverse genetics. Berl.
+Munch. Tierarztl. Wochenschr. 119:186­191.
+31. Subbarao, K., A. Klimov, J. Katz, H. Regnery, W. Lim, H. Hall, M. Perdue,
+D. Swayne, C. Bender, J. Huang, M. Hemphill, T. Rowe, M. Shaw, X. Xu, K.
+Fukuda, and N. Cox. 1998. Characterization of an avian influenza A (H5N1)
+virus isolated from a child with a fatal respiratory illness. Science 279:393­
+396.
+32. Talon, J., C. M. Horvath, R. Polley, C. F. Basler, T. Muster, P. Palese, and
+A. Garci
+´a-Sastre. 2000. Activation of interferon regulatory factor 3 is inhib-
+ited by the influenza A virus NS1 protein. J. Virol. 74:7989­7996.
+33. Vilcek, J., and G. C. Sen. 1996. Orthomyxoviruses, p. 375­399. In B. N.
+Fields, D. M. Knipe, P. M. Howley, R. M. Chanock, J. L. Melnick, T. P.
+Monath, B. Roizman, and S. E. Straus (ed.), Fields virology. Lippincott-
+Raven Publishers, Philadelphia, PA.
+34. Wang, W., K. Riedel, P. Lynch, C. Y. Chien, G. T. Montelione, and R. M.
+Krug. 1999. RNA binding by the novel helical domain of the influenza virus
+NS1 protein requires its dimer structure and a small number of specific basic
+amino acids. RNA 5:195­205.
+35. Wang, X., M. Li, H. Zheng, T. Muster, P. Palese, A. A. Beg, and A. Garci
+´a-
+Sastre. 2000. Influenza A virus NS1 protein prevents activation of NF-B
+and induction of alpha/beta interferon. J. Virol. 74:11566­11573.
+36. Yoneyama, M., W. Suhara, Y. Fukuhara, M. Fukuda, E. Nishida, and T.
+Fujita. 1998. Direct triggering of the type I interferon system by virus infec-
+tion: activation of a transcription factor complex containing IRF-3 and CBP/
+p300. EMBO J. 17:1087­1095.
+1154 JIAO ET AL. J. VIROL.
+

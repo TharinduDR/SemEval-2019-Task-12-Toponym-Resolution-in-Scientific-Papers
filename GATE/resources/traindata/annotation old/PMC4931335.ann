@@ -1,0 +1,194 @@
+T1	Protein 78 84	Satoru
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 296 307	Yanagihara2
+#2	AnnotatorNotes T2	END
+T3	Protein 1462 1465	Key
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1509 1510	.
+#4	AnnotatorNotes T4	END
+T5	Protein 3335 3336	1
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4284 4285	.
+#6	AnnotatorNotes T6	END
+T7	Protein 7731 7741	Downloaded
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7827 7828	.
+#8	AnnotatorNotes T8	END
+T9	Protein 11447 11450	470
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 11559 11560	.
+#10	AnnotatorNotes T10	END
+T11	Protein 14469 14472	471
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 14569 14570	.
+#12	AnnotatorNotes T12	END
+T13	Protein 19066 19069	472
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 19166 19167	.
+#14	AnnotatorNotes T14	END
+T15	Protein 23097 23105	NEWFOUND
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 23229 23230	.
+#16	AnnotatorNotes T16	END
+T17	Protein 25518 25533	Acknowledgments
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 32637 32638	.
+#18	AnnotatorNotes T18	END
+T21	Location 623 631	Hokkaido
+#21	AnnotatorNotes T21	<latlng>43.06451, 141.3466</latlng><geoID>2130037 </geoID><pop>5647230</pop>
+T20	Location 2446 2457	Switzerland
+#20	AnnotatorNotes T20	<latlng>47.00016, 8.01427</latlng><geoID>2658434 </geoID><pop>7581000</pop>
+T22	Location 2564 2578	Czech Republic
+#22	AnnotatorNotes T22	<latlng>49.75, 15</latlng><geoID>3077311 </geoID><pop>10476000</pop>
+T23	Location 2603 2610	Finland
+#23	AnnotatorNotes T23	<latlng>64, 26</latlng><geoID>660013 </geoID><pop>5244000</pop>
+T24	Location 2650 2657	Germany
+#24	AnnotatorNotes T24	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T25	Location 2682 2689	Hungary
+#25	AnnotatorNotes T25	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T26	Location 2711 2717	Poland
+#26	AnnotatorNotes T26	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T27	Location 2736 2742	Russia
+#27	AnnotatorNotes T27	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T28	Location 2766 2774	Slovakia
+#28	AnnotatorNotes T28	<latlng>48.66667, 19.5</latlng><geoID>3057568 </geoID><pop>5455000</pop>
+T29	Location 2803 2811	Slovenia
+#29	AnnotatorNotes T29	<latlng>46.08333, 15</latlng><geoID>3190538 </geoID><pop>2007000</pop>
+T30	Location 4590 4605	Teletskoye Lake
+#30	AnnotatorNotes T30	<latlng>51.58417, 87.66722</latlng><geoID>1489805 </geoID>
+T31	Location 4613 4627	Altai Republic
+#31	AnnotatorNotes T31	<latlng>51, 87</latlng><geoID>1506272 </geoID><pop>206168</pop>
+T33	Location 4907 4915	Hokkaido
+#33	AnnotatorNotes T33	Hokkaido, Japan <latlng>43.06451, 141.3466</latlng><geoID>2130037 </geoID><pop>5647230</pop>
+T34	Location 5364 5376	Fennoscandia
+#34	AnnotatorNotes T34	<latlng>64, 18</latlng><geoID>2622229 </geoID>
+T35	Location 5385 5392	Siberia
+#35	AnnotatorNotes T35	<latlng>60, 100</latlng><geoID>2016590</geoID>
+T36	Location 5413 5418	Japan
+#36	AnnotatorNotes T36	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T37	Location 5466 5471	Sakha
+#37	AnnotatorNotes T37	Sakha Republic, Russia <latlng>66.4, 129.166667</latlng><geoID>2013162 </geoID><pop>958528</pop>
+T42	Location 6668 6675	Eurasia
+#42	AnnotatorNotes T42	<latlng>45.4507, 68.8319</latlng><geoID>NA</geoID>
+T43	Location 6807 6817	Lena River
+#43	AnnotatorNotes T43	<latlng>72.38837, 126.70604</latlng><geoID>NA</geoID>
+T44	Location 6848 6858	Amga River
+#44	AnnotatorNotes T44	<latlng>62.63333, 134.53333</latlng><geoID>NA</geoID>
+T45	Location 6895 6908	Kenkeme River
+#45	AnnotatorNotes T45	<latlng>63.47133, 128.78628</latlng><geoID>NA </geoID>
+T47	Location 7024 7033	Koshimizu
+#47	AnnotatorNotes T47	<latlng>43.81424, 144.45694</latlng><geoID>7429538 </geoID>
+T48	Location 7067 7075	Shibetsu
+#48	AnnotatorNotes T48	<latlng>44.11522, 142.54054</latlng><geoID>2128201 </geoID><pop>21744<pop>
+T50	Location 7147 7152	Shari
+#50	AnnotatorNotes T50	<latlng>43.88116, 144.73204</latlng><geoID>7428106 </geoID>
+T51	Location 7191 7198	Tobetsu
+#51	AnnotatorNotes T51	<latlng>41.73333, 140.58333</latlng><geoID>2127804 </geoID>
+T53	Location 7561 7570	Koshimizu
+#53	AnnotatorNotes T53	<latlng>43.85895, 144.46509</latlng><geoID>7429538 </geoID>
+T54	Location 7584 7592	Shibetsu
+#54	AnnotatorNotes T54	<latlng>44.11522, 142.54054</latlng><geoID>2128201 </geoID><pop>21744<pop>
+T55	Location 7606 7612	Mukawa
+#55	AnnotatorNotes T55	<latlng>42.75837, 142.13455</latlng><geoID>7429548</geoID>
+T56	Location 7626 7631	Shari
+#56	AnnotatorNotes T56	<latlng>43.88116, 144.73204</latlng><geoID>7428106 </geoID>
+T57	Location 7645 7652	Tobetsu
+#57	AnnotatorNotes T57	<latlng>41.73333, 140.58333</latlng><geoID>2127804 </geoID>
+T58	Location 7470 7480	Lena River
+#58	AnnotatorNotes T58	<latlng>72.38837, 126.70604</latlng><geoID>NA </geoID>
+T59	Location 7494 7504	Amga River
+#59	AnnotatorNotes T59	<latlng>62.63333, 134.53333</latlng><geoID>NA </geoID>
+T60	Location 7518 7531	Kenkeme River
+#60	AnnotatorNotes T60	<latlng>63.47133, 128.78628</latlng><geoID>NA </geoID>
+T62	Location 7457 7469	Russia Sakha
+#62	AnnotatorNotes T62	<latlng>66.4, 129.166667</latlng><geoID>2013162 </geoID><pop>958528</pop>
+T63	Location 11683 11688	Japan
+#63	AnnotatorNotes T63	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T64	Location 20015 20021	Russia
+#64	AnnotatorNotes T64	<latlng>60, 100</latlng><geoID> 2017370</geoID><pop>140702000</pop>
+T65	Location 20026 20031	Japan
+#65	AnnotatorNotes T65	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T66	Location 20426 20433	Eurasia
+#66	AnnotatorNotes T66	<latlng>45.4507, 68.8319</latlng><geoID>NA</geoID>
+T67	Location 21024 21038	Sakha Republic
+#67	AnnotatorNotes T67	<latlng>66.4, 129.166667</latlng><geoID>2013162 </geoID><pop>958528</pop>
+T68	Location 21115 21120;21121 21129	Altai Republic
+#68	AnnotatorNotes T68	Altai Republic <latlng>51, 87</latlng><geoID>1506272 </geoID><pop>206168</pop>
+T69	Location 21134 21149	Khabarovsk Krai
+#69	AnnotatorNotes T69	<latlng>55, 134</latlng><geoID>2022888 </geoID><pop>1394490</pop>
+T70	Location 21153 21159	Russia
+#70	AnnotatorNotes T70	<latlng>60, 100</latlng><geoID>2017370</geoID><pop>140702000</pop>
+T71	Location 21331 21338	Eurasia
+#71	AnnotatorNotes T71	<latlng>45.4507, 68.8319</latlng><geoID> NA </geoID>
+T72	Location 21867 21873	Russia
+#72	AnnotatorNotes T72	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T73	Location 21857 21862	Japan
+#73	AnnotatorNotes T73	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T74	Location 21928 21933	Japan
+#74	AnnotatorNotes T74	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T75	Location 22178 22183	Japan
+#75	AnnotatorNotes T75	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T76	Location 22188 22194	Russia
+#76	AnnotatorNotes T76	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000<pop>
+T77	Location 23253 23260	Eurasia
+#77	AnnotatorNotes T77	<latlng>45.4507, 68.8319</latlng><geoID> NA </geoID>
+T78	Location 23265 23270	Japan
+#78	AnnotatorNotes T78	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T79	Location 24977 24983	Mukawa
+#79	AnnotatorNotes T79	<latlng>42.75837, 142.13455</latlng><geoID>7429548</geoID>
+T80	Location 24992 24997	Japan
+#80	AnnotatorNotes T80	<latlng>35.68536, 139.75309</latlng><geoID>1861060  </geoID><pop>127288000</pop>
+T81	Location 25160 25175	Hokkaido Island
+#81	AnnotatorNotes T81	<latlng>44, 143</latlng><geoID>2130038 </geoID><pop>5500000</pop>
+T82	Location 25385 25390	Japan
+#82	AnnotatorNotes T82	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T83	Location 633 638	Japan
+#83	AnnotatorNotes T83	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T19	Location 602 609	Siberia
+T84	Location 611 617	Russia
+#19	AnnotatorNotes T84	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T85	Location 4917 4922	Japan
+#84	AnnotatorNotes T85	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T32	Location 4886 4893	Siberia
+T86	Location 4895 4901	Russia
+#32	AnnotatorNotes T86	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T87	Location 5484 5490	Russia
+#85	AnnotatorNotes T87	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T38	Location 5560 5568	Hokkaido
+#38	AnnotatorNotes T38	<latlng>43.06451, 141.3466</latlng><geoID>2130037 </geoID><pop>5647230</pop>
+T88	Location 5570 5575	Japan
+#86	AnnotatorNotes T88	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID> <pop>127288000</pop>
+T39	Location 5959 5968	San Diego
+#39	AnnotatorNotes T39	<latlng>33.0282, -116.77021</latlng><geoID>5391832</geoID><pop>3095313</pop>
+T89	Location 5970 5972	CA
+#87	AnnotatorNotes T89	<latlng> 37.25022, -119.75126 </latlng><geoID>5332921</geoID> <pop> 37691912 </pop>
+T40	Location 6029 6037	Matstudo
+#40	AnnotatorNotes T40	<latlng>35.79574, 139.92908</latlng><geoID>1857552 </geoID><pop>485962</pop>
+T41	Location 6195 6199	Otsu
+#41	AnnotatorNotes T41	<latlng>35.10203, 135.92452</latlng><geoID>1853552 </geoID><pop>342603</pop>
+T90	Location 6039 6044	Japan
+#88	AnnotatorNotes T90	<latlng>35.68536, 139.75309</latlng><geoID>1861060</geoID> <pop>127288000</pop>
+T91	Location 6201 6206	Japan
+#89	AnnotatorNotes T91	<latlng>35.68536, 139.75309</latlng><geoID>1861060</geoID> <pop>127288000</pop>
+T52	Location 7233 7241	Hokkaido
+#52	AnnotatorNotes T52	<latlng>43.06451, 141.3466</latlng><geoID>2130037</geoID><pop>5647230</pop>
+T92	Location 7243 7248	Japan
+#90	AnnotatorNotes T92	<latlng>35.68536, 139.75309</latlng><geoID>1861060</geoID><pop>127288000</pop>
+T93	Location 25366 25374	Sakhalin
+#91	AnnotatorNotes T93	<latlng> 51, 143 </latlng><geoID>2121530 </geoID>
+T94	Location 25375 25380	Cheju
+#92	AnnotatorNotes T94	<latlng>NA</latlng><geoID>NA</geoID>
+#93	AnnotatorNotes T19	<latlng>60, 100</latlng><geoID> 2016590</geoID>
+T95	Location 4639 4646	Siberia
+#94	AnnotatorNotes T95	<latlng>60, 100</latlng><geoID>2016590</geoID>
+#95	AnnotatorNotes T32	<latlng>60, 100</latlng><geoID> 2016590</geoID>
+T46	Location 6948 6962	Sakha Republic
+#46	AnnotatorNotes T46	<latlng>66.4, 129.166667</latlng><geoID>2013162</geoID><pop>958528</pop>
+T104	Location 6966 6972	Russia
+#96	AnnotatorNotes T104	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T105	Location 7108 7114	Mukawa
+#97	AnnotatorNotes T105	<latlng>42.75837, 142.13455</latlng><geoID>7429548</geoID>
+T61	Location 7552 7560	Hokkaido
+#61	AnnotatorNotes T61	<latlng>43.06451, 141.3466</latlng><geoID>2130037 </geoID><pop>5647230</pop>
+T106	Location 7546 7551	Japan
+#98	AnnotatorNotes T106	<latlng>35.68536, 139.75309</latlng><geoID>1861060</geoID> <pop>127288000</pop>

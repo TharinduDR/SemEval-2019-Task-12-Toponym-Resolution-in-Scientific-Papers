@@ -1,0 +1,119 @@
+﻿Genome Sequence of a Natural Reassortant H5N2 Avian Influenza
+Virus from Domestic Mallard Ducks in Eastern China
+Min Gu,a,b
+Junqing Huang,a
+Yuxin Chen,a
+Jian Chen,a
+Xiaoquan Wang,a,b
+Xiaowen Liu,a,b
+and Xiufan Liua,b
+Animal Infectious Disease Laboratory, College of Veterinary Medicine, Yangzhou University, Yangzhou, Jiangsu, China,a
+and Ministry of Education Key Lab for Avian
+Preventive Medicine, Yangzhou University, Yangzhou, Jiangsu, Chinab
+Here, we report the genomic sequence of a Chinese reassortant H5N2 avian influenza virus which possessed the polybasic motif
+PLREKRRK-R/GL at the hemagglutinin cleavage site. Phylogenetic analysis showed that all eight genes were of the Eurasian lin-
+eage, five of which were highly homologous to the endemic clade 2.3.4 H5N1 viruses and their H5N5 reassortant descendants.
+These data suggested that novel multisubtypic NA reassortants bearing the H5N1 backbone could be generated through genetic
+reassortment in H5N1 circulating regions, which will help in understanding the evolution and segment reassortment mecha-
+nism of H5 subtype avian influenza viruses.
+Avian influenza virus, a member of the family Orthomyxoviri-
+dae, is specified into 16 HA (hemagglutinin) subtypes and 9
+NA (neuraminidase) subtypes according to the antigenicity of the
+two surface glycoproteins HA and NA (7, 8). Among these, the
+H5N1 subtype combination of the Gs/GD lineage is of great con-
+cern, as it has caused disastrous damage to the poultry industry
+and has posed a serious threat to public health (7). In particular,
+the clade 2.3.4 Fujian-like H5N1 viruses have gradually became
+endemic in China since 2005 (3, 5) and continue to evolve actively
+in China, Vietnam, Laos, and neighboring regions (9). Further-
+more, they could even provide the backbones to generate a novel
+NA subtype of H5 highly pathogenic avian influenza (HPAI) vi-
+ruses, such as H5N5, via genetic reassortment (1).
+In this study, an H5N2 virus, A/duck/Jiangsu/m234/2012
+(m234), was isolated from apparently healthy domestic mallard
+ducks in the Jiangsu Province of eastern China in January 2012. To
+characterize this strain in detail, we determined the whole genome
+sequence by reverse transcription-PCR performed with the uni-
+versal primer set (2) and by sequencing using the ABI 3730 DNA
+analyzer (Applied Biosystems).
+Eight negative-sense RNA segments, including PB2, PB1, PA,
+HA, NP, NA, M, and NS genes, constitute the viral genome, with
+full lengths of 2,341, 2,341, 2,233, 1,776, 1,565, 1,466, 1,027, and
+890 nucleotides, respectively. In contrast to the recently reported
+Chinese H5N2 isolates (4, 10), m234 carried the polybasic motif
+PLREKRRK-R/GL at the HA cleavage site, which was consistent
+with the molecular signature of HPAI virus. However, typical res-
+idues Q226 and G228 (H3 numbering) in the receptor binding
+pocket of HA protein indicated that m234 retained the avian-like
+SA 2,3Gal receptor preference. The 5-amino-acid deletion at po-
+sitions 80 to 84 of the NS1 protein, which has been proven to exist
+in more and more H5N1 viruses isolated from 2000 onwards (6),
+was not detected in m234.
+Phylogenetic analysis showed that all eight genes were of the
+Eurasian lineage. The PB2, PA, HA, NP, and M genes were highly
+homologous (97% to 98%) to the previously identified reassortant
+HPAI H5N5 viruses A/duck/Eastern China/031/2009 and
+A/duck/Eastern China/008/2008 (1) and their clade 2.3.4 H5N1
+progenitors A/duck/Eastern China/108/2008 and A/duck/Eastern
+China/909/2009. The PB1 and NA genes shared the greatest DNA
+sequence identities (over 98%) with A/duck/Jiangxi/k0701/
+2009(H11N2), whereas the NS gene was most closely related (over
+95%) to A/duck/Nanchang/1904/1992(H7N1), which was iso-
+lated 2 decades ago. Therefore, we speculated that m234 may
+probably be reassorted from the above-mentioned duck origin
+avian influenza viruses. The isolation of this natural reassortant
+H5N2 virus further highlights that the genetic stability between
+the HA and NA subtype pairing of the clade 2.3.4 H5N1 HPAI
+viruses may have been disequilibrated to generate novel multisub-
+typic NA reassortants based on their genetic backbones.
+In conclusion, the genome information of A/duck/Jiangsu/
+m234/2012(H5N2) will be helpful to study the evolution and seg-
+ment reassortment mechanism of H5 subtype avian influenza vi-
+rus in areas where the virus is endemic.
+Nucleotide sequence accession numbers. The genome se-
+quences of A/duck/Jiangsu/m234/2012(H5N2) were deposited in
+GenBank under accession numbers JX507352 to JX507359.
+ACKNOWLEDGMENTS
+This work was supported by the Major State Basic Research Development
+Program of China (973 Program) (grant no. 2011CB505003), the Na-
+tional Key Technologies R&D Program of China (no. 2010BAD04B01),
+the Priority Academic Program Development of Jiangsu Higher Educa-
+tion Institutions (PAPD), and the Program for Changjiang Scholars and
+Innovative Research Team in University (PCSIRT, IRT0978).
+REFERENCES
+1. Gu M, et al. 2011. Novel reassortant highly pathogenic avian influenza
+(H5N5) viruses in domestic ducks, China. Emerg. Infect. Dis. 17:1060­1063.
+2. Hoffmann E, Stech J, Guan Y, Webster RG, Perez DR. 2001. Universal
+primer set for the full-length amplification of all influenza A viruses. Arch.
+Virol. 146:2275­2289.
+3. Jiang WM, et al. 2010. Molecular epidemiological surveys of H5 subtype
+highly pathogenic avian influenza viruses in poultry in China during
+2007­2009. J. Gen. Virol. 91:2491­2496.
+4. Jiao P, et al. 2012. Complete genome sequence of an H5N2 avian influ-
+enza virus isolated from a parrot in Southern China. J. Virol. 86:8890­
+8891.
+Received 27 August 2012 Accepted 27 August 2012
+Address correspondence to Xiufan Liu, xfliu@yzu.edu.cn.
+Copyright © 2012, American Society for Microbiology. All Rights Reserved.
+doi:10.1128/JVI.02315-12
+GENOME ANNOUNCEMENT
+November 2012 Volume 86 Number 22 Journal of Virology p. 12463­12464 jvi.asm.org 12463
+5. Li Y, et al. 2010. Continued evolution of H5N1 influenza viruses in wild
+birds, domestic poultry, and humans in China from 2004 to 2009. J. Virol.
+84:8389­8397.
+6. Long JX, Peng DX, Liu YL, Wu YT, Liu XF. 2008. Virulence of H5N1
+avian influenza virus enhanced by a 15-nucleotide deletion in the viral
+nonstructural gene. Virus Genes 36:471­478.
+7. Watanabe Y, Ibrahim MS, Suzuki Y, Ikuta K. 2012. The changing nature
+of avian influenza A virus (H5N1). Trends Microbiol. 20:11­20.
+8. Webster RG, Bean WJ, Gorman OT, Chambers TM, Kawaoka Y. 1992.
+Evolution and ecology of influenza A viruses. Microbiol. Rev. 56:152­179.
+9. WHO/OIE/FAO. 2012. Continued evolution of highly pathogenic avian
+influenza A (H5N1): updated nomenclature. Influenza Other Respi. Vi-
+ruses 6:1­5.
+10. Zhan GJ, Ling ZS, Zhu YL, Jiang SJ, Xie ZJ. 2012. Genetic character-
+ization of a novel influenza A virus H5N2 isolated from a dog in China.
+Vet. Microbiol. 155:409­416.
+Genome Announcement
+12464 jvi.asm.org Journal of Virology
+

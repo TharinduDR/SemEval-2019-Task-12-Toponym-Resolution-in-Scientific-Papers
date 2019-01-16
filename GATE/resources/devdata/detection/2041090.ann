@@ -1,0 +1,122 @@
+T12	Location 2170 2176	Europe
+#12	AnnotatorNotes T12	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T24	Location 8800 8809	Champaign
+#24	AnnotatorNotes T24	<latlng>40.14008,-88.19919</latlng><pop>201081</pop><geoID>4887163</geoID>
+T26	Location 9613 9618	China
+#26	AnnotatorNotes T26	<latlng>35,105</latlng><geoID>1814991</geoID>
+T8	Location 10933 10947	Southeast Asia
+#8	AnnotatorNotes T8	<latlng>12.38293,103.00781</latlng><pop>0</pop><geoID>6942346</geoID>
+T33	Location 10957 10962	Japan
+#33	AnnotatorNotes T33	<latlng>36,138</latlng><geoID>1861060</geoID>
+T34	Location 11140 11145	Italy
+#34	AnnotatorNotes T34	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T35	Location 11285 11290	Italy
+#35	AnnotatorNotes T35	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T36	Location 11412 11418	Europe
+#36	AnnotatorNotes T36	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T37	Location 11497 11502	Italy
+#37	AnnotatorNotes T37	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T38	Location 11586 11591	Italy
+#38	AnnotatorNotes T38	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T39	Location 11758 11763	Italy
+#39	AnnotatorNotes T39	<latlng>42.8333,12.8333</latlng><geoID>3175395</geoID>
+T42	Location 12018 12023	China
+#42	AnnotatorNotes T42	<latlng>35,105</latlng><geoID>1814991</geoID>
+T43	Location 12082 12087	China
+#43	AnnotatorNotes T43	<latlng>35,105</latlng><geoID>1814991</geoID>
+T143	Location 18340 18349	Astrakhan
+#143	AnnotatorNotes T143	<latlng>46.34968,48.04076</latlng><pop>502533</pop><geoID>580497</geoID>
+T13	Location 18378 18384	Gurjev
+#13	AnnotatorNotes T13	<latlng>48.1564217,53.1367847</latlng><geoID>NA</geoID>
+T162	Location 34789 34795	Europe
+#162	AnnotatorNotes T162	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T15	Location 42514 42520;42521 42528	North America
+#15	AnnotatorNotes T15	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T169	Location 45519 45525	Europe
+#169	AnnotatorNotes T169	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T170	Location 45529 45533	Asia
+#170	AnnotatorNotes T170	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T171	Location 45685 45698	North America
+#171	AnnotatorNotes T171	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T172	Location 45809 45822	North America
+#172	AnnotatorNotes T172	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T173	Location 45824 45830	Europe
+#173	AnnotatorNotes T173	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T174	Location 45836 45840	Asia
+#174	AnnotatorNotes T174	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T175	Location 46285 46298	North America
+#175	AnnotatorNotes T175	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T176	Location 47173 47179	Europe
+#176	AnnotatorNotes T176	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T179	Location 50864 50870	Europe
+#179	AnnotatorNotes T179	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T180	Location 52205 52210	China
+#180	AnnotatorNotes T180	<latlng>35,105</latlng><geoID>1814991</geoID>
+T181	Location 52304 52309	China
+#181	AnnotatorNotes T181	<latlng>35,105</latlng><geoID>1814991</geoID>
+T182	Location 52387 52392	China
+#182	AnnotatorNotes T182	<latlng>35,105</latlng><geoID>1814991</geoID>
+T183	Location 52394 52400	Taiwan
+#183	AnnotatorNotes T183	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T40	Location 52406 52416;52417 52421	Southeast Asia
+#40	AnnotatorNotes T40	<latlng>12.38293,103.00781</latlng><pop>0</pop><geoID>6942346</geoID>
+T186	Location 52542 52555	North America
+#186	AnnotatorNotes T186	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T187	Location 52595 52601	Europe
+#187	AnnotatorNotes T187	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T17	Protein 20931 20934	VOL
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 20962 20965	AL.
+#18	AnnotatorNotes T18	END
+T21	Protein 26316 26318	J.
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 26319 26325	VIROL.
+#22	AnnotatorNotes T22	END
+T19	Protein 26358 26367	EVOLUTION
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 26400 26404	3709
+#20	AnnotatorNotes T20	END
+T23	Protein 31689 31692	VOL
+#23	AnnotatorNotes T23	BEGIN
+T25	Protein 31720 31723	AL.
+#25	AnnotatorNotes T25	END
+T27	Protein 35291 35293	J.
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 35345 35349	3711
+#28	AnnotatorNotes T28	END
+T29	Protein 43054 43057	VOL
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 43085 43088	AL.
+#30	AnnotatorNotes T30	END
+T31	Protein 49316 49317	J
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 49370 49374	3713
+#32	AnnotatorNotes T32	END
+T10	Protein 13232 13235	VOL
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 13263 13266	AL.
+#11	AnnotatorNotes T11	END
+T14	Protein 16228 16229	J
+#14	AnnotatorNotes T14	BEGIN
+T16	Protein 16282 16286	3707
+#16	AnnotatorNotes T16	END
+T3	Protein 53065 53080	ACKNOWLEDGMENTS
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 63448 63449	.
+#4	AnnotatorNotes T4	END
+T1	Protein 1 8	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T239	Protein 133 145	Microbiology
+#239	AnnotatorNotes T239	END
+T2	Protein 272 276	OWEN
+#2	AnnotatorNotes T2	BEGIN
+T188	Protein 803 807	1991
+#188	AnnotatorNotes T188	END
+T5	Protein 4433 4434	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4525 4531	86001.
+#6	AnnotatorNotes T6	END
+T7	Protein 5993 5997	3704
+#7	AnnotatorNotes T7	BEGIN
+T9	Protein 6042 6046	3705
+#9	AnnotatorNotes T9	END

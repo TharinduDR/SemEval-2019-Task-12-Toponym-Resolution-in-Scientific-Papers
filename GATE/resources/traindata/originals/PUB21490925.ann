@@ -1,0 +1,34 @@
+T90	Location 37760 37767	Austria
+#90	AnnotatorNotes T90	<latlng>47.3333,13.3333</latlng><geoID>2782113</geoID>
+T92	Location 38246 38253	Austria
+#92	AnnotatorNotes T92	<latlng>47.3333,13.3333</latlng><geoID>2782113</geoID>
+T94	Location 38394 38401	Germany
+#94	AnnotatorNotes T94	<latlng>51,9</latlng><geoID>2921044</geoID>
+T101	Location 39063 39069	Vienna
+#101	AnnotatorNotes T101	<latlng>48.20849,16.37208</latlng><pop>1691468</pop><geoID>2761369</geoID>
+T102	Location 39072 39079	Austria
+#102	AnnotatorNotes T102	<latlng>47.3333,13.3333</latlng><geoID>2782113</geoID>
+T103	Location 39281 39297	Saint Petersburg
+#103	AnnotatorNotes T103	<latlng>59.93863,30.31413</latlng><pop>5028000</pop><geoID>498817</geoID>
+T104	Location 39299 39305	Russia
+#104	AnnotatorNotes T104	<latlng>60,100</latlng><geoID>2017370</geoID>
+T110	Location 39566 39575	Frankfurt
+#110	AnnotatorNotes T110	<latlng>50.13083,8.66361</latlng><pop>671927</pop><geoID>3220968</geoID>
+T111	Location 39577 39584	Germany
+#111	AnnotatorNotes T111	<latlng>51,9</latlng><geoID>2921044</geoID>
+T127	Location 43099 43101	UK
+#127	AnnotatorNotes T127	<latlng>54,-2</latlng><geoID>2635167</geoID>
+T144	Location 47132 47137	Japan
+#144	AnnotatorNotes T144	<latlng>36,138</latlng><geoID>1861060</geoID>
+T280	Protein 146 154	Brigitte
+#280	AnnotatorNotes T280	BEGIN
+T281	Protein 1111 1118	Germany
+#281	AnnotatorNotes T281	END
+T282	Protein 3183 3191	Citation
+#282	AnnotatorNotes T282	BEGIN
+T283	Protein 5914 5920	e18577
+#283	AnnotatorNotes T283	END
+T284	Protein 50321 50336	Acknowledgments
+#284	AnnotatorNotes T284	BEGIN
+T285	Protein 60650 60656	e18577
+#285	AnnotatorNotes T285	END

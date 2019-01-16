@@ -1,0 +1,1351 @@
+Clinical Epidemiology
+
+Dovepress
+open access to scientific and medical research
+
+O r i g i n a l Re s e a r c h
+
+Open Access Full Text Article
+
+The impact of cardiac and noncardiac
+comorbidities on the short-term outcomes
+of patients hospitalized with acute myocardial
+infarction: a population-based perspective
+This article was published in the following Dove Press journal:
+Clinical Epidemiology
+6 November 2013
+Number of times this article has been viewed
+
+Han-Yang Chen 1
+Jane S Saczynski 1–3
+David D McManus 1,4
+Darleen Lessard 1
+Jorge Yarzebski 1
+Kate L Lapane 1
+Joel M Gore 4
+Robert J Goldberg 1,3
+Department of Quantitative Health
+Sciences, 2Department of Medicine,
+3
+Meyers Primary Care Institute,
+4
+Division of Cardiovascular Medicine,
+University of Massachusetts Medical
+School, Worcester, MA, USA
+1
+
+Objectives: The objectives of our large observational study were to describe the prevalence of
+cardiac and noncardiac comorbidities in a community-based population of patients hospitalized
+with acute myocardial infarction (AMI) at all medical centers in central Massachusetts, and to
+examine whether multiple comorbidities were associated with in-hospital death rates and
+hospital length of stay.
+Methods: The study sample consisted of 2,972 patients hospitalized with AMI at all eleven
+greater Worcester medical centers in central Massachusetts during the three study years of
+2003, 2005, and 2007.
+Results: The average age of this hospitalized population was 71 years, 55% were men, 93%
+were Caucasian, and approximately one third had developed an ST segment elevation AMI
+during the years under study. Hypertension (75%) was the most common cardiac condition
+identified in patients hospitalized with AMI whereas renal disease (22%) was the most common
+noncardiac comorbidity diagnosed in this study population. Approximately one in every four
+hospitalized patients had any four or more of the seven cardiac conditions examined, while one
+in 13 had any three or more of the five noncardiac conditions studied. Patients with four or more
+cardiac comorbidities were more than twice as likely to have died during hospitalization and
+have a prolonged hospital length of stay, compared to those without any cardiac comorbidities.
+Patients with three or more noncardiac comorbidities had markedly increased odds of dying during hospitalization and having a prolonged hospital stay compared to those with no noncardiac
+comorbidities previously diagnosed.
+Conclusion: Our findings highlight the need for additional contemporary data to improve
+the short-term outcomes of patients hospitalized with AMI and multiple concurrent medical
+illnesses.
+Keywords: population-based study, chronic conditions, acute coronary syndrome
+
+Introduction
+Correspondence: Robert J Goldberg
+Division of Epidemiology of Chronic
+Diseases and Vulnerable Populations,
+Department of Quantitative Health
+Sciences, University of Massachusetts
+Medical School, 55 Lake Avenue North,
+Worcester, MA 01655, USA
+Tel +1 508 856 3991
+Fax +1 508 856 8993
+Email robert.goldberg@umassmed.edu
+
+More than 140 million Americans have one or more chronic conditions.1 The number
+of Americans living with multiple chronic conditions will continue to increase as
+the population ages and fewer patients die from acute manifestations of cardiac and
+noncardiac conditions.2–4 In general, and among patients with cardiovascular disease,
+the presence of multiple comorbidities has been associated with increased mortality,
+greater utilization of health care resources, and larger health care expenditures.5,6
+Coronary heart disease (CHD) is the leading cause of death in Americans and is
+associated with a high burden of comorbidities that play an important role in disease
+439
+
+submit your manuscript | www.dovepress.com
+
+Clinical Epidemiology 2013:5 439–448
+
+Dovepress
+
+© 2013 Chen et al. This work is published by Dove Medical Press Ltd, and licensed under Creative Commons Attribution – Non Commercial (unported, v3.0)
+License. The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/. Non-commercial uses of the work are permitted without any further
+permission from Dove Medical Press Ltd, provided the work is properly attributed. Permissions beyond the scope of the License are administered by Dove Medical Press Ltd. Information on how to
+request permission may be found at: http://www.dovepress.com/permissions.php
+
+http://dx.doi.org/10.2147/CLEP.S49485
+
+Dovepress
+
+Chen et al
+
+progression and response to treatment.7–9 Although multiple
+cardiac comorbidities have been associated with adverse
+post-discharge survival rates in patients hospitalized with
+acute myocardial infarction (AMI),10 important in-hospital
+events, including mortality, length of stay, and use of different treatment approaches, have not been extensively studied
+in patients with AMI according to the presence of multiple
+cardiac or noncardiac comorbidities.11 The relative lack of
+data on the magnitude and impact of multiple comorbidities
+may limit our ability to further improve the targeting of
+evidence-based therapeutics, thereby improving the outcomes
+of patients hospitalized with AMI.
+The primary objective of our study was to describe the
+prevalence of cardiac and noncardiac comorbidities in a
+community-based population of patients hospitalized at all
+medical centers in central Massachusetts with AMI in 2003,
+2005, and 2007. A secondary study objective was to examine
+whether the presence of multiple cardiac and noncardiac
+comorbidities was associated with the use of various treatment approaches, in-hospital mortality, and hospital length
+of stay in patients hospitalized with AMI during the years
+under study. Data from the population-based Worcester Heart
+Attack Study were utilized for this investigation.12–14
+
+Methods
+The Worcester Heart Attack Study is an ongoing populationbased investigation examining long-term trends in the
+incidence, hospital, and post discharge case-fatality rates of
+AMI in residents of the Worcester, MA, metropolitan area
+hospitalized at all greater Worcester medical centers on an
+approximate biennial basis between 1975 and 2007.12–14 In
+brief, computerized printouts of patients discharged from all
+greater Worcester hospitals with possible AMI ­(International
+Classification of Disease, Ninth Revision: [ICD 9] codes:
+410–414, 786.5) were identified. Cases of possible AMI were
+independently validated using predefined criteria for AMI.
+These criteria included a suggestive clinical history, serum
+enzyme level elevations in excess of the normal range at
+each participating hospital, and serial electrocardiographic
+findings during hospitalization consistent with the presence
+of AMI. Patients who satisfied at least two of these three
+criteria, and were residents of the Worcester metropolitan
+area, were included.12–14
+The present study population consisted of adult men
+and women of all ages who were hospitalized with AMI in
+2003, 2005, and 2007 at any of eleven medical centers in
+the Worcester metropolitan area. As mentioned previously,
+we carry out surveillance of this population on a biennial,
+
+440
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+not an annual, basis. We restricted our study sample to this
+relatively recent period because of the availability of data on
+several important measures of cardiac and noncardiac comorbidity and to provide relatively contemporary insights into
+the prevalence and impact of various comorbidities in this
+patient population. This observational study was approved
+by the Office for the Protection of Human Subjects in
+Research and Institutional Review Board at the University
+of Massachusetts Medical School.
+
+Data collection
+Trained nurses and physicians abstracted information on
+patients’ demographic characteristics, medical history,
+clinical data, and treatment practices through the review
+of hospital medical records of patients with independently
+confirmed AMI. These factors included patients’ history of
+previously diagnosed comorbidities and AMI order (initial
+versus prior) and type (ST-elevation myocardial infarction
+[STEMI] versus non-ST-elevation myocardial infarction
+[NSTEMI]).15,16 Data on treatment practices during hospitalization included the prescribing of six effective cardiac
+medications (angiotensin converting inhibitors/angiotensin
+receptor blockers, anticoagulants, lipid lowering agents,
+beta blockers, aspirin, and thrombolytics) and two coronary
+interventional procedures (coronary artery bypass grafting
+[CABG], and percutaneous coronary intervention [PCI]).
+The main outcomes of interest were in-hospital case-fatality
+rates (CFRs) and hospital length of stay.
+Comorbid conditions that had been previously diagnosed
+in this patient population were categorized into cardiac
+and noncardiac comorbidities. For purposes of the present
+analysis we considered seven cardiac comorbidities, including atrial fibrillation, CHD (prior angina pectoris, CHD,
+myocardial infarction [MI], CABG, or PCI), diabetes, heart
+failure, hypertension, peripheral vascular disease, and stroke.
+The five noncardiac comorbidities that we examined included
+anemia, depression, cancer, chronic obstructive pulmonary
+disease (COPD), and chronic kidney disease (CKD). We
+selected and categorized these cardiac and noncardiac
+comorbidities based on a review of the prior literature, their
+established associations with either the development of, or
+prognosis after, AMI, and their relative frequency in this
+patient population.10,17,18
+
+Data analysis
+We estimated the overall prevalence of individual comorbidities and multiple cardiac and noncardiac comorbidities in this patient population. We further categorized
+
+Clinical Epidemiology 2013:5
+
+Dovepress
+
+Clinical Epidemiology 2013:5
+
+,0.001
+70.5
+71.7
+75.0
+79.6
+,0.001
+71.1
+74.7
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Note: *At hospital admission.
+Abbreviation: GFR, glomerular filtration rate.
+
+80.5
+81.0
+
+76.5
+
+0.013
+137.5
+138.8
+140.4
+143.2
+0.175
+139.5
+142.3
+142.7
+138.7
+
+141.9
+
+,0.001
+,0.001
+0.968
+,0.001
+,0.001
+,0.001
+,0.001
+,0.001
+,0.001
+,0.001
+,0.001
+0.073
+,0.001
+,0.001
+,0.001
+,0.001
+,0.001
+,0.001
+
+P-value
+$3 (N = 226)
+
+77.3
+46.5
+92.2
+37.2
+15.9
+45.1
+151.3
+190.3
+40.2
+75.8
+44.1
+92.2
+44.6
+23.1
+51.2
+157.3
+185.2
+45.0
+73.0
+52.6
+92.9
+49.2
+29.0
+62.7
+170.5
+177.2
+57.5
+66.5
+62.3
+92.5
+58.5
+39.0
+73.6
+176.4
+163.4
+68.8
+
+2 (N = 463)
+P-value
+
+0 (N = 1,332) 1 (N = 951)
+
+76.2
+49.3
+90.4
+45.1
+15.2
+34.4
+156.5
+208.6
+44.9
+
+$4 (N = 730)
+3 (N = 555)
+
+74.3
+52.4
+92.3
+47.8
+23.8
+49.2
+159.6
+186.8
+56.3
+73.0
+51.4
+94.2
+51.3
+32.9
+66.4
+166.0
+166.1
+60.0
+
+2 (N = 718)
+1 (N = 587)
+
+65.5
+58.3
+92.4
+57.9
+42.1
+90.8
+178.5
+149.1
+68.9
+
+0 (N = 382)
+
+59.8
+72.5
+94.1
+61.4
+55.8
+100.0
+191.8
+136.2
+76.0
+
+Age (mean, years)
+Male (%)
+White (%)
+Married (%)
+ST-segment myocardial infarction (%)
+Initial myocardial infarction (%)
+Serum cholesterol* (mean, mg/dL)
+Serum glucose* (mean, mg/dL)
+Estimated GFR*
+(mean, mL/min/1.73 m2)
+Systolic blood pressure*
+(mean, mmHg)
+Diastolic blood pressure*
+(mean, mmHg)
+
+Noncardiac comorbidities
+Cardiac comorbidities
+
+The study sample consisted of 2,972 residents of the
+Worcester metropolitan area hospitalized with independently
+validated AMI at all greater Worcester medical centers during 2003, 2005, and 2007. The average age of this patient
+population was 70.8 years, 55.1% were men, and most were
+white (92.5%). About one-third of patients presented with
+a STEMI (31.6%), almost two-thirds had not experienced
+a prior AMI (64.5%), and 9.7% died during their acute
+hospitalization.
+In examining differences in selected demographic and
+clinical characteristics in relation to number of diagnosed
+cardiac or noncardiac comorbidities (Table 1), patients with
+multiple cardiac or noncardiac conditions were significantly
+
+Characteristic
+
+Results
+Patient characteristics
+
+Table 1 Characteristics of the study population according to number of noncardiac and cardiac comorbidities
+
+cardiac comorbidities (0, 1, 2, 3, and $4), and noncardiac
+comorbidities (0, 1, 2, and $3) according to the number
+of comorbid conditions previously diagnosed based on the
+review of information contained in hospital medical records.
+Differences in patient demographic and clinical characteristics, cardiac medications and interventional procedures
+received, and hospital CFRs and length of stay (LOS)
+according to number of cardiac or noncardiac comorbid
+conditions were examined using the Analysis of Variance
+test for continuous variables and the chi-square test for
+categorical variables.
+Multivariable logistic regression analyses were performed
+to examine the association between number of cardiac and
+noncardiac comorbid conditions and our principal study outcomes of in-hospital mortality (dead versus alive) and LOS
+(.3 versus #3 days), while adjusting for several potential
+confounding variables. These variables included patient age,
+sex, race (white versus non-white), marital status, year of
+hospitalization (2003, 2005, or 2007), and AMI order and
+type. Sequentially, we began our multivariable adjustment
+including only cardiac or only noncardiac comorbidities in
+separate models. We then placed these cardiac and noncardiac
+factors in a model concurrently to examine associations with
+our principal hospital outcomes. Multivariable adjusted odds
+ratios (OR) and 95% confidence intervals (CI) for the risk of
+dying during hospitalization or having a prolonged hospital
+stay according to the number of cardiac and noncardiac
+comorbidities present were calculated in a standard manner. In addition, we examined the relations between various
+combinations (ie, co-occurrence of specific conditions) of
+multiple cardiac or noncardiac comorbidities and hospital
+CFRs and LOS.
+
+Comorbidities and AMI
+
+441
+
+Dovepress
+
+Chen et al
+
+more likely to be older, female, unmarried, have a history
+of prior MI, and present with a NSTEMI. These patients
+were also more likely to have presented with higher serum
+glucose levels, but lower estimated glomerular filtration
+rate (eGFR) and serum cholesterol levels, at the time of
+hospital admission than patients with fewer or no comorbid
+conditions.
+
+Prevalence of previously diagnosed
+cardiac and noncardiac comorbidities
+Among all comorbid conditions previously diagnosed at
+the time of their hospitalization for AMI, hypertension
+(74.9%) was the cardiac condition most commonly identified, whereas chronic kidney disease (21.7%) was the most
+common noncardiac comorbidity diagnosed in this patient
+population (Figure 1).
+In our study population, 12.9% of patients had none of
+the cardiac comorbidities examined, 19.8% had any one,
+24.2% had any two, 18.7% had any three, and 24.6% had
+any four or more of the cardiac conditions examined. In
+terms of noncardiac comorbidities, 44.8% of patients had
+none, 32.0% had any one, 15.6% had any two, and 7.6% had
+any three or more of the noncardiac conditions examined.
+
+Among all patients, 9.6% had neither of the cardiac nor the
+noncardiac comorbidities studied, while 4.3% had $4 cardiac
+and $3 noncardiac comorbidities.
+
+Receipt of cardiac medications
+and interventional procedures
+and prior comorbidities
+On average, patients received 4.2 of the six cardiac medications (angiotensin converting inhibitors/angiotensin receptor
+blockers, anticoagulants, lipid lowering agents, beta blockers,
+aspirin, and thrombolytics) examined during their acute index
+hospitalization; 79.1% of patients received at least four of these
+effective cardiac medications.
+Each of these cardiac medications, with the exception of
+thrombolytics, was prescribed to three-quarters or more of
+patients hospitalized with AMI (Table 2). After multivariable
+adjustment, patients with two noncardiac (OR = 0.72, 95%
+CI = 0.53, 0.97) or three or more noncardiac (OR = 0.62,
+95% CI = 0.42, 0.92) comorbidities were significantly less
+likely to have received at least four of the effective cardiac
+medications, compared with patients without any previously
+diagnosed noncardiac comorbidity; however, no significant
+differences in treatment practices were found according to
+
+Cardiac condition
+Atrial fibrillation
+
+14.6
+
+CHD
+
+55.4
+
+Diabetes
+
+34.8
+
+Heart failure
+
+25.3
+
+Hypertension
+
+74.9
+
+PVD
+
+19.3
+
+Stroke
+
+11.8
+
+Noncardiac condition
+Anemia
+
+14.3
+
+Cancer
+
+15.3
+
+CKD
+
+21.7
+
+COPD
+
+18.2
+
+Depression
+
+18.2
+0.0
+
+10.0
+
+20.0
+
+30.0
+
+40.0
+
+50.0
+
+60.0
+
+70.0
+
+80.0
+
+90.0
+
+100.0
+
+%
+Figure 1 Prevalence of cardiac and noncardiac comorbidities.
+Abbreviations: CHD, coronary heart disease; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease; PVD, peripheral vascular disease.
+
+442
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Clinical Epidemiology 2013:5
+
+Dovepress
+
+2.7
+
+0.015
+
+the number of cardiac comorbidities previously diagnosed
+in this population.
+Nearly one-half of patients underwent a PCI and 5.5%
+underwent CABG surgery during their index hospitalization.
+Patients were considerably less likely to have undergone a
+PCI with increasing cardiac and noncardiac comorbidity
+burden (Table 2). After multivariable adjustment, patients
+with four or more cardiac comorbidities (OR = 0.59, 95%
+CI = 0.41, 0.86) or patients with one noncardiac (OR = 0.67,
+95% CI = 0.55, 0.82), two noncardiac (OR = 0.52, 95%
+CI = 0.40, 0.69), or three or more noncardiac comorbidities
+(OR = 0.35, 95% CI = 0.23, 0.52) were significantly less
+likely to have undergone a PCI, compared with patients
+without any previously diagnosed cardiac or noncardiac
+comorbidity; however, no significant associations were
+observed between the likelihood of undergoing CABG surgery according to the number of comorbidities present at the
+time of hospitalization for AMI.
+
+Abbreviations: ACE-I, angiotensin converting inhibitors; ARBs, angiotensin receptor blockers; CABG, coronary artery bypass grafting.
+
+6.3
+6.8
+4.7
+
+6.4
+
+6.8
+
+2.9
+
+0.004
+
+6.2
+
+3.2
+
+,0.001
+19.9
+41.4
+,0.001
+27.3
+39.6
+61.8
+
+Clinical Epidemiology 2013:5
+
+$3 medications
+$4 medications
+Procedures (%)
+ Percutaneous coronary
+intervention
+CABG surgery
+
+69.6
+
+46.4
+
+,0.001
+0.733
+0.452
+
+60.6
+
+29.2
+
+,0.001
+
+0.156
+0.387
+,0.001
+0.094
+,0.001
+,0.001
+0.085
+
+72.6
+79.6
+90.3
+91.6
+74.8
+0.4
+91.6
+73.5
+70.0
+82.5
+91.6
+90.9
+71.9
+1.1
+90.1
+74.5
+71.9
+84.2
+93.2
+93.7
+75.4
+0.9
+91.3
+78.2
+75.1
+84.5
+96.3
+94.9
+79.6
+2.4
+92.7
+80.4
+68.1
+82.5
+97.1
+93.2
+80.4
+5.2
+93.2
+81.4
+
+70.6
+83.1
+93.9
+92.3
+77.0
+1.3
+91.1
+77.7
+
+75.5
+83.6
+91.5
+93.0
+76.8
+1.3
+91.7
+79.6
+
+74.4
+82.7
+92.6
+93.0
+75.1
+0.8
+92.2
+77.7
+
+0.031
+0.908
+,0.001
+0.466
+0.203
+
+74.9
+83.6
+96.1
+94.0
+81.2
+3.1
+93.4
+82.2
+
+2 (N = 463)
+1 (N = 951)
+0 (N = 382)
+
+1 (N = 587)
+
+2 (N = 718)
+
+3 (N = 555)
+
+$4 (N = 730)
+
+P-value
+
+0 (N = 1,332)
+
+Medication (%)
+ ACE-I/ARBs
+ Anticoagulants
+ Aspirin
+Beta blockers
+ Lipid lowering
+Thrombolytics
+
+Noncardiac comorbidities
+Cardiac comorbidities
+
+Table 2 Receipt of cardiac medications and interventional procedures during hospitalization according to number of noncardiac and cardiac comorbidities
+
+$3 (N = 226)
+
+P-value
+
+Comorbidities and AMI
+
+Hospital death rates and length
+of stay and prior comorbidities
+Having multiple cardiac or noncardiac comorbidities was
+significantly associated with higher hospital CFRs and longer
+LOS. There was a dose-response relationship between number
+of cardiac or noncardiac comorbidities and in-hospital death
+rates and LOS (Table 3, P for trend ,0.001). The hospital
+CFR increased from 3.7% to 14.2% as the number of cardiac
+comorbidities increased from zero to four or more conditions;
+similarly, the hospital CFR increased from 6.9% to 15.9%
+as the number of noncardiac comorbidities increased from
+zero to three or more conditions. ­Approximately two-thirds
+of patients with four or more cardiac comorbidities had a
+LOS .3 days, compared with 39.8% of patients without
+any cardiac comorbidity. Similarly, 70.7% of patients with
+three or more noncardiac comorbidities had a LOS .3 days
+compared to 47.8% of patients without any noncardiac
+comorbidity (Table 3).
+In multivariable logistic regression models adjusting
+for the number of cardiac and noncardiac comorbidities
+concurrently, patients with any two, three, or four or more
+cardiac comorbidities were two to three times as likely to
+have died during hospitalization, compared with those with
+no cardiac comorbidities (Table 4). Patients with two noncardiac (OR = 1.63, 95% CI = 1.12, 2.37), or three or more
+noncardiac comorbidities (OR = 1.76, 95% CI = 1.11, 2.78)
+were also more likely to have died during hospitalization
+compared with those without any noncardiac comorbidities.
+In addition, we found that patients with any two, three, or
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+443
+
+Dovepress
+
+444
+
+,0.001
+,0.001
+
+Variable
+
+6.8
+70.7
+6.4
+68.6
+5.6
+58.3
+
+Length of stay (.3 days)
+Cardiac comorbidity
+0
+1.00
+1
+1.20 (0.90, 1.60)
+2
+1.43 (1.07, 1.92)
+3
+1.81 (1.31, 2.50)
+2.42 (1.74, 3.37)
+$4
+Noncardiac comorbidity
+0
+1
+2
+$3
+
+4.7
+47.8
+6.5
+68.1
+5.6
+60.8
+
+OR (95% CI)
+
+OR (95% CI)#
+
+1.00
+1.31 (0.67, 2.57)
+2.00 (1.05, 3.82)
+2.14 (1.10, 4.20)
+2.80 (1.43, 5.49)
+1.00
+1.30 (0.94, 1.80)
+1.86 (1.29, 2.69)
+2.12 (1.36, 3.31)
+OR (95% CI)
+
+1.00
+1.20 (0.86, 1.67)
+1.63 (1.12, 2.37)
+1.76 (1.11, 2.78)
+OR (95% CI)
+
+1.00
+1.16 (0.87, 1.55)
+1.36 (1.01, 1.83)
+1.65 (1.19, 2.29)
+2.03 (1.45, 2.86)
+1.00
+1.32 (1.10, 1.59)
+1.84 (1.44, 2.36)
+2.04 (1.46, 2.85)
+
+1.00
+1.24 (1.03, 1.50)
+1.64 (1.27, 2.11)
+1.73 (1.23, 2.44)
+
+Notes: *Adjusted for age, sex, race, marital status, year of hospitalization, and AMI
+order and type; #adjusted for age, sex, race, marital status, year of hospitalization,
+AMI order and type, and the noncardiac and cardiac morbidities examined; †the ORs
+for the first two table columns refer to the multivariable adjusted estimates when
+the cardiac comorbidities and noncardiac comorbidities are respectively analyzed
+separately, whereas the third column presents the adjusted estimates when both the
+cardiac and noncardiac comorbidities are included together in the model.
+Abbreviations: AMI, acute myocardial infarction; CF, case-fatality; CI, confidence
+interval; OR, odds ratio.
+
+Abbreviation: CFRs, case-fatality rates.
+
+.3 days (%)
+
+OR (95% CI)
+
+Hospital CF
+Cardiac comorbidity
+0
+1.00
+1
+1.36 (0.69, 2.67)
+2
+2.13 (1.12, 4.04)
+3
+2.34 (1.20, 4.57)
+3.35 (1.73, 6.48)
+$4
+Noncardiac comorbidity
+0
+1
+2
+$3
+Variable
+OR (95% CI)
+
+5.3
+55.7
+4.7
+48.0
+4.2
+39.8
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Table 4 Multivariable adjusted association† between frequency
+of noncardiac and cardiac comorbidities and hospital case-fatality
+(CF) and length of stay*
+
+,0.001
+,0.001
+
+,0.001
+15.9
+14.7
+10.1
+6.9
+14.2
+6.1
+
+Hospital CFR (%)
+Length of stay
+Mean (days)
+
+3.7
+
+10.6
+
+11.2
+
+,0.001
+
+1 (N = 951)
+0 (N = 1332)
+P for trend
+$4 (N = 730)
+3 (N = 555)
+2 (N = 718)
+1 (N = 587)
+0 (N = 382)
+
+Cardiac comorbidities
+
+Table 3 Hospital CFRs and length of stay according to number of noncardiac and cardiac comorbidities
+
+Noncardiac comorbidities
+
+2 (N = 463)
+
+$3 (N = 226)
+
+P for trend
+
+Chen et al
+
+four or more cardiac comorbidities were at increased odds
+of a prolonged hospital LOS (.3 days) compared with those
+with no cardiac comorbidities (Table 4). Patients with any
+one, two, or three or more noncardiac comorbidities were
+also significantly more likely to have a prolonged hospital
+course compared with those without any noncardiac comorbidities (Table 4).
+We further examined the association between multiple
+coexisting conditions and in-hospital mortality and LOS.
+Due to the limited number of patients with certain comorbidity combinations, we focused on the three most common
+combinations of previously diagnosed comorbid conditions.
+The most frequent combination of two or more cardiac
+comorbidities was “CHD + hypertension” (n = 340, 11.4%)
+followed by “CHD + diabetes + hypertension” (n = 182,
+6.1%) and “­diabetes + hypertension” (n = 156, 5.3%). Among
+patients with these multiple comorbid conditions, 8.2%,
+
+Clinical Epidemiology 2013:5
+
+Dovepress
+
+Comorbidities and AMI
+
+7.7%, and 9.6% of these patients, respectively, died during
+hospitalization (all were not significantly different than the
+overall hospital death rate of 9.8%), and 53.7%, 62.6%, and
+55.1% had a LOS .3 days, respectively (all were not significantly different than the overall frequency of 56.1%).
+Among those with two or more noncardiac conditions,
+the most frequent combination was “anemia + CKD”
+(n = 104, 3.5%), followed by “COPD + CKD” (n = 59, 2.0%),
+and “COPD + depression” (n = 54, 1.8%). Among these
+patients, 14.4%, 11.9%, and 14.8%, respectively, died during
+hospitalization (all were not significantly different than the
+overall hospital death rate of 9.8%), while 76.9%, 69.5%, and
+70.4% had a LOS .3 days, respectively (all were significantly
+[P , 0.05] higher than the overall frequency of 56.1%).
+
+between 1990 and 2007.10 In that analysis, we showed that
+hypertension and diabetes were the two most prevalent
+conditions among these patients.10 The present results are
+also consistent with the findings from other contemporary
+investigations that have studied patients hospitalized with
+AMI, including a community-based study from Kaiser
+Permanente Northern California that demonstrated a high
+burden of hypertension, diabetes, and CHD in this large
+regional population.19 Since the burden of comorbid diseases
+is associated with an increased risk of adverse outcomes, it is
+important to recognize the frequency and importance of these
+common comorbidities and take them into consideration in
+examining differences in treatment practices and outcomes
+in patients hospitalized with AMI.
+
+Discussion
+
+Factors associated with multiple
+comorbidities
+
+The results of this population-based observational study demonstrated that patients with multiple cardiac or noncardiac
+comorbidities had a higher odds of dying during hospitalization for AMI and having a more prolonged hospital stay
+compared to those with fewer or no previously diagnosed
+cardiac or noncardiac conditions. Patients with multiple
+cardiac or noncardiac comorbidities were significantly less
+likely to have undergone a PCI than patients with fewer
+comorbid conditions, but there were no significant differences
+in medication treatment practices according to the number
+of cardiac comorbidities present.
+
+Prevalence of cardiac
+and noncardiac comorbidities
+In our study population, the vast majority (87%) had at least
+one cardiac comorbid condition, whereas slightly more than
+half (55%) had at least one noncardiac comorbid condition
+previously diagnosed. More than one-half of patients had a
+history of CHD or hypertension, and approximately one-fifth
+had CKD. Among the seven cardiac comorbid conditions
+examined, hypertension was highly prevalent, irrespective of
+the number of cardiac comorbidities previously diagnosed,
+whereas CHD and diabetes were highly prevalent among
+patients with two or more cardiac comorbidities. Similarly,
+among the five noncardiac comorbidities examined, CKD
+was the most prevalent condition whereas anemia was
+more prevalent among patients with two or more cardiac
+comorbidities.
+Our findings share similar patterns to the results of a
+recent analysis from the Worcester Heart Attack Study that
+examined trends in the frequency of multiple cardiovascular comorbidities among patients hospitalized with AMI
+
+Clinical Epidemiology 2013:5
+
+In a prior analysis of data from the Worcester Heart Attack
+Study we found that older individuals, women, nonwhite,
+and widowed patients were more likely to have multiple cardiovascular comorbidities previously diagnosed than respective comparison groups.10 In the present study, we extend
+these findings by showing that similar patient demographic
+characteristics were associated with multiple cardiac and
+noncardiac comorbid conditions. In addition, we found that
+patients with multiple cardiac or noncardiac comorbidities
+were more likely to have developed a NSTEMI, have had a
+prior MI, and have higher serum glucose, but lower eGFR
+and serum cholesterol levels, at the time of hospital admission compared to those without any cardiac or noncardiac
+comorbidities.
+
+Hospital treatment practices
+Characterizing the magnitude and profile of cardiac and
+noncardiac conditions in patients hospitalized with AMI
+may help explain differences in acute treatment practices and
+inform the design of clinical guidelines and disease management practices that are beneficial to these complex and often
+frail patients. The American College of Cardiology/American
+Heart Association guidelines for the use of cardiac medications in patients hospitalized with AMI have recommended
+the utilization of β-blockers and aspirin (1990), angiotensinconverting-enzyme (ACE) inhibitors (1996), and the use of
+lipid lowering medications in the 2002 and 2004 guidelines
+for the management of patients with NSTEMI and STEMI,
+respectively.20–23 In the present study, beta blockers and aspirin were prescribed to the majority of hospitalized patients
+whereas thrombolytic agents were rarely prescribed; each of
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+445
+
+Dovepress
+
+Chen et al
+
+the other medications was prescribed to at least three quarters
+of hospitalized patients.
+We observed the frequent use of guideline-directed
+­medications in the treatment of patients hospitalized with
+AMI, irrespective of the number of cardiac comorbid conditions present. This finding may be due, in part, to a ceiling
+effect since these cardiac medications were commonly prescribed to all patients hospitalized with AMI. However, our
+analysis focused on the receipt of cardiac medications during
+hospitalization for AMI in patients with different cardiac and
+noncardiac comorbidities, such as hypertension, diabetes,
+and CKD, which may have been differentially prescribed
+to these patient subgroups in the outpatient setting. Further
+studies should be carried out examining the number and
+type of medications prescribed for outpatients with single
+and multiple chronic comorbidities over the course of their
+long-term follow-up visits.
+Since patients with multiple comorbidities tend to be
+older and sicker,10 we observed that patients were less likely
+to have undergone coronary revascularization procedures
+as the frequency of cardiac or noncardiac comorbidities
+increased. Our results suggest that patients with multiple
+comorbidities have a considerably different clinical presentation than those with fewer comorbid conditions, which may
+make them less likely to receive evidence-based therapies
+at the time of hospital admission and, by extension, increase
+their risk of adverse outcomes. Our results, in combination with prior study findings, emphasize the importance
+of developing clinical management guidelines specifically
+tailored for hospitalized AMI patients with multiple cardiac
+or noncardiac comorbidities given their high risk of adverse
+outcomes.
+
+Hospital outcomes
+There are few published studies describing the relation
+between multiple comorbidities and short- and long-term
+outcomes among patients hospitalized with AMI. A recent
+analysis of data from the Worcester Heart Attack Study
+found that, among patients hospitalized with AMI between
+1990 and 2007, those who had two or more cardiovascular
+comorbidities were at higher risk for dying within 30 days
+and at 1 year after hospital admission compared to patients
+with no comorbid cardiovascular condition.10 A recent analysis of nearly 4,000 patients hospitalized with AMI from the
+PREMIER-QI study at 19 US hospitals between 2003 and
+2004 found that the presence of at least one acute noncardiac
+condition was associated with a markedly increased risk of
+dying during hospitalization.24
+
+446
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+In the current study, we observed a dose-response
+relationship between number of cardiac or noncardiac
+comorbidities and in-hospital mortality and prolonged LOS.
+Since clinical guidelines and disease management programs
+typically focus on single conditions, and clinical research
+often excludes persons with multiple chronic conditions, our
+observation that patients with multiple cardiac or noncardiac
+comorbidities were significantly more likely to have experienced adverse hospital outcomes suggests that current clinical
+guidelines need to take into consideration the comparatively
+poorer short-term outlook of these high-risk patients. The
+lack of currently available evidence about the inpatient management of patients with multiple comorbidities reinforces
+the development of contemporary treatment approaches to
+improve the in-hospital and longer-term outcomes of these
+high-risk patients.
+
+Study strength and limitations
+The strengths of the present study include its communitybased design, its large sample of patients hospitalized with
+AMI, and its relatively contemporary perspective in examining clinically relevant outcomes and hospital treatment
+practices according to the frequency of a number of important
+cardiac and noncardiac comorbidities. Several limitations
+need to be acknowledged, however, in the interpretation of the
+present findings. First, since our study population included
+only patients who had been hospitalized in the Worcester
+metropolitan area, one needs to be careful to extrapolate
+our findings to those who died before hospitalization or
+to those who reside in other geographic areas. Second,
+since the majority of our study participants were white, the
+generalizability of our findings to other race/ethnic groups
+may be limited. Lastly, there is the potential for unmeasured
+confounding as we did not have information available on
+several patient-associated characteristics, such as income,
+education, and psychological factors, that may have affected
+several of the endpoints examined.25
+
+Conclusion
+In this study of nearly 3,000 patients hospitalized with AMI
+in central Massachusetts, we observed a high frequency of
+multiple cardiac and noncardiac comorbidities. Presence
+of multiple comorbidities was associated with a higher
+likelihood of dying during hospitalization and being hospitalized for a more prolonged period. Given the aging US
+population, the comorbidity burden in patients with acute
+coronary disease will likely continue to increase. Our findings highlight the need for further contemporary data to help
+
+Clinical Epidemiology 2013:5
+
+Dovepress
+
+guide the ­development of effective treatment modalities for
+the comprehensive management of patients with AMI and
+multiple concurrent medical illnesses with the long-term
+goals of improving the prognosis and quality of life of these
+individuals.
+
+Acknowledgments
+Funding support for this research was provided by the
+National Institutes of Health (RO1 HL35434). Partial ­salary
+support for Drs Saczynski, McManus, Gore, and Goldberg was provided for by the National Institutes of Health
+grant 1U01HL105268-01. Dr Saczynski was supported
+in part by funding from the National Institute on Aging
+(K01 AG33643).
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+
+1. Chronic Conditions: Making the Case for Ongoing Care [webpage on
+the internet]. Princeton, NJ: Robert Wood Johnson Foundation; 2010.
+Available from: http://www.rwjf.org/pr/product.jsp?id=50968. Accessed
+May 19, 2013.
+2. Parekh AK, Barton MB. The challenge of multiple comorbidity for the
+US health care system. JAMA. 2010;303:1303–1304.
+3. Uijen AA, van de Lisdonk EH. Multimorbidity in primary care:
+­prevalence and trend over the last 20 years. Eur J Gen Pract. 2008;
+14 Suppl 1:28–32.
+4. Vogeli C, Shields AE, Lee TA, et al. Multiple chronic conditions:
+prevalence, health consequences, and implications for quality, care management, and costs. J Gen Intern Med. 2007;22 Suppl 3:391–395.
+5. Anderson G, Horvath J. The growing burden of chronic disease in
+America. Public Health Rep. 2004;119:263–270.
+6. Wolff JL, Starfield B, Anderson G. Prevalence, expenditures, and
+complications of multiple chronic conditions in the elderly. Arch Intern
+Med. 2002;162:2269–2276.
+7. Sachdev M, Sun JL, Tsiatis AA, Nelson CL, Mark DB, Jollis JG. The
+prognostic importance of comorbidity for mortality in patients with
+stable coronary artery disease. J Am Coll Cardiol. 2004;43:576–582.
+8. Krumholz HM, Wang Y, Chen J, et al. Reduction in acute myocardial
+infarction mortality in the United States: risk-standardized mortality
+rates from 1995–2006. JAMA. 2009;302:767–773.
+9. Kostis WJ, Deng Y, Pantazopoulos JS, Moreyra AE, Kostis JB;
+­Myocardial Infarction Data Acquisition System (MIDAS14) Study
+Group. Trends in mortality of acute myocardial infarction after discharge
+from the hospital. Circ Cardiovasc Qual Outcomes. 2010;3:581–589.
+10. McManus DD, Nguyen HL, Saczynski JS, Tisminetzky M,
+Bourell P, Goldberg RJ. Multiple cardiovascular comorbidities and
+acute ­myocardial infarction: temporal trends (1990–2007) and impact on
+death rates at 30 days and 1 year. Clin Epidemiol. 2012;4:115–123.
+11. Gili M, Sala J, López J, et al. Impact of comorbidities on in-hospital
+mortality from acute myocardial infarction, 2003–2009. Rev Esp
+Cardiol. 2011;64:1130–1137. Spanish.
+12. Goldberg RJ, Gore JM, Alpert JS, Dalen JE. Recent changes in attack
+and survival rates of acute myocardial infarction (1975 through 1981).
+The Worcester Heart Attack Study. JAMA. 1986;255:2774–2779.
+13. Goldberg RJ, Yarzebski J, Lessard D, Gore JM. A two-decades (1975
+to 1995) long experience in the incidence, in-hospital and long-term
+case-fatality rates of acute myocardial infarction: a community-wide
+perspective. J Am Coll Cardiol. 1999;33:1533–1539.
+
+Clinical Epidemiology 2013:5
+
+Comorbidities and AMI
+14. Floyd KC, Yarzebski J, Spencer FA, et al. A 30 year perspective
+(1975–2005) into the changing landscape of patients hospitalized with
+initial acute myocardial infarction: Worcester Heart Attack Study. Circ
+Cardiovasc Qual Outcomes. 2009;2:88–95.
+15. Anderson JL, Adams CD, Antman EM, et al. ACC/AHA 2007
+guidelines for the management of patients with unstable angina/non
+ST-elevation myocardial infarction: a report of the American College
+of Cardiology/American Heart Association Task Force on Practice
+Guidelines (Writing Committee to Revise the 2002 Guidelines for the
+Management of Patients With Unstable Angina/Non ST-Elevation
+Myocardial Infarction): developed in collaboration with the American
+College of Emergency Physicians, the Society for Cardiovascular
+Angiography and Interventions, and the Society of Thoracic Surgeons:
+endorsed by the American Association of Cardiovascular and Pulmonary Rehabilitation and the Society for Academic Emergency Medicine.
+Circulation. 2007;116:e148–e304.
+16. Antman EM, Hand M, Armstrong PW, et al. 2007 Focused Update
+of the ACC/AHA 2004 Guidelines for the Management of Patients
+With ST-Elevation Myocardial Infarction: a report of the American
+College of Cardiology/American Heart Association Task Force on
+Practice Guidelines: developed in collaboration With the Canadian
+Cardiovascular Society endorsed by the American Academy of Family Physicians: 2007 Writing Group to Review New Evidence and
+Update the ACC/AHA 2004 Guidelines for the Management of Patients
+With ST-Elevation Myocardial Infarction, Writing on Behalf of the
+2004 Writing Committee. Circulation. 2008;117:296–329.
+17. Page RL 2nd, Lindenfeld J. The comorbidity conundrum: a focus on
+the role of noncardiovascular chronic conditions in the heart failure
+patient. Curr Cardiol Rep. 2012;14:276–284.
+18. McManus DD, Chinali M, Saczynski JS, et al. 30-year trends in heart
+failure in patients hospitalized with acute myocardial infarction. Am J
+Cardiol. 2011;107:353–359.
+19. Yeh RW, Sidney S, Chandra M, Sorel M, Selby JV, Go AS. Population
+trends in the incidence and outcomes of acute myocardial infarction.
+N Engl J Med. 2010;362:2155–2165.
+20. Gunnar RM, Passamani ER, Bourdillon PD, et al. Guidelines for
+the early management of patients with acute myocardial infarction.
+A report of the American College of Cardiology/American Heart
+Association Task Force on Assessment of Diagnostic and Therapeutic
+­Cardiovascular Procedures (Subcommittee to Develop Guidelines for
+the Early Management of Patients With Acute Myocardial Infarction).
+J Am Coll Cardiol. 1990;16:249–292.
+21. Ryan TJ, Anderson JL, Antman EM, et al. ACC/AHA guidelines for the
+management of patients with acute myocardial infarction: a report of
+the American College of Cardiology/American Heart Association Task
+Force on Practice Guidelines (Committee on Management of Acute
+myocardial infarction). J Am Coll Cardiol. 1996;28:1328–1428.
+22. Braunwald E, Antman EM, Beasley JW, et al. ACC/AHA 2002 guideline update for the management of patients with unstable angina and
+non-ST-segment elevation myocardial infarction: summary article:
+a report of the American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines (Committee on the
+Management of Patients With Unstable Angina). Circulation. 2002;106:
+1893–1900.
+23. Antman EM, Anbe DT, Armstrong PW, et al. ACC/AHA guidelines for the management of patients with ST-elevation myocardial
+­infarction; A report of the American College of Cardiology/American
+Heart ­Association Task Force on Practice Guidelines (Committee to
+Revise the 1999 Guidelines for the Management of patients with acute
+­myocardial infarction). J Am Coll Cardiol. 2004;44:E1–E211.
+24. Lichtman JH, Spertus JA, Reid KJ, et al. Acute noncardiac conditions
+and in-hospital mortality in patients with acute myocardial infarction.
+Circulation. 2007;116:1925–1930.
+25. Sun WJ, Xu L, Chan WM, Lam TH, Schooling CM. Are Depressive
+Symptoms Associated With Cardiovascular Mortality Among Older
+Chinese: A Cohort Study of 64,000 People in Hong Kong? Am J Geriatr
+Psychiatry. Epub February 6, 2013.
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+447
+
+Dovepress
+
+Chen et al
+
+Clinical Epidemiology
+
+Publish your work in this journal
+Clinical Epidemiology is an international, peer-reviewed, open access
+journal focusing on disease and drug epidemiology, identification of
+risk factors and screening procedures to develop optimal preventative
+initiatives and programs. Specific topics include: diagnosis, prognosis,
+treatment, screening, prevention, risk factor modification, systematic
+
+Dovepress
+reviews, risk & safety of medical interventions, epidemiology & biostatical methods, evaluation of guidelines, translational medicine, health
+policies & economic evaluations. The manuscript management system
+is completely online and includes a very quick and fair peer-review
+system, which is all easy to use.
+
+Submit your manuscript here: http://www.dovepress.com/clinical-epidemiology-journal
+
+448
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Clinical Epidemiology 2013:5
+

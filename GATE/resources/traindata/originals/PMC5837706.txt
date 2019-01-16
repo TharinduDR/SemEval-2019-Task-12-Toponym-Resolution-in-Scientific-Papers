@@ -1,0 +1,1467 @@
+International Journal of Epidemiology, 2017, 406–406i
+doi: 10.1093/ije/dyw056
+Advance Access Publication Date: 5 May 2016
+Cohort profile
+
+Cohort profile
+
+Cohort Profile: The 10/66 study
+A. Matthew Prina,1* Daisy Acosta,2 Isaac Acosta,3 Mariella Guerra,4
+Yueqin Huang,5 A.T. Jotheeswaran,6 Ivonne Z. Jimenez-Velazquez,7
+Zhaorui Liu,5 Juan J. Llibre Rodriguez,8 Aquiles Salas,9 Ana Luisa Sosa,3
+Joseph D. Williams10 and Martin Prince1
+1
+
+King’s College London, Centre for Global Mental Health, Institute of Psychiatry, Psychology &
+Neuroscience, London, UK, 2Universidad Nacional Pedro Henriquez Ure~na, Internal Medicine
+Department, GeriatricSection, Santo Domingo, Dominican Republic, 3National Institute of Neurology
+and Neurosurgery of Mexico, National Autonomous University of Mexico, Mexico City, Mexico,
+4
+Instituto de la Memoria y Desordenes Relacionados, Lima, Peru, 5Peking University, Institute of
+Mental Health, Beijing, China, 6Department of Ageing and Life Course, World Health Organization,
+Geneva, 7Internal Medicine Department, Geriatrics Program, Medical Sciences Campus, University of
+Puerto Rico, San Juan, Puerto Rico, 8Facultad de Medicina Finlay-Albarran, Medical University of
+Havana, Havana, Cuba, 9Medicine Department, Caracas University Hospital, Universidad Central de
+Venezuela, Caracas, Venezuela and 10Department of Community Health, Voluntary Health Services,
+Chennai, India
+*Corresponding author. Centre for Global Mental Health, Institute of Psychiatry, Psychology & Neuroscience, 16 De
+Crespigny Park, London SE5 8AF, UK. E-mail: matthew.prina@kcl.ac.uk
+Accepted 29 February 2016
+
+Why was the cohort set up?
+Population ageing is affecting low- and middle-income
+countries, with absolute and relative numbers of older
+adults increasing quickly across the globe. This demographic transition is accompanied by a health transition,
+driven by changing habits and lifestyles, where non-communicable diseases are becoming the major cause of morbidity. Dementia is strongly associated with age and is one
+of the main contributors to dependence and disability. It
+has been estimated that there are nearly 47 million people
+currently living with dementia, most of whom live in lowand middle-income countries (LMICs).
+The title of the 10/66 Dementia Research Group
+(DRG) reflects the fact that, when the group was formed
+in 1998, less than 10% of population-based research on
+dementia had been carried out in developing countries although two-thirds of those affected lived in those settings.1 The 10/66 DRG research programme was
+
+developed to address this inequity, quantifying dementia
+prevalence, incidence and impact across Latin American
+countries, China and India, using a validated and common methodology. However, given that this was a population cohort, the scope of the research was much broader
+than this—entailing a comprehensive enquiry into health
+(common and burdensome chronic diseases, disability
+and health service utilization), and social aspects of ageing (socioeconomic status, social protection, needs for
+care and care arrangements).
+Fundamental methodological issues, in particular the
+development, calibration and validation of culture- and
+education-fair dementia diagnosis, and care arrangements
+for care-dependent older people, were addressed in pilot
+investigations in 26 centres from 16 low- and middle-income countries in Latin America and the Caribbean,
+Africa, India, Russia, China and South East Asia (1999–
+2001).2–5 The protocols for the 10/66 DRG baseline
+
+C The Author 2016; all rights reserved. Published by Oxford University Press on behalf of the International Epidemiological Association
+V
+
+406
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+
+surveys and incidence phase surveys have already been
+described in detail in a previous publication.6 The purpose
+of this paper is to describe in more detail the resources created through these completed surveys, together with findings from the research completed to date and further plans
+for development of this resource.
+
+Where is it located, who set it up and how
+has it been funded?
+The 10/66 DRG is coordinated from London, within the
+Centre for Global Mental Health at King’s College
+London, with a network of centres each led by a local
+principal investigator. The 10/66 DRG’s research has
+been funded by the Wellcome Trust Health Consequences
+of Population Change Programme (GR066133—
+Prevalence phase in Cuba and Brazil; GR08002—
+Incidence phase in Peru, Mexico, Cuba, Dominican
+Republic, Venezuela and China), World Health
+Organization (India, Dominican Republic and China),
+the US Alzheimer’s Association (IIRG–04–1286—Peru
+and Mexico), FONACIT/ CDCH/ UCV (Venezuela), and
+Puerto Rico Legislature (data collection in Puerto Rico)
+and Pfizer Co., USA (blood sample collection in Puerto
+Rico). The new cohort is funded by a European Research
+Council Advanced Grant (340755). The Rockefeller
+Foundation supported our dissemination strategy meeting
+at their Bellagio Centre. Alzheimer Disease International
+(ADI) has provided support for networking and
+infrastructure.
+
+406a
+
+population and with agriculture and related trades as the
+main local employment, were located in Peru (Canete
+Province), Mexico (Morelos State) and China (Daxing,
+Beijing Province). The centre and site characteristics are
+summarized in Figure 1. The baseline phase was conducted for all centres between 2004 and 2006, with the
+exception of Puerto Rico where baseline data were collected between 2007 and 2010 (Figure 2). Mapping of the
+catchment areas was carried out within specified boundaries, and households were allocated household identification numbers. Enumeration was carried out by
+door-knocking all households in the catchment area to
+identify potentially eligible participants (those aged 65
+years or over on a census date) who were then allocated
+participant identification numbers. These are linked to
+names and addresses in secure databases held in London.
+Participants’ ages were confirmed during the interview.
+Information about the age and sex of all other coresidents was also recorded. After verifying eligibility,
+written consent was obtained from participants or next of
+kin if the individual lacked capacity. Oral consent, witnessed in writing by someone literate, was taken from illiterate participants. An overall sample of 2000 per
+country would allow estimation of a typical dementia
+prevalence of 4.5% with a precision of 6 0.9%, and rural
+and urban samples of 1000 each would allow estimation
+of the same prevalence with a precision of 6 1.2%.
+A sample size of around 2000 individuals for each country was achieved and the response rate was excellent in
+most catchment areas, with a range of 72 % to 98% by
+site, and an average across sites of 86% (Table 1).
+
+Who is in the cohort?
+The 10/66 cohort is a population cohort comprising in
+principle all older residents aged 65 years and over, living
+in 11 geographically defined urban and rural catchment
+area sites in eight low- and middle-income countries. The
+selection of catchment areas for the baseline phase of the
+survey was purposive, based upon their accessibility, their
+use in the past as field sites for community or population
+research and the existence of or potential for development
+of good relationships between the local research groups
+and community stakeholders. Urban sites were selected to
+comprise mixed or mainly lower socioeconomic status
+households; exclusively high-income or professional districts were excluded. Urban sites were located in Cuba
+(one catchment area comprising sites is Havana and
+Matanzas), Dominican Republic (Santo Domingo),
+Puerto Rico (Bayamon), Venezuela (Caracas), Peru
+(Lima), Mexico (Mexico City), China (Xicheng, Beijing
+province) and India (Chennai). Rural sites, selected to be
+remote from major population centres, with low-density
+
+The completed cohort resource
+The cohort at baseline, with respect to vital status ascertained through to March 2014, comprised 15 901 participants at risk (Table 1; and Supplementary Table 1,
+available as Supplementary data at IJE online). The median follow-up period ranged from 2.8 to 5.0 years by site,
+with a total of 53 872 person-years of observation. The
+vital status of 13 936 participants (87.7%) was determined, with 2602 deaths occurring during the follow-up
+period, for which 2436 verbal autopsy interviews were
+completed. The proportion deceased at follow-up was
+higher in China, Dominican Republic and Cuba than in
+other countries (in part a function of the longer follow-up
+interval in those sites). With respect to the incidence of dementia (further excluding India, where dementia-free participants were not followed up), 14 896 participants were
+interviewed at baseline, 13 483 free of dementia; 9322 (69.
+1%) were re-interviewed, contributing 42 698 person-years
+of follow-up.
+
+406b
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+
+Figure 1 Distribution of the 10/66 centres. Countries in purple contain both rural and urban centres, whereas countries in orange only have urban
+centres. The black dots represent the catchment areas within each country. The centres are the following: China (Beijing and Daxing), Cuba (Havana/
+Matanzas), Dominican Republic (Santo Domingo), India (Chennai), Mexico (Mexico City and Morelos/Hidalgo), Peru (Lima and Canete), Puerto Rico
+(San Juan) and Venezuela (Caracas).
+
+Cuba
+Domican Republic
+Peru urban
+Peru rural
+Venezuela
+Mexico urban
+Mexico rural
+China urban
+China rural
+India
+Puerto Rico
+
+n = 2653
+
+n = 2813
+
+n = 1706
+
+n = 2011
+n = 1381
+
+n = 1245
+
+n = 552
+
+n = 507
+n = 1697
+
+n = 1965
+n = 1003
+
+3rd wave + 2nd cohort
+
+n = 911
+
+n = 1000
+
+n-933
+n = 989
+
+n = 1160
+n = 1002
+
+n = 1002
+n = 1005
+
+784
+n = 2009
+
+2003
+
+2004
+
+1st wave
+
+2nd wave
+
+2005
+
+2006
+
+2007
+
+2008
+
+n = 1567
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+3rd wave
+
+Figure 2 Cohort diagram of the baseline and follow-up surveys; 2nd wave numbers refer to number of people with a determined vital status.
+
+How often have they been followed up?
+Participants of the baseline assessment were traced and followed up between 2007 and 2010 in the China, India
+(mortality only), Cuba, Dominican Republic, Mexico,
+Peru and Venezuela sites, and between 2012 and 2013 in
+Puerto Rico. In India, all those with mild cognitive impairment, ‘cognitive impairment no dementia’ (CIND) or dementia at baseline completed the full incidence phase
+protocol, to determine the predictive validity of baseline
+dementia diagnosis.7 A mortality sweep was carried out on
+the full baseline cohort to determine vital status, date of
+death of those deceased and a verbal autopsy on those
+deceased.8
+
+Subsequent to the baseline and incidence waves, the 10/
+66 INDEP sub-study has been completed,9 a nested study
+of households in Peru, Mexico and China, characteriszd as
+‘incident care’, ‘chronic care’ or ‘no care’, depending upon
+the needs for care of older residents. This focuses on the
+economic and social functioning of the household as a
+whole. A third full wave of assessment using an extended
+form of the basic 10/66 survey has recently been planned
+and funded for Cuba, Dominican Republic, Puerto Rico,
+Mexico, Peru, Venezuela and China, which will take place
+approximately 10 years on from the original baseline surveys (2015–16).This will be a new prevalence sweep, with
+renewed -door-knocking of the original catchment areas to
+
+Participants (n)
+Response rate (%)
+Women
+Age (years)
+65–69
+70–74
+75–79
+ 80
+Marital status
+Never married
+Married/cohabiting
+Widowed
+Divorced/separated
+Education
+None
+Minimal
+Completed primary
+Completed secondary
+Tertiary
+Number of assets
+0–2
+3–5
+6–7
+Occupation
+Professional
+Trade
+Semi-skilled
+Labourer
+Agricultural worker
+Food insecurity
+Yes
+Living arrangements
+Alone
+With spouse
+With adult children
+Smoking status
+Never
+Ex-smoker
+Current
+
+2011
+95
+1325 (66.0)
+533 (26.5)
+520 (25.9)
+397 (19.7)
+561 (27.9)
+139 (7.0)
+586 (29.4)
+806 (40.4)
+465 (23.3)
+392 (19.7)
+1022 (51.3)
+370 (18.6)
+135 (6.8)
+73 (3.7)
+136 (6.8)
+951 (47.4)
+919 (45.8)
+333 (16.6)
+264 (13.2)
+751 (37.5)
+640 (31.9)
+15 (0.7)
+240 (12.1)
+254 (12.6)
+135 (6.7)
+963 (47.9)
+1049 (52.2)
+711 (35.4)
+249 (12.4)
+
+715 (25.5)
+747 (26.6)
+618 (22.0)
+726 (25.9)
+
+262 (9.3)
+1199 (42.8)
+896 (31.9)
+448 (16.0)
+
+73 (2.6)
+619 (22.1)
+937 (33.4)
+705 (25.1)
+471 (17.0)
+
+27 (1.0)
+957 (34.1)
+1821 (64.9)
+
+1027 (38.8)
+378 (14.3)
+759 (28.7)
+469 (17.7)
+203 (7.7)
+
+137 (4.9)
+
+250 (8.8)
+426 (15.1)
+1340 (47.6)
+
+1612 (54.9)
+759 (25.8)
+565 (19.2)
+
+Dominican
+Republic
+(%)
+
+2813
+94
+1836 (65.3)
+
+Cuba
+(%)
+
+1454 (72.6)
+444 (22.2)
+104 (5.2)
+
+472 (23.5)
+666 (33.2)
+288 (14.3)
+
+32 (1.6)
+
+69 (8.3)
+188 (22.7)
+62 (7.5)
+3 (0.4)
+507 (61.7)
+
+4 (0.2)
+38 (1.9)
+1967 (97.9)
+
+72 (3.6)
+389 (19.4)
+415 (20.7)
+713 (35.5)
+410 (20.4)
+
+123 (6.1)
+967 (48.3)
+672 (33.6)
+240 (12.0)
+
+414 (20.6)
+456 (22.7)
+483 (24.0)
+656 (32.6)
+
+2009
+93
+1347 (67.3)
+
+Puerto
+Rico
+(%)
+
+1119 (81.4)
+201 (14.6)
+54 (3.9)
+
+45 (3.3)
+126 (9.1)
+890 (64.4)
+
+63 (4.6)
+
+613 (45.5)
+266 (19.7)
+378 (28.0)
+22 (1.6)
+69 (5.1)
+
+5 (0.4)
+61 (4.4)
+1315 (95.2)
+
+37 (2.7)
+90 (6.5)
+460 (33.5)
+481 (35.0)
+305 (22.2)
+
+145 (10.6)
+784 (57.2)
+367 (26.8)
+75 (5.5)
+
+375 (27.2)
+352 (25.5)
+298 (21.6)
+355 (25.7)
+
+1381
+80
+888 (64.3)
+
+Peru
+urban
+(%)
+
+482 (87.5)
+55 (10.0)
+14 (2.5)
+
+44 (8.0)
+59 (10.7)
+326 (59.1)
+
+74 (13.5)
+
+51 (9.3)
+37 (6.7)
+104 (18.9)
+29 (5.3)
+330 (59.9)
+
+38 (6.9)
+343 (62.1)
+171 (31.0)
+
+84 (15.4)
+141 (25.9)
+267 (49.1)
+36 (6.6)
+16 (2.9)
+
+68 (12.3)
+308 (55.9)
+157 (28.5)
+18 (3.3)
+
+179 (32.4)
+141 (25.5)
+101 (18.3)
+131 (23.7)
+
+552
+88
+295 (53.4)
+
+Peru rural
+(%)
+
+Table 1. Baseline sample socio-demographic characteristics and response rate by study centre
+
+1061 (55.8)
+624 (32.8)
+215 (11.3)
+
+61 (3.1)
+135 (6.9)
+1578 (80.3)
+
+111 (6.0)
+
+609 (34.0)
+429 (23.9)
+662 (36.9)
+77 (4.3)
+16 (0.9)
+
+39 (2.0)
+9 (0.5)
+1917 (97.6)
+
+156 (8.1)
+445 (23.1)
+965 (50.1)
+266 (13.8)
+93 (4.8)
+
+189 (9.8)
+921 (48.0)
+549 (28.6)
+261 (13.6)
+
+839 (42.8)
+469 (23.9)
+345 (17.6)
+308 (15.7)
+
+1965
+80
+1226 (63.5)
+
+Venezuela
+(%)
+
+648 (64.6)
+246 (24.5)
+109 (10.9)
+
+106 (10.6)
+151 (15.1)
+565 (56.3)
+
+39 (3.9)
+
+208 (20.7)
+171 (17.0)
+318 (31.7)
+257 (25.6)
+49 (4.9)
+
+13 (1.3)
+150 (15.0)
+840 (83.7)
+
+227 (22.6)
+354 (35.3)
+229 (22.8)
+99 (9.9)
+94 (9.4)
+
+63 (6.3)
+470 (46.9)
+395 (39.4)
+75 (7.5)
+
+245 (24.4)
+329 (32.8)
+205 (20.5)
+223 (22.3)
+
+1003
+84
+666 (66.40)
+
+Mexico
+urban
+(%)
+
+729 (72.9)
+200 (20.0)
+71 (7.1)
+
+112 (11.2)
+156 (15.6)
+523 (52.3)
+
+85 (8.6)
+
+30 (3.0)
+50 (5.0)
+300 (30.0)
+440 (44.0)
+180 (18.0)
+
+213 (21.3)
+518 (51.8)
+269 (26.9)
+
+327 (32.7)
+510 (51.0)
+122 (12.2)
+25 (2.5)
+16 (1.6)
+
+42 (4.2)
+538 (53.8)
+371 (37.1)
+48 (4.8)
+
+299 (29.9)
+252 (25.2)
+221 (22.1)
+228 (22.8)
+
+1000
+86
+602 (60.20)
+
+Mexico
+rural
+(%)
+
+875 (75.4)
+92 (7.9)
+193 (16.6)
+
+54 (4.7)
+415 (35.8)
+446 (38.4)
+
+0 (0)
+
+624 (54.1)
+56 (4.9)
+374 (32.4)
+96 (8.3)
+3 (0.3)
+
+0
+604 (52.1)
+555 (47.9)
+
+232 (20.0)
+153 (13.2)
+303 (26.1)
+335 (28.9)
+137 (11.8)
+
+3 (0.3)
+829 (71.5)
+326 (28.1)
+2 (0.2)
+
+316 (27.2)
+362 (31.2)
+254 (21.9)
+228 (19.7)
+
+1160
+74
+661 (57.0)
+
+China
+urban
+(%)
+
+666 (66.5)
+31 (3.1)
+305 (30.4)
+
+49 (4.9)
+140 (14.0)
+679 (67.8)
+
+12 (1.2)
+
+40 (4.0)
+2 (0.2)
+16 (1.6)
+16 (1.6)
+928 (92.6)
+
+15 (1.5)
+374 (37.3)
+613 (61.2)
+
+579 (57.8)
+114 (11.4)
+259 (25.8)
+45 (4.5)
+5 (0.5)
+
+22 (2.2)
+585 (58.4)
+394 (39.3)
+1 (0.1)
+
+383 (38.2)
+296 (29.5)
+202 (20.2)
+121 (12.1)
+
+1002
+96
+556 (55.49)
+
+China
+rural
+(%)
+
+730 (73.2)
+86 (8.6)
+181 (18.2)
+
+44 (4.4)
+194 (19.4)
+719 (71.5)
+
+207 (20.8)
+
+139 (14.9)
+131 (14.1)
+324 (34.8)
+224 (24.1)
+112 (12.0)
+
+132 (13.2)
+620 (61.9)
+249 (24.9)
+
+428 (42.7)
+234 (23.3)
+212 (21.1)
+87 (8.7)
+42 (4.2)
+
+21 (2.1)
+523 (52.2)
+426 (42.5)
+32 (3.2)
+
+415 (41.5)
+318 (31.8)
+144 (14.4)
+124 (12.4)
+
+1005
+72
+571 (57.7)
+
+India
+urban
+(%)
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+406c
+
+406d
+
+generate a new representative prevalence sample of all
+those aged 65 years and over, including those that have
+aged to 65 years or over since the first prevalence wave,
+and in-migrants. Participants of the original baseline survey will be traced and have their vital status ascertained,
+and be re-interviewed where possible even if migrated out
+of the area.
+
+What has been measured?
+The same cross-culturally validated assessment was carried
+out across each centre, during the baseline and follow-up
+phase of the study. All participants underwent a comprehensive interview, including a structured interview, a physical examination and an informant interview. Key
+informants were selected by interviewers on the basis of
+who knew the old person best and could give the clearest
+and most detailed account of their current circumstances.
+Co-residents and family members were prioritized unless
+others were clearly better qualified. The main criterion for
+selection in case of several co-resident family members was
+time spent with the older person. In cases where the older
+person needed care, then the main caregiver was selected.
+However, if the main caregiver was paid, the main organizational caregiver was selected instead.
+Each full assessment, which lasted between 2 and 3 h,
+was translated, back-translated and adapted as necessary
+into the different languages for each centre (Table 2).
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+
+structured Geriatric Mental State clinical interview
+(GMS);11–13 (iii) Hypertension according to European
+Society of Hypertension criteria (systolic blood pressure
+> ¼ 140 mmHg
+and/or
+diastolic
+blood
+pressure
+> ¼ 95 mmHg, and/or a positive answer to the question
+‘have you ever been told by a doctor that you have hypertension?’); (iv) Chronic Obstructive Pulmonary Disease
+(COPD) diagnosed in those who responded ‘yes’ to the
+question ‘do you usually cough up phlegm from your chest
+first thing in the morning?’ and whose answer to the question ‘for how many months of the year does this usually
+happen?’ was 3 months or more.
+Self-rated overall health and physical impairments
+(including eyesight problems; stomach or intestine problems; arthritis or rheumatism; heart problems; hearing difficulties or deafness etc.) were also assessed. Impairments
+were rated as present if they interfered with activities ‘a little’ or ‘a lot’, as opposed to ‘not at all’.14 Women’s reproductive history (menarche, menopause and parity) was
+also assessed. The informant rated the presence and severity of any behavioural and psychological symptoms
+(Neuropsychiatric Inventory Questionnaire -NPI-Q).15
+Finally, a physical examination was carried out comprising pulse and blood pressure, height, leg length, skull,
+arm, waist and hip circumference and a structured neurological examination (NEUROEX).6 At follow-up only,
+weight and calf circumference were also assessed.
+
+Impacts of health
+Socio-demographics
+Information on age, sex, marital status, level of education
+(none; some, but did not complete primary; completed
+primary; completed secondary; completed tertiary or further education), household assets and household composition was assessed by a standard socio-demographic
+questionnaire.
+
+Health
+For some conditions, health status was assessed using selfreported diagnoses, in response to the question ‘has a doctor ever told you that you suffered from’: stroke, diabetes,
+hypertension, heart disease (and hyperlipidaemia, at follow-up only), TB, malaria or cysticercosis, and treatments
+for these conditions. Directly assessed diagnoses included:
+(i) Dementia, ascertained according to the cross-culturally
+validated 10/66 dementia diagnosis algorithm3 and the
+DSM-IV dementia criterion10 after cognitive testing, clinical and informant interview; (ii) Depression according to
+ICD-10 criteria and EURO-D scale scores, and syndromal
+levels of anxiety and psychosis ascertained using the
+
+1. Disability. Disability was measured using the 12-item
+World Health Organization Disability Assessment
+Schedule version 2.0 (WHODAS 2.0). The WHODAS
+2.0 has high internal consistency, moderate to
+good test-retest reliability and good concurrent validity
+in many different chronic disease clinical populations.16–18
+2. Dependence. The interviewer administered open-ended
+questions to the key informant, to ascertain needs for
+care. The interviewer then coded whether the participant required no care, care some of the time or care
+much of the time. This coding was based upon the
+interviewer’s perception of needs for care, independently of whether these were routinely met.
+Conditionally upon the presence of needs for care, we
+further assessed: (i) Practical impact—contact time between caregiver and cared-for person19 and time spent
+by the caregiver in the past 24 h in specific caregiving
+activities;20 (ii) Caregiver perceived strain—the Zarit
+Burden Interview (ZBI)21,22 with 22 items that assess
+the caregiver’s appraisal of the impact their involvement has had on their lives.
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+
+406e
+
+Table 2. Measurements in the different waves of studies. WHODAS (World Health Organization Disability Assessment
+Schedule), DEMQOL (Dementia Quality Of Life Questionnaire), CSI’D’ (Community Screening Instrument for Dementia), HAS
+(History and Aetiology Schedule), NPI (Neuropsychiatric Inventory), GMS (Geriatric Mental State Examination)
+
+Household assessment
+Age ascertainment
+Household information
+Number of assets
+Participant interview
+Early-life events
+Current circumstances
+Social network
+Socioeconomic status
+Health (including pain and impairments)
+Disability (WHODAS-II) and dependence
+Reproductive health
+Behaviour and lifestyles
+Use of health services
+Quality of life (DEMQOL)
+Cognitive functioning
+CSI’D’
+10-word list-learning test
+Mental health (GMS – version B3)
+Clinical examination
+Neurological assessment (NEUROEX)
+Physical assessment (anthropometry, pulse/blood pressure)
+Stroke assessment
+Advanced frailty assessment
+Biological assessments
+Haematological tests, full blood count
+(haemoglobin, haematocrit, differential, MCV, MCH, MCHC)
+Biochemical tests
+(fasting glucose, fasting total cholesterol and sub-fractions,
+triglyceride, albumin, total protein)
+Genotyping (ApoE)
+Metabolic syndrome according to NCEP-ATP III criteria
+
+Baseline
+
+Follow-up
+
+3rd wave/refreshment
+cohort
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+
+x
+x
+x
+
+x
+x
+x
+
+x
+x
+
+x
+x
+x
+
+x
+x
+x
+
+x
+
+x
+
+x
+
+(some centres)
+x
+
+(some centres)
+x
+
+x
+
+(some centres)
+x
+(some centres)
+x
+(some centres)
+
+(some centres)
+x
+(some centres)
+x
+(some centres)
+
+Age-related decline biomarkers
+(cytokines, telomeres, CRP, testosterone, SHBG)
+
+x
+x
+x
+(nested-cohort)
+
+a) Informant interview
+Background information on informant
+Caregiver questionnaire
+CSI’D’ informant section
+HAS-D
+Behavioural and Psychological Symptoms of Dementia (NPI)
+Participants background infoa
+DEMQOL
+Verbal autopsy
+a
+
+x
+x
+x
+x
+x
+x
+
+Administered when the participant is too demented or otherwise unable to answer the questions reliably.
+
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+
+406f
+
+3. Health service utilization was assessed using the Client
+Service Receipt Inventory,23 a comprehensive assessment of direct and indirect economic costs for mental
+health services, adapted for use in the developing
+world.24 Help-seeking, specifically for symptoms and
+signs of dementia, was assessed at follow-up only.
+
+Risk exposures
+Specific dementia risk factors (e.g. head injury with loss of
+consciousness, family history of dementia) and broader lifestyle and cardiovascular risk factors including alcohol use
+(volume and frequency currently and before the age of 60),
+lifetime smoking (including pack-year calculation) and diet
+and exercise levels now and in earlier life, were also assessed.
+
+Biological samples
+Fasting blood samples were collected in a subset of seven
+Latin American sites (Cuba, Dominican Republic,
+Venezuela, Puerto Rico, urban Peru, and urban and rural
+Mexico), for which we are also able to report the prevalence of undiagnosed diabetes and the extent of control
+among diagnosed cases. We collected fluoride oxalate,
+EDTA and clot samples. Haematological and biochemical
+analyses were carried out in local laboratories. DNA was
+extracted to create a resource for genotyping. The range of
+assays carried out varied among sites, depending on feasibility and funding (see Table 2; and Supplementary
+Table2, available as Supplementary data at IJE online).
+Overall, 9178 blood samples were collected. By site, the
+numbers and proportions providing samples were: Cuba
+(2355, 80.4% of those participating in the survey),
+Dominican Republic (1483, 73.8%), Puerto Rico (1584,
+78.8%), Venezuela (1284, 65.3%), urban Peru (755,
+54.7%), urban Mexico (822, 82.0%) and rural Mexico
+(895, 89.5%). There were few differences in baseline characteristics of those who did and did not provide samples
+(Supplementary Table 3, available as Supplementary data at
+IJE online), and those differences were generally of small effect, other than in the urban Peru site where the more affluent and better educated, but also those with more physical
+impairments, were more likely to give blood samples.
+The new third-wave prevalence survey will include an
+extended assessment of health status, including spirometry,
+body mass index (BMI), visual acuity, grip strength and
+hearing impairment. Moreover, a nested cohort of 300 individuals (150 with a high risk of incident dependence and
+150 without) will be identified and extensive laboratory
+testing of frailty biomarkers carried out. This sub-group
+will be followed up 18 months later to re-assess vital
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+
+status, needs for care, disability, cognitive function and significant health life events in the intervening period.
+
+What has it found? Key findings and
+publications
+Evidence on the construct and predictive validity of key
+measures has been further strengthened. Norms for the cognitive tests indicate effects of age and education, and a modest effect of culture upon the cognitive tests (10-word
+delayed recall and CSI-D COGSCORE) that form the core
+of our 10/66 dementia diagnosis.25 Our confidence in the
+validity of the 10/66 dementia diagnosis has been bolstered
+by the demonstration, in Cuba, that it agreed better with
+Cuban clinician diagnoses than did the DSM-IV computerzsed algorithm, which missed many recent-onset and
+mild cases.10 Across the cohort, levels of disability were
+similar for 10/66 dementia cases regardless of whether they
+were confirmed as cases by the DSM-IV dementia algorithm.26 Crucially, in urban India where the disparity between the prevalence of 10/66 dementia and DSM-IV
+dementia was greatest, those with 10/66 dementia had a
+markedly elevated mortality rate, and survivors showed
+clear evidence of clinical progression and increased needs
+for care. Only one ‘case’ had unambiguously improved.
+Cognitive function had deteriorated and disability increased
+to a much greater extent than among those with CIND.
+Hence, the strong predictive validity of the 10/66 dementia
+diagnosis is consistent with a lack of sensitivity of the DSMIV criteria to mild-to-moderate cases, which may underestimate prevalence in less developed regions. Regarding the
+WHODAS 2.0 disability assessment scale, in the 10/66
+DRG population-based survey samples strong internal consistency and high factor loadings for the one-factor solution
+supported unidimensionality, and the WHODAS 2.0 was
+found to be a ‘strong’ Mokken scale in all sites.27
+Morbidity in the baseline surveys of the cohort has been
+described in detail, with publications on the prevalence of
+dementia,26 mild cognitive impairment,28 mental disorder,29–32 sleep disorder,33 hypertension,34 stroke,35 anaemia,36 head injury37 and dependence38 (Table 3).
+Prevalence of most chronic disorders, including dementia, is
+similar to that in high-income countries for urban settings in
+Latin America and China, and somewhat lower in rural settings and in India. Detailed country reports delineate the impact of population ageing and the epidemiological
+transition on patterns of chronic disease morbidity and
+needs for care in Cuba,39 Dominican Republic40 and
+China.41 The independent impact of different chronic diseases and frailty42 on disability,43 dependence,38 co-resident
+psychological morbidity,44 service utilization24 and costs,45
+indicating a predominant contribution of disorders of the
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+
+406g
+
+Table 3. Morbidity at baseline across sites, n (%)
+Cuba
+
+Dementiaa
+Mild cognitive
+impairmentb
+Strokec
+Hypertensiond
+Alcohol problems
+Early life
+Current
+Needs for Caref
+Depressiong
+
+Dominican Puerto
+Republic Rico
+
+Peru
+urban
+
+Peru
+rural
+
+Venezuela Mexico
+urban
+
+292 (10.4) 235 (11.7) 233 (11.7) 129 (9.34) 36 (6.5) 140 (7.1)
+42 (1.5)
+26 (1.3)
+68 (3.4) 36 (2.6) 18 (3.3) 22 (1.1)
+
+86 (8.6)
+27 (2.7)
+
+Mexico
+rural
+85 (8.5)
+32 (3.2)
+
+China
+urban
+
+China
+rural
+
+81 (7.0) 556 (5.6)
+5 (0.4) 12 (1.2)
+
+India
+urban
+75 (7.5)
+33 (3.3)
+
+216 (7.7) 175 (8.7) 168 (8.4) 112 (8.2) 20 (3.6) 135 (7.0) 67 (6.7) 74 (7.4) 109 (9.4) 18 (1.8) 20 (2.0)
+1624 (57.9) 968 (48.6) 518 (32.1) 209 (15.2) 37 (6.7) 714 (46.5) 423 (42.2) 371 (37.2) 489 (42.4) 557 (55.6) 608 (60.7)
+212 (7.6)
+103 (3.7)
+157 (6.4)
+142 (5.1)
+
+605 (30.4) 132 (6.6)
+234 (11.7) 28 (1.4)
+143 (7.1) 182 (9.1)
+278 (13.8) 47 (2.3)
+
+18 (1.3) 17 (3.1) 88 (7.4)
+3 (0.2) 5 (0.9) 17 (1.5)
+75 (5.4) 10 (1.8) 98 (5.0)
+87 (6.3) 16 (2.9) 107 (5.5)
+
+80 (8.1) 112 (11.3) 26 (2.2) 73 (7.3)
+9 (0.9) 11 (1.1) 17 (1.5) 42 (4.2)
+56 (5.6) 30 (3.0) 119 (10.3) 30 (3.0)
+47 (4.7) 45 (4.5)
+3 (0.3)
+7 (0.7)
+
+4 (0.4)
+1 (0.1)
+14 (1.4)
+39 (3.9)
+
+a
+
+10/66 education-adjusted dementia diagnosis.
+Petersen criteria amnesic MCI.
+c
+Self reported stroke.
+d
+Meeting ISH hypertension criteria ( 14 mmHg systolic and/or  90 mmHg diastolic).
+e
+Hazardous drinker.
+f
+Needing much care most of the time.
+g
+ICD-10 Depression.
+b
+
+brain and mind (dementia, stroke and depression) to disability, dependence and costs, but an inverse association between dementia and healthcare service utilization.
+The incidence of 10/66 dementia ranged from 18.2 to
+30.4 per 1000 person-years, similar or higher than the incidence of dementia reported for high-income countries.
+Incidence of 10/66 dementia was 1.4–2.7 times higher than
+that for DSM-IV dementia (15.7 and 9.9 per 1000 personyears, respectively).46 Mortality hazards ratios for dementia
+ranged from 1.56 to 5.69 by site.46 Education [hazard ratio
+(HR): 0.89, 95% confidence interval (CI): 0.81–0.97], and
+male sex (0.72, 0.61–0.84) were inversely associated, and
+older age [risk ratio (RR) per 5-year band 1.67, 1.56–1.79]
+were all associated with incident dementia. Literacy, motor
+sequencing and verbal fluency all protected against dementia onset, independent of education, providing support for
+the cognitive reserve hypothesis.
+Crude mortality rates varied from 27.3 to 70.0/1000
+person-years, a 3-fold variation persisting after standardization for demographic and economic factors.47
+A full list of findings and publications can be found on
+the study website [http://www.alz.co.uk/1066/1066_publi
+cations.php] and in Supplementary Table 4 (available as
+Supplementary data at IJE online).
+
+What are the main strengths and
+weaknesses?
+One of the main strengths of this study was the use of a
+one-phase design to estimate the prevalence, incidence, determinants and consequences of a comprehensive range of
+chronic conditions, with a particularly robust dementia
+
+assessment procedure specifically developed and validated
+for use in LMIC. The same standardized protocol, which
+included validated measurements and diagnostic algorithms, was used in each site, permitting comparison of estimates across diverse settings and aiding the interpretation
+of observed variations. The relatively large sample size also
+allows quite precise estimations of effect sizes, in particular
+with meta-analysed pooled estimates. Response rates were
+also high, and the number of missing values relatively low.
+Although the use of catchment areas increased the response
+rates, this could have affected the generalizability of the
+findings beyond the specific study sites.
+
+Can I get hold of the data? Where can I find
+out more?
+The 10/66 cohort is an open-access database, and we
+would encourage external investigators to consider applying to use the data for secondary analyses, in order to
+maximize the scientific output from the data. All the information on how to access the 10/66 public data archive,
+with a list of current proposals and papers currently under
+preparation, can be found on our website: [www.alz.co.
+uk/1066/].
+
+Supplementary Data
+Supplementary data are available at IJE online.
+
+Funding
+This work was supported by the Wellcome Trust (GR066133/
+GR080002), the European Research Council (340755), US
+
+406h
+Alzheimer’s Association, WHO, FONDACIT (Venezuela) and the
+Puerto Rico State Government, and the Medical Research Council
+(MR/K021907/1 to A.M.P.)
+Conflict of interest: None.
+
+References
+1. Prince M, Graham N, Brodaty H et al. Alzheimer Disease
+International’s 10/66 Dementia Research Group – one model for
+action research in developing countries. Int J Geriatr Psychiatry
+2004;19:178–81.
+2. Prince M;Dementia Research Group. Care arrangements for
+people with dementia in developing countries. Int J Geriatr
+Psychiatry 2004;19:170–77.
+3. Prince M, Acosta D, Chiu H, Scazufca M, Varghese M;Dementia
+Research Group. Dementia diagnosis in developing countries: a
+cross-cultural validation study. Lancet 2003;361:909–17.
+4. Prince M, Acosta D, Chiu H et al. Effects of education and culture on the validity of the Geriatric Mental State and its
+AGECAT algorithm. Br J Psychiatry 2004;185:429–36.
+5. Ferri CP, Ames D, Prince M;Dementia Research Group.
+Behavioral and psychological symptoms of dementia in developing countries. Int Psychogeriatr 2004;16:441–59.
+6. Prince M, Ferri CP, Acosta D et al. The protocols for the 10/66
+dementia research group population-based research programme.
+BMC Public Health 2007;7:165.
+7. Jotheeswaran AT, Williams JD, Prince MJ. The predictive validity of the 10/66 dementia diagnosis in Chennai, India: A 3-year
+follow-up study of cases identified at baseline. Alz Dis Assoc Dis
+2010;24:296–302.
+8. Jotheeswaran AT, Williams JD, Prince MJ. Predictors of
+mortality among elderly people living in a south Indian
+urban community; a 10/66 Dementia Research Group prospective population-based cohort study. BMC Public Health
+2010;10:366.
+9. Mayston R, Guerra M, Huang YQ et al. Exploring the economic
+and social effects of care dependence in later life: protocol for the
+10/66 research group INDEP study. Springerplus 2014;3:379.
+10. Prince MJ, de Rodriguez JL, Noriega L et al. The 10/66
+Dementia Research Group’s fully operationalised DSM-IV dementia computerized diagnostic algorithm, compared with the
+10/66 dementia algorithm and a clinician diagnosis: a population
+validation study. BMC Public Health 2008; 8:219.
+11. Copeland JRM, Prince M, Wilson KCM, Dewey ME, Payne J,
+Gurland B. The Geriatric Mental State Examination in the 21st
+century. Int J Geriatr Psychiatry 2002;17:729–32.
+12. Guerra M, Ferri C, Llibre J, Prina AM, Prince M. Psychometric
+properties of EURO-D, a geriatric depression scale: a cross-cultural validation study. BMC Psychiatry 2015;15:12.
+13. Brailean A, Guerra M, Chua KC, Prince M, Prina MA. A multiple indicators multiple causes model of late-life depression in
+Latin American countries. J Affect Disord 2015;184:129–36.
+14. George LK, Fillenbaum GG. OARS methodology - a decade of
+experience in geriatric assessment. J Am Geriatr Soc
+1985;33:607–15.
+15. Kaufer DI, Cummings JL, Ketchel P et al. Validation of the NPIQ, a brief clinical form of the neuropsychiatric inventory.
+J Neuropsychiatry Clin Neurosci 2000;12:233–39.
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+16. Chwastiak LA, Von Korff M. Disability in depression and back
+pain: evaluation of the World Health Organization Disability
+Assessment Schedule (WHODAS II) in a primary care setting.
+J Clin Epidemiol 2003;56:507–14.
+17. Hudson M, Steele R, Taillefer S, Baron M, Canadian Scleroderma
+Research. Quality of life in systemic sclerosis: psychometric properties of the World Health Organization Disability Assessment
+Schedule II. Arthritis Rheum 2008;59:270–78.
+18. Posl M, Cieza A, Stucki G. Psychometric properties of the
+WHODASII in rehabilitation patients. Qual Life Res
+2007;16:1521–31.
+19. Gilleard CJ, Belford H, Gilleard E, Whittick JE, Gledhill K.
+Emotional distress amongst the supporters of the elderly mentally infirm. Br J Psychiatry 1984;145:172–77.
+20. Davis KL, Marin DB, Kane R et al. The Caregiver Activity
+Survey (CAS): development and validation of a new measure for
+caregivers of persons with Alzheimer’s disease. Int J Geriatr
+Psychiatry 1997;12:978–88.
+21. Whitlatch CJ, Zarit SH, von Eye A. Efficacy of interventions
+with caregivers: a reanalysis. Gerontologist 1991;31:9–14.
+22. Zarit SH, Reever KE, Bach-Peterson J. Relatives of the impaired
+elderly: correlates of feelings of burden. Gerontologist
+1980;20:649–55.
+23. Chisholm D, Knapp MRJ, Knudsen HC et al. Client SocioDemographic and Service Receipt Inventory - European Version:
+Development of an instrument for international research EPSILON Study 5. Br J Psychiatry 2000;177:S28–33.
+24. Albanese E, Liu ZR, Acosta D et al. Equity in the delivery of community healthcare to older people: findings from 10/66 Dementia
+Research Group cross-sectional surveys in Latin America, China,
+India and Nigeria. BMC Health Serv Res 2011; 11:153.
+25. Sosa AL, Albanese E, Prince M et al. Population normative data
+for the 10/66 Dementia Research Group cognitive test battery
+from Latin America, India and China: a cross-sectional survey.
+BMC Neurol 2009; 9:48.
+26. Rodriguez JJL, Ferri CP, Acosta D et al. Prevalence of dementia
+in Latin America, India, and China: a population-based crosssectional survey. Lancet 2008;372:464–74.
+27. Sousa RM, Dewey ME, Acosta D et al. Measuring disability
+across cultures - the psychometric properties of the WHODAS II
+in older people from seven low- and middle-income countries.
+The 10/66 Dementia Research Group population-based survey.
+Int J Methods Psychiatr Res 2010;19:1–17.
+28. Sosa AL, Albanese E, Stephan BC et al. Prevalence, distribution,
+and impact of mild cognitive impairment in Latin America,
+China, and India: a 10/66 population-based study. PLoS Med
+2012;9:e1001170.
+29. Guerra M, Ferri CP, Sosa AL et al. Late-life depression in Peru,
+Mexico and Venezuela: the 10/66 population-based study. Br J
+Psychiatry 2009;195:510–15.
+30. Prina AM, Ferri CP, Guerra M, Brayne C, Prince M. Prevalence
+of anxiety and its correlates among older adults in Latin
+America, India and China: cross-cultural study. Br J Psychiatry
+2011;199:485–91.
+31. Prina AM, Ferri CP, Guerra M, Brayne C, Prince M. Co-occurrence of anxiety and depression amongst older adults in low- and
+middle-income countries: findings from the 10/66 study. Psychol
+Med 2011;41:2047–56.
+
+International Journal of Epidemiology, 2017, Vol. 46, No. 2
+32. Guerra M, Prina AM, Ferri CP et al. A comparative cross-cultural study of the prevalence of late life depression in low and
+middle income countries. J Affect Disord 2016;190:362–68.
+33. Mazzotti DR, Guindalini C, Sosa AL, Ferri CP, Tufik S.
+Prevalence and correlates for sleep complaints in older adults in
+low and middle income countries: A 10/66 Dementia Research
+Group study. Sleep Med 2012;13:697–702.
+34. Prince MJ, Ebrahim S, Acosta D et al. Hypertension prevalence,
+awareness, treatment and control among older people in Latin
+America, India and China: a 10/66 cross-sectional populationbased survey. J Hypertens 2012;30:177–87.
+35. Ferri CP, Schoenborn C, Kalra L et al. Prevalence of stroke and
+related burden among older people living in Latin America,
+India and China. J Neurol Neurosurg Psychiatry
+2011;82:1074–82.
+36. Bryce RM, Salas A, Acosta D et al. The prevalence, correlates
+and impact of anaemia among older people in Cuba, Dominican
+Republic, Mexico, Puerto Rico and Venezuela. Br J Haematol
+2013;160:387–98.
+37. Khan A, Prince M, Brayne C, Prina AM. Lifetime prevalence and
+factors associated with head injury among older people in low
+and middle income countries: a 10/66 study. PLoS One
+2015;10:e0132229.
+38. Sousa RM, Ferri CP, Acosta D et al. The contribution of chronic
+diseases to the prevalence of dependence among older people in
+Latin America, China and India: a 10/66 Dementia Research
+Group population-based survey. BMC Geriatr 2010;10:53.
+39. Rodriguez JL, Valhuerdi A, Sanchez II et al. The prevalence, correlates and impact of dementia in Cuba. Neuroepidemiology
+2008;31:243–51.
+
+406i
+40. Acosta D, Rottbeck R, Rodriguez JG et al. The prevalence and
+social patterning of chronic diseases among older people in a
+population undergoing health transition. A 10/66 Group crosssectional population-based survey in the Dominican Republic.
+BMC Public Health 2010;10:344.
+41. Liu ZR, Albanese E, Li SR et al. Chronic disease prevalence and
+care among the elderly in urban and rural Beijing, China - a 10/
+66 Dementia Research Group cross-sectional survey. BMC
+Public Health 2009; 9:394.
+42. At J, Bryce R, Prina M et al. Frailty and the prediction of dependence and mortality in low- and middle-income countries: a 10/66
+population-based cohort study. BMC Med 2015;13:138.
+43. Sousa RM, Ferri CP, Acosta D et al. Contribution of chronic diseases to disability in elderly people in countries with low and
+middle incomes: a 10/66 Dementia Research Group populationbased survey. Lancet 2009;374:1821–30.
+44. Honyashiki M, Ferri CP, Acosta D et al. Chronic diseases among
+older people and co-resident psychological morbidity: a 10/66
+Dementia Research Group population-based survey. Int
+Psychogeriatr 2011;23:1489–501.
+45. Liu Z. Economic Costs of Dementia in Low And Middle Income
+Countries. London, UK: King’s College London, 2013.
+46. Prince M, Acosta D, Ferri CP et al. Dementia incidence and mortality in middle-income countries, and associations with indicators of cognitive reserve: a 10/66 Dementia Research Group
+population-based cohort study. Lancet 2012;380:50–58.
+47. Ferri CP, Acosta D, Guerra M et al. Socioeconomic factors and
+all cause and cause-specific mortality among older people in
+Latin America, India, and China: A population-based cohort
+study. Plos Med 2012; 9:e1001179.
+

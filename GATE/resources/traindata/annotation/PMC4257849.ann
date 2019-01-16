@@ -1,0 +1,394 @@
+T1	Protein 67 69	Se
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 963 969	Poland
+#2	AnnotatorNotes T2	END
+T3	Protein 2578 2579	©
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3575 3576	.
+#4	AnnotatorNotes T4	END
+T5	Protein 6752 6754	Gu
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6906 6916	Manuscript
+#6	AnnotatorNotes T6	END
+T7	Protein 9966 9968	Gu
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10120 10130	Manuscript
+#8	AnnotatorNotes T8	END
+T9	Protein 13266 13268	Gu
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 13420 13430	Manuscript
+#10	AnnotatorNotes T10	END
+T11	Protein 17066 17068	Gu
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 17220 17230	Manuscript
+#12	AnnotatorNotes T12	END
+T13	Protein 20498 20500	Gu
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 20652 20662	Manuscript
+#14	AnnotatorNotes T14	END
+T15	Protein 23998 24000	Gu
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 24152 24162	Manuscript
+#16	AnnotatorNotes T16	END
+T17	Protein 25397 25410	Supplementary
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 41117 41127	Manuscript
+#18	AnnotatorNotes T18	END
+T19	Protein 41422 41424	Gu
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 41577 41587	Manuscript
+#20	AnnotatorNotes T20	END
+T21	Protein 41766 41768	Gu
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 41921 41931	Manuscript
+#22	AnnotatorNotes T22	END
+T23	Protein 43349 43351	Gu
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 43504 43514	Manuscript
+#24	AnnotatorNotes T24	END
+T25	Protein 44495 44497	Gu
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 44751 44753	17
+#26	AnnotatorNotes T26	END
+T27	Protein 45472 45478	Infect
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 45635 45637	18
+#28	AnnotatorNotes T28	END
+T29	Protein 46580 46586	Infect
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 46743 46745	19
+#30	AnnotatorNotes T30	END
+T31	Protein 48524 48530	Infect
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 48687 48689	20
+#32	AnnotatorNotes T32	END
+T33	Protein 49967 49973	Infect
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 50038 50039	.
+#34	AnnotatorNotes T34	END
+T35	Location 60 66	Poland
+#35	AnnotatorNotes T35	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T36	Location 1239 1245	Poland
+#36	AnnotatorNotes T36	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T37	Location 1351 1357	Poland
+#37	AnnotatorNotes T37	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T38	Location 2141 2147	Poland
+#38	AnnotatorNotes T38	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T39	Location 2309 2315	Poland
+#39	AnnotatorNotes T39	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T40	Location 4307 4313	Russia
+#40	AnnotatorNotes T40	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T41	Location 4329 4339	Yugoslavia
+#41	AnnotatorNotes T41	<latlng>44, 19.75</latlng><geoID>7500737 </geoID>
+T42	Location 4564 4569	India
+#42	AnnotatorNotes T42	<latlng>22, 79</latlng><geoID>1269750 </geoID><pop>1173108018</pop>
+T43	Location 5531 5538	Austria
+#43	AnnotatorNotes T43	<latlng>47.33333, 13.33333</latlng><geoID>2782113 </geoID><pop>8205000</pop>
+T44	Location 5540 5554	Czech Republic
+#44	AnnotatorNotes T44	<latlng>49.75, 15</latlng><geoID>3077311 </geoID><pop>10476000</pop>
+T45	Location 5556 5563	Finland
+#45	AnnotatorNotes T45	<latlng>64, 26</latlng><geoID>660013 </geoID><pop>5244000</pop>
+T46	Location 5565 5572	Germany
+#46	AnnotatorNotes T46	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T47	Location 5574 5581	Hungary
+#47	AnnotatorNotes T47	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T48	Location 5583 5589	Russia
+#48	AnnotatorNotes T48	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T49	Location 5591 5599	Slovakia
+#49	AnnotatorNotes T49	<latlng>48.66667, 19.5</latlng><geoID>3057568 </geoID><pop>5455000</pop>
+T50	Location 5604 5612	Slovenia
+#50	AnnotatorNotes T50	<latlng>46.08333, 15</latlng><geoID>3190538 </geoID><pop>2007000</pop>
+T51	Location 5838 5844	Russia
+#51	AnnotatorNotes T51	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T52	Location 6292 6298	Poland
+#52	AnnotatorNotes T52	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T53	Location 6677 6683	Poland
+#53	AnnotatorNotes T53	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T54	Location 6943 6954	Zala County
+#54	AnnotatorNotes T54	<latlng>46.66667, 16.83333</latlng><geoID>3042613 </geoID><pop>293443</pop>
+T55	Location 6956 6963	Hungary
+#55	AnnotatorNotes T55	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T56	Location 7547 7553	Poland
+#56	AnnotatorNotes T56	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T57	Location 8706 8714	Valencia
+#57	AnnotatorNotes T57	<latlng>34.44361, -118.60953</latlng><geoID>5405288 </geoID><pop>148456</pop>
+T58	Location 8716 8718	CA
+#58	AnnotatorNotes T58	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T59	Location 9375 9377	CA
+#59	AnnotatorNotes T59	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T60	Location 9364 9373	San Diego
+#60	AnnotatorNotes T60	<latlng>33.0282, -116.77021</latlng><geoID>5391832 </geoID><pop>3095313</pop>
+T61	Location 9855 9860	Shiga
+#61	AnnotatorNotes T61	<latlng>35.21667, 136.13333</latlng><geoID>1852553 </geoID><pop>1402132</pop>
+T62	Location 9862 9867	Japan
+#62	AnnotatorNotes T62	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID><pop>127288000</pop>
+T63	Location 10441 10448	Waltham
+#63	AnnotatorNotes T63	<latlng>42.38892, -71.24232</latlng><geoID>4954400 </geoID><pop>60632</pop>
+T64	Location 10450 10452	MA
+#64	AnnotatorNotes T64	<latlng>42.36565, -71.10832</latlng><geoID>6254926 </geoID><pop>6433422</pop>
+T65	Location 10549 10559	Goettingen
+#65	AnnotatorNotes T65	<latlng>51.51083, 9.91361</latlng><geoID>3221013 </geoID><pop>247988</pop>
+T66	Location 10561 10568	Germany
+#66	AnnotatorNotes T66	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T67	Location 10684 10686	CA
+#67	AnnotatorNotes T67	<latlng>37.25022, -119.75126</latlng><geoID>5332921 </geoID><pop>37691912</pop>
+T68	Location 10671 10682	Foster City
+#68	AnnotatorNotes T68	<latlng>37.57913, -122.23876</latlng><geoID>11788784</geoID>
+T69	Location 11960 11966	Poland
+#69	AnnotatorNotes T69	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T70	Location 12220 12226	Chmiel
+#70	AnnotatorNotes T70	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T71	Location 12274 12281	Boginia
+#71	AnnotatorNotes T71	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T72	Location 12283 12291	Kurowice
+#72	AnnotatorNotes T72	<latlng>51.67176, 19.68364</latlng><geoID>3094208 </geoID>
+T73	Location 12296 12310	Huta Dłutowska
+#73	AnnotatorNotes T73	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T74	Location 12469 12476	Germany
+#74	AnnotatorNotes T74	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T75	Location 12485 12499	Czech Republic
+#75	AnnotatorNotes T75	<latlng>49.75, 15</latlng><geoID>3077311 </geoID><pop>10476000</pop>
+T76	Location 12540 12547	Finland
+#76	AnnotatorNotes T76	<latlng>64, 26</latlng><pop>5244000</pop>><geoID>660013 </geoID>
+T77	Location 12665 12673	Kurowice
+#77	AnnotatorNotes T77	<latlng>51.67176, 19.68364</latlng><geoID>774525 </geoID>
+T78	Location 12731 12737	Chmiel
+#78	AnnotatorNotes T78	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T79	Location 12839 12846	Austria
+#79	AnnotatorNotes T79	<latlng>47.33333, 13.33333</latlng><geoID>2782113 </geoID><pop>8205000</pop>
+T80	Location 13541 13547	Poland
+#80	AnnotatorNotes T80	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T81	Location 13970 13977	Hungary
+#81	AnnotatorNotes T81	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T82	Location 14182 14190	Slovakia
+#82	AnnotatorNotes T82	<latlng>48.66667, 19.5</latlng><geoID>3057568 </geoID><pop>5455000</pop>
+T83	Location 14297 14304	Croatia
+#83	AnnotatorNotes T83	<latlng>45.16667, 15.5</latlng><geoID>3202326 </geoID><pop>4284889</pop>
+T84	Location 14474 14480	Poland
+#84	AnnotatorNotes T84	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T85	Location 14592 14598	Poland
+#85	AnnotatorNotes T85	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T86	Location 14731 14738	Germany
+#86	AnnotatorNotes T86	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T87	Location 14967 14974	Siberia
+#87	AnnotatorNotes T87	<latlng>60, 100</latlng><geoID>2016590</geoID>
+T88	Location 15317 15331	Huta Dłutowska
+#88	AnnotatorNotes T88	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T89	Location 15541 15547	France
+#89	AnnotatorNotes T89	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T90	Location 15873 15887	United Kingdom
+#90	AnnotatorNotes T90	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T91	Location 15895 15906	Scandinavia
+#91	AnnotatorNotes T91	<latlng>63, 12</latlng><geoID>2614165 </geoID><pop>20320000</pop>
+T92	Location 15921 15927	Russia
+#92	AnnotatorNotes T92	<latlng>60, 100</latlng><geoID>2017370 </geoID><pop>140702000</pop>
+T93	Location 18303 18309	Poland
+#93	AnnotatorNotes T93	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T94	Location 18578 18584	Chmiel
+#94	AnnotatorNotes T94	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T95	Location 18595 18609	Huta Dłutowska
+#95	AnnotatorNotes T95	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T96	Location 18694 18700	Poland
+#96	AnnotatorNotes T96	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T97	Location 18824 18830	Poland
+#97	AnnotatorNotes T97	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T98	Location 18832 18839	Boginia
+#98	AnnotatorNotes T98	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T99	Location 18841 18855	Huta Dłutowska
+#99	AnnotatorNotes T99	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T100	Location 18860 18868	Kurowice
+#100	AnnotatorNotes T100	<latlng>51.67176, 19.68364</latlng><geoID>3094208 </geoID>
+T101	Location 19231 19245	Huta Dłutowska
+#101	AnnotatorNotes T101	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T102	Location 19905 19911	Poland
+#102	AnnotatorNotes T102	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T103	Location 19916 19922	France
+#103	AnnotatorNotes T103	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T104	Location 20489 20496	Hungary
+#104	AnnotatorNotes T104	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T105	Location 20336 20342	Poland
+#105	AnnotatorNotes T105	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T106	Location 20691 20697	Poland
+#106	AnnotatorNotes T106	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T107	Location 21100 21106	Chmiel
+#107	AnnotatorNotes T107	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T108	Location 21121 21127	Poland
+#108	AnnotatorNotes T108	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T109	Location 21136 21143	Boginia
+#109	AnnotatorNotes T109	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T110	Location 21148 21162	Huta Dłutowska
+#110	AnnotatorNotes T110	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T111	Location 21172 21178	Poland
+#111	AnnotatorNotes T111	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T112	Location 21286 21293	Germany
+#112	AnnotatorNotes T112	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T113	Location 21299 21313	Czech Republic
+#113	AnnotatorNotes T113	<latlng>49.75, 15</latlng><geoID>3077311 </geoID><pop>10476000</pop>
+T114	Location 21318 21326	Slovakia
+#114	AnnotatorNotes T114	<latlng>48.66667, 19.5</latlng><geoID>3057568 </geoID><pop>5455000</pop>
+T115	Location 21702 21710	Slovakia
+#115	AnnotatorNotes T115	<latlng>48.66667, 19.5</latlng><geoID>3057568 </geoID><pop>5455000</pop>
+T116	Location 21862 21868	Poland
+#116	AnnotatorNotes T116	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T117	Location 21933 21940	Hungary
+#117	AnnotatorNotes T117	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T118	Location 21972 21978	France
+#118	AnnotatorNotes T118	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T119	Location 22283 22289	France
+#119	AnnotatorNotes T119	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T120	Location 22294 22301	Hungary
+#120	AnnotatorNotes T120	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T121	Location 22275 22281	Poland
+#121	AnnotatorNotes T121	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T122	Location 23664 23670	Poland
+#122	AnnotatorNotes T122	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T123	Location 23827 23833	Poland
+#123	AnnotatorNotes T123	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T124	Location 23485 23492	Germany
+#124	AnnotatorNotes T124	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T125	Location 23542 23556	Czech Republic
+#125	AnnotatorNotes T125	<latlng>49.75, 15</latlng><geoID>3077311 </geoID><pop>10476000</pop>
+T126	Location 23584 23592	Slovakia
+#126	AnnotatorNotes T126	<latlng>48.66667, 19.5</latlng><geoID>3057568 </geoID><pop>5455000</pop>
+T127	Location 24378 24398	Carpathian mountains
+#127	AnnotatorNotes T127	<latlng>47, 25.5</latlng><geoID>682674 </geoID>
+T128	Location 24415 24421	Poland
+#128	AnnotatorNotes T128	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T129	Location 24466 24478	Ruska Poruba
+#129	AnnotatorNotes T129	<latlng>49.13957, 21.79217</latlng><geoID>723693 </geoID>
+T130	Location 24501 24509	Slovakia
+#130	AnnotatorNotes T130	<latlng>48.66667, 19.5</latlng><geoID>3057568 </geoID><pop>5455000</pop>
+T131	Location 24837 24843	Poland
+#131	AnnotatorNotes T131	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T132	Location 24929 24935	Poland
+#132	AnnotatorNotes T132	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T133	Location 25045 25051	Poland
+#133	AnnotatorNotes T133	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T134	Location 25389 25395	Poland
+#134	AnnotatorNotes T134	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T135	Location 41205 41211	Poland
+#135	AnnotatorNotes T135	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T136	Location 41603 41609	Poland
+#136	AnnotatorNotes T136	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T137	Location 41658 41664	Poland
+#137	AnnotatorNotes T137	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T138	Location 42243 42249	Poland
+#138	AnnotatorNotes T138	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T139	Location 42440 42446	Poland
+#139	AnnotatorNotes T139	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T140	Location 42507 42518	Switzerland
+#140	AnnotatorNotes T140	<latlng>47.00016, 8.01427</latlng><geoID>2658434 </geoID><pop>7581000</pop>
+T141	Location 42582 42588	Poland
+#141	AnnotatorNotes T141	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T142	Location 42649 42656	Hungary
+#142	AnnotatorNotes T142	<latlng>47, 20</latlng><geoID>719819 </geoID><pop>9982000</pop>
+T143	Location 42734 42740	France
+#143	AnnotatorNotes T143	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T144	Location 44862 44868	Poland
+#144	AnnotatorNotes T144	<latlng>52, 20</latlng><geoID>798544 </geoID><pop>38500000</pop>
+T145	Location 44970 44977	Boginia
+#145	AnnotatorNotes T145	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T146	Location 45010 45016	Chmiel
+#146	AnnotatorNotes T146	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T147	Location 45055 45059;45060 45069	Huta Dłutowska
+#147	AnnotatorNotes T147	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T148	Location 45084 45088	Jura
+#148	AnnotatorNotes T148	<latlng>50.75, 19.5</latlng><geoID>3094797 </geoID>
+T149	Location 45098 45106	Kurowice
+#149	AnnotatorNotes T149	<latlng>51.67176, 19.68364</latlng><geoID>3094208 </geoID>
+T150	Location 45122 45131	Nowosolna
+#150	AnnotatorNotes T150	<latlng>51.8118, 19.62822</latlng><geoID>7532631 </geoID>
+T151	Location 45141 45150	Pabianice
+#151	AnnotatorNotes T151	<latlng>51.67743, 19.23782</latlng><geoID>7531021 </geoID>
+T152	Location 45174 45181	Boginia
+#152	AnnotatorNotes T152	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T153	Location 45200 45206	Chmiel
+#153	AnnotatorNotes T153	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T154	Location 45243 45247;45248 45257	Huta Dłutowska
+#154	AnnotatorNotes T154	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T155	Location 45276 45284	Kurowice
+#155	AnnotatorNotes T155	<latlng>51.67176, 19.68364</latlng><geoID>3094208 </geoID>
+T156	Location 45314 45323	Nowosolna
+#156	AnnotatorNotes T156	<latlng>51.8118, 19.62822</latlng><geoID>7532631 </geoID>
+T157	Location 45349 45355	Chmiel
+#157	AnnotatorNotes T157	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T158	Location 45403 45410	Boginia
+#158	AnnotatorNotes T158	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T159	Location 45425 45433	Chojnowo
+#159	AnnotatorNotes T159	<latlng>53.36397, 22.65123</latlng><geoID>774426 </geoID>
+T160	Location 45443 45447;45448 45457	Huta Dłutowska
+#160	AnnotatorNotes T160	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T161	Location 45724 45732	Kurowice
+#161	AnnotatorNotes T161	<latlng>51.67176, 19.68364</latlng><geoID>3094208 </geoID>
+T162	Location 45761 45770	Pabianice
+#162	AnnotatorNotes T162	<latlng>51.67743, 19.23782</latlng><geoID>7531021 </geoID>
+T163	Location 45795 45802	Boginia
+#163	AnnotatorNotes T163	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T164	Location 45835 45839;45840 45849	Huta Dłutowska
+#164	AnnotatorNotes T164	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T165	Location 45911 45915	ŁódŸ
+#165	AnnotatorNotes T165	<latlng>51.75, 19.46667</latlng><geoID>3093133 </geoID>
+T166	Location 45925 45936	Pawlikowice
+#166	AnnotatorNotes T166	<latlng>51.61319, 19.35528</latlng><geoID>3089351</geoID>
+T167	Location 45946 45955	Rożniatów
+#167	AnnotatorNotes T167	<latlng>52.04626, 18.82971</latlng><geoID>3086878</geoID>
+T168	Location 45965 45972	Wiączyń
+#168	AnnotatorNotes T168	<latlng>51.76703, 19.61758</latlng><geoID>3082426 </geoID>
+T169	Location 46014 46021	Boginia
+#169	AnnotatorNotes T169	<latlng>51.84342, 19.62676</latlng><geoID>3103079 </geoID>
+T170	Location 46051 46059	Bronisin
+#170	AnnotatorNotes T170	<latlng>51.68333, 19.53333</latlng><geoID>3102579 </geoID>
+T171	Location 45812 45820	Brosinin
+#171	AnnotatorNotes T171	<latlng>51.68333, 19.53333</latlng><geoID>3102579 </geoID>
+T172	Location 46090 46096	Chmiel
+#172	AnnotatorNotes T172	<latlng>49.2223, 22.60265</latlng><geoID>774525 </geoID>
+T173	Location 46127 46135	Chojnowo
+#173	AnnotatorNotes T173	<latlng>53.36397, 22.65123</latlng><geoID>774426 </geoID>
+T174	Location 46166 46170;46171 46180	Huta Dłutowska
+#174	AnnotatorNotes T174	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T175	Location 46210 46214	Jura
+#175	AnnotatorNotes T175	<latlng>50.75, 19.5</latlng><geoID>3094797 </geoID>
+T176	Location 46243 46251	Kurowice
+#176	AnnotatorNotes T176	<latlng>51.67176, 19.68364</latlng><geoID>3094208 </geoID>
+T177	Location 46282 46286	ŁódŸ
+#177	AnnotatorNotes T177	<latlng>51.75, 19.46667</latlng><geoID>3093133 </geoID>
+T178	Location 46317 46326	Nowosolna
+#178	AnnotatorNotes T178	<latlng>51.8118, 19.62822</latlng><geoID>7532631 </geoID>
+T179	Location 46357 46366	Pabianice
+#179	AnnotatorNotes T179	<latlng>51.67743, 19.23782</latlng><geoID>7531021 </geoID>
+T180	Location 46396 46407	Pawlikowice
+#180	AnnotatorNotes T180	<latlng>51.61319, 19.35528</latlng><geoID>3089351</geoID>
+T181	Location 46437 46446	Rożniatów
+#181	AnnotatorNotes T181	<latlng>52.04626, 18.82971</latlng><geoID>3086878</geoID>
+T182	Location 46471 46478	Wiączyń
+#182	AnnotatorNotes T182	<latlng>51.76703, 19.61758</latlng><geoID>3082426 </geoID>
+T183	Location 48902 48906;48907 48916	Huta Dłutowska
+#183	AnnotatorNotes T183	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T184	Location 49138 49142;49143 49152	Huta Dłutowska
+#184	AnnotatorNotes T184	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T185	Location 49869 49873;49874 49883	Huta Dłutowska
+#185	AnnotatorNotes T185	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID>
+T186	Location 1928 1942	Huta Dłutowska
+#186	AnnotatorNotes T186	<latlng>51.59382, 19.38418</latlng><geoID>3097951 </geoID> 
+T187	Location 2435 2441	Europe
+#187	AnnotatorNotes T187	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID> 
+T188	Location 22481 22487	Africa
+#188	AnnotatorNotes T188	<latlng>7.1881, 21.09375</latlng><geoID>6255146 </geoID> <pop>1031833000</pop>
+T189	Location 22554 22558	Asia
+#189	AnnotatorNotes T189	<latlng>29.84064, 89.29688</latlng><geoID>6255147 </geoID> <pop>3812366000</pop>
+T190	Location 22877 22881	Asia
+#190	AnnotatorNotes T190	<latlng>29.84064, 89.29688</latlng><geoID>6255147 </geoID> <pop>3812366000</pop>
+T203	Location 23445 23451	Europe
+#191	AnnotatorNotes T203	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T204	Location 5457 5463	Europe
+#192	AnnotatorNotes T204	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T205	Location 5950 5956	Europe
+#193	AnnotatorNotes T205	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T206	Location 5468 5472	Asia
+#194	AnnotatorNotes T206	<latlng> 29.84064, 89.29688 </latlng><geoID>6255147 </geoID> <pop> 3812366000 </pop>
+T207	Location 15181 15194	North America
+#195	AnnotatorNotes T207	<latlng>47.07323, -100.54688</latlng><geoID>6255149 </geoID> 
+T208	Location 18718 18724	Europe
+#196	AnnotatorNotes T208	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID> 
+T209	Location 19267 19275	Bronisin
+#197	AnnotatorNotes T209	<latlng>51.68333, 19.53333</latlng><geoID>3102579 </geoID>

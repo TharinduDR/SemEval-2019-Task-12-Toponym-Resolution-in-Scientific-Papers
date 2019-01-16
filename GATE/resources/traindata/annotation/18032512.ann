@@ -1,0 +1,36 @@
+T34	Location 2643 2652	Hong Kong
+#34	AnnotatorNotes T34	<latlng>22.25, 114.16667</latlng><geoID>1819730</geoID>
+T36	Location 2967 2971	Asia
+#36	AnnotatorNotes T36	<latlng>29.84064,89.29688</latlng><pop>3812366000</pop><geoID>6255147</geoID>
+T37	Location 2973 2979	Europe
+#37	AnnotatorNotes T37	<latlng>48.69096,9.14062</latlng><pop>0</pop><geoID>6255148</geoID>
+T38	Location 2985 2991	Africa
+#38	AnnotatorNotes T38	<latlng>7.1881,21.09375</latlng><pop>0</pop><geoID>6255146</geoID>
+T47	Location 7524 7531	Guangxi
+#47	AnnotatorNotes T47	<latlng>24.0,109.0</latlng><pop>48160000</pop><geoID>1809867</geoID>
+T48	Location 7544 7549	China
+#48	AnnotatorNotes T48	<latlng>35,105</latlng><geoID>1814991</geoID>
+T68	Location 15601 15609	La Jolla
+#68	AnnotatorNotes T68	<latlng>32.84727,-117.2742</latlng><pop>42808</pop><geoID>5363943</geoID>
+T69	Location 15612 15614	CA
+#69	AnnotatorNotes T69	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T70	Location 16754 16761	Guangxi
+#70	AnnotatorNotes T70	<latlng>24.0,109.0</latlng><pop>48160000</pop><geoID>1809867</geoID>
+T71	Location 16774 16779	China
+#71	AnnotatorNotes T71	<latlng>35,105</latlng><geoID>1814991</geoID>
+T1	Protein 1 8	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 173 182	Reserved.
+#2	AnnotatorNotes T2	END
+T3	Protein 304 311	Peirong
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1105 1109	2007
+#4	AnnotatorNotes T4	END
+T5	Protein 5693 5694	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5966 5970	1146
+#6	AnnotatorNotes T6	END
+T8	Protein 45858 45861	VOL
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 54461 54466	VIROL
+#9	AnnotatorNotes T9	END

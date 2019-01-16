@@ -1,0 +1,54 @@
+T37	Location 2813 2819	Quebec
+#37	AnnotatorNotes T37	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T38	Location 2822 2828	Canada
+#38	AnnotatorNotes T38	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T43	Location 4611 4617	Quebec
+#43	AnnotatorNotes T43	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T44	Location 4619 4625	Canada
+#44	AnnotatorNotes T44	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T45	Location 5824 5835	Mississauga
+#45	AnnotatorNotes T45	<latlng>43.5789,-79.6583</latlng><pop>668549</pop><geoID>6075357</geoID>
+T46	Location 5837 5844	Ontario
+#46	AnnotatorNotes T46	<latlng>49.25014,-84.49983</latlng><pop>12861940</pop><geoID>6093943</geoID>
+T47	Location 5846 5852	Canada
+#47	AnnotatorNotes T47	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T52	Location 6586 6594	Auckland
+#52	AnnotatorNotes T52	<latlng>-36.86667,174.76667</latlng><pop>417910</pop><geoID>2193733</geoID>
+T65	Location 9542 9548	Quebec
+#65	AnnotatorNotes T65	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T74	Location 11776 11782	Canada
+#74	AnnotatorNotes T74	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T80	Location 13937 13943	Canada
+#80	AnnotatorNotes T80	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T81	Location 14004 14010	Canada
+#81	AnnotatorNotes T81	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T82	Location 14093 14099	Canada
+#82	AnnotatorNotes T82	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T85	Location 15164 15177	United States
+#85	AnnotatorNotes T85	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T87	Location 16027 16033	Quebec
+#87	AnnotatorNotes T87	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T90	Location 16723 16729	Canada
+#90	AnnotatorNotes T90	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T91	Location 18779 18792	United States
+#91	AnnotatorNotes T91	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T6	Location 6510 6518	Carlsbad
+#6	AnnotatorNotes T6	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T7	Location 6520 6522	CA
+#7	AnnotatorNotes T7	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T1	Protein 1 10	Published
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 1258 1259	.
+#2	AnnotatorNotes T2	END
+T3	Protein 1400 1406	Donald
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 2071 2075	2011
+#4	AnnotatorNotes T4	END
+T8	Protein 6601 6602	*
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 6985 6989	from
+#9	AnnotatorNotes T9	END
+T11	Protein 21178 21181	VOL
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 25459 25463	from
+#12	AnnotatorNotes T12	END

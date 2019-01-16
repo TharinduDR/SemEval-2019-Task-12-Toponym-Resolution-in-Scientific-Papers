@@ -1,0 +1,723 @@
+Molecular epidemiology of rabies in northern Colombia
+1994–2003. Evidence for human and fox rabies associated
+with dogs
+A. PÁEZ1,2
+*, C. SAAD1
+, C. NÚÑEZ3
+AND J. BÓSHELL1
+1
+Laboratorio de Virologı´a, Instituto Nacional de Salud (INS), Bogotá, Colombia
+2
+Departamento de Ciencias Básicas, Universidad de La Salle, Bogotá, Colombia
+3
+Laboratorio de Virologı´a, Universidad del Valle, Cali, Colombia
+(Accepted 24 November 2004)
+SUMMARY
+During the period 2000–2003, wild grey foxes (Urocyon cinereoargenteus) in northern Colombia
+became infected with rabies. In order to derive phylogenetic relationships between rabies viruses
+isolated in foxes, dogs and humans in this region, 902 nt cDNA fragments containing the G–L
+intergenic region and encoding the cytoplasmic domain of protein G and a fragment of protein L
+were obtained by RT–PCR, sequenced and compared. Phylogenetic analysis showed that rabies
+viruses isolated in foxes, dogs and humans belonged to a single genetic variant. Speculative
+analysis together with epidemiological data indicated that rabies in foxes may have been due to
+contact with rabid dogs. Rabies transmission between dogs, wild foxes and humans may happen
+in natural conditions in northern Colombia. This ﬁnding is the ﬁrst to suggest dog-to-fox rabies
+transmission in South America, and provides another example of dog rabies variants being able
+to successfully colonize wildlife hosts.
+INTRODUCTION
+Rabies is caused by highly neurotropic viruses of the
+genus Lyssavirus family Rhabdoviridae [1]. Rabies
+virus reservoirs belong to mainly Carnivora and
+Chiroptera species that may transmit the disease to
+cul-de-sac mammals including humans. Urban and
+sylvatic rabies is an important public health and
+economic problem in most Latin-American countries.
+In Colombia, rabies has historically occurred in two
+major epidemiological forms: urban rabies with the
+domestic dog as the main reservoir and transmitter of
+the disease to humans, and sylvatic rabies with bats
+as the main reservoirs and transmitters of the disease
+mainly to cows and horses [2, 3]. Since the early 1990s,
+urban rabies has been endemic in dogs in northern
+Colombia. All urban rabies viruses in that region
+belong to a single genetic variant (Colombian gen-
+etic variant II), with no other genetic variant being
+transmitted [4]. Lately, during the period 2000–2003,
+20 grey foxes of the species Urocyon cinereoargenteus
+Schreber, 1775 [5] (Fig. 1) in northern Colombia have
+been diagnosed with rabies, and these may provide
+a threat to public health in this region, due to the
+frequent contact with farmers and animals such as
+dogs, cats and cattle. There is currently no control
+strategy for rabies in Colombian foxes. The number
+of rabid foxes living in the region is unknown.
+The aim of this study was to derive phylogenetic
+relationships between rabies viruses isolated in foxes
+and dogs in northern Colombia. These aspects of the
+epidemiology are important for understanding the
+dynamics of rabies between urban and wild ecosys-
+tems and are crucial in designing strategies for the
+control of the disease. The study is the continuation of
+a previous one which focused on the epidemiology
+* Author for correspondence: Dr A. Páez, Laboratorio de
+Virologı́a, Instituto Nacional de Salud (INS), Av. El Dorado Cra 50
+CAN, Bogotá, DC, Colombia.
+(Email: apaezm@ins.gov.co)
+Epidemiol. Infect. (2005), 133, 529–536. f 2005 Cambridge University Press
+doi:10.1017/S0950268805003699 Printed in the United Kingdom
+of rabies in dogs and humans in three rabies endemic
+areas in Colombia [4]. The major contribution of this
+paper apart from analysing a larger set of rabies iso-
+lates, is the identiﬁcation of Urocyon cinereoargenteus
+as having a potentially important role in the complex
+epidemiology of rabies in the only region in Colombia
+in which rabies is endemic.
+METHODS
+Viruses
+This study included 85 rabies isolates, 45 of which had
+been previously analysed [4]: 59 were from dogs, 20
+from grey foxes (Urocyon cinereoargenteus) and six
+from humans, collected between August 1994 and
+April 2003 in northern Colombia. Rabies diagnosis
+was by virus isolation in Institute of Cancer Research
+(ICR) mice [6] and immunoﬂuorescence assays using
+speciﬁc antibodies. Rabies isolates were stored at
+x80 xC in the form of frozen mouse brain material.
+Antigenic analysis
+Antigenic characterization was performed by indirect
+immunoﬂuorescence of acetone-ﬁxed impressions of
+rabies-infected brain material as described previously
+[7], using a panel of eight monoclonal antibodies
+produced against the rabies nucleoprotein at the
+Centers for Disease Control (CDC, Atlanta, GA,
+USA).
+RNA extraction and PCR
+RNA was extracted as previously described [8].
+Brieﬂy, 100 mg frozen mouse brain-passaged ma-
+terial was dissolved in 0.75 ml Trizol (Gibco-BRL;
+Gaithersburg, MD, USA) and extracted once with
+0.25 ml chloroform. Total RNA was precipitated
+with one volume of 100% iso-propyl alcohol, washed
+with 70% ethanol and made up to 50 ml with 1%
+diethyl-pyrocarbonate (DEPC) in double-distilled
+water. An oligonucleotide primer pair (designed G–L)
+[9, 10] was used to amplify a 902-nt fragment that
+contains the region coding for the cytoplasmic do-
+main of the glycoprotein (amino acids 447–525 of the
+native glycoprotein), and for amino acids 1–35 of
+protein L. The PCR fragment also contains the
+pseudogene Psi [11]. The positive strand primer G of
+sequence 5k-GACTTGGGTCTCCCAACTGGGG-3k
+primes the polymerase reaction at position 4665–4687
+of the rabies genome. The negative strand primer L
+of sequence 5k-CAAAGGAGAGTTGAGATTGT-
+AGTC-3k at position 5543–5566 according to the
+Colombia
+(a) (b)
+Venezuela
+Panama
+Caribbean Sea
+Pacific Ocean
+Fig. 1. Urocyon cinereoargenteus [inset (a)] and its geographical distribution in northern South America [5]. Inset (b) is an
+original photograph taken in the Rabies section of the Laboratory of Virology at Instituto Nacional de Salud in Bogotá,
+Colombia.
+530 A. Páez and others
+numbering of the published Pasteur virus (PV)
+sequence [9, 12–14]. Total brain RNA was hybridized
+with the G primer (150 ng) at 65 xC for 2 min and
+reverse transcribed at 42 xC for 90 min in a total vol-
+ume of 10 ml [9]. Ampliﬁcation using the G–L primer
+set was carried out using 2 ml of the cDNA reaction
+mixture in a total volume of 50 ml employing a
+Thermal Cycler (PerkinElmer; Foster City, CA,
+USA) and using conditions similar to those described
+previously [14].
+DNA sequencing and phylogenetic analysis
+Direct sequencing of gel-puriﬁed PCR products was
+performed using the G–L primer set in an automatic
+sequencing apparatus (ABI Prism 310, Applied
+Biosystems; Foster City, CA, USA). DNA sequence
+analysis and the construction of phylogenetic trees
+were performed using the ClustalX package [15], the
+PHYLIP 3.52 package [16], and the TREEVIEW program
+(University of Glasgow, UK). For construction of
+phylogenetic trees the neighbour-joining method [17]
+was used combined with 500 bootstrap resampling,
+a statistical method that calculates conﬁdence limits
+with respect to the phylogenetic tree [18].
+RESULTS
+The geographical origin of the 85 rabies virus strains
+is shown in Figure 2 and epidemiological information
+is given in Table 1. Diﬀerential reaction with mono-
+clonal antibodies identiﬁed two antigenic variants of
+rabies viruses in the study sample (Tables 1 and 2).
+Antigenic variant 1 which is associated with rabies
+in Latin American dogs was found in all samples
+of viruses isolated from grey foxes, in all samples of
+viruses isolated from dogs with only one exception
+(isolate C27/97) and in all viruses isolated from
+humans with only one exception (H03/97) (Tables 1
+and 2). Antigenic variant 4 which is associated with
+A
+C38/97
+C39/97
+C44/97
+C35/98
+C33/97
+C36/97
+C37/98
+C38/98
+C48/98
+H05/98
+C39/98
+C46/99
+C34/97
+C43/98
+C52/98
+C40/97
+C42/97
+C41/98
+C42/98
+C50/98
+C43/97
+C40/98
+C51/98
+C46/98
+C49/98
+C44/98
+C63/02
+C64/03
+H02/95
+C12/95
+C19/96
+C25/97
+C41/97
+C45/98
+C11/95
+C58/01
+C50/99
+C56/00
+F10/01
+C57/01
+H01/94
+C27/97 C32/97
+C59/01
+C47/99
+F04/00
+H06/99
+C60/01
+C62/02
+F17/02
+C58/00
+C65/03
+C66/03
+F01/00
+F06/00
+F09/00
+F12/01
+F13/01
+F03/00
+F11/01
+C49/99
+C47/98
+C48/99
+C52/99
+C54/99
+C54/00
+C57/00
+C61/01
+C53/99
+H04/97
+C28/97
+C29/97
+F15/02
+F20/03
+H03/97
+0 25 km
+F05/00
+F08/00
+C51/99
+C55/00 F02/00
+F16/02
+F07/00
+F18/02
+F19/02
+Cesar
+Norte de
+Santander
+Magdalena
+Bolívar
+Sucre
+Córdoba
+Caribbean Sea
+Colombia
+Atlántico
+La Guajira
+F14/02
+0 200 km
+Fig. 2. Map of northern Colombia showing the geographical sources of rabies strains. Symbols identify host species and
+rabies virus variants. For clarity, the preﬁxes C (canid dog), H (human) and F (fox Urocyon cinereoargenteus Schreber 1775)
+were added to the isolate numbers. Numbers following a solidus indicate the year of isolation. $, Dog isolates; #, fox
+isolates; &, human isolates; , bat rabies variants.
+Molecular epidemiology of rabies in Colombia 531
+Table 1. Epidemiological information for 85 Colombian rabies virus isolates
+Genbank numbers
+Isolate
+Geographical origin
+(town, department) Host
+Antigenic
+variant
+Isolation
+date Region G Region Psi-L
+H01/94 Valledupar, Cesar Human 1 Aug. 1994 AY189321 AY192402
+H02/95 Sincelejo, Sucre Human 1 July 1995 AY191595 AF269291
+C11/95 Sta. Rosa, Bolı́var Dog 1 Oct. 1995 AY189332 AF269292
+C12/95 Cartagena, Bolı́var Dog 1 Nov. 1995 AY189333 AY192378
+C19/96 Cartagena, Bolı́var Dog 1 June 1996 AY191599 AF189349
+C25/97 Cartagena, Bolı́var Dog 1 Feb. 1997 AY189343 AY192384
+C27/97 Valledupar, Cesar Dog 4 Feb. 1997 AY191603 AY192414
+C28/97 Carmen, Bolı́var Dog 1 Feb. 1997 AY189346 AF189350
+C29/97 El Carmen, Bolı́var Dog 1 Feb. 1997 AY189347 AF189352
+H03/97 Pto. Rico, Bolı́var Human 4 Aug. 1997 AY191600 AF189363
+C32/97 Valledupar, Cesar Dog 1 Aug. 1997 AY189348 AY192413
+C33/97 Cereté, Córdoba Dog 1 Sept. 1997 AY189349 AF189346
+C34/97 C. de Oro, Córdoba Dog 1 Sept. 1997 AY189350 AY192383
+H04/97 Sn Jacinto, Bolı́var Human 1 Oct. 1997 AY191596 AF276903
+C35/97 Monterı́a, Córdoba Dog 1 Oct. 1997 AY189351 AY192371
+H05/97 Monterı́a, Córdoba Human 1 Oct. 1997 AY191597 AY192400
+C36/97 Cereté, Córdoba Dog 1 Oct. 1997 AY189352 AF189353
+C37/97 Cereté, Córdoba Dog 1 Nov. 1997 AY189353 AF189347
+C38/97 Monterı́a, Córdoba Dog 1 Sept. 1997 AY649889 AY649923
+C39/97 Monterı́a, Córdoba Dog 1 Oct. 1997 AY649890 AY649924
+C40/97 San Antero, Córdoba Dog 1 Oct. 1997 AY649888 AY649922
+C41/97 Cartagena, Bolı́var Dog 1 Oct. 1997 AY649884 AY649919
+C42/97 San Antero, Córdoba Dog 1 Nov. 1997 AY649880 AY649915
+C43/97 Momil, Córdoba Dog 1 Nov. 1997 AY649892 AY649927
+C44/97 Monterı́a, Córdoba Dog 1 Dec. 1997 AY649891 AY649926
+C38/98 Monterı́a, Córdoba Dog 1 Jan. 1998 AY189354 AY192403
+C39/98 Cereté, Córdoba Dog 1 Jan. 1998 AY189355 AY192401
+C40/98 Momil, Córdoba Dog 1 Feb. 1998 AY189356 AY192404
+C41/98 Purı́sima, Córdoba Dog 1 June 1998 AY189357 AY192372
+C42/98 Purı́sima, Córdoba Dog 1 June 1998 AY189358 AY192382
+C43/98 Lorı́ca, Córdoba Dog 1 July 1998 AY189359 AF189344
+C44/98 Aserradero, Córdoba Dog 1 Apr. 1998 AY189360 AY192415
+C46/98 Sahagun, Córdoba Dog 1 Apr. 1998 AY649893 AY649928
+C47/98 Malagana, Bolı́var Dog 1 May 1998 AY649887 AY649925
+C48/98 Monterı́a, Córdoba Dog 1 May 1998 AY649881 AY649917
+C49/98 Sabaneta, Córdoba Dog 1 May 1998 AY649882 AY649918
+C50/98 Purı́sima, Córdoba Dog 1 June 1998 AY649885 AY649920
+C51/98 Momil, Córdoba Dog 1 June 1998 AY649883 AY649916
+C45/98 Cartagena, Bolı́var Dog 1 Oct. 1998 AY189361 AF189348
+C52/98 San Andrés, Córdoba Dog 1 Oct. 1998 AY649886 AY649921
+C46/99 Cereté, Córdoba Dog 1 Feb. 1999 AY189362 AY192387
+H06/99 Ciénaga, Magdalena Human 1 Feb. 1999 AY191594 AY192399
+C54/99 Barranquilla, Atlántico Dog 1 June 1999 AY649879 AY649914
+C47/99 Sevilla, Magdalena Dog 1 Aug. 1999 AY189363 AF271109
+C48/99 Barranca Nva., Bolı́var Dog 1 Aug. 1999 AY189364 AF271111
+C49/99 Estanislao, Bolı́var Dog 1 Aug. 1999 AY189367 AY192388
+C50/99 Malambó, Atlántico Dog 1 Aug. 1999 AY189368 AY192389
+C51/99 Retén, Magdalena Dog 1 Aug. 1999 AY189365 AF271112
+C52/99 Barranquilla, Atlántico Dog 1 Sept. 1999 AY189369 AF271113
+C53/99 Sn. Juan, Bolı́var Dog 1 Sept. 1999 AY189370 AY192406
+C54/00 Barranquilla, Atlántico Dog 1 Jan. 2000 AY189366 AY192405
+C55/00 Retén, Magdalena Dog 1 Jan. 2000 AY189371 AY192390
+C56/00 Pto. Colombia, Atlántico Dog 1 Jan. 2000 AY189372 AY192377
+C57/00 Barranquilla, Atlantico Dog 1 Apr. 2000 AY649877 AY649932
+532 A. Páez and others
+frugivorous and insectivorous bats was found in two
+samples C27/97 isolated from a dog and one virus
+(H03/97) isolated from a human being (Tables 1
+and 2).
+Figure 3 shows the outcome of phylogentic analysis
+of the aligned G and Psi-L nucleotide sequences,
+which also showed the isolates to fall into two separ-
+ate groups. The ﬁrst group consisted of 83 strains
+(ﬁve isolated from humans in August 1994–February
+1999, 20 from grey foxes in June 2000–December
+2002, and 58 from dogs in July 1995–April 2003).
+The average nucleotide similarity among viruses of
+this group was 98.5%, which indicates that these
+are closely related. Prototype sequences for this
+ﬁrst group of rabies strains are identical to those
+for rabies strains that belong to Colombian genetic
+variant II [4], indicating that those reported here
+can be included into that variant too. The second
+group of rabies viruses consisted of two strains (H03/
+97 and C27/97) isolated in 1997 from a human and
+a dog respectively. According to a previously pub-
+lished study [4] H03/97 and C27/97 are bat rabies
+variants.
+DISCUSSION
+During the 1990s urban rabies transmitted among
+dogs spread over approximately 40 000 km2
+in
+northern Colombia [4]. In the period January 1992
+to December 2003, 725 total cases of urban rabies
+Table 1 (cont.)
+Genbank numbers
+Isolate
+Geographical origin
+(town, department) Host
+Antigenic
+variant
+Isolation
+date Region G Region Psi-L
+F01/00 Manatı́, Atlántico U. cinereoargenteus 1 June 2000 AY649894 AY649933
+F02/00 Aracataca, Magdalena U. cinereoargenteus 1 Aug. 2000 AY649895 AY649934
+F03/00 Polo Nuevo, Atlántico U. cinereoargenteus 1 Sept. 2000 AY649896 AY649935
+F04/00 Zona Bananera, Magdalena U. cinereoargenteus 1 Oct. 2000 AY649897 AY649936
+F05/00 Santo Tomas, Atlántico U. cinereoargenteus 1 Oct. 2000 AY649898 AY649937
+C58/00 Pivijay, Magdalena Dog 1 Oct. 2000 AY649878 AY649931
+F06/00 Campo de la Cruz, Atlántico U. cinereoargenteus 1 Nov. 2000 AY649899 AY649938
+F07/00 Fundacion, Magdalena U. cinereoargenteus 1 Nov. 2000 AY649900 AY649939
+F08/00 Santo Tomas, Atlántico U. cinereoargenteus 1 Nov. 2000 AY649901 AY649940
+F09/00 Palmar de Varela, Atlántico U. cinereoargenteus 1 Nov. 2000 AY649874 AY649930
+F10/00 Ponedera, Atlántico U. cinereoargenteus 1 Dec. 2000 AY649876 AY649941
+F11/01 Polo Nuevo, Atlántico U. cinereoargenteus 1 Jan. 2001 AY649875 AY649929
+C57/01 Sierra Nevada, Magdalena Dog 1 Feb. 2001 AY189373 AY192395
+C58/01 Soledad, Atlántico Dog 1 Mar. 2001 AY189374 AY192393
+C59/01 Valledupar, Cesar Dog 1 Apr. 2001 AY189375 AY192397
+F12/01 Palmar de Varela, Atlántico U. cinereoargenteus 1 Apr. 2001 AY649902 AY649942
+F13/01 Palmar de Varela, Atlántico U. cinereoargenteus 1 Apr. 2001 AY649903 AY649943
+C60/01 Ciénaga, Magdalena Dog 1 June 2001 AY189376 AY192391
+C61/01 Barranquilla, Atlántico Dog 1 July 2001 AY191593 AY192394
+F14/01 Pivijay, Magdalena U. cinereoargenteus 1 Oct. 2001 AY649904 AY649944
+F15/01 Pinto, Magdalena U. cinereoargenteus 1 Oct. 2001 AY649905 AY649945
+C62/02 Ciénaga, Magdalena Dog 1 Mar. 2002 AY189377 AY192392
+C63/02 Sincé, Sucre Dog 1 Feb. 2002 AY191598 AY192396
+F16/02 Aracataca, Magdalena U. cinereoargenteus 1 Sept. 2002 AY649906 AY649946
+F17/02 Ciénaga, Magdalena U. cinereoargenteus 1 Nov. 2002 AY649907 AY649947
+F18/02 Fundacion, Magdalena U. cinereoargenteus 1 Dec. 2002 AY649908 AY649948
+F19/02 Fundacion, Magdalena U. cinereoargenteus 1 Dec. 2002 AY649909 AY649949
+F20/03 Pinto, Magdalena U. cinereoargenteus 1 Jan. 2003 AY649910 AY649950
+C64/03 Galeras, Sucre Dog 1 Jan. 2003 AY649911 AY649951
+C65/03 Pivijay, Magdalena Dog 1 Mar. 2003 AY649912 AY649952
+C66/03 Pivijay, Magdalena Dog 1 Apr. 2003 AY649913 AY649953
+For each of the 85 rabies virus isolates studied in this paper, the geographical origin (town and department in Colombia),
+vertebrate host, antigenic variant and date of isolation (month and year) are shown, as well as the GenBank accession
+numbers for the nucleotide sequences of regions G and Psi-L.
+Molecular epidemiology of rabies in Colombia 533
+(rabies in dogs and humans) in northern Colombia
+were reported to the Ministry of Health (700 were dog
+rabies, 25 human rabies). The great majority of these
+cases belong to antigenic variant 1 (Tables 1 and 2),
+and to a single genetic variant (Colombian genetic
+variant II) [4], with only a small proportion belonging
+Table 2. Monoclonal antibody reaction patterns of 85 Colombian rabies viruses isolated between 1994 and 2003
+Reservoir C1 C4 C9 C10 C12 C15 C18 C19 AgV* No. of isolates
+Grey fox + + + + + + x + 1 20
+Dog + + + + + + x + 1 58
+Human + + + + + + x + 1 5
+Dog x + + + + x x x 4 1
+Human x + + + + x x x 4 1
+The monoclonal antibody reaction pattern for antigenic variants 1 and 4 and the number of isolates for each vertebrate
+host are shown.
+* Antigenic variant.
+PV
+H03/97
+C27/97
+F16/02
+F08/00
+C39/97
+C50/98
+C56/00
+C54/99
+F15/02
+F05/00
+F02/00
+C52/98
+C40/98
+C42/97
+C39/98
+C34/97
+C37/97
+H04/97
+C11/95
+C64/03
+C57/00
+C52/99
+C54/00
+C57/01
+C58/00
+C60/01
+C62/02
+C32/97
+C63/02
+F07/00
+C66/03
+F17/02
+C46/98
+C38/97
+C48/98
+H02/95
+H06/99
+C47/99
+C48/99
+H01/94
+C51/99
+C12/95
+C42/98
+F06/00
+F04/00
+C38/98
+C47/98
+C59/01
+F20/03
+C25/97
+C55/00
+F01/00
+C46/99
+C44/98
+C41/98
+F12/01
+F18/02
+F13/01
+C40/97
+C51/98
+F11/01
+C50/99
+C49/99
+C53/99
+C19/96
+C29/97
+C33/97
+C36/97
+C45/98
+H05/97
+C43/98
+C58/01
+F09/00
+F10/01
+F19/02
+C65/03
+F14/02
+C35/97
+C44/97
+F03/00
+C43/97
+C41/97
+C28/97
+C49/98
+C61/01
+0·1
+Colombian
+genetic variant II
+Bat
+rabies
+variants
+100
+92
+92
+Fig. 3. Phylogenetic relationships among 85 rabies virus isolates from an outbreak in northern Colombia based on combined
+sequences of the gene encoding the G protein cytoplasmatic domain, the G–L intergenic region and a region encoding 28
+amino-terminal amino acids of the L protein. Genetic distances were measured by the Kimura two-parameter method and
+neighbour-joining analysis (500 bootstrap trials) using PHYLIP software, version 3.52. Pasteur virus was used as the outgroup.
+Numbers at nodes indicate conﬁdence limits greater than 70%.
+534 A. Páez and others
+to antigenic variant 4 associated with bat rabies
+variants (Tables 1 and 2).
+Strategies for controlling rabies in Colombia have
+been highly eﬀective in the last 6 years, having
+reduced the number of cases in dogs from 188 in 1998
+to 12 in 2003, and in humans from 6 to 0. During
+the period 2000–2003, 20 wild grey foxes in northern
+Colombia infected with rabies were diagnosed in the
+Colombian National Reference Laboratory for urban
+rabies at Instituto Nacional de Salud, in Bogotá.
+The real number of rabid foxes living in this region,
+however, remains unknown. Phylogenetic analysis
+showed that rabies viruses isolated in foxes, dogs
+and humans belong to a single genetic variant
+previously named ‘Colombian genetic variant II’ [4].
+No subvariants were deﬁned in the above variant,
+and no clear tendencies of variant subgrouping by
+geographical region, nor any obvious increase in
+rabid fox numbers as a result of adaptation of rabies
+into the fox population were seen in the study area. In
+previous studies, computational methods have been
+used to estimate nucleotide substitution rates in urban
+rabies viruses isolated in Colombia [19]. Results of
+those studies indicated that the Colombian genetic
+variant II viruses have been circulating in Colombia
+since the 1960s. Evidence of some degree of positive
+selection (an indicator of evolution) was found in
+Colombian genetic variant II viruses, however, the
+limitations of the data, including short nucleotide
+sequences, small number of taxa and small sampling
+period, were responsible for the low statistical sig-
+niﬁcance of the results in those studies.
+The data presented here taken together with epi-
+demiological surveillance with no reports of rabid
+foxes before 2000, suggests that rabies in grey foxes
+may be due to contact with rabid dogs. Our data
+are validated by continuous surveillance programmes
+performed in the study region in the 1990s and 2000s,
+with no periods of improved surveillance that could
+explain sudden changes in the frequency of rabid
+foxes reported. Although no transmission of rabies
+has been conﬁrmed from grey foxes to humans or
+dogs, this may easily happen in natural conditions in
+northern Colombia due to frequent contact of foxes
+with farmers and animals such as dogs, cats and
+cattle. Foxes may, therefore, pose a threat for public
+health in that region. Urban rabies virus in Colombia
+seems to have found a new host, and one which is
+not vulnerable to the current rabies control strategies
+in dogs used by the Ministry of Health in Colombia.
+Novel rabies control strategies need to be evaluated
+for use in Colombia, not only for wild rabid grey
+foxes but other wild carnivore species which may
+become a threat to public health.
+Due to their geographical distribution [5, 20]
+(Fig. 1), Colombian grey foxes could eventually
+spread urban rabies into both urban and wild eco-
+systems in Venezuela and Central America. The grey
+fox has been identiﬁed as a reservoir of urban and
+sylvatic rabies in the United States. Since the early
+1980s antigenic variants 1 and 7 rabies viruses cir-
+culate in grey foxes in geographically limited areas
+of Texas and Arizona respectively [21, 22]. There is
+no genetic relationship between the rabies viruses
+isolated from grey foxes in Colombia and Arizona: in
+fact these two groups of viruses belong to two distinct
+antigenic variants.
+The data presented here are the ﬁrst that report
+grey foxes as reservoirs of urban rabies in South
+America, pointing to this species as a direct threat to
+human health and showing the spread of urban rabies
+to the wild. Previous studies have also shown that
+wildlife hosts can be successfully colonized by dog
+rabies variants. Perhaps the most widely known
+examples are the cases in Europe where rabies prob-
+ably jumped from domestic dogs to foxes and to rac-
+coon dogs [23], and the United States where evidence
+indicates that a dog rabies variant jumped to skunks
+in the northeastern region of the country [24]. Other
+spillover events of rabies from dogs to wildlife
+species have been observed in Southern Africa [25,
+26], Turkey [27] and Puerto Rico [28] among others.
+On the other hand, wildlife rabies variants can also
+be transmitted to unvaccinated dogs, thus entering
+urban environments, as has been observed in the
+former Yugoslavia [29].
+ACKNOWLEDGEMENTS
+This work was supported by Instituto Nacional
+de Salud at Bogotá, Colombia, the Ministry of
+Health of Colombia (contract 689-1999), Saldarriaga
+Concha Fundation and Banco de la Republica of
+Colombia (contract 200005). The authors of this
+paper thank Dr Alberto Cadena at Laboratorio
+de Mamı́feros, Instituto de Ciencias Naturales,
+Universidad Nacional de Colombia, for invaluable
+collaboration and comments on the manuscript. The
+authors also thank Dr Carlos Hernandez and Gabriel
+Perdomo at Instituto Nacional de Salud Bogotá,
+Colombia, for the production of the ﬁgures in this
+paper.
+Molecular epidemiology of rabies in Colombia 535
+REFERENCES
+1. Tordo N, Charlton K, Wandeler A. Rhabdoviruses:
+rabies. In: Collier LH, ed. Topley & Wilson’s micro-
+biology and microbial infections. Arnold: London,
+1998: 666–692.
+2. Ministry of Health of Colombia, National Institute of
+Health of Colombia. Rabies. A series of technical notes
+and reports, 5th edn, 1995 [in Spanish].
+3. Rico A, Dı́az A, Rico E. Informe de la rabia urbana
+en Colombia, 1996–2001. Programa de Zoonosis.
+Ministerio de Salud de la República de Colombia, 2001.
+4. Páez A, Nuñez C, Garcı́a C, Bóshell J. Molecular epi-
+demiology of rabies epizootics in Colombia: evidence
+for human and dog rabies associated with bats. J Gen
+Virol 2003; 84: 795–802.
+5. Eisenberg JF. Mammals of the neotropics. The north-
+ern tropics, vol. 1. University of Chicago Press, 1989:
+262–289.
+6. Koprowski H. Laboratory techniques in rabies. Mouse
+inoculation test. Monogr Ser World Health Organ
+1966; 23: 69–80.
+7. Dı́az AM, Papo S, Rodrı́guez A, Smith JS. Antigenic
+analysis of rabies virus isolates from Latin America
+and the Caribbean. Zentralbl Veterinarmed (B) 1994;
+41: 153–160.
+8. Páez A, Garcı́a C, Bóshell J. Standardization of rabies
+virus genome ampliﬁcation for its use in molecular
+epidemiology studies [in Spanish]. Biomédica 2002; 22:
+71–76.
+9. Sacramento D, Bourhy H, Tordo N. PCR technique as
+an alternative method for diagnosis and molecular
+epidemiology of rabies virus. Mol Cell Probes 1991; 5:
+229–240.
+10. Sacramento D, Badrane H, Bourhy H, Tordo N.
+Molecular epidemiology of rabies virus in France:
+comparison with vaccine strains. J Gen Virol 1992; 73:
+1149–1158.
+11. Tordo N, Poch O, Ermine A, Keith G, Rougeon F.
+Walking along the rabies genome: is the large G–L
+intergenic region a remnant gene? Proc Natl Acad Sci
+USA 1986; 83: 3914–3918.
+12. Tordo N, Poch O, Ermine A, Keith G, Rougeon F.
+Completion of the rabies virus genome sequence deter-
+mination: highly conserved domains among the L
+(polymerase) proteins of unsegmented negative-strand
+RNA viruses. Virology 1988; 165: 565–576.
+13. Tordo N, Kouknetzoﬀ A. The rabies virus genome: an
+overview. Onderstepoort J Vet Res 1994; 67: 45–49.
+14. von Teichman BF, Thomson GR, Meredith CD, Nel LH.
+Molecular epidemiology of rabies virus in South Africa:
+evidence for two distinct virus groups. J Gen Virol
+1995; 76: 73–82.
+15. Thompson JD, Gibson TJ, Plewniak F, Jeanmougin F,
+Higgins DG. The ClustalX windows interface: ﬂexible
+strategies for multiple sequence alignment aided by
+quality analysis tools. Nucl Acids Res 1997; 24:
+4876–4882.
+16. Felsenstein J. PHYLIP: phylogeny inference package
+3.52c. Washington: University of Washington, 1993.
+17. Saitou N, Nei M. The neighbor-joining method: a new
+method for reconstructing phylogenetic trees. Mol Biol
+Evol 1987; 4: 406–425.
+18. Nei M. Relative eﬃciencies of diﬀerent tree-making
+methods for molecular data. In: Miyamoto MM,
+Cracraft J, eds. Phylogenetic analysis of DNA se-
+quences. New York, 1992: 90–129.
+19. Hughes GJ, Páez A, Bóshell J, Rupprecht CE. A
+phylogenetic reconstruction of the epidemiological
+history of canine rabies virus variants in Colombia.
+Infect Gen Evol 2004; 4: 45–51.
+20. Bisbal F. New records of the distribution of foxes
+Urocyon cinereoargentus venezuelae (Mammalia, Carni-
+vora) [in Spanish]. Acta Cient Venez 1982; 33: 255–257.
+21. De Mattos C, De Mattos C, Loza-Rubio E, Aguilar-
+Setién A, Orciari L, Smith J. Molecular characteriza-
+tion of rabies virus isolates from Mexico: implications
+for transmission dynamics and human risk. Am J Trop
+Med Hyg 1999; 61: 587–597.
+22. Krebs JW, Wheeling JT, Childs JE. Rabies surveillance
+in the United States during 2002. J Am Vet Med Assoc
+2003; 223: 1736–1748.
+23. Bourhy H, Kissi B, Audry L, et al. Ecology and evol-
+ution of rabies virus in Europe. J Gen Virol 1999; 80:
+2545–2557.
+24. Guerra MA, Curns AT, Rupprecht CE, Hanlon CA,
+Krebs JW, Childs JE. Skunk and raccoon rabies in the
+eastern United States: temporal and spatial analysis.
+Emerg Infect Dis 2003; 9: 1143–1150.
+25. Nel L, Jacobs J, Jaftha J, Courteney M. Natural spil-
+lover of a distinctly Canidae-associated biotype of
+rabies virus into an expanded wildlife host range in
+southern Africa. Virus Genes 1997; 15: 79–82.
+26. Sabeta CT, Bingham J, Nel LH. Molecular epi-
+demiology of canid rabies in Zimbabwe and South
+Africa. Virus Res 2003; 91: 203–211.
+27. Johnson N, Black C, Smith J, et al. Rabies emerg-
+ence among foxes in Turkey. J Wildl Dis 2003; 39:
+262–270.
+28. Krebs JW, Williams SM, Smith JS, Rupprecht CE,
+Childs JE. Rabies among infrequently reported mam-
+malian carnivores in the United States, 1960–2000.
+J Wildl Dis 2003; 39: 253–261.
+29. Stankov S. Typing of ﬁeld rabies virus strains in FR
+Yugoslavia by limited sequence analysis and mono-
+clonal antibodies. Med Pregl 2001; 54: 446–452.
+536 A. Páez and others

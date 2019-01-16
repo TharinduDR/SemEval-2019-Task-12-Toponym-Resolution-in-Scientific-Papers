@@ -1,0 +1,1570 @@
+Co-circulation of Soricid- and Talpid-borne Hantaviruses in
+Poland
+Se Hun Gua, Janusz Hejdukb, Janusz Markowskib, Hae Ji Kanga, Marcin Markowskic,
+Małgorzata Połatyńskad, Beata Sikorskae, Paweł P. Liberskie, and Richard Yanagiharaa,*
+aDepartments of Pediatrics and Tropical Medicine, Medical Microbiology and Pharmacology, John
+A. Burns School of Medicine, University of Hawaii at Manoa, Honolulu, Hawaii, USA bDepartment
+of Teacher Training and Biodiversity Studies, Faculty of Biology and Environmental Protection,
+University of ŁódŸ, S. Banacha Street 1/3, 90-237 ŁódŸ, Poland cDepartment of Experimental
+Zoology and Evolutionary Biology, Faculty of Biology and Environmental Protection, University of
+ŁódŸ, Banacha 12/16, 90-237 ŁódŸ, Poland dDepartment of Algology and Mycology, University of
+ŁódŸ, Banacha 12/16, 90-237 ŁódŸ, Poland eDepartment of Molecular Pathology and
+Neuropathology, Medical University of ŁódŸ, Czechoslowacka Street 8/10, 92-216 ŁódŸ, Poland
+Abstract
+Previously, we reported the discovery of a genetically distinct hantavirus, designated Boginia
+virus (BOGV), in the Eurasian water shrew (Neomys fodiens), as well as the detection of Seewis
+virus (SWSV) in the Eurasian common shrew (Sorex araneus), in central Poland. In this expanded
+study of 133 shrews and 69 moles captured during 2010–2013 in central and southeastern Poland,
+we demonstrate the co-circulation of BOGV in the Eurasian water shrew and SWSV in the
+Eurasian common shrew, Eurasian pygmy shrew (Sorex minutus) and Mediterranean water shrew
+(Neomys anomalus). In addition, we found high prevalence of Nova virus (NVAV) infection in the
+European mole (Talpa europaea), with evidence of NVAV RNA in heart, lung, liver, kidney,
+spleen and intestine. The nucleotide and amino acid sequence variation of the L segment among
+the SWSV strains was 0–18.8% and 0–5.4%, respectively. And for the 38 NVAV strains from
+European moles captured in Huta Dłutowska, the L-segment genetic similarity ranged from 94.1–
+100% at the nucleotide level and 96.3–100% at the amino acid level. Phylogenetic analyses
+showed geographic-specific lineages of SWSV and NVAV in Poland, not unlike that of rodent-
+borne hantaviruses, suggesting long-standing host-specific adaptation. The co-circulation and
+distribution of BOGV, SWSV and NVAV in Poland parallels findings of multiple hantavirus
+species coexisting in their respective rodent reservoir species elsewhere in Europe. Also, the
+detection of SWSV in three syntopic shrew species resembles spill over events observed among
+some rodent-borne hantaviruses.
+© 2014 Elsevier B.V. All rights reserved.
+*
+Corresponding author: Fax: 1 808 692-1976, ryanagih@hawaii.edu (R. Yanagihara).
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH Public Access
+Author Manuscript
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+Published in final edited form as:
+Infect Genet Evol. 2014 December ; 28: 296–303. doi:10.1016/j.meegid.2014.10.017.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Keywords
+Hantavirus; Sorex; Neomys; Talpa; Shrew; Mole; Phylogeny; Poland
+1. Introduction
+Hantaviruses (genus Hantavirus), the causative agents of hemorrhagic fever with renal
+syndrome (HFRS) and hantavirus cardiopulmonary syndrome (HCPS), are unique among
+the approximately 400-member Bunyaviridae family in that they have no known arthropod
+hosts, and instead are harbored by small mammals. Initially, hantavirus reservoirs were
+thought to be restricted to rodents (order Rodentia, family Muridae and Cricetidae), despite
+the detection of hantavirus antigens in tissues of shrews and moles (order Eulipotyphla,
+family Soricidae and Talpidae), such as the Eurasian common shrew (Sorex araneus),
+Eurasian pygmy shrew (S. minutus), Eurasian water shrew (Neomys fodiens) and European
+mole (Talpa europaea) in Russia and the former Yugoslavia more than two decades ago
+(Gavrilovskaya et al., 1983; Gligic et al., 1992; Tkachenko et al., 1983). Also,
+Thottapalayam virus (TPMV), originally an unclassified virus isolated from the Asian house
+shrew (Suncus murinus) in India (Carey et al., 1971), was later shown to be a hantavirus
+(Zeller et al., 1989) that occupied a separate evolutionary lineage from rodent-borne
+hantaviruses (Chu et al., 1994; Song et al., 2007a; Xiao et al., 1994; Yadav et al., 2007).
+Guided by these reports, and empowered by the generosity of museum curators and field
+mammalogists who provided access to their archival tissue collections, an aggressive and
+opportunistic search, employing reverse transcription-polymerase chain reaction (RT-PCR),
+has resulted in the molecular identification of multiple genetically distinct hantaviruses
+across space and time (Bennett et al., 2014; Yanagihara et al., 2014), including Seewis virus
+(SWSV) and Nova virus (NVAV), in the Eurasian common shrew and European mole,
+respectively (Kang et al., 2009b; Song et al., 2007b).
+Subsequent studies have indicated that SWSV is widespread throughout Europe and Asia
+across the vast distribution of its soricid reservoir, in Austria, Czech Republic, Finland,
+Germany, Hungary, Russia, Slovakia and Slovenia (Kang et al., 2009a; Klempa et al., 2013;
+Korva et al., 2013; Resman et al., 2013; Schlegel et al., 2012b). SWSV has also been
+detected in the Siberian large-toothed shrew (S. daphaenodon) and tundra shrew (S.
+tundrensis) in Russia (Yashina et al., 2010). And in a comprehensive phylogeographic study
+of SWSV in Sorex species in Central Europe, SWSV exhibited distinct geographic-specific
+clustering in Eurasian common shrews (Schlegel et al., 2012b). Moreover, a genetically
+related but distinct hantavirus, named Asikkala virus (ASIV), has been found recently in the
+Eurasian pygmy shrew (Radosa et al., 2013).
+Previously, in an exploratory study of soricine shrews in central Poland, we reported the
+discovery of a novel hantavirus, designated Boginia virus (BOGV), in the Eurasian water
+shrew, as well as the detection of SWSV in the Eurasian common shrew (Gu et al., 2013).
+The overlapping geographic ranges of these shrew species and the European mole prompted
+the present expanded study on the genetic diversity of SWSV and NVAV in central and
+southeastern Poland. Since NVAV had been detected in archival liver tissues of a single
+Gu et al. Page 2
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+European mole captured in Zala County, Hungary, in 1999 (Kang et al., 2009b), our
+investigation also sought to ascertain the prevalence and tissue distribution of NVAV in the
+European mole. Moreover, because SWSV exhibits host sharing among genetically related
+soricine shrew species (Schlegel et al., 2012b; Yashina et al., 2010), a separate aim was to
+determine the host restriction of NVAV in the European mole. Definitive data are presented
+showing the high prevalence and widespread tissue distribution of NVAV in the European
+mole. Moreover, SWSV, BOGV and/or NVAV were found to co-circulate in different
+regions of central Poland, but no spill-over infection from shrews to moles, or vice versa,
+was evident.
+2. Materials and methods
+2.1. Trapping and specimen processing
+Shrews were captured, using wooden live traps and pitfall traps, consisting of cones of
+galvanized steel, measuring 40 cm high and 15 cm in diameter at the top, placed 5 m apart
+and baited with raw bacon or beef. Moles were trapped using PVC pipes (25 cm long and 5
+cm in diameter, equipped at both ends with flat aluminum latches). Trapping was conducted
+during the month of September in 2010, 2011, 2012 and 2013, with each session covering
+120 to 210 trap nights. Coordinates of each trap site are provided in Table 1. Although the
+traps for shrews were checked very four hours and those for moles three times a day,
+approximately 50% of shrews and 40% of moles were found dead. Live-caught shrews and
+moles were euthanized by cervical dislocation, and stored at 4°C or −20°C for several hours
+or days before harvesting of tissues. Lung, heart, liver, kidney, spleen and intestine tissues,
+dissected using separate alcohol-cleaned instruments, were preserved in RNAlater® RNA
+Stabilization Reagent (Qiagen, Valencia, CA).
+2.2. Ethics statement
+All trapping and experimental procedures on shrews were approved by the ŁódŸ Ethical
+Committee on Animal Testing (14/LB/511/2010 and 29/LB/548/2011) and the General
+Directorate for Environmental Protection (DOP-OZGiZ.4200/N2732/10/JRO, DOP-OZGiZ.
+6401.05.25.2011kp.3 and DOP-OZGiZ.6401.05.28.2011kp.1). The ŁódŸ Regional
+Directorate for Environmental Protection approved protocols for moles (WPN-
+I6631.2010.MS and WPN-L6400.59.2011.MS).
+2.3. RNA extraction, cDNA synthesis and RT-PCR amplification
+Total RNA was extracted from 20–50 mg of tissue, using the PureLink Micro-to-Midi total
+RNA purification kit (Invitrogen, San Diego, CA). cDNA, synthesized using the SuperScript
+III First-Strand Synthesis Systems (Invitrogen), were analyzed for hantavirus RNA by RT-
+PCR, using oligonucleotide primers designed from highly conserved regions of hantavirus
+genomes (Table 2) (Song et al., 2007b, 2007c, 2009; Kang et al., 2009a, 2009b; Gu et al.,
+2013, 2014a, 2014b).
+Nested or hemi-nested PCR was performed in 20-μL reaction mixtures, containing 250 μM
+dNTP, 2.5 mM MgCl2, 1 U of Takara LA Taq polymerase (Takara, Shiga, Japan) and 0.25
+μM of each primer (Table 2). Initial denaturation at 94°C for 2 min was followed by two
+Gu et al. Page 3
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+cycles each of denaturation at 94°C for 30 sec, two-degree step-down annealing from 46°C
+to 38°C for 40 sec, and elongation at 72°C for 1 min, then 30 cycles of denaturation at 94°C
+for 30 sec, annealing at 42°C for 40 sec, and elongation at 72°C for 1 min, in a GeneAmp
+PCR 9700 thermal cycler (Perkin-Elmer, Waltham, MA) (Arai et al., 2008b). PCR products
+were separated, using MobiSpin S-400 spin columns (MoBiTec, Goettingen, Germany), and
+amplicons were sequenced directly using an ABI Prism 3130 Genetic Analyzer (Applied
+Biosystems, Foster City, CA).
+2.4. Genetic and phylogenetic analyses
+Sequences were aligned using Clustal W (Thompson et al., 1994). Unrooted phylogenetic
+trees were generated by maximum likelihood and Bayesian methods, implemented in
+PAUP* (Phylogenetic Analysis Using Parsimony, 4.0b10) (Swofford, 2003), RAxML
+Blackbox webserver (Stamatakis et al., 2008) and MrBayes 3.1 (Ronquist and Huelsenbeck,
+2003), under the best-fit GTR+I+Γ model of evolution selected by hierarchical likelihood-
+ratio test in MrModeltest v2.3 (Posada and Crandall, 1998) and jModelTest version 0.1
+(Posada, 2008). Two replicate Bayesian Metropolis–Hastings Markov Chain Monte Carlo
+runs, each comprising six chains of 10 million generations sampled every 100 generations
+with a burn-in of 25,000 (25%), resulted in 150,000 trees overall. Each genomic segment (S
+and L) was treated separately in phylogenetic analyses. The posterior node probabilities
+were based on 2 million generations and estimated sample sizes over 100 (implemented in
+MrBayes).
+3. Results and discussion
+3.1. Co-circulation of genetically distinct hantaviruses
+As determined by RT-PCR and verified by DNA sequencing, we previously demonstrated
+BOGV in Eurasian water shrews and SWSV in Eurasian common shrews and in Eurasian
+pygmy shrews from central Poland (Gu et al., 2013). In this expanded study of lung tissues
+from 53 Eurasian common shrews, 52 Eurasian pygmy shrews, 12 Mediterranean water
+shrews, 16 Eurasian water shrews and 69 European moles, we documented SWSV in six of
+18 Eurasian common shrews in Chmiel, BOGV in four of 14 Eurasian water shrews from
+Boginia, Kurowice and Huta Dłutowska, and the co-circulation of SWSV, BOGV and
+NVAV and Huta Dłutowska (Table 1, Fig. 1).
+SWSV has been detected in a small proportion of Eurasian pygmy shrews in Germany and
+the Czech Republic (Schlegel et al., 2012b), as well as in Finland (Ling et al., 2014).
+Similarly, in this study, SWSV RNA was found in tissues of two of 17 Eurasian pygmy
+shrews from Kurowice, as well as in one of 12 Mediterranean water shrews from Chmiel
+(Table 1, Fig. 1). Since there is only one other SWSV sequence from the Mediterranean
+water shrew in Austria (GenBank EU418604), further research is necessary to determine if
+this shrew species serves as a true reservoir host of SWSV. Whether the Mediterranean
+water shrew also harbors a BOGV-like hantavirus, rather than only SWSV, is unclear.
+Nevertheless, neither physical proximity with sharing of habitats nor genetic relatedness of
+shrew host species allows prediction of the hantavirus species in a particular reservoir.
+Gu et al. Page 4
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+This study provides clear evidence of SWSV infection in the Eurasian common shrew in
+central and southeastern Poland, as well as the co-existence of BOGV and NVAV in their
+shrew and mole reservoir host species inhabiting the same ecological niche. Similar
+observations have been reported for rodent-borne hantaviruses. That is, co-circulation of
+hantaviruses is exemplified by bank voles (Myodes glareolus), yellow-necked field mice
+(Apodemus flavicollis) and striped field mice (Apodemus agrarius), trapped in the
+Transdanubian region of Hungary, harboring Puumala virus (PUUV), Dobrava virus
+(DOBV) and Saaremaa virus, respectively (Plyusnina et al., 2009). Also, the simultaneous
+occurrence of PUUV, DOBV and Tula virus (TULV) has been reported in Slovakia (Sibold
+et al., 1999b), and two distinct hantaviruses associated with Apodemus mice have been
+reported in Croatia (Plyusnina et al., 2011). Recently, hantavirus RNA was detected in My.
+glareolus, Microtus agrestis and S. araneus, found dead in an area exposed to flooding in
+eastern Poland (Wójcik-Fatla et al., 2013), and the first molecular evidence of PUUV has
+now been reported from bank voles in Poland (Ali et al., 2014).
+Extensive host sharing is evidenced by TULV infection in the common vole and field vole
+in different regions of Germany (Schmidt-Chanasit et al., 2010), and TULV has also been
+detected in the Eurasian water vole (Arvicola amphibius) (Schlegel et al., 2012a). Mention
+has been made about the circulation of SWSV in several soricine shrew species in Siberia
+(Yashina et al., 2010). Similarly, Jemez Springs virus appears to be harbored by the dusky
+shrew (Arai et al., 2008) and other related Sorex species (such as S. palustris, S. trowbridgii
+and S. vagrans) in North America (unpublished observations).
+3.2. High prevalence of NVAV infection and virus distribution in tissues of European moles
+In Huta Dłutowska, the overall prevalence of NVAV infection in European moles was
+65.5% (38/58) during the four-year period, 2010–2013 (Table 1), resembling that reported
+recently from two capture sites frequented by humans in France (Gu et al., 2014a). Such
+high prevalences, exceeding 50%, are likely indicative of a long-standing reservoir host-
+virus relationship and raise questions about factors that drive transmission. While it may be
+assumed that NVAV is widespread throughout the geographic distribution of the European
+mole, which extends from the United Kingdom across Scandinavia into European Russia,
+longitudinal studies are warranted to ascertain temporal fluctuations of NVAV transmission
+and the influence of insect and predator abundance (Gu et al., 2014a).
+As determined by RT-PCR, NVAV RNA was detected in multiple tissues, besides lung, in a
+high proportion of European moles (Table 2), suggesting widespread and persistent
+infection. NVAV sequences within tissues of a single mole were identical, but varied by 0–
+5.9% at the nucleotide level between moles. Although similarly extensive studies have not
+been performed on other non-rodent species, hantavirus RNA has also been demonstrated in
+multiple organs of the Ussuri white-toothed shrew (Crocidura lasiura) (Song et al., 2009)
+and the Chinese mole shrew (Anourosorex squamipes) (Song et al., 2007c). Overall, the
+tissue distribution was not unlike that found in rodents either naturally or experimentally
+infected with Hantaan virus (HTNV) (Lee et al., 1978, 1981) or PUUV (Yanagihara et al.,
+1985a, 1985b). Notably the presence of NVAV RNA in the kidney and intestine (Table 2)
+would be consistent with viral shedding in urine and feces, which is believed to be important
+Gu et al. Page 5
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+in the transmission of rodent-borne hantaviruses to humans. Since European moles often
+reside near human habitation, human exposure to their excretions is plausible. As such,
+febrile illnesses or unusual clinical syndromes, occurring among individuals with known
+exposure to moles, should be thoroughly investigated.
+A weakness of the study was the unavailability of appropriately fixed tissues for
+histopathological examination and immunocytochemical staining. As such, we were unable
+to determine if endothelial cells and/or other specific cell types were infected with NVAV.
+Also, logistical challenges of maintaining an adequate cold chain precluded the collection of
+frozen tissues for assessment of virus infectivity in different tissues. Future studies are being
+planned to address this shortcoming.
+3.3. Genetic analysis
+S-, M- and/or L-segment sequences of SWSV, BOGV and NVAV were analyzed. GenBank
+accession numbers are provided for 60 L-, three M- and 42 S-segment sequences
+(Supplementary Table 1). At the nucleotide level, the partial sequences of SWSV from
+Poland showed considerable divergence from the SWSV prototype mp70 strain, differing by
+15.0–17.3% and 14.8–22.0% in the S and L segment, respectively. However, nucleotide
+sequence variation of SWSV strains within a specific geographic region was low, ranging
+from 0–2.9% in Chmiel and 0% in Huta Dłutowska. Moreover, the encoded nucleocapsid
+protein varied by ≤6.9% among SWSV strains from Poland and elsewhere in Europe.
+BOGV, detected in four of 14 Eurasian water shrews captured in three separate villages in
+central Poland (Boginia, Huta Dłutowska and Kurowice), was genetically distinct from
+SWSV and other representative soricine shrew-borne hantaviruses, with M- and L-segment
+sequence similarity of only 64.8–77.5% and 84.7–87.3% at the nucleotide and amino acid
+levels, respectively (Gu et al., 2013).
+The full-length 1,825-nucleotide S-genomic segment of NVAV strains 1135, 1136, 2095,
+2097, 3328, 3329 and 3350 from Huta Dłutowska and strain 2086 from Bronisin contained a
+single open reading frame, encoding a predicted N protein of 428 amino acids (nucleotide
+positions 53 to 1336), and 52- and 486-nucleotide 5′- and 3′-noncoding regions (NCR),
+respectively. The sequence variation in the coding region of the entire S-genomic segment
+between the eight NVAV strains was 0.1–3.3% and 0–0.9% at the nucleotide and amino acid
+levels, respectively. Comparison of the S segment to the prototype NVAV strain MSB95703
+showed a nucleotide and amino acid sequence similarity of 85.8–86.1% and 96.0–96.5%. A
+similar degree of nucleotide sequence divergence was found between the NVAV strains
+from Poland and France, but there was high amino acid sequence similarity of >96%.
+Using software available on the @NPS structure server (Combet et al., 2000), the predicted
+secondary structure of the NVAV N protein was nearly identical to that reported earlier for
+the prototype strain (Kang et al., 2009b). Similarly, alignment and comparison of a 788-
+nucleotide (262-amino acid) region of the L-genomic segment of NVAV strains from
+Poland showed approximately 15% difference at the nucleotide level but less than 2%
+difference at the amino acid level from prototype NVAV MSB95703 from Hungary.
+Gu et al. Page 6
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Moreover, SWSV strains from Poland varied from those from other geographic areas, but
+there was high conservation at the amino acid level.
+3.4. Phylogenetic analysis
+Phylogenetic analyses of the partial L-segment sequences of SWSV strains, generated using
+maximum-likelihood and Bayesian methods, showed two distinct lineages with evidence of
+geographic-specific clustering (Fig. 2). SWSV strains from Eurasian common shrews
+captured in Chmiel (southeastern Poland) and in Boginia and Huta Dłutowska (central
+Poland) were positioned on separate branches. High genetic diversity of SWSV was also
+found in common shrews from Germany, the Czech Republic and Slovakia (Schlegel et al.,
+2012b). Moreover, divergent lineages of the same hantavirus species within the same
+geographic region have been reported for HTNV in the striped field mouse (Song et al.,
+2000) and PUUV in the bank vole (Plyusnin et al., 1994; Razzauti et al., 2009, 2012).
+Homologous recombination events have been suggested to account for the genetic variation
+of TULV in Slovakia (Sibold et al., 1999a).
+Phylogenetic analyses, using PAUP*, RAxML and MrBayes, based on the full-length S-
+segment sequences of five NVAV strains from Poland showed a highly divergent clade,
+comprising prototype NVAV from Hungary and newfound NVAV strains from France,
+showing segregation according to geography (Fig. 2). Similarly, tree topologies, well
+supported by bootstrap analysis (data not shown) and posterior node probabilities (Fig. 2),
+were generated from maximum-likelihood and Bayesian analysis of the partial L-segment
+sequences of NVAV strains from Poland, France and Hungary.
+Recent discovery of genetically distinct hantaviruses in shrews and moles, and the detection
+of a highly divergent lineage of hantaviruses in insectivorous bats from sub-Saharan Africa
+(Gu et al., 2014b; Sumibcay et al., 2012; Weiss et al., 2012) and Asia (Arai et al., 2013; Gu
+et al., 2014b; Guo et al., 2013), have forced a reframing of their evolutionary origins and
+phylogeography. That these newfound hantaviruses are genetically more diverse than those
+hosted by rodents suggests a complex evolutionary history. Moreover, ancestral
+eulipotyphlans and chiropterans in Asia were the likely early mammalian hosts of primordial
+hantaviruses, predating their appearance in rodents (Bennett et al., 2014). That is, in keeping
+with other members of the Bunyaviridae family, which are transmitted by insects and
+arthropods, the evolutionary origins of hantaviruses may have entailed insect-borne viruses,
+which initially infected insectivorous ancestral hosts, with subsequent host switching and
+species-specific adaptation in the distant and more recent past.
+3.5. Conclusions
+While outbreaks of HFRS have long been known to occur in central Europe (Klempa et al.,
+2013), including Germany (Hofmann et al., 2008; Krüger et al., 2001), the Czech Republic
+(Pejcoch et al., 2010) and Slovakia (Sibold et al., 1999b), reports of hantavirus infection and
+disease in Poland have been conspicuously uncommon, despite the existence of the same
+reservoir rodent species. Previously, TULV was isolated from the common vole in central
+Poland (Song et al., 2004), and anti-hantavirus antibodies were reported among Polish
+mammalogists (Sadkowska-Todys et al., 2007) and forestry workers (Grygorczuk et al.,
+Gu et al. Page 7
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+2008). The first serologically confirmed case of HFRS, occurring in May 2005, was reported
+in 2006 (Knap et al., 2006). Recently, an outbreak of hantavirus infection occurred between
+August and December 2007 in the Carpathian mountains in southeastern Poland, in close
+proximity to an HFRS focus in the Ruska Poruba region of neighboring Slovakia
+(Nowakowska et al., 2009). Of the 13 serologically confirmed HFRS cases, 10 were caused
+by DOBV and three by PUUV. Most patients had moderate to severe disease, and several
+required hemodialysis (Nowakowska et al., 2009). Other suspected HFRS cases, albeit
+unconfirmed by serological tests, have been described in southeastern Poland (Gut et al.,
+2013).
+HFRS cases are probably being misdiagnosed and under reported in Poland. Apart from
+improving primary-care physician education and heightening their awareness about HFRS
+throughout Poland, standardized serodiagnostic tests must be made more widely available in
+clinical laboratories. Also, surveys of rodent and non-rodent reservoir host populations and
+virus isolation attempts are urgently needed to gain more in-depth knowledge about the
+distribution and pathogenic potential of hantaviruses, particularly in southeastern Poland.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+We thank Mr. Eduard Janusz, Director of the Regional State Forests in ŁódŸ, for permission to trap small
+mammals in the forests subordinate to the Regional Directorate. This research was supported in part by U.S. Public
+Health Service grant R01AI075057 from the National Institute of Allergy and Infectious Diseases and grant
+P20GM103516 from the National Institute of General Medical Sciences, National Institutes of Health; grant N
+N303 604538 from the State Committee for Scientific Research in Poland; and grant REGPOT-2012-2013-1, 7FP
+from the European Commission for the Healthy Ageing Research Centre. The services provided by the Genomics
+Core Facility, funded partially through the Centers of Biomedical Research Excellence program (P30GM103341),
+are gratefully acknowledged.
+References
+Ali HS, Drewes S, Sadowska ET, Mikowska M, Groschup MH, Heckel G, Koteja P, Ulrich RG. First
+molecular evidence for Puumala hantavirus in Poland. Viruses. 2014; 6:340–353. [PubMed:
+24452006]
+Arai S, Bennett SN, Sumibcay L, Cook JA, Song JW, Hope A, Parmenter C, Nerurkar VR, Yates TL,
+Yanagihara R. Phylogenetically distinct hantaviruses in the masked shrew (Sorex cinereus) and
+dusky shrew (Sorex monticolus) in the United States. Am J Trop Med Hyg. 2008; 78:348–351.
+[PubMed: 18256444]
+Arai S, Nguyen ST, Boldgiv B, Fukui D, Araki K, Dang CN, Ohdachi SD, Nguyen NX, Pham TD,
+Boldbaatar B, Satoh H, Yoshikawa Y, Morikawa S, Tanaka-Taya K, Yanagihara R, Oishi K. Novel
+bat-borne hantavirus, Vietnam. Emerg Infect Dis. 2013; 19:1159–1161. [PubMed: 23763849]
+Bennett SN, Gu SH, Kang HJ, Arai S, Yanagihara R. Reconstructing the evolutionary origins and
+phylogeography of hantaviruses. Trends Microbiol. 2014; 22:473–482. [PubMed: 24852723]
+Carey DE, Reuben R, Panicker KN, Shope RE, Myers RM. Thottapalayam virus: a presumptive
+arbovirus isolated from a shrew in India. Indian J Med Res. 1971; 59:1758–1760. [PubMed:
+5169031]
+Chu YK, Rossi C, LeDuc JW, Lee HW, Schmaljohn CS, Dalrymple JM. Serological relationships
+among viruses in the Hantavirus genus, family Bunyaviridae. Virology. 1994; 198:196–204.
+[PubMed: 8259655]
+Gu et al. Page 8
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Combet C, Blanchet C, Geourjon C, Deléage G. NPS@: Network Protein Sequence Analysis. Trends
+Biochem Sci. 2000; 25:147–150. [PubMed: 10694887]
+Gavrilovskaya IN, Apekina NS, Myasnikov YuA, Bernshtein AD, Ryltseva EV, Gorbachkova EA,
+Chumakov MP. Features of circulation of hemorrhagic fever with renal syndrome (HFRS) virus
+among small mammals in the European U.S.S.R. Arch Virol. 1983; 75:313–316. [PubMed:
+6220688]
+Gligic A, Stojanovic R, Obradovic M, Hlaca D, Dimkovic N, Diglisic G, Lukac V, Ler Z, Bogdanovic
+R, Antonijevic B, Ropac D, Avsic T, LeDuc JW, Ksiazek T, Yanagihara R, Gajdusek DC.
+Hemorrhagic fever with renal syndrome in Yugoslavia: epidemiologic and epizootiologic features
+of a nationwide outbreak in 1989. Eur J Epidemiol. 1992; 8:816–825. [PubMed: 1363468]
+Grygorczuk S, Pancewicz S, Zajkowska J, Kondrusik M, Œwierzbińska R, Moniuszko A, Pawlak-
+Zalewska W. Detection of anti-hantavirus antibodies in forest workers in the north-east of Poland.
+Przegl Epidemiol. 2008; 62:531–537. [PubMed: 19108515]
+Gu SH, Markowski J, Kang HJ, Hejduk J, Sikorska B, Liberski PP, Yanagihara R. Boginia virus, a
+newfound hantavirus harbored by the Eurasian water shrew (Neomys fodiens) in Poland. Virol J.
+2013; 10:160. [PubMed: 23693084]
+Gu SH, Dormion J, Hugot JP, Yanagihara R. High prevalence of Nova hantavirus infection in the
+European mole (Talpa europaea) in France. Epidemiol Infect. 2014a; 142:1167–1171. [PubMed:
+24044372]
+Gu SH, Lim BK, Kadjo B, Arai S, Kim JA, Nicolas V, Lalis A, Denys C, Cook JA, Dominguez SR,
+Holmes KV, Urushadze L, Sidamonidze K, Putkaradze D, Kuzmin IV, Kosoy MY, Song JW,
+Yanagihara R. Molecular phylogeny of hantaviruses harbored by insectivorous bats in Côte
+d’Ivoire and Vietnam. Viruses. 2014b; 6:1897–1910. [PubMed: 24784569]
+Guo WP, Lin XD, Wang W, Tian JH, Cong ML, Zhang HL, Wang MR, Zhou RH, Wang JB, Li MH,
+Xu J, Holmes EC, Zhang YZ. Phylogeny and origins of hantaviruses harbored by bats,
+insectivores, and rodents. PLoS Pathog. 2013; 9:e1003159. [PubMed: 23408889]
+Gut AK, Gut R, Pencuła M, Jarosz MJ. New cases of suspected HFRS (hantavirus infection) in south-
+eastern Poland. Ann Agric Environ Med. 2013; 20:544–548. [PubMed: 24069862]
+Hofmann J, Meisel H, Klempa B, Vesenbeckh SM, Beck R, Michel D, Schmidt-Chanasit J, Ulrich RG,
+Grund S, Enders G, Krüger DH. Hantavirus outbreak, Germany, 2007. Emerg Infect Dis. 2008;
+14:850–852. [PubMed: 18439382]
+Kang HJ, Arai S, Hope AG, Song JW, Cook JA, Yanagihara R. Genetic diversity and phylogeography
+of Seewis virus in the Eurasian common shrew in Finland and Hungary. Virol J. 2009a; 6:208.
+[PubMed: 19930716]
+Kang HJ, Bennett SN, Sumibcay L, Arai S, Hope AG, Mocz G, Song JW, Cook JA, Yanagihara R.
+Evolutionary insights from a genetically divergent hantavirus harbored by the European common
+mole (Talpa europaea). PLoS One. 2009b; 4:e6149. [PubMed: 19582155]
+Klempa B, Radosa L, Krüger DH. The broad spectrum of hantaviruses and their hosts in Central
+Europe. Acta Virol. 2013; 57:130–137. [PubMed: 23600871]
+Knap JP, Trybusz A. Haemorrhagic fever with renal syndrome (HFRS) – Hantavirus infection disease
+appearing in Poland. Pol Merkur Lekarski. 2006; 21:411–417. [PubMed: 17345831]
+Korva M, Knap N, Rus KR, Fajs L, Grubelnik G, Bremec M, Knapič T, Trilar T, Županc TA.
+Phylogeographic diversity of pathogenic and non-pathogenic hantaviruses in Slovenia. Viruses.
+2013; 5:3071–3087. [PubMed: 24335778]
+Krüger DH, Ulrich R, Lundkvist A. Hantavirus infections and their prevention. Microbes Infect. 2001;
+3:1129–1144. [PubMed: 11709294]
+Lee HW, Lee PW, Johnson KM. Isolation of the etiologic agent of Korean hemorrhagic fever. J Infect
+Dis. 1978; 137:298–308. [PubMed: 24670]
+Lee HW, French GR, Lee PW, Baek LJ, Tsuchiya K, Foulke RS. Observations on natural and
+laboratory infection of rodents with the etiologic agent of Korean hemorrhagic fever. Am J Trop
+Med Hyg. 1981; 30:477–482. [PubMed: 6786119]
+Ling J, Sironen T, Voutilainen L, Hepojoki S, Niemimaa J, Isoviita VM, Vaheri A, Henttonen H,
+Vapalahti O. Hantaviruses in Finnish soricomorphs: evidence for two distinct hantaviruses carried
+Gu et al. Page 9
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+by Sorex araneus suggesting ancient host-switch. Infect Genet Evol. 2014; 27C:51–61. [PubMed:
+24997334]
+Nowakowska A, Heyman P, Knap JP, Burzyński W, Witas M. The first established focus of hantavirus
+infection in Poland, 2007. Ann Agric Environ Med. 2009; 16:79–85. [PubMed: 19572481]
+Pejcoch M, Unar J, Kríz B, Pauchová E, Rose R. Characterization of a natural focus of Puumala
+hantavirus infection in the Czech Republic. Cent Eur J Public Health. 2010; 18:116–118.
+[PubMed: 20939264]
+Plyusnin A, Vapalahti O, Ulfves K, Lehvaslaiho H, Apekina N, Gavrilovskaya I, Blinov V, Vaheri A.
+Sequences of wild Puumala virus genes show a correlation of genetic variation with geographic
+origin of the strains. J Gen Virol. 1994; 75:405–409. [PubMed: 8113763]
+Plyusnina A, Ferenczi E, Rácz GR, Nemirov K, Lundkvist A, Vaheri A, Vapalahti O, Plyusnin A. Co-
+circulation of three pathogenic hantaviruses: Puumala, Dobrava, and Saaremaa in Hungary. J Med
+Virol. 2009; 81:2045–2052. [PubMed: 19856478]
+Plyusnina A, Krajinović LC, Margaletić J, Niemimaa J, Nemirov K, Lundkvist Å, Markotić A,
+Miletić-Medved M, Avšič-Županc T, Henttonen H, Plyusnin A. Genetic evidence for the presence
+of two distinct hantaviruses associated with Apodemus mice in Croatia and analysis of local
+strains. J Med Virol. 2011; 83:108–114. [PubMed: 21108346]
+Posada D. jModelTest: phylogenetic model averaging. Mol Biol Evol. 2008; 25:1253–1256. [PubMed:
+18397919]
+Posada D, Crandall KA. MODELTEST: testing the model of DNA substitution. Bioinformatics. 1998;
+14:817–818. [PubMed: 9918953]
+Radosa L, Schlegel M, Gebauer P, Ansorge H, Heroldová M, Jánová E, Stanko M, Mošanský L,
+Fričová J, Pejčoch M, Suchomel J, Purchart L, Groschup MH, Krüger DH, Ulrich RG, Klempa B.
+Detection of shrew-borne hantavirus in Eurasian pygmy shrew (Sorex minutus) in Central Europe.
+Infect Genet Evol. 2013; 19:403–410. [PubMed: 23602837]
+Razzauti M, Plyusnina A, Sironen T, Henttonen H, Plyusnin A. Analysis of Puumala hantavirus in a
+bank vole population in northern Finland: evidence for co-circulation of two genetic lineages and
+frequent reassortment between strains. J Gen Virol. 2009; 90:1923–1931. [PubMed: 19386780]
+Razzauti M, Plyusnina A, Niemimaa J, Henttonen H, Plyusnin A. Co-circulation of two Puumala
+hantavirus lineages in Latvia: a Russian lineage described previously and a novel Latvian lineage.
+J Med Virol. 2012; 84:314–318. [PubMed: 22170553]
+Resman K, Korva M, Fajs L, Zidarič T, Trilar T, Zupanc TA. Molecular evidence and high genetic
+diversity of shrew-borne Seewis virus in Slovenia. Virus Res. 2013; 177:113–117. [PubMed:
+23892145]
+Ronquist F, Huelsenbeck JP. MrBayes 3: Bayesian phylogenetic inference under mixed models.
+Bioinformatics. 2003; 19:1572–1574. [PubMed: 12912839]
+Sadkowska-Todys M, Gut W, Baumann A, Siennicka J, Litwińska B, Zieliński A. Occurrence of
+human hantavirus infections in Poland. Przegl Epidemiol. 2007; 61:497–503. [PubMed:
+18069386]
+Schlegel M, Kindler E, Essbauer SS, Wolf R, Thiel J, Groschup MH, Heckel G, Oehme RM, Ulrich
+RG. Tula virus infections in the Eurasian water vole in Central Europe. Vector Borne Zoonotic
+Dis. 2012a; 12:503–513. [PubMed: 22225425]
+Schlegel M, Radosa L, Rosenfeld UM, Schmidt S, Triebenbacher C, Löhr PW, Fuchs D, Heroldová M,
+Jánová E, Stanko M, Mošanský L, Fričová J, Pejčoch M, Suchomel J, Purchart L, Groschup MH,
+Krüger DH, Klempa B, Ulrich RG. Broad geographical distribution and high genetic diversity of
+shrew-borne Seewis hantavirus in Central Europe. Virus Genes. 2012b; 45:48–55. [PubMed:
+22467179]
+Schmidt-Chanasit J, Essbauer S, Petraityte R, Yoshimatsu K, Tackmann K, Conraths FJ, Sasnauskas
+K, Arikawa J, Thomas A, Pfeffer M, Scharninghausen JJ, Splettstoesser W, Wenk M, Heckel G,
+Ulrich RG. Extensive host sharing of central European Tula virus. J Virol. 2010; 84:459–474.
+[PubMed: 19889769]
+Sibold C, Meisel H, Krüger DH, Labuda M, Lysy J, Kozuch O, Pejcoch M, Vaheri A, Plyusnin A.
+Recombination in Tula hantavirus evolution: analysis of genetic lineages from Slovakia. J Virol.
+1999a; 73:667–675. [PubMed: 9847372]
+Gu et al. Page 10
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Sibold C, Meisel H, Lundkvist A, Schulz A, Cifire F, Ulrich R, Kozuch O, Labuda M, Krüger DH.
+Simultaneous occurrence of Dobrava, Puumala, and Tula hantaviruses in Slovakia. Am J Trop
+Med Hyg. 1999b; 61:409–411. [PubMed: 10497981]
+Song JW, Baek LJ, Kim SH, Kho EY, Kim JH, Yanagihara R, Song KJ. Genetic diversity of
+Apodemus agrarius-borne Hantaan virus in Korea. Virus Genes. 2000; 21:227–232. [PubMed:
+11129640]
+Song JW, Baek LJ, Song KJ, Skrok A, Markowski J, Bratosiewicz-Wasik J, Kordek R, Liberski PP,
+Yanagihara R. Characterization of Tula virus from common voles (Microtus arvalis) in Poland:
+evidence for geographic-specific phylogenetic clustering. Virus Genes. 2004; 29:239–247.
+[PubMed: 15284484]
+Song JW, Baek LJ, Schmaljohn CS, Yanagihara R. Thottapalayam virus, a prototype shrewborne
+hantavirus. Emerg Infect Dis. 2007a; 13:980–985. [PubMed: 18214168]
+Song JW, Gu SH, Bennett SN, Arai S, Puorger M, Hilbe M, Yanagihara R. Seewis virus, a genetically
+distinct hantavirus in the Eurasian common shrew (Sorex araneus). Virol J. 2007b; 4:114.
+[PubMed: 17967200]
+Song JW, Kang HJ, Song KJ, Truong TT, Bennett SN, Arai S, Truong NU, Yanagihara R. Newfound
+hantavirus in Chinese mole shrew, Vietnam. Emerg Infect Dis. 2007c; 13:1784–1787. [PubMed:
+18217572]
+Song JW, Kang HJ, Gu SH, Moon SS, Bennett SN, Song KJ, Baek LJ, Kim HC, O’Guinn ML, Chong
+ST, Klein TA, Yanagihara R. Characterization of Imjin virus, a newly isolated hantavirus from the
+Ussuri white-toothed shrew (Crocidura lasiura). J Virol. 2009; 83:6184–6191. [PubMed:
+19357167]
+Stamatakis A, Hoover P, Rougemont J. A rapid bootstrap algorithm for the RAxML Web-Servers. Syst
+Biol. 2008; 75:758–771. [PubMed: 18853362]
+Sumibcay L, Kadjo B, Gu SH, Kang HJ, Lim BK, Cook JA, Song JW, Yanagihara R. Divergent
+lineage of a novel hantavirus in the banana pipistrelle (Neoromicia nanus) in Côte d’Ivoire. Virol
+J. 2012; 9:34. [PubMed: 22281072]
+Swofford, DL. PAUP*: Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4.
+Sinauer Associates; Sunderland, Massachusetts: 2003.
+Thompson JD, Higgins DG, Gibson TJ. CLUSTAL W: improving the sensitivity of progressive
+multiple sequence alignment through sequence weighting, position-specific gap penalties and
+weight matrix choice. Nucleic Acids Res. 1994; 22:4673–4680. [PubMed: 7984417]
+Tkachenko EA, Ivanov AP, Donets MA, Miasnikov YA, Ryltseva EV, Gaponova LK, Bashkirtsev
+VN, Okulova NM, Drozdov SG, Slonova RA, Somov GP, Astakhova TI. Potential reservoir and
+vectors of haemorrhagic fever with renal syndrome (HFRS) in the U.S.S.R. Ann Soc Belg Med
+Trop. 1983; 63:267–269. [PubMed: 6229222]
+Weiss S, Witkowski PT, Auste B, Nowak K, Weber N, Fahr J, Mombouli JV, Wolfe ND, Drexler JF,
+Drosten C, Klempa B, Leendertz FH, Krüger DH. Hantavirus in bat, Sierra Leone. Emerg Infect
+Dis. 2012; 18:159–161. [PubMed: 22261176]
+Wójcik-Fatla A, Zając V, Knap JP, Sroka J, Cisak E, Sawczyn A, Dutkiewicz J. A small-scale survey
+of hantavirus in mammals from eastern Poland. Ann Agric Environ Med. 2013; 20:283–286.
+[PubMed: 23772576]
+Xiao SY, LeDuc JW, Chu YK, Schmaljohn CS. Phylogenetic analyses of virus isolates in the genus
+Hantavirus, family Bunyaviridae. Virology. 1994; 198:205–217. [PubMed: 8259656]
+Yadav PD, Vincent MJ, Nichol ST. Thottapalayam virus is genetically distant to the rodent-borne
+hantaviruses, consistent with its isolation from the Asian house shrew (Suncus murinus). Virol J.
+2007; 4:80. [PubMed: 17711577]
+Yanagihara R, Amyx HL, Gajdusek DC. Experimental infection with Puumala virus, the etiologic
+agent of nephropathia epidemica, in bank voles (Clethrionomys glareolus). J Virol. 1985a; 55:34–
+38. [PubMed: 2861296]
+Yanagihara R, Goldgaber D, Gajdusek DC. Propagation of nephropathia epidemica virus in Mongolian
+gerbils. J Virol. 1985b; 53:973–975. [PubMed: 3882997]
+Yanagihara R, Gu SH, Arai S, Kang HJ, Song JW. Hantaviruses: rediscovery and new beginnings.
+Virus Res. 2014; 187:6–14. [PubMed: 24412714]
+Gu et al. Page 11
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Yashina LN, Abramov SA, Gutorov VV, Dupal TA, Krivopalov AV, Panov VV, Danchinova GA,
+Vinogradov VV, Luchnikova EM, Hay J, Kang HJ, Yanagihara R. Seewis virus: phylogeography
+of a shrew-borne hantavirus in Siberia, Russia. Vector-Borne Zoonotic Dis. 2010; 10:585–591.
+[PubMed: 20426688]
+Zeller HG, Karabatsos N, Calisher CH, Digoutte JP, Cropp CB, Murphy FA, Shope RE. Electron
+microscopic and antigenic studies of uncharacterized viruses. II. Evidence suggesting the
+placement of viruses in the family. Bunyaviridae Arch Virol. 1989; 108:211–227.
+Gu et al. Page 12
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Highlights
+• Three genetically distinct hantaviruses co-circulate in central Poland
+• Seewis virus in three syntopic shrew species suggests spill-over infection
+• High prevalence of Nova hantavirus is found the European mole
+• Nova virus RNA is widespread in tissues of infected European moles
+Gu et al. Page 13
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Fig. 1.
+Map of Poland, showing trap sites in central and southeastern Poland, where hantavirus-
+infected shrews and moles were captured. GPS coordinates are provided in Table 1.
+Gu et al. Page 14
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Fig. 2.
+Phylogenetic trees generated by the maximum-likelihood and Bayesian methods, using the
+GTR+I+Γ model of evolution as estimated from the data, based on the alignment of the
+coding regions of the (S) partial and full length S segment and (L) partial L segment of
+soricid- and talpid-borne hantaviruses in Poland. Because the unrooted phylogenetic trees
+using both methods were very similar, the trees generated by MrBayes were displayed. The
+phylogenetic positions of SWSV (blue) and BOGV (green) from Poland are shown in
+relationship to the prototype SWSV strain from Switzerland (SWSV mp70, S: EF636024; L:
+EF636026). NVAV (red) strains from Poland are shown in relationship to the prototype
+NVAV strain from Hungary (MSB95703, S: FJ539168; L: FJ593498) and to representative
+NVAV strains from France (YA0067, S: KF010576; L: KF010544; and YA0069, S:
+KF010575; L: KF010542). Other hantaviruses harbored by shrews and moles include
+Thottapalayam virus (TPMV VRC66412, S: AY526097; L: EU001330), Imjin virus (MJNV
+Cl05-11, S: EF641804; L: EF641806), Cao Bang virus (CBNV CBN-3, S: EF543524; L:
+EF543525), Qian Hu Shan virus (QHSV YN05-284, S: GU566023; L: GU566021), Jeju
+virus (JJUV 10-11, S: HQ834695; L: HQ834697), Asama virus (ASAV N10, S: EU929072;
+L: EU929078), Oxbow virus (OXBV Ng1453, S: FJ5339166; L: FJ593497), Asikkala virus
+(ASIV CZ/Drahany/420/2010/Sm, S: KC880342; L: KC880348), Bowé virus (BOWV
+Gu et al. Page 15
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+VN1512, S: KC631782; L: KC631784), Kenkeme virus (KKMV MSB148794, S:
+GQ306148; L: GQ306150) and Rockport virus (RKPV MSB57412, S: HM015223; L:
+HM015221). Also shown are representative Murinae rodent-borne hantaviruses, including
+Hantaan virus (HTNV 76-118, S: NC_005218; L: NC_005222), Soochong virus (SOOV
+SOO-1, S: AY675349; L: DQ056292), Dobrava virus (DOBV Greece, S: NC_005233; L:
+NC_005235) and Seoul virus (SEOV HR80-39, S: NC_005236; L: NC_005238);
+Arvicolinae rodent-borne hantaviruses, including Tula virus (TULV M5302v, S:
+NC_005227; L: NC_005226), Puumala virus (PUUV Sotkamo, S: NC_005224; L:
+NC_005225) and Prospect Hill virus (PHV PH-1, S: Z49098; L: EF646763); and
+Neotominae rodent-borne hantaviruses, Sin Nombre virus (SNV NMH10, S: NC_005216;
+L: NC_005217) and Andes virus (ANDV Chile9717869, S: AF291702; L: AF291704). The
+numbers at each node are posterior node probabilities based on 150,000 trees. The scale bar
+indicates nucleotide substitutions per site.
+Gu et al. Page 16
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gu et al. Page 17
+Table
+1
+RT-PCR
+detection
+and
+sequence
+confirmation
+of
+hantaviruses
+in
+lung
+tissues
+of
+shrews
+and
+moles
+from
+Poland.
+Genus
+species
+Capture
+Site
+*
+Trapping
+Year
+Number
+Tested
+Number
+Positive
+†
+Hantavirus
+Sorex
+araneus
+Boginia
+2010
+3
+1
+SWSV
+2011
+6
+0
+2013
+1
+0
+Chmiel
+2010
+11
+4
+SWSV
+2011
+6
+2
+SWSV
+2013
+1
+0
+Huta
+Dłutowska
+2011
+9
+2
+SWSV
+Jura
+2011
+1
+0
+Kurowice
+2013
+13
+5
+SWSV
+Nowosolna
+2011
+1
+0
+Pabianice
+2011
+1
+0
+Sorex
+minutus
+Boginia
+2011
+2
+0
+2013
+2
+0
+Chmiel
+2010
+7
+0
+2011
+2
+0
+2012
+4
+0
+2013
+8
+0
+Huta
+Dłutowska
+2011
+4
+0
+2012
+1
+0
+Kurowice
+2012
+10
+1
+SWSV
+2013
+7
+1
+SWSV
+Nowosolna
+2012
+5
+0
+Neomys
+anomalus
+Chmiel
+2010
+3
+0
+2011
+8
+1
+SWSV
+2013
+1
+0
+Neomys
+fodiens
+Boginia
+2011
+1
+1
+BOGV
+Chojnowo
+2012
+1
+0
+Huta
+Dłutowska
+2011
+1
+1
+BOGV
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gu et al. Page 18
+Genus
+species
+Capture
+Site
+*
+Trapping
+Year
+Number
+Tested
+Number
+Positive
+†
+Hantavirus
+Kurowice
+2012
+4
+1
+BOGV
+2013
+8
+1
+BOGV
+Pabianice
+2012
+1
+0
+Talpa
+europaea
+Boginia
+2011
+4
+0
+Brosinin
+2011
+3
+1
+NVAV
+Huta
+Dłutowska
+2010
+11
+4
+NVAV
+2011
+15
+13
+NVAV
+2012
+3
+3
+NVAV
+2013
+29
+18
+NVAV
+ŁódŸ
+2011
+1
+0
+Pawlikowice
+2011
+1
+0
+Rożniatów
+2013
+1
+0
+Wiączyń
+2013
+1
+0
+*
+Coordinates
+of
+capture
+sites:
+Boginia
+(N51°20′26.8,
+E19°36′41.36):
+Bronisin
+(N51°41′36.69,
+E19°32′41.66):
+Chmiel
+(N49°13′25.67,
+E22°36′49.82):
+Chojnowo
+(N53°21′55.12,
+E22°37′27.37):
+Huta
+Dłutowska
+(N51°35′49.51,
+E19°22′46.8):
+Jura
+(N50°44′7.9,
+E19°15′58.58):
+Kurowice
+(N51°39′48.03,
+E19°42′20.92):
+ŁódŸ
+(N51°45′32.39,
+E19°29′34.98):
+Nowosolna
+(N51°47′14.85,
+E19°34′14.85):
+Pabianice
+(N51°39′8.79,
+E19°18′47.45):
+Pawlikowice
+(N51°36′53.89,
+E19°20′22.8):
+Rożniatów
+(N52°02′46,
+E18°50′04):
+Wiączyń
+(N51°46′41,
+E19°36′36).
+†
+RT-PCR
+L-segment
+amplicons
+were
+confirmed
+as
+hantavirus
+by
+DNA
+sequencing.
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gu et al. Page 19
+Table
+2
+Oligonucleotide
+primers
+used
+to
+detect
+hantaviruses
+in
+shrew
+and
+mole
+tissues.
+Hantavirus
+Nested
+or
+Hemi-nested
+Primer
+Pairs
+Position
+Forward:
+sequence
+(5′–3′)
+Reverse:
+sequence
+(5′–3′)
+Shrew-borne
+S
+Han-5′end-EcoRI:
+CTC
+GAA
+TTC
+TAG
+TAG
+TAG
+AC
+Shrew-S777R:
+AAN
+CCD
+ATN
+ACN
+CCC
+AT
+1-720
+Han-5′end-EcoRI:
+CTC
+GAA
+TTC
+TAG
+TAG
+TAG
+AC
+Shrew-S764R:
+CCA
+TNA
+CWG
+GRC
+TNA
+TCA
+1-710
+OSM55:
+TAG
+TAG
+TAG
+ACT
+CC
+Han-S6:
+AGC
+TCN
+GGA
+TCC
+ATN
+TCA
+TC
+1-1260
+Cro-2F:
+AGY
+CCN
+GTN
+ATG
+RGW
+GTN
+RTY
+GG
+Cro-2R:
+ANG
+AYT
+GRT
+ARA
+ANG
+ANG
+AYT
+TYT
+T
+700-1140
+L
+Han-L2520F:
+ATN
+WGH
+YTD
+AAR
+GGN
+ATG
+TCN
+GG
+Han-L2970R:
+CCN
+GGN
+GAC
+CAY
+TTN
+GTD
+GCA
+TC
+2520-2970
+Han-L2520F:
+ATN
+WGH
+YTD
+AAR
+GGN
+ATG
+TCN
+GG
+Han-L2935R:
+GTN
+GCR
+TCN
+GCA
+CTN
+ACA
+TAC
+AT
+2520-2957
+HAN-L-F1:
+ATG
+TAY
+GTB
+AGT
+GCW
+GAT
+GC
+HAN-L-R1:
+AAC
+CAD
+TCW
+GTY
+CCR
+TCA
+TC
+2935-3354
+HAN-L-F2:
+TGC
+WGA
+TGC
+HAC
+NAA
+RTG
+GTC
+HAN-L-R2:
+GCR
+TCR
+TCW
+GAR
+TGR
+TGD
+GCA
+A
+2946-3337
+Mole-borne
+S
+OSM55:
+TAG
+TAG
+TAG
+ACT
+CC
+Mole-S732R:
+GRA
+AKC
+CDA
+TVA
+CTC
+CCA
+T
+1-730
+OSM55:
+TAG
+TAG
+TAG
+ACT
+CC
+Mole-S712R:
+CAT
+HAC
+AGG
+ACT
+WAT
+CA
+1-710
+Tal-S696F:
+TGA
+TNA
+GYC
+CTG
+TNA
+TGG
+GAG
+T
+NVAV-3′endR:
+TAG
+TAG
+TAT
+ACT
+CCT
+TGA
+AAA
+GC
+696-end
+Tal-S710F:
+ATG
+GGA
+GTG
+ATA
+GGC
+TTT
+CA
+Han-S6:
+AGC
+TCN
+GGA
+TCC
+ATN
+TCA
+TC
+710-1266
+NVAV-S1143F:
+ACA
+TGA
+GAA
+GGA
+CTC
+AGT
+C
+NVAV-3′endR:
+TAG
+TAG
+TAT
+ACT
+CCT
+TGA
+AAA
+GC
+1143-end
+NVAV-S1169F:
+ATG
+CAG
+ATG
+GAT
+CAG
+CGA
+NVAV-3′endR:
+TAG
+TAG
+TAT
+ACT
+CCT
+TGA
+AAA
+GC
+1169-end
+L
+Han-L2520F:
+ATN
+WGH
+YTD
+AAR
+GGN
+ATG
+TCN
+GG
+Han-L2970R:
+CCN
+GGN
+GAC
+CAY
+TTN
+GTD
+GCA
+TC
+2530-2987
+Han-L2520F:
+ATN
+WGH
+YTD
+AAR
+GGN
+ATG
+TCN
+GG
+Han-L2935R:
+GTN
+GCR
+TCN
+GCA
+CTN
+ACA
+TAC
+AT
+2530-2972
+HAN-L-F1:
+ATG
+TAY
+GTB
+AGT
+GCW
+GAT
+GC
+HAN-L-R1:
+AAC
+CAD
+TCW
+GTY
+CCR
+TCA
+TC
+2950-3373
+HAN-L-F2:
+TGC
+WGA
+TGC
+HAC
+NAA
+RTG
+GTC
+HAN-L-R2:
+GCR
+TCR
+TCW
+GAR
+TGR
+TGD
+GCA
+A
+2960-3356
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+NIH-PA
+Author
+Manuscript
+Gu et al. Page 20
+Table
+3
+NVAV
+distribution
+in
+tissues
+of
+European
+moles,
+as
+determined
+by
+DNA
+sequencing
+of
+RT-PCR
+products.
+*
+Year
+Capture
+Site
+NVAV
+Strain
+GenBank
+Accession
+Numbers
+Lung
+Heart
+Liver
+Kidney
+Spleen
+Intestine
+2010
+Huta
+Dłutowska
+1129
+JX990946
+KF663714
+KF663752
+KF663751
+KF663750
+N.A.
+1132
+JX990947
+KF663749
+KF663748
+N.D.
+KF663747
+N.A.
+1135
+JX990948
+KF663746
+KF663745
+KF663744
+KF663743
+N.A.
+1136
+JX990949
+KF663742
+KF663741
+KF663740
+KF663739
+N.A.
+2011
+Huta
+Dłutowska
+2088
+JX990950
+N.D.
+N.D.
+N.D.
+N.D.
+N.D.
+2090
+JX990951
+N.D.
+N.D.
+KF663738
+KF663737
+N.D.
+2091
+JX990952
+N.D.
+N.D.
+KF663736
+N.D.
+N.D.
+2093
+JX990953
+N.D.
+KF663735
+KF663734
+KF663733
+KF663732
+2095
+JX990954
+N.D.
+KF663731
+KF663730
+KF663729
+KF663728
+2097
+JX990955
+N.D.
+KF663727
+KF663726
+KF663725
+KF663724
+2099
+JX990956
+N.D.
+N.D.
+KF663723
+KF663722
+KF663721
+2100
+JX990957
+N.D.
+N.D.
+N.D.
+N.D.
+N.D.
+2101
+JX990958
+N.D.
+N.D.
+N.D.
+N.D.
+N.D.
+2102
+JX990959
+KF663720
+N.D.
+N.D.
+N.D.
+N.D.
+2103
+JX990960
+N.D.
+N.D.
+N.D.
+N.D.
+N.D.
+2104
+JX990961
+N.D.
+KF663719
+KF663718
+KF663717
+KF663716
+2105
+JX990962
+N.D.
+N.D.
+N.D.
+KF663715
+N.D.
+*
+GenBank
+accession
+numbers
+are
+provided
+for
+NVAV
+sequences
+amplified
+from
+tissues
+of
+European
+moles
+captured
+in
+Huta
+Dłutowska
+in
+2010
+and
+2011.
+N.D.:
+NVAV
+not
+detected:
+N.A.:
+tissue
+not
+available
+for
+testing.
+Infect Genet Evol. Author manuscript; available in PMC 2015 December 01.

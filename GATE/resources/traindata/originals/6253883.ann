@@ -1,0 +1,20 @@
+T1	Location 4603 4617	St. Petersberg
+#1	AnnotatorNotes T1	<latlng>27.77086,-82.67927</latlng><pop>244769</pop><geoID>4171563</geoID>
+T16	Location 4619 4622	Fla
+#16	AnnotatorNotes T16	<latlng>28.75054,-82.5001</latlng><pop>17671452</pop><geoID>4155751</geoID>
+T144	Protein 1 8	Volume8
+#144	AnnotatorNotes T144	BEGIN
+T145	Protein 38 46	Research
+#145	AnnotatorNotes T145	END
+T146	Protein 160 161	G
+#146	AnnotatorNotes T146	BEGIN
+T147	Protein 295 299	1980
+#147	AnnotatorNotes T147	END
+T148	Protein 2239 2240	©
+#148	AnnotatorNotes T148	BEGIN
+T149	Protein 2321 2329	Research
+#149	AnnotatorNotes T149	END
+T151	Protein 30931 30947	ACKNOWLEDGEMENTS
+#151	AnnotatorNotes T151	BEGIN
+T152	Protein 34721 34725	2575
+#152	AnnotatorNotes T152	END

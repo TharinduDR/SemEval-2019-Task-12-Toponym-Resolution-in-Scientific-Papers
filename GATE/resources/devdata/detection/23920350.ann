@@ -1,0 +1,77 @@
+T2	Location 92 97	China
+#2	AnnotatorNotes T2	<latlng>35,105</latlng><geoID>1814991</geoID>
+T258	Protein 137 141	OPEN
+#258	AnnotatorNotes T258	BEGIN
+T259	Protein 1468 1474	210008
+#259	AnnotatorNotes T259	END
+T58	Location 1739 1743	Wuxi
+#58	AnnotatorNotes T58	<latlng>31.56887,120.28857</latlng><pop>1108647</pop><geoID>1790923</geoID>
+T60	Location 1753 1758	China
+#60	AnnotatorNotes T60	<latlng>35,105</latlng><geoID>1814991</geoID>
+T62	Location 3532 3537	China
+#62	AnnotatorNotes T62	<latlng>35,105</latlng><geoID>1814991</geoID>
+T63	Location 3671 3677	Taiwan
+#63	AnnotatorNotes T63	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T7	Protein 3955 3969	Correspondence
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4536 4544	RESEARCH
+#8	AnnotatorNotes T8	END
+T69	Location 4838 4849	Netherlands
+#69	AnnotatorNotes T69	<latlng>52.5,5.75</latlng><geoID>2750405</geoID>
+T70	Location 5440 5447	Jiangsu
+#70	AnnotatorNotes T70	<latlng>33.0,120.0</latlng><pop>76770000</pop><geoID>1806260</geoID>
+T73	Location 8280 8288	Carlsbad
+#73	AnnotatorNotes T73	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T1	Location 8290 8292	CA
+#1	AnnotatorNotes T1	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T74	Location 8294 8297	USA
+#74	AnnotatorNotes T74	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T75	Location 8395 8404	Cleveland
+#75	AnnotatorNotes T75	<latlng>41.47926,-81.68022</latlng><pop>396815</pop><geoID>5150583</geoID>
+T3	Location 8406 8408	OH
+#3	AnnotatorNotes T3	<latlng>40.25034,-83.00018</latlng><pop>11467123</pop><geoID>5165418</geoID>
+T76	Location 8410 8413	USA
+#76	AnnotatorNotes T76	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T4	Location 8522 8524	CA
+#4	AnnotatorNotes T4	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T80	Location 8526 8529	USA
+#80	AnnotatorNotes T80	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T84	Location 9387 9394	Madison
+#84	AnnotatorNotes T84	<latlng>43.08097,-89.39172</latlng><pop>233209</pop><geoID>5261482</geoID>
+T5	Location 9396 9398	WI
+#5	AnnotatorNotes T5	<latlng>44.50024,-90.00041</latlng><pop>5535168</pop><geoID>5279468</geoID>
+T85	Location 9400 9403	USA
+#85	AnnotatorNotes T85	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T87	Location 10391 10398	Jiangsu
+#87	AnnotatorNotes T87	<latlng>33.0,120.0</latlng><pop>76770000</pop><geoID>1806260</geoID>
+T90	Location 10528 10535	Nanjing
+#90	AnnotatorNotes T90	<latlng>32.06167,118.77778</latlng><pop>3087010</pop><geoID>1799962</geoID>
+T91	Location 10537 10542	China
+#91	AnnotatorNotes T91	<latlng>35,105</latlng><geoID>1814991</geoID>
+T9	Protein 11621 11623	No
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 11819 11827	RESEARCH
+#10	AnnotatorNotes T10	END
+T92	Location 18260 18268	Shanghai
+#92	AnnotatorNotes T92	<latlng>31.23333,121.46667</latlng><pop>18880000</pop><geoID>1796231</geoID>
+T93	Location 18271 18279	Zhejiang
+#93	AnnotatorNotes T93	<latlng>29.0,120.0</latlng><pop>51200000</pop><geoID>1784764</geoID>
+T94	Location 18285 18290	Anhui
+#94	AnnotatorNotes T94	<latlng>32.0,117.0</latlng><pop>64610000</pop><geoID>1818058</geoID>
+T11	Protein 19427 19429	No
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 19625 19633	RESEARCH
+#12	AnnotatorNotes T12	END
+T99	Location 19816 19821	China
+#99	AnnotatorNotes T99	<latlng>35,105</latlng><geoID>1814991</geoID>
+T13	Protein 27213 27215	No
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 27411 27419	RESEARCH
+#14	AnnotatorNotes T14	END
+T260	Protein 28058 28060	We
+#260	AnnotatorNotes T260	BEGIN
+T261	Protein 39172 39180	RESEARCH
+#261	AnnotatorNotes T261	END
+T15	Location 8510 8514;8515 8520	San
+ Diego
+#15	AnnotatorNotes T15	<latlng>33.0282, -116.77021</latlng><geoID>5391832</geoID><pop>3095313</pop>

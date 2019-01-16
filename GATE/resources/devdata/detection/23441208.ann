@@ -1,0 +1,118 @@
+T407	Protein 147 153	Jeremy
+#407	AnnotatorNotes T407	BEGIN
+T408	Protein 764 771	America
+#408	AnnotatorNotes T408	END
+T23	Location 1078 1086	Kentucky
+#23	AnnotatorNotes T23	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T7	Protein 2817 2825	Citation
+#7	AnnotatorNotes T7	BEGIN
+T1	Protein 3915 3918	edu
+#1	AnnotatorNotes T1	END
+T8	Protein 5964 5968	PLOS
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 6030 6036	e56602
+#9	AnnotatorNotes T9	END
+T40	Location 7782 7790	Kentucky
+#40	AnnotatorNotes T40	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T41	Location 8369 8377	Kentucky
+#41	AnnotatorNotes T41	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T42	Location 9043 9051	Kentucky
+#42	AnnotatorNotes T42	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T43	Location 9166 9174	Kentucky
+#43	AnnotatorNotes T43	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T44	Location 9243 9253	Louisville
+#44	AnnotatorNotes T44	<latlng>38.25424,-85.75941</latlng><pop>243639</pop><geoID>4299276</geoID>
+T2	Protein 13532 13542	Phenotypic
+#2	AnnotatorNotes T2	BEGIN
+T10	Protein 13642 13648	e56602
+#10	AnnotatorNotes T10	END
+T55	Location 19412 19420	Kentucky
+#55	AnnotatorNotes T55	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T3	Location 19439 19441	KY
+#3	AnnotatorNotes T3	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T56	Location 19447 19457	Louisville
+#56	AnnotatorNotes T56	<latlng>38.25424,-85.75941</latlng><pop>243639</pop><geoID>4299276</geoID>
+T11	Protein 19643 19646	doi
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 19792 19798	e56602
+#12	AnnotatorNotes T12	END
+T13	Protein 25044 25047	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 25193 25199	e56602
+#14	AnnotatorNotes T14	END
+T15	Protein 26860 26863	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 27009 27015	e56602
+#16	AnnotatorNotes T16	END
+T17	Protein 28770 28773	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 28919 28925	e56602
+#18	AnnotatorNotes T18	END
+T67	Location 32179 32187	Kentucky
+#67	AnnotatorNotes T67	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T68	Location 32189 32192	USA
+#68	AnnotatorNotes T68	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T69	Location 32882 32890	Kentucky
+#69	AnnotatorNotes T69	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T19	Protein 35267 35270	doi
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 35416 35422	e56602
+#20	AnnotatorNotes T20	END
+T73	Location 36618 36623	China
+#73	AnnotatorNotes T73	<latlng>35,105</latlng><geoID>1814991</geoID>
+T4	Protein 39154 39157	doi
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 39303 39309	e56602
+#5	AnnotatorNotes T5	END
+T6	Protein 40470 40473	doi
+#6	AnnotatorNotes T6	BEGIN
+T21	Protein 40619 40625	e56602
+#21	AnnotatorNotes T21	END
+T22	Protein 41314 41317	doi
+#22	AnnotatorNotes T22	BEGIN
+T24	Protein 41464 41470	e56602
+#24	AnnotatorNotes T24	END
+T25	Protein 48758 48761	doi
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 48908 48914	e56602
+#26	AnnotatorNotes T26	END
+T27	Protein 52889 52892	doi
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 53039 53045	e56602
+#28	AnnotatorNotes T28	END
+T91	Location 54603 54609	Austin
+#91	AnnotatorNotes T91	<latlng>30.26715,-97.74306</latlng><pop>790390</pop><geoID>4671654</geoID>
+T65	Location 54612 54614	TX
+#65	AnnotatorNotes T65	<latlng>31.25044,-99.25061</latlng><pop>22875689</pop><geoID>4736286</geoID>
+T66	Location 55135 55143	Murietta
+#66	AnnotatorNotes T66	<latlng>33.57198,-117.19092</latlng><geoID>7173919</geoID><pop>103466</pop>
+T74	Location 55145 55147	CA
+#74	AnnotatorNotes T74	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T97	Location 55231 55239	Valencia
+#97	AnnotatorNotes T97	<latlng>34.44361,-118.60953</latlng><pop>148456</pop><geoID>5405288</geoID>
+T75	Location 55241 55243	CA
+#75	AnnotatorNotes T75	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T76	Location 55934 55936	KY
+#76	AnnotatorNotes T76	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T29	Protein 59408 59411	doi
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 59558 59564	e56602
+#30	AnnotatorNotes T30	END
+T118	Location 60066 60076	Bar Harbor
+#118	AnnotatorNotes T118	<latlng>44.38559, -68.26579</latlng><geoID>4957335</geoID><pop>5321</pop>
+T77	Location 60078 60080	ME
+#77	AnnotatorNotes T77	<latlng>45.50032,-69.24977</latlng><pop>1325518</pop><geoID>4971068</geoID>
+T31	Protein 62562 62565	doi
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 62712 62718	e56602
+#32	AnnotatorNotes T32	END
+T142	Location 67707 67715	Kentucky
+#142	AnnotatorNotes T142	<latlng>38.20042,-84.87762</latlng><pop>4206074</pop><geoID>6254925</geoID>
+T33	Protein 68916 68919	doi
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 69066 69072	e56602
+#34	AnnotatorNotes T34	END
+T409	Protein 71580 71595	Acknowledgments
+#409	AnnotatorNotes T409	BEGIN
+T410	Protein 92305 92311	e56602
+#410	AnnotatorNotes T410	END

@@ -1,0 +1,138 @@
+T1	Location 6866 6868	UK
+T2	Location 6870 6879	Newmarket
+T3	Protein 139 145	Joseph
+#1	AnnotatorNotes T3	BEGIN
+T4	Protein 1547 1554	America
+#2	AnnotatorNotes T4	END
+T5	Protein 3170 3178	Citation
+#3	AnnotatorNotes T5	BEGIN
+T6	Protein 3610 3611	.
+#4	AnnotatorNotes T6	END
+T7	Protein 3612 3616	This
+#5	AnnotatorNotes T7	BEGIN
+T8	Protein 4578 4580	uk
+#6	AnnotatorNotes T8	END
+T9	Protein 13774 13778	PLOS
+#7	AnnotatorNotes T9	BEGIN
+T10	Protein 13989 13997	e1003081
+#8	AnnotatorNotes T10	END
+T11	Protein 21046 21049	doi
+#9	AnnotatorNotes T11	BEGIN
+T12	Protein 21211 21219	e1003081
+#10	AnnotatorNotes T12	END
+T13	Protein 23476 23488	Transmission
+#11	AnnotatorNotes T13	BEGIN
+T14	Protein 23603 23611	e1003081
+#12	AnnotatorNotes T14	END
+T15	Protein 29897 29900	doi
+#13	AnnotatorNotes T15	BEGIN
+T16	Protein 30062 30070	e1003081
+#14	AnnotatorNotes T16	END
+T17	Protein 30573 30576	doi
+#15	AnnotatorNotes T17	BEGIN
+T18	Protein 30874 30882	e1003081
+#16	AnnotatorNotes T18	END
+T19	Protein 37443 37446	doi
+#17	AnnotatorNotes T19	BEGIN
+T20	Protein 37476 37480	g003
+#18	AnnotatorNotes T20	END
+T21	Protein 37725 37728	doi
+#19	AnnotatorNotes T21	BEGIN
+T22	Protein 37890 37898	e1003081
+#20	AnnotatorNotes T22	END
+T23	Protein 43850 43853	doi
+#21	AnnotatorNotes T23	BEGIN
+T24	Protein 44016 44024	e1003081
+#22	AnnotatorNotes T24	END
+T25	Protein 56405 56417	Transmission
+#23	AnnotatorNotes T25	BEGIN
+T26	Protein 56533 56541	e1003081
+#24	AnnotatorNotes T26	END
+T27	Protein 61764 61779	Acknowledgments
+#25	AnnotatorNotes T27	BEGIN
+T28	Protein 73367 73375	e1003081
+#26	AnnotatorNotes T28	END
+T29	Location 5971 5985	United Kingdom
+#27	AnnotatorNotes T29	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T30	Location 5960 5969	Newmarket
+#28	AnnotatorNotes T30	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T31	Protein 6344 6348	PLOS
+#29	AnnotatorNotes T31	BEGIN
+T32	Protein 6423 6431	e1003081
+#30	AnnotatorNotes T32	END
+#31	AnnotatorNotes T2	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+#32	AnnotatorNotes T1	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T33	Location 7113 7115	UK
+#33	AnnotatorNotes T33	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T34	Location 7246 7255	Newmarket
+#34	AnnotatorNotes T34	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T35	Location 8835 8844	Newmarket
+#35	AnnotatorNotes T35	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T36	Location 9225 9234	Newmarket
+#36	AnnotatorNotes T36	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T38	Location 9608 9617	Newmarket
+#38	AnnotatorNotes T38	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T39	Location 10654 10663	Newmarket
+#39	AnnotatorNotes T39	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T40	Location 14663 14672	Newmarket
+#40	AnnotatorNotes T40	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T42	Location 15458 15467	Newmarket
+#42	AnnotatorNotes T42	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T44	Location 18517 18529	South Africa
+#44	AnnotatorNotes T44	<latlng>-29, 24</latlng><geoID>953987 </geoID><pop>49000000</pop>
+T45	Location 23822 23831	Newmarket
+#45	AnnotatorNotes T45	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T46	Location 25073 25082	Newmarket
+#46	AnnotatorNotes T46	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T48	Location 36433 36442	Newmarket
+#48	AnnotatorNotes T48	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T49	Location 41121 41130	Newmarket
+#49	AnnotatorNotes T49	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T50	Location 40689 40698	Australia
+#50	AnnotatorNotes T50	<latlng>-25, 135</latlng><geoID>2077456 </geoID><pop>21515754</pop>
+T51	Location 40787 40792	Japan
+#51	AnnotatorNotes T51	<latlng>35.68536, 139.75309</latlng><geoID>1861060 </geoID><pop>127288000</pop>
+T52	Location 42278 42287	Australia
+#52	AnnotatorNotes T52	<latlng>-25, 135</latlng><geoID>2077456 </geoID><pop>21515754</pop>
+T53	Location 42695 42704	Newmarket
+#53	AnnotatorNotes T53	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T54	Location 43020 43029	Newmarket
+#54	AnnotatorNotes T54	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T55	Location 43120 43129	Newmarket
+#55	AnnotatorNotes T55	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T56	Location 44212 44214	UK
+#56	AnnotatorNotes T56	<latlng>54.75844, -2.69531</latlng><geoID>2635167 </geoID><pop>62348447</pop>
+T57	Location 44216 44222	France
+#57	AnnotatorNotes T57	<latlng>46, 2</latlng><geoID>3017382 </geoID><pop>64768389</pop>
+T58	Location 44227 44234	Germany
+#58	AnnotatorNotes T58	<latlng>51.5, 10.5</latlng><geoID>2921044 </geoID><pop>81802257</pop>
+T59	Protein 48769 48772	doi
+#59	AnnotatorNotes T59	BEGIN
+T60	Protein 48935 48943	e1003081
+#60	AnnotatorNotes T60	END
+T61	Location 50307 50316	Newmarket
+#61	AnnotatorNotes T61	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T62	Location 52705 52714	Newmarket
+#62	AnnotatorNotes T62	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T63	Location 57298 57307	Newmarket
+#63	AnnotatorNotes T63	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T64	Location 57392 57401	Newmarket
+#64	AnnotatorNotes T64	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T66	Location 58249 58258	Newmarket
+#66	AnnotatorNotes T66	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T67	Location 58444 58453	Newmarket
+#67	AnnotatorNotes T67	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T68	Location 60933 60942	Newmarket
+#68	AnnotatorNotes T68	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T69	Location 7128 7134	Europe
+#69	AnnotatorNotes T69	<latlng>48.69096, 9.14062</latlng><geoID>6255148 </geoID>
+T43	Location 18499 18512	North America
+#43	AnnotatorNotes T43	<latlng> 46.07323, -100.54588 </latlng><geoID>6255149 </geoID> 
+T70	Location 40934 40943	Australia
+#70	AnnotatorNotes T70	<latlng>-25, 135</latlng><geoID>2077456 </geoID><pop>21515754</pop>
+T71	Location 18116 18122	Europe
+#71	AnnotatorNotes T71	<latlng> 48.69096, 9.14062 </latlng><geoID>6255148 </geoID> 
+T72	Location 29331 29340	Newmarket
+#72	AnnotatorNotes T72	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>
+T73	Location 35656 35665	Newmarket
+#73	AnnotatorNotes T73	<latlng>52.24778, 0.3848</latlng><geoID>7301335 </geoID>

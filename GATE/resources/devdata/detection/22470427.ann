@@ -1,0 +1,102 @@
+T38	Location 5128 5134	Mexico
+#38	AnnotatorNotes T38	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T39	Location 5186 5189	USA
+#39	AnnotatorNotes T39	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T40	Location 5194 5200	Canada
+#40	AnnotatorNotes T40	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T41	Location 5341 5348	Alberta
+#41	AnnotatorNotes T41	<latlng>52.28333,-117.469</latlng><pop>3497881</pop><geoID>5883102</geoID>
+T42	Location 5350 5356	Canada
+#42	AnnotatorNotes T42	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T43	Location 5442 5447	Chile
+#43	AnnotatorNotes T43	<latlng>-30,-71</latlng><geoID>3895114</geoID>
+T44	Location 5483 5490	Ontario
+#44	AnnotatorNotes T44	<latlng>49.25014,-84.49983</latlng><pop>12861940</pop><geoID>6093943</geoID>
+T45	Location 5492 5498	Canada
+#45	AnnotatorNotes T45	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T46	Location 6252 6265	North America
+#46	AnnotatorNotes T46	<latlng>46.07323,-100.54688</latlng><pop>565265000</pop><geoID>6255149</geoID>
+T47	Location 6600 6614	North America
+#47	AnnotatorNotes T47	<latlng>46.07323,-100.54688</latlng><pop>565265000</pop><geoID>6255149</geoID>
+T50	Location 6786 6800	North Carolina
+#50	AnnotatorNotes T50	<latlng>35.50069,-80.00032</latlng><pop>8611367</pop><geoID>4482348</geoID>
+T51	Location 6838 6847	Minnesota
+#51	AnnotatorNotes T51	<latlng>46.25024,-94.25055</latlng><pop>5141953</pop><geoID>5037779</geoID>
+T52	Location 6849 6853	Iowa
+#52	AnnotatorNotes T52	<latlng>42.00027,-93.50049</latlng><pop>2955010</pop><geoID>4862182</geoID>
+T53	Location 6858 6863	Texas
+#53	AnnotatorNotes T53	<latlng>31.25044,-99.25061</latlng><pop>22875689</pop><geoID>4736286</geoID>
+T54	Location 6906 6915	Minnesota
+#54	AnnotatorNotes T54	<latlng>46.25024,-94.25055</latlng><pop>5141953</pop><geoID>5037779</geoID>
+T55	Location 6917 6921	Iowa
+#55	AnnotatorNotes T55	<latlng>42.00027,-93.50049</latlng><pop>2955010</pop><geoID>4862182</geoID>
+T56	Location 6926 6931	Texas
+#56	AnnotatorNotes T56	<latlng>31.25044,-99.25061</latlng><pop>22875689</pop><geoID>4736286</geoID>
+T58	Location 7294 7300	Canada
+#58	AnnotatorNotes T58	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T59	Location 7316 7323	Ontario
+#59	AnnotatorNotes T59	<latlng>49.25014,-84.49983</latlng><pop>12861940</pop><geoID>6093943</geoID>
+T61	Location 7596 7603	Ontario
+#61	AnnotatorNotes T61	<latlng>49.25014,-84.49983</latlng><pop>12861940</pop><geoID>6093943</geoID>
+T63	Location 8308 8315	Ontario
+#63	AnnotatorNotes T63	<latlng>49.25014,-84.49983</latlng><pop>12861940</pop><geoID>6093943</geoID>
+T68	Location 9017 9024	Ontario
+#68	AnnotatorNotes T68	<latlng>49.25014,-84.49983</latlng><pop>12861940</pop><geoID>6093943</geoID>
+T95	Location 11050 11061	Pipersville
+#95	AnnotatorNotes T95	<latlng>40.42538,-75.13934</latlng><pop>0</pop><geoID>5206344</geoID>
+T7	Location 11063 11065	PA
+#7	AnnotatorNotes T7	<latlng>40.27245, -76.90567</latlng><pop>12440621</pop><geoID>6254927</geoID>
+T96	Location 11067 11070	USA
+#96	AnnotatorNotes T96	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T101	Location 11651 11659	Winnipeg
+#101	AnnotatorNotes T101	<latlng>49.8844,-97.14704</latlng><pop>632063</pop><geoID>6183235</geoID>
+T103	Location 12166 12174	Winnipeg
+#103	AnnotatorNotes T103	<latlng>49.8844,-97.14704</latlng><pop>632063</pop><geoID>6183235</geoID>
+T105	Location 13224 13230	Austin
+#105	AnnotatorNotes T105	<latlng>30.26715,-97.74306</latlng><pop>790390</pop><geoID>4671654</geoID>
+T106	Location 13232 13237	Texas
+#106	AnnotatorNotes T106	<latlng>31.25044,-99.25061</latlng><pop>22875689</pop><geoID>4736286</geoID>
+T108	Location 15469 15472	USA
+#108	AnnotatorNotes T108	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T111	Location 16668 16680	Gaithersburg
+#111	AnnotatorNotes T111	<latlng>39.14344,-77.20137</latlng><pop>59933</pop><geoID>4355843</geoID>
+T8	Location 16682 16684	MD
+#8	AnnotatorNotes T8	<latlng>39.00039,-76.74997</latlng><pop>5624246</pop><geoID>4361885</geoID>
+T123	Location 18458 18465	Madison
+#123	AnnotatorNotes T123	<latlng>43.07305,-89.40123</latlng><pop>233209</pop><geoID>5261457</geoID>
+T9	Location 18467 18469	WI
+#9	AnnotatorNotes T9	<latlng>44.50024,-90.00041</latlng><pop>5535168</pop><geoID>5279468</geoID>
+T129	Location 20389 20395	Quebec
+#129	AnnotatorNotes T129	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T132	Location 24240 24243	USA
+#132	AnnotatorNotes T132	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T133	Location 24269 24275	Canada
+#133	AnnotatorNotes T133	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T134	Location 24680 24686	Quebec
+#134	AnnotatorNotes T134	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T135	Location 24924 24930	Quebec
+#135	AnnotatorNotes T135	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T159	Location 35662 35668	Quebec
+#159	AnnotatorNotes T159	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T165	Location 38266 38269	USA
+#165	AnnotatorNotes T165	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T166	Location 38293 38299	Canada
+#166	AnnotatorNotes T166	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T167	Location 38689 38695	Quebec
+#167	AnnotatorNotes T167	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T168	Location 38971 38977	Quebec
+#168	AnnotatorNotes T168	<latlng>52.00017,-71.99907</latlng><pop>7730612</pop><geoID>6115047</geoID>
+T171	Location 42568 42574	Canada
+#171	AnnotatorNotes T171	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T1	Protein 146 154	Yohannes
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 449 455	Canada
+#2	AnnotatorNotes T2	END
+T3	Protein 2136 2144	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3236 3238	ca
+#4	AnnotatorNotes T4	END
+T5	Protein 45614 45629	Acknowledgments
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 53473 53479	e32858
+#6	AnnotatorNotes T6	END

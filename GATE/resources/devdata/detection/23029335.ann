@@ -1,0 +1,74 @@
+T1	Location 46 52	Taiwan
+#1	AnnotatorNotes T1	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T51	Location 1361 1367	Taiwan
+#51	AnnotatorNotes T51	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T68	Location 4192 4205	North America
+#68	AnnotatorNotes T68	<latlng>46.07323,-100.54688</latlng><pop>0</pop><geoID>6255149</geoID>
+T71	Location 5278 5284	Mexico
+#71	AnnotatorNotes T71	<latlng>23,-102</latlng><geoID>3996063</geoID>
+T6	Location 5289 5304	central America
+#6	AnnotatorNotes T6	<latlng>25.32417,-99.66797</latlng><pop>43308660</pop><geoID>7729892</geoID>
+T77	Location 7602 7608	Taiwan
+#77	AnnotatorNotes T77	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T89	Location 8944 8951	Taoyuan
+#89	AnnotatorNotes T89	<latlng>24.895,121.24611</latlng><pop>0</pop><geoID>1667900</geoID>
+T90	Location 8953 8959	Taiwan
+#90	AnnotatorNotes T90	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T93	Location 10337 10344	Madison
+#93	AnnotatorNotes T93	<latlng>43.08097,-89.39172</latlng><pop>233209</pop><geoID>5261482</geoID>
+T97	Location 10487 10495	Carlsbad
+#97	AnnotatorNotes T97	<latlng>33.15809,-117.35059</latlng><pop>105328</pop><geoID>5334223</geoID>
+T13	Location 10498 10500	CA
+#13	AnnotatorNotes T13	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T100	Location 10661 10664	USA
+#100	AnnotatorNotes T100	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T110	Location 13095 13101	Taiwan
+#110	AnnotatorNotes T110	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T112	Location 13213 13219	Taiwan
+#112	AnnotatorNotes T112	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T116	Location 18235 18241	Taiwan
+#116	AnnotatorNotes T116	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T128	Location 24302 24308	Taiwan
+#128	AnnotatorNotes T128	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T131	Location 26204 26210	Taiwan
+#131	AnnotatorNotes T131	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T132	Location 26217 26222	India
+#132	AnnotatorNotes T132	<latlng>20,77</latlng><geoID>1269750</geoID>
+T133	Location 26229 26235	Russia
+#133	AnnotatorNotes T133	<latlng>60,100</latlng><geoID>2017370</geoID>
+T134	Location 26242 26248	Canada
+#134	AnnotatorNotes T134	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T136	Location 30893 30899	Taiwan
+#136	AnnotatorNotes T136	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T137	Location 31266 31272	Taiwan
+#137	AnnotatorNotes T137	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T138	Location 31942 31948	Taiwan
+#138	AnnotatorNotes T138	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T148	Location 36570 36576	Taiwan
+#148	AnnotatorNotes T148	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T149	Location 36724 36730	Taiwan
+#149	AnnotatorNotes T149	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T150	Location 39184 39190	Taiwan
+#150	AnnotatorNotes T150	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T152	Location 40041 40047	Canada
+#152	AnnotatorNotes T152	<latlng>60,-95</latlng><geoID>6251999</geoID>
+T7	Location 8353 8360	Taoyuan
+#7	AnnotatorNotes T7	<latlng>24.895,121.24611</latlng><pop>0</pop><geoID>1667900</geoID>
+T8	Location 8362 8368	Taiwan
+#8	AnnotatorNotes T8	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T9	Location 10346 10348	WI
+#9	AnnotatorNotes T9	<latlng>44.50024,-90.00041</latlng><pop>5535168</pop><geoID>5279468</geoID>
+T10	Location 33179 33185	Taiwan
+#10	AnnotatorNotes T10	<latlng>23.5,121</latlng><geoID>1668284</geoID>
+T2	Protein 73 78	Guang
+#2	AnnotatorNotes T2	BEGIN
+T3	Protein 1052 1057	China
+#3	AnnotatorNotes T3	END
+T4	Protein 2982 2990	Citation
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 4114 4115	.
+#5	AnnotatorNotes T5	END
+T11	Protein 45477 45483	Author
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 50523 50529	e45946
+#12	AnnotatorNotes T12	END

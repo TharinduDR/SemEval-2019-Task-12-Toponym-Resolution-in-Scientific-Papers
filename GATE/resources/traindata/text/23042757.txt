@@ -1,0 +1,659 @@
+﻿M A J O R A R T I C L E
+Differences in Cytokine Production in Human
+Macrophages and in Virulence in Mice
+Are Attributable to the Acidic Polymerase
+Protein of Highly Pathogenic Influenza
+A Virus Subtype H5N1
+Saori Sakabe,1,5
+Ryo Takano,1
+Tokiko Nagamura-Inoue,2
+Naohide Yamashita,3
+Chairul A. Nidom,6
+Mai thi Quynh Le,7
+Kiyoko Iwatsuki-Horimoto,1
+and Yoshihiro Kawaoka1,4,5,8
+1
+Division of Virology, Department of Microbiology and Immunology, 2
+Department of Cell Processing and Transfusion, Research Hospital, 3
+Department
+of Advanced Medical Science, and 4
+International Research Center for Infectious Diseases, Institute of Medical Science, University of Tokyo, and
+5
+ERATO Infection-Induced Host Responses Project, Saitama, Japan; 6
+Faculty of Veterinary Medicine, Tropical Disease Centre, Airlangga University,
+Surabaya, Indonesia; 7
+National Institute of Hygiene and Epidemiology, Hanoi, Vietnam; and 8
+Department of Pathobiological Sciences, School of
+Veterinary Medicine, University of Wisconsin-Madison
+(See the editorial commentary by Donis and Cox, on pages 208­10 and editorial commentary Hirsch, on page 207.)
+Background. The pathogenesis of influenza A virus subtype H5N1 (hereafter, "H5N1") infection in humans
+is not completely understood, although hypercytokinemia is thought to play a role. We previously reported that
+most H5N1 viruses induce high cytokine responses in human macrophages, whereas some H5N1 viruses induce
+only a low level of cytokine production similar to that induced by seasonal viruses.
+Methods. To identify the viral molecular determinants for cytokine induction of H5N1 viruses in human
+macrophages, we generated a series of reassortant viruses between the high cytokine inducer A/Vietnam/
+UT3028II/03 clone 2 (VN3028IIcl2) and the low inducer A/Indonesia/UT3006/05 (IDN3006) and evaluated cyto-
+kine expression in human macrophages.
+Results. Viruses possessing the acidic polymerase (PA) gene of VN3028IIcl2 exhibited high levels of hyper-
+cytokinemia-related cytokine expression in human macrophages, compared with IDN3006, but showed no sub-
+stantial differences in viral growth in these cells. Further, the PA gene of VN3028IIcl2 conferred enhanced
+virulence in mice.
+Conclusions. These results demonstrate that the PA gene of VN3028IIcl2 affects cytokine production in
+human macrophages and virulence in mice. These findings provide new insights into the cytokine-mediated path-
+ogenesis of H5N1 infection in humans.
+Keywords. H5N1 virus; Hypercytokinemia; cytokine; human macrophages; virulence; Microarray; Immune response.
+Highly pathogenic avian influenza A virus subtype
+H5N1 (hereafter, "H5N1") have been circulating among
+wild birds and domestic poultry worldwide since 2003
+[1, 2]. The total number of laboratory-confirmed cases
+of human H5N1 infection has climbed to >600 cases,
+with a mortality rate of 60%, posing a true threat to
+human health [3]. Although the high pathogenicity of
+these viruses is not completely understood, hypercyto-
+kinemia and systemic viral replication have been report-
+ed for patients infected with these viruses [4­9].
+Alveolar macrophages are considered central players
+in both innate and adaptive immune responses to re-
+spiratory infection and can be infected with H5N1
+Received 7 March 2012; accepted 14 June 2012; electronically published 4
+October 2012.
+Correspondence: Yoshihiro Kawaoka, DVM, PhD, Institute of Medical Science,
+University of Tokyo, Shirokanedai 4-6-1, Minato-ku, Tokyo 108-8639, Japan
+(kawaoka@ims.u-tokyo.ac.jp).
+The Journal of Infectious Diseases 2013;207:262­71
+© The Author 2012. Published by Oxford University Press on behalf of the Infectious
+Diseases Society of America. All rights reserved. For Permissions, please e-mail:
+journals.permissions@oup.com.
+DOI: 10.1093/infdis/jis523
+262 · JID 2013:207 (15 January) · Sakabe et al
+viruses [10]. In in vitro studies, human monocyte­derived
+macrophages infected with H5N1 viruses produced higher
+levels of cytokines than those infected with seasonal viruses,
+suggesting cytokine production contributes to the high patho-
+genicity of H5N1 viruses in humans [1, 11­15]. However, we
+previously found that some H5N1 viruses induce a level of
+cytokine production similar to that induced by seasonal viruses
+in human monocyte­derived macrophages [16], indicating that
+the ability to induce cytokines is virus-strain dependent.
+Previous findings regarding the role of nonstructural
+protein 1 (NS1) in cytokine induction are controversial; in one
+study, NS1 was shown to affect cytokine production in human
+macrophages [13], whereas another study was unable to
+confirm NS1's contribution to cytokine induction in these
+cells [17]. PB2-E627K, which is widely known as a mutation
+that enhances viral growth in mammalian cells and some
+mammals, is reported to enhance cytokine production [13,
+18]. Thus, determining the potential molecular markers that
+enhance cytokine production could extend our knowledge of
+the basis for the high virulence of H5N1 viruses in humans.
+We previously evaluated the ability of several H5N1 viruses
+to induce cytokines in human macrophages and found that A/
+Vietnam/UT3028II/03 clone 2 (VN3028IIcl2) was a high cyto-
+kine inducer and A/Indonesia/UT3006/05 (IDN3006) a low
+cytokine inducer [16]. Here, we generated a series of reassor-
+tant viruses between these 2 viruses and attempted to identify
+the viral molecular determinants that confer high cytokine in-
+duction in human macrophages. Further, to reveal the molec-
+ular networks affected by the virus infection, we examined the
+entire gene transcriptional profiles in human macrophages by
+using microarray analysis. To clarify whether differential ex-
+pression of cytokines mediated by H5N1 viruses contributes
+to pathogenicity in mammals, we compared the virulence in
+mice infected with the high cytokine inducer to that in mice
+infected with the low cytokine inducer.
+MATERIALS AND METHODS
+Ethics Statement
+Our research protocol for the use of human-derived macro-
+phages was approved by the Research Ethics Review Committee
+of the Institute of Medical Science, the University of Tokyo (ap-
+proval numbers 18-15-0129 and 19-24-200430). Our research
+protocol for the use of mice followed the University of Tokyo's
+Regulations for Animal Care and Use, which was approved by
+the Animal Experiment Committee of the Institute of Medical
+Science, the University of Tokyo (approved numbers 19­29).
+Cells
+A549 and HEK293T cells were maintained in Dulbecco's
+modified Eagle's medium (DMEM) with 10% fetal calf serum.
+Madin-Darby canine kidney (MDCK) cells were maintained
+in minimal essential medium supplemented with 5% newborn
+calf serum. Human monocyte­derived macrophages were pre-
+pared as described previously [16]. Briefly, peripheral blood
+mononuclear cells were independently separated from the
+buffy coat of healthy donors. Monocytes were purified by ad-
+herence and were allowed to differentiate for 14 days in
+Roswell Park Memorial Institute (RPMI) 1640 medium sup-
+plemented with 5 ng/mL of recombinant human granulocyte-
+macrophage colony-stimulating factor and 10% human serum
+derived from the corresponding blood donors. All cells were
+cultured at 37°C in 5% CO2.
+Viruses
+In this study, we used 2 H5N1 viruses with different
+cytokine induction abilities: A/Vietnam/UT3028II/03 clone 2
+(VN3028IIcl2, clade 1) and A/Indonesia/UT3006/05 (IDN3006,
+clade 2.1.3). Viruses were isolated in MDCK cells, and virus
+stocks were prepared from the supernatants of MDCK cells.
+Plasmid Constructs and Reverse Genetics
+Reverse genetics systems for the VN3028IIcl2 and IDN3006
+viruses were established as previously described [19]. Briefly,
+the complementary DNA of genes from these viruses were
+cloned into the pHH21 vector. The 8 plasmids for the synthe-
+sis of viral RNA and 4 expression plasmids for IDN3006 or
+VN3028IIcl2 virus-derived basic polymerase 2 (PB2), basic
+polymerase 1 (PB1), acidic polymerase (PA), and nucleopro-
+tein (NP) proteins were transfected into HEK293T cells. Two
+days later, the supernatant of the transfected cells was harvest-
+ed and used to infect MDCK cells for the preparation of virus
+stocks. All virus stocks were sequenced to ensure the absence
+of unwanted mutations and were titrated by using the plaque
+assay with MDCK cells prior to use.
+Virus Infection of Human Macrophages
+Differentiated macrophages were seeded on 24-well plates (BD
+Falcon), with 1 × 105
+cells per well. Cells were infected with
+viruses at a multiplicity of infection of 2. The virus inoculum
+was removed, and the cells were washed 3 times and then in-
+cubated in serum-free RPMI 1640 medium supplemented
+with 0.3% bovine serum albumin. At 6, 12, and 24 hours after
+infection, the supernatant was collected for virus titration and
+cytokine measurement; the cells were collected for use in viral
+gene and protein expression assays.
+Virus Infection of Human Pulmonary Epithelial Cells
+A549 cells were seeded on 6-well plates, with 7.5 × 105
+cells
+per well. Cells were infected with viruses at a multiplicity of
+infection of 0.0001. The virus inoculum was removed, and the
+cells were washed 3 times and then incubated in serum-free
+DMEM supplemented with 0.3% bovine serum albumin. At 6,
+12, 24, 48, 72, 96, and 144 hours after infection, viruses in the
+Cytokine Response in Human Macrophages · JID 2013:207 (15 January) · 263
+supernatants were collected and titrated by means of plaque
+assays in MDCK cells.
+Cytokine Measurements
+The concentrations of 7 cytokines (interleukin-6 [IL-6],
+CXCL10 [IP-10], CCL3 [MIP-1], CCL4 [MIP-1], CCL5
+[RANTES], tumor necrosis factor  [TNF-], and CXCL9
+[MIG]) in supernatants from human macrophages infected
+with H5N1 viruses were determined by using the Bio-Plex
+human x-plex (Bio-Rad Laboratories) and by using the Bio-
+Plex protein array system (Bio-Rad Laboratories) according to
+the manufacturer's instructions.
+RNA Isolation and Integrity
+Infected cells were lysed with TRIzol Reagent (Invitrogen),
+and chloroform-isoamyl alcohol (5:1) was added. The cells
+were then vortexed and centrifuged for 15 min at 12 000 × g at
+4°C. The resulting aqueous layer was subjected to RNA extrac-
+tion by using RNeasy Mini kit columns (Qiagen) according to
+the manufacturer's instructions. Isolated total RNA integrity
+was assessed by determining UV 260/280 absorbance ratios
+and by examining 28S/18S ribosomal RNA bands with an
+Agilent 2100 bioanalyzer (Agilent Technologies) according to
+the manufacturer's instructions. Only samples with high-
+quality RNA (ie, those with RNA integrity numbers >9.0)
+were used for microarray analysis.
+Microarray Analysis and Bioinformatics
+Cy3-labeled complementary RNA probe synthesis was initiat-
+ed with 50 ng of total RNA by using the Agilent Low Input
+Quick Amp Labeling kit, one color (Agilent Technologies).
+The Agilent SurePrint G3 Human GE 8 × 60 K microarrays
+(G4851) were used according to the manufacturer's instruc-
+tions. Slides were scanned with an Agilent's High-Resolution
+Microarray Scanner, and image data were processed by using
+Agilent Feature Extraction software, version 10.7.3.1. All data
+were subsequently uploaded into GeneSpring GX, version
+11.5, for data analysis. In accordance with proposed MIAME
+(minimum information about a microarray experiment) stan-
+dards, microarray data gained in this study are publically
+available at the Gene Expression Omnibus (GEO) database
+(http:www.ncbi.nlm.nih.gov/geo/) under the accession number
+GSE40711. For the microarray data analysis, each gene expres-
+sion array data set was normalized to the in silico pool for
+mock-infected cells (n = 3).
+Statistically significant differences in gene expression between
+IDN3006 and VN3028IIcl2 and between IDN3006 and
+IDN3006/cl2PA were determined by using 1-way analysis of
+variance (ANOVA) (P < .05) with the Tukey honestly significant
+difference (HSD) post hoc test and the Benjamini-Hochberg
+false discovery rate correction. Differentially expressed genes
+were further filtered to include genes whose expression changed
+at least 2.0-fold relative to the level in the IDN3006-infected
+group. Only the genes whose expression showed at least 2.0-
+fold changes and statistical significance (P < .05) in 2 pairs of
+comparisons involving IDN3006 versus VN3028IIcl2 and
+IDN3006 versus IDN3006/cl2PA were assigned to a Gene On-
+tology group or were uploaded into Ingenuity Pathway Analysis
+(IPA; Ingenuity Systems) to identify the functions and pathways
+that were enriched in the gene set. To identify the gene network
+that enriched the differentially expressed genes, genes were con-
+nected in a de novo network based on known interactions in
+IPA. Genes that were not directly or indirectly connectable to
+each other were not analyzed further. For all analysis, P values
+were calculated by using the Fisher exact test to identify biolog-
+ical functions and pathways that were significant (P < .05).
+Quantitative Real-Time Polymerase Chain Reaction (PCR)
+Analysis
+Quantitative real-time PCR was performed to determine the
+expression levels of viral PA, hemagglutinin (HA), NP, matrix
+(M), and NS genes. RNA was reverse-transcribed with oligo-
+nucleotide dT and SuperScript III reverse transcriptase (Invi-
+trogen). Quantitative real-time PCR was conducted with the
+SYBR Green PCR master mix (Invitrogen) and performed on
+the ABI7900HT Fast Real-Time PCR System platform. Target
+gene messenger RNA (mRNA) levels were normalized to 18S
+human ribosomal RNA according to the 2-Ct
+calculation
+[20]. Primer sequences are available on request.
+Western Blotting
+Infected cells were lysed with 2 × sample buffer (Invitrogen),
+and samples were loaded onto precast gels for 4%­20% sodium
+dodecyl sulfate­polyacrylamide gel electrophoresis (Bio-Rad
+Laboratories). Proteins were transferred electrophoretically to
+polyvinylidene fluoride membrane (Millipore) in transfer buffer
+(100 mM Tris, 190 mM glycine, and 10% methanol). The
+membranes were blocked for 1 hour at room temperature with
+Blocking One (Nacalai Tesque) and were then incubated with
+primary antibodies for 1 hour at room temperature. Anti-PA
+and anti-NS1 mouse monoclonal antibodies (1:10 000) and
+anti-H5N1 rabbit polyclonal antibodies (1:10 000) for detection
+of HA, NP, and M1 were used. After being washed 3 times with
+phosphate-buffered saline containing 0.05% Tween-20 (PBS-T),
+the membranes were incubated with anti-mouse (1:10 000) or
+anti-rabbit (1:10 000) secondary antibodies conjugated with
+horse radish peroxidase (GE Healthcare) for 1 hour at room
+temperature. After 3 more washes with PBS-T, specific proteins
+were detected by using the ECL Prime Western Blotting Detec-
+tion System (GE Healthcare). Photography was conducted with
+the VersaDoc Imaging System (Bio-Rad laboratories).
+Minigenome Assay
+Human macrophages or A549 cells were transfected with the
+expression plasmids for PB2, PB1, PA, and NP (0.25 g each),
+264 · JID 2013:207 (15 January) · Sakabe et al
+pPoll-NP(0)luc2(0) [21], and ptkRluc (0.025 g each) by using
+the jetPEI-Macrophage DNA transfection reagent (Polyplus
+transfection) or the Lipofectamine LTX and Plus Reagent (Invi-
+trogen), respectively. The cells were then harvested 48 or 24
+hours after transfection, respectively. Luciferase activity was as-
+sessed by using a dual-luciferase reporter assay system (Promega)
+according to the manufacturer's instructions. Photinus luciferase
+activity was standardized against Renilla luciferase activity.
+Animal Experiments
+Female BALB/c mice aged 5­6 weeks ( Japan SLC) were used
+in the study. To investigate viral pathogenicity in mice, 4 mice
+per group were anaesthetized with isoflurane and intranasally
+infected with 50 L of serial dilutions of viruses, creating
+doses ranging from 100
+to 103
+plaque-forming units (PFU).
+Mice were monitored daily for morbidity and mortality for up
+to 14 days after infection. The percentage changes in body
+weights were calculated by comparing the weight of each
+mouse at each time point to its weight on day 0. The 50%
+mouse lethal dose for each virus was calculated by using the
+Reed-Muench method [22]. To determine virus growth in
+mouse organs, 9 mice per group were intranasally infected
+with 102
+PFU of IDN3006 or IDN3006/cl2PA. Three mice per
+group were euthanized on days 2, 4, and 7 after infection, and
+lungs, nasal turbinates, livers, spleens, kidneys, intestines, and
+brains were collected. Virus in organs was titrated by using
+plaque assays in MDCK cells.
+Statistical Analysis
+Statistically significant differences in cytokine expression, virus
+growth, luciferase activity, and viral mRNA expression were
+determined by using 1- or 2-way ANOVA with the post hoc
+Tukey HSD test. In using 2-way ANOVA, we first confirmed
+that there were no interaction effects between 2 factors, and
+then we determined whether there were statistically significant
+differences in virus growth or viral mRNA levels among the
+viruses during infection. Statistically significant differences in
+mouse survival were determined by using the log-rank test.
+For all statistical tests, values were considered to be signifi-
+cantly different when the P value was <.05.
+Accession Numbers
+The viral nucleotide sequences described in this study are
+available from GenBank under the following accession
+numbers: HM114456 for the PA gene of VN3028IIcl2 and
+JX235398 for IDN3006.
+RESULTS
+Contribution of the PA Gene to Cytokine Induction in Human
+Macrophages
+To determine the molecular basis for the induction of cyto-
+kines in human macrophages, we used 2 H5N1 viruses that
+differed in their ability to induce cytokines in human macro-
+phages. We first generated wild-type VN3028IIcl2 (high cyto-
+kine inducer) and IDN3006 (low cytokine inducer) by using
+reverse genetics and confirmed the difference in their abilities
+to induce cytokines by infecting human monocyte­derived
+macrophages with them and measuring the expression
+levels of 7 cytokines (IL-6, IP-10, MIP-1, MIP-1, RANTES,
+TNF-, and MIG; Figure 1). VN3028IIcl2 induced signifi-
+cantly higher expression levels of all of the cytokines tested
+than did IDN3006 in human macrophages. To identify the
+gene segments responsible for the difference in cytokine in-
+duction between these 2 viruses, we generated 2 reassortant
+viruses: VN3028IIcl2(3P + NP), which possesses the polymer-
+ase complex genes (PB2, PB1, and PA) and the NP gene from
+VN3028IIcl2 and its remaining genes from IDN3006, and
+VN3028IIcl2(HA + NA + M + NS), which possesses the HA,
+neuraminidase (NA), M, and NS genes from VN3028IIcl2 and
+its remaining genes from IDN3006. VN3028IIcl2(3P + NP)
+induced statistically significantly higher expression levels of all
+of cytokines tested than did IDN3006, whereas VN3028IIcl2
+(HA + NA + M + NS) did not (Figure 1A). These results indi-
+cate that the PB2, PB1, PA, and NP genes contribute to the
+high cytokine induction property of the VN3028IIcl2 virus in
+human macrophages.
+To identify the gene segments responsible for the high cyto-
+kine induction among those that encode the proteins in the ri-
+bonucleoprotein complex (ie. PB2, PB1, PA, and NP), we
+generated a series of reassortants possessing a single gene
+segment derived from VN3028IIcl2 in the IDN3006 backbone
+(eg, IDN3006/cl2PB2 indicates a virus that possesses the
+PB2 gene from VN3028IIcl2 and its remaining 7 genes from
+IDN3006) and evaluated the cytokine expression levels
+(Figure 1B). The reassortants that possessed the single PB2,
+PB1, or NP gene from VN3028IIcl2 did not induce cytokine
+levels similar to those produced by the parental VN3028IIcl2.
+However, the cytokine expression induced by IDN3006/cl2PA
+was as high as that induced by VN3028IIcl2; the expression
+levels of RANTES and TNF- induced by IDN3006/cl2PA were
+even statistically significantly higher than those induced by
+VN3028IIcl2. Thus, the PA gene of VN3028IIcl2 was responsi-
+ble for the high cytokine induction in human macrophages.
+Evaluation of the Effect of Viral Replicative Properties on
+Cytokine Induction
+The PA subunit plays a role in virus replication in infected
+cells [23, 24]. To evaluate whether the high cytokine induction
+phenotype of VN3028IIcl2 is linked to high viral replication
+in infected cells, as observed with viruses possessing the PB2-
+E627K mutation [13], we compared the replication in human
+macrophages of IDN3006, VN3028IIcl2, and IDN3006/cl2PA
+(Figure 2) by determining virus titers, polymerase activity,
+viral protein (PA, HA, NP, M1, and NS1) expression, and viral
+Cytokine Response in Human Macrophages · JID 2013:207 (15 January) · 265
+Figure 1. Cytokine production in human macrophages. Human monocyte­derived macrophages were infected with a series of reassortants between
+IDN3006 and VN3028IIcl2 at a multiplicity of infection of 2. At 12 hours after infection, the supernatants of the infected cells were collected, and the
+concentrations of 7 cytokines (interleukin-6 [IL-6], CXCL10 [IP-10], CCL3 [MIP-1], CCL4 [MIP-1], CCL5 [RANTES], tumor necrosis factor  [TNF-], and
+CXCL9 [MIG]) were measured. All values were normalized to the value of IDN3006. A, Contributions of a set of 4 viral genes to the cytokine production
+were evaluated. B, Single viral gene segments responsible for the cytokine induction were determined. The values are means ± SD (n = 3). *P < .05,
+compared with the IDN3006 group (1-way analysis of variance with the post hoc Tukey honestly significant difference test). Abbreviations: HA, hemag-
+glutinin; M, matrix; NA, neuraminidase; NP, nucleoprotein; NS, nonstructural.
+266 · JID 2013:207 (15 January) · Sakabe et al
+mRNA gene (PA, HA, NP, M, and NS) expression. Among the
+3 viruses tested, there were no statistically significant differences
+in the virus titers in the supernatants of infected cells, al-
+though IDN3006/cl2PA replicated slightly better than IDN3006
+or VN3028IIcl2 at 6 hours after infection (Figure 2A). Al-
+though VN3028IIcl2 showed statistically significantly higher
+polymerase activity as compared to IDN3006 (Figure 2B),
+IDN3006/cl2PA exhibited polymerase activity similar to that
+of IDN3006, suggesting that the PA gene of VN3028IIcl2 did
+not substantially affect the polymerase activity. While only PA
+gene expression was statistically significantly higher in the
+IDN3006-infected cells as compared to cells infected with
+VN3028IIcl2 or IDN3006/cl2PA, there were no substantial dif-
+ferences in the expression levels of other viral proteins or
+genes tested among the 3 viruses (Figures 2C and 2D). Thus,
+we found no appreciable differences in the viral replicative
+properties of these 3 viruses even though they differed in their
+cytokine-inducing abilities in human macrophages. These
+results indicate that the high cytokine induction by VN3028IIcl2
+was not related to efficient virus growth in human macrophages.
+The Role of the PA Gene of VN3028IIcl2 in the Differential
+Regulation of Host Genes Involved in Hypercytokinemia
+To gain further insights into how the PA gene of VN3028IIcl2
+affects cytokine production in human macrophages, we examined
+all of the gene expression levels in the cells infected with
+IDN3006, VN3028IIcl2, and IDN3006/cl2PA. The gene ex-
+pression of IP-10, MIP-1, RANTES, TNF-, and MIG con-
+firmed the differential upregulation at the transcriptional level
+in cells infected with VN3028IIcl2 or IDN3006/cl2PA, com-
+pared with those infected with IDN3006 that was observed at
+the protein level, although the differential upregulation of IL-6
+and MIP-1 was confirmed only in cells infected with
+IDN3006/cl2PA, compared with IDN3006 (Figures 1 and 3A).
+Microarray analyses further identified 129 genes that were stat-
+istically significantly differentially expressed in the human
+macrophages infected with VN3028IIcl2 and IDN3006/cl2PA
+as compared to IDN3006 (Supplementary Table 1). Gene On-
+tology analysis revealed that these genes were enriched with
+cytokine-related genes (Figure 3B). IPA network analyses iden-
+tified a gene network composed of 48 genes that were signifi-
+cantly differentially expressed in the macrophages infected
+with VN3028IIcl2 and IDN3006/cl2PA as compared to
+IDN3006 (Figure 3C). Of note, this network was enriched
+with genes related to hypercytokinemia, represented by
+IFNA4, IFNA8, IFNA14, IFNB1, IL12A, IL29, and CXCL10.
+These results indicate that the PA amino acid differences are
+responsible for the differential expression of the various cyto-
+kines related to hypercytokinemia at the gene transcriptional
+level in human macrophages.
+Figure 2. Viral growth properties in human macrophages. Human monocyte­derived macrophages were infected with IDN3006, VN3028IIcl2, or
+IDN3006/cl2PA at a multiplicity of infection of 2. A, At 6, 12, and 24 hours after infection, the virus titers in the supernatants were determined by means
+of plaque assays in Madin-Darby canine kidney cells. B, The 4 viral protein expression plasmids (basic polymerase 2 [PB2], basic polymerase 1 [PB1],
+acidic polymerase [PA], and nucleoprotein [NP]) of IDN3006, VN3028IIcl2, or IND3006/cl2PA together with pPollNP(0)luc2(0) for the production of virus-
+like RNA encoding the reporter luciferase gene were transfected into human monocyte­derived macrophages and assayed for luciferase activities 48
+hours after transfection at 37°C. The values were standardized to the value for the ribonucleoprotein complex protein activity of IDN3006. C and D, Viral
+proteins (PA, hemagglutinin [HA], NP, matrix [M], matrix 1 [M1], nonstructural [NS], and nonstructural 1 [NS1]; C) and messenger RNA (mRNA; PA, HA,
+NP, M, and NS; D) expression levels were measured by means of Western blotting and quantitative real-time polymerase chain reaction, respectively.
+The values are means ± SD (n = 3). *P < .05 among the 3 groups (2-way analysis of variance with the post hoc Tukey honestly significant difference test).
+Cytokine Response in Human Macrophages · JID 2013:207 (15 January) · 267
+Contribution of Cytokine Induction to Pathogenicity in Mice
+To examine whether the VN3028IIcl2 PA gene that conferred
+high cytokine induction is associated with pathogenicity in
+mammals, we compared the pathogenicity in mice of
+IDN3006 with that of IDN3006/cl2PA. Four mice per group
+were infected with 100
+­103
+PFU of each virus, and mortality
+and morbidity were observed for 14 days after infection
+(Figure 4). Mice infected with 102
+PFU of IDN3006/cl2PA ex-
+hibited 100% mortality, whereas 75% of mice infected with
+IDN3006 survived. However, there were no statistically
+Figure 3. Genes differentially expressed between low and high cytokine inducer H5N1 viruses in human macrophages. Human monocyte­derived
+macrophages were infected with IDN3006, VN3028IIcl2, or IDN3006/cl2PA at a multiplicity of infection of 2. At 6 hours after infection, the cells were
+harvested and subjected to microarray analysis. A, Gene expression levels determined by microarray are shown for the 7 cytokines tested in Figure 1.
+Yellow indicates P < .05, compared with the IDN3006-infected group (1-way analysis of variance [ANOVA] with the Tukey honestly significant difference
+(HSD) post hoc test). All values were normalized to the values of the mock group. B, A total of 129 genes were selected by 1-way ANOVA with the
+Tukey HSD post hoc test (P < .05) and by filtering the genes whose expression changed at least 2.0-fold relative to the level in the IDN3006-infected
+group. The set of genes differentially regulated in both pairs of VN3028IIcl2 and IDN3006/cl2PA as compared to IDN3006 was functionally annotated
+by means of Gene Ontology (GO) grouping. Statistical significance was determined by using the Fisher exact test (P < .05). C, The differentially expressed
+genes were connected in a de novo network based on known interactions in the Ingenuity Pathway Analysis (IPA) knowledgebase and functionally
+annotated by use of IPA canonical pathways. Red indicates genes whose expression showed a change of >4.0-fold for both VN3028IIcl2 and IDN3006/
+cl2PA, relative to IDN3006. Yellow indicates genes whose expression showed a change of >4.0-fold for IDN3006/cl2PA, relative to IDN3006. The genes
+enriched with the top canonical pathway of "Role of Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza" are boxed.
+268 · JID 2013:207 (15 January) · Sakabe et al
+significant differences in mouse survival at any infectious dose
+tested. The 50% mouse lethal doses of IDN3006 and
+IDN3006/cl2PA were 2.1 × 102
+and 5.9 PFU, respectively.
+Thus, there was a trend toward increased virulence in mice for
+IDN3006/cl2PA, compared with IDN3006, indicating that the
+VN3028IIcl2 PA contributed to virus pathogenicity in mice.
+These results suggest that the high cytokine induction pheno-
+type contributes to high pathogenicity in mammals.
+DISCUSSION
+Here, we demonstrated that the PA gene of an H5N1 virus
+confers high levels of cytokine expression in human mono-
+cyte­derived macrophages. We also showed that PA enhances
+pathogenicity in mammals without altered virus growth prop-
+erties in human macrophages.
+There are 8 amino acid differences in the PA protein
+between IDN3006 (low cytokine inducer) and VN3028IIcl2
+(high cytokine inducer) (Table 1). Yet, we did not find any PA
+amino acid residues common to either the high or low cyto-
+kine inducers examined in our previous study (Table 1) [16].
+Although we attempted to identify the amino acid substitu-
+tions responsible for the high cytokine production in macro-
+phages, a single amino acid mutation did not substantially
+change the cytokine induction level (data not shown), suggest-
+ing a synergistic effect among the PA amino acids on cytokine
+induction. The influenza polymerase complex has a role in in-
+hibiting type I interferon in infected cells [25]. Since the PA
+amino acid differences tested here did not affect the
+Figure 4. Contribution of the acidic polymerase of VN3028IIcl2 to pathogenicity in mice. Four mice per group were intranasally infected with serially
+diluted viruses ranging from 100
+to 103
+plaque-forming units (PFU) of IDN3006 or IDN3006/cl2PA, and survival (A) and body weight changes (B) were
+monitored daily for 14 days after infection. The values are means ± SD (n = 4) for the mice that were alive at each time point. P values were determined
+by using the log-rank test for each pair.
+Table 1. Amino Acid Differences in Acidic Polymerase Between IDN3006 and VN3028IIcl2
+Amino Acid IDN3006 VN3028IIcl2 Low Cytokine Inducersa
+High Cytokine Inducersa
+Known Functionb
+90 V M V V/M ...
+94 L I L/I I ...
+163 I L I/L L cRNA interaction [26]
+327 A E A/E E ...
+391 T R T/K K/R ...
+520 Y F Y/F F ...
+594 G S G/S S ...
+653 S P S/P P PB1 binding [26]
+Abbreviations: cRNA, complementary RNA; PB1, basic polymerase 1.
+a
+Cytokine induction phenotype was determined in our previous study [16]. Low cytokine inducers include IDN3006 and A/Vietnam/UT31203A/07; high cytokine
+inducers include VN3028IIcl2 and A/Hong Kong/483/97.
+b
+Functions previously reported to be associated with these amino acid positions.
+Cytokine Response in Human Macrophages · JID 2013:207 (15 January) · 269
+polymerase activity in human macrophages, the host respons-
+es in the infected cells may have been affected by the altered
+anti-interferon activity of the polymerase complex, possibly
+mediated by PA or by some as yet unknown function of PA.
+Virus growth assay revealed that PA was not responsible for
+the differences between the high and low cytokine inducers
+with respect to viral transcription, translation, and replication
+in human macrophages. Interestingly, IDN3006 showed statis-
+tically significantly higher growth than IDN3006/cl2PA in
+human pulmonary epithelial cells (Supplementary Figure 1).
+Viruses with efficient viral replication in epithelial cells are
+generally highly pathogenic to mice, represented by viruses
+with the PB2-E627K mutation, which enhances viral replica-
+tion in human pulmonary epithelial cells [18]. When we in-
+vestigated the virus titers in mouse organs, there were no
+substantial differences between IDN3006 and IDN3006/cl2PA
+in terms of virus growth in any mouse organ tested (Supple-
+mentary Figure 2). Our results, including virus growth, cyto-
+kine production, and gene expression in human macrophages,
+indicate that the ability to induce high levels of cytokines in
+macrophages, rather than viral replication efficiency in respira-
+tory epithelial cells, may be responsible for enhanced pathoge-
+nicity in mice.
+In patients infected with H5N1 viruses, high levels of cyto-
+kines, represented by MCP-1, MIG, IL-8, IL-10, IL-6, IFN-, and
+RANTES, are generally observed in their sera [6, 9]. Since the
+PA of a high cytokine inducer was responsible for high levels of
+these cytokines in macrophages, PA may be a factor in the
+increased mortality mediated by hypercytokinemia in humans
+infected with H5N1 viruses. However, both viruses used in this
+study were isolated from patients who had lethal outcomes, sug-
+gesting the involvement of other unknown virulence determinants
+in the high pathogenicity of H5N1 viruses in humans. Neverthe-
+less, our results have clinical implications for cytokine-mediated
+pathogenesis in humans infected with H5N1 viruses.
+Supplementary Data
+Supplementary materials are available at The Journal of Infectious Diseases
+online (http://jid.oxfordjournals.org/). Supplementary materials consist of
+data provided by the author that are published to benefit the reader. The
+posted materials are not copyedited. The contents of all supplementary
+data are the sole responsibility of the authors. Questions or messages
+regarding errors should be addressed to the author.
+Notes
+Acknowledgments. We thank Susan Watson for editing the manuscript.
+Financial support. This work was supported by a grant-in-aid for
+Specially Promoted Research and by the Japan Initiative for Global
+Research Network on Infectious Diseases from the Ministry of Education,
+Culture, Sports, Science, and Technology, Japan; by a grant-in-aid of Sci-
+entific Research from the Ministry of Health, Labor, and Welfare, Japan;
+by a grant-in-aid for Exploratory Research for Advanced Technology
+(ERATO) from Japan Science and Technology Agency (JST), Japan; and
+by National Institute of Allergy and Infectious Diseases Public Health
+Service Research grants. S. S. and R. T. were supported by Research
+Fellowships from the Japan Society for the Promotion of Science for
+Young Scientists.
+Potential conflicts of interest. All authors: No reported conflicts.
+All authors have submitted the ICMJE Form for Disclosure of Potential
+Conflicts of Interest. Conflicts that the editors consider relevant to the
+content of the manuscript have been disclosed.
+References
+1. Guan Y, Poon LL, Cheung CY, et al. H5N1 influenza: a protean pan-
+demic threat. Proc Natl Acad Sci U S A 2004; 101:8156­61.
+2. Li KS, Guan Y, Wang J, et al. Genesis of a highly pathogenic and po-
+tentially pandemic H5N1 influenza virus in eastern Asia. Nature
+2004; 430:209­13.
+3. World Health Organization (WHO). Cumulative number of con-
+firmed human cases of avian influenza A(H5N1) reported to WHO.
+Geneva: WHO, 2012. http://www.who.int/influenza/human_animal_
+interface/H5N1_cumulative_table_archives/en/index.html. Accessed 10
+September 2012.
+4. Hui DS. Review of clinical symptoms and spectrum in humans with
+influenza A/H5N1 infection. Respirology 2008; 13(Suppl 1):S10­3.
+5. de Jong MD, Bach VC, Phan TQ, et al. Fatal avian influenza A
+(H5N1) in a child presenting with diarrhea followed by coma. N Engl
+J Med 2005; 352:686­91.
+6. de Jong MD, Simmons CP, Thanh TT, et al. Fatal outcome of human
+influenza A (H5N1) is associated with high viral load and hypercyto-
+kinemia. Nat Med 2006; 12:1203­7.
+7. Abdel-Ghafar AN, Chotpitayasunondh T, Gao Z, et al. Update on
+avian influenza A (H5N1) virus infection in humans. N Engl J Med
+2008; 358:261­73.
+8. Yuen KY, Chan PK, Peiris M, et al. Clinical features and rapid viral
+diagnosis of human disease associated with avian influenza A H5N1
+virus. Lancet 1998; 351:467­71.
+9. Peiris JS, Yu WC, Leung CW, et al. Re-emergence of fatal human in-
+fluenza A subtype H5N1 disease. Lancet 2004; 363:617­9.
+10. van Riel D, Munster VJ, de Wit E, et al. H5N1 virus attachment to
+lower respiratory tract. Science 2006; 312:399.
+11. Cheung CY, Poon LL, Lau AS, et al. Induction of proinflammatory
+cytokines in human macrophages by influenza A (H5N1) viruses: a mech-
+anism for the unusual severity of human disease?. Lancet 2002; 360:
+1831­7.
+12. Lee SM, Gardy JL, Cheung CY, et al. Systems-level comparison of
+host-responses elicited by avian H5N1 and seasonal H1N1 influenza
+viruses in primary human macrophages. PLoS One 2009; 4:e8072.
+13. Mok KP, Wong CH, Cheung CY, et al. Viral genetic determinants of
+H5N1 influenza viruses that contribute to cytokine dysregulation. J
+Infect Dis 2009; 200:1104­12.
+14. Woo PC, Tung ET, Chan KH, Lau CC, Lau SK, Yuen KY.
+Cytokine profiles induced by the novel swine-origin influenza A/H1N1
+virus: implications for treatment strategies. J Infect Dis 2010; 201:
+346­53.
+15. Hui KP, Lee SM, Cheung CY, et al. H5N1 influenza virus-induced
+mediators upregulate RIG-I in uninfected cells by paracrine effects
+contributing to amplified cytokine cascades. J Infect Dis 2011; 204:
+1866­78.
+16. Sakabe S, Iwatsuki-Horimoto K, Takano R, et al. Cytokine production
+by primary human macrophages infected with highly pathogenic
+H5N1 or pandemic H1N1 2009 influenza viruses. J Gen Virol 2011;
+92:1428­34.
+17. Monteerarat Y, Sakabe S, Ngamurulert S, et al. Induction of TNF-
+alpha in human macrophages by avian and human influenza viruses.
+Arch Virol 2010; 155:1273­9.
+18. Hatta M, Gao P, Halfmann P, Kawaoka Y. Molecular basis for high
+virulence of Hong Kong H5N1 influenza A viruses. Science 2001;
+293:1840­2.
+270 · JID 2013:207 (15 January) · Sakabe et al
+19. Neumann G, Watanabe T, Ito H, et al. Generation of influenza A
+viruses entirely from cloned cDNAs. Proc Natl Acad Sci U S A 1999;
+96:9345­50.
+20. Livak KJ, Schmittgen TD. Analysis of relative gene expression data
+using real-time quantitative PCR and the 2(-Delta Delta C(T))
+Method. Methods 2001; 25:402­8.
+21. Octaviani CP, Goto H, Kawaoka Y. Reassortment between seasonal H1N1
+and pandemic (H1N1) 2009 influenza viruses is restricted by limited
+compatibility among polymerase subunits. J Virol 2011; 85:8449­52.
+22. Reed LJ, Muench H. A simple method of estimating fifty percent end
+points. Am J Hyg 1938; 27:493­7.
+23. Honda A, Ishihama A. The molecular anatomy of influenza virus
+RNA polymerase. Biol Chem 1997; 378:483­8.
+24. Huang TS, Palese P, Krystal M. Determination of influenza virus
+proteins required for genome replication. J Virol 1990; 64:
+5669­73.
+25. Iwai A, Shiozaki T, Kawai T, et al. Influenza A virus polymerase inhib-
+its type I interferon induction by binding to interferon beta promoter
+stimulator 1. J Biol Chem 2010; 285:32064­74.
+26. Naffakh N, Tomoiu A, Rameix-Welti MA, van der Werf S. Host re-
+striction of avian influenza viruses at the level of the ribonucleopro-
+teins. Annu Rev Microbiol 2008; 62:403­24.
+Cytokine Response in Human Macrophages · JID 2013:207 (15 January) · 271
+

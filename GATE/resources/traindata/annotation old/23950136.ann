@@ -1,0 +1,14 @@
+T69	Protein 104 112	Chaochao
+#69	AnnotatorNotes T69	BEGIN
+T70	Protein 272 277	China
+#70	AnnotatorNotes T70	END
+T1	Protein 740 748	Received
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 1228 1229	.
+#2	AnnotatorNotes T2	END
+T32	Location 4251 4256	China
+#32	AnnotatorNotes T32	<latlng>35,105</latlng><geoID>1814991</geoID>
+T71	Protein 4872 4887	ACKNOWLEDGMENTS
+#71	AnnotatorNotes T71	BEGIN
+T72	Protein 7027 7029	13
+#72	AnnotatorNotes T72	END

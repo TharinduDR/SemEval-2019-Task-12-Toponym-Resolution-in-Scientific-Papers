@@ -1,0 +1,123 @@
+T1	Location 74 80	Brazil
+#1	AnnotatorNotes T1	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T217	Protein 125 131	Thiago
+#217	AnnotatorNotes T217	BEGIN
+T218	Protein 1094 1100	Brazil
+#218	AnnotatorNotes T218	END
+T60	Location 1431 1437	Brazil
+#60	AnnotatorNotes T60	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T61	Location 1633 1639	Brazil
+#61	AnnotatorNotes T61	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T62	Location 1930 1936	Brazil
+#62	AnnotatorNotes T62	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T63	Location 1938 1947	Argentina
+#63	AnnotatorNotes T63	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T64	Location 1952 1960	Paraguay
+#64	AnnotatorNotes T64	<latlng>-23,-58</latlng><geoID>3437598</geoID>
+T67	Location 2135 2141	Brazil
+#67	AnnotatorNotes T67	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T9	Protein 2275 2283	Citation
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 3635 3637	br
+#10	AnnotatorNotes T10	END
+T13	Protein 5202 5206	PLOS
+#13	AnnotatorNotes T13	BEGIN
+T18	Protein 5269 5275	e80081
+#18	AnnotatorNotes T18	END
+T83	Location 5537 5543	Brazil
+#83	AnnotatorNotes T83	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T84	Location 5662 5668	Brazil
+#84	AnnotatorNotes T84	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T90	Location 7138 7144	Brazil
+#90	AnnotatorNotes T90	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T2	Location 8046 8048	CA
+#2	AnnotatorNotes T2	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T3	Location 8492 8494	NY
+#3	AnnotatorNotes T3	<latlng>43.00035,-75.4999</latlng><pop>19274244</pop><geoID>5128638</geoID>
+T93	Location 8555 8560	Logan
+#93	AnnotatorNotes T93	<latlng>41.74079,-111.84184</latlng><pop>48174</pop><geoID>7173684</geoID>
+T94	Location 8562 8566	Utah
+#94	AnnotatorNotes T94	<latlng>39.25024,-111.75103</latlng><pop>2427340</pop><geoID>5549030</geoID>
+T5	Location 9133 9135	CA
+#5	AnnotatorNotes T5	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T6	Location 10246 10248	CA
+#6	AnnotatorNotes T6	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T102	Location 10689 10697	Valencia
+#102	AnnotatorNotes T102	<latlng>34.44361,-118.60953</latlng><pop>148456</pop><geoID>5405288</geoID>
+T7	Location 10699 10701	CA
+#7	AnnotatorNotes T7	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T8	Location 10791 10793	CA
+#8	AnnotatorNotes T8	<latlng>37.25022,-119.75126</latlng><pop>37691912</pop><geoID>5332921</geoID>
+T106	Location 10975 10983	Michigan
+#106	AnnotatorNotes T106	<latlng>44.25029,-85.50033</latlng><pop>9883360</pop><geoID>5001836</geoID>
+T107	Location 10985 10988	USA
+#107	AnnotatorNotes T107	<latlng>38,-97</latlng><geoID>6252001</geoID>
+T109	Location 11181 11187	Brazil
+#109	AnnotatorNotes T109	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T19	Protein 11189 11193	PLOS
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 11256 11262	e80081
+#20	AnnotatorNotes T20	END
+T110	Location 11547 11553	Brazil
+#110	AnnotatorNotes T110	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T112	Location 12756 12762	Brazil
+#112	AnnotatorNotes T112	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T113	Location 12841 12847	Brazil
+#113	AnnotatorNotes T113	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T117	Location 14535 14547	Minas Gerais
+#117	AnnotatorNotes T117	<latlng>-18.0,-44.0</latlng><pop>19595309</pop><geoID>3457153</geoID>
+T120	Location 15138 15152	Santa Catarina
+#120	AnnotatorNotes T120	<latlng>-27,-50</latlng><pop>6249682</pop><geoID>3450387</geoID>
+T121	Location 15159 15165	Parana
+#121	AnnotatorNotes T121	<latlng>-24.5,-51.33333</latlng><pop>10439601</pop><geoID>3455077</geoID>
+T21	Protein 16842 16845	doi
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 16995 17001	e80081
+#22	AnnotatorNotes T22	END
+T133	Location 17251 17257	Brazil
+#133	AnnotatorNotes T133	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T135	Location 18722 18728	Brazil
+#135	AnnotatorNotes T135	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T23	Protein 19434 19437	doi
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 19587 19593	e80081
+#24	AnnotatorNotes T24	END
+T139	Location 19656 19662	Brazil
+#139	AnnotatorNotes T139	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T140	Location 19843 19849	Brazil
+#140	AnnotatorNotes T140	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T11	Location 20075 20081	Brazil
+#11	AnnotatorNotes T11	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T141	Location 20782 20788	Brazil
+#141	AnnotatorNotes T141	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T142	Location 21080 21086	Brazil
+#142	AnnotatorNotes T142	<latlng>-10,-55</latlng><geoID>3469034</geoID>
+T145	Location 21428 21441	Foz do Iguaçu
+#145	AnnotatorNotes T145	<latlng>-25.43174,-54.45586</latlng><pop>256081</pop><geoID>6322777</geoID>
+T12	Location 21448 21460	Iguaçu Falls
+#12	AnnotatorNotes T12	<latlng>-25.66667,-54.45</latlng><pop>0</pop><geoID>3435588</geoID>
+T149	Location 21557 21570	Puerto Iguazu
+#149	AnnotatorNotes T149	<latlng>-25.59912,-54.57355</latlng><pop>32038</pop><geoID>3429777</geoID>
+T14	Location 21575 21590	Ciudad de Leste
+#14	AnnotatorNotes T14	<latlng>-25.50972,-54.61111</latlng><pop>320782</pop><geoID>3439101</geoID>
+T15	Location 21607 21620	Foz do Iguaçu
+#15	AnnotatorNotes T15	<latlng>-25.43174,-54.45586</latlng><pop>256081</pop><geoID>6322777</geoID>
+T16	Location 21834 21841;21842 21848	Foz do Iguaçu
+#16	AnnotatorNotes T16	<latlng>-25.43174,-54.45586</latlng><pop>256081</pop><geoID>6322777</geoID>
+T17	Location 21853 21868	Ciudad de Leste
+#17	AnnotatorNotes T17	<latlng>-25.50972,-54.61111</latlng><pop>320782</pop><geoID>3439101</geoID>
+T156	Location 22019 22027	Paraguay
+#156	AnnotatorNotes T156	<latlng>-23,-58</latlng><geoID>3437598</geoID>
+T157	Location 22115 22123	Paraguay
+#157	AnnotatorNotes T157	<latlng>-23,-58</latlng><geoID>3437598</geoID>
+T158	Location 22128 22137	Argentina
+#158	AnnotatorNotes T158	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T159	Location 22307 22316	Argentina
+#159	AnnotatorNotes T159	<latlng>-34,-64</latlng><geoID>3865483</geoID>
+T220	Protein 22608 22614	Author
+#220	AnnotatorNotes T220	BEGIN
+T219	Protein 28848 28854	e80081
+#219	AnnotatorNotes T219	END
+T25	Location 8477 8483;8484 8490	Grand
+ Island
+#25	AnnotatorNotes T25	<latlong>43.01976, -78.96188</latlng><geoID>5119022</geoID><pop>20813</pop>
